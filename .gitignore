@@ -1,5 +1,10 @@
-world\
-world_nether\
-world_the_end\
-logs\
-cache\
+world\*
+world_nether\*
+world_the_end\*
+logs\*
+cache\*
+world/*
+world_nether/*
+world_the_end/*
+logs/*
+cache/*
