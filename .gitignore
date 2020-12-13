@@ -23,3 +23,4 @@ cache/*
 /cache/*
 banned-ips.json
 banned-players.json
+*.db
