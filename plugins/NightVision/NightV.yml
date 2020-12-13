@@ -1,0 +1,13 @@
+Nv:
+  Reloaded: 1
+NightV:
+  Prefix: '&5[&3NV&5] '
+  NvonForYou: '&6NightVision &aenabled'
+  NvoffForYou: '&6NightVision &cdisabled'
+  NvonFromOtherPlayerSuccess: '&6Successfully &aenabled&6 NV for &a%player%'
+  NvoffFromOtherPlayerSuccess: '&6Successfully &cdisabled&6 NV for &a%player%'
+  NvonFromOtherPlayer: '&6%player% &aenabled &6your NightVision'
+  NvoffFromOtherPlayer: '&6%player% &cdisabled &6your NightVision'
+  NoPerm: '&cno permission'
+  PlayerNotFoundToGiveNV: '&ccould not find player %player%'
+  ShouldDrinkingAMilkBucketTakeAwayNV: false

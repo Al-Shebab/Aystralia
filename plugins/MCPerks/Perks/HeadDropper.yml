@@ -1,0 +1,15 @@
+Enabled: true
+TimeLasts: 60
+# No longer set here
+#PercentIncrease: 50
+CoolDown: 86400
+Name: 'Head Dropper'
+Description: 'Give a chance for heads to drop for %TimeLasts% seconds.'
+Effects:
+- 'HeadDropper:50'
+# Blacklisted mobs
+BlackListedMobs:
+- WITHER_SKELETON
+Item:
+  Material: 'PLAYER_HEAD'
+  Data: 0
