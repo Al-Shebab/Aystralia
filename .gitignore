@@ -11,6 +11,9 @@ cache/*
 *.db
 *.backup
 *.log
+.db
+.backup
+.log
 /world\*
 /world_nether\*
 /world_the_end\*
@@ -24,3 +27,8 @@ cache/*
 banned-ips.json
 banned-players.json
 *.db
+world
+world_nether
+world_the_end
+logs
+cache
