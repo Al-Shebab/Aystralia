@@ -19,15 +19,15 @@ Messages:
 ConfigVersion: 7
 Settings:
   Messages:
-    UseLoginMessage: true
-    UseSwitchWorldMessage: true
+    UseLoginMessage: false
+    UseSwitchWorldMessage: false
   Values:
     AttackSpeed: 100
   Features:
-    DisableSweepAttacks: true
+    DisableSweepAttacks: false
   Updates:
-    UseUpdateChecker: true
-    ConsoleNotify: true
-    IngameNotify: true
+    UseUpdateChecker: false
+    ConsoleNotify: false
+    IngameNotify: false
   DisabledWorlds:
   - YourWorldName
