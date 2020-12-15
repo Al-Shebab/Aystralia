@@ -579,7 +579,7 @@ Skills:
 #  Customize the kraken!
 ###
 Kraken:
-    Enabled: true
+    Enabled: false
     Tries_Before_Release: 50
     Health: 50.0
     Name: The Kraken

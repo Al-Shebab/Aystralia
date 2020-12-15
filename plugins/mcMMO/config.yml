@@ -9,15 +9,15 @@
 ###
 General:
     Locale: en_US
-    MOTD_Enabled: true
+    MOTD_Enabled: false
     # Send a message to the player when his profile was successfully loaded
     Show_Profile_Loaded: false
     # Amount of time (in minutes) to wait between saves of player information
-    Save_Interval: 10
+    Save_Interval: 15
     # Allow mcMMO to report on basic anonymous usage
-    Stats_Tracking: true
+    Stats_Tracking: false
     # Allow mcMMO to check if a new version is available
-    Update_Check: true
+    Update_Check: false
     Prefer_Beta: false
     Power_Level_Cap: 0
     # Should mcMMO truncate levels if you lower your max level cap for a skillname
@@ -25,7 +25,7 @@ General:
     # Should mcMMO print out debug messages?
     Verbose_Logging: false
     # Should mcMMO over-write configs to update, or make new ones ending in .new?
-    Config_Update_Overwrite: true
+    Config_Update_Overwrite: false
     # Play level-up sounds
     LevelUp_Sounds: true
 
@@ -39,20 +39,20 @@ General:
 ###
 Scoreboard:
     # Display player's power levels below their names?
-    Power_Level_Tags: false
+    Power_Level_Tags: true
 
     # Allow players to use "/mcscoreboard keep" to keep the scoreboard up
     Allow_Keep: true
-
+s
     # Show the /mcstats scoreboard automatically after logging in
     Show_Stats_After_Login: false
 
     # Show scoreboard tips 5 times. Tips are only displayed once for every login session.
     # Set to 0 to never show these tips.
-    Tips_Amount: 5
+    Tips_Amount: 0
 
     # Add some more color on the board :-)
-    Rainbows: false
+    Rainbows: true
 
     # Display ability names?
     Ability_Names: true
@@ -107,7 +107,7 @@ Mob_Healthbar:
     # Display_Time: Amount of time (in seconds) to display. To display permanently, set to -1
     Enabled: true
     Display_Type: HEARTS
-    Display_Time: 3
+    Display_Time: 1
 
 Database_Purging:
     # Amount of time (in hours) to wait between database purging
@@ -211,7 +211,7 @@ Mods:
 ###
 Items:
     Chimaera_Wing:
-        Enabled: true
+        Enabled: false
         Cooldown: 240
         Warmup: 5
         RecentlyHurt_Cooldown: 60
@@ -223,7 +223,7 @@ Items:
         Item_Name: FEATHER
         Sound_Enabled: true
     Flux_Pickaxe:
-        Enabled: true
+        Enabled: false
         Sound_Enabled: true
 
 #
@@ -233,16 +233,16 @@ Party:
     # Amount of time (in hours) to wait between automatically kicking old party members
     # To only run at server start, set to 0
     # To never kick old users, set to -1
-    AutoKick_Interval: 12
+    AutoKick_Interval: -1
     # Any user who hasn't connected in this many days will get kicked from their party
-    Old_Party_Member_Cutoff: 7
+    Old_Party_Member_Cutoff: -1
 
     # Settings for party share modes
     Sharing:
         ExpShare_bonus_base: 1.1
         ExpShare_bonus_increase: 1.05
-        ExpShare_bonus_cap: 1.5
-        Range: 75.0
+        ExpShare_bonus_cap: 2.5
+        Range: 200.0
 
     # Party members level up their party by earning individual experience
     # Newly created parties will not immediately have access to all the party features
@@ -256,10 +256,10 @@ Party:
         Inform_All_Party_Members_On_LevelUp: false
 
         Chat_UnlockLevel: 1
-        Teleport_UnlockLevel: 2
-        Alliance_UnlockLevel: 5
-        ItemShare_UnlockLevel: 8
-        XpShare_UnlockLevel: 10
+        Teleport_UnlockLevel: 1
+        Alliance_UnlockLevel: 1
+        ItemShare_UnlockLevel: 1
+        XpShare_UnlockLevel: 1
 
 #
 #  Settings for Abilities
@@ -537,7 +537,7 @@ Commands:
         # Prevents players from spamming /mctop or /mcrank
         Player_Cooldown: 1750
     mcmmo:
-        Donate_Message: true
+        Donate_Message: false
     inspect:
         Max_Distance: 30.0
     ptp:
@@ -550,11 +550,11 @@ Commands:
         # to teleport to, from, or within any given world.
         World_Based_Permissions: false
     partychat:
-        Chat_Prefix_Format: '[[GREEN]]([[WHITE]]{0}[[GREEN]])'
+        Chat_Prefix_Format: '[[AQUA]]Party Chat - {0}[[AQUA]]]'
         Use_Display_Names: true
-        Chat_Prefix_Format_Ally: '[[GREEN]](A)[[RESET]]'
+        Chat_Prefix_Format_Ally: '[[AQUA]](A)[[RESET]]'
     adminchat:
-        Chat_Prefix_Format: '[[AQUA]][[[WHITE]]{0}[[AQUA]]]'
+        Chat_Prefix_Format: '[[RED]]Admin Chat - {0}[[RED]]]'
         Use_Display_Names: true
 
 #
@@ -584,5 +584,5 @@ Particles:
 ###
 Sounds:
     # This setting controls the master volume. 1.0 is Max,  0 would be off
-    MasterVolume: 1.0
+    MasterVolume: 0.4
     
