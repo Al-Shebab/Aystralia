@@ -110,6 +110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-11-27 14:53:21 +1100",
+      "minecraft:river": "2020-12-16 01:20:55 +1100",
       "minecraft:wooded_hills": "2020-11-27 14:53:25 +1100"
     },
     "done": false

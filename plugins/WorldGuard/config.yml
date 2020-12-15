@@ -14,14 +14,14 @@ regions:
     use-paper-entity-origin: false
     enable: true
     invincibility-removes-mobs: false
-    cancel-chat-without-recipients: true
+    cancel-chat-without-recipients: false
     nether-portal-protection: true
     fake-player-build-override: true
     explosion-flags-block-entity-damage: true
     high-frequency-flags: false
     protect-against-liquid-flow: false
     wand: minecraft:leather
-    max-claim-volume: 30000
+    max-claim-volume: 3000000
     claim-only-inside-existing-regions: false
     location-flags-only-inside-regions: false
     max-region-count-per-player:
@@ -119,13 +119,13 @@ player-damage:
     reset-fall-on-void-teleport: false
     disable-explosion-damage: false
     disable-mob-damage: false
-    disable-death-messages: false
+    disable-death-messages: true
 chest-protection:
     enable: false
     disable-off-check: false
 crops:
-    disable-creature-trampling: false
-    disable-player-trampling: false
+    disable-creature-trampling: true
+    disable-player-trampling: true
 turtle-egg:
     disable-creature-trampling: false
     disable-player-trampling: false

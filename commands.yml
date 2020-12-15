@@ -15,5 +15,13 @@ ignore-vanilla-permissions: false
 aliases:
   icanhasbukkit:
   - version $1-
-  rtp:
-  - tpr
+  plugins:
+  - aasdawseasda
+  gmc:
+  - gamemode creative
+  gms:
+  - gamemode survival
+  gmsp:
+  - gamemode spectator
+  gma:
+  - gamemode adventure

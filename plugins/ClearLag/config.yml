@@ -15,7 +15,7 @@ config-version: 19
 # -- 'use-internal-tps' Should Clearlag use Spigot's /tps? (Updated by minutes, much slower, but more accurate!)
 settings:
   language: English
-  auto-update: true
+  auto-update: false
   enable-api: true
   use-internal-tps: true
 
@@ -25,7 +25,7 @@ settings:
 # -- 'use-permission-for-broadcasts' Should clearlag use permissions?
 # -- 'permission' What is the permission? (By default, it's bukkit's default)
 global-broadcasts:
-  enabled: true
+  enabled: false
   async: false
   use-permission-for-broadcasts: false
   permission: bukkit.broadcast
@@ -99,34 +99,26 @@ player-speed-limiter:
 #Material list: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
 # -- 'items' Lists the material names of the entities with their spawn-age (In seconds)
 item-spawn-age-setter:
-  enabled: false
+  enabled: true
   items:
-    stone: 240
-    grass: 240
-    cobblestone: 240
-    log: 240
-    stone_axe: 240
-    stone_pickaxe: 240
-    stone_sword: 240
-    wooden_axe: 240
-    wooden_pickaxe: 240
-    wooden_sword: 240
-    rotten_flesh: 240
-    gravel: 240
-    dirt: 240
-    leather: 200
-    sand: 240
-    bone: 240
-    beef: 240
-    chicken: 160
-    rabbit: 240
-    salmon: 240
-    cactus: 210
-    wool: 180
-    arrow: 160
-    PORKCHOP: 240
-    potato: 240
-    RED_TULIP: 240
+    stone: 120
+    grass: 120
+    cobblestone: 120
+    log: 120
+    rotten_flesh: 120
+    gravel: 120
+    dirt: 120
+    leather: 120
+    sand: 120
+    bone: 120
+    beef: 120
+    chicken: 120
+    rabbit: 120
+    salmon: 120
+    cactus: 120
+    wool: 120
+    arrow: 120
+    potato: 120
 
 #Should mobs be nerfed to prevent over-breeding to reduce CPU usage (And possibly raise TPS)
 #When mobs are stuck too close, collisions are extremely intensive putting a pretty mean load on the server
@@ -179,7 +171,7 @@ chunk-limiter:
 # -- Lower it is, the better your entity tick will be and the more CPU cycles you'll save
 # -- If it's too high, expect bugs / lots of lag
 mob-range:
-  enabled: false
+  enabled: true
   zombie: 30
   skeleton: 30
   creeper: 20
@@ -344,7 +336,7 @@ item-merger:
 # -- 'item-filter' What ground-items should NOT be removed during removal
 # -- 'remove-entities' What entities SHOULD be removed during removal
 auto-removal:
-  enabled: true
+  enabled: false
   broadcast-message: '&6[ClearLag] &aRemoved +RemoveAmount Entities!'
   broadcast-removal: true
   autoremoval-interval: 460
@@ -386,12 +378,12 @@ command-remove:
   broadcast-removal: false
   boat: true
   falling-block: true
-  experience-orb: true
+  experience-orb: false
   painting: false
   projectile: true
   item: true
   itemframe: false
-  minecart: true
+  minecart: false
   primed-tnt: true
   item-filter:
   # - Stone <-This item-id will be ignored during removal!

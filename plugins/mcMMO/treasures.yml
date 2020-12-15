@@ -1,6 +1,6 @@
 #
 #  Settings for Fishing
-#  Last updated on 1.6.3-b${BUILD_NUMBER}
+#  Last updated on 2.1.161-b${BUILD_NUMBER}
 ###
 Fishing:
     LEATHER_BOOTS:
@@ -442,137 +442,139 @@ Enchantment_Drop_Rates:
         EPIC: 1.50
         LEGENDARY: 0.75
 #
-#  Settings for Excavation
+#  Settings for Excavation's Archaeology
+#  If you are in retro mode, Drop_Level is multiplied by 10.
 ###
 Excavation:
     CAKE:
         Amount: 1
         XP: 3000
         Drop_Chance: 0.05
-        Drop_Level: 750
-        Drops_From: [Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
+        Drop_Level: 75
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
     GUNPOWDER:
         Amount: 1
         XP: 30
         Drop_Chance: 10.0
-        Drop_Level: 75
+        Drop_Level: 10
         Drops_From: [Gravel]
     BONE:
         Amount: 1
         XP: 30
         Drop_Chance: 10.0
-        Drop_Level: 175
+        Drop_Level: 20
         Drops_From: [Gravel]
     APPLE:
         Amount: 1
         XP: 100
         Drop_Chance: 0.1
-        Drop_Level: 250
+        Drop_Level: 25
         Drops_From: [Grass_Block, Mycelium]
     SLIME_BALL:
         Amount: 1
         XP: 100
         Drop_Chance: 5.0
-        Drop_Level: 150
+        Drop_Level: 15
         Drops_From: [Clay]
     BUCKET:
         Amount: 1
         XP: 100
         Drop_Chance: 0.1
-        Drop_Level: 500
+        Drop_Level: 50
         Drops_From: [Clay]
     NETHERRACK:
         Amount: 1
         XP: 30
         Drop_Chance: 0.5
-        Drop_Level: 850
+        Drop_Level: 85
         Drops_From: [Gravel]
     RED_MUSHROOM:
         Amount: 1
         XP: 80
         Drop_Chance: 0.5
-        Drop_Level: 500
-        Drops_From: [Dirt, Podzol, Grass_Block, Mycelium]
+        Drop_Level: 50
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Mycelium]
     BROWN_MUSHROOM:
         Amount: 1
         XP: 80
         Drop_Chance: 0.5
-        Drop_Level: 500
-        Drops_From: [Dirt, Podzol, Grass_Block, Mycelium]
+        Drop_Level: 50
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Mycelium]
     EGG:
         Amount: 1
         XP: 100
         Drop_Chance: 1.0
-        Drop_Level: 250
+        Drop_Level: 25
         Drops_From: [Grass_Block]
-    Soul_Sand:
+    SOUL_SAND:
         Amount: 1
         XP: 80
         Drop_Chance: 0.5
-        Drop_Level: 650
+        Drop_Level: 65
         Drops_From: [Sand, Red_Sand]
     CLOCK:
         Amount: 1
         XP: 100
         Drop_Chance: 0.1
-        Drop_Level: 500
+        Drop_Level: 50
         Drops_From: [Clay]
     COBWEB:
         Amount: 1
         XP: 150
         Drop_Chance: 5.0
-        Drop_Level: 750
+        Drop_Level: 75
         Drops_From: [Clay]
     STRING:
         Amount: 1
         XP: 200
         Drop_Chance: 5.0
-        Drop_Level: 250
+        Drop_Level: 25
         Drops_From: [Clay]
     GLOWSTONE_DUST:
         Amount: 1
         XP: 80
         Drop_Chance: 5.0
-        Drop_Level: 25
-        Drops_From: [Dirt, Podzol, Grass_Block, Sand, Red_Sand, Mycelium]
+        Drop_Level: 5
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Mycelium]
     MUSIC_DISC_13:
         Amount: 1
         XP: 3000
         Drop_Chance: 0.05
-        Drop_Level: 250
-        Drops_From: [Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
+        Drop_Level: 25
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
     MUSIC_DISC_CAT:
         Amount: 1
         XP: 3000
         Drop_Chance: 0.05
-        Drop_Level: 250
-        Drops_From: [Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
+        Drop_Level: 25
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
     DIAMOND:
         Amount: 1
         XP: 1000
         Drop_Chance: 0.13
-        Drop_Level: 350
-        Drops_From: [Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
+        Drop_Level: 35
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
     COCOA_BEANS:
         Amount: 1
         XP: 100
         Drop_Chance: 1.33
-        Drop_Level: 350
-        Drops_From: [Dirt, Podzol, Grass_Block, Mycelium]
+        Drop_Level: 35
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Mycelium]
     QUARTZ:
         Amount: 1
         XP: 100
         Drop_Chance: 0.5
-        Drop_Level: 850
-        Drops_From: [Dirt, Podzol, Sand, Red_Sand, Gravel, Mycelium, Soul_Sand, Soul_Soil]
+        Drop_Level: 85
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Mycelium, Soul_Sand, Soul_Soil]
     NAME_TAG:
         Amount: 1
         XP: 3000
         Drop_Chance: 0.05
-        Drop_Level: 250
-        Drops_From: [Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
+        Drop_Level: 25
+        Drops_From: [Dirt, Coarse_Dirt, Podzol, Grass_Block, Sand, Red_Sand, Gravel, Clay, Mycelium, Soul_Sand, Soul_Soil]
 #
 #  Settings for Hylian Luck
+#  If you are in retro mode, Drop_Level is multiplied by 10.
 ###
 Hylian_Luck:
     MELON_SEEDS:
@@ -630,7 +632,8 @@ Hylian_Luck:
         Drop_Level: 0
         Drops_From: [Pots]
 #
-#	Settings for Shake
+#  Settings for Shake
+#  If you are in retro mode, Drop_Level is multiplied by 10.
 ###
 Shake:
     BLAZE:
