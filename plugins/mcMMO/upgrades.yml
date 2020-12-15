@@ -8,3 +8,4 @@ Upgrades_Finished:
   DROP_SPOUT: true
   ADD_ALCHEMY: true
   ADD_UUIDS_PARTY: true
+  ADD_UUIDS: true
