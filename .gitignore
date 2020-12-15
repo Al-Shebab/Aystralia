@@ -10,4 +10,10 @@ world_nether
 world_the_end
 logs
 cache
+
 .console_history
+plugins/mcMMO/backup
+plugins/AuctionHouse/auctions.db
+plugins/AuctionHouse/auctions.db.backup
+plugins/Jobs/jobs.sqlite.db
+plugins/LuckPerms/luckperms-h2.mv.db
