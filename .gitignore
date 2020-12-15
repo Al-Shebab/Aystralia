@@ -4,6 +4,13 @@
 *.dat
 *.dat_old
 *.lock
+
+world/
+world_nether/
+world_the_end/
+logs/
+cache/
+
 world/*
 world_nether/*
 world_the_end/*
@@ -28,3 +35,6 @@ world_the_end\**
 **\world
 **\world_nether
 **\world_the_end
+world/session.lock
+world/session.lock
+logs/latest.log
