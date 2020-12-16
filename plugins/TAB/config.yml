@@ -12,36 +12,105 @@ enable-header-footer: true
 header:
   - "&f&lplay.&baystralia&f.com"
   - "&fOnline players: &b%online%"
-footer:
-  - "%animation:MyAnimation1%"
-  - "%animation:time%"
   - ""
-  - "&7Visit our webpage %animation:web%"
+footer:
+  - "&fPing: &b%ping%"
 
 #supports any numeric placeholder, set to "" to disable the feature
-yellow-number-in-tablist: "%ping%"
+yellow-number-in-tablist: ""
 
 #literally what it says
 group-sorting-priority-list:
   - owner
-  - admin
-  - mod
+  - developer
+  - staff-manager
+  - senior-administrator
+  - administrator
+  - senior-moderator
+  - moderator
   - helper
+  - support-team
+  - event-manager
+  - event-team
   - builder
-  - premium
-  - player
-  - default
+  - graphics-designer
+  - sydney
+  - melbourne
+  - brisbane
+  - perth
+  - adelaide
+  - hobart
+  - darwin
+  - member
+  - guest
 
 Groups:
-  Owner:
-    tabprefix: "&0&l[&a&lOwner&0&l] &a"
-    tagprefix: "&2&lOwner &a"
-  Admin:
-    tabprefix: "&0&l[&4&lAdmin&0&l] &1"
-    tagprefix: "%animation:admin_prefix%"
-  Player:
-    tabprefix: "&0&l[&7&lPlayer&0&l] &3"
-    tagprefix: "&2&lPlayer &3"
+  owner:
+    tabprefix: "&#ff0000&lOwner&r "
+    tagprefix: "&#ff0000&lOwner&r "
+  developer:
+    tabprefix: "&#ff2b2b&lDeveloper&r "
+    tagprefix: "&#ff2b2b&lDeveloper&r "
+  staff-manager:
+    tabprefix: "&#ff6565&lStaff Manager&r "
+    tagprefix: "&#ff6565&lStaff Manager&r "
+  senior-administrator:
+    tabprefix: "&#ff9800&lSenior Administrator&r "
+    tagprefix: "&#ff9800&lSenior Administrator&r "
+  administrator:
+    tabprefix: "&#ffc26d&lAdministrator&r "
+    tagprefix: "&#ffc26d&lAdministrator&r "
+  senior-moderator:
+    tabprefix: "&#efff00&lSenior Moderator&r "
+    tagprefix: "&#efff00&lSenior Moderator&r "
+  moderator:
+    tabprefix: "&#cdff3d&lModerator&r "
+    tagprefix: "&#cdff3d&lModerator&r "
+  helper:
+    tabprefix: "&#a3ff3d&lHelper&r "
+    tagprefix: "&#a3ff3d&lHelper&r "
+  support-team:
+    tabprefix: "&#3dff46&lSupport Team&r "
+    tagprefix: "&#3dff46&lSupport Team&r "
+  event-manager:
+    tabprefix: "&#b600c2&lEvent Manager&r "
+    tagprefix: "&#b600c2&lEvent Manager&r "
+  event-team:
+    tabprefix: "&#d700e4&lEvent Team&r "
+    tagprefix: "&#d700e4&lEvent Team&r "
+  builder:
+    tabprefix: "&#f21dff&lBuilder&r "
+    tagprefix: "&#f21dff&lBuilder&r "
+  graphics-designer:
+    tabprefix: "&#f670ff&lGraphics Designer&r "
+    tagprefix: "&#f670ff&lGraphics Designer&r "
+  sydney:
+    tabprefix: "&#3dff9a&lSydney&r "
+    tagprefix: "&#3dff9a&lSydney&r "
+  melbourne:
+    tabprefix: "&#3dffd5&lMelbourne&r "
+    tagprefix: "&#3dffd5&lMelbourne&r "
+  brisbane:
+    tabprefix: "&#3dffd5&lBrisbane&r "
+    tagprefix: "&#3dffd5&lBrisbane&r "
+  perth:
+    tabprefix: "&#3de5ff&lPerth&r "
+    tagprefix: "&#3de5ff&lPerth&r "
+  adelaide:
+    tabprefix: "&#00b7d4&lAdelaide&r "
+    tagprefix: "&#00b7d4&lAdelaide&r "
+  hobart:
+    tabprefix: "&#008ed3&lHobart&r "
+    tagprefix: "&#008ed3&lHobart&r "
+  darwin:
+    tabprefix: "&#0071d3&lDarwin&r "
+    tagprefix: "&#0071d3&lDarwin&r "
+  member:
+    tabprefix: "&#763bff&lMember&r "
+    tagprefix: "&#763bff&lMember&r "
+  guest:
+    tabprefix: "&#5d18ff&lGuest&r "
+    tagprefix: "&#5d18ff&lGuest&r "
   example_group:
     header:
       - "This is an example of per-group header/footer"
@@ -50,15 +119,15 @@ Groups:
       
   #default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting
   _OTHER_:
-    tabprefix: "%vault-prefix%"
-    tagprefix: "%vault-prefix%"
-    tabsuffix: "%afk%"
-    tagsuffix: "%afk%"
-    customtabname: "%essentialsnick%"
-    customtagname: "%essentialsnick%"
+    tabprefix: "&4ERROR"
+    tagprefix: "&4ERROR"
+    tabsuffix: ""
+    tagsuffix: ""
+    customtabname: "%cmi_user_nickname%"
+    customtagname: "%cmi_user_nickname%"
 
 Users:
-  _NEZNAMY_:
+  Al_Shebab222123123123123:
     tabprefix: "&6&lTAB Author &a"
     tagprefix: "&6&lTAB &r&a"
     abovename: "&bOh look, 3 lines of text !"
@@ -70,7 +139,7 @@ Users:
 classic-vanilla-belowname:
 
   #enabling the feature
-  enabled: true
+  enabled: false
   
   #number or numeric placeholder, supports per-player placeholders
   number: "%health%"
@@ -86,7 +155,7 @@ revert-collision-rule-in-worlds:
   - revertedworld
   
 #preventing players with spectator gamemode from being moved to the bottom of tablist with transparent name
-do-not-move-spectators: false
+do-not-move-spectators: true
 
 #allows players with tab.spectatorbypass permission to see spectators moved despite the option above enabled
 allow-spectator-bypass-permission: false
@@ -110,15 +179,15 @@ unlimited-nametag-prefix-suffix-mode:
   disable-on-boats: true
 
 per-world-settings:
-  world1:
+  world1123123:
     header:
       - "an example of world with custom"
     footer:
       - "header/footer and prefix/suffix"
     Groups:
-      Owner:
-        tabprefix: "&0&l[&a&lOwner&0&l] &a"
-        tagprefix: "&2&lOwner &a"
+      owner:
+        tabprefix: "&#ff0000&lOwner&r "
+        tagprefix: "&#ff0000&lOwner&r "
         
   #separating multiple worlds with "-"
   world2-world3:
@@ -128,7 +197,7 @@ per-world-settings:
 
 placeholders:
   #output of %afk%
-  afk-yes: " &4*&4&lAFK&4*&r"
+  afk-yes: ""
   afk-no: ""
   
   #%date%
@@ -147,14 +216,7 @@ placeholders:
     
 #aliases for %rank%, this is not the place where group prefix is defined!
 rank-aliases:
-  Admin: "&4&lADMIN"
-  Mod: "&b&lMOD"
-  Premium: "&6&lPREMIUM"
-  Ultra: "&b&lULTRA"
-  Legend: "&a&lLEGEND"
-  Titan: "&c&lTITAN"
-  Youtuber: "&c&lYOUTUBE"
-  _OTHER_: "&7No Rank"
+  _OTHER_: "&4ERROR"
   
 disable-features-in-worlds:
   header-footer:
@@ -211,7 +273,7 @@ sort-players-by-permissions: false
 
 #making tamed animals no longer copy nametag properties from their owner (prefix/suffix/visibility)
 #do not enable this if you're on paper, you'll feed the trolls even more
-fix-pet-names: false
+fix-pet-names: true
 
 #taking primary group from permission plugin
 use-primary-group: true
