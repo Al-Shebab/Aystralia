@@ -45,8 +45,8 @@ announce:
     listings: false
     purchases: false
   discord:
-    listings: false
-    purchases: false
+    listings: true
+    purchases: true
 restricted_items:
   '0':
     item: minecraft:bedrock
