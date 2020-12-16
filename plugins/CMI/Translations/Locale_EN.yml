@@ -86,8 +86,8 @@ info:
   UseMaterial: '&3Please use material names!'
   UseInteger: '&3Please use numbers!'
   UseBoolean: '&3Please use True or False!'
-  NoLessThan: '&3Number can''t be less than [amount]!'
-  NoMoreThan: '&3Value can''t be more than [amount]'
+  NoLessThan: '&3Number can''t be less than &f[amount]!'
+  NoMoreThan: '&3Value can''t be more than &f[amount]'
   NoGameMode: '&cPlease use 0/1/2/3 or Survival/Creative/Adventure/Spectator or s/c/a/sp!'
   NoWorld: '&3Can''t find world with this name!'
   IncorrectLocation: '&3Location defined incorrectly!'
@@ -132,7 +132,7 @@ info:
   CantTeleport: '&fYou can''t teleport because you have too many limited items. Scroll
     over this line to see the maximum amount of items allowed.'
   teleported: '&fYou have been teleported.'
-  BlackList: '&f[material] [amount] &bMax: [max]'
+  BlackList: '&f[material] &f[amount] &bMax: [max]'
   PlayerSpliter: '&f----- &b[playerDisplayName] &f-----'
   Spliter: '&f--------------------------------------------------'
   SpliterValue: '&f------------------ &b[value] &f------------------'
@@ -845,7 +845,7 @@ command:
   air:
     help:
       info: '&fSet players air'
-      args: '[playerName] [amount]'
+      args: '[playerName] &f[amount]'
     info:
       feedback: '&fYou have set &3[amount]&f air for &3[playerName]&f (&3[offon]&f).'
       targetFeedback: '&fYour air was set to &3[amount]&f by &3[senderDisplayName]&f.'
@@ -1226,7 +1226,7 @@ command:
   cheque:
     help:
       info: '&fConvert money into cheque'
-      args: (playerName) [amount]
+      args: (playerName) &f[amount]
     info:
       transfered: '&fTransfered &f[amount] &fto your account. New balance: &b[balance]'
       chequeName: '&fCheque for &f[amount]'
@@ -1530,7 +1530,7 @@ command:
   editplaytime:
     help:
       info: '&fEdit players playtime'
-      args: (playerName) [add/take/set] [amount] (-s)
+      args: (playerName) [add/take/set] &f[amount] (-s)
     info:
       cantSet: '&cFailed to change playtime'
       set: '&fChanged from &b[old] &fto &b[new]'
@@ -1643,7 +1643,7 @@ command:
   exp:
     help:
       info: '&fSet players exp. Use L to set levels'
-      args: '[playerName] [add/set/take/clear] [amount][%rand/10-20%]'
+      args: '[playerName] [add/set/take/clear] &f[amount][%rand/10-20%]'
       explanation:
       - 'Example:'
       - /exp 10
@@ -1692,7 +1692,7 @@ command:
       - '- &bcontinue &f- continue scaning'
       - '- &bstop &f- stop scaning'
       - '- &bstopall &f- stop all scanings'
-      - '- &bspeed [amount] &f- set current scan speed'
+      - '- &bspeed &f[amount] &f- set current scan speed'
       - '- &bautospeed [true/false] &f- set autospeed turned off or on'
       - '- &bmessages [true/false] &f- set message output to off or on'
       - 'Example:'
@@ -1705,7 +1705,7 @@ command:
       paused: '&fScanning paused, to continue use &b/cmi fixchunk continue.'
       continuing: '&fScanning continuing'
       stoped: '&fScanning stopped. You can check the results with /cmi fixchunk info'
-      speedChange: '&fSpeed changed to [amount]'
+      speedChange: '&fSpeed changed to &f[amount]'
       autospeedChange: '&fAutoSpeed changed to [state]'
       messagesChange: '&fMessage state changed to [state]'
       NoInfo: '&fThere is no info'
@@ -1769,7 +1769,7 @@ command:
   flyspeed:
     help:
       info: '&fSet players fly speed from 0 to 10'
-      args: '[playerName] [amount] (-s)'
+      args: '[playerName] &f[amount] (-s)'
     info:
       feedback: '&fYou have set &3[amount]&f fly speed for &3[playerDisplayName]&f
         (&3[offon]&f).'
@@ -2024,7 +2024,7 @@ command:
   hunger:
     help:
       info: '&fSet players hunger'
-      args: '[playerName] [amount] (-s)'
+      args: '[playerName] &f[amount] (-s)'
     info:
       feedback: '&fYou have set &3[hunger]&f hunger for &3[playerDisplayName]&f (&3[offon]&f).'
       targetfeedback: '&fYour hunger was set to &3[hunger]&f by &3[senderDisplayName]&f.'
@@ -2729,7 +2729,7 @@ command:
   maxhp:
     help:
       info: '&fSet a player''s max hp'
-      args: set/add/take/clear [playerName] [amount] (-s)
+      args: set/add/take/clear [playerName] &f[amount] (-s)
     info:
       feedback: '&fYou have set &3[maxHp] &fmax hp for &3[playerDisplayName]&f (&3[offon]&f).'
       targetfeedback: '&fYour max HP was set to &3[maxHp] &fby &3[senderDisplayName]&f.'
@@ -2818,7 +2818,7 @@ command:
   money:
     help:
       info: '&fManage money balance'
-      args: '[pay/give/take/set] [playerName/all/alloffline] [amount][%rand/1-1000%][1%[min-max]][playerName]]
+      args: '[pay/give/take/set] [playerName/all/alloffline] &f[amount][%rand/1-1000%][1%[min-max]][playerName]]
         (-s)'
     info:
       newBalance: '&b[playerDisplayName] &fnew balance: &b[money]'
@@ -2971,7 +2971,7 @@ command:
   pay:
     help:
       info: '&fPerform money transaction'
-      args: '[playerName] [amount] (-s)'
+      args: '[playerName] &f[amount] (-s)'
   paytoggle:
     help:
       info: '&fToggle payments from another player'
@@ -3278,7 +3278,7 @@ command:
   repaircost:
     help:
       info: '&fSet items repair cost'
-      args: (playerName) [amount]
+      args: (playerName) &f[amount]
       explanation:
       - 'Example:'
       - /repaircost 10
@@ -3304,7 +3304,7 @@ command:
       - '&f- &bpause &f- pause replacing'
       - '- &bcontinue &f- continue replacing'
       - '- &bstop &f- stop replacing'
-      - '- &bspeed [amount] &f- set current replace speed'
+      - '- &bspeed &f[amount] &f- set current replace speed'
       - '- &bautospeed [true/false] &f- set autospeed turned off or on'
       - '- &bmessages [true/false] &f- set message output to off or on'
       - 'Example:'
@@ -3317,7 +3317,7 @@ command:
       paused: '&fReplacing paused, to continue use &b/cmi blockreplace continue.'
       continuing: '&fReplacing continuing'
       stoped: '&fReplacing stopped.'
-      speedChange: '&fSpeed changed to [amount]'
+      speedChange: '&fSpeed changed to &f[amount]'
       autospeedChange: '&fAutoSpeed changed to [state]'
       messagesChange: '&fMessage state changed to [state]'
       infoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[time]&b) &bSpeed: &f[speed]
@@ -3369,7 +3369,7 @@ command:
   saturation:
     help:
       info: '&fSet players saturation'
-      args: (playerName) [amount]
+      args: (playerName) &f[amount]
     info:
       feedback: '&fYou have set &3[amount]&f saturation for &3[playerDisplayName]&f
         (&3[offon]&f).'
@@ -3417,7 +3417,7 @@ command:
       - '- &bcontinue &f- continue scanning '
       - '- &bstop &f- stop scanning '
       - '- &bstopall &f- stops all scannings '
-      - '- &bspeed [amount] &f- set current scan speed '
+      - '- &bspeed &f[amount] &f- set current scan speed '
       - '- &bautospeed [true/false] &f- set AutoSpeed turned off or on '
       - '- &bmessages [true/false] &f- set message output to off or on'
       - 'Variables:'
@@ -3442,7 +3442,7 @@ command:
       continuing: '&fScanning continuing'
       holdItem: '&fYou need to hold the item in hand'
       stoped: '&fScanning stoppeds. You can check the results with /cmi scan info'
-      speedChange: '&fSpeed changed to [amount]'
+      speedChange: '&fSpeed changed to &f[amount]'
       autospeedChange: '&fAutoSpeed changed to [state]'
       messagesChange: '&fMessage state changed to [state]'
       NoInfo: '&fThere is no info'
@@ -3450,7 +3450,7 @@ command:
         &bFound: &f[found]'
       Teleport: '&fPress to teleport'
       scanList: '&9[number]. &f[place] &f[amount] &8(&7X:&f[x] &7Y:&f[y] &7Z:&f[z]&8)'
-      scanListChecked: '&7[number]. [place] [amount] (X:[x] Y:[y] Z:[z])'
+      scanListChecked: '&7[number]. [place] &f[amount] (X:[x] Y:[y] Z:[z])'
       edit: ' &f(Edit)'
       total: '&fChecking from [current]/[until] from total of [total]'
       Stats:
@@ -3987,7 +3987,7 @@ command:
   statsedit:
     help:
       info: '&fEdit players statistics'
-      args: (playerName) [add/take/set] [statistic] (subType) [amount] (-s)
+      args: (playerName) [add/take/set] [statistic] (subType) &f[amount] (-s)
     info:
       cantSet: '&cCan''t set this type of statistics'
       reqSubType: '&cThis statistic requires defined &b[type] &csubtype'
@@ -4491,7 +4491,7 @@ command:
   voteedit:
     help:
       info: '&fManage players votes'
-      args: (playerName) [add/set/take/clear] [amount] (-s)
+      args: (playerName) [add/set/take/clear] &f[amount] (-s)
       explanation:
       - 'Example:'
       - /voteedit Zrips
@@ -4524,7 +4524,7 @@ command:
   walkspeed:
     help:
       info: '&fSet players walk speed from 0 to 10'
-      args: '[playerName] [amount]'
+      args: '[playerName] &f[amount]'
     info:
       feedback: '&fYou have set &3[amount]&f walk speed for &3[playerDisplayName]&f
         (&3[offon]&f).'
