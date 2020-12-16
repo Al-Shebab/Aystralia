@@ -17,3 +17,7 @@ plugins/AuctionHouse/auctions.db
 plugins/AuctionHouse/auctions.db.backup
 plugins/Jobs/jobs.sqlite.db
 plugins/LuckPerms/luckperms-h2.mv.db
+plugins/CMI/cmi.sqlite.db
+plugins/WorldGuard/cache/profiles.sqlite
+usercache.json
+plugins/GriefPreventionData/PlayerData/

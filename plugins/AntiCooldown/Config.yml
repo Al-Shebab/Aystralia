@@ -6,8 +6,8 @@ Messages:
   Login:
     Enabled: §bHey, welcome to the server! §fPvP Cooldown is §cdisabled §fin this
       world!
-    Disabled: §bHey, welcome to the server! §fPvP Cooldown is §aenabled §fin
-      this world!
+    Disabled: §bHey, welcome to the server! §fPvP Cooldown is §aenabled §fin this
+      world!
   Setting:
     AddDisabledWorld: §fIn the world §c%world% §fthe cooldown is now activated.
     RemoveDisabledWorld: §fIn the world §a%world% §fthe cooldown is now deactivated.

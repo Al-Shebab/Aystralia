@@ -21,21 +21,21 @@ settings:
   connection-throttle: 1000
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Server closed
+  shutdown-message: Server Closed
   minimum-api: none
 spawn-limits:
-  monsters: 70
-  animals: 10
-  water-animals: 15
+  monsters: 120
+  animals: 30
+  water-animals: 10
   water-ambient: 20
-  ambient: 15
+  ambient: 10
 chunk-gc:
   period-in-ticks: 600
 ticks-per:
-  animal-spawns: 400
+  animal-spawns: 200
   monster-spawns: 1
   water-spawns: 1
   water-ambient-spawns: 1
   ambient-spawns: 1
-  autosave: 1500
+  autosave: 18000
 aliases: now-in-commands.yml
