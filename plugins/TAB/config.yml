@@ -121,17 +121,17 @@ Groups:
   _OTHER_:
     tabprefix: "&4ERROR"
     tagprefix: "&4ERROR"
-    tabsuffix: ""
-    tagsuffix: ""
+    tabsuffix: "&4ERROR"
+    tagsuffix: "&4ERROR"
     customtabname: "%cmi_user_nickname%"
     customtagname: "%cmi_user_nickname%"
 
 Users:
-  Al_Shebab222123123123123:
-    tabprefix: "&6&lTAB Author &a"
-    tagprefix: "&6&lTAB &r&a"
-    abovename: "&bOh look, 3 lines of text !"
-    belowname: "&eThere's only one plugin out there supporting it"
+  Al_Shebab2:
+    tabprefix: "&4ERROR"
+    tagprefix: "&4ERROR"
+    abovename: "&4ERROR"
+    belowname: "&4ERROR"
 
 #additional very limited line of text below nametag
 #don't forget this enables on all player entities, which includes NPCs
@@ -179,7 +179,7 @@ unlimited-nametag-prefix-suffix-mode:
   disable-on-boats: true
 
 per-world-settings:
-  world1123123:
+  world1:
     header:
       - "an example of world with custom"
     footer:
@@ -197,8 +197,8 @@ per-world-settings:
 
 placeholders:
   #output of %afk%
-  afk-yes: ""
-  afk-no: ""
+  afk-yes: "a"
+  afk-no: "a"
   
   #%date%
   date-format: "dd.MM.yyyy"
