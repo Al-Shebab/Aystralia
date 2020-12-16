@@ -10,11 +10,13 @@ change-tablist-prefix-suffix: true
 enable-header-footer: true
 
 header:
-  - "&f&lplay.&baystralia&f.com"
+  - "&fplay.&baystralia&f.com"
   - "&fOnline players: &b%online%"
   - ""
 footer:
+  - ""
   - "&fPing: &b%ping%"
+  - "&b%time%"
 
 #supports any numeric placeholder, set to "" to disable the feature
 yellow-number-in-tablist: ""
@@ -42,7 +44,7 @@ group-sorting-priority-list:
   - hobart
   - darwin
   - member
-  - guest
+  - default
 
 Groups:
   owner:
@@ -108,23 +110,18 @@ Groups:
   member:
     tabprefix: "&#763bff&lMember&r "
     tagprefix: "&#763bff&lMember&r "
-  guest:
+  default:
     tabprefix: "&#5d18ff&lGuest&r "
     tagprefix: "&#5d18ff&lGuest&r "
-  example_group:
-    header:
-      - "This is an example of per-group header/footer"
-    footer:
-      - "applied to a group"
       
   #default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting
   _OTHER_:
-    tabprefix: "&4ERROR"
-    tagprefix: "&4ERROR"
-    tabsuffix: "&4ERROR"
-    tagsuffix: "&4ERROR"
-    customtabname: "%cmi_user_nickname%"
-    customtagname: "%cmi_user_nickname%"
+    tabprefix: "%cmi_user_prefix%"
+    tagprefix: "%cmi_user_prefix%"
+    tabsuffix: "%cmi_user_suffix%"
+    tagsuffix: "%cmi_user_suffix%"
+    customtabname: "%cmi_user_name%"
+    customtagname: "%cmi_user_name%"
 
 Users:
   Al_Shebab2:
@@ -204,7 +201,7 @@ placeholders:
   date-format: "dd.MM.yyyy"
   
   #%time%
-  time-format: "[HH:mm:ss / h:mm a]"
+  time-format: "h:mm:ss a"
   
   #in hours, in case of wrong timezone
   time-offset: 0
@@ -280,9 +277,27 @@ use-primary-group: true
 
 #if the option above is false, all groups are taken from permission plugin and the one higher in this list is used as primary
 primary-group-finding-list:
-  - Owner
-  - Admin
-  - Helper
+  - owner
+  - developer
+  - staff-manager
+  - senior-administrator
+  - administrator
+  - senior-moderator
+  - moderator
+  - helper
+  - support-team
+  - event-manager
+  - event-team
+  - builder
+  - graphics-designer
+  - sydney
+  - melbourne
+  - brisbane
+  - perth
+  - adelaide
+  - hobart
+  - darwin
+  - member
   - default
   
 #if none of the above fits your needs, you can enable this to give groups using tab.group.<group name from the list above> permission
