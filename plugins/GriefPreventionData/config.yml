@@ -7,58 +7,58 @@ GriefPrevention:
   Claims:
     Mode:
       world: Survival
-      world_nether: Disabled
+      world_nether: Survival
       world_the_end: Disabled
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true
-    LockWoodenDoors: false
-    LockTrapDoors: false
+    LockWoodenDoors: true
+    LockTrapDoors: true
     LockFenceGates: true
     EnderPearlsRequireAccessTrust: true
     RaidTriggersRequireBuildTrust: true
     ProtectHorses: true
     ProtectDonkeys: true
     ProtectLlamas: true
-    InitialBlocks: 100
+    InitialBlocks: 1000
     Claim Blocks Accrued Per Hour:
-      Default: 100
+      Default: 60
     Max Accrued Claim Blocks:
-      Default: 2000
+      Default: 1000000
     Accrued Idle Threshold: 0
     AccruedIdlePercent: 0
     AbandonReturnRatio: 1.0
-    AutomaticNewPlayerClaimsRadius: 4
+    AutomaticNewPlayerClaimsRadius: 0
     AutomaticNewPlayerClaimsRadiusMinimum: 0
-    ExtendIntoGroundDistance: 5
-    MinimumWidth: 5
-    MinimumArea: 100
+    ExtendIntoGroundDistance: 256
+    MinimumWidth: 3
+    MinimumArea: 50
     MaximumDepth: 0
     InvestigationTool: STICK
     ModificationTool: GOLDEN_SHOVEL
     Expiration:
-      ChestClaimDays: 7
-      UnusedClaimDays: 14
+      ChestClaimDays: 1
+      UnusedClaimDays: 366
       AllClaims:
-        DaysInactive: 60
-        ExceptWhenOwnerHasTotalClaimBlocks: 10000
-        ExceptWhenOwnerHasBonusClaimBlocks: 5000
+        DaysInactive: 366
+        ExceptWhenOwnerHasTotalClaimBlocks: 1000000
+        ExceptWhenOwnerHasBonusClaimBlocks: 1000000
       AutomaticNatureRestoration:
         SurvivalWorlds: false
     AllowTrappedInAdminClaims: false
     MaximumNumberOfClaimsPerPlayer: 0
     CreationRequiresWorldGuardBuildPermission: true
     VillagerTradingRequiresPermission: true
-    CommandsRequiringAccessTrust: /sethome
+    CommandsRequiringAccessTrust: /sethome;/jump
     DeliverManuals: true
-    ManualDeliveryDelaySeconds: 30
+    ManualDeliveryDelaySeconds: 0
     RavagersBreakBlocks: true
     FireSpreadsInClaims: false
     FireDamagesInClaims: false
     LecternReadingRequiresAccessTrust: true
   Spam:
-    Enabled: true
+    Enabled: false
     LoginCooldownSeconds: 60
     LoginLogoutNotificationsPerMinute: 5
     ChatSlashCommands: /me;/global;/local
@@ -74,43 +74,43 @@ GriefPrevention:
       world: true
       world_nether: true
       world_the_end: true
-    ProtectFreshSpawns: true
-    PunishLogout: true
+    ProtectFreshSpawns: false
+    PunishLogout: false
     CombatTimeoutSeconds: 15
-    AllowCombatItemDrop: false
-    BlockedSlashCommands: /home;/vanish;/spawn;/tpa
+    AllowCombatItemDrop: true
+    BlockedSlashCommands: /home;/spawn;/tpa;/jump
     ProtectPlayersInLandClaims:
       PlayerOwnedClaims: true
       AdministrativeClaims: true
       AdministrativeSubdivisions: true
     AllowLavaDumpingNearOtherPlayers:
       PvPWorlds: true
-      NonPvPWorlds: false
+      NonPvPWorlds: true
     AllowFlintAndSteelNearOtherPlayers:
       PvPWorlds: true
-      NonPvPWorlds: false
+      NonPvPWorlds: true
     ProtectPetsOutsideLandClaims: false
   Economy:
     ClaimBlocksMaxBonus: 0
     ClaimBlocksPurchaseCost: 0.0
-    ClaimBlocksSellValue: 0.0
+    ClaimBlocksSellValue: 1.0
   ProtectItemsDroppedOnDeath:
     PvPWorlds: false
-    NonPvPWorlds: true
+    NonPvPWorlds: false
   BlockLandClaimExplosions: true
-  BlockSurfaceCreeperExplosions: true
-  BlockSurfaceOtherExplosions: true
-  LimitSkyTrees: true
+  BlockSurfaceCreeperExplosions: false
+  BlockSurfaceOtherExplosions: false
+  LimitSkyTrees: false
   LimitTreeGrowth: false
   PistonMovement: CLAIMS_ONLY
-  PistonExplosionSound: true
-  FireSpreads: false
-  FireDestroys: false
-  AdminsGetWhispers: true
-  AdminsGetSignNotifications: true
-  SmartBan: true
-  Mute New Players Using Banned Words: true
-  MaxPlayersPerIpAddress: 3
+  PistonExplosionSound: false
+  FireSpreads: true
+  FireDestroys: true
+  AdminsGetWhispers: false
+  AdminsGetSignNotifications: false
+  SmartBan: false
+  Mute New Players Using Banned Words: false
+  MaxPlayersPerIpAddress: 5
   Siege:
     Worlds: []
     BreakableBlocks:
@@ -149,8 +149,8 @@ GriefPrevention:
     - GLASS_PANE
     DoorsOpenDelayInSeconds: 300
     CooldownEndInMinutes: 60
-  EndermenMoveBlocks: false
-  SilverfishBreakBlocks: false
+  EndermenMoveBlocks: true
+  SilverfishBreakBlocks: true
   CreaturesTrampleCrops: false
   RabbitsEatCrops: true
   HardModeZombiesBreakDoors: false
@@ -163,12 +163,12 @@ GriefPrevention:
   Advanced:
     fixNegativeClaimblockAmounts: true
     ClaimExpirationCheckRate: 60
-    OfflinePlayer_cache_days: 90
+    OfflinePlayer_cache_days: 365
   Abridged Logs:
-    Days To Keep: 7
+    Days To Keep: 31
     Included Entry Types:
-      Social Activity: true
-      Suspicious Activity: true
+      Social Activity: false
+      Suspicious Activity: false
       Administrative Activity: false
       Debug: false
       Muted Chat Messages: false
