@@ -21,3 +21,4 @@ plugins/CMI/cmi.sqlite.db
 plugins/WorldGuard/cache/profiles.sqlite
 usercache.json
 plugins/GriefPreventionData/PlayerData/
+.console_history

@@ -10,6 +10,7 @@ change-tablist-prefix-suffix: true
 enable-header-footer: true
 
 header:
+  - "%animation:NAME%"
   - "&fplay.&baystralia&f.com"
   - "&fOnline players: &b%online%"
   - ""
@@ -17,6 +18,7 @@ footer:
   - ""
   - "&fPing: &b%ping%"
   - "&b%time%"
+  - "%animation:NAME%"
 
 #supports any numeric placeholder, set to "" to disable the feature
 yellow-number-in-tablist: ""
