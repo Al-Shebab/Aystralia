@@ -16,7 +16,7 @@ Economy:
     Transfer: true
   # Determines max amount of cheque player can create
   # Set it to 0 to remove limit
-  MaxChequeValue: 1.0E8
+  MaxChequeValue: 0
   PaymentWithShorts:
     # When set to true players will be able to make payments by using short amount formats like 10k which results into 10000 and similar
     # In addition 10.2k will result into 10200
@@ -49,19 +49,19 @@ Economy:
     IncludeFakes: false
   Global:
     # Starting amount of money players will have
-    StartingAmount: 100.0
+    StartingAmount: 25000
     # Minimal amount, can go into negative if needed
-    MinimalAmount: 0.0
+    MinimalAmount: -100000
     # Maximal amount of money player can have. Set to -1 to disable this limit
-    MaximumAmount: 1.0E8
+    MaximumAmount: -1
     # Defines amount until player can send to another player
     # This can prevent annoying spam some players would want to create by sending tiny amounts of money
-    MinimalPay: 0.5
+    MinimalPay: 1
     # Defines if you want to allow payments with fractions
     # if this is disabled then payments will be limited to whole numbers and in case player provides number with fraction we will round number down
     Fractions: true
     # Currency symbol to be used when showing balance or similar
-    CurrencySymbol: €
+    CurrencySymbol: $
     # Format used for displaying money
     MoneyFormat: '###,##0.00'
     # Converts long numbers to short ones, like 12305122 to 12.3m
@@ -77,10 +77,10 @@ Economy:
     # Replaces to western format where decimals are separated by , and thousands by . In example 1,000,000.00 changes to 1.000.000,00
     SwitchPlaces: false
     # Placing of currency symbol
-    Placing: '[money][symbol]'
+    Placing: '[symbol][money]'
 FileSave:
   # Change this to true only if you have issues with drives I/O and you need to save players files in async mode to lower waiting time for mc server
-  Async: false
+  Async: true
 InteractiveCommands:
   # Regex used in recognizing public interactive commands used in signs
   # Default format is [ic:[icName]] in example [ic:trash]
@@ -89,10 +89,10 @@ InteractiveCommands:
 Optimizations:
   # When this set to true any message sent to console will be strip out of any colors
   # In case you have mohochrome console, keep this at true
-  MonochromeConsole: false
+  MonochromeConsole: true
   # Time in seconds we want to give for playes who joins server a immortality state
   # Set this to 0 to disable
-  ImmortalityOnJoin: 3
+  ImmortalityOnJoin: 2
   # Enables or disables maintenance mode
   Maintenance: false
   # Automatically kicks everyone from server when enabling maintenance mode who doesnt have cmi.command.maintenance.bypass permission node
@@ -116,7 +116,7 @@ Optimizations:
   # When enabled you will see beeHive information in action bar when right clicking it
   ShowBeeHiveInformation: true
   # Sets indicator when creating elevator signs. Its case insensitive
-  ElevatorIndicator: '[CMIElevator]'
+  ElevatorIndicator: '[Elevator]'
   # Defines elevator type. If this is used on second line of sing, then player will be teleported directly in front of it instead of keeping original players x and z coordinates
   ElevatorStaticIndicator: '[*]'
   # Used to show date in places like mail, checkban, infopage and similar locations
@@ -147,7 +147,7 @@ Optimizations:
   # When set to true, commands in help page starting with /cmi will get shortened by hiding base command. Example /cmi back becomes /back
   # Keep in mind that this is automatic feature if alias or custom alias is set to that command
   # And keep in mind that this is only cosmetic change and will not impact command usage
-  RemoveLabel: false
+  RemoveLabel: true
   # When set to true, all players can see missing permission node by hovering over error message
   # When set to false only players with cmi.permisiononerror permission node can see missing permission node
   # Keep in mind that by default players have acces to permission node, so negate it if you want to hide missing permission nodes from them
@@ -176,9 +176,9 @@ Optimizations:
     # Default distance for jump command. Can be overriden with cmi.command.jump.[amount] permission node
     JumpDefault: 50
     # Defines time in seconds for accepting tpa or tpahere requests
-    TpaTime: 60
+    TpaTime: 120
     # Defines time in seconds for player being teleported after tpa or tpahere is being accepted
-    TpaWarmup: 3
+    TpaWarmup: 0
     # Defines if player can move when tpa or tpahere is being accepted
     TpaMove: false
     # Defines time in seconds for blocking player teleport offers after denying their request
