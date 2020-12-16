@@ -1,19 +1,19 @@
 Messages:
-  Prefix: '§7[§c§3AntiCooldown§7] '
+  Prefix: '§f[§bAntiCooldown§f] '
   Switch:
-    WorldEnabled: §ePvP Cooldown is §a§ldisabled §ein this world!
-    WorldDisabled: §ePvP Cooldown is §c§lnot disabled §ein this world!
+    WorldEnabled: §fPvP Cooldown is §cdisabled §fin this world!
+    WorldDisabled: §fPvP Cooldown is §aenabled §fin this world!
   Login:
-    Enabled: §aHey, welcome to the server! §ePvP Cooldown is §a§ldisabled §ein this
+    Enabled: §bHey, welcome to the server! §fPvP Cooldown is §cdisabled §fin this
       world!
-    Disabled: §aHey, welcome to the server! §ePvP Cooldown is §c§lnot disabled §ein
+    Disabled: §bHey, welcome to the server! §fPvP Cooldown is §aenabled §fin
       this world!
   Setting:
-    AddDisabledWorld: §aOK! In the world §e%world% §athe cooldown is now activated.
-    RemoveDisabledWorld: §aOK! In the world §e%world% §athe cooldown is now deactivated.
+    AddDisabledWorld: §fIn the world §c%world% §fthe cooldown is now activated.
+    RemoveDisabledWorld: §fIn the world §a%world% §fthe cooldown is now deactivated.
   Error:
-    WorldAlreadyDisabled: §cThis world is already §c§ldeactivated§c!
-    WorldAlreadyEnabled: §cThis world is already §a§lactivated§c!
+    WorldAlreadyDisabled: §cThis world is already §adeactivated§c!
+    WorldAlreadyEnabled: §cThis world is already §cactivated§c!
     PlayerNotOnline: §cThe player is not online!
     NoPerms: §cNo permissions!
 ConfigVersion: 7
