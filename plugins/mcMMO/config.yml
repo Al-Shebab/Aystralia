@@ -15,18 +15,18 @@ General:
         Enabled: true
     Locale: en_US
     AprilFoolsEvent: true
-    MOTD_Enabled: true
+    MOTD_Enabled: false
     EventBroadcasts: true
-    EventInfoOnPlayerJoin: true
-    AdminNotifications: true
+    EventInfoOnPlayerJoin: false
+    AdminNotifications: false
     # Send a message to the player when his profile was successfully loaded
     Show_Profile_Loaded: false
     # Amount of time (in minutes) to wait between saves of player information
-    Save_Interval: 10
+    Save_Interval: 15
     # Allow mcMMO to report on basic anonymous usage
-    Stats_Tracking: true
+    Stats_Tracking: false
     # Allow mcMMO to check if a new version is available
-    Update_Check: true
+    Update_Check: false
     Prefer_Beta: false
     Power_Level_Cap: 0
     # Should mcMMO truncate levels if you lower your max level cap for a skillname
@@ -60,10 +60,10 @@ Scoreboard:
 
     # Show scoreboard tips 5 times. Tips are only displayed once for every login session.
     # Set to 0 to never show these tips.
-    Tips_Amount: 5
+    Tips_Amount: 0
 
     # Add some more color on the board :-)
-    Rainbows: false
+    Rainbows: true
 
     # Display ability names?
     Ability_Names: true
@@ -80,24 +80,20 @@ Scoreboard:
             Print: false
             Board: true
             Display_Time: 15
-        # Settings for /mctop
         Top:
-            Print: true
+            Print: false
             Board: true
             Display_Time: 15
-        # Settings for /mcstats
         Stats:
             Print: false
             Board: true
             Display_Time: 15
-        # Settings for /inspect
         Inspect:
             Print: false
             Board: true
             Display_Time: 20
-        # Settings for /mccooldown
         Cooldown:
-            Print: true
+            Print: false
             Board: true
             Display_Time: 41
         # Settings for /<skillname> (e.g. /mining, /unarmed)
@@ -116,7 +112,7 @@ Mob_Healthbar:
     # Enabled: Whether or not the feature is enabled at all
     # Display_Type: Per player Default display for mob health bars - HEARTS, BAR, or DISABLED
     # Display_Time: Amount of time (in seconds) to display. To display permanently, set to -1
-    Enabled: true
+    Enabled: false
     Display_Type: HEARTS
     Display_Time: 3
 
@@ -127,7 +123,7 @@ Database_Purging:
     Purge_Interval: -1
     # Any user who hasn't connected in this many months will be purged from the database
     # To never purge old users, set to -1
-    Old_User_Cutoff: 6
+    Old_User_Cutoff: -1
 
 #
 #  Settings for Backups
@@ -223,7 +219,7 @@ Mods:
 ###
 Items:
     Chimaera_Wing:
-        Enabled: true
+        Enabled: false
         Cooldown: 240
         Warmup: 5
         RecentlyHurt_Cooldown: 60
@@ -248,22 +244,22 @@ Party:
     # Amount of time (in hours) to wait between automatically kicking old party members
     # To only run at server start, set to 0
     # To never kick old users, set to -1
-    AutoKick_Interval: 12
+    AutoKick_Interval: -1
     # Any user who hasn't connected in this many days will get kicked from their party
-    Old_Party_Member_Cutoff: 7
+    Old_Party_Member_Cutoff: 365
 
     # Settings for party share modes
     Sharing:
         ExpShare_bonus_base: 1.1
         ExpShare_bonus_increase: 1.05
         ExpShare_bonus_cap: 1.5
-        Range: 75.0
+        Range: 225.0
 
     # Party members level up their party by earning individual experience
     # Newly created parties will not immediately have access to all the party features
     # and have to level up the party a bit before they can use them.
     Leveling:
-        Level_Cap: 10
+        Level_Cap: 5
 
         # Uses the regular XP formula but is multiplied by <amount of party members> + <Xp_Curve_Modifier>
         Xp_Curve_Modifier: 3
@@ -272,9 +268,9 @@ Party:
 
         Chat_UnlockLevel: 1
         Teleport_UnlockLevel: 2
-        Alliance_UnlockLevel: 5
-        ItemShare_UnlockLevel: 8
-        XpShare_UnlockLevel: 10
+        Alliance_UnlockLevel: 3
+        ItemShare_UnlockLevel: 4
+        XpShare_UnlockLevel: 5
 
 #
 #  Settings for Abilities
@@ -603,5 +599,4 @@ Particles:
 ###
 Sounds:
     # This setting controls the master volume. 1.0 is Max,  0 would be off
-    MasterVolume: 1.0
-    
+    MasterVolume: 0.4

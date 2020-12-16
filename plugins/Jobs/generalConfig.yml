@@ -22,7 +22,7 @@ mysql:
   use-ssl: false
   auto-reconnect: true
 # How often in minutes you want it to save. This must be a non-zero number
-save-period: 10
+save-period: 15
 # Should player data be saved on disconnect?
 # Player data is always periodically auto-saved and autosaved during a clean shutdown.
 # Only enable this if you have a multi-server setup, or have a really good reason for enabling this.
@@ -122,7 +122,7 @@ max-jobs: 3
 # Disabling the payment if the user reached the maximum level of a job.
 disable-payment-if-max-level-reached: false
 # Hide jobs from player if they lack the permission to join the job
-hide-jobs-without-permission: false
+hide-jobs-without-permission: true
 # Hide jobs info from player if they lack the permission to join the job
 hide-jobsinfo-without-permission: false
 # Option to allow payment to be made when killing mobs from a spawner.
