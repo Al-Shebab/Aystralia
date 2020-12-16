@@ -143,11 +143,11 @@ info:
   nothingInHandLeather: '&fYou need to hold leather item in hand'
   nothingToShow: '&fNothing to show'
   noItem: '&cCan''t find item'
-  dontHaveItem: '&cYou don''t have &b[amount]x [itemName] &cin your inventory'
+  dontHaveItem: '&cYou don''t have &f[amount]x [itemName] &cin your inventory'
   wrongWorld: '&cCan''t do this in this world'
   wrongPortal: '&cYou are in incorrect area of effect'
   differentWorld: '&cDifferent worlds'
-  HaveItem: '&cYou have &b[amount]x [itemName] &cin your inventory'
+  HaveItem: '&cYou have &f[amount]x [itemName] &cin your inventory'
   ItemWillBreak: '!actionbar!&fYour item (&b[itemName]&f) will break soon! &f[current]&b/&f[max]'
   ArmorWillBreak: '!actionbar!&fYour [itemName] will break soon! &f[current]&b/&f[max]'
   cantDoInGamemode: '&fYou can''t do this in this game mode'
@@ -760,8 +760,8 @@ Information:
 econ:
   disabled: '&cCan''t use this command while economy support is disabled'
   noMoney: '&cYou have no money'
-  charged: '!actionbar!&fCharged: &b[amount]'
-  notEnoughMoney: '&cYou dont have enough money. Required (&b[amount]&c)'
+  charged: '!actionbar!&fCharged: &f[amount]'
+  notEnoughMoney: '&cYou dont have enough money. Required (&f[amount]&c)'
   tooMuchMoney: '&cYou have too much money'
   commandCost: '&7This command cost is &b[cost] &7repeat it or click here to confirm'
 Elytra:
@@ -972,7 +972,7 @@ command:
     info:
       list: ' &f[id]. &b[cmd]'
       noCmds: ' &fThere is no comamnds attached to this item'
-      uses: '&fItem usages: &b[amount]'
+      uses: '&fItem usages: &f[amount]'
       usesLeft: '!actionbar!&fItem uses left: &b[itemUses]'
       cooldown: '&7Item is on cooldown. Wait [time]'
   autorecharge:
@@ -1131,11 +1131,11 @@ command:
       noGroup: '&fDon''t have assigned charge group'
       cantBreak: '&fYou can''t break until you will have assigned charge group'
       minusCd: '&f Minus &b[sec]&fsec on spawner charge cooldown'
-      add: '&fAdded &b[amount] &fspawner charges for &b[playerDisplayName]'
-      set: '&fSet &b[amount] &fspawner charges for &b[playerDisplayName]'
+      add: '&fAdded &f[amount] &fspawner charges for &b[playerDisplayName]'
+      set: '&fSet &f[amount] &fspawner charges for &b[playerDisplayName]'
       clear: '&fCleared all spawner charges for &b[playerDisplayName]'
       reset: '&fReset spawner charge group for &b[playerDisplayName]'
-      take: '&fTook &b[amount] &fspawner charges from &b[playerDisplayName]'
+      take: '&fTook &f[amount] &fspawner charges from &b[playerDisplayName]'
   chat:
     help:
       info: '&fCreate and join chat rooms'
@@ -1228,8 +1228,8 @@ command:
       info: '&fConvert money into cheque'
       args: (playerName) [amount]
     info:
-      transfered: '&fTransfered &b[amount] &fto your account. New balance: &b[balance]'
-      chequeName: '&fCheque for &b[amount]'
+      transfered: '&fTransfered &f[amount] &fto your account. New balance: &b[balance]'
+      chequeName: '&fCheque for &f[amount]'
       chequeLore:
       - '&r&fIssued by &7[senderDisplayName]'
       - '&r&fRight click to deposit'
@@ -1451,11 +1451,11 @@ command:
       info: '&fDonate item you are holding'
       args: '[playerName] (amount)'
     info:
-      donated: '&fDonated &b[type]&fX&b[amount] &fitems to &b[playerDisplayName]'
-      got: '&fGot &b[type]&fX&b[amount] &fdonation from &b[playerDisplayName]'
+      donated: '&fDonated &b[type]&fX&f[amount] &fitems to &b[playerDisplayName]'
+      got: '&fGot &b[type]&fX&f[amount] &fdonation from &b[playerDisplayName]'
       sentOffer: '&fSent donation to &b[playerDisplayName]&f. Waiting until player
         accepts it'
-      gotOffer: '&fGot &b[type]&fX&b[amount] &fdonation from &b[sourceDisplayName]&f.
+      gotOffer: '&fGot &b[type]&fX&f[amount] &fdonation from &b[sourceDisplayName]&f.
         Click to accept it.'
       doesnthave: '&fPlayer doesn''t have this item anymore'
       'no': '&fNo pending donations'
@@ -1598,7 +1598,7 @@ command:
         (&3[offon]&f).'
       noitem: '&cNot holding any item in hand.'
       invalidEnchant: '&cYou dont have permission to enchant item with invalid enchantment'
-      clearedInvalid: '&fRemoved &b[amount] &finvalid enchantments from item'
+      clearedInvalid: '&fRemoved &f[amount] &finvalid enchantments from item'
       inccorectId: '&fIncorrect enchant name or id.'
       wrongItem: '&fWrong item in your hand'
       enchantlimit: '&cYou dont have access to this enchantment'
@@ -1679,7 +1679,7 @@ command:
     info:
       infoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[time]&b) &bSpeed: &f[speed]'
       stopped: '&fStopped!'
-      cantFindBiome: '&fCould not find biome you wanted. Checked &b[amount] &fchunks'
+      cantFindBiome: '&fCould not find biome you wanted. Checked &f[amount] &fchunks'
       teleportedTo: '&fTeleported to &b[biome] &fbiome'
   fixchunk:
     help:
@@ -1701,7 +1701,7 @@ command:
       - /fixchunk w LT_Craft r g
       - /fixchunk fix
     info:
-      startScanning: '&fFound &b[amount] &fchunks to check. Starting!'
+      startScanning: '&fFound &f[amount] &fchunks to check. Starting!'
       paused: '&fScanning paused, to continue use &b/cmi fixchunk continue.'
       continuing: '&fScanning continuing'
       stoped: '&fScanning stopped. You can check the results with /cmi fixchunk info'
@@ -1748,7 +1748,7 @@ command:
       - '&fMiddle Mouse +10000. Cost: &7[amount10000]'
       - ''
       changeAmount: '&f([amount]&f)'
-      cost: '&fCharged &b[amount] &ffor &b[charge] &fflight charges'
+      cost: '&fCharged &f[amount] &ffor &b[charge] &fflight charges'
   fly:
     help:
       info: '&fSet players fly true or false'
@@ -1831,7 +1831,7 @@ command:
       - '&fcmi giveall inv Zrips'
     info:
       starting: '&bStarting to give items for all players, this can take some time.'
-      running: '&b[amount] already got item, still running.'
+      running: '&f[amount] already got item, still running.'
       feedback: '&bFinished. &f[amount] &bplayers got item.'
   glow:
     help:
@@ -2105,7 +2105,7 @@ command:
       args: '[essentials/hd] [home/warp/nick/logoutlocation/money/mail]'
     info:
       converted: '&fConverted: &b[done]&f/&b[total] &fusers'
-      convertedWarps: '&fConverted &b[amount] &fwarps'
+      convertedWarps: '&fConverted &f[amount] &fwarps'
       noInfo: '&cYou forgot to provide information what you want to import exactly'
       savingInProgress: '&fData will be saved into data base in next couple minutes
         depending on how many entries we need to save'
@@ -2120,7 +2120,7 @@ command:
       args: ''
     info:
       starting: '&fStarting import'
-      feedback: '&fImported &b[amount] &fnew users'
+      feedback: '&fImported &f[amount] &fnew users'
   info:
     help:
       info: '&fShow players information'
@@ -2396,9 +2396,9 @@ command:
       createdJail: '&fSuccessfully created new jail (&b[jail]&f)'
       createdCell: '&fSuccessfully created new jail cell (&b[jail]&f:&b[cellId]&f)'
       collides: '&cCollides with &b[jailName] &fjail'
-      jailList: '&f[place]. &b[jail] &fCells:&b[cells] &fJailed: &b[amount]    '
+      jailList: '&f[place]. &b[jail] &fCells:&b[cells] &fJailed: &f[amount]    '
       editCells: '&fEdit cell list'
-      cellList: '&fCell id:&b[id] &fjailed: &b[amount]    '
+      cellList: '&fCell id:&b[id] &fjailed: &f[amount]    '
       jailListTp: ' &7[tp] '
       jailListTpHover: '&fSet outside teleport location'
       jailListArea: ' &7[area] '
@@ -2433,7 +2433,7 @@ command:
       cantKick: '&fCan''t kick this player'
       messageToAll: '&b[playerDisplayName] &fgot kicked from server.'
       kickReason: ' &fReason: &b[reason]'
-      all: '&fKicked &b[amount] &fplayers from server'
+      all: '&fKicked &f[amount] &fplayers from server'
   killall:
     help:
       info: '&fKill mobs around you'
@@ -2639,7 +2639,7 @@ command:
       args: (range) (playerName) (stop/stopall)
     info:
       NoMore: '&fRange can''t be more than server view range. Changed to maximum allowed.'
-      startFixing: '&fFound &b[amount] &fchunks to fix. Starting!'
+      startFixing: '&fFound &f[amount] &fchunks to fix. Starting!'
       InfoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[min]m:[sec]s&b) &bSpeed: &f[speed]'
       Finished: '&fLight fixing has finished'
       Stopped: '&fStopped'
@@ -2657,7 +2657,7 @@ command:
       # [groupLine] can be replaced with specific grouped names like [group1] and [group2] and so on, you can have as many of those as you want and order them by your own liking
       List:
       - '&7========================'
-      - '&fPlayers online &b[amount][hidden]&f/&b[maxamount]'
+      - '&fPlayers online &f[amount][hidden]&f/&b[maxamount]'
       - '[adminLine]'
       - '[staffLine]'
       - '[groupLine]'
@@ -2708,15 +2708,15 @@ command:
       noMails: '&fYou have no mail'
       mailHover: '&f[senderName] /n &f[time]'
       list: '&b[id]. &7[senderDisplayName]&f: [mail] '
-      waitingMail: '&fYou have &b[amount] &fmails. Click to check them out.'
+      waitingMail: '&fYou have &f[amount] &fmails. Click to check them out.'
   mailall:
     help:
       info: '&fCheck or send mail to all players'
       args: '[send/clear/remove] [message]'
     info:
-      sentMail: '&fSent &b[amount] &fmail(s)'
-      clearMail: '&b[amount] &fmail(s) have been removed'
-      removedMail: '&fRemoved &b[amount] &fmail(s)'
+      sentMail: '&fSent &f[amount] &fmail(s)'
+      clearMail: '&f[amount] &fmail(s) have been removed'
+      removedMail: '&fRemoved &f[amount] &fmail(s)'
   maintenance:
     help:
       info: '&fSet server into maintenance mode'
@@ -2822,9 +2822,9 @@ command:
         (-s)'
     info:
       newBalance: '&b[playerDisplayName] &fnew balance: &b[money]'
-      paid: '&fYou have sent &b[amount] &fto &b[playerDisplayName]'
-      gotMoney: '&fYou got &b[amount] &ffrom &b[senderDisplayName]&f. Balance: &b[money]'
-      gotMoneyGive: '&fYou received &b[amount]&f. Balance: &b[money]'
+      paid: '&fYou have sent &f[amount] &fto &b[playerDisplayName]'
+      gotMoney: '&fYou got &f[amount] &ffrom &b[senderDisplayName]&f. Balance: &b[money]'
+      gotMoneyGive: '&fYou received &f[amount]&f. Balance: &b[money]'
       noMoney: '&cYou don''t have enough money'
       worldGroups: '&cYou can''t send money between different world groups'
       self: '&cYou can''t send money to yourself!'
@@ -2922,8 +2922,8 @@ command:
       sameNick: '&cYou dont have permission to change into different nick. You can
         change only colors'
       blockedNick: '&cYou can''t use this nick name'
-      blockedNickLength: '&fNick name is to long. Max &b[amount] &fsymbols'
-      blockedNickLengthMin: '&fNick name is to short. Min &b[amount] &fsymbols'
+      blockedNickLength: '&fNick name is to long. Max &f[amount] &fsymbols'
+      blockedNickLengthMin: '&fNick name is to short. Min &f[amount] &fsymbols'
       inUse: '&cNick name is already being used by another player'
   notarget:
     help:
@@ -2967,7 +2967,7 @@ command:
       noPatrol: '&fCurrently there is no players you can patrol'
       Patroling: '&fCurrently patroling: &b[playerDisplayName]'
       lastPatrol: '&fLast time patroled &b[time]&fago'
-      notes: '&fHas &b[amount] &fnotes'
+      notes: '&fHas &f[amount] &fnotes'
   pay:
     help:
       info: '&fPerform money transaction'
@@ -3047,9 +3047,9 @@ command:
       redefine: '&fRedefine area from current selection'
       particles: '&fParticles: &b[state]'
       particleType: '&fParticle type: &b[type]'
-      particleAmount: '&fParticle amount: &b[amount]'
-      particlePercent: '&fPercentage of sides shrinked particles: &b[amount]%'
-      activationRange: '&fActivation range: &b[amount]'
+      particleAmount: '&fParticle amount: &f[amount]'
+      particlePercent: '&fPercentage of sides shrinked particles: &f[amount]%'
+      activationRange: '&fActivation range: &f[amount]'
       particlePermission: '&fShow particles without permission: &b[state]'
       bungeeTeleport: '&fTeleport to exact bungee location: [state]'
       requiresPermission: '&fRequires &7[perm] &fpermission to use: [state]'
@@ -3082,7 +3082,7 @@ command:
       args: '[range] (innerrange)'
     info:
       NoMore: '&fRange can''t be more than 32 chunks. Changed to maximum allowed.'
-      startSending: '&fFound &b[amount] &fchunks to send. Starting!'
+      startSending: '&fFound &f[amount] &fchunks to send. Starting!'
       InfoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[min]m:[sec]s&b) &bSpeed: &f[speed]'
       Finished: '&fFinished. It can take some extra time to load all chunks on your
         side.'
@@ -3249,7 +3249,7 @@ command:
       args: '[uuid/duplicates]'
     info:
       removed: '&fUser (&b[uuid]&f) removed'
-      removedDuplicate: '&b[amount]/[max] &fduplicates removed'
+      removedDuplicate: '&f[amount]/[max] &fduplicates removed'
   removewarp:
     help:
       info: '&fRemove warp'
@@ -3313,7 +3313,7 @@ command:
       - /cmi replaceblock id 52 w air r g y 100
       - /cmi replaceblock id iron_ore%75 w stone%90,dirt%5 r g
     info:
-      startScanning: '&fFound &b[amount] &fchunks to check. Starting!'
+      startScanning: '&fFound &f[amount] &fchunks to check. Starting!'
       paused: '&fReplacing paused, to continue use &b/cmi blockreplace continue.'
       continuing: '&fReplacing continuing'
       stoped: '&fReplacing stopped.'
@@ -3322,7 +3322,7 @@ command:
       messagesChange: '&fMessage state changed to [state]'
       infoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[time]&b) &bSpeed: &f[speed]
         &bReplaced: &f[found]'
-      finished: '&fFinished!!! Replaced: &b[amount] &fblocks! In &b[time]&f.'
+      finished: '&fFinished!!! Replaced: &f[amount] &fblocks! In &b[time]&f.'
   reply:
     help:
       info: '&fReplay to last message sender'
@@ -3437,7 +3437,7 @@ command:
       - scan id diamond_block r g q 32
     info:
       loadingChunkInfo: '&fLoading chunk information!'
-      startScanning: '&fFound &b[amount] &fchunks to check. Starting!'
+      startScanning: '&fFound &f[amount] &fchunks to check. Starting!'
       paused: '&fScanning paused, to continue use &b/cmi scan continue.'
       continuing: '&fScanning continuing'
       holdItem: '&fYou need to hold the item in hand'
@@ -3449,7 +3449,7 @@ command:
       infoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[time]&b) &bSpeed: &f[speed]
         &bFound: &f[found]'
       Teleport: '&fPress to teleport'
-      scanList: '&9[number]. &f[place] &b[amount] &8(&7X:&f[x] &7Y:&f[y] &7Z:&f[z]&8)'
+      scanList: '&9[number]. &f[place] &f[amount] &8(&7X:&f[x] &7Y:&f[y] &7Z:&f[z]&8)'
       scanListChecked: '&7[number]. [place] [amount] (X:[x] Y:[y] Z:[z])'
       edit: ' &f(Edit)'
       total: '&fChecking from [current]/[until] from total of [total]'
@@ -3477,7 +3477,7 @@ command:
         chance'
       enchantLevelChance: '&cLevel lower chance: &7[chance]%'
       gotIngredients: '&fYou got [itemList]'
-      gotIngredientsFormat: '&b[material]&7-&b[amount]'
+      gotIngredientsFormat: '&b[material]&7-&f[amount]'
       itemBroke: '&cItem broke with [chance]% break chance'
       confirm: '&9Confirm scavenge. Cost: &c[price]'
       itemBreakChance: '&cItem break chance: [chance]%'
@@ -3555,7 +3555,7 @@ command:
       info: '&fSell items from inventory'
       args: (all/blocks/hand/same/gui)
     info:
-      total: '&fEarned &b[total] &fby selling &b[amount] &fitems. New balance &b[balance]'
+      total: '&fEarned &b[total] &fby selling &f[amount] &fitems. New balance &b[balance]'
       close: '&8Place items you want to sell'
       sellInfo: '&8Sell for: &9[price]'
   sendall:
@@ -3770,7 +3770,7 @@ command:
     info:
       playing: "&fPlaying &b[sound] &fat [world] [x]:[y]:[z] \n&fPitch: &b[pitch]\
         \ &fVolume: &b[volume]"
-      playingMultiple: "&fPlaying &b[sound] &ffor &b[amount] &fplayers \n&fPitch:\
+      playingMultiple: "&fPlaying &b[sound] &ffor &f[amount] &fplayers \n&fPitch:\
         \ &b[pitch] &fVolume: &b[volume]"
   spawn:
     help:
@@ -3859,7 +3859,7 @@ command:
       distanceCM: '&f[value]&bcm'
       distanceM: '&f[value]&bm'
       distanceKm: '&f[value]&bkm'
-      list: '&f[name]:&b[amount]'
+      list: '&f[name]:&f[amount]'
       listCover: '&f([list]&f)'
       Quit: '&fGames Quit: &b[value]'
       PlayTime: '&fTime Played: &b[value]'
@@ -4391,10 +4391,10 @@ command:
       - -f variable will force for all chunks to be unloaded in one go.
     info:
       removed: '&fRemoved -[list]'
-      startScanning: '&fFound &b[amount] &fchunks to unload. Starting!'
+      startScanning: '&fFound &f[amount] &fchunks to unload. Starting!'
       InfoShow: '&bTPS: &3[tps] &bLeft &f[left] &b(&f[min]m:[sec]s&b) &bSpeed: &f[speed]
         &bUnloaded: &f[found]'
-      Finished: '&fFinished!!! Unloaded: &b[amount] &fchunks! In &b[minutes] &fmin
+      Finished: '&fFinished!!! Unloaded: &f[amount] &fchunks! In &b[minutes] &fmin
         &b[seconds] &fsec.'
   unmute:
     help:
