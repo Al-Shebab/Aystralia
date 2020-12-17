@@ -15,7 +15,7 @@
 ###
 # Enables anonymous statistics
 Metrics:
-    bstats: true
+    bstats: false
 Feedback:
     PlayerTips: true
     SkillCommand:
