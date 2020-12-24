@@ -798,3 +798,6 @@
 [2020-12-24 00:19:54] Ignoring broadcast message from client 9633535038929192153 at non-local network address 185.239.239.70:27036
 [2020-12-24 00:20:01] Ignoring broadcast message from client 14774892101443281206 at non-local network address 185.239.239.70:27036
 [2020-12-24 00:20:08] Ignoring broadcast message from client 8414034929948473414 at non-local network address 185.239.239.70:27036
+
+
+[2020-12-24 22:30:23] Couldn't bind to broadcast port 27036
