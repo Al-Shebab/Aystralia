@@ -16,13 +16,21 @@ Config.Drugs = false -- Set to true if using esx_drugs
 Config.WeaponShop = true -- Set to true if using esx_weaponshop
 
 Config.Prices = {
-	Driver License = 1000,
-	Guns License = 25000,
-	Large Arms License = 500000,
-	Weed License = 50000,
-	Coke License = 250000,
-	Meth License = 1500000,
-	Heroin License = 5000000
+	Gun = 10000,
+	Boating = 50,
+	Melee = 1,
+	Handgun = 10,
+	SMG = 100,
+	Shotgun = 50,
+	Assault = 250,
+	LMG = 1000,
+	Sniper = 1500,
+	Commercial = 300,
+	Drivers = 150,
+	DriversP = 75,
+	Motorcycle = 225,
+	Weed = 10000,
+	Weapon = 1000
 }
 
 Config.Zones = {
