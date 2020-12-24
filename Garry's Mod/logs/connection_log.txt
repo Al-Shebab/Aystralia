@@ -47,3 +47,31 @@
 [2020-12-24 22:30:21] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.250.139:27017, UDP)
 [2020-12-24 22:30:23] [1,2] ConnectionCompleted() (155.133.252.54:27019, UDP)
 [2020-12-24 22:30:23] [1,2] RecvMsgClientLogOnResponse() : [a:1:2076013684] 'OK'
+
+
+[2020-12-24 04:17:04] Log session started
+[2020-12-24 04:17:04] [0,0] SetSteamID( [U:1:0] )
+[2020-12-24 04:17:04] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-24 04:17:04] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-24 04:17:04] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-24 04:17:05] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2020-12-24 04:17:05] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2020-12-24 04:17:10] [0,0] SetSteamID( [a:1:0] )
+[2020-12-24 04:17:10] [0,0] SetSteamID( [a:1:0] )
+[2020-12-24 04:17:10] [0,0] Server says 50% of connections should be websockets, we rolled 18 - using WebSockets as default.
+[2020-12-24 04:17:10] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27034) starting...
+[2020-12-24 04:17:10] [0,0] PingWebSocketCM() (cm3-fra1.cm.steampowered.com:443) starting...
+[2020-12-24 04:17:10] [0,0] PingWebSocketCM() (cm1-fra1.cm.steampowered.com:27036) starting...
+[2020-12-24 04:17:10] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27038) starting...
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27034) results: 51.1265ms + load 53.0000
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27038) results: 51.3248ms + load 54.0000
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm6-sto1.cm.steampowered.com:27032) starting...
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:27026) starting...
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm3-fra1.cm.steampowered.com:443) results: 9.4943ms + load 53.0000
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() stopping early for good host (cm3-fra1.cm.steampowered.com:443)
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm1-fra1.cm.steampowered.com:27036) results: 9.9440ms + load 54.0000
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm4-sto1.cm.steampowered.com:27026) results: 49.9392ms + load 54.0000
+[2020-12-24 04:17:11] [0,0] PingWebSocketCM() (cm6-sto1.cm.steampowered.com:27032) results: 49.9511ms + load 57.0000
+[2020-12-24 04:17:11] [1,3] Connect() starting connection (eNetQOSLevelHigh, cm3-fra1.cm.steampowered.com:443, WebSocket)
+[2020-12-24 04:17:11] [1,3] ConnectionCompleted() (155.133.250.140:443, WebSocket)
+[2020-12-24 04:17:11] [1,3] RecvMsgClientLogOnResponse() : [a:1:2061707453] 'OK'
