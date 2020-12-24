@@ -1,29 +1,27 @@
-Minecraft\*.db
-Minecraft\*.backup
-Minecraft\*.log
-Minecraft\*.dat
-Minecraft\*.dat_old
-Minecraft\*.lock
+Minecraft/*.db
+Minecraft/*.backup
+Minecraft/*.log
+Minecraft/*.dat
+Minecraft/*.dat_old
+Minecraft/*.lock
 
-Minecraft\world
-Minecraft\world_nether
-Minecraft\world_the_end
-Minecraft\logs
-Minecraft\cache
+Minecraft/world
+Minecraft/world_nether
+Minecraft/world_the_end
+Minecraft/logs
+Minecraft/cache
 
-Minecraft\.console_history
-Minecraft\plugins/mcMMO/backup
-Minecraft\plugins/AuctionHouse/auctions.db
-Minecraft\plugins/AuctionHouse/auctions.db.backup
-Minecraft\plugins/Jobs/jobs.sqlite.db
-Minecraft\plugins/CMI/cmi.sqlite.db
-Minecraft\plugins/WorldGuard/cache/profiles.sqlite
-Minecraft\usercache.json
-Minecraft\plugins/GriefPreventionData/PlayerData/
-Minecraft\.console_history
+Minecraft/.console_history
+Minecraft/plugins/mcMMO/backup
+Minecraft/plugins/AuctionHouse/auctions.db
+Minecraft/plugins/AuctionHouse/auctions.db.backup
+Minecraft/plugins/Jobs/jobs.sqlite.db
+Minecraft/plugins/CMI/cmi.sqlite.db
+Minecraft/plugins/WorldGuard/cache/profiles.sqlite
+Minecraft/usercache.json
+Minecraft/plugins/GriefPreventionData/PlayerData/
+Minecraft/.console_history
 
-ARK\*
-ARK\**
 ARK/*
 
 Garry's Mod/steamapps/common/GarrysModDS/sourceengine/*
