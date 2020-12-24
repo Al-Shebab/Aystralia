@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt_belt_diff"
+	"$bumpMap"				"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt_belt_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+	"$halflambert" 1
+
+	"$myspeed" "0"
+
+	 "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$baseTexturetransform"
+            "texturescrollrate" "$myspeed"
+            "texturescrollangle" -90
+        }
+    }
+}
+

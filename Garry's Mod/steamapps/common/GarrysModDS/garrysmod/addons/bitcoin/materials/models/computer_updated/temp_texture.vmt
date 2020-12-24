@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/computer_updated/temp_texture"
+	"$surfaceprop" "Metal"
+}

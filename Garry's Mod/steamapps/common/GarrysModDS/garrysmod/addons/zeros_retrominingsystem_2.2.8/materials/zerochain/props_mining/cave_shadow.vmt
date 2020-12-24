@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/cave_shadow"
+	"$translucent"			1
+	"$nocull"			1
+	
+	"$nofog" "0"
+	"$no_fullbright" "1"
+
+	$depthblend 1
+	$depthblendscale 1
+}

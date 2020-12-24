@@ -1,0 +1,17 @@
+-- Jobs.
+
+TEAM_BIT = DarkRP.createJob("Bitcoin Miner", {
+	color = Color(255, 0, 255, 255),
+	model = {
+		"models/player/Group03/Female_01.mdl",
+		"models/player/Group03/Female_02.mdl"
+		},
+	description = [[You are a pc tech who love farming bit coins.]],
+	weapons = {"bit_usb"},
+	command = "bitcoin",
+	max = 0.1, -- at most 70% of the players can have this job. Set to a whole number to set an absolute limit.
+	salary = 45,
+	admin = 0,
+	vote = false,
+	hasLicense = false
+})

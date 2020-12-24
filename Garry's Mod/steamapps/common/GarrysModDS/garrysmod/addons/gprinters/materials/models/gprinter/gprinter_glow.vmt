@@ -1,0 +1,33 @@
+//MODELS AND MATERIALS MADE BY II_PYRO_II\\
+//DO NOT REUPLOAD ANYWHERE\\
+//MADE FOR B1TS - GPRINTER\\
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gprinter/gprinter_glow"
+
+	"$Selfillum" "1"
+	$angle      0
+	$center     "[ 0.5 -0.5 ]"   
+	$translate  "[0.0 0.0]"
+	$scale      "[1 1]"   
+
+"Proxies"
+{
+        LinearRamp
+        {
+            rate 350           
+            initialValue 0
+            resultVar $angle
+        }
+        TextureTransform
+        {
+            centerVar       $center
+            scaleVar        $scale
+            rotateVar       $angle
+            translateVar    $translate
+            resultVar       $basetexturetransform
+		}	
+	}
+}
+

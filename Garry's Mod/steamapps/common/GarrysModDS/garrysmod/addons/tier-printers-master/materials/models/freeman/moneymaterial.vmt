@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+"$baseTexture" "models\freeman\moneymaterial_anim"
+"$surfaceprop" "paper"
+"$nocull" "1"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+} 

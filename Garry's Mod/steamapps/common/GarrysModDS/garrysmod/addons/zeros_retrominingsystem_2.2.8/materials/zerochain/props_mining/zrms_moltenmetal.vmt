@@ -1,0 +1,8 @@
+"MonitorScreen"
+{
+	"$baseTexture"			"zerochain/props_mining/zrms_moltenmetal"
+	"$surfaceprop" "metal"
+	"$model" 1
+	 $selfillum 1
+	 //$additive 1
+}

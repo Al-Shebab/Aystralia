@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt01"
+	"$bumpMap"				"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt01_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

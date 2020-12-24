@@ -1,0 +1,8 @@
+"MonitorScreen"
+{
+	"$baseTexture"			"zerochain/props_mining/refinery/zrms_fullwhite"
+
+	"$surfaceprop" "glass"
+	"$model" 1
+
+}

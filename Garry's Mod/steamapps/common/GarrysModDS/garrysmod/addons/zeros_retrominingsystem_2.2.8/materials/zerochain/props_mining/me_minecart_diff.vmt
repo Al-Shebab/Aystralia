@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/me_minecart_diff"
+	"$bumpMap"				"zerochain/props_mining/me_minecart_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapfresnel" "1"
+	
+	$phong 1
+
+        $phongboost 1
+        $phongtint "[.1 .1 .1]"
+        $phongfresnelranges "[1 2 3]"
+		$phongexponenttexture	"zerochain/props_mining/me_minecart_phong"
+
+		$rimlight               1
+		$rimlightexponent      15
+		$rimlightboost         10
+}

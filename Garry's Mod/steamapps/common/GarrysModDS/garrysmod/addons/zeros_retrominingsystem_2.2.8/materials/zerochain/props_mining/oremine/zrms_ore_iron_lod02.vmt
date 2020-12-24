@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/oremine/resource_iron_diff"
+
+	"$surfaceprop" "stone"
+	"$model" 1
+
+}
