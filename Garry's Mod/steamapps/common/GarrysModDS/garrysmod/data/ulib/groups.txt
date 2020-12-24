@@ -1,0 +1,31 @@
+"operator"
+{
+	"allow"
+	{
+	}
+	"can_target"    "!%admin"
+}
+
+"admin"
+{
+	"allow"
+	{
+	}
+	"inherit_from"	"operator"
+	"can_target"    "!%superadmin"
+}
+
+"superadmin"
+{
+	"allow"
+	{
+	}
+	"inherit_from"	"admin"
+}
+
+"user"
+{
+	"allow"
+	{
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"groupBlacklist": [
+		"superadmin",
+		"owner",
+		"admin"
+	],
+	"PunishmentSequence": {
+		"3": {
+			"NumberOfWarnings": 3.0,
+			"PunishmentMessage": "AWarn: You have been kicked for exceeding the warning threshold",
+			"PunishmentType": "kick"
+		},
+		"5": {
+			"NumberOfWarnings": 5.0,
+			"PunishmentLength": 60.0,
+			"PunishmentMessage": "AWarn: You have been temporarily banned for exceeding the warning threshold",
+			"PunishmentType": "ban"
+		},
+		"7": {
+			"NumberOfWarnings": 7.0,
+			"PunishmentLength": 0.0,
+			"PunishmentMessage": "AWarn: You have been permanently banned for exceeding the warning threshold",
+			"PunishmentType": "ban"
+		}
+	},
+	"userBlacklist": [
+		"STEAM_0:1:12345678"
+	]
+}
