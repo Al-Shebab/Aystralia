@@ -1,0 +1,29 @@
+"AppWorkshop"
+{
+	"appid"		"4000"
+	"SizeOnDisk"		"4489764"
+	"NeedsUpdate"		"0"
+	"NeedsDownload"		"0"
+	"TimeLastUpdated"		"1608800717"
+	"TimeLastAppRan"		"0"
+	"WorkshopItemsInstalled"
+	{
+		"107411755"
+		{
+			"size"		"4489764"
+			"timeupdated"		"1376493635"
+			"manifest"		"-1"
+			"ugchandle"		"903256711655401547"
+		}
+	}
+	"WorkshopItemDetails"
+	{
+		"107411755"
+		{
+			"manifest"		"-1"
+			"ugchandle"		"903256711655401547"
+			"timeupdated"		"1376493635"
+			"timetouched"		"1608800718"
+		}
+	}
+}

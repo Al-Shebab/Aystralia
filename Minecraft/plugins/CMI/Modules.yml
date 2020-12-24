@@ -7,7 +7,7 @@
 #  
 # Handles silent chest opening actions
 # Applies for servers from 1.7.x and up
-silentChest: true
+silentChest: false
 #  
 # Version check when player logs in
 # Applies for servers from 1.7.x and up
@@ -16,10 +16,6 @@ versionCheck: true
 # World limitations: fly, game mode and god mode
 # Applies for servers from 1.7.x and up
 worldLimits: true
-#  
-# World limitations: elytra mode
-# Applies for servers from 1.9.x and up
-worldLimitsElytra: true
 #  
 # Login, logout and death messages
 # Applies for servers from 1.7.x and up
@@ -31,7 +27,7 @@ firstJoinMessages: true
 #  
 # Handling of cuffed players
 # Applies for servers from 1.7.x and up
-cuffed: true
+cuffed: false
 #  
 # Handling of messages appearing when item durability gets low
 # Applies for servers from 1.7.x and up
@@ -43,15 +39,15 @@ mirror: true
 #  
 # Spawner handling, like drop, place, egg interactions
 # Applies for servers from 1.7.x and up
-spawners: true
+spawners: false
 #  
 # Checking spawner place proximity
 # Applies for servers from 1.7.x and up
-spawnerProximity: true
+spawnerProximity: false
 #  
 # Checking spawner charges
 # Applies for servers from 1.7.x and up
-spawnerCharge: true
+spawnerCharge: false
 #  
 # Handling of command cooldowns
 # Applies for servers from 1.7.x and up
@@ -59,7 +55,7 @@ cooldown: true
 #  
 # Handling of command warmups
 # Applies for servers from 1.7.x and up
-warmup: true
+warmup: false
 #  
 # Handling of interactive commands
 # Applies for servers from 1.7.x and up
@@ -75,7 +71,7 @@ playerChatTag: true
 #  
 # Handling of tablist
 # Applies for servers from 1.7.x and up
-tablist: true
+tablist: false
 #  
 # Handling of painting editing with shift+right click
 # Applies for servers from 1.7.x and up
@@ -91,7 +87,7 @@ moneyCheque: true
 #  
 # Handles armor stand editor
 # Applies for servers from 1.7.x and up
-armorstand: true
+armorstand: false
 #  
 # Handles dedicated CMI playtime tracker
 # Applies for servers from 1.7.x and up
@@ -127,15 +123,7 @@ ranks: true
 #  
 # Handles votifier system
 # Applies for servers from 1.7.x and up
-votifier: true
-#  
-# Handles player combat system
-# Applies for servers from 1.7.x and up
-playerCombat: true
-#  
-# Handles head drops system
-# Applies for servers from 1.7.x and up
-headDrop: true
+votifier: false
 #  
 # Handles kit listener, mainly to give out new player kit
 # Applies for servers from 1.7.x and up
@@ -155,15 +143,15 @@ jail: true
 #  
 # Handles cmi flight charge system
 # Applies for servers from 1.7.x and up
-flightCharge: true
+flightCharge: false
 #  
 # Handles shulker box as backpacks
 # Applies for servers from 1.11.x and up
-shulkerBackpack: true
+shulkerBackpack: false
 #  
 # Handles player skins
 # Applies for servers from 1.8.x and up
-skin: true
+skin: false
 #  
 # Handles selection areas. While this is disabled, command can still be used
 # Applies for servers from 1.7.x and up
@@ -179,7 +167,7 @@ afk: true
 #  
 # Handling timed commands like tfly and tgod
 # Applies for servers from 1.7.x and up
-timedCommands: true
+timedCommands: false
 #  
 # Handling of eventCommands.yml feature 
 # Applies for servers from 1.9.x and up
@@ -187,7 +175,7 @@ eventCommands: true
 #  
 # Handling of disabled enchants in inventory
 # Applies for servers from 1.7.x and up
-disabledEnchants: true
+disabledEnchants: false
 #  
 # Handling of siting on blocks
 # Applies for servers from 1.8.x and up
@@ -199,19 +187,19 @@ bossBarCompass: true
 #  
 # Elytra boost
 # Applies for servers from 1.9.x and up
-elytraBoost: true
+elytraBoost: false
 #  
 # Elytra launch
 # Applies for servers from 1.9.x and up
-elytraLaunch: true
+elytraLaunch: false
 #  
 # Exploit prevention, like using trident for infinite flight or self damage with arrow
 # Applies for servers from 1.9.x and up
-elytraExploit: true
+elytraExploit: false
 #  
 # Handling of custom totem behavior
 # Applies for servers from 1.11.x and up
-totemBehavior: true
+totemBehavior: false
 #  
 # Handling of anvil item renaming and colorization
 # Applies for servers from 1.9.x and up
