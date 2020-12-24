@@ -1,0 +1,50 @@
+
+
+[2020-12-23 23:07:22] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-12-23 23:07:22] Change number 0->10334665, apps: 0/0, packages: 0/0
+[2020-12-23 23:07:22] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:07:23] Requesting 1 apps, 1 packages (full data, 1024 prev attempts)
+[2020-12-23 23:07:23] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 1 (22 KB)
+[2020-12-23 23:07:23] Requesting 699 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:07:24] Requested 74 app access tokens, 42 received, 32 denied
+[2020-12-23 23:07:24] Updated SHAs with 42 new access tokens
+[2020-12-23 23:07:24] Downloaded 67 apps via HTTP, 1518 KB (364 KB compressed)
+[2020-12-23 23:07:24] Requesting 632 apps, 0 packages (full data, 1024 prev attempts)
+[2020-12-23 23:07:26] UpdatesJob: finished OK, apps updated 699 (3451 KB), packages updated 0 (0 KB)
+[2020-12-23 23:07:41] Starting async write C:\Users\Administrator\Desktop\FTP\Garry's Mod/appcache/appinfo.vdf (2518926 bytes)
+[2020-12-23 23:08:07] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-12-23 23:08:07] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:08:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2020-12-23 23:10:50] RequestAppInfoUpdate: nNumAppIDs 1
+[2020-12-23 23:10:50] Packages changed: 
+[2020-12-23 23:10:50] Apps changed: 
+[2020-12-23 23:10:50] Change number 10334665->10334716, apps: 0/48, packages: 0/3
+[2020-12-23 23:10:50] Requesting 33 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:10:51] Requested 32 app access tokens, 0 received, 32 denied
+[2020-12-23 23:10:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2020-12-23 23:25:50] Packages changed: force all
+[2020-12-23 23:25:50] Apps changed: 
+[2020-12-23 23:25:50] Change number 10334716->10334759, apps: 0/28, packages: 0/0
+[2020-12-23 23:25:50] Requesting 0 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:25:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2020-12-23 23:40:50] Packages changed: force all
+[2020-12-23 23:40:50] Apps changed: 362890=10334790,544550=10334777,
+[2020-12-23 23:40:50] Change number 10334759->10334875, apps: 2/110, packages: 0/0
+[2020-12-23 23:40:50] Requesting 2 apps, 1 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:40:51] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2020-12-23 23:40:51] UpdatesJob: finished OK, apps updated 2 (12 KB), packages updated 0 (0 KB)
+[2020-12-23 23:41:06] Starting async write C:\Users\Administrator\Desktop\FTP\Garry's Mod/appcache/appinfo.vdf (2518925 bytes)
+[2020-12-23 23:55:50] Packages changed: 
+[2020-12-23 23:55:50] Apps changed: 600760=10334910,489650=10334900,
+[2020-12-23 23:55:50] Change number 10334875->10334912, apps: 2/32, packages: 0/3
+[2020-12-23 23:55:50] Requesting 2 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-23 23:55:51] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2020-12-23 23:55:51] UpdatesJob: finished OK, apps updated 2 (6 KB), packages updated 0 (0 KB)
+[2020-12-23 23:56:06] Starting async write C:\Users\Administrator\Desktop\FTP\Garry's Mod/appcache/appinfo.vdf (2518925 bytes)
+[2020-12-24 00:10:50] Packages changed: 
+[2020-12-24 00:10:50] Apps changed: 1088320=10334998,
+[2020-12-24 00:10:50] Change number 10334912->10335002, apps: 1/75, packages: 0/4
+[2020-12-24 00:10:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2020-12-24 00:10:51] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2020-12-24 00:10:51] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2020-12-24 00:11:06] Starting async write C:\Users\Administrator\Desktop\FTP\Garry's Mod/appcache/appinfo.vdf (2518925 bytes)

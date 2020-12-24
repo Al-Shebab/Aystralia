@@ -1,0 +1,77 @@
+
+
+[2020-12-23 23:06:44] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\appmanifest_*.acf".
+[2020-12-23 23:08:07] AppID 4020 state changed : Update Required,
+[2020-12-23 23:08:07] AppID 4020 scheduler update : Priority First, timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2020-12-23 23:08:07] AppID 4020 state changed : Update Required,Update Queued,
+[2020-12-23 23:08:07] AppID 4020 scheduler update : Priority First, timeSinceLastPlayed=1, appDisableSecondsRemaining=0
+[2020-12-23 23:08:07] AppID 4020 state changed : Update Required,Update Queued,Update Running,
+[2020-12-23 23:08:07] AppID 4020 update changed : Running,
+[2020-12-23 23:08:07] AppID 4020 update changed : Running,Reconfiguring,
+[2020-12-23 23:08:07] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2020-12-23 23:08:07] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2020-12-23 23:08:07] Created download interface of type 'SteamCache' (7) to host cache51-fra1.steamcontent.com (cache51-fra1.steamcontent.com)
+[2020-12-23 23:08:07] Created download interface of type 'SteamCache' (7) to host cache66-fra1.steamcontent.com (cache66-fra1.steamcontent.com)
+[2020-12-23 23:08:07] Created ipv4-only http client
+[2020-12-23 23:08:08] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (155.133.250.8:443 / 155.133.250.8:443, host: cache9-fra1.steamcontent.com): cache9-fra1.steamcontent.com/depot/4021/manifest/6011502428486539618/5 - received 200 (OK) HTTP response
+[2020-12-23 23:08:08] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (155.133.250.8:443 / 155.133.250.8:443, host: cache9-fra1.steamcontent.com): cache9-fra1.steamcontent.com/depot/4022/manifest/6069531498688214160/5 - received 200 (OK) HTTP response
+[2020-12-23 23:08:08] AppID 4020 update changed : Running,
+[2020-12-23 23:08:08] AppID 4020 update changed : Running,Validating,
+[2020-12-23 23:08:08] AppID 4020 update changed : Running,
+[2020-12-23 23:08:08] AppID 4020 update changed : Running,Preallocating,
+[2020-12-23 23:08:09] AppID 4020 update changed : Running,
+[2020-12-23 23:08:09] AppID 4020 update started : download 0/2200311920, store 0/0, reuse 0/0, delta 0/0, stage 0/3926429645 
+[2020-12-23 23:08:09] AppID 4020 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2020-12-23 23:08:09] AppID 4020 update changed : Running,Downloading,
+[2020-12-23 23:08:09] AppID 4020 update changed : Running,Downloading,Staging,
+[2020-12-23 23:08:09] Downloading 5706 chunks from depot 4021
+[2020-12-23 23:08:20] Increasing target number of download connections to 4 (rate was 0.000, now 212.744)
+[2020-12-23 23:08:20] Created download interface of type 'SteamCache' (7) to host cache61-fra1.steamcontent.com (cache61-fra1.steamcontent.com)
+[2020-12-23 23:08:38] Increasing target number of download connections to 5 (rate was 212.744, now 284.795)
+[2020-12-23 23:08:38] Created download interface of type 'SteamCache' (7) to host cache14-fra1.steamcontent.com (cache14-fra1.steamcontent.com)
+[2020-12-23 23:08:50] Increasing target number of download connections to 6 (rate was 284.795, now 369.914)
+[2020-12-23 23:08:50] Created download interface of type 'SteamCache' (7) to host cache30-fra1.steamcontent.com (cache30-fra1.steamcontent.com)
+[2020-12-23 23:09:21] Current download rate: 63.449 Mbps
+[2020-12-23 23:09:48] HTTP (SteamCache,298) - cache14-fra1.steamcontent.com (155.133.250.12:443 / 155.133.250.12:443, host: cache14-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:48] HTTP (SteamCache,298) - cache14-fra1.steamcontent.com (155.133.250.12:443 / 155.133.250.12:443, host: cache14-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-23 23:09:49] HTTP (SteamCache,298) - cache14-fra1.steamcontent.com (155.133.250.12:443 / 155.133.250.12:443, host: cache14-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,298) - cache14-fra1.steamcontent.com (155.133.250.12:443 / 155.133.250.12:443, host: cache14-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:09:49] Created download interface of type 'SteamCache' (7) to host cache59-fra1.steamcontent.com (cache59-fra1.steamcontent.com)
+[2020-12-23 23:09:49] HTTP (SteamCache,49) - cache66-fra1.steamcontent.com (155.133.250.105:80 / 155.133.250.105:80, host: cache66-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,49) - cache66-fra1.steamcontent.com (155.133.250.105:80 / 155.133.250.105:80, host: cache66-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-23 23:09:49] HTTP (SteamCache,49) - cache66-fra1.steamcontent.com (155.133.250.105:80 / 155.133.250.105:80, host: cache66-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,49) - cache66-fra1.steamcontent.com (155.133.250.105:80 / 155.133.250.105:80, host: cache66-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:09:49] Created download interface of type 'SteamCache' (7) to host cache58-fra1.steamcontent.com (cache58-fra1.steamcontent.com)
+[2020-12-23 23:09:49] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (155.133.250.8:443 / 155.133.250.8:443, host: cache9-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (155.133.250.8:443 / 155.133.250.8:443, host: cache9-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-23 23:09:49] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-23 23:09:49] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (155.133.250.8:443 / 155.133.250.8:443, host: cache9-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (155.133.250.8:443 / 155.133.250.8:443, host: cache9-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:09:49] HTTP (SteamCache,41) - cache61-fra1.steamcontent.com (155.133.250.70:443 / 155.133.250.70:443, host: cache61-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,41) - cache61-fra1.steamcontent.com (155.133.250.70:443 / 155.133.250.70:443, host: cache61-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-23 23:09:49] HTTP (SteamCache,41) - cache61-fra1.steamcontent.com (155.133.250.70:443 / 155.133.250.70:443, host: cache61-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,41) - cache61-fra1.steamcontent.com (155.133.250.70:443 / 155.133.250.70:443, host: cache61-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:09:49] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2020-12-23 23:09:49] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:09:49] Created download interface of type 'SteamCache' (7) to host cache44-fra1.steamcontent.com (cache44-fra1.steamcontent.com)
+[2020-12-23 23:09:49] Created download interface of type 'SteamCache' (7) to host cache68-fra1.steamcontent.com (cache68-fra1.steamcontent.com)
+[2020-12-23 23:09:49] Created download interface of type 'SteamCache' (7) to host cache55-fra1.steamcontent.com (cache55-fra1.steamcontent.com)
+[2020-12-23 23:09:50] Downloading 292 chunks from depot 4022
+[2020-12-23 23:09:54] AppID 4020 update changed : Running,
+[2020-12-23 23:09:54] AppID 4020 update changed : Running,Committing,
+[2020-12-23 23:09:54] AppID 4020 starting commit from "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\downloading\4020" to "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS" : 2490 updated, 0 moved, 0 deleted files
+[2020-12-23 23:09:58] AppID 4020 state changed : Fully Installed,Update Queued,Update Running,
+[2020-12-23 23:09:58] AppID 4020 finished update, mounted depots (BuildID 5956225) : 4021 (6011502428486539618),4022 (6069531498688214160),
+[2020-12-23 23:09:58] AppID 4020 update changed : Running,
+[2020-12-23 23:09:58] AppID 4020 update changed : None
+[2020-12-23 23:09:58] AppID 4020 state changed : Fully Installed,Update Queued,
+[2020-12-23 23:09:58] AppID 4020 state changed : Fully Installed,
+[2020-12-23 23:09:58] AppID 4020 scheduler finished : removed from schedule
+[2020-12-23 23:10:22] Current download rate: 0.000 Mbps
+[2020-12-23 23:10:52] HTTP (SteamCache,164) - cache59-fra1.steamcontent.com (155.133.250.102:443 / 155.133.250.102:443, host: cache59-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:10:52] HTTP (SteamCache,149) - cache44-fra1.steamcontent.com (155.133.250.55:443 / 155.133.250.55:443, host: cache44-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:10:52] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:10:52] HTTP (SteamCache,163) - cache58-fra1.steamcontent.com (155.133.250.69:443 / 155.133.250.69:443, host: cache58-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:10:52] HTTP (SteamCache,160) - cache55-fra1.steamcontent.com (155.133.250.100:443 / 155.133.250.100:443, host: cache55-fra1.steamcontent.com): Closing connection
+[2020-12-23 23:10:53] HTTP (SteamCache,265) - cache30-fra1.steamcontent.com (155.133.250.42:443 / 155.133.250.42:443, host: cache30-fra1.steamcontent.com): Closing connection
