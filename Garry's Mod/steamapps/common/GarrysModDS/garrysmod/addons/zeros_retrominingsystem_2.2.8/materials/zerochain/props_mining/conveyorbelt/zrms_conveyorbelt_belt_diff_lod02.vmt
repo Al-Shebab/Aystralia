@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt_belt_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$myspeed" "0"
+
+	 "Proxies"
+    {
+        "TextureScroll"
+        {
+            "texturescrollvar" "$baseTexturetransform"
+            "texturescrollrate" "$myspeed"
+            "texturescrollangle" -90
+        }
+    }
+}
+

@@ -1,0 +1,40 @@
+"VertexLitGeneric"
+{
+	//$color2 "{ 200 45 45 }"
+	//"$blendtintbybasealpha" "1"
+	//"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_oilrush/drilltower/drilltower_diff"
+
+
+	"$alphatest"			1
+	"$allowalphatocoverage" "1"
+    "$alphatestreference" "0.1"
+	
+	"$bumpMap"				"zerochain/props_oilrush/drilltower/drilltower_nrm"
+	"$normalmapalphaenvmapmask" "1"
+
+	$nocull 1
+
+	"$surfaceprop" "metal"
+	"$model" 1
+	$halflambert 0
+	
+	$phong 1
+	$phongexponent 5
+	$phongfresnelranges "[1 2 3]"
+	$phongalbedotint 1
+	$phongboost 15
+	$phongalbedoboost 100
+	
+	$envmap env_cubemap
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+	$envmapFresnelMinMaxExp "[1 2 3]"
+	
+	$rimlight               1
+	$rimlightexponent      15
+	$rimlightboost         1
+	$rimmask 1
+
+}

@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/refinery/zrms_refiner_diff"
+	"$bumpMap"				"zerochain/props_mining/refinery/zrms_refiner_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 0.4 0.195]"
+	"$envmapfresnel" "0.2"
+
+	$phong 1
+		$phongexponent 2
+		//$phongexponenttexture "zerochain/props_mining/refinery/zrms_refiner_phong"
+        $phongboost	1
+		$phongtint "[1 0.4 0.195]"
+        $halflambert 1
+        $phongfresnelranges "[1 2 3]"
+
+		$rimlight               1
+		$rimlightexponent      1
+		$rimlightboost         1
+}

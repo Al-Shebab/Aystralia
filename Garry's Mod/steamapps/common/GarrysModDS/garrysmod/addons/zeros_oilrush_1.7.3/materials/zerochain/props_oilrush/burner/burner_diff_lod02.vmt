@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"			"zerochain/props_oilrush/burner/burner_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

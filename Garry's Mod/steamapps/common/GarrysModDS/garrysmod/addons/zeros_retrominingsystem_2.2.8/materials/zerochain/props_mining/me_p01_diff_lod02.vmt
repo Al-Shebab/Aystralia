@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/me_p01_diff_lod02"
+
+	"$surfaceprop" "wood"
+	"$model" 1
+
+}

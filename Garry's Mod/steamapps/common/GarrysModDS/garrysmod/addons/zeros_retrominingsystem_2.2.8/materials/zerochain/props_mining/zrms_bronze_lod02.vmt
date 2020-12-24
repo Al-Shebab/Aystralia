@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$color2 "[1 0.4 0.195]"
+	$blendTintByBaseAlpha 1
+	$blendTintColorOverBase 1
+	
+	"$baseTexture"			"zerochain/props_mining/resource_ore_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

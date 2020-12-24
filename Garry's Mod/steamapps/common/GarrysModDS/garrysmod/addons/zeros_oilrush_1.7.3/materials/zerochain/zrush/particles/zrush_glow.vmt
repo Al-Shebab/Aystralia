@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zerochain/zrush/particles/zrush_glow"
+	"$additive" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

@@ -1,0 +1,5 @@
+include 'lib/3d2d_vgui/init.lua'
+include 'autorun/casinocrash_config.lua'
+include 'lib/crash/fonts.lua'
+include 'lib/crash/helper.lua'
+include 'lib/crash/client.lua'

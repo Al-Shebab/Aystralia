@@ -1,0 +1,5 @@
+ENT.Base = "base_anim"
+ENT.Type = "anim"
+ENT.PrintName = "Vehicle Platform"
+ENT.Category = "Tupac's Items"
+ENT.Author = "Tupac Shakur"

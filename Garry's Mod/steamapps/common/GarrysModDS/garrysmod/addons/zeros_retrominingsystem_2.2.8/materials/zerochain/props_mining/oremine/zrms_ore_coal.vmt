@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/oremine/resource_coal_diff"
+
+	"$surfaceprop" "stone"
+	"$model" 1
+
+	
+	"$bumpmap" "zerochain/props_mining/oremine/resource_coal_nrm"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$envmapfresnel" "1"
+	
+	$phong 1
+        $phongexponent 4
+        $phongboost 0.2
+		$phongtint "[1 1 1]"
+        $halflambert 1
+        $phongfresnelranges "[1 2 3]"
+}

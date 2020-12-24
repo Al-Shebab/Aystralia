@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zerochain/zrms/particles/zrms_ore"
+	"$additive" "0"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

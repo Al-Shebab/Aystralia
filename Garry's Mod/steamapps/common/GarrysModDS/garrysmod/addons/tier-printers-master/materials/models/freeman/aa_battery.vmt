@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/battery_diffuse"	
+                "$bumpmap" "models/freeman/battery_norm"
+                  "$phongexponenttexture" "models/freeman/battery_norm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "0.8"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "0.6"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.85"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+	"$envmap" "env_cubemap"
+	$envmaptint "[0.07 0.085 0.095]"
+
+
+}

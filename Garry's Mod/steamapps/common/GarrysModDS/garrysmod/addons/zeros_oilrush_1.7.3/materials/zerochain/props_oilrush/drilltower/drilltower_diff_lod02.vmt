@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	//$color2 "{ 200 45 45 }"
+	//"$blendtintbybasealpha" "1"
+	//"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_oilrush/drilltower/drilltower_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+}
+
