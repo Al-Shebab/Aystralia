@@ -591,3 +591,8 @@
 [2020-12-24 04:25:25] AppID 4020 state changed : Fully Installed,Update Queued,
 [2020-12-24 04:25:25] AppID 4020 state changed : Fully Installed,
 [2020-12-24 04:25:25] AppID 4020 scheduler finished : removed from schedule
+
+
+[2020-12-24 14:13:04] Loaded 1 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\appmanifest_*.acf".
+[2020-12-24 14:14:05] Failed installing AppID 240 (No subscription)
+[2020-12-24 14:14:33] Failed installing AppID 240 (No subscription)

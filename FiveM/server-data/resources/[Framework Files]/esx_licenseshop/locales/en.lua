@@ -6,7 +6,7 @@ Locales['en'] = {
   ['need_dmv'] = 'You must have a Drivers Permit',
   ['shop_menu_item'] = '$%s',
   -- esx_advancedvehicleshop Licenses
-  ['license_aircraft'] = 'Aircraft License',
+  ['license_aircraft'] = 'Driver License',
   ['license_boating'] = 'Boating License',
   -- esx_advancedweaponshop Licenses
   ['license_melee'] = 'Melee License',

@@ -114,3 +114,18 @@
 [2020-12-24 04:17:04] Verifying installation...
 [2020-12-24 04:17:04] Performing checksum verification of executable files
 [2020-12-24 04:17:04] Verification complete
+
+
+[2020-12-24 14:13:01] Startup - updater built Dec 17 2020 18:50:40
+[2020-12-24 14:13:01] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2020-12-24 14:13:01] Using the following download hosts for Public, Realm steamglobal
+[2020-12-24 14:13:01] 1. http://client-download.steampowered.com, /client/, Realm 'steamglobal', weight was 100, source = 'baked in'
+[2020-12-24 14:13:01] 2. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2020-12-24 14:13:01] Checking for update on startup
+[2020-12-24 14:13:01] Checking for available updates...
+[2020-12-24 14:13:01] Downloading manifest: http://client-download.steampowered.com/client/steam_cmd_win32
+[2020-12-24 14:13:02] Download skipped: /client/steam_cmd_win32 version 1608497921, installed version 1608497921, downloaded version 0
+[2020-12-24 14:13:02] Nothing to do
+[2020-12-24 14:13:02] Verifying installation...
+[2020-12-24 14:13:02] Performing checksum verification of executable files
+[2020-12-24 14:13:04] Verification complete

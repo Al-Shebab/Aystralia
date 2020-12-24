@@ -1,0 +1,1 @@
+{"PrintToConsole":[],"Info":{"Team":true,"Weapon":false,"Health":false,"Armour":false,"Usergroup":false},"General":{"DisableServerLog":false,"AutoDelete":30.0,"DisableDarkRPLog":false,"AutoDeleteEnabled":true,"VolatileLogs":false},"Permissions":{"Usergroups":[],"Jobs":[],"SteamIDs":[]},"SendToDiscord":[],"ModulesDisabled":[]}
