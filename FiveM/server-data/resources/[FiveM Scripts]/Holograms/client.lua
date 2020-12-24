@@ -1,5 +1,5 @@
 -- 3d vector (x,y,z)
-local v1 = vector3(-1377.514282266, -2852.64941406, 13.9448)
+local v1 = vector3(-266.62, -960.23, 31.22)
 -- 2d vector (airport) <x,y>
 local v2 = vector2(-1299.757, -2846.576)
 -- '4d' vector (airport) <x,y,z,w>
@@ -52,7 +52,7 @@ Citizen.CreateThread(
             -- the "Vdist2" native checks how far two vectors are from another.
             -- https://runtime.fivem.net/doc/natives/#_0xB7A628320EFF8E47
             if Vdist2(GetEntityCoords(PlayerPedId(), false), v1) < distance_until_text_disappears then
-                Draw3DText(v1.x, v1.y, v1.z, 1.5, "Welcome to [Server] ~n~ ~r~ Join us in discord server: ~n~ ~c~ https://discord.gg/")
+                Draw3DText(v1.x, v1.y, v1.z, 0.7, "~g~ Welcome to Aystralia Network!~n~~w~~h~Discord.gg/hWN7zXtbQP~n~~y~[Made by: Al Shebab & Mailar]")
             end
         end
     end
