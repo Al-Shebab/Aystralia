@@ -17,6 +17,10 @@ versionCheck: true
 # Applies for servers from 1.7.x and up
 worldLimits: true
 #  
+# World limitations: elytra mode
+# Applies for servers from 1.9.x and up
+worldLimitsElytra: true
+#  
 # Login, logout and death messages
 # Applies for servers from 1.7.x and up
 customMessages: true
@@ -124,6 +128,14 @@ ranks: true
 # Handles votifier system
 # Applies for servers from 1.7.x and up
 votifier: false
+#  
+# Handles player combat system
+# Applies for servers from 1.7.x and up
+playerCombat: true
+#  
+# Handles head drops system
+# Applies for servers from 1.7.x and up
+headDrop: true
 #  
 # Handles kit listener, mainly to give out new player kit
 # Applies for servers from 1.7.x and up
