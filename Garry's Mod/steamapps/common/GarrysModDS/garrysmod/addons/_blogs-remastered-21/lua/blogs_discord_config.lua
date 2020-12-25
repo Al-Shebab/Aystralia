@@ -13,7 +13,7 @@
 	
 ]]
 
-bLogs.Discord.Enabled = false
+bLogs.Discord.Enabled = true
 
-bLogs.Discord.ServerName = "Main Server"
-bLogs.Discord.Webhook = "PASTE_URL_HERE"
+bLogs.Discord.ServerName = "Aystralia | Garry's Mod"
+bLogs.Discord.Webhook = "https://canary.discord.com/api/webhooks/792009450604986398/ODqJJPKTV8PuLRQEZ1oif4A-J9m5N9MrHdZX2bECFa7YgydW3JWNlmXfEw62Jgpr7g6P"
