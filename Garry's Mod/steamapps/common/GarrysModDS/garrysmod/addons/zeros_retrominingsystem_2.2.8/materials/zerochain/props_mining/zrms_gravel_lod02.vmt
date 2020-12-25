@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"zerochain/props_mining/zrms_gravel_lod02"
-
-	"$surfaceprop" "stone"
-	"$model" 1
-}
