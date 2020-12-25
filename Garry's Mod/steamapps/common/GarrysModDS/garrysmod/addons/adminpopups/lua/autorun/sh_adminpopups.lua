@@ -9,15 +9,13 @@ local cfg = cfg or {}
 
 cfg.autoclose = 60 -- the case will auto close after this amount of seconds
 cfg.preventchat = true -- Prevents adminchat messages shown on popups
-cfg.caseUpdateOnly = false -- Once a case is claimed, only the claimer sees further updates
+cfg.caseUpdateOnly = true -- Once a case is claimed, only the claimer sees further updates
 cfg.useFAdmin = false -- Use FAdmin reports (///help me please)
 cfg.debug = false -- Debug mode allows admins to send popups too and prints button commands
 cfg.xpos = 20 -- X cordinate of the popup. Can be changed in case it blocks something important
 cfg.ypos = 20 -- Y cordinate of the popup. Can be changed in case it blocks something important
 cfg.dutyjobs = { -- These are the 'on duty' jobs. Clients can restrict notifications to these jobs only
-	"admin on duty",
-	"mod on duty",
-	"moderator on duty"
+	"Staff On Duty"
 }
 
 
