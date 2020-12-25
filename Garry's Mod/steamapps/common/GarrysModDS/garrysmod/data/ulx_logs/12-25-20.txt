@@ -1,0 +1,6 @@
+[04:53:49] New map: rp_downtown_v4c_v4_sewers
+[04:57:09] Client "Al Shebab" connected.
+
+
+
+[05:58:02] New map: rp_downtown_v4c_v4

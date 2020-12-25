@@ -168,3 +168,28 @@
 
 [2020-12-24 15:17:02] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
 [2020-12-24 15:17:04] Got 85 content servers from directory
+
+
+[2020-12-25 04:52:40] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-25 04:52:42] Got 85 content servers from directory
+
+
+[2020-12-25 04:53:49] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-25 04:53:50] Got 85 content servers from directory
+
+
+[2020-12-25 05:57:04] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-25 05:57:06] Got 85 content servers from directory
+[2020-12-25 05:57:07] AppID 4000 update changed : Running,
+[2020-12-25 05:57:07] AppID 4000 update changed : Running,Reconfiguring,
+[2020-12-25 05:57:07] AppID 4000 update changed : Running,
+[2020-12-25 05:57:09] AppID 4000 update started : download 0/0, store 0/0, reuse 0/0, delta 0/0, stage 0/0 
+[2020-12-25 05:57:09] AppID 4000 has no changes, active: 4000 (7508936734016441404), target: 4000 (7508936734016441404),
+[2020-12-25 05:57:09] AppID 4000 update changed : Running,Committing,
+[2020-12-25 05:57:09] AppID 4000 file commit : 0 updated, 0 moved, 0 deleted
+[2020-12-25 05:57:09] AppID 4000 update changed : Running,
+[2020-12-25 05:57:09] AppID 4000 update changed : None
+
+
+[2020-12-25 05:58:02] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-25 05:58:03] Got 85 content servers from directory
