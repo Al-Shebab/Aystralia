@@ -61,3 +61,12 @@
 [2020-12-24 14:09:02] [AppID 4000] Workshop update job started while app is running, commit : yes
 [2020-12-24 14:09:05] [AppID 4000] Download item 452404339 result : OK
 [2020-12-24 14:09:05] [AppID 4000] Finished Workshop download job : No Error
+
+
+[2020-12-24 15:02:32] [AppID 4000] Loaded workshop items in "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\steam_cache" (9 installed, 9 needed)
+
+
+[2020-12-24 15:04:32] [AppID 4000] Loaded workshop items in "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\steam_cache" (9 installed, 9 needed)
+
+
+[2020-12-24 15:15:05] [AppID 4000] Loaded workshop items in "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\steam_cache" (9 installed, 9 needed)
