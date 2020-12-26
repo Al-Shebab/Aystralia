@@ -5,3 +5,50 @@
 [00:13:59] Client "brexit" connected.
 [00:14:23] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 24 seconds).
 [00:15:04] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 68 seconds).
+[00:35:24] brexit: !menu
+[00:35:33] brexit: !menu
+[00:36:46] brexit: !menu
+[00:37:55] brexit granted access "ulx who" to group superadmin
+[00:37:55] brexit granted access "ulx version" to group superadmin
+[00:38:12] brexit: !who
+[00:38:16] brexit: !ulx who
+[00:38:24] brexit: !menu
+[00:38:55] brexit granted access "ulx who" to group staff-manager
+[00:38:58] brexit granted access "ulx who" to group senior-admin
+[00:39:00] brexit granted access "ulx who" to group admin
+[00:39:03] brexit granted access "ulx who" to group moderator
+[00:39:05] brexit granted access "ulx who" to group trial-moderator
+[00:55:04] brexit: /drop
+[00:55:47] brexit: !hp 1000 Al
+[00:55:52] brexit: !hp
+[00:55:55] brexit set the hp for Al Shebab to 1000
+[00:55:55] brexit: !hp al 1000
+[00:56:50] Al Shebab: do you need the perma prop tool
+[00:56:56] Al Shebab: //  do you need the perma prop tool
+[00:57:10] brexit: Yea probs
+[00:57:14] Al Shebab: and the holograms
+[00:57:15] brexit: Is this the map
+[00:57:16] Al Shebab: ye
+[00:57:19] brexit: okay
+[00:57:22] Al Shebab: ill get it and restart
+[00:57:22] Al Shebab: 1 sec
+[00:57:25] brexit: ok
+[00:58:12] Al Shebab: // https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788
+[00:58:17] Al Shebab: // subscribe
+[00:58:46] brexit: // 
+[00:58:48] brexit: // polay
+[00:58:51] brexit: // okay
+
+
+
+[01:05:12] New map: rp_downtown_v4c
+
+
+
+[01:08:16] New map: rp_downtown_v4c
+
+
+
+[01:12:30] New map: rp_downtown_v4c
+[01:12:39] Client "Al Shebab" connected.
+[01:13:53] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 74 seconds).

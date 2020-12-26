@@ -1,0 +1,594 @@
+L 12/25/2020 - 22:10:57: Log file started (file "logs\L1225012.log") (game "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\garrysmod") (version "7891")
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_noclip" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxprops" "150"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxragdolls" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxnpcs" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxballoons" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxeffects" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxdynamite" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxthrusters" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxwheels" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxhoverballs" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxvehicles" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxbuttons" "10"
+L 12/25/2020 - 22:10:57: server_cvar: "sbox_maxemitters" "0"
+L 12/25/2020 - 22:10:57: server_cvar: "sv_allowcslua" "1"
+L 12/25/2020 - 22:10:57: server_cvar: "sv_airaccelerate" "1000"
+L 12/25/2020 - 22:10:59: Connection to Steam servers successful.
+L 12/25/2020 - 22:10:59:    Public IP is 134.255.252.243.
+L 12/25/2020 - 22:10:59: Assigned anonymous gameserver Steam ID [A-1:599302145(16166)].
+L 12/25/2020 - 22:10:59: VAC secure mode is activated.
+L 12/25/2020 - 22:11:06: "Al Shebab<2><STEAM_0:0:103364981><>" connected, address "60.242.220.28:27005"
+L 12/25/2020 - 22:11:06: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 22:11:07: "Al Shebab<2><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/25/2020 - 22:11:07: AWarn: Message Table Exists
+L 12/25/2020 - 22:11:07: AWarn: Player Data Table Exists
+L 12/25/2020 - 22:11:07: AWarn: Offline Player Data Table Exists
+L 12/25/2020 - 22:11:12: AWarn: Your server info has been updated to the online statistics tracking
+L 12/25/2020 - 22:11:19: "brexit<3><STEAM_0:1:121087763><>" connected, address "45.67.96.161:27005"
+L 12/25/2020 - 22:11:19: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 22:11:19: "brexit<3><STEAM_0:1:121087763><>" STEAM USERID validated
+L 12/25/2020 - 22:11:43: "brexit<3><STEAM_0:1:121087763><>" entered the game
+L 12/25/2020 - 22:15:48: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 22:16:03: "Al Shebab<2><STEAM_0:0:103364981><>" entered the game
+L 12/25/2020 - 22:16:03: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 22:16:14: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 22:18:01: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 22:18:46: [ULX] brexit removed group operator
+L 12/25/2020 - 22:18:49: [ULX] brexit removed group noaccess
+L 12/25/2020 - 22:19:22: [ULX] brexit created group Trial Moderator which inherits rights from group user
+L 12/25/2020 - 22:19:27: [ULX] brexit created group Moderator which inherits rights from group user
+L 12/25/2020 - 22:19:48: [ULX] brexit created group Senior Moderator which inherits rights from group admin
+L 12/25/2020 - 22:20:04: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "senior-moderator"
+
+L 12/25/2020 - 22:20:10: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 22:20:14: [ULX] brexit removed group Senior Moderator
+L 12/25/2020 - 22:20:20: [ULX] brexit removed group Moderator
+L 12/25/2020 - 22:20:22: [ULX] brexit removed group Trial Moderator
+L 12/25/2020 - 22:20:23: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "bind "m" "ulx menu""
+
+L 12/25/2020 - 22:20:48: [ULX] brexit created group senior-moderator which inherits rights from group admin
+L 12/25/2020 - 22:20:57: [ULX] brexit created group moderator which inherits rights from group user
+L 12/25/2020 - 22:21:02: [ULX] brexit created group trial-moderator which inherits rights from group user
+L 12/25/2020 - 22:21:16: [ULX] brexit created group senior-admin which inherits rights from group admin
+L 12/25/2020 - 22:22:02: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 22:23:07: [ULX] brexit froze Themself
+L 12/25/2020 - 22:23:08: [ULX] brexit unfroze Themself
+L 12/25/2020 - 22:23:22: [ULX] Al Shebab granted access "awarn_view" to group user
+L 12/25/2020 - 22:23:34: [ULX] Al Shebab revoked access "ulx psay" to group user
+L 12/25/2020 - 22:23:35: [ULX] Al Shebab granted access "ulx psay" to group user
+L 12/25/2020 - 22:23:45: [ULX] Al Shebab revoked access "ulx thetime" to group user
+L 12/25/2020 - 22:23:48: [ULX] Al Shebab revoked access "ulx motd" to group user
+L 12/25/2020 - 22:23:55: [ULX] Al Shebab revoked access "ulx usermanagementhelp" to group user
+L 12/25/2020 - 22:23:58: [ULX] brexit granted access "awarn_warn" to group trial-moderator
+L 12/25/2020 - 22:23:59: [ULX] Al Shebab revoked access "ulx help" to group user
+L 12/25/2020 - 22:24:00: [ULX] Al Shebab revoked access "ulx version" to group user
+L 12/25/2020 - 22:24:01: [ULX] Al Shebab revoked access "ulx who" to group user
+L 12/25/2020 - 22:24:04: [ULX] Al Shebab revoked access "ulx votemap" to group user
+L 12/25/2020 - 22:24:13: [ULX] brexit granted access "ulx ungag" to group trial-moderator
+L 12/25/2020 - 22:24:15: [ULX] brexit granted access "ulx gag" to group trial-moderator
+L 12/25/2020 - 22:24:22: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "/p"
+
+L 12/25/2020 - 22:24:23: [ULX] brexit granted access "ulx freeze" to group trial-moderator
+L 12/25/2020 - 22:24:25: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "!P"
+
+L 12/25/2020 - 22:24:29: [ULX] brexit granted access "ulx jail" to group trial-moderator
+L 12/25/2020 - 22:24:30: [ULX] brexit granted access "ulx jailtp" to group trial-moderator
+L 12/25/2020 - 22:24:32: [ULX] Al Shebab to brexit: niga
+L 12/25/2020 - 22:24:32: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "!p brex niga"
+
+L 12/25/2020 - 22:24:36: [ULX] brexit granted access "ulx unfreeze" to group trial-moderator
+L 12/25/2020 - 22:24:41: [ULX] brexit granted access "ulx unjail" to group trial-moderator
+L 12/25/2020 - 22:24:52: [ULX] brexit granted access "ulx cloak" to group trial-moderator
+L 12/25/2020 - 22:24:55: [ULX] brexit granted access "ulx uncloak" to group trial-moderator
+L 12/25/2020 - 22:25:12: [ULX] brexit revoked access "ulx cloak" to group trial-moderator
+L 12/25/2020 - 22:25:15: [ULX] brexit revoked access "ulx uncloak" to group trial-moderator
+L 12/25/2020 - 22:25:20: [ULX] brexit granted access "ulx cexec" to group trial-moderator
+L 12/25/2020 - 22:25:21: [ULX] brexit revoked access "ulx cexec" to group trial-moderator
+L 12/25/2020 - 22:25:24: [ULX] brexit granted access "ulx bring" to group trial-moderator
+L 12/25/2020 - 22:25:25: [ULX] brexit granted access "ulx goto" to group trial-moderator
+L 12/25/2020 - 22:25:31: [ULX] brexit granted access "ulx teleport" to group trial-moderator
+L 12/25/2020 - 22:25:54: [ULX] brexit granted access "ulx kick" to group trial-moderator
+L 12/25/2020 - 22:25:56: [ULX] brexit granted access "ulx noclip" to group trial-moderator
+L 12/25/2020 - 22:26:05: [ULX] Al Shebab created group new_group which inherits rights from group user
+L 12/25/2020 - 22:26:16: [ULX] brexit granted access "awarn_warn" to group moderator
+L 12/25/2020 - 22:26:20: [ULX] brexit granted access "ulx gag" to group moderator
+L 12/25/2020 - 22:26:23: [ULX] brexit granted access "ulx mute" to group moderator
+L 12/25/2020 - 22:26:25: [ULX] brexit granted access "ulx ungag" to group moderator
+L 12/25/2020 - 22:26:26: [ULX] brexit granted access "ulx unmute" to group moderator
+L 12/25/2020 - 22:26:29: [ULX] brexit granted access "ulx thetime" to group moderator
+L 12/25/2020 - 22:26:36: [ULX] Al Shebab renamed group new_group to staff-manager
+L 12/25/2020 - 22:26:41: [ULX] brexit granted access "ulx thetime" to group trial-moderator
+L 12/25/2020 - 22:26:51: [ULX] brexit granted access "ulx hp" to group moderator
+L 12/25/2020 - 22:26:55: [ULX] brexit granted access "ulx jail" to group moderator
+L 12/25/2020 - 22:26:56: [ULX] brexit granted access "ulx jailtp" to group moderator
+L 12/25/2020 - 22:27:01: [ULX] brexit granted access "ulx strip" to group moderator
+L 12/25/2020 - 22:27:05: [ULX] brexit granted access "ulx unfreeze" to group moderator
+L 12/25/2020 - 22:27:09: [ULX] brexit granted access "ulx unjail" to group moderator
+L 12/25/2020 - 22:27:12: [ULX] brexit granted access "ulx freeze" to group moderator
+L 12/25/2020 - 22:27:19: [ULX] Al Shebab changed group staff-manager to only be able to target !%superadmin
+L 12/25/2020 - 22:27:24: [ULX] brexit granted access "ulx ungod" to group moderator
+L 12/25/2020 - 22:27:27: [ULX] brexit granted access "ulx god" to group moderator
+L 12/25/2020 - 22:27:42: [ULX] brexit granted access "ulx bring" to group moderator
+L 12/25/2020 - 22:27:43: [ULX] brexit granted access "ulx goto" to group moderator
+L 12/25/2020 - 22:27:44: [ULX] brexit granted access "ulx teleport" to group moderator
+L 12/25/2020 - 22:27:49: [ULX] brexit granted access "ulx kick" to group moderator
+L 12/25/2020 - 22:27:50: [ULX] brexit granted access "ulx ban" to group moderator
+L 12/25/2020 - 22:27:50: [ULX] brexit granted access "ulx banid" to group moderator
+L 12/25/2020 - 22:27:53: [ULX] Al Shebab changed group admin to only be able to target !%senior-admin
+L 12/25/2020 - 22:28:07: [ULX] Al Shebab changed group senior-admin to only be able to target !%staff-manager
+L 12/25/2020 - 22:28:15: [ULX] brexit granted access "ulx ban" with tag "* :1w" to group moderator
+L 12/25/2020 - 22:28:41: [ULX] brexit granted access "ulx banid" with tag "* :1w" to group moderator
+L 12/25/2020 - 22:28:41: [ULX] Al Shebab changed group senior-moderator to only be able to target !%admin
+L 12/25/2020 - 22:28:56: [ULX] brexit granted access "ulx noclip" to group moderator
+L 12/25/2020 - 22:29:00: [ULX] brexit granted access "ulx spectate" to group moderator
+L 12/25/2020 - 22:29:09: [ULX] Al Shebab changed group moderator to only be able to target !%senior-moderator
+L 12/25/2020 - 22:29:24: [ULX] Al Shebab changed group trial-moderator to only be able to target !%moderator
+L 12/25/2020 - 22:29:38: [ULX] Al Shebab changed group user to only be able to target !%trial-moderator
+L 12/25/2020 - 22:30:53: [ULX] brexit granted access "ulx physgunplayer" to group moderator
+L 12/25/2020 - 22:31:08: [ULX] brexit added Al Shebab to group moderator
+L 12/25/2020 - 22:31:15: [ULX] brexit added brexit to group moderator
+L 12/25/2020 - 22:31:26: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 22:31:40: [ULX] brexit teleported to Al Shebab
+L 12/25/2020 - 22:31:42: [ULX] brexit teleported Al Shebab
+L 12/25/2020 - 22:31:45: [ULX] (Console) added Al Shebab to group superadmin
+L 12/25/2020 - 22:31:57: [ULX] (Console) added brexit to group superadmin
+L 12/25/2020 - 22:33:04: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
+
+L 12/25/2020 - 22:35:03: "brexit<3><STEAM_0:1:121087763><>" disconnected (reason "brexit timed out")
+L 12/25/2020 - 22:35:03: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 22:40:42: "Al Shebab<2><STEAM_0:0:103364981><>" disconnected (reason "Disconnect by user.")
+L 12/25/2020 - 22:40:42: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:08:32: "brexit<4><STEAM_0:1:121087763><>" connected, address "45.133.4.104:27005"
+L 12/25/2020 - 23:08:32: "brexit<4><STEAM_0:1:121087763><>" STEAM USERID validated
+L 12/25/2020 - 23:08:32: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:08:55: "brexit<4><STEAM_0:1:121087763><>" entered the game
+L 12/25/2020 - 23:08:56: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:09:18: "Al Shebab<5><STEAM_0:0:103364981><>" connected, address "60.242.220.28:27005"
+L 12/25/2020 - 23:09:19: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:09:19: "Al Shebab<5><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/25/2020 - 23:09:55: "brexit<4><STEAM_0:1:121087763><>" disconnected (reason "Disconnect by user.")
+L 12/25/2020 - 23:09:55: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:10:28: "Al Shebab<5><STEAM_0:0:103364981><>" entered the game
+L 12/25/2020 - 23:10:29: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:11:18: "brexit<6><STEAM_0:1:121087763><>" connected, address "45.133.4.104:27005"
+L 12/25/2020 - 23:11:18: "brexit<6><STEAM_0:1:121087763><>" STEAM USERID validated
+L 12/25/2020 - 23:11:18: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:11:51: "brexit<6><STEAM_0:1:121087763><>" entered the game
+L 12/25/2020 - 23:11:51: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:12:35: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!men u"
+
+L 12/25/2020 - 23:12:39: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:12:55: [ULX] brexit granted access "ulx physgunplayer" to group trial-moderator
+L 12/25/2020 - 23:13:10: AWarn: Your server info has been updated to the online statistics tracking
+L 12/25/2020 - 23:13:45: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:14:12: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:14:29: "Al Shebab<5><STEAM_0:0:103364981><Citizen>" say "!ipconfig"
+
+L 12/25/2020 - 23:14:29: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:14:34: "Al Shebab<5><STEAM_0:0:103364981><Citizen>" say "!pconfig"
+
+L 12/25/2020 - 23:14:42: [ULX] brexit revoked access "ulx seeanonymousechoes" to group admin
+L 12/25/2020 - 23:14:43: [ULX] brexit revoked access "ulx spawnecho" to group admin
+L 12/25/2020 - 23:15:10: [ULX] brexit granted access "ulx banid" to group admin
+L 12/25/2020 - 23:15:26: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:15:38: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:16:09: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:16:15: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:16:27: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:17:05: [ULX] brexit<STEAM_0:1:121087763> spawned sent zwf_drystation
+L 12/25/2020 - 23:17:05: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:17:15: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:17:15: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:17:23: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:17:49: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent grenade_helicopter
+L 12/25/2020 - 23:17:49: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:17:55: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:03: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+L 12/25/2020 - 23:18:03: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:04: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+L 12/25/2020 - 23:18:04: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+L 12/25/2020 - 23:18:04: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+L 12/25/2020 - 23:18:04: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:04: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:04: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:04: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+L 12/25/2020 - 23:18:04: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:11: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+L 12/25/2020 - 23:18:11: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:11: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+L 12/25/2020 - 23:18:12: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:12: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+L 12/25/2020 - 23:18:12: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:12: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+L 12/25/2020 - 23:18:12: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:12: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+L 12/25/2020 - 23:18:13: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:13: [ULX] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+L 12/25/2020 - 23:18:13: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:24: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:24: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/25/2020 - 23:18:46: "brexit<6><STEAM_0:1:121087763><Citizen>" say "/drop"
+
+L 12/25/2020 - 23:18:48: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:18:55: [ULX] brexit granted access "ulx help" to group admin
+L 12/25/2020 - 23:18:58: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!help"
+
+L 12/25/2020 - 23:19:06: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:19:19: [ULX] brexit revoked access "ulx whip" to group admin
+L 12/25/2020 - 23:19:27: [ULX] brexit revoked access "ulx ignite" to group admin
+L 12/25/2020 - 23:19:32: [ULX] brexit revoked access "ulx ragdoll" to group admin
+L 12/25/2020 - 23:19:33: [ULX] brexit revoked access "ulx playsound" to group admin
+L 12/25/2020 - 23:19:38: [ULX] brexit revoked access "ulx unigniteall" to group admin
+L 12/25/2020 - 23:19:39: [ULX] brexit revoked access "ulx unignite" to group admin
+L 12/25/2020 - 23:19:48: [ULX] brexit revoked access "ulx csay" to group admin
+L 12/25/2020 - 23:19:56: [ULX] brexit revoked access "ulx tsay" to group admin
+L 12/25/2020 - 23:20:28: server_cvar: "sv_alltalk" "3"
+L 12/25/2020 - 23:20:41: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:20:47: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:23:18: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!warn"
+
+L 12/25/2020 - 23:24:32: "brexit<6><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/25/2020 - 23:24:43: [ULX] brexit granted access "ulx ignite" to group senior-admin
+L 12/25/2020 - 23:24:48: [ULX] brexit granted access "ulx unigniteall" to group senior-admin
+L 12/25/2020 - 23:24:49: [ULX] brexit granted access "ulx unignite" to group senior-admin
+L 12/25/2020 - 23:26:49: [ULX] brexit granted access "ulx votemap" to group superadmin
+L 12/25/2020 - 23:26:56: [ULX] brexit granted access "ulx csay" to group superadmin
+L 12/25/2020 - 23:26:57: [ULX] brexit granted access "ulx tsay" to group superadmin
+L 12/25/2020 - 23:27:00: [ULX] brexit granted access "ulx ignite" to group superadmin
+L 12/25/2020 - 23:27:01: [ULX] brexit granted access "ulx playsound" to group superadmin
+L 12/25/2020 - 23:27:02: [ULX] brexit granted access "ulx ragdoll" to group superadmin
+L 12/25/2020 - 23:27:04: [ULX] brexit granted access "ulx unignite" to group superadmin
+L 12/25/2020 - 23:27:04: [ULX] brexit granted access "ulx unigniteall" to group superadmin
+L 12/25/2020 - 23:27:05: [ULX] brexit granted access "ulx whip" to group superadmin
+L 12/25/2020 - 23:27:11: [ULX] brexit granted access "ulx usermanagementhelp" to group superadmin
+L 12/25/2020 - 23:27:20: [ULX] brexit granted access "ulx seeanonymousechoes" to group superadmin
+L 12/25/2020 - 23:27:20: [ULX] brexit granted access "ulx seeasay" to group superadmin
+L 12/25/2020 - 23:27:20: [ULX] brexit granted access "ulx spawnecho" to group superadmin
+L 12/25/2020 - 23:27:35: [ULX] brexit granted access "awarn_delete" to group staff-manager
+L 12/25/2020 - 23:27:42: [ULX] brexit granted access "ulx maul" to group staff-manager
+L 12/25/2020 - 23:27:42: [ULX] brexit granted access "ulx ragdoll" to group staff-manager
+L 12/25/2020 - 23:27:44: [ULX] brexit granted access "ulx whip" to group staff-manager
+L 12/25/2020 - 23:28:26: [ULX] brexit granted access "ulx seeanonymousechoes" to group staff-manager
+L 12/25/2020 - 23:28:27: [ULX] brexit granted access "ulx seeasay" to group staff-manager
+L 12/25/2020 - 23:28:27: [ULX] brexit granted access "ulx spawnecho" to group staff-manager
+L 12/25/2020 - 23:28:28: [ULX] brexit granted access "ulx hiddenecho" to group staff-manager
+L 12/25/2020 - 23:29:19: [ULX] brexit granted access "ulx adduser" to group staff-manager
+L 12/25/2020 - 23:29:22: [ULX] brexit granted access "ulx removeuser" to group staff-manager
+L 12/25/2020 - 23:29:23: [ULX] brexit granted access "ulx removegroup" to group staff-manager
+L 12/25/2020 - 23:29:24: [ULX] brexit granted access "ulx removeuserid" to group staff-manager
+L 12/25/2020 - 23:29:46: [ULX] brexit revoked access "ulx removegroup" to group staff-manager
+L 12/25/2020 - 23:29:48: [ULX] brexit granted access "ulx adduserid" to group staff-manager
+L 12/25/2020 - 23:43:07: Lua Error: Couldn't include file 'includes\modules\cryptrandom.lua' (File not found) (<nowhere>)
+
+L 12/25/2020 - 23:43:13: AWarn: Your server info has been updated to the online statistics tracking
+L 12/26/2020 - 00:13:54: STEAMAUTH: Client Al Shebab received failure code 6
+L 12/26/2020 - 00:13:54: "Al Shebab<5><STEAM_0:0:103364981><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 12/26/2020 - 00:13:54: STEAMAUTH: Client brexit received failure code 6
+L 12/26/2020 - 00:13:54: "brexit<6><STEAM_0:1:121087763><>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 12/26/2020 - 00:13:55: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/26/2020 - 00:13:55: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/26/2020 - 00:13:56: "Al Shebab<7><STEAM_0:0:103364981><>" connected, address "60.242.220.28:27005"
+L 12/26/2020 - 00:13:57: "Al Shebab<7><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/26/2020 - 00:13:57: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/26/2020 - 00:13:59: "brexit<8><STEAM_0:1:121087763><>" connected, address "45.133.4.104:27005"
+L 12/26/2020 - 00:13:59: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/26/2020 - 00:13:59: "brexit<8><STEAM_0:1:121087763><>" STEAM USERID validated
+L 12/26/2020 - 00:14:24: "brexit<8><STEAM_0:1:121087763><>" entered the game
+L 12/26/2020 - 00:14:24: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/26/2020 - 00:15:04: "Al Shebab<7><STEAM_0:0:103364981><>" entered the game
+L 12/26/2020 - 00:15:05: Lua Error: 
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 12/26/2020 - 00:15:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/26/2020 - 00:35:15: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!WARN"
+
+L 12/26/2020 - 00:35:24: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/26/2020 - 00:35:33: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/26/2020 - 00:36:46: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/26/2020 - 00:37:55: [ULX] brexit granted access "ulx who" to group superadmin
+L 12/26/2020 - 00:37:55: [ULX] brexit granted access "ulx version" to group superadmin
+L 12/26/2020 - 00:38:12: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!who"
+
+L 12/26/2020 - 00:38:16: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!ulx who"
+
+L 12/26/2020 - 00:38:24: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 12/26/2020 - 00:38:55: [ULX] brexit granted access "ulx who" to group staff-manager
+L 12/26/2020 - 00:38:58: [ULX] brexit granted access "ulx who" to group senior-admin
+L 12/26/2020 - 00:39:00: [ULX] brexit granted access "ulx who" to group admin
+L 12/26/2020 - 00:39:03: [ULX] brexit granted access "ulx who" to group moderator
+L 12/26/2020 - 00:39:05: [ULX] brexit granted access "ulx who" to group trial-moderator
+L 12/26/2020 - 00:45:44: Lua Error: Couldn't include file 'includes\modules\cryptrandom.lua' (File not found) (<nowhere>)
+
+L 12/26/2020 - 00:45:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/26/2020 - 00:55:04: "brexit<8><STEAM_0:1:121087763><Citizen>" say "/drop"
+
+L 12/26/2020 - 00:55:47: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!hp 1000 Al"
+
+L 12/26/2020 - 00:55:52: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!hp"
+
+L 12/26/2020 - 00:55:55: [ULX] brexit set the hp for Al Shebab to 1000
+L 12/26/2020 - 00:55:55: "brexit<8><STEAM_0:1:121087763><Citizen>" say "!hp al 1000"
+
+L 12/26/
