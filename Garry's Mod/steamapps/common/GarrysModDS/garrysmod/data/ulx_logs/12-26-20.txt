@@ -1,0 +1,7 @@
+<Logging continued from "data/ulx_logs/12-25-20.txt">
+[00:13:54] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[00:13:54] Dropped "brexit" from server<STEAM_0:1:121087763>
+[00:13:56] Client "Al Shebab" connected.
+[00:13:59] Client "brexit" connected.
+[00:14:23] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 24 seconds).
+[00:15:04] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 68 seconds).

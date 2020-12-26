@@ -1,26 +1,25 @@
 {
 	"groupBlacklist": [
 		"superadmin",
-		"owner",
-		"admin"
+		"owner"
 	],
 	"PunishmentSequence": {
 		"3": {
 			"NumberOfWarnings": 3.0,
-			"PunishmentMessage": "AWarn: You have been kicked for exceeding the warning threshold",
-			"PunishmentType": "kick"
+			"PunishmentType": "kick",
+			"PunishmentMessage": "AWarn: You have been kicked for exceeding the warning threshold"
 		},
 		"5": {
 			"NumberOfWarnings": 5.0,
+			"PunishmentType": "ban",
 			"PunishmentLength": 60.0,
-			"PunishmentMessage": "AWarn: You have been temporarily banned for exceeding the warning threshold",
-			"PunishmentType": "ban"
+			"PunishmentMessage": "AWarn: You have been temporarily banned for exceeding the warning threshold"
 		},
 		"7": {
 			"NumberOfWarnings": 7.0,
+			"PunishmentType": "ban",
 			"PunishmentLength": 0.0,
-			"PunishmentMessage": "AWarn: You have been permanently banned for exceeding the warning threshold",
-			"PunishmentType": "ban"
+			"PunishmentMessage": "AWarn: You have been permanently banned for exceeding the warning threshold"
 		}
 	},
 	"userBlacklist": [

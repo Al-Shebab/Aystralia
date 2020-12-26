@@ -13,3 +13,7 @@
 
 ---= Time Left =---
 {{TIME_LEFT}}
+
+{{BANNED_BY}}
+
+{{BAN_START}}
