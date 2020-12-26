@@ -58,9 +58,11 @@
 		"ulx userdeny"
 		"ulx userdenyid"
 		"ulx usermanagementhelp"
+		"ulx version"
 		"ulx voteecho"
 		"ulx votemap"
 		"ulx whip"
+		"ulx who"
 		"xgui_gmsettings"
 		"xgui_managebans"
 		"xgui_managegroups"
@@ -103,6 +105,7 @@
 		"ulx ungod"
 		"ulx unjail"
 		"ulx unmute"
+		"ulx who"
 		"ulx banid"	"* :1w"
 		"ulx ban"	"* :1w"
 	}
@@ -192,6 +195,7 @@
 		"ulx votemapvetotime"
 		"ulx votemapwaittime"
 		"ulx welcomemessage"
+		"ulx who"
 	}
 	"can_target"	"!%senior-admin"
 	"inherit_from"	"senior-moderator"
@@ -216,6 +220,7 @@
 		"ulx unfreeze"
 		"ulx ungag"
 		"ulx unjail"
+		"ulx who"
 	}
 	"inherit_from"	"user"
 }
@@ -236,6 +241,7 @@
 		"ulx seeasay"
 		"ulx spawnecho"
 		"ulx whip"
+		"ulx who"
 	}
 	"inherit_from"	"senior-admin"
 }
@@ -247,6 +253,7 @@
 		"ulx ignite"
 		"ulx unignite"
 		"ulx unigniteall"
+		"ulx who"
 	}
 	"inherit_from"	"admin"
 }
