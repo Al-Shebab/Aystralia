@@ -31,3 +31,40 @@ GAMEMODE.CivilProtection = {
 Jobs that are hitmen (enables the hitman menu)
 ---------------------------------------------------------------------------]]
 DarkRP.addHitmanTeam(TEAM_MOB)
+
+TEAM_CITIZEN = DarkRP.createJob("Citizen", {
+    color = Color(140, 140, 140, 255),
+    model = {
+        "models/player/Group01/male_07.mdl",
+        "models/player/Group01/male_08.mdl",
+        "models/player/Group01/male_09.mdl",
+        "models/player/Group01/female_06.mdl",
+        "models/player/Group01/female_05.mdl",
+        "models/player/Group01/female_03.mdl"
+    },
+    description = [[The Citizen is the most basic level of society you can hold besides being a hobo. You have no specific role in city life.]],
+    weapons = {},
+    command = "JOB_CITIZEN",
+    max = 0,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Citizens"
+})
+
+TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
+    color = Color(140, 140, 140, 255),
+    model = {"models/player/magnusson.mdl"},
+    description = [[Manages finances and pawns items to other for a fee.]],
+    weapons = {},
+    command = "JOB_BANK_MANAGER",
+    max = 1,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Citizens"
+})
