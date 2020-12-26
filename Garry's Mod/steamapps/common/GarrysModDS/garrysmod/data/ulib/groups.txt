@@ -4,6 +4,10 @@
 	{
 		"awarn_delete"
 		"awarn_options"
+		"darkrp_changedoorsettings"
+		"darkrp_setlicense"
+		"darkrp_setmoney"
+		"fpp_settings"
 		"ulx addgroup"
 		"ulx adduser"
 		"ulx adduserid"
@@ -53,11 +57,11 @@
 }
 "operator"	
 {
-	"can_target"	"!%admin"
 	"allow"	
 	{
 		"ulx seeasay"
 	}
+	"can_target"	"!%admin"
 	"inherit_from"	"user"
 }
 "user"	
@@ -77,12 +81,19 @@
 }
 "admin"	
 {
-	"can_target"	"!%superadmin"
 	"allow"	
 	{
 		"awarn_remove"
 		"awarn_view"
 		"awarn_warn"
+		"darkrp_admincommands"
+		"darkrp_getadminweapons"
+		"darkrp_seeevents"
+		"darkrp_setdoorowner"
+		"fpp_cleanup"
+		"fpp_touchotherplayersprops"
+		"fspectate"
+		"fspectateteleport"
 		"ulx armor"
 		"ulx ban"
 		"ulx blind"
@@ -161,5 +172,6 @@
 		"ulx welcomemessage"
 		"ulx whip"
 	}
+	"can_target"	"!%superadmin"
 	"inherit_from"	"operator"
 }
