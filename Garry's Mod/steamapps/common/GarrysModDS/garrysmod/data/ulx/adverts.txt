@@ -22,10 +22,11 @@
 ;     }
 ; }
 
+
 {
-	"text" "This server is running ULX Admin Mod %ulx_version% by Team Ulysses from ulyssesmod.net"
-	"red" "151"
-	"green" "211"
-	"blue" "255"
-	"time" "635"
+	"text" "Need assistance? Type @ with your message."
+	"red" "255"
+	"green" "0"
+	"blue" "0"
+	"time" "300"
 }
