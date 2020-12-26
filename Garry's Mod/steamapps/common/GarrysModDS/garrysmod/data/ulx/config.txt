@@ -17,23 +17,23 @@ ulx motdfile ulx_motd.txt ; The MOTD to show, if using a file. Put this file in 
 ulx motdurl ulyssesmod.net ; The MOTD to show, if using a URL.
 
 
-ulx chattime 0 ; Players can only chat every x seconds (anti-spam). 0 to disable
-ulx meChatEnabled 1 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sandbox only (Default), 2 = Enabled
+ulx chattime 0.5 ; Players can only chat every x seconds (anti-spam). 0 to disable
+ulx meChatEnabled 0 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sandbox only (Default), 2 = Enabled
 
 
 ; This is what the players will see when they join, set it to "" to disable.
 ; You can use %host% and %curmap% in your text and have it automagically parsed for you
-ulx welcomemessage "Welcome to %host%! We're playing %curmap%."
+ulx welcomemessage "Welcome to the Aystralia Network! Enjoy your stay!" 
 
 
 ulx logFile 1 ; Log to file (Can still echo if off). This is a global setting, nothing will be logged to file with this off.
 ulx logEvents 1 ; Log events (player connect, disconnect, death)
 ulx logChat 1 ; Log player chat
 ulx logSpawns 1 ; Log when players spawn objects (props, effects, etc)
-ulx logSpawnsEcho 1 ; Echo spawns to players in server. -1 = Off, 0 = Dedicated console only, 1 = Admins only, 2 = All players. (Echoes to console)
+ulx logSpawnsEcho 2 ; Echo spawns to players in server. -1 = Off, 0 = Dedicated console only, 1 = Admins only, 2 = All players. (Echoes to console)
 ulx logJoinLeaveEcho 1 ; Echo players leaves and joins to admins in the server (useful for banning minges)
 ulx logDir "ulx_logs" ; The log dir under garrysmod/data
-ulx logEcho 1 ; Echo mode
+ulx logEcho 2 ; Echo mode
 ; Echo modes:
 ; 0 - OFF No output to any players when an admin command is used
 ; 1 - ANONYMOUS Output to players without access to see who used the command (admins by default) similar to "(Someone) slapped Bob with 0 damage"
@@ -96,11 +96,12 @@ ulx votemapMapmode 1 ; 1 = Use all maps but what's specified in votemaps.txt, 2 
 
 ulx voteEcho 0 ; 1 = Echo what every player votes (this does not apply to votemap). 0 = Don't echo
 
-ulx votemap2Successratio 0.5 ; Ratio of (votes for map)/(total players) needed to change map. (Rounds up)
-ulx votemap2Minvotes 3 ; Number of minimum votes needed to change map (Pevents llamas). This supercedes the above convar on small servers.
+ulx votemap2Successratio 1.00 ; Ratio of (votes for map)/(total players) needed to change map. (Rounds up)
+ulx votemap2Minvotes 10 ; Number of minimum votes needed to change map (Pevents llamas). This supercedes the above convar on small servers.
 
 ulx votekickSuccessratio 0.6 ; Ratio of (votes for kick)/(total players) needed to kick player. (Rounds up)
 ulx votekickMinvotes 2 ; Number of minimum votes needed to kick player (Pevents llamas). This supercedes the above convar on small servers.
 
 ulx votebanSuccessratio 0.7 ; Ratio of (votes for ban)/(total players) needed to ban player. (Rounds up)
 ulx votebanMinvotes 3 ; Number of minimum votes needed to ban player (Pevents llamas). This supercedes the above convar on small servers.
+ulx kickAfterNameChanges 2 ; <number> - Players can only change their name x times every ulx_kickAfterNameChangesCooldown 20 

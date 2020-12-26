@@ -1,0 +1,18 @@
+Al Shebab|2|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/jobs.lua:35: unexpected symbol near ','
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+brexit|3|STEAM_0:1:121087763
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/jobs.lua:35: unexpected symbol near ','
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+

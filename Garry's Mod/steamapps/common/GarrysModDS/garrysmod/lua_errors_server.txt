@@ -46,3 +46,833 @@
    2. onsuccess - addons/tdw/lua/tdw/api.lua:15
     3. unknown - lua/includes/modules/http.lua:29
 
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[freshcardealer-v3] addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127: bad argument #1 to 'JSONToTable' (string expected, got nil)
+  1. JSONToTable - [C]:-1
+   2. loadRegisteredVehicles - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127
+    3. unknown - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:165
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[freshcardealer-v3] addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127: bad argument #1 to 'JSONToTable' (string expected, got nil)
+  1. JSONToTable - [C]:-1
+   2. loadRegisteredVehicles - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127
+    3. unknown - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:165
+
+no such table: FAdmin_PlayerGroup
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sv_data.lua" on line 450.
+The best help I can give you is this:
+
+Failed to retrieve player information from the database. 
+
+Hints:
+	- This means your database or the connection to your database is fucked.
+	- This is the error given by the database:
+		no such table: playerinformation
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 450
+	2. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	3. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	4. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	5. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	6. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	7. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	8. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	9. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	10. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	11. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	12. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	13. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	14. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	15. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	16. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	17. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	18. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 420
+	19. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 629
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:450
+     4. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+      5. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+       6. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+        7. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+         8. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+          9. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+           10. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+            11. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+             12. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+              13. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+               14. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+                15. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+                 16. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 647
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:647
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 776
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:776
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+no such table: FAdmin_PlayerGroup
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sv_data.lua" on line 450.
+The best help I can give you is this:
+
+Failed to retrieve player information from the database. 
+
+Hints:
+	- This means your database or the connection to your database is fucked.
+	- This is the error given by the database:
+		no such table: playerinformation
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 450
+	2. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	3. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	4. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	5. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	6. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	7. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	8. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	9. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	10. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	11. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	12. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	13. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	14. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	15. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	16. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	17. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	18. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 420
+	19. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 629
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:450
+     4. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+      5. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+       6. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+        7. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+         8. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+          9. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+           10. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+            11. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+             12. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+              13. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+               14. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+                15. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+                 16. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is brexit, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 647
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:647
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is brexit, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 776
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:776
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 123
+	3. gamemodes/sandbox/gamemode/commands.lua on line 233
+	4. gamemodes/sandbox/gamemode/commands.lua on line 61
+	5. lua/includes/modules/concommand.lua on line 54
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. Call - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:123
+      5. GMODSpawnProp - gamemodes/sandbox/gamemode/commands.lua:233
+       6. unknown - gamemodes/sandbox/gamemode/commands.lua:61
+        7. unknown - lua/includes/modules/concommand.lua:54
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[freshcardealer-v3] addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127: bad argument #1 to 'JSONToTable' (string expected, got nil)
+  1. JSONToTable - [C]:-1
+   2. loadRegisteredVehicles - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127
+    3. unknown - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:165
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+no such table: FAdmin_PlayerGroup
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sv_data.lua" on line 450.
+The best help I can give you is this:
+
+Failed to retrieve player information from the database. 
+
+Hints:
+	- This means your database or the connection to your database is fucked.
+	- This is the error given by the database:
+		no such table: playerinformation
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 450
+	2. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	3. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	4. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	5. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	6. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	7. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	8. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	9. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	10. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	11. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	12. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	13. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	14. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	15. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	16. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	17. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	18. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 420
+	19. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 629
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:450
+     4. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+      5. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+       6. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+        7. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+         8. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+          9. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+           10. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+            11. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+             12. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+              13. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+               14. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+                15. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+                 16. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 647
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:647
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 776
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:776
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+no such table: FAdmin_PlayerGroup
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sv_data.lua" on line 450.
+The best help I can give you is this:
+
+Failed to retrieve player information from the database. 
+
+Hints:
+	- This means your database or the connection to your database is fucked.
+	- This is the error given by the database:
+		no such table: playerinformation
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 450
+	2. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	3. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	4. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	5. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	6. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	7. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	8. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	9. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	10. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	11. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	12. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	13. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	14. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 338
+	15. gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua on line 297
+	16. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 281
+	17. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 335
+	18. gamemodes/darkrp/gamemode/modules/base/sv_data.lua on line 420
+	19. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 629
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:450
+     4. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+      5. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+       6. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+        7. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+         8. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+          9. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+           10. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+            11. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+             12. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+              13. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:297
+               14. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:281
+                15. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+                 16. errorCallback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:338
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is brexit, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 647
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:647
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is brexit, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 776
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:776
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 248
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:248
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 248
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:248
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:530: [ERROR] A runtime error has occurred in "gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua" on line 397.
+The best help I can give you is this:
+
+There is a player with an invalid team!
+
+The player's name is Al Shebab, their team number is "1001", which has the name "Unassigned"
+
+Hints:
+	- It is the server owner's responsibility to figure out why that player has no valid team.
+	- This error is very likely to be caused by an earlier error. If you don't see any errors in your own console, look at the server console.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua on line 397
+	2. gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua on line 255
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:530
+    3. getJobTable - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:397
+     4. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:255
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
