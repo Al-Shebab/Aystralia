@@ -24,7 +24,7 @@ In these few cases it will be pretty obvious when you expect something to happen
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["modules"] = {
     ["afk"]              = true,
-    ["chatsounds"]       = false,
+    ["chatsounds"]       = true,
     ["events"]           = false,
     ["fpp"]              = false,
     ["f1menu"]           = false,
@@ -32,9 +32,9 @@ DarkRP.disabledDefaults["modules"] = {
     ["hitmenu"]          = false,
     ["hud"]              = true,
     ["hungermod"]        = true,
-    ["playerscale"]      = false,
+    ["playerscale"]      = true,
     ["sleep"]            = true,
-    ["fadmin"]           = false,
+    ["fadmin"]           = true,
     ["animations"]       = false,
     ["chatindicator"]    = true,
 }
@@ -81,7 +81,7 @@ Entities
 DarkRP.disabledDefaults["entities"] = {
     ["Drug lab"]      = true,
     ["Gun lab"]       = true,
-    ["Money printer"] = false,
+    ["Money printer"] = true,
     ["Microwave"]     = true, --Hungermod only
     ["Tip Jar"]       = false,
 }
