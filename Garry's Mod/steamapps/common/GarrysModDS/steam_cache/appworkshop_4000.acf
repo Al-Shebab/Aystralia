@@ -1,16 +1,16 @@
 "AppWorkshop"
 {
 	"appid"		"4000"
-	"SizeOnDisk"		"15965935"
+	"SizeOnDisk"		"7441908"
 	"NeedsUpdate"		"0"
 	"NeedsDownload"		"0"
-	"TimeLastUpdated"		"1608904580"
+	"TimeLastUpdated"		"1608951741"
 	"TimeLastAppRan"		"0"
 	"WorkshopItemsInstalled"
 	{
 		"104996105"
 		{
-			"size"		"8528515"
+			"size"		"0"
 			"timeupdated"		"1351347416"
 			"manifest"		"-1"
 			"ugchandle"		"1136291596760289988"
@@ -21,6 +21,20 @@
 			"timeupdated"		"1376493635"
 			"manifest"		"-1"
 			"ugchandle"		"903256711655401547"
+		}
+		"110871780"
+		{
+			"size"		"0"
+			"timeupdated"		"1604029742"
+			"manifest"		"-1"
+			"ugchandle"		"1693877035669674771"
+		}
+		"112806637"
+		{
+			"size"		"4488"
+			"timeupdated"		"1548718548"
+			"manifest"		"-1"
+			"ugchandle"		"963110007863958553"
 		}
 		"128089118"
 		{
@@ -92,41 +106,55 @@
 			"manifest"		"-1"
 			"ugchandle"		"903256711655401547"
 			"timeupdated"		"1376493635"
-			"timetouched"		"1608904626"
+			"timetouched"		"1608951772"
+		}
+		"110871780"
+		{
+			"manifest"		"-1"
+			"ugchandle"		"1693877035669674771"
+			"timeupdated"		"1604029742"
+			"timetouched"		"1608951773"
+		}
+		"112806637"
+		{
+			"manifest"		"-1"
+			"ugchandle"		"963110007863958553"
+			"timeupdated"		"1548718548"
+			"timetouched"		"1608951774"
 		}
 		"128089118"
 		{
 			"manifest"		"-1"
 			"ugchandle"		"402305231593262083"
 			"timeupdated"		"1447089325"
-			"timetouched"		"1608904626"
+			"timetouched"		"1608951772"
 		}
 		"128091208"
 		{
 			"manifest"		"-1"
 			"ugchandle"		"402305231593297895"
 			"timeupdated"		"1447090137"
-			"timetouched"		"1608904627"
+			"timetouched"		"1608951772"
 		}
 		"128093075"
 		{
 			"manifest"		"-1"
 			"ugchandle"		"402305231593278521"
 			"timeupdated"		"1447092161"
-			"timetouched"		"1608904627"
+			"timetouched"		"1608951772"
 		}
 		"144982052"
 		{
 			"manifest"		"-1"
 			"ugchandle"		"1657847247025405068"
 			"timeupdated"		"1603061078"
-			"timetouched"		"1608904627"
+			"timetouched"		"1608951772"
 		}
 		"248302805"
 		{
 			"manifest"		"7508936734016441404"
 			"timeupdated"		"1608462821"
-			"timetouched"		"1608904631"
+			"timetouched"		"1608951774"
 		}
 		"452404339"
 		{
