@@ -9,7 +9,7 @@ local cfg = TDW.Config //don't touch this line
 	The URL of the webhook to use. To find this, follow the instructions
 	on the script's description page.
 ---------------------------------------------------------------------------*/
-cfg.WebhookURL = ""
+cfg.WebhookURL = "https://canary.discord.com/api/webhooks/792215268192682029/Qea94Y-Gnc_NZTEE4c3ZHjNhfCLEZa_Amq8EjkYh2PewtbKimzlPG67DMtLLiwITCDbx"
 
 
 /*---------------------------------------------------------------------------
