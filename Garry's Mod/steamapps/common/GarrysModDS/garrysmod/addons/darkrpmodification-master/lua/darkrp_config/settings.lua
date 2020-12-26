@@ -316,8 +316,8 @@ GM.Config.lockdownsound = "npc/overwatch/cityvoice/f_confirmcivilstatus_1_spkr.w
 GM.Config.DarkRPSkin = "DarkRP"
 GM.Config.currency = "$"
 GM.Config.chatCommandPrefix = "/"
-GM.Config.F1MenuHelpPage = "https://discord.gg/hWN7zXtbQP"
-GM.Config.F1MenuHelpPageTitle = "DarkRP Wiki"
+GM.Config.F1MenuHelpPage = "https://docs.google.com/document/d/1OZhhxUqUu3PamauyZS5qQuqNvY1IocxGMct-H2F_I68/edit"
+GM.Config.F1MenuHelpPageTitle = "Aystralia Network - Garry's Mod Rules"
 
 -- Put Steam ID's and ranks in this list, and the players will have that rank when they join.
 GM.Config.DefaultPlayerGroups = {
@@ -357,6 +357,7 @@ GM.Config.DefaultWeapons = {
     "pocket",
     "weapon_physgun",
     "weapon_fists",
+    "itemstore_pickup",
 }
 
 -- Override categories.
@@ -408,6 +409,7 @@ GM.Config.CategoryOverride = {
 -- The list of weapons admins spawn with, in addition to the default weapons, a job's weapons and GM.Config.AdminsCopWeapons.
 GM.Config.AdminWeapons = {
     "weapon_keypadchecker",
+    "itemstore_checker",
 }
 
 -- These are the default laws, they're unchangeable in-game.
@@ -463,14 +465,9 @@ GM.Config.preventClassItemRemoval = {
 
 -- Properties set to true are allowed to be used. Values set to false or are missing from this list are blocked.
 GM.Config.allowedProperties = {
-    remover = true,
-    ignite = false,
-    extinguish = true,
     keepupright = true,
-    gravity = true,
     collision = true,
     skin = true,
-    bodygroups = true,
 }
 
 --[[---------------------------------------------------------------------------
@@ -497,19 +494,19 @@ GM.Config.AFKDelay = 300
 Hitmenu module
 ---------------------------------------------------------------------------]]
 -- The minimum price for a hit.
-GM.Config.minHitPrice = 200
+GM.Config.minHitPrice = 1000
 -- The maximum price for a hit.
-GM.Config.maxHitPrice = 50000
+GM.Config.maxHitPrice = 500000
 -- The minimum distance between a hitman and his customer when they make the deal.
-GM.Config.minHitDistance = 150
+GM.Config.minHitDistance = 1500
 -- The text that tells the player he can press use on the hitman to request a hit.
 GM.Config.hudText = "I am a hitman.\nPress E on me to request a hit!"
 -- The text above a hitman when he's got a hit.
 GM.Config.hitmanText = "Hit\naccepted!"
 -- The cooldown time for a hit target (so they aren't spam killed).
-GM.Config.hitTargetCooldown = 120
+GM.Config.hitTargetCooldown = 300
 -- How long a customer has to wait to be able to buy another hit (from the moment the hit is accepted).
-GM.Config.hitCustomerCooldown = 240
+GM.Config.hitCustomerCooldown = 300
 
 --[[---------------------------------------------------------------------------
 Hungermod module

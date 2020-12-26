@@ -34,3 +34,12 @@ GM.NoLicense["weapon_vape_hallucinogenic"]       = true
 GM.NoLicense["weapon_vape_helium"]       = true
 GM.NoLicense["weapon_vape_dragon"]       = true
 GM.NoLicense["weapon_vape_american"]       = true
+GM.NoLicense["itemstore_pickup"]       = true
+GM.NoLicense["weapon_cigarette_camel"]       = true
+GM.NoLicense["weapon_ciga"]       = true
+GM.NoLicense["weapon_cigarette_newport"]       = true
+GM.NoLicense["med_kit"]       = true
+GM.NoLicense["weapon_crowbar"]       = true
+GM.NoLicense["weapon_spraymhs"]       = true
+GM.NoLicense["swep_lsd_cellphone"]       = true
+
