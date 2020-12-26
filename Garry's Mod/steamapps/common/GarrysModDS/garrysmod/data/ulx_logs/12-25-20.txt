@@ -23,3 +23,51 @@
 
 [20:23:02] New map: rp_downtown_v4c_v4
 [20:23:34] Client "Al Shebab" connected.
+
+
+
+[20:30:56] New map: rp_downtown_v4c_v4
+[20:31:28] Client "Al Shebab" connected.
+[20:35:32] Client "Al Shebab" connected.
+
+
+
+[20:45:05] New map: rp_downtown_v4c_v4
+
+
+
+[20:51:46] New map: rp_downtown_v4c
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:53:45] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 117 seconds).
+[20:55:10] (Console) added Al Shebab to group superadmin
+[21:31:49] Al Shebab: !ulx
+[21:31:51] Al Shebab: !menu
+[21:33:33] Client "brexit" connected.
+[21:35:10] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 97 seconds).
+[21:35:36] Al Shebab added brexit to group superadmin
+[21:36:57] brexit: NIGGER FUCK U 
+
+
+
+[21:46:51] New map: rp_downtown_v4c
+[21:47:06] Client "Al Shebab" connected.
+[21:48:11] Client "brexit" connected.
+[21:48:32] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 86 seconds).
+[21:48:39] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 28 seconds).
+
+
+
+[22:00:56] New map: rp_downtown_v4c
+
+
+
+[22:04:02] New map: rp_downtown_v4c
+[22:05:41] Client "Al Shebab" connected.
+[22:05:45] Client "brexit" connected.
+[22:06:11] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 26 seconds).
+[22:06:54] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 73 seconds).
+[22:07:26] brexit: !menu
