@@ -876,3 +876,268 @@ The responsibility for the error above lies with (the authors of) one (or more) 
    2. onsuccess - addons/tdw/lua/tdw/api.lua:15
     3. unknown - lua/includes/modules/http.lua:29
 
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+Couldn't include file 'includes\modules\cryptrandom.lua' (File not found) (<nowhere>)
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+

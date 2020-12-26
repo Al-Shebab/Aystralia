@@ -6,7 +6,7 @@
 ;specific config only.
 ;Any line starting with a ';' is a comment!
 
-ulx showMotd 2 ; MOTD mode
+ulx showMotd 0 ; MOTD mode
 ; MOTD modes:
 ; 0 - OFF No MOTD shown
 ; 1 - FILE Show the players the contents of the file from the 'motdfile' cvar
@@ -86,7 +86,7 @@ ulx rslotsVisible 1 ; When this is 0, sv_visiblemaxplayers will be set to maxpla
 
 
 
-ulx votemapEnabled 1 ; Enable/Disable the entire votemap command
+ulx votemapEnabled 0 ; Enable/Disable the entire votemap command
 ulx votemapMintime 10 ; Time after map change before votes count.
 ulx votemapWaittime 5 ; Time before a user must wait before they can change their vote.
 ulx votemapSuccessratio 0.4 ; Ratio of (votes for map)/(total players) needed to change map. (Rounds up)
