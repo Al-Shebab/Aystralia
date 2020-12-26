@@ -1,26 +1,3 @@
-TEAM_ZFRUITSLICER = DarkRP.createJob("Fruit Slicer", {
-	color = Color(0, 128, 255, 255),
-	model = {"models/player/group01/male_02.mdl"},
-	description = [[You sell Smoothies!]],
-	weapons = {"zfs_knife"},
-	command = "FruitSlicer",
-	max = 4,
-	salary = 50,
-	admin = 0,
-	vote = false,
-	category = "Citizens",
-	hasLicense = false
-})
-
-DarkRP.createCategory{
-	name = "FruitSlicer",
-	categorises = "entities",
-	startExpanded = true,
-	color = Color(0, 107, 0, 255),
-	canSee = fp{fn.Id, true},
-	sortOrder = 255
-}
-
 DarkRP.createEntity("FruitSlicer Shop", {
 	ent = "zfs_shop",
 	model = "models/zerochain/fruitslicerjob/fs_shop.mdl",

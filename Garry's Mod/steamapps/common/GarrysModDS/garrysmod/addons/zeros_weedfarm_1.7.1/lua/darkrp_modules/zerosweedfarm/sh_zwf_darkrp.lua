@@ -1,26 +1,3 @@
-TEAM_ZWF_WEEDGROWER = DarkRP.createJob("Weed Grower", {
-    color = Color(225, 75, 75, 255),
-    model = {"models/player/group03/male_04.mdl"},
-    description = [[You grow and sell dank weed.]],
-    weapons = {"zwf_shoptablet", "zwf_cable", "zwf_wateringcan"},
-    command = "zwf_weedgrower",
-    max = 2,
-    salary = 0,
-    admin = 0,
-    vote = false,
-    category = "Gangsters",
-    hasLicense = false,
-})
-
-DarkRP.createCategory{
-    name = "Weed Grower",
-    categorises = "entities",
-    startExpanded = true,
-    color = Color(255, 107, 0, 255),
-    canSee = function(ply) return true end,
-    sortOrder = 104
-}
-
 DarkRP.createEntity("DoobyTable", {
     ent = "zwf_doobytable",
     model = "models/zerochain/props_weedfarm/zwf_doobytable.mdl",

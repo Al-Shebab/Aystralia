@@ -1,26 +1,3 @@
-TEAM_ZMLAB_COOK = DarkRP.createJob("Master Meth Cook", {
-	color = Color(0, 128, 255, 255),
-	model = {"models/player/group03/male_04.mdl"},
-	description = [[You are a Master manufacture of Methamphetamin]],
-	weapons = {"zmlab_extractor"},
-	command = "zmlab_MethCook",
-	max = 4,
-	salary = 0,
-	admin = 0,
-	vote = false,
-	category = "Gangsters",
-	hasLicense = false
-})
-
-DarkRP.createCategory{
-	name = "MasterMethCook",
-	categorises = "entities",
-	startExpanded = true,
-	color = Color(0, 107, 0, 255),
-	canSee = function(ply) return true end,
-	sortOrder = 103
-}
-
 DarkRP.createEntity("Combiner", {
 	ent = "zmlab_combiner",
 	model = "models/zerochain/zmlab/zmlab_combiner.mdl",
