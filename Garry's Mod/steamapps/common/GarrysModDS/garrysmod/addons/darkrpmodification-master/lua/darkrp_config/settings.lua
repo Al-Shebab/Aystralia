@@ -70,9 +70,9 @@ GM.Config.deadvoice                     = false
 -- deathpov - Enable/disable whether people see their death in first person view.
 GM.Config.deathpov                      = false
 -- decalcleaner - Enable/Disable clearing every player's decals.
-GM.Config.decalcleaner                  = false
+GM.Config.decalcleaner                  = true
 -- disallowClientsideScripts - Clientside scripts can be very useful for customizing the HUD or to aid in building. This option bans those scripts.
-GM.Config.disallowClientsideScripts     = true
+GM.Config.disallowClientsideScripts     = false
 -- doorwarrants - Enable/disable Warrant requirement to enter property.
 GM.Config.doorwarrants                  = true
 -- dropmoneyondeath - Enable/disable whether people drop money on death.
