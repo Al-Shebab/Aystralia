@@ -21,7 +21,7 @@ Add your custom jobs under the following line:
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
-GAMEMODE.DefaultTeam = TEAM_CITIZEN
+GAMEMODE.DefaultTeam = JOB_CIVILIAN
 --[[---------------------------------------------------------------------------
 Define which teams belong to civil protection
 Civil protection can set warrants, make people wanted and do some other police related things
@@ -35,3 +35,30 @@ GAMEMODE.CivilProtection = {
 Jobs that are hitmen (enables the hitman menu)
 ---------------------------------------------------------------------------]]
 DarkRP.addHitmanTeam(TEAM_MOB)
+
+--[[
+    Generated using: DarkRP | Job Generator
+    https://csite.io/tools/gmod-darkrp-job
+--]]
+JOB_CIVILIAN = DarkRP.createJob("Civilian", {
+    color = Color(140, 140, 140, 255),
+    model = {
+        "models/player/Group01/female_01.mdl",
+        "models/player/Group01/female_02.mdl",
+        "models/player/Group01/female_03.mdl",
+        "models/player/Group01/female_04.mdl",
+        "models/player/Group01/male_01.mdl",
+        "models/player/Group01/male_02.mdl",
+        "models/player/Group01/male_03.mdl",
+        "models/player/Group01/male_04.mdl"
+    },
+    description = [[The Citizen is the most basic level of society you can hold besides being a hobo. You have no specific role in city life.]],
+    weapons = {},
+    command = "JOB_CIVILIAN",
+    max = 0,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false
+})
