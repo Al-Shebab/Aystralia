@@ -2,6 +2,7 @@
 {
 	"allow"	
 	{
+		"atags adminpanel"
 		"awarn_delete"
 		"awarn_options"
 		"darkrp_changedoorsettings"
@@ -72,15 +73,14 @@
 }
 "senior-moderator"	
 {
-	"can_target"	"!%admin"
 	"allow"	
 	{
 	}
+	"can_target"	"!%admin"
 	"inherit_from"	"moderator"
 }
 "moderator"	
 {
-	"can_target"	"!%senior-moderator"
 	"allow"	
 	{
 		"awarn_warn"
@@ -109,10 +109,22 @@
 		"ulx banid"	"* :1w"
 		"ulx ban"	"* :1w"
 	}
+	"can_target"	"!%senior-moderator"
 	"inherit_from"	"trial-moderator"
+}
+"user"	
+{
+	"can_target"	"!%trial-moderator"
+	"allow"	
+	{
+		"awarn_view"
+		"ulx asay"
+		"ulx psay"
+	}
 }
 "admin"	
 {
+	"can_target"	"!%senior-admin"
 	"allow"	
 	{
 		"awarn_remove"
@@ -120,6 +132,9 @@
 		"awarn_warn"
 		"darkrp_admincommands"
 		"darkrp_getadminweapons"
+		"darkrp_getjob_team_black_market_dealer"
+		"darkrp_getjob_team_drug_dealer"
+		"darkrp_getjob_team_gun_dealer"
 		"darkrp_seeevents"
 		"darkrp_setdoorowner"
 		"fpp_cleanup"
@@ -197,12 +212,10 @@
 		"ulx welcomemessage"
 		"ulx who"
 	}
-	"can_target"	"!%senior-admin"
 	"inherit_from"	"senior-moderator"
 }
 "trial-moderator"	
 {
-	"can_target"	"!%moderator"
 	"allow"	
 	{
 		"awarn_warn"
@@ -222,11 +235,11 @@
 		"ulx unjail"
 		"ulx who"
 	}
+	"can_target"	"!%moderator"
 	"inherit_from"	"user"
 }
 "staff-manager"	
 {
-	"can_target"	"!%superadmin"
 	"allow"	
 	{
 		"awarn_delete"
@@ -243,11 +256,11 @@
 		"ulx whip"
 		"ulx who"
 	}
+	"can_target"	"!%superadmin"
 	"inherit_from"	"senior-admin"
 }
 "senior-admin"	
 {
-	"can_target"	"!%staff-manager"
 	"allow"	
 	{
 		"ulx ignite"
@@ -255,15 +268,13 @@
 		"ulx unigniteall"
 		"ulx who"
 	}
+	"can_target"	"!%staff-manager"
 	"inherit_from"	"admin"
 }
-"user"	
+"noaccess"	
 {
 	"allow"	
 	{
-		"awarn_view"
-		"ulx asay"
-		"ulx psay"
 	}
-	"can_target"	"!%trial-moderator"
+	"inherit_from"	"user"
 }

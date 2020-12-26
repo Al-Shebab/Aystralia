@@ -1,0 +1,14 @@
+Sat Dec 26 05:19:51 2020	brexit (STEAM_0:1:121087763) has joined the game
+Sat Dec 26 05:19:51 2020	brexit (STEAM_0:1:121087763) spawned
+Sat Dec 26 05:20:27 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sat Dec 26 05:20:27 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Dec 26 05:27:21 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Dec 26 05:32:12 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sat Dec 26 05:33:22 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sat Dec 26 05:33:54 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sat Dec 26 05:35:40 2020	brexit (STEAM_0:1:121087763): 
+Sat Dec 26 05:36:03 2020	brexit (STEAM_0:1:121087763): /dropmoney
+Sat Dec 26 05:36:06 2020	brexit (STEAM_0:1:121087763): /dropmoney 1
+Sat Dec 26 05:36:07 2020	brexit (STEAM_0:1:121087763) has dropped $1
+Sat Dec 26 05:37:35 2020	brexit (STEAM_0:1:121087763): !menu
+Sat Dec 26 05:41:29 2020	brexit was killed by Entity [0][worldspawn] with a unknown

@@ -14,6 +14,8 @@
 ---= Time Left =---
 {{TIME_LEFT}}
 
+Banned By:
 {{BANNED_BY}}
-
-{{BAN_START}}
+ 
+Feel the ban was unfair?
+Appeal @ https://discord.gg/hWN7zXtbQP

@@ -1,0 +1,127 @@
+Sat Dec 26 03:18:00 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sat Dec 26 03:18:00 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Dec 26 03:19:29 2020	brexit (STEAM_0:1:121087763) has joined the game
+Sat Dec 26 03:19:29 2020	brexit (STEAM_0:1:121087763) spawned
+Sat Dec 26 03:32:19 2020	Al Shebab (STEAM_0:0:103364981): im not doing enclosed tubes
+Sat Dec 26 03:32:21 2020	Al Shebab (STEAM_0:0:103364981): bc trapping
+Sat Dec 26 03:41:42 2020	brexit (STEAM_0:1:121087763) spawned SENT m9k_ammo_40mm_single
+Sat Dec 26 03:41:43 2020	brexit (STEAM_0:1:121087763) spawned SENT m9k_ammo_40mm_single
+Sat Dec 26 03:41:44 2020	brexit (STEAM_0:1:121087763) spawned SENT m9k_ammo_40mm_single
+Sat Dec 26 03:41:44 2020	brexit (STEAM_0:1:121087763) spawned SENT m9k_ammo_40mm_single
+Sat Dec 26 03:41:44 2020	brexit (STEAM_0:1:121087763) spawned SENT m9k_ammo_40mm_single
+Sat Dec 26 03:41:44 2020	brexit (STEAM_0:1:121087763) spawned SENT m9k_ammo_40mm_single
+Sat Dec 26 03:42:20 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_cooler
+Sat Dec 26 03:42:34 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_1
+Sat Dec 26 03:42:35 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_2
+Sat Dec 26 03:42:37 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_rack
+Sat Dec 26 03:42:54 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_server
+Sat Dec 26 03:42:56 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_rack
+Sat Dec 26 03:42:58 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_server
+Sat Dec 26 03:42:58 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_server
+Sat Dec 26 03:42:59 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_bitminer_server
+Sat Dec 26 03:43:41 2020	brexit (STEAM_0:1:121087763): !remotebitminer
+Sat Dec 26 03:44:23 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_solar_panel
+Sat Dec 26 03:44:25 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_solarconverter
+Sat Dec 26 03:44:27 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_solar_cable
+Sat Dec 26 03:44:29 2020	brexit (STEAM_0:1:121087763) spawned SENT bm2_extra_fuel_line
+Sat Dec 26 03:44:34 2020	brexit (STEAM_0:1:121087763) spawned SENT double_or_nothing
+Sat Dec 26 03:44:38 2020	brexit (STEAM_0:1:121087763) spawned SENT wol_reel
+Sat Dec 26 03:44:42 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 03:44:46 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 03:44:49 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 03:44:54 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_blackjack
+Sat Dec 26 03:45:00 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sat Dec 26 03:45:06 2020	brexit (STEAM_0:1:121087763) spawned SENT itemstore_bank
+Sat Dec 26 03:45:19 2020	brexit (STEAM_0:1:121087763) spawned SENT tierp_printer
+Sat Dec 26 03:45:32 2020	brexit (STEAM_0:1:121087763) spawned SENT tierp_printer
+Sat Dec 26 03:45:39 2020	brexit (STEAM_0:1:121087763) spawned SENT tierp_battery
+Sat Dec 26 03:45:43 2020	brexit (STEAM_0:1:121087763) spawned SENT tierp_battery
+Sat Dec 26 03:46:01 2020	brexit (STEAM_0:1:121087763): !givemoney 
+Sat Dec 26 03:46:05 2020	brexit (STEAM_0:1:121087763): !spawn
+Sat Dec 26 03:46:09 2020	brexit (STEAM_0:1:121087763): !money
+Sat Dec 26 03:46:30 2020	brexit (STEAM_0:1:121087763) spawned SENT chopshop
+Sat Dec 26 03:46:38 2020	brexit (STEAM_0:1:121087763) spawned SENT bit_npc
+Sat Dec 26 03:46:48 2020	brexit (STEAM_0:1:121087763) spawned SENT phone_box
+Sat Dec 26 03:50:58 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 03:51:01 2020	brexit (STEAM_0:1:121087763) spawned SENT double_or_nothing
+Sat Dec 26 03:51:43 2020	brexit (STEAM_0:1:121087763): // You might need to fix the chance of winning on Double or Nothing
+Sat Dec 26 03:51:47 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 03:51:51 2020	Al Shebab (STEAM_0:0:103364981): // yeah the config rigs it
+Sat Dec 26 03:51:55 2020	Al Shebab (STEAM_0:0:103364981): // ill actually make it 5050
+Sat Dec 26 03:52:12 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 03:52:22 2020	brexit (STEAM_0:1:121087763): !menu
+Sat Dec 26 03:52:35 2020	brexit (STEAM_0:1:121087763): !spawn
+Sat Dec 26 03:52:38 2020	brexit (STEAM_0:1:121087763): !givemoney
+Sat Dec 26 03:52:40 2020	brexit (STEAM_0:1:121087763): !givecash
+Sat Dec 26 03:53:11 2020	brexit (STEAM_0:1:121087763) spawned SENT sent_ball
+Sat Dec 26 03:53:15 2020	brexit (STEAM_0:1:121087763) spawned SENT sent_crash
+Sat Dec 26 03:53:20 2020	brexit (STEAM_0:1:121087763) spawned SENT sent_crash
+Sat Dec 26 03:55:06 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT printer_gold
+Sat Dec 26 03:55:06 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT printer_gold
+Sat Dec 26 03:55:06 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT printer_gold
+Sat Dec 26 03:55:06 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT printer_gold
+Sat Dec 26 03:55:07 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT printer_gold
+Sat Dec 26 03:55:17 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_printer
+Sat Dec 26 03:55:26 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_battery
+Sat Dec 26 03:55:27 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_battery
+Sat Dec 26 03:55:39 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT phone_box
+Sat Dec 26 03:55:50 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT decal
+Sat Dec 26 03:56:16 2020	brexit (STEAM_0:1:121087763): what cunt
+Sat Dec 26 03:56:19 2020	Al Shebab (STEAM_0:0:103364981): its an image
+Sat Dec 26 03:56:29 2020	Al Shebab (STEAM_0:0:103364981): star casino name or something
+Sat Dec 26 03:56:33 2020	Al Shebab (STEAM_0:0:103364981): casino something
+Sat Dec 26 03:57:39 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_roulette
+Sat Dec 26 03:58:26 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_chipnpc
+Sat Dec 26 03:58:40 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_blackjack
+Sat Dec 26 03:58:56 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_blackjack
+Sat Dec 26 04:00:09 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_blackjack
+Sat Dec 26 04:00:14 2020	Al Shebab was killed by Himself with a suicide trick
+Sat Dec 26 04:00:18 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Dec 26 04:00:29 2020	brexit (STEAM_0:1:121087763) spawned SENT casinokit_roulette
+Sat Dec 26 04:02:39 2020	brexit (STEAM_0:1:121087763) spawned SENT armory
+Sat Dec 26 04:02:55 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_gold
+Sat Dec 26 04:02:57 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_gold
+Sat Dec 26 04:02:59 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_gold
+Sat Dec 26 04:03:00 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_gold
+Sat Dec 26 04:03:00 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:03:02 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:03:04 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:03:05 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:03:09 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_cooler
+Sat Dec 26 04:03:11 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_cooler
+Sat Dec 26 04:03:12 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_cooler
+Sat Dec 26 04:03:13 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_cooler
+Sat Dec 26 04:03:15 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_silent
+Sat Dec 26 04:03:19 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_silent
+Sat Dec 26 04:03:29 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_solarpower
+Sat Dec 26 04:03:33 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_solarpower
+Sat Dec 26 04:03:34 2020	brexit (STEAM_0:1:121087763) spawned SENT printer_addon_solarpower
+Sat Dec 26 04:05:14 2020	Al Shebab (STEAM_0:0:103364981): // props are done
+Sat Dec 26 04:05:17 2020	Al Shebab (STEAM_0:0:103364981): // pretty sure
+Sat Dec 26 04:05:19 2020	brexit (STEAM_0:1:121087763): // okay
+Sat Dec 26 04:05:28 2020	Al Shebab (STEAM_0:0:103364981): // try spawn minge props
+Sat Dec 26 04:05:33 2020	Al Shebab (STEAM_0:0:103364981): // or see if some things should be added
+Sat Dec 26 04:05:37 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT double_or_nothing
+Sat Dec 26 04:08:01 2020	brexit was killed by Al Shebab with a m9k_m202_rocket
+Sat Dec 26 04:08:01 2020	Al Shebab was killed by Himself with a suicide trick
+Sat Dec 26 04:08:04 2020	brexit (STEAM_0:1:121087763) spawned
+Sat Dec 26 04:08:04 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Dec 26 04:09:41 2020	Jacktank (STEAM_0:1:51163583) has joined the game
+Sat Dec 26 04:09:41 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sat Dec 26 04:09:47 2020	brexit (STEAM_0:1:121087763) spawned SENT armory
+Sat Dec 26 04:09:57 2020	brexit (STEAM_0:1:121087763) spawned SENT wol_reel
+Sat Dec 26 04:10:00 2020	brexit (STEAM_0:1:121087763) spawned SENT wheel_of_luck
+Sat Dec 26 04:10:28 2020	Jacktank (STEAM_0:1:51163583): !noclip
+Sat Dec 26 04:11:15 2020	brexit (STEAM_0:1:121087763) spawned SENT npc_lsd_dealer
+Sat Dec 26 04:11:24 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sat Dec 26 04:11:38 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:11:40 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:11:47 2020	brexit (STEAM_0:1:121087763) spawned SENT gattachment
+Sat Dec 26 04:11:58 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sat Dec 26 04:12:01 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sat Dec 26 04:12:47 2020	Jacktank (STEAM_0:1:51163583) spawned SENT sent_lsd_pyro
+Sat Dec 26 04:12:58 2020	Jacktank (STEAM_0:1:51163583) spawned SENT bm2_extra_fuel_line
+Sat Dec 26 04:13:00 2020	Jacktank (STEAM_0:1:51163583) spawned SENT bm2_bitminer_1
+Sat Dec 26 04:13:04 2020	Jacktank (STEAM_0:1:51163583) spawned SENT lean_barrel
+Sat Dec 26 04:14:28 2020	Jacktank (STEAM_0:1:51163583): !noclip
+Sat Dec 26 04:19:04 2020	brexit was killed by Entity [0][worldspawn] with a unknown

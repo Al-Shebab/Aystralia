@@ -78,3 +78,111 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+brexit|3|STEAM_0:1:121087763
+
+[casinokit] addons/casinokit/lua/casinokit/game/game_cl.lua:172: attempt to call method 'HandleGameMessage' (a nil value)
+  1. cb - addons/casinokit/lua/casinokit/game/game_cl.lua:172
+   2. onResolve - addons/casinokit/lua/casinokit/game/game_cl.lua:156
+    3. func - addons/casinokit/lua/casinokit/game/game_cl.lua:171
+     4. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|5|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+brexit|3|STEAM_0:1:121087763
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/ammo.lua:6: '}' expected (to close '{' at line 1) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/ammo.lua:6: '}' expected (to close '{' at line 1) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+

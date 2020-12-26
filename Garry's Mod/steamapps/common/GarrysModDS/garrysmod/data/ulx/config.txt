@@ -17,8 +17,8 @@ ulx motdfile ulx_motd.txt ; The MOTD to show, if using a file. Put this file in 
 ulx motdurl ulyssesmod.net ; The MOTD to show, if using a URL.
 
 
-ulx chattime 0.5 ; Players can only chat every x seconds (anti-spam). 0 to disable
-ulx meChatEnabled 0 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sandbox only (Default), 2 = Enabled
+ulx chattime 1.0 ; Players can only chat every x seconds (anti-spam). 0 to disable
+ulx meChatEnabled 2 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sandbox only (Default), 2 = Enabled
 
 
 ; This is what the players will see when they join, set it to "" to disable.
@@ -48,8 +48,8 @@ ulx logEchoColorPlayerAsGroup 1 ; Whether or not to use group colors for players
 ulx logEchoColorPlayer "255 255 0" ; The color to use for players when ulx logEchoColorPlayerAsGroup is set to 0.
 ulx logEchoColorMisc "0 255 0" ; The color for anything else in echoes
 
-ulx rslotsMode 0
-ulx rslots 2
+ulx rslotsMode 3 
+ulx rslots 1 
 ulx rslotsVisible 1 ; When this is 0, sv_visiblemaxplayers will be set to maxplayers - slots_currently_reserved
 ;Modes:
 ;0 - Off
@@ -60,7 +60,7 @@ ulx rslotsVisible 1 ; When this is 0, sv_visiblemaxplayers will be set to maxpla
 ;Difference between 1 and 2:
 ;I realize it's a bit confusing, so here's an example.
 ;On mode 1--
-;	You have maxplayers set to 10, rslots set to 2, and there are currently 8 non-admins connected.
+;	You have maxplayers set to 10, rslots 1 
 ;	If a non-admin tries to join, they'll be kicked to keep the reserved slots open. Two admins join
 ;	and fill the two reserved slots. When non-admins leave, the two admins will still be filling the
 ;	two reserved slots, so another regular player can join and fill the server up again without being
