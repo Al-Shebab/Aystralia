@@ -1,13 +1,13 @@
 CM = {}
 
 //Increase this if the menu shows on map change.
-CM.DelayTime = 5
+CM.DelayTime = 30
 
 //What's the title?
-CM.Title = "Sorry"
+CM.Title = "Fuck Sake"
 
 //What message do you want to display when the server has crashed?
-CM.Message = "Looks like My Cool Server has crashed. Check out our other servers or wait for the server to restart and reconnect."
+CM.Message = "Looks like the server has crashed or been restarted, auto reconnecting in 60 seconds"
 
 //What is the estimated time in seconds it takes for the server to restart after a crash?
 CM.ServerRestartTime = 30
@@ -23,17 +23,17 @@ CM.ButtonTextColor = Color(52, 152, 219)
 
 //Server buttons(Limit 3).
 CM.ServerNameButtons = {
-	"Join Server 1",
-	"Join Server 2",
-	"Check Out My Profile",
+	"Server Discord",
+	"Steam Group",
+	"Manually Reconnect",
 }
 
 //Make sure it corresponds to the server names above!
 //You can also do websites. Have it start with http://
 CM.ServerIPButtons = {
-	"192.168.1.1",
-	"192.168.1.2",
-	"http://steamcommunity.com//id/Kalamitous/",
+	"https://discord.gg/hWN7zXtbQP",
+	"https://steamcommunity.com/groups/Aystralia",
+	"134.255.252.243:27015",
 }
 
 //Delete the code inside the brackets of both the ServerNameButtons and ServerIPButtons if you don't need server buttons.
