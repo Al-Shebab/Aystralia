@@ -5,9 +5,9 @@
 addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
 discordurl = "https://discord.gg/hWN7zXtbQP"
 rulesurl = "https://bit.ly/3mQVodO"
-reporturl = "https://bit.ly/37PEQyH"
+reporturl = "https://forms.gle/pjxfwF9QdkdwMsj57"
 bugsurl = "https://bit.ly/2WKFtDB"
-applyurl = "https://bit.ly/2WKFtDB"
+applyurl = "https://forms.gle/xugZ5v1Xqy4m2tpr9"
 
 addoncommand = "!addons"
 workshopcommand = "!workshop"
@@ -30,7 +30,7 @@ addons:help( "Opens the collection for the server." )
 function ulx.workshop( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(addonurl)]])
 end
-local workshop = ulx.command( CATEGORY_NAME, "ulx workshop", ulx.workshop, workshopcommand )
+local workshop = ulx.command( CATEGORY_NAME, "ulx workshop", ulx.workshop, addoncommand )
 workshop:defaultAccess( ULib.ACCESS_ALL )
 workshop:help( "Opens the workshop for the server." )
 
