@@ -8,3 +8,18 @@
 
 
 [19:04:41] New map: rp_downtown_v4c_v4
+
+
+
+[20:14:35] New map: rp_downtown_v4c_v4
+[20:14:47] Client "Al Shebab" connected.
+[20:18:04] Client "Al Shebab" connected.
+
+
+
+[20:21:11] New map: rp_downtown_v4c_v4
+
+
+
+[20:23:02] New map: rp_downtown_v4c_v4
+[20:23:34] Client "Al Shebab" connected.

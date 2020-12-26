@@ -1,0 +1,48 @@
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[freshcardealer-v3] addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127: bad argument #1 to 'JSONToTable' (string expected, got nil)
+  1. JSONToTable - [C]:-1
+   2. loadRegisteredVehicles - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127
+    3. unknown - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:165
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+[freshcardealer-v3] addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127: bad argument #1 to 'JSONToTable' (string expected, got nil)
+  1. JSONToTable - [C]:-1
+   2. loadRegisteredVehicles - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:127
+    3. unknown - addons/freshcardealer-v3/lua/fcd/modules/base/sv_database.lua:165
+
+
+[tdw] addons/tdw/lua/tdw/api.lua:46: attempt to index local 'profile' (a nil value)
+  1. callback - addons/tdw/lua/tdw/api.lua:46
+   2. onsuccess - addons/tdw/lua/tdw/api.lua:15
+    3. unknown - lua/includes/modules/http.lua:29
+
