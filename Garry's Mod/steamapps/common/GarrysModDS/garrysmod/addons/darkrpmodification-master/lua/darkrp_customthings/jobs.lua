@@ -44,7 +44,7 @@ TEAM_CITIZEN = DarkRP.createJob("Citizen", {
     },
     description = [[The Citizen is the most basic level of society you can hold besides being a hobo. You have no specific role in city life.]],
     weapons = {},
-    command = "JOB_CITIZEN",
+    command = "TEAM_CITIZEN",
     max = 0,
     salary = 500,
     admin = 0,
