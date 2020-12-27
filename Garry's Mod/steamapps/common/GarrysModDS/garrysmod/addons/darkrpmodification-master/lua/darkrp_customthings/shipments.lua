@@ -429,20 +429,20 @@ DarkRP.createShipment("M79 Grenade Launcher.", {
     category = "Explosives",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
-DarkRP.createShipment("RPG", {
-    model = "models/weapons/w_rl7.mdl",
-    entity = "m9k_rpg7",
+DarkRP.createShipment("Matador", {
+    model = "models/weapons/w_GDCW_MATADOR_RL.mdl",
+    entity = "m9k_matador",
     amount = 1,
-    price = 2100000,
+    price = 2000000,
     separate = false,
     pricesep = 0,
     noship = false,
     category = "Explosives",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
-DarkRP.createShipment("Matador", {
-    model = "models/weapons/w_GDCW_MATADOR_RL.mdl",
-    entity = "m9k_matador",
+DarkRP.createShipment("RPG", {
+    model = "models/weapons/w_rl7.mdl",
+    entity = "m9k_rpg7",
     amount = 1,
     price = 2500000,
     separate = false,
