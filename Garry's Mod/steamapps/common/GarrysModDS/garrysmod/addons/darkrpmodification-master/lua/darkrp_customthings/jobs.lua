@@ -165,6 +165,7 @@ TEAM_DOCTER = DarkRP.createJob("Docter", {
     salary = 2000,
     admin = 0,
     vote = false,
+    medic = true,
     hasLicense = false,
     candemote = false,
     category = "Services"
@@ -183,6 +184,7 @@ TEAM_NURSE = DarkRP.createJob("Nurse", {
     salary = 800,
     admin = 0,
     vote = false,
+    medic = true,
     hasLicense = false,
     candemote = false,
     category = "Services"
@@ -239,8 +241,314 @@ TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     max = 2,
     salary = 1750,
     admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Dealers",
+})
+
+-- Government --
+
+TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
+    color = Color(45, 6, 255, 255),
+    model = {"models/fbi_pack/fbi_02.mdl"},
+    description = [[Protect and serve. Can not base, raid or mug.]],
+    weapons = {"m9k_usp", "weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram"},
+    command = "TEAM_POLICE_OFFICER",
+    max = 4,
+    salary = 1000,
+    admin = 0,
     vote = true,
     hasLicense = true,
     candemote = true,
-    category = "Dealers",
+    category = "Government",
+    ammo = {
+        ["m9k_ammo_pistol"] = 120
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(50)
+    end
+})
+TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
+    color = Color(45, 6, 255, 255),
+    model = {"models/fbi_pack/fbi_02.mdl"},
+    description = [[Protect and serve. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_mp5"},
+    command = "TEAM_POLICE_CHIEF",
+    max = 1,
+    salary = 2000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    chief = true,
+    NeedToChangeFrom = TEAM_POLICE_OFFICER,
+    ammo = {
+        ["m9k_ammo_smg"] = 120
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end
+})
+TEAM_MAYOR = DarkRP.createJob("Mayor", {
+    color = Color(45, 6, 255, 255),
+    model = {"models/player/breen.mdl"},
+    description = [[Set the laws and protect your people. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_mp5"},
+    command = "TEAM_MAYOR",
+    max = 1,
+    salary = 3000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    mayor = true,
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+    PlayerDeath = function(ply, weapon, killer)
+        ply:teamBan()
+        ply:changeTeam(GAMEMODE.DefaultTeam, true)
+        DarkRP.notifyAll(0, 4, "The mayor has died.")
+    end
+})
+TEAM_SWAT = DarkRP.createJob("SWAT", {
+    color = Color(45, 6, 255, 255),
+    model = {"Models/CODMW2/CODMW2.mdl"},
+    description = [[Use big guns and big words. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_m416"},
+    command = "TEAM_SWAT",
+    max = 2,
+    salary = 1500,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    ammo = {
+        ["m9k_ammo_ar2"] = 120
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end
+})
+TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
+    color = Color(45, 6, 255, 255),
+    model = {"models/mark2580/payday2/pd2_swat_heavy_zeal_player.mdl"},
+    description = [[Use bigger guns and bigger words. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_ares_shrike"},
+    command = "TEAM_SWAT_HEAVY",
+    max = 1,
+    salary = 2000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    ammo = {
+        ["m9k_ammo_ar2"] = 400
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_SWAT_MARKSMAN = DarkRP.createJob("Swat Marksman", {
+    color = Color(45, 6, 255, 255),
+    model = {"Models/CODMW2/CODMW2M.mdl"},
+    description = [[Use biggerer guns and biggerer words. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_intervention"},
+    command = "TEAM_SWAT_MARKSMAN",
+    max = 1,
+    salary = 2000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    ammo = {
+        ["m9k_ammo_sniper_rounds"] = 40
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
+    color = Color(45, 6, 255, 255),
+    model = {"models/payday2/units/medic_player.mdl"},
+    description = [[Heal your team. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "med_kit", "m9k_m416"},
+    command = "TEAM_SWAT_MEDIC",
+    max = 1,
+    salary = 2000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    medic = true,
+    ammo = {
+        ["m9k_ammo_ar2"] = 120
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
+    color = Color(45, 6, 255, 255),
+    model = {"Models/CODMW2/CODMW2HE.mdl"},
+    description = [[Command your team. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_m416"},
+    command = "TEAM_SWAT_LEADER",
+    max = 1,
+    salary = 2500,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    ammo = {
+        ["m9k_ammo_ar2"] = 120
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
+    color = Color(45, 6, 255, 255),
+    model = {"models/player/mossman_arctic.mdl"},
+    description = [[Spy on brazil cartels from behind enemy lines. Can not base, raid or mug.]],
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_usp"},
+    command = "TEAM_UNDERCOVER_COP",
+    max = 2,
+    salary = 1000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Government",
+    ammo = {
+        ["m9k_ammo_pistol"] = 120
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end
+})
+
+-- Illegal --
+
+
+TEAM_HACKER = DarkRP.createJob("Hacker", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/aiden_pearce.mdl"},
+    description = [[Hack into bases using the keypad cracker. Can base, raid and mug.]],
+    weapons = {"keypad_cracker"},
+    command = "TEAM_HACKER",
+    max = 4,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_THIEF = DarkRP.createJob("Thief", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/arctic.mdl"},
+    description = [[Lockpick into bases. Can base, raid and mug.]],
+    weapons = {"lockpick"},
+    command = "TEAM_THIEF",
+    max = 4,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_HITMAN = DarkRP.createJob("Hitman", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/gman_high.mdl"},
+    description = [[Take our your targets for a fee. Can base and raid.]],
+    weapons = {"lockpick", "m9k_m24"},
+    command = "TEAM_HITMAN",
+    max = 1,
+    salary = 1250,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    candemote = true,
+    category = "Illegal",
+    ammo = {
+        ["m9k_ammo_sniper_rounds"] = 20
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_BLOOD = DarkRP.createJob("Blood", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/bloodz/slow_3.mdl"},
+    description = [[Fuck 12. Can base, raid and mug.]],
+    weapons = {},
+    command = "TEAM_BLOOD",
+    max = 3,
+    salary = 750,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
 })
