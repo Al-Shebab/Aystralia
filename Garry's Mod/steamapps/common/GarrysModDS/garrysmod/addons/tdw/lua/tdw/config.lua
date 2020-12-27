@@ -1,42 +1,46 @@
+/*---------------------------------------------------------------------------
+	Threes Discord Webhooks by Threebow.
+	Having issues or questions? Open up a support ticket on Gmodstore.
+---------------------------------------------------------------------------*/
 local cfg = TDW.Config //dont touch this line
 
 
-
+/*---------------------------------------------------------------------------
 	The URL of the webhook to use. To find this, follow the instructions
 	on the scripts description page.
-
+---------------------------------------------------------------------------*/
 cfg.WebhookURL = "https://canary.discord.com/api/webhooks/792215268192682029/Qea94Y-Gnc_NZTEE4c3ZHjNhfCLEZa_Amq8EjkYh2PewtbKimzlPG67DMtLLiwITCDbx"
 
 
-
+/*---------------------------------------------------------------------------
 	Your Steam API key. Follow the script description pages instructions
 	to find this.
-
+---------------------------------------------------------------------------*/
 cfg.SteamAPIKey = "CB2CD369E7B7A8FD95DDD35D5ED94719"
 
 
-
+/*---------------------------------------------------------------------------
 	Should we fetch and cache player info from the Steam API when a
 	player connects instead of fetching and caching it when it is first used?
-
+---------------------------------------------------------------------------*/
 cfg.PrecachePlayerInfo = true
 
 
-
+/*---------------------------------------------------------------------------
 	Should logs show players roleplay names, or their steam names? This
 	will work if you are running DarkRP or a derivative - or if you
 	implement the <Player>.SteamName method yourself.
-
+---------------------------------------------------------------------------*/
 cfg.UseSteamNames = true
 
 
-
+/*---------------------------------------------------------------------------
 	Should we print a success message in console whenever a message was sent?
-
+---------------------------------------------------------------------------*/
 cfg.NotifySuccess = true
 
 
-
+/*---------------------------------------------------------------------------
 	This is where you can disable certain modules, meaning events that
 	are handled within them will not be sent to Discord.
 	You can also disable individual events within modules.
@@ -55,39 +59,39 @@ cfg.NotifySuccess = true
 	PlayerDeath and AnotherHook are provided by the module, you can find
 	the names of all the included modules hooks in the cfg.EmbedColors
 	config option.
-
+---------------------------------------------------------------------------*/
 cfg.DisabledModules = {
 	//Relays everything from bLogs to Discord, set everything else to true for maximum effectiveness.
-	["bLogs"] = true,
+	["bLogs"] = false,
 
-	["Base"] = true,
+	["Base"] = false,
 	["Sandbox"] = {
 		//This is disabled by default because people could spam props (and dupes!!!) and by extension your channel, enable at your own discretion.
-		["PlayerSpawnedProp"] = false
+		["PlayerSpawnedProp"] = true
 	},
-	["DarkRP"] = true,
-	["ULX"] = true,
-	["Join and Leave"] = true,
+	["DarkRP"] = false,
+	["ULX"] = false,
+	["Join and Leave"] = false,
 
-	["Serverguard"] = false,
-	["Awarn2"] = true,
-	["TTT"] = false,
-	["Cuffs"] = true,
-	["Enhanced Raiding"] = false
+	["Serverguard"] = true,
+	["Awarn2"] = false,
+	["TTT"] = true,
+	["Cuffs"] = false,
+	["Enhanced Raiding"] = true
 }
 
 
-
+/*---------------------------------------------------------------------------
 	Should every color of every included embed be randomized? The above
 	option is ignored when this is true.
-
+---------------------------------------------------------------------------*/
 cfg.RandomEmbedColors = false
 
 
-
+/*---------------------------------------------------------------------------
 	These are the colors that various embeds from included modules will
 	use. External modules may have their own configuration elsewhere.
-
+---------------------------------------------------------------------------*/
 cfg.EmbedColors = {
 	//Base
 	PlayerDeath = Color(192, 57, 43, 255),
