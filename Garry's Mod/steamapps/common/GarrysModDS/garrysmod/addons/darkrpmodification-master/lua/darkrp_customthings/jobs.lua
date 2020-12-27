@@ -668,7 +668,7 @@ TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
 })
 TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/pd2_hoxton_p.mdl"},
     description = [[Raid houses at rapid speed. Can base, raid and mug.]],
     weapons = {"pro_lockpick"},
     command = "TEAM_PRO_THIEF",
@@ -742,7 +742,7 @@ TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
 })
 TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/agent_47.mdl"},
     description = [[Most dangerous person in any room. Can base and raid.]],
     weapons = {"m9k_intervention", "pro_lockpick"},
     command = "TEAM_ASSASSIN",
