@@ -36,7 +36,7 @@ DarkRP.addHitmanTeam(TEAM_MOB)
 -- Civilians --
 
 TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {"models/player/magnusson.mdl"},
     description = [[Manages finances and pawns items to other for a fee. Can not raid/mug.]],
     weapons = {},
@@ -50,7 +50,7 @@ TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
     category = "Citizens"
 })
 TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {"models/player/errolliamp/p2_chell_new.mdl"},
     description = [[Hardcore parkour around the entire city. Can not raid/mug. Can not use weapons.]],
     weapons = {"climb_swep2"},
@@ -64,7 +64,7 @@ TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
     category = "Citizens"
 })
 TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {
         "models/player/Group03/male_03.mdl",
         "models/player/Group03/male_01.mdl",
@@ -83,7 +83,7 @@ TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
     category = "Citizens"
 })
 TEAM_DJ = DarkRP.createJob("DJ", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {"models/fortnite/female/dj_bop.mdl"},
     description = [[Allowed to hotmic music to others. Can not raid/mug. Can not use weapons.]],
     weapons = {},
@@ -97,7 +97,7 @@ TEAM_DJ = DarkRP.createJob("DJ", {
     category = "Citizens"
 })
 TEAM_VAPIST = DarkRP.createJob("Vapist", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {"models/snoopdogg.mdl"},
     description = [[Vape Nation. Can not raid/mug. Can not use weapons.]],
     weapons = {"weapon_vape_juicy"},
@@ -111,7 +111,7 @@ TEAM_VAPIST = DarkRP.createJob("Vapist", {
     category = "Citizens"
 })
 TEAM_FIGHT_CLUB_OWNER = DarkRP.createJob("Fight Club Owner", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {"models/errolliamp/super_smash_bros_brawl/ssbb_little_mac_player.mdl"},
     description = [[Start up an underground boxing competition. Can not raid/mug.]],
     weapons = {},
@@ -125,7 +125,7 @@ TEAM_FIGHT_CLUB_OWNER = DarkRP.createJob("Fight Club Owner", {
     category = "Citizens"
 })
 TEAM_GAMBLING_ADDICT = DarkRP.createJob("Gambling Addict", {
-    color = Color(74, 255, 69),
+    color = Color(74, 255, 69, 255),
     model = {"models/jessev92/player/l4d/m9-hunter.mdl"},
     description = [[Go hit the slaps and then drop a set in the AU Falcon. Can not raid/mug.]],
     weapons = {"weapon_cigarette_camel"},
@@ -142,7 +142,7 @@ TEAM_GAMBLING_ADDICT = DarkRP.createJob("Gambling Addict", {
 -- Services --
 
 TEAM_SECURITY_GUARD = DarkRP.createJob("Security Guard", {
-    color = Color(80, 221, 204),
+    color = Color(80, 221, 204, 255),
     model = {"models/player/odessa.mdl"},
     description = [[Hired security for any business or person. Can not raid/mug.]],
     weapons = {"weapon_cigarette_camel"},
@@ -156,7 +156,7 @@ TEAM_SECURITY_GUARD = DarkRP.createJob("Security Guard", {
     category = "Services"
 })
 TEAM_DOCTER = DarkRP.createJob("Docter", {
-    color = Color(80, 221, 204),
+    color = Color(80, 221, 204, 255),
     model = {"models/player/Group03m/male_01.mdl"},
     description = [[Paid good money to help out others in need. Can not raid/mug. Can not use weapons.]],
     weapons = {"weapon_medkit"},
@@ -170,7 +170,7 @@ TEAM_DOCTER = DarkRP.createJob("Docter", {
     category = "Services"
 })
 TEAM_NURSE = DarkRP.createJob("Nurse", {
-    color = Color(80, 221, 204),
+    color = Color(80, 221, 204, 255),
     model = {
         "models/player/Group03m/female_02.mdl",
         "models/player/Group03m/female_01.mdl",
@@ -191,7 +191,7 @@ TEAM_NURSE = DarkRP.createJob("Nurse", {
 -- Dealers --
 
 TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
-    color = Color(37, 110, 201),
+    color = Color(37, 110, 201, 255),
     model = {"models/player/monk.mdl"},
     description = [[Deliver small arms to the city. Can not raid/mug.]],
     weapons = {},
@@ -202,10 +202,10 @@ TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
     vote = true,
     hasLicense = true,
     candemote = true,
-    category = "Dealers"
+    category = "Dealers",
 })
 TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
-    color = Color(37, 110, 201),
+    color = Color(37, 110, 201, 255),
     model = {"models/GrandTheftAuto5/Trevor.mdl"},
     description = [[Deliver large arms and explosives to the city. Can not raid/mug.]],
     weapons = {"m9k_ak47"},
@@ -231,7 +231,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
-    color = Color(37, 110, 201),
+    color = Color(37, 110, 201, 255),
     model = {"models/player/MKX_Jax.mdl"},
     description = [[Sell prescription drugs to those in need. Can not raid/mug.]],
     weapons = {},
@@ -242,5 +242,5 @@ TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     vote = true,
     hasLicense = true,
     candemote = true,
-    category = "Dealers"
+    category = "Dealers",
 })

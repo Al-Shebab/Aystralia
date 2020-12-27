@@ -1,3 +1,6 @@
+
+
+
 DarkRP.createAmmoType("357", {
 	name = "357 Ammo",
 	model = "models/Items/357ammobox.mdl",
