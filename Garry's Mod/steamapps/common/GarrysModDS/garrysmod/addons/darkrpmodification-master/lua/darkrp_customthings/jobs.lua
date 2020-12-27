@@ -691,6 +691,7 @@ TEAM_MUTANT = DarkRP.createJob("Mutant", {
     vote = false,
     hasLicense = false,
     candemote = false,
+    hobo = true,
     category = "Homeless",
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -710,6 +711,7 @@ TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
     vote = false,
     hasLicense = false,
     candemote = false,
+    hobo = true,
     category = "Homeless",
     NeedToChangeFrom = TEAM_MUTANT,
     PlayerSpawn = function(ply)
