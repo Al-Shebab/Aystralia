@@ -186,3 +186,37 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. openF4Menu - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:475
+           10. Call - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:665
+            11. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. openF4Menu - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:475
+           10. Call - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:665
+            11. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+

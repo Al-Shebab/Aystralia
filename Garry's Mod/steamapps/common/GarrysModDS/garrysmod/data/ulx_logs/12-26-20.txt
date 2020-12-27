@@ -1886,3 +1886,33 @@
 [07:08:41] brexit: !menu
 [07:18:50] brexit: nigga lover
 [07:18:55] brexit: !menu
+
+
+
+[07:26:00] New map: rp_downtown_v4c
+[07:26:04] Client "brexit" connected.
+[07:26:28] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 24 seconds).
+
+
+
+[07:33:24] New map: rp_downtown_v4c
+[07:33:32] Client "Al Shebab" connected.
+[07:34:39] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 67 seconds).
+
+
+
+[07:39:15] New map: rp_downtown_v4c
+[07:39:21] Client "Al Shebab" connected.
+[07:40:27] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 66 seconds).
+
+
+
+[07:43:47] New map: rp_downtown_v4c
+[11:26:20] Client "GolfGutten" connected.
+[11:29:25] Client "GolfGutten" spawned in server <STEAM_0:1:181246385> (took 185 seconds).
+[11:30:38] GolfGutten<STEAM_0:1:181246385> spawned model models/hunter/blocks/cube6x6x025.mdl
+[11:34:55] Dropped "GolfGutten" from server<STEAM_0:1:181246385>
+
+
+
+[20:13:48] New map: rp_downtown_v4c
