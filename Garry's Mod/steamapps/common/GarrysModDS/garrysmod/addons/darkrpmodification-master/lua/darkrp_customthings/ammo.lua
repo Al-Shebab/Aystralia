@@ -1,52 +1,44 @@
 
 
 
-DarkRP.createAmmoType("357", {
-	name = "357 Ammo",
-	model = "models/Items/357ammobox.mdl",
-	price = 300,
-	amountGiven = 20,
-    category = "Ammo",
-})
-DarkRP.createAmmoType("ar2", {
-	name = "Rifle Ammo",
-	model = "models/Items/BoxMRounds.mdl",
-	price = 1200,
-	amountGiven = 30,
-    category = "Ammo",
-})
-DarkRP.createAmmoType("buckshot", {
-	name = "Shotgun Ammo",
-	model = "models/Items/BoxBuckshot.mdl",
-	price = 400,
-	amountGiven = 8,
-    category = "Ammo",
-})
-DarkRP.createAmmoType("pistol", {
+DarkRP.createAmmoType("m9k_ammo_pistol", {
 	name = "Pistol Ammo",
 	model = "models/Items/BoxSRounds.mdl",
 	price = 200,
-	amountGiven = 20,
-    category = "Ammo",
+	amountGiven = 20
 })
-DarkRP.createAmmoType("smg1", {
+
+DarkRP.createAmmoType("m9k_ammo_357", {
+	name = "357 ammo",
+	model = "models/Items/357ammobox.mdl",
+	price = 300,
+	amountGiven = 20
+})
+
+DarkRP.createAmmoType("m9k_ammo_buckshot", {
+	name = "Shotgun Ammo",
+	model = "models/Items/BoxBuckshot.mdl",
+	price = 400,
+	amountGiven = 8
+})
+
+DarkRP.createAmmoType("m9k_ammo_smg", {
 	name = "SMG Ammo",
 	model = "models/Items/BoxMRounds.mdl",
-	price = 400,
-	amountGiven = 60,
-    category = "Ammo",
+	price = 500,
+	amountGiven = 30
 })
-DarkRP.createAmmoType("SniperPenetratedRound", "smg1", "pistol", "buckshot", "ar2", "357", {
+
+DarkRP.createAmmoType("m9k_ammo_ar2", {
+	name = "Rifle Ammo",
+	model = "models/Items/BoxMRounds.mdl",
+	price = 1500,
+	amountGiven =30
+})
+
+DarkRP.createAmmoType("m9k_ammo_sniper_rounds", {
 	name = "Sniper Ammo",
 	model = "models/Items/BoxMRounds.mdl",
-	price = 1800,
-	amountGiven = 6,
-    category = "Ammo",
-})
-DarkRP.createAmmoType("SniperPenetratedRound", {
-	name = "All Ammo",
-	model = "models/Items/BoxMRounds.mdl",
-	price = 5000,
-	amountGiven = 30,
-    category = "Ammo",
+	price = 2500,
+	amountGiven = 10
 })

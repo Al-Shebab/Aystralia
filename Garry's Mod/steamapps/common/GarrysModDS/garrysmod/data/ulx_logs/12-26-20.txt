@@ -1916,3 +1916,67 @@
 
 
 [20:13:48] New map: rp_downtown_v4c
+
+
+
+[20:20:19] New map: rp_downtown_v4c
+[20:21:06] Client "Al Shebab" connected.
+[20:22:32] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 86 seconds).
+
+
+
+[20:26:56] New map: rp_downtown_v4c
+[20:27:18] Client "Al Shebab" connected.
+[20:28:20] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 62 seconds).
+
+
+
+[20:42:01] New map: rp_downtown_v4c
+[20:42:12] Client "Al Shebab" connected.
+[20:43:17] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 65 seconds).
+
+
+
+[20:49:59] New map: rp_downtown_v4c
+[20:50:13] Client "Al Shebab" connected.
+[20:51:16] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 63 seconds).
+
+
+
+[20:55:49] New map: rp_downtown_v4c
+[20:56:13] Client "Al Shebab" connected.
+[20:57:13] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 60 seconds).
+
+
+
+[21:08:25] New map: rp_downtown_v4c
+[21:08:54] Client "Al Shebab" connected.
+[21:09:56] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 62 seconds).
+[21:17:10] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[21:17:20] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/cardboard_box001a.mdl
+[21:17:44] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/wood_crate001a.mdl
+[21:17:46] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/wood_crate001a.mdl
+
+
+
+[21:20:29] New map: rp_downtown_v4c
+[21:20:56] Client "Al Shebab" connected.
+[21:21:56] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 60 seconds).
+
+
+
+[21:24:09] New map: rp_downtown_v4c
+[21:24:20] Client "Al Shebab" connected.
+[21:25:20] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 60 seconds).
+
+
+
+[21:30:40] New map: rp_downtown_v4c
+[21:30:56] Client "Al Shebab" connected.
+[21:33:06] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 130 seconds).
+
+
+
+[21:35:27] New map: rp_downtown_v4c
+[21:35:57] Client "Al Shebab" connected.
+[21:36:59] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 62 seconds).

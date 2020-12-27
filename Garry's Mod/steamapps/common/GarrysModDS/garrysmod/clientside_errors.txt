@@ -220,3 +220,997 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. openF4Menu - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:475
+           10. Call - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:665
+            11. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. openF4Menu - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:475
+           10. Call - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:665
+            11. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. openF4Menu - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:475
+           10. Call - addons/sf4menu/lua/skore/modules/f4menu/client/cl_init.lua:665
+            11. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:230
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+              13. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+               14. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+              13. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+               14. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                15. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+                 16. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:29
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+              13. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+               14. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                15. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+                 16. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:29
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+              13. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+               14. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                15. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+                 16. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:29
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+              13. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+               14. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                15. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+                 16. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:29
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+              13. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+               14. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                15. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+                 16. Call - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:29
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+              13. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+               14. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+              13. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+             12. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+              13. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+               14. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. AddSheet - addons/f4menu/lua/osxmenu/cl_frame.lua:139
+               14. addF4MenuTab - addons/f4menu/lua/osxmenu/cl_frame.lua:223
+                15. F4MenuTabs - addons/f4menu/lua/osxmenu/cl_init.lua:133
+                 16. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:61
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. unknown - addons/f4menu/lua/osxmenu/cl_init.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:401: bad argument #1 to 'find' (string expected, got nil)
+  1. find - [C]:-1
+   2. translateMsg - gamemodes/darkrp/gamemode/libraries/simplerr.lua:401
+    3. translateError - gamemodes/darkrp/gamemode/libraries/simplerr.lua:420
+     4. b - gamemodes/darkrp/gamemode/libraries/simplerr.lua:492
+      5. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+       6. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+        7. b - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+         8. customCheck - gamemodes/darkrp/gamemode/libraries/fn.lua:84
+          9. CanBuy - addons/f4menu/lua/osxmenu/cl_entities.lua:323
+           10. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:63
+            11. Refresh - addons/f4menu/lua/osxmenu/cl_category.lua:70
+             12. Refresh - addons/f4menu/lua/osxmenu/cl_entities.lua:115
+              13. Refresh - addons/f4menu/lua/osxmenu/cl_frame.lua:148
+               14. Show - addons/f4menu/lua/osxmenu/cl_frame.lua:168
+                15. openF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:57
+                 16. toggleF4Menu - addons/f4menu/lua/osxmenu/cl_init.lua:74
+
+
+
