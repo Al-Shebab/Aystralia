@@ -195,7 +195,7 @@ GM.Config.deathfee                      = 30
 -- decaltimer - Sets the time to clear clientside decals (in seconds).
 GM.Config.decaltimer                    = 120
 -- demotetime - Number of seconds before a player can rejoin a team after demotion from that team.
-GM.Config.demotetime                    = 120
+GM.Config.demotetime                    = 600
 -- doorcost - Sets the cost of a door.
 GM.Config.doorcost                      = 500
 -- entremovedelay - how long to wait before removing a bought entity after disconnect.
