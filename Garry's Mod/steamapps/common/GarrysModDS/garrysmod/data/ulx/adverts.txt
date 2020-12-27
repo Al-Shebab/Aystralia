@@ -24,9 +24,23 @@
 
 
 {
-	"text" "Need assistance? Type @ with your message."
+	"text" "[Sever] Need assistance? Type @ with your message."
 	"red" "255"
 	"green" "0"
 	"blue" "0"
 	"time" "300"
+}
+{
+	"text" "[Server] No staff online? Type !report to report players."
+	"red" "0"
+	"green" "255"
+	"blue" "59"
+	"time" "360"
+}
+{
+	"text" "[Server] Interested in becoming staff? Type !apply."
+	"red" "0"
+	"green" "0"
+	"blue" "255"
+	"time" "360"
 }

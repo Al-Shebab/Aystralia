@@ -1,0 +1,364 @@
+<Logging continued from "data/ulx_logs/12-26-20.txt">
+[00:00:02] Al Shebab<STEAM_0:0:103364981> spawned sent decal
+
+
+
+[00:06:03] New map: rp_downtown_v4c
+[00:13:22] Client "Al Shebab" connected.
+[00:13:50] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 28 seconds).
+[00:14:51] Al Shebab gave $-871965756 to Themself
+[00:14:51] Al Shebab: !givemoney shebab 892481231812
+[00:15:04] Client "brexit" connected.
+[00:15:25] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 21 seconds).
+[00:15:30] Al Shebab killed brexit using m9k_gdcwa_rpg_heat
+[00:15:50] Al Shebab suicided!
+[00:16:28] Al Shebab killed brexit using m9k_gdcwa_rpg_heat
+[00:17:40] brexit killed Al Shebab using player
+[00:18:26] Al Shebab killed brexit using player
+[00:18:40] Al Shebab killed brexit using player
+[00:18:52] brexit killed Al Shebab using player
+[00:18:58] Al Shebab killed brexit using player
+[00:19:10] Al Shebab killed brexit using player
+[00:19:24] Al Shebab killed brexit using player
+[00:19:31] brexit killed Al Shebab using player
+[00:19:36] Al Shebab killed brexit using player
+[00:20:37] Al Shebab: !discord
+[00:20:51] Al Shebab killed brexit using player
+[00:21:09] brexit killed Al Shebab using player
+[00:21:20] Al Shebab killed brexit using player
+[00:21:51] Al Shebab killed brexit using player
+[00:22:16] Al Shebab killed brexit using player
+[00:22:46] Al Shebab suicided!
+[00:25:24] Al Shebab<STEAM_0:0:103364981> spawned sent sent_lsd_paper
+[00:25:28] Al Shebab<STEAM_0:0:103364981> spawned sent armory
+[00:25:32] Al Shebab<STEAM_0:0:103364981> spawned sent armory
+[00:25:37] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_bitminer_2
+[00:25:42] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_extra_fuel_tank
+[00:25:46] Al Shebab<STEAM_0:0:103364981> spawned sent wheel_of_luck
+[00:25:52] Al Shebab<STEAM_0:0:103364981> spawned sent casinokit_blackjack
+[00:25:56] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:25:57] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:00] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:02] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:02] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:02] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:03] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:03] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:06] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[00:26:12] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_lsd
+[00:26:16] brexit: I WONDER WHAT HAPPENS WHEN I POUR GASOLINE ALL OVER MYSELF? THAT MUST BE THE CURE FOR CANCER, DUDE
+[00:26:21] Client "Jacktank" connected.
+[00:26:21] Al Shebab<STEAM_0:0:103364981> spawned sent sent_crash
+[00:26:22] brexit suicided!
+[00:26:27] Al Shebab<STEAM_0:0:103364981> spawned sent sent_crash
+[00:26:44] Al Shebab<STEAM_0:0:103364981> spawned sent sent_lsd_flank_support
+[00:26:45] Al Shebab<STEAM_0:0:103364981> spawned sent sent_lsd_flask
+[00:26:45] Al Shebab<STEAM_0:0:103364981> spawned sent sent_lsd_flask
+[00:26:49] Al Shebab<STEAM_0:0:103364981> spawned sent lean_barrel
+[00:26:55] Al Shebab<STEAM_0:0:103364981> spawned sent printer_gold
+[00:26:58] Al Shebab<STEAM_0:0:103364981> spawned sent printer_addon_solarpower
+[00:27:04] Al Shebab<STEAM_0:0:103364981> spawned sent printer_addon_silent
+[00:27:04] Al Shebab<STEAM_0:0:103364981> spawned sent printer_silver
+[00:27:05] Al Shebab<STEAM_0:0:103364981> spawned sent keypad_wire
+[00:27:05] Al Shebab<STEAM_0:0:103364981> spawned sent keypad
+[00:27:17] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[00:27:23] Al Shebab<STEAM_0:0:103364981> spawned sent chopshop
+[00:27:24] Al Shebab<STEAM_0:0:103364981> spawned sent freshcardealer
+[00:27:26] Al Shebab<STEAM_0:0:103364981> spawned sent freshcardealer
+[00:27:57] Al Shebab<STEAM_0:0:103364981> spawned sent bit_cornet
+[00:30:57] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 276 seconds).
+[00:36:17] brexit: !cleanup
+[00:36:19] brexit: !menu
+[00:36:31] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_aspirin
+[00:36:31] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_cigarette
+[00:36:32] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_cocaine
+[00:36:32] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_heroine
+[00:36:33] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_lsd
+[00:36:33] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_weed
+[00:36:33] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_meth
+[00:36:34] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:36:34] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_pcp
+[00:36:35] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_mushroom
+[00:36:44] Al Shebab: I WONDER WHAT HAPPENS WHEN I POUR GASOLINE ALL OVER MYSELF? THAT MUST BE THE CURE FOR CANCER, DUDE
+[00:36:45] Jacktank<STEAM_0:1:51163583> spawned sent durgz_pcp
+[00:36:45] Al Shebab: MY ARMS ARE LIKE FUCKING CANNONS
+[00:36:48] Jacktank: HELLO. MY NAME IS JARED AND I LIKE FOOTBALL.
+[00:36:55] Al Shebab suicided!
+[00:37:01] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:02] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:03] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:03] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:03] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:04] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:04] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:37:06] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:37:06] brexit cleared decals
+[00:37:06] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:37:06] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:37:07] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:37:07] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:37:07] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_water
+[00:38:07] Jacktank<STEAM_0:1:51163583> spawned sent sent_lsd_paper
+[00:38:10] Jacktank<STEAM_0:1:51163583> spawned sent sent_lsd
+[00:38:30] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:38:32] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:38:40] brexit suicided!
+[00:38:50] Jacktank<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[00:38:59] Jacktank<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[00:39:07] Jacktank<STEAM_0:1:51163583> spawned sent item_suitcharger
+[00:39:09] Jacktank<STEAM_0:1:51163583> spawned sent prop_thumper
+[00:39:37] Jacktank<STEAM_0:1:51163583> spawned sent tierp_printer
+[00:40:17] Jacktank<STEAM_0:1:51163583> spawned sent tierp_battery
+[00:40:23] Jacktank suicided!
+[00:40:33] Jacktank<STEAM_0:1:51163583> spawned sent bm2_bitminer_rack
+[00:41:17] Al Shebab gave $2222222 to Jacktank
+[00:41:17] Al Shebab: !givemoney jack 2222222
+[00:41:35] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_aspirin
+[00:41:42] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_aspirin
+[00:41:44] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_cigarette
+[00:41:45] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_cocaine
+[00:41:46] Al Shebab: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[00:41:58] Jacktank<STEAM_0:1:51163583> spawned sent durgz_heroine
+[00:41:59] Jacktank: It's my arm man! My fuckin' arm!
+[00:42:05] Jacktank<STEAM_0:1:51163583> spawned sent durgz_heroine
+[00:42:07] Jacktank<STEAM_0:1:51163583> spawned sent durgz_meth
+[00:42:09] Jacktank suicided!
+[00:42:09] Jacktank: I <3 METH
+[00:42:12] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_mushroom
+[00:42:13] Jacktank<STEAM_0:1:51163583> spawned sent durgz_meth
+[00:42:14] Jacktank: I <3 METH
+[00:42:18] Al Shebab: what
+[00:42:20] Jacktank<STEAM_0:1:51163583> spawned sent durgz_lsd
+[00:42:21] Jacktank: I WONDER WHAT HAPPENS WHEN I POUR GASOLINE ALL OVER MYSELF? THAT MUST BE THE CURE FOR CANCER, DUDE
+[00:42:27] Jacktank<STEAM_0:1:51163583> spawned sent durgz_lsd
+[00:42:28] Jacktank: OH MY GOD I JUST DEFLATED
+[00:42:28] Jacktank<STEAM_0:1:51163583> spawned sent durgz_lsd
+[00:42:29] Jacktank<STEAM_0:1:51163583> spawned sent durgz_lsd
+[00:42:29] Jacktank: OH MY GOD I JUST DEFLATED
+[00:42:35] Jacktank<STEAM_0:1:51163583> spawned sent durgz_mushroom
+[00:42:37] Jacktank: what
+[00:42:49] Jacktank<STEAM_0:1:51163583> spawned sent durgz_cocaine
+[00:42:50] Jacktank: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[00:43:28] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:43:29] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:43:30] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:43:31] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:43:32] Jacktank<STEAM_0:1:51163583> spawned sent durgz_water
+[00:43:54] Jacktank<STEAM_0:1:51163583> spawned sent printer_gold
+[00:43:57] Jacktank<STEAM_0:1:51163583> spawned sent printer_addon_cooler
+[00:43:59] Jacktank<STEAM_0:1:51163583> spawned sent printer_gold
+[00:44:01] Jacktank<STEAM_0:1:51163583> spawned sent printer_silver
+[00:44:25] Jacktank<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[00:44:27] Jacktank was killed by grenade_helicopter
+[00:44:32] Al Shebab: !hp 419243129431\
+[00:44:36] Jacktank<STEAM_0:1:51163583> spawned sent combine_mine
+[00:44:37] Jacktank was killed by combine_mine
+[00:44:37] Al Shebab: !hp sheba 41243124124124
+[00:44:43] Al Shebab set the hp for Themself to 213123123
+[00:44:43] Al Shebab: !hp sheb 213123123
+[00:46:01] Al Shebab suicided!
+[00:46:18] Al Shebab killed Jacktank using player
+[00:47:06] brexit killed Jacktank using player
+[00:47:47] Jacktank suicided!
+[00:51:20] Jacktank was killed by npc_rollermine
+[00:59:37] Al Shebab suicided!
+[01:02:57] Dropped "Jacktank" from server<STEAM_0:1:51163583>
+[01:04:37] Al Shebab suicided!
+[01:18:14] Al Shebab suicided!
+
+
+
+[01:24:52] New map: rp_downtown_v4c
+
+
+
+[01:28:53] New map: rp_downtown_v4c
+[01:29:21] Client "brexit" connected.
+[01:29:43] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 22 seconds).
+[01:31:10] Client "Al Shebab" connected.
+[01:31:39] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 29 seconds).
+[01:34:56] Al Shebab<STEAM_0:0:103364981> spawned sent freshcardealer
+[01:35:10] Al Shebab: !dealerconfig
+[01:35:28] brexit: !fcadmin
+[01:36:09] Al Shebab: !dealerconfig
+
+
+
+[01:42:18] New map: rp_downtown_v4c
+[01:43:02] Client "Al Shebab" connected.
+[01:43:24] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 22 seconds).
+[01:43:52] Client "brexit" connected.
+[01:44:13] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 21 seconds).
+[01:44:33] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[01:45:10] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mer_slsamg.mdl
+[01:45:13] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/sl65amg.mdl
+[01:45:18] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mclaren_mp412cgt3.mdl
+[01:45:18] Al Shebab suicided!
+[01:46:01] brexit was killed by prop_vehicle_jeep
+[01:46:08] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/fer_lafer.mdl
+[01:46:11] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/lambo_diablo.mdl
+[01:46:17] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/bug_veyronss.mdl
+[01:46:47] Al Shebab was killed by prop_vehicle_jeep
+[01:47:19] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mercedes_c32.mdl
+[01:47:20] Al Shebab: // https://steamcommunity.com/sharedfiles/filedetails/?id=107464926
+[01:47:22] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mer_e63.mdl
+[01:48:01] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/gtaiv_airtug.mdl
+[01:48:09] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/hsvw427_pol.mdl
+[01:49:43] Al Shebab was killed by prop_vehicle_jeep
+[01:50:04] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/emergency/chargersrt8.mdl
+[01:50:14] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/emergency/dod_charger12.mdl
+[01:55:08] brexit<STEAM_0:1:121087763> spawned sent armory
+[01:55:36] brexit: !pconfig
+[02:05:47] Dropped "brexit" from server<STEAM_0:1:121087763>
+[02:50:36] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[03:10:43] Client "brexit" connected.
+[03:11:16] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 33 seconds).
+[03:13:39] brexit: !MENU
+[03:15:41] brexit: !apply
+[03:15:49] brexit: !report
+[03:15:59] brexit: !bugreport
+[03:16:03] brexit: !bug report
+[03:16:06] brexit: !reportbug
+[03:16:09] brexit: !big
+[03:16:10] brexit: !bug
+[03:22:09] brexit<STEAM_0:1:121087763> spawned model models/props_c17/oildrum001.mdl
+[03:22:13] brexit<STEAM_0:1:121087763> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[03:22:26] brexit<STEAM_0:1:121087763> spawned model models/props_combine/combine_fence01a.mdl
+[03:22:34] brexit<STEAM_0:1:121087763> spawned model models/props_combine/combine_fence01b.mdl
+[03:22:39] brexit<STEAM_0:1:121087763> spawned model models/props_combine/combine_fence01a.mdl
+[03:23:25] brexit<STEAM_0:1:121087763> spawned sent durgz_alcohol
+[03:23:27] brexit: waitt, wait. guysss. i need to tells u abuot micrsfoft excel!11!
+[03:23:33] brexit<STEAM_0:1:121087763> spawned sent durgz_weed
+[03:23:41] brexit suicided!
+[03:23:47] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[03:23:48] brexit: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[03:24:05] brexit suicided!
+[03:24:10] brexit<STEAM_0:1:121087763> spawned sent durgz_cigarette
+[03:24:12] brexit: I am COOL.
+[03:24:23] brexit<STEAM_0:1:121087763> spawned sent durgz_pcp
+[03:24:26] brexit<STEAM_0:1:121087763> spawned sent durgz_water
+[03:24:29] brexit: MY ARMS ARE LIKE FUCKING CANNONS
+[03:24:33] brexit<STEAM_0:1:121087763> spawned sent durgz_water
+[03:24:40] brexit<STEAM_0:1:121087763> spawned sent durgz_meth
+[03:24:42] brexit: I <3 METH
+[03:24:45] brexit<STEAM_0:1:121087763> spawned sent durgz_water
+[03:24:54] brexit<STEAM_0:1:121087763> spawned sent durgz_heroine
+[03:24:55] brexit<STEAM_0:1:121087763> spawned sent durgz_heroine
+[03:24:56] brexit<STEAM_0:1:121087763> spawned sent durgz_heroine
+[03:24:57] brexit: It's my arm man! My fuckin' arm!
+[03:25:01] brexit: It's my arm man! My fuckin' arm!
+[03:25:07] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[03:25:08] brexit suicided!
+[03:25:17] brexit<STEAM_0:1:121087763> spawned sent sent_crash
+[03:25:19] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:25:20] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:25:27] brexit<STEAM_0:1:121087763> spawned sent itemstore_bank
+[03:25:29] brexit<STEAM_0:1:121087763> spawned sent itemstore_box_huge
+[03:25:31] brexit<STEAM_0:1:121087763> spawned sent itemstore_box_large
+[03:25:37] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_pyro
+[03:25:39] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_flank_support
+[03:25:44] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_flask
+[03:25:49] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_freezer
+[03:25:55] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_gas
+[03:26:03] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_bottle
+[03:26:07] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_powder
+[03:26:07] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_paper
+[03:26:10] brexit<STEAM_0:1:121087763> spawned sent sent_lsd
+[03:28:43] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:28:46] brexit<STEAM_0:1:121087763> spawned sent lean_smallcrate
+[03:28:52] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:28:56] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:28:59] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:28:59] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:28:59] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:29:00] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:29:12] brexit<STEAM_0:1:121087763> spawned sent lean_barrel
+[03:29:28] brexit<STEAM_0:1:121087763> spawned sent lean_crate
+[03:30:12] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_paper
+[03:30:25] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:26] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:27] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:27] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:27] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:28] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:29] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:29] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:29] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:32] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:32] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:32] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:33] brexit<STEAM_0:1:121087763> spawned sent sent_ball
+[03:30:44] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_powder
+[03:30:50] brexit<STEAM_0:1:121087763> spawned sent sent_lsd_bottle
+[03:31:42] brexit<STEAM_0:1:121087763> spawned sent tierp_printer
+[03:33:02] brexit: !menu
+[03:35:25] brexit suicided!
+[03:36:15] brexit<STEAM_0:1:121087763> spawned sent decal
+[04:36:35] Client "☭DinRalleMus☭" connected.
+[04:41:48] brexit: !logs
+[04:44:40] Client "☭DinRalleMus☭" spawned in server <STEAM_0:0:513057140> (took 485 seconds).
+[04:45:28] brexit: Yo
+[05:03:15] Dropped "brexit" from server<STEAM_0:1:121087763>
+[05:06:23] Client "brexit" connected.
+[05:06:48] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 25 seconds).
+
+
+
+[05:19:38] New map: rp_downtown_v4c
+
+
+
+[05:28:24] New map: rp_downtown_v4c
+[05:35:50] Client "brexit" connected.
+[05:35:53] Client "brexit" connected.
+
+
+
+[05:39:01] New map: rp_downtown_v4c
+[05:39:45] Client "Al Shebab" connected.
+[05:39:57] Client "brexit" connected.
+[05:40:17] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 32 seconds).
+[05:40:18] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 21 seconds).
+[05:43:22] Dropped "brexit" from server<STEAM_0:1:121087763>
+[05:43:23] Client "brexit" connected.
+[05:43:43] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 20 seconds).
+[05:43:44] Al Shebab<STEAM_0:0:103364981> spawned sent gmt_instrument_piano
+[05:45:50] Al Shebab: // https://www.youtube.com/watch?v=bEm3WFbS9bg
+[05:46:14] brexit: !men u
+[05:46:16] brexit: !menu
+[05:46:55] (TEAM) brexit: !menu
+[05:46:58] Al Shebab removed all access rights from brexit
+[05:47:16] Al Shebab added brexit to group superadmin
+[05:47:47] Al Shebab removed all access rights from brexit
+[05:48:07] Dropped "brexit" from server<STEAM_0:1:121087763>
+[05:48:16] Client "brexit" connected.
+[05:48:37] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 21 seconds).
+[05:49:07] Al Shebab added brexit to group superadmin
+[05:49:28] Dropped "brexit" from server<STEAM_0:1:121087763>
+[05:49:29] Client "brexit" connected.
+
+
+
+[05:52:28] New map: rp_downtown_v4c
+[05:52:35] Client "brexit" connected.
+[05:53:11] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 36 seconds).
+[05:53:41] brexit: !blogs
+[05:54:02] Client "Al Shebab" connected.
+[05:54:30] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 28 seconds).
+[05:55:14] Al Shebab: !blogs
+[05:55:20] Al Shebab: /logs
+[05:55:22] Al Shebab: !logs
+[05:55:23] brexit: !log
+[05:55:25] brexit: !blog
+[05:58:04] brexit: !menuy
+[05:58:05] brexit: !menu
+
+
+
+[06:13:22] New map: rp_downtown_v4c
+
+
+
+[06:17:37] New map: rp_downtown_v4c
+[06:18:51] Client "Al Shebab" connected.
+[06:19:22] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 31 seconds).

@@ -1980,3 +1980,115 @@
 [21:35:27] New map: rp_downtown_v4c
 [21:35:57] Client "Al Shebab" connected.
 [21:36:59] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 62 seconds).
+[22:01:17] Al Shebab: /drop
+[22:02:00] Al Shebab suicided!
+[22:02:07] Al Shebab suicided!
+[22:09:09] Client "brexit" connected.
+[22:10:22] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 73 seconds).
+[22:10:37] brexit: t.
+[22:10:39] Al Shebab: as
+[22:10:45] Al Shebab: !atags
+[22:10:46] brexit: !atags
+[22:11:03] brexit: !ATAGS
+[22:11:08] brexit: !atags
+[22:11:25] brexit: !atags
+[22:14:02] brexit killed Al Shebab using player
+[22:14:08] brexit: /drop
+[22:18:13] brexit: /drop
+[22:18:25] brexit: /drop
+[22:18:26] Al Shebab: /drop
+[22:18:37] brexit: /drop
+[22:20:04] brexit killed Al Shebab using player
+[22:20:15] Al Shebab: m9k_barret_m82
+[22:20:44] Al Shebab: models/weapons/w_barret_m82.mdl
+[22:20:49] Al Shebab: m9k_remington7615p
+[22:21:10] Al Shebab: models/weapons/w_remington_7615p.mdl
+[22:22:02] Al Shebab: models/weapons/w_colt1911.mdl
+[22:29:09] Al Shebab<STEAM_0:0:103364981> spawned model models/props_wasteland/laundry_cart002.mdl
+[22:44:55] Client "Jacktank" connected.
+[22:48:25] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 210 seconds).
+[22:50:52] brexit: /setjailpos
+[22:51:00] brexit: /addjailpos
+[22:51:07] brexit: /addjailpos
+[22:51:30] brexit<STEAM_0:1:121087763> spawned sent armory
+[22:51:38] brexit: !gposition
+[22:51:49] brexit<STEAM_0:1:121087763> spawned sent armory
+[22:52:50] Jacktank: !menu
+[22:54:23] brexit: !pconfig
+[22:55:04] brexit: !pconfigs
+[22:55:07] brexit: !config
+[22:55:09] brexit: !pconfig
+[22:57:43] brexit: !pconfig
+[22:59:04] brexit: !pconfig
+[22:59:32] brexit: /dropmoney 10000
+[22:59:54] brexit: !pconfig
+[23:01:50] Jacktank: !noclip
+[23:01:53] Jacktank: !noclip
+[23:02:13] brexit killed Jacktank using m9k_gdcwa_rpg_heat
+[23:02:21] brexit suicided!
+[23:02:31] brexit: !pconfig
+[23:03:53] brexit killed Jacktank using player
+[23:04:32] brexit killed Jacktank using player
+[23:04:43] Jacktank killed Al Shebab using player
+[23:04:50] Jacktank: !noclip
+[23:05:13] Jacktank: !noclip
+[23:05:20] brexit teleported to Jacktank
+[23:05:20] brexit: !goto jack
+[23:05:23] Jacktank: !noclip
+[23:05:52] brexit teleported to Jacktank
+[23:05:52] brexit: !goto jack
+[23:06:11] Jacktank: !noclip
+[23:06:18] Jacktank: !noclip
+[23:06:33] Jacktank: !noclip
+[23:06:40] Jacktank: !noclip
+[23:09:37] brexit killed Jacktank using player
+[23:14:49] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[23:17:08] Al Shebab: !addons
+[23:17:12] brexit: !addons
+[23:17:21] brexit: \
+
+
+
+[23:20:30] New map: rp_downtown_v4c
+[23:20:48] Client "Al Shebab" connected.
+[23:20:55] Client "Jacktank" connected.
+[23:21:02] Client "brexit" connected.
+[23:21:22] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 20 seconds).
+[23:21:59] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 71 seconds).
+[23:22:38] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 103 seconds).
+[23:23:06] Al Shebab<STEAM_0:0:103364981> spawned sent lean_smallcrate
+[23:23:16] Al Shebab<STEAM_0:0:103364981> spawned sent bit_case
+[23:23:19] Al Shebab<STEAM_0:0:103364981> spawned sent bit_graphiccard
+[23:23:28] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_bitminer_2
+[23:23:41] brexit teleported to Al Shebab
+[23:23:41] brexit: !goto al
+[23:23:59] Al Shebab cleared decals
+[23:24:00] Jacktank<STEAM_0:1:51163583> spawned model models/props_lab/lockerdoorleft.mdl
+[23:24:58] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:25:33] Al Shebab: // https://imgur.com/1DxgRXH
+[23:25:44] Al Shebab: // https://i.imgur.com/1DxgRXH.png
+[23:27:05] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:27:56] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:30:59] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:32:10] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:32:41] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:33:31] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:35:03] Dropped "Jacktank" from server<STEAM_0:1:51163583>
+[23:36:04] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:37:15] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:38:23] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:39:46] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:42:35] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:44:49] Client "fancy" connected.
+[23:45:39] Client "PROUD" connected.
+[23:45:45] Client "fancy" connected.
+[23:47:05] Client "fancy" connected.
+[23:54:20] Al Shebab: !addons
+[23:54:26] Al Shebab: !workshop
+[23:54:38] Al Shebab: !addons
+[23:57:46] brexit<STEAM_0:1:121087763> spawned sent decal
+[23:58:12] Al Shebab: !addons
+[23:58:45] Al Shebab: !addons
+[23:59:51] Al Shebab<STEAM_0:0:103364981> spawned sent decal
+[23:59:56] Al Shebab<STEAM_0:0:103364981> spawned sent decal
+<Logging continued in "data/ulx_logs/12-27-20.txt">

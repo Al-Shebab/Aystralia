@@ -1,0 +1,1 @@
+{"1":{"specific":false,"pos":"[-2862.8521 -1416.8707 -195.9688]","mdl":"models/player/group01/male_03.mdl","id":"1","ang":"{0 348.3198 0}","name":"Car Dealership","plats":[{"ang":"{0.0169 0.0785 -0.0004}","pos":"[-2745.208 -1790.5146 -202.051]"}]}}

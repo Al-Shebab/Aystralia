@@ -36,3 +36,27 @@
 
 
 [2020-12-26 11:34:55] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-26 23:35:03] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-26 23:45:40] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-26 23:47:00] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-26 23:47:34] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-26 23:50:35] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-27 01:02:57] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-27 02:05:47] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-27 02:50:36] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-27 05:03:15] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-27 05:35:51] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-27 05:35:55] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-27 05:43:22] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-27 05:48:07] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-27 05:49:28] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting

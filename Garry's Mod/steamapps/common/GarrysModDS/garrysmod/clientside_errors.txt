@@ -1214,3 +1214,370 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+brexit|4|STEAM_0:1:121087763
+
+[decals] addons/decals/lua/decals/menu/cl_menu.lua:167: attempt to call method 'GetEnt' (a nil value)
+  1. callback - addons/decals/lua/decals/menu/cl_menu.lua:167
+   2. onsuccess - addons/decals/lua/decals/load/cl_load.lua:60
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+
+brexit|4|STEAM_0:1:121087763
+
+[decals] Warning! A net message (Decals.Update) is already started! Discarding in favor of the new message! (Decals.Update)
+
+  1. callback - addons/decals/lua/decals/menu/cl_menu.lua:166
+   2. onsuccess - addons/decals/lua/decals/load/cl_load.lua:60
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|3|STEAM_0:1:51163583
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[decals] addons/decals/lua/decals/core/cl_core.lua:4: attempt to call method 'SetDecal' (a nil value)
+  1. func - addons/decals/lua/decals/core/cl_core.lua:4
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+brexit|4|STEAM_0:1:121087763
+
+[decals] addons/decals/lua/decals/menu/cl_menu.lua:167: attempt to call method 'GetEnt' (a nil value)
+  1. callback - addons/decals/lua/decals/menu/cl_menu.lua:167
+   2. onsuccess - addons/decals/lua/decals/load/cl_load.lua:60
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+
+brexit|4|STEAM_0:1:121087763
+
+[decals] Warning! A net message (Decals.Update) is already started! Discarding in favor of the new message! (Decals.Update)
+
+  1. callback - addons/decals/lua/decals/menu/cl_menu.lua:166
+   2. URL - addons/decals/lua/decals/load/cl_load.lua:20
+    3. DoClick - addons/decals/lua/decals/menu/cl_menu.lua:159
+     4. unknown - lua/vgui/dlabel.lua:237
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:312: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:312
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
