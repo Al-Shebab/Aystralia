@@ -313,7 +313,6 @@ TEAM_MAYOR = DarkRP.createJob("Mayor", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
-    end
     PlayerDeath = function(ply, weapon, killer)
         ply:teamBan()
         ply:changeTeam(GAMEMODE.DefaultTeam, true)
