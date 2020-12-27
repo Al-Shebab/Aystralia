@@ -10,7 +10,7 @@ F4Menu.Links = {
 F4Menu.HideOtherShipments = false
 
 -- Change to 'true' if you want to close menu after choosing job
-F4Menu.CloseOnJobChange = false
+F4Menu.CloseOnJobChange = true
 
 -- Theme configuration
 -- You can switch light theme to the dark one, by replacing F4Menu.Colors parameters, that you can find in dark_theme.txt file.
@@ -20,43 +20,43 @@ F4Menu.Colors = {
 	BorderRadius = 8,
 
 	-- Text color
-	Text = Color(89, 96, 102),
+	Text = Color(173, 173, 173),
 
 	-- Small text color
-	TextSmall = Color(167, 167, 167),
+	TextSmall = Color(98, 99, 102),
 
 	-- Background color
-	Background = Color(255, 255, 255),
+	Background = Color(31, 32, 35),
 
 	-- Button color
-	Button = Color(44, 161, 44),
+	Button = Color(42, 232, 70),
 
 	-- Negative button color
-	ButtonNegative = Color(253, 100, 95),
+	ButtonNegative = Color(255, 50, 70),
 
 	-- Context menu arrow color
-	Arrow = Color(161, 161, 161),
+	Arrow = Color(88, 88, 92),
 
 	-- Job overlay color
-	OverlayColor = Color(255, 255, 255, 186),
+	OverlayColor = Color(33, 34, 37, 186),
 
 	-- Selected item color
-	ItemSelected = Color(237, 238, 241),
+	ItemSelected = Color(42, 44, 51),
 
 	-- Title bar color 
-	TitleBar = Color(248, 247, 247),
+	TitleBar = Color(33, 34, 37),
 
 	-- Title bar border color
-	TitleBorder = Color(225, 225, 225),
+	TitleBorder = Color(29, 29, 29),
 
 	-- Border color
-	Border = Color(237, 237, 242),
+	Border = Color(28, 28, 30),
 
 	-- Navigation menu item color
-	NavItem = Color(93, 172, 223),
+	NavItem = Color(229, 59, 106),
 
 	-- Navigation menu hover color
-	NavItemHover = Color(48, 144, 198),
+	AcceptButtonHover = Color(229, 80, 106),
 
 	-- Navigation menu text color
 	NavItemText = Color(255, 255, 255),
@@ -65,13 +65,13 @@ F4Menu.Colors = {
 	ContextMenuSelected = Color(1, 93, 202),
 
 	-- String request menu bottom bar
-	RequestBottomBar = Color(249, 249, 249),
+	RequestBottomBar = Color(33, 34, 37),
 
 	-- Text entry caret color
 	CaretColor = Color(63, 75, 95),
 
 	-- Scroll bar color
-	ScrollBar = Color(200, 200, 200, 180)
+	ScrollBar = Color(44, 45, 47)
 
 }
 

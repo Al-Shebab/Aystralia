@@ -9,7 +9,7 @@ DarkRP.createAmmoType("m9k_ammo_pistol", {
 })
 
 DarkRP.createAmmoType("m9k_ammo_357", {
-	name = "357 ammo",
+	name = "Heavy Pistol Ammo",
 	model = "models/Items/357ammobox.mdl",
 	price = 300,
 	amountGiven = 20
