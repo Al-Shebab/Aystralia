@@ -554,7 +554,7 @@ TEAM_BLOOD = DarkRP.createJob("Blood", {
 })
 TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/bloodz/slow_1.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
     command = "TEAM_BLOOD_LEADER",
@@ -573,7 +573,7 @@ TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
 })
 TEAM_CRIP = DarkRP.createJob("Crip", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/cripz/slow_2.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
     command = "TEAM_CRIP",
@@ -592,7 +592,7 @@ TEAM_CRIP = DarkRP.createJob("Crip", {
 })
 TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/cripz/slow_1.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
     command = "TEAM_CRIP_LEADER",
@@ -608,13 +608,10 @@ TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
         ply:SetHealth(100)
         ply:SetArmor(0)
     end
-})--[[
-    Generated using: DarkRP | Job Generator
-    https://csite.io/tools/gmod-darkrp-job
---]]
+})
 TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/LaNoire_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
     weapons = {},
     command = "TEAM_MAFIA_LEADER",
@@ -630,13 +627,10 @@ TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
         ply:SetHealth(100)
         ply:SetArmor(0)
     end
-})--[[
-    Generated using: DarkRP | Job Generator
-    https://csite.io/tools/gmod-darkrp-job
---]]
+})
 TEAM_MAFIA = DarkRP.createJob("Mafia", {
     color = Color(34, 85, 85, 255),
-    model = {"ass"},
+    model = {"models/player/LaNoire_Gray_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
     weapons = {},
     command = "TEAM_MAFIA",
@@ -647,6 +641,77 @@ TEAM_MAFIA = DarkRP.createJob("Mafia", {
     hasLicense = false,
     candemote = false,
     category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/plague_doktor/PLAYER_Plague_Doktor.mdl"},
+    description = [[Heal up your comrades in a brawl. Can base, raid and mug.]],
+    weapons = {"med_kit"},
+    command = "TEAM_BATTLE_MEDIC",
+    max = 2,
+    salary = 1000,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEAM_MUTANT = DarkRP.createJob("Mutant", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/charple.mdl"},
+    description = [[Live in the sewers and shit yourself. KOS Outside the sewers.]],
+    weapons = {"weapon_crowbar", "weapon_bugbait"},
+    command = "TEAM_MUTANT",
+    max = 5,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Homeless",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/charple.mdl"},
+    description = [[Live in the sewers and shit yourself. KOS Outside the sewers.]],
+    weapons = {"weapon_crowbar", "weapon_bugbait"},
+    command = "TEAM_MUTANT_KING",
+    max = 1,
+    salary = 1,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Homeless",
+    NeedToChangeFrom = TEAM_MUTANT,
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
