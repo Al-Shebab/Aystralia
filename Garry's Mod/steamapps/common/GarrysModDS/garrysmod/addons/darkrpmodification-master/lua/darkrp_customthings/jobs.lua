@@ -666,6 +666,106 @@ TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
         ply:SetArmor(0)
     end
 })
+TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Raid houses at rapid speed. Can base, raid and mug.]],
+    weapons = {"pro_lockpick"},
+    command = "TEAM_PRO_THIEF",
+    max = 4,
+    salary = 1000,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(50)
+    end,
+    customCheck = function(ply) return CLIENT or
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/kuma/taliban_rpg.mdl"},
+    description = [[Can blow up an entire city, but only once. May only advert terror once every 30 minutes.]],
+    weapons = {"m9k_suicide_bomb"},
+    command = "TEAM_TERRORIST",
+    max = 1,
+    salary = 1000,
+    admin = 0,
+    vote = true,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    PlayerDeath = function(ply, weapon, killer)
+        ply:teamBan()
+        ply:changeTeam(GAMEMODE.DefaultTeam, true)
+        DarkRP.notifyAll(0, 4, "The terrorist has died.")
+    end,
+    customCheck = function(ply) return CLIENT or
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/csgo/tr/professional/professional_varient_i.mdl"},
+    description = [[Can kidnap anyone. May only advert kidnap once every 15 minutes.]],
+    weapons = {"weapon_leash_elastic"},
+    command = "TEAM_KIDNAPPER",
+    max = 1,
+    salary = 1000,
+    admin = 0,
+    vote = true,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end,
+    customCheck = function(ply) return CLIENT or
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Most dangerous person in any room. Can base and raid.]],
+    weapons = {"m9k_intervention", "pro_lockpick"},
+    command = "TEAM_ASSASSIN",
+    max = 1,
+    salary = 2500,
+    admin = 0,
+    vote = true,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    ammo = {
+        ["m9k_ammo_sniper_rounds"] = 100
+    },
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return CLIENT or
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
 
 
 
