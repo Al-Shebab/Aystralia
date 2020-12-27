@@ -2,7 +2,7 @@
 	Threes Discord Webhooks by Threebow.
 	Having issues or questions? Open up a support ticket on Gmodstore.
 ---------------------------------------------------------------------------*/
-local cfg = TDW.Config //dont touch this line
+local cfg TDW.Config //dont touch this line
 
 
 /*---------------------------------------------------------------------------
@@ -52,7 +52,7 @@ cfg.NotifySuccess = true
 	To disable individual events within a module, do this:
 
 	["Base"] = {
-		["PlayerDeath"] = true,
+		["PlayerDeath"] = false,
 		["AnotherHook"] = true
 	}
 
