@@ -1,1 +1,0 @@
-XEON:Init("1599", "bLogs", "Remastered-21", "blogs/sv.lua", '{"licensee":"76561198166995690","keys":{"xeon-de":"L843C42995234C763B1D14D9F5E0937E3","xeon-us":"L39C87F2534F7C300A85D1786E8E09B12"}}')
