@@ -7,7 +7,7 @@ F4Menu.Links = {
 
 -- Advanced configuration
 -- Change to 'true' if you want to hide shipments that are not for your job
-F4Menu.HideOtherShipments = false
+F4Menu.HideOtherShipments = true
 
 -- Change to 'true' if you want to close menu after choosing job
 F4Menu.CloseOnJobChange = true
