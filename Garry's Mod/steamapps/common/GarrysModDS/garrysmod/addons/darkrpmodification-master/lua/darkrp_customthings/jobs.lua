@@ -552,3 +552,104 @@ TEAM_BLOOD = DarkRP.createJob("Blood", {
         ply:SetArmor(0)
     end
 })
+TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Fuck 12. Can base, raid and mug.]],
+    weapons = {},
+    command = "TEAM_BLOOD_LEADER",
+    max = 1,
+    salary = 750,
+    admin = 0,
+    vote = true,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_CRIP = DarkRP.createJob("Crip", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Fuck 12. Can base, raid and mug.]],
+    weapons = {},
+    command = "TEAM_CRIP",
+    max = 3,
+    salary = 750,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Fuck 12. Can base, raid and mug.]],
+    weapons = {},
+    command = "TEAM_CRIP_LEADER",
+    max = 1,
+    salary = 750,
+    admin = 0,
+    vote = true,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})--[[
+    Generated using: DarkRP | Job Generator
+    https://csite.io/tools/gmod-darkrp-job
+--]]
+TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Tax evading in chicago. Can base, raid and mug.]],
+    weapons = {},
+    command = "TEAM_MAFIA_LEADER",
+    max = 1,
+    salary = 750,
+    admin = 0,
+    vote = true,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})--[[
+    Generated using: DarkRP | Job Generator
+    https://csite.io/tools/gmod-darkrp-job
+--]]
+TEAM_MAFIA = DarkRP.createJob("Mafia", {
+    color = Color(34, 85, 85, 255),
+    model = {"ass"},
+    description = [[Tax evading in chicago. Can base, raid and mug.]],
+    weapons = {},
+    command = "TEAM_MAFIA",
+    max = 3,
+    salary = 750,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
