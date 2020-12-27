@@ -251,7 +251,7 @@ TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
 
 TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
     color = Color(45, 6, 255, 255),
-    model = {"models/fbi_pack/fbi_02.mdl"},
+    model = {"models/player/santosrp/Male_02_santosrp.mdl"},
     description = [[Protect and serve. Can not base, raid or mug.]],
     weapons = {"m9k_usp", "weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram"},
     command = "TEAM_POLICE_OFFICER",
@@ -273,7 +273,7 @@ TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
 })
 TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
     color = Color(45, 6, 255, 255),
-    model = {"models/fbi_pack/fbi_02.mdl"},
+    model = {"models/player/riot.mdl"},
     description = [[Protect and serve. Can not base, raid or mug.]],
     weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "door_ram", "m9k_mp5"},
     command = "TEAM_POLICE_CHIEF",
