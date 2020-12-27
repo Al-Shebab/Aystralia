@@ -1,25 +1,11 @@
-/*---------------------------------------------------------------------------
-	Three's Discord Webhooks by Threebow.
-	Having issues or questions? Open up a support ticket on Gmodstore.
----------------------------------------------------------------------------*/
-local cfg = TDW.Config //don't touch this line
 
-
-/*---------------------------------------------------------------------------
-	The URL of the webhook to use. To find this, follow the instructions
-	on the script's description page.
----------------------------------------------------------------------------*/
 cfg.WebhookURL = "https://canary.discord.com/api/webhooks/792215268192682029/Qea94Y-Gnc_NZTEE4c3ZHjNhfCLEZa_Amq8EjkYh2PewtbKimzlPG67DMtLLiwITCDbx"
 
 
-/*---------------------------------------------------------------------------
-	Your Steam API key. Follow the script description page's instructions
-	to find this.
----------------------------------------------------------------------------*/
-cfg.SteamAPIKey = ""
+cfg.SteamAPIKey = "CB2CD369E7B7A8FD95DDD35D5ED94719"
 
 
-/*---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 	Should we fetch and cache player info from the Steam API when a
 	player connects instead of fetching and caching it when it is first used?
 ---------------------------------------------------------------------------*/
@@ -56,10 +42,6 @@ cfg.NotifySuccess = true
 		["AnotherHook"] = true
 	}
 
-	PlayerDeath and AnotherHook are provided by the module, you can find
-	the names of all the included modules' hooks in the cfg.EmbedColors
-	config option.
----------------------------------------------------------------------------*/
 cfg.DisabledModules = {
 	//Relays everything from bLogs to Discord, set everything else to true for maximum effectiveness.
 	["bLogs"] = false,
