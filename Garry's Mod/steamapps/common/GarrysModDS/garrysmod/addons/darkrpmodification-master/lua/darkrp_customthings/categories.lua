@@ -116,7 +116,7 @@ DarkRP.createCategory{
     sortOrder = 11,
 }
 DarkRP.createCategory{
-    name = "SMGs",
+    name = "Heavy Pistols",
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
@@ -124,7 +124,7 @@ DarkRP.createCategory{
     sortOrder = 12,
 }
 DarkRP.createCategory{
-    name = "Rifles",
+    name = "SMGs",
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
@@ -132,15 +132,15 @@ DarkRP.createCategory{
     sortOrder = 13,
 }
 DarkRP.createCategory{
-    name = "Machine Guns",
+    name = "Rifles",
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
     sortOrder = 14,
 }
 DarkRP.createCategory{
-    name = "Snipers",
+    name = "Machine Guns",
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
@@ -148,10 +148,18 @@ DarkRP.createCategory{
     sortOrder = 15,
 }
 DarkRP.createCategory{
-    name = "Explosives",
+    name = "Snipers",
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
     canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
     sortOrder = 16,
+}
+DarkRP.createCategory{
+    name = "Explosives",
+    categorises = "shipments",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    sortOrder = 17,
 }
