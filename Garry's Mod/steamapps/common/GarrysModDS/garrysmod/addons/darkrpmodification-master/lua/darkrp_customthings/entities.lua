@@ -274,8 +274,8 @@ DarkRP.createEntity("Methylamin", {
 DarkRP.createEntity("Aluminium", {
 	ent = "zmlab_aluminium",
 	model = "models/zerochain/zmlab/zmlab_aluminiumbox.mdl",
-	price = 100,
-	max = 6,
+	price = 500,
+	max = 3,
 	cmd = "buyaluminium_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
