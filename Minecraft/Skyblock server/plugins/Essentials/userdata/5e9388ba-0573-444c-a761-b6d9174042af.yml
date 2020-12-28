@@ -1,0 +1,20 @@
+lastAccountName: AimJunkiesFeeyne
+timestamps:
+  login: 1609170968931
+  logout: 1609164260327
+  lastteleport: 1609164298614
+ipAddress: 127.0.0.1
+lastlocation:
+  world: IridiumSkyblock
+  x: 0.6097361751471808
+  y: 96.0
+  z: -1.3916063368945206
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: IridiumSkyblock
+  x: -0.8037573215527076
+  y: 96.0
+  z: 2.0126161487862455
+  yaw: 108.450005
+  pitch: 20.850021

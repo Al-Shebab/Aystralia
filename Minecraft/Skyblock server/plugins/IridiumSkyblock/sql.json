@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "database": "IridiumSkyblock",
+  "username": "",
+  "password": "",
+  "port": 3306,
+  "poolSize": 25
+}

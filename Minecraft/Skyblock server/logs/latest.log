@@ -1,0 +1,166 @@
+[15:55:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:55:26] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:55:26] [Worker-Main-5/INFO]: Loaded 7 recipes
+[15:55:28] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:55:28] [Server thread/INFO]: Loading properties
+[15:55:28] [Server thread/INFO]: This server is running Paper version git-Paper-324 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[15:55:28] [Server thread/INFO]: Debug logging is disabled
+[15:55:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:55:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:55:28] [Server thread/INFO]: Default game type: SURVIVAL
+[15:55:28] [Server thread/INFO]: Generating keypair
+[15:55:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:55:28] [Server thread/INFO]: Using default channel type
+[15:55:30] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.35
+[15:55:30] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
+[15:55:30] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[15:55:30] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[15:55:30] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.2.0
+[15:55:30] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.2.0
+[15:55:30] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[15:55:30] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[15:55:30] [Server thread/INFO]: [IridiumSkyblock] Loading IridiumSkyblock v2.6.3
+[15:55:30] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.18.2.0
+[15:55:30] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.18.2.0
+[15:55:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:55:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.35
+[15:55:31] [Server thread/INFO]:         __    
+[15:55:31] [Server thread/INFO]:   |    |__)   LuckPerms v5.2.35
+[15:55:31] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:55:31] [Server thread/INFO]: 
+[15:55:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:55:32] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:55:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:55:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:55:34] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3284ms)
+[15:55:34] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
+[15:55:34] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[15:55:34] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:55:34] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:55:34] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b${env.TRAVIS_BUILD_NUMBER}
+[15:55:34] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:55:34] [Server thread/INFO]: [IridiumSkyblock] Enabling IridiumSkyblock v2.6.3
+[15:55:34] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[15:55:34] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[15:55:34] [Server thread/INFO]: Preparing level "world"
+[15:55:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:55:35] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[15:55:35] [Server thread/INFO]: Preparing spawn area: 0%
+[15:55:35] [Server thread/INFO]: Time elapsed: 428 ms
+[15:55:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:55:35] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[15:55:35] [Server thread/INFO]: Time elapsed: 217 ms
+[15:55:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:55:35] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[15:55:35] [Server thread/INFO]: Time elapsed: 71 ms
+[15:55:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[15:55:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:55:35] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:55:36] [Server thread/WARN]: Unable to find spawn biome
+[15:55:56] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock_nether
+[15:55:56] [Server thread/INFO]: Loaded 0 spawn chunks for world IridiumSkyblock_nether
+[15:55:57] [Server thread/INFO]: Time elapsed: 588 ms
+[15:56:03] [Server thread/INFO]: Preparing start region for dimension minecraft:iridiumskyblock
+[15:56:03] [Server thread/INFO]: Loaded 0 spawn chunks for world IridiumSkyblock
+[15:56:04] [Server thread/INFO]: Time elapsed: 319 ms
+[15:56:04] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[15:56:04] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:56:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[15:56:05] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:56:05] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:56:05] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[15:56:05] [Server thread/INFO]: [Essentials] Using locale en_GB
+[15:56:05] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:56:05] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:56:05] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:56:05] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.2.0
+[15:56:05] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[15:56:05] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.2.0
+[15:56:05] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[15:56:05] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[15:56:05] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[15:56:05] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.18.2.0
+[15:56:05] [Server thread/INFO]: [EssentialsAntiBuild] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.18.2.0
+[15:56:05] [Server thread/WARN]: [EssentialsXMPP] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[15:56:05] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[15:56:05] [Server thread/INFO]: Running delayed init tasks
+[15:56:05] [Server thread/INFO]: Multiverse already knows about 'IridiumSkyblock'!
+[15:56:05] [Server thread/INFO]: Success! Property generator was set to IridiumSkyblock
+[15:56:05] [Server thread/INFO]: Multiverse already knows about 'IridiumSkyblock_nether'!
+[15:56:05] [Server thread/INFO]: Success! Property generator was set to IridiumSkyblock
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] 
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] IridiumSkyblock Enabled!
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] Version: 2.6.3
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] Patreon: www.patreon.com/Peaches_MLG
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] 
+[15:56:06] [Server thread/INFO]: [IridiumSkyblock] ----------------------------------------
+[15:56:06] [Server thread/INFO]: Done (38.077s)! For help, type "help"
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_271
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[15:56:06] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[15:56:06] [Server thread/INFO]: Timings Reset
+[15:56:06] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[15:56:06] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[15:56:08] [User Authenticator #1/INFO]: UUID of player AimJunkiesFeeyne is 5e9388ba-0573-444c-a761-b6d9174042af
+[15:56:08] [Server thread/INFO]: AimJunkiesFeeyne joined the game
+[15:56:08] [Server thread/INFO]: AimJunkiesFeeyne[/127.0.0.1:60981] logged in with entity id 274 at ([world]48.5, 64.5, -135.5)
+[15:56:08] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[16:01:16] [Server thread/INFO]: AimJunkiesFeeyne was slain by Spider
+[16:37:53] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gm c
+[16:38:03] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:38:04] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:38:17] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:38:17] [Craft Scheduler Thread - 109/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_16_R3! Trying to find NMS support
+[16:38:17] [Craft Scheduler Thread - 109/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[16:38:17] [Craft Scheduler Thread - 109/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[16:38:17] [Thread-26/WARN]: [NBTAPI] [NBTAPI] The NBT-API at 'package com.iridium.iridiumskyblock' seems to be outdated!
+[16:38:17] [Thread-26/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.6.0' Newest Version: 2.6.1'
+[16:38:17] [Thread-26/WARN]: [NBTAPI] [NBTAPI] Please update the nbt-api or the plugin that contains the api!
+[16:39:47] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:40:03] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 1.6524396842354978,96.16532237315639,11.379319500832398
+[16:40:03] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 1.6524396842354978,96.16532237315639,11.379319500832398
+[16:40:03] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 1.6524396842354978,96.16532237315639,11.379319500832398
+[16:40:03] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 1.6524396842354978,96.16532237315639,11.379319500832398
+[16:40:03] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 1.6524396842354978,96.16532237315639,11.379319500832398
+[16:40:07] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gmc
+[16:40:09] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gmc
+[16:40:11] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:40:57] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /
+[16:41:30] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gamemode s
+[16:41:43] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:42:06] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /xp give AimJunkiesFeeyne 10000000000
+[16:42:09] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /xp give AimJunkiesFeeyne 10000000000
+[16:42:12] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /xp give AimJunkiesFeeyne 1000
+[16:42:22] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:43:08] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gmc
+[16:43:32] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gamemode s
+[16:43:59] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /island
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:33] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! 0.7301777679120991,97.52044767142056,2.4394569571715827
+[16:44:37] [Server thread/WARN]: AimJunkiesFeeyne moved too quickly! -5.634965713746685,97.52044767142056,-5.761424125772583
+[16:44:39] [Server thread/INFO]: AimJunkiesFeeyne issued server command: /gmc
