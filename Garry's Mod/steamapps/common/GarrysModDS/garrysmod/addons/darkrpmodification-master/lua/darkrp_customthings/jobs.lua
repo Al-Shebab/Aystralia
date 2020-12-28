@@ -817,7 +817,7 @@ TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
     candemote = false,
     category = "Manufacturing"
 })
-TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
+TEAM_WEED_DEALER = DarkRP.createJob("Weed Grower", {
     color = Color(196, 115, 0, 255),
     model = {"models/snoopdogg.mdl"},
     description = [[Sell some green at bankstown station. Can base.]],
