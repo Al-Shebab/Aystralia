@@ -378,3 +378,45 @@
 [05:57:56] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x3x1trap.mdl
 [05:57:58] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/plates/plate075x7.mdl
 [05:57:59] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/plates/plate075x6.mdl
+
+
+
+[06:06:06] New map: rp_downtown_v4c
+[06:06:11] Client "Jacktank" connected.
+[06:06:45] Client "Al Shebab" connected.
+[06:06:49] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 38 seconds).
+[06:07:14] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:07:16] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 31 seconds).
+[06:07:23] Client "brexit" connected.
+[06:07:52] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 29 seconds).
+[06:07:53] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:07:55] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:07:55] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:07:56] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:07:57] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:12] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:13] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:13] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:14] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:15] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:15] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:16] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:17] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:17] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:08:33] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:09:08] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:09:09] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:09:10] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x05.mdl
+[06:09:29] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x4x025.mdl
+[06:10:10] brexit killed UK Musket Warrior using m9k_improvised_explosive
+[06:10:57] brexit suicided!
+[06:10:57] brexit killed UK Musket Warrior using m9k_oribital_cannon
+[06:11:33] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube1x7x025.mdl
+[06:11:53] brexit killed Al Shebab using m9k_oribital_cannon
+[06:11:53] brexit killed UK Musket Warrior using m9k_oribital_cannon
+[06:11:57] UK Musket Warrior: !menu
+[06:12:19] UK Musket Warrior banned brexit permanently (Fucken RDMING DUMB CUNT STOP ANNOYING ME)
+[06:12:54] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube075x2x075.mdl
+[06:13:07] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube075x075x075.mdl
+[06:13:11] brexit<STEAM_0:1:121087763> spawned model models/hunter/blocks/cube6x6x025.mdl
+[06:13:12] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube1x2x1.mdl

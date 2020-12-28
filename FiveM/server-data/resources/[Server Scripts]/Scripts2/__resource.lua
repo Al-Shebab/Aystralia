@@ -21,6 +21,7 @@ client_scripts{
   "cl_carry.lua",
   "cl_commands.lua",
   "cl_tackle.lua",
+  "gameui-client",
   "cl_idsabovehead.lua",
   "cl_pointfinger.lua",
   "antinpc.lua",
