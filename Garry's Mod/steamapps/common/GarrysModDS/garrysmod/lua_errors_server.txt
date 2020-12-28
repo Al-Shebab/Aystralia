@@ -12325,3 +12325,258 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
      4. fn - lua/permaprops/sv_lib.lua:233
       5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
 
+
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[ulx-master] umsg.Start: Starting new message without ending the old one!
+
+  1. unknown - addons/ulx-master/lua/autorun/server/sv_dban.lua:24
+   2. unknown - lua/includes/modules/concommand.lua:54
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] umsg.Start: Starting new message without ending the old one!
+
+  1. func - lua/autorun/sh_screengrab_v2.lua:134
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:134: Player is NULL(!?)
+  1. Start - [C]:-1
+   2. func - lua/autorun/sh_screengrab_v2.lua:134
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+[DarkRP] umsg.Start: Starting new message without ending the old one!
+
+  1. callback - gamemodes/darkrp/gamemode/modules/logging/sv_logging.lua:11
+   2. onResult - gamemodes/darkrp/gamemode/libraries/sh_cami.lua:443
+    3. callback - gamemodes/darkrp/gamemode/libraries/sh_cami.lua:448
+     4. fn - addons/ulib-master/lua/ulib/shared/cami_ulib.lua:23
+      5. Call - addons/ulib-master/lua/ulib/shared/hook.lua:109
+       6. PlayerHasAccess - gamemodes/darkrp/gamemode/libraries/sh_cami.lua:383
+        7. GetPlayersWithAccess - gamemodes/darkrp/gamemode/libraries/sh_cami.lua:447
+         8. log - gamemodes/darkrp/gamemode/modules/logging/sv_logging.lua:22
+          9. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:930
+
+
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - lua/permaprops/sv_lib.lua:120
+     4. fn - lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - lua/permaprops/sv_lib.lua:120
+     4. fn - lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - lua/permaprops/sv_lib.lua:120
+     4. fn - lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - lua/permaprops/sv_lib.lua:120
+     4. fn - lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+

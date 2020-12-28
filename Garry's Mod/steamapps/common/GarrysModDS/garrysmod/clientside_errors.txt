@@ -1735,3 +1735,12 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|3|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/categories.lua:79: '<name>' expected near '}'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
