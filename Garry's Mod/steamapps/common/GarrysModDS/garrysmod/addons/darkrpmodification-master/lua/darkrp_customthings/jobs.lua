@@ -19,7 +19,7 @@ Define which team joining players spawn into and what team you change to if demo
 ---------------------------------------------------------------------------]]
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 --[[---------------------------------------------------------------------------
-Define which teams belong to civil protection
+Define which teams belong to civail protection
 Civil protection can set warrants, make people wanted and do some other police related things
 ---------------------------------------------------------------------------]]
 GAMEMODE.CivilProtection = {
