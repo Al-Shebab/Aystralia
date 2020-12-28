@@ -1,0 +1,39 @@
+Mon Dec 28 02:21:05 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Mon Dec 28 02:21:05 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:21:10 2020	brexit (STEAM_0:1:121087763) has joined the game
+Mon Dec 28 02:21:10 2020	brexit (STEAM_0:1:121087763) spawned
+Mon Dec 28 02:22:33 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:27:28 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT cardealer_facture
+Mon Dec 28 02:27:52 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:27:59 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_bank
+Mon Dec 28 02:28:41 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_bank
+Mon Dec 28 02:28:50 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_bank
+Mon Dec 28 02:28:57 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_bank
+Mon Dec 28 02:29:05 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_bank
+Mon Dec 28 02:29:19 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_bank
+Mon Dec 28 02:30:44 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT sent_crash
+Mon Dec 28 02:33:20 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT npc_lsd_dealer
+Mon Dec 28 02:33:26 2020	Al Shebab (STEAM_0:0:103364981): !lsd
+Mon Dec 28 02:34:27 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT npc_lsd_dealer
+Mon Dec 28 02:34:35 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_buyer
+Mon Dec 28 02:34:47 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT zwf_buyer_npc
+Mon Dec 28 02:34:53 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_methbuyer
+Mon Dec 28 02:35:31 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_battery
+Mon Dec 28 02:35:33 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_printer
+Mon Dec 28 02:37:31 2020	Al Shebab (STEAM_0:0:103364981): !bhop 1
+Mon Dec 28 02:39:32 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:45:34 2020	brexit was killed by Himself with a suicide trick
+Mon Dec 28 02:45:34 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:53:22 2020	Al Shebab (STEAM_0:0:103364981): !rules
+Mon Dec 28 02:53:30 2020	Al Shebab (STEAM_0:0:103364981): !rules
+Mon Dec 28 02:57:52 2020	brexit (STEAM_0:1:121087763) spawned
+Mon Dec 28 02:57:54 2020	brexit (STEAM_0:1:121087763): t
+Mon Dec 28 02:58:05 2020	Al Shebab was killed by brexit with a m9k_m202_rocket
+Mon Dec 28 02:58:08 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:58:25 2020	Al Shebab was killed by brexit with a m9k_oribital_cannon
+Mon Dec 28 02:58:28 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:58:54 2020	Al Shebab was killed by brexit with a m9k_oribital_cannon
+Mon Dec 28 02:58:57 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 02:59:11 2020	Al Shebab (STEAM_0:0:103364981): !god ^
+Mon Dec 28 02:59:33 2020	brexit was killed by Al Shebab with a m9k_davy_crockett_explo
+Mon Dec 28 02:59:36 2020	brexit (STEAM_0:1:121087763) spawned

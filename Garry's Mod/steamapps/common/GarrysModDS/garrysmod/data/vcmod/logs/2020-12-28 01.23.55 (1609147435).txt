@@ -1,0 +1,31 @@
+2020-12-28 01.23.55: <General> Logging started, map: rp_downtown_v4c.
+2020-12-28 01.23.55: <General> Welcome to VCMod Auto-Updater version 9.65.
+2020-12-28 01.23.55: <General> Pre-initialization complete, preparing to load addon data.
+2020-12-28 01.23.55: <General> Addons found: VCMod Main.
+2020-12-28 01.25.06: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2020-12-28 01.25.13: <General> Preparations are complete, handshaking API.
+2020-12-28 01.25.13: <General> Handshake successful.
+2020-12-28 01.25.13: <General> Handshake finished.
+2020-12-28 01.25.14: <General> Contacting preload API.
+2020-12-28 01.25.15: <General> Initializing preload.
+2020-12-28 01.25.15: <General> Preload finished. Initializing addons.
+2020-12-28 01.25.15: <General> Started loading serverside.
+2020-12-28 01.25.15: <General> Loaded Main v1.737 serverside.
+2020-12-28 01.25.15: <General> Finished loading serverside.
+2020-12-28 01.25.20: <General> Scanning for potentially incompatible hooks.
+2020-12-28 01.25.20: <General> No incompatibilities found.
+2020-12-28 01.25.20: <General> General vehicle data is up to date.
+2020-12-28 01.25.20: <Fuel> All fuel stations have been respawned.
+2020-12-28 01.26.21: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2020-12-28 01.26.22: <General> Sent API key to player Al Shebab. 99 keys left.
+2020-12-28 01.26.22: <General> Initializing player Al Shebab.
+2020-12-28 01.26.27: <General> Player brexit has loaded and is waiting for a temp-key.
+2020-12-28 01.26.28: <General> Sent API key to player brexit. 98 keys left.
+2020-12-28 01.26.28: <General> Initializing player brexit.
+2020-12-28 01.33.56: <General> Vehicle data "McLaren GT MP4-12C GT3" loaded.
+2020-12-28 01.34.02: <General> Vehicle data "McLaren P1" loaded.
+2020-12-28 01.34.16: <General> Vehicle data "McLaren F1" loaded.
+2020-12-28 01.34.46: <General> Vehicle data "Bugatti Veyron" loaded.
+2020-12-28 01.34.48: <General> vehicle "McLaren P1(TDM Cars)" has exploded.
+2020-12-28 01.46.35: <General> vehicle "Bugatti Veyron(TDM Cars)" has exploded.
+2020-12-28 01.54.39: <General> Vehicle data "Ferrari LaFerrari" loaded.

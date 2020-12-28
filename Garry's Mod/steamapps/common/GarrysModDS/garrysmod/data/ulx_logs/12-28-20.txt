@@ -1,0 +1,316 @@
+<Logging continued from "data/ulx_logs/12-27-20.txt">
+[00:13:35] Al Shebab: // jobs are completely done
+[00:13:46] brexit: Make it so people can see whats vip jobs
+[00:13:50] brexit: If you can
+[00:13:51] Al Shebab: i cant
+[00:13:58] Al Shebab: i can hide vip jobs
+[00:14:05] Al Shebab: or put it in the comment thing on the right
+[00:14:18] brexit: Yeah do that I guess
+[00:14:19] Al Shebab: make your pick lol
+[00:14:21] Al Shebab: which one
+[00:14:44] brexit: put the comment thing
+[00:14:46] Al Shebab: ok
+[00:14:54] brexit: Black market dealer comes with 100 armour
+[00:14:59] Al Shebab: ik
+[00:15:06] Al Shebab: i did it lol
+[00:15:27] Al Shebab: punch a dart cuz
+[00:15:34] brexit: eshayssss
+[00:15:55] Al Shebab<STEAM_0:0:103364981> spawned sent zwf_bong01_ent
+[00:15:55] brexit<STEAM_0:1:121087763> spawned sent durgz_weed
+[00:16:09] brexit: No weeed brooooo
+[00:16:13] Al Shebab<STEAM_0:0:103364981> spawned sent zwf_buyer_npc
+[00:16:16] brexit<STEAM_0:1:121087763> spawned sent zwf_weedblock
+[00:16:22] brexit<STEAM_0:1:121087763> spawned sent zwf_weedstick
+[00:16:42] brexit<STEAM_0:1:121087763> spawned sent zwf_jar
+[00:16:53] brexit<STEAM_0:1:121087763> spawned sent zwf_bong02_ent
+[00:17:09] brexit<STEAM_0:1:121087763> spawned sent zwf_weedstick
+[00:17:15] brexit<STEAM_0:1:121087763> spawned sent zwf_drystation
+[00:20:15] brexit suicided!
+[00:20:57] Al Shebab: !removemoney sheb 1243123123123
+[00:21:04] brexit: !bring al
+[00:21:04] brexit brought Al Shebab
+[00:21:13] Al Shebab: hahahaha
+[00:21:17] Al Shebab: this red line
+[00:21:22] brexit: Yea
+[00:21:23] Al Shebab: !gconfig
+[00:21:26] brexit: P
+[00:21:27] Al Shebab: !pconfig
+[00:21:27] brexit: config
+[00:21:41] Al Shebab: // fixed
+[00:21:44] brexit: // ty
+[00:22:06] Al Shebab: going on the list
+[00:22:13] brexit: same
+[00:24:13] brexit<STEAM_0:1:121087763> spawned sent decal
+[00:25:30] brexit: !utime
+
+
+
+[00:32:16] New map: rp_downtown_v4c
+[00:32:51] Client "Al Shebab" connected.
+[00:33:20] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 29 seconds).
+[00:33:29] Client "brexit" connected.
+[00:33:58] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 29 seconds).
+[00:44:58] Al Shebab<STEAM_0:0:103364981> spawned sent ghomes_seller
+[00:45:36] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/cardboard_box004a.mdl
+[00:52:27] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:28] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:29] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:29] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:30] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:31] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:31] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:31] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:31] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:32] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:32] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:32] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:32] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:33] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:33] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:33] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:34] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:34] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:35] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[00:52:56] brexit: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[00:52:56] brexit suicided!
+[00:53:03] brexit: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[00:53:04] brexit: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[00:53:04] brexit: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[00:53:05] brexit suicided!
+
+
+
+[01:25:06] New map: rp_downtown_v4c
+[01:25:41] Client "Al Shebab" connected.
+[01:25:48] Client "brexit" connected.
+[01:26:10] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 29 seconds).
+[01:26:16] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 28 seconds).
+[01:26:30] Al Shebab: !gsettings
+[01:33:56] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mclaren_mp412cgt3.mdl
+[01:34:02] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mclaren_p1.mdl
+[01:34:15] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mclaren_f1.mdl
+[01:34:18] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/mclaren_p1.mdl
+[01:34:45] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/bug_veyron.mdl
+[01:37:27] brexit: !menu
+[01:38:01] brexit renamed group darwin to new group
+[01:38:15] brexit removed group new group
+[01:38:22] brexit removed group adelaide
+[01:38:28] brexit removed group hobart
+[01:40:53] brexit: !utime
+[01:41:03] brexit: !ulx
+[01:41:05] brexit: !menu
+[01:43:31] (TEAM) brexit: !menu
+[01:43:48] brexit created group trusted which inherits rights from group user
+[01:44:06] brexit: !menu
+[01:45:30] Al Shebab<STEAM_0:0:103364981> spawned model models/props_lab/blastdoor001c.mdl
+[01:45:49] brexit<STEAM_0:1:121087763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[01:45:53] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/cardboard_box001b.mdl
+[01:45:58] brexit<STEAM_0:1:121087763> spawned model models/props_c17/concrete_barrier001a.mdl
+[01:46:26] brexit killed Al Shebab using player
+[01:46:40] Al Shebab killed brexit using m9k_m202_rocket
+[01:47:27] brexit killed Al Shebab using player
+[01:48:07] brexit killed Al Shebab using player
+[01:50:37] brexit<STEAM_0:1:121087763> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[01:50:48] brexit<STEAM_0:1:121087763> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[01:50:49] brexit<STEAM_0:1:121087763> spawned model models/props_c17/furnituretable003a.mdl
+[01:50:55] brexit<STEAM_0:1:121087763> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[01:52:03] brexit: !atags
+[01:52:57] brexit: !atags
+[01:53:28] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:53:37] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:53:38] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:53:39] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:53:42] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:53:46] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:53:48] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:53:49] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:53:52] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:53:55] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:53:56] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:53:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:54:05] Al Shebab<STEAM_0:0:103364981> spawned model models/props_interiors/pot02a.mdl
+[01:54:09] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[01:54:10] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[01:54:39] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[02:03:10] brexit: !atags
+[02:03:54] brexit: !menu
+[02:04:03] brexit: !menu
+[02:04:09] brexit: !atags
+[02:04:44] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+
+
+
+[02:19:57] New map: rp_downtown_v4c
+[02:20:35] Client "Al Shebab" connected.
+[02:20:42] Client "brexit" connected.
+[02:21:05] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[02:21:10] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 28 seconds).
+[02:27:28] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_facture
+[02:27:59] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+[02:28:41] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+[02:28:50] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+[02:28:57] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+[02:29:05] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+[02:29:19] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_bank
+[02:30:44] Al Shebab<STEAM_0:0:103364981> spawned sent sent_crash
+[02:33:20] Al Shebab<STEAM_0:0:103364981> spawned sent npc_lsd_dealer
+[02:33:26] Al Shebab: !lsd
+[02:34:27] Al Shebab<STEAM_0:0:103364981> spawned sent npc_lsd_dealer
+[02:34:35] Al Shebab<STEAM_0:0:103364981> spawned sent lean_buyer
+[02:34:47] Al Shebab<STEAM_0:0:103364981> spawned sent zwf_buyer_npc
+[02:34:53] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_methbuyer
+[02:35:31] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_battery
+[02:35:33] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[02:37:31] Al Shebab: !bhop 1
+[02:45:34] brexit suicided!
+[02:53:22] Al Shebab: !rules
+[02:53:30] Al Shebab: !rules
+[02:57:54] brexit: t
+[02:58:05] brexit killed Al Shebab using m9k_m202_rocket
+[02:58:25] brexit killed Al Shebab using m9k_oribital_cannon
+[02:58:54] brexit killed Al Shebab using m9k_oribital_cannon
+[02:59:11] Al Shebab: !god ^
+[02:59:11] Al Shebab granted god mode upon Themself
+[02:59:33] Al Shebab killed brexit using m9k_davy_crockett_explo
+
+
+
+[03:03:12] New map: rp_downtown_v4c
+[03:03:18] Client "Jacktank" connected.
+[03:03:34] Client "Al Shebab" connected.
+[03:04:02] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 28 seconds).
+[03:04:31] Al Shebab: !gsettings
+[03:06:27] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_methbuyer
+[03:07:09] Client "brexit" connected.
+[03:07:38] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 29 seconds).
+[03:08:11] brexit: !gprinters
+[03:08:55] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 337 seconds).
+[03:09:40] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:09:52] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:16] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:20] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:34] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:45] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:47] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:47] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:10:48] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:11:23] brexit killed A B C D F G using m9k_oribital_cannon
+[03:11:23] brexit killed Al Shebab using m9k_oribital_cannon
+[03:11:23] brexit suicided!
+[03:11:54] brexit suicided!
+[03:12:14] brexit killed A B C D F G using m9k_oribital_cannon
+[03:12:14] brexit suicided!
+[03:12:34] brexit killed A B C D F G using m9k_oribital_cannon
+[03:12:48] brexit killed A B C D F G using m9k_launched_ex41
+[03:12:57] A B C D F G<STEAM_0:1:51163583> spawned sent item_ammo_ar2_altfire
+[03:13:07] A B C D F G<STEAM_0:1:51163583> spawned sent item_ammo_ar2_altfire
+[03:13:10] brexit suicided!
+[03:13:17] A B C D F G killed brexit using prop_combine_ball
+[03:13:31] brexit killed A B C D F G using m9k_launched_ex41
+[03:13:47] A B C D F G: !GOTO TONIC
+[03:13:58] brexit killed A B C D F G using m9k_proxy
+[03:14:28] A B C D F G killed brexit using npc_tripmine
+[03:14:41] A B C D F G killed brexit using npc_tripmine
+[03:14:42] A B C D F G suicided!
+[03:15:17] brexit killed A B C D F G using npc_satchel
+[03:15:35] brexit suicided!
+[03:15:46] A B C D F G suicided!
+[03:15:51] brexit killed A B C D F G using crossbow_bolt
+[03:17:25] A B C D F G: !goto b
+[03:17:28] brexit: !bring jack
+[03:17:30] A B C D F G: !goto brexit
+[03:17:30] A B C D F G teleported to brexit
+[03:19:02] A B C D F G: !menu
+[03:19:05] brexit<STEAM_0:1:121087763> spawned sent sent_crash
+[03:19:09] brexit<STEAM_0:1:121087763> spawned sent npc_lsd_dealer
+[03:19:44] brexit<STEAM_0:1:121087763> spawned sent lean_buyer
+[03:20:42] brexit<STEAM_0:1:121087763> spawned sent zwf_buyer_npc
+[03:21:06] brexit<STEAM_0:1:121087763> spawned sent zmlab_methbuyer
+[03:21:22] brexit<STEAM_0:1:121087763> spawned sent zmlab_methbuyer
+[03:21:51] brexit<STEAM_0:1:121087763> spawned sent zmlab_palette
+[03:22:11] brexit<STEAM_0:1:121087763> spawned sent zwf_buyer_npc
+[03:22:18] A B C D F G: !bring brexit
+[03:22:18] A B C D F G brought brexit
+[03:22:27] A B C D F G: !return brexit
+[03:22:27] A B C D F G returned brexit to their original position
+[03:22:53] brexit<STEAM_0:1:121087763> spawned sent lean_buyer
+[03:23:49] A B C D F G: !content
+[03:23:52] brexit<STEAM_0:1:121087763> spawned sent durgz_cigarette
+[03:23:53] brexit: I am COOL.
+[03:23:56] A B C D F G: !addonsx
+[03:24:00] A B C D F G: !addons
+[03:24:09] brexit<STEAM_0:1:121087763> spawned sent durgz_heroine
+[03:24:19] brexit: It's my arm man! My fuckin' arm!
+[03:24:21] brexit<STEAM_0:1:121087763> spawned sent durgz_water
+[03:24:31] brexit suicided!
+[03:24:42] A B C D F G<STEAM_0:1:51163583> spawned sent durgz_water
+[03:24:43] A B C D F G<STEAM_0:1:51163583> spawned sent durgz_water
+[03:24:44] A B C D F G<STEAM_0:1:51163583> spawned sent durgz_water
+[03:24:45] A B C D F G<STEAM_0:1:51163583> spawned sent durgz_water
+[03:24:45] A B C D F G<STEAM_0:1:51163583> spawned sent durgz_water
+[03:25:17] brexit<STEAM_0:1:121087763> spawned sent ghomes_seller
+[03:25:33] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[03:25:50] brexit<STEAM_0:1:121087763> spawned model models/props_c17/furniturecouch002a.mdl
+[03:25:52] brexit<STEAM_0:1:121087763> spawned model models/props_c17/furniturecouch001a.mdl
+[03:26:14] brexit<STEAM_0:1:121087763> spawned model models/props_combine/breendesk.mdl
+[03:27:53] A B C D F G<STEAM_0:1:51163583> spawned sent tierp_printer
+[03:28:06] brexit: !GOTO a
+[03:28:11] brexit: !goto A B 
+[03:28:19] A B C D F G: !rpname jacktank
+[03:28:22] brexit: !goto 
+[03:28:24] A B C D F G: /rpname jacktank
+[03:28:28] brexit: !goto jack
+[03:28:28] brexit teleported to jacktank
+[03:28:37] brexit killed jacktank using rpg_missile
+[03:28:46] jacktank: !menu
+[03:28:48] brexit: !forcerespawn al
+[03:28:48] brexit respawned Al Shebab
+[03:28:56] jacktank brought Al Shebab
+[03:29:05] jacktank: !cleardecals
+[03:29:05] jacktank cleared decals
+[03:29:40] jacktank: !menu
+[03:31:50] brexit killed jacktank using player
+[03:32:25] jacktank: !menu
+[03:33:10] (SILENT) jacktank gave Al Shebab tierp_printer
+[03:34:13] brexit killed jacktank using player
+[03:34:31] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[03:35:56] brexit killed jacktank using player
+[03:36:09] jacktank<STEAM_0:1:51163583> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[03:36:22] brexit killed jacktank using player
+[03:37:49] brexit killed jacktank using player
+[03:39:49] brexit killed jacktank using player
+[03:40:19] jacktank killed brexit using player
+[03:40:53] brexit killed jacktank using player
+[03:41:58] jacktank killed brexit using player
+[03:42:12] jacktank killed brexit using player
+[03:42:21] brexit killed jacktank using player
+[03:42:35] jacktank killed brexit using player
+[03:43:02] jacktank<STEAM_0:1:51163583> spawned sent zwf_weedstick
+[03:43:03] jacktank<STEAM_0:1:51163583> spawned sent zwf_weedblock
+[03:43:07] jacktank<STEAM_0:1:51163583> spawned sent zwf_weedstick
+[03:43:12] jacktank<STEAM_0:1:51163583> spawned sent zwf_weedblock
+[03:43:20] jacktank<STEAM_0:1:51163583> spawned sent zwf_weedstick
+[03:43:23] jacktank<STEAM_0:1:51163583> spawned sent zwf_drystation
+[03:43:48] jacktank<STEAM_0:1:51163583> spawned sent item_healthvial
+[03:43:48] jacktank<STEAM_0:1:51163583> spawned sent item_healthvial
+[03:43:48] jacktank<STEAM_0:1:51163583> spawned sent item_healthvial
+[03:43:49] jacktank<STEAM_0:1:51163583> spawned sent item_healthvial
+[03:44:04] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:04] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:04] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:05] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:05] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:05] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:05] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:44:05] jacktank<STEAM_0:1:51163583> spawned sent sent_ball
+[03:45:42] brexit<STEAM_0:1:121087763> spawned sent durgz_cocaine
+[03:45:45] brexit: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[03:46:02] brexit<STEAM_0:1:121087763> spawned sent durgz_meth
+[03:46:03] brexit: I <3 METH
+[03:46:07] brexit<STEAM_0:1:121087763> spawned sent durgz_aspirin
+[03:46:09] brexit<STEAM_0:1:121087763> spawned sent durgz_water
+[03:46:15] brexit<STEAM_0:1:121087763> spawned sent durgz_pcp
+[03:46:16] brexit: MY ARMS ARE LIKE FUCKING CANNONS
+[03:46:22] brexit<STEAM_0:1:121087763> spawned sent durgz_water
+[03:46:36] Dropped "jacktank" from server<STEAM_0:1:51163583>
+[03:46:41] Dropped "brexit" from server<STEAM_0:1:121087763>
