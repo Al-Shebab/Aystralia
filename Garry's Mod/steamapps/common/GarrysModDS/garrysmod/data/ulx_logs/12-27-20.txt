@@ -920,3 +920,21 @@
 [23:38:05] New map: rp_downtown_v4c
 [23:38:48] Client "Al Shebab" connected.
 [23:41:28] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 160 seconds).
+
+
+
+[23:48:43] New map: rp_downtown_v4c
+[23:48:46] Client "Al Shebab" connected.
+[23:49:16] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[23:49:28] Client "brexit" connected.
+[23:49:57] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 29 seconds).
+[23:49:57] Al Shebab suicided!
+
+
+
+[23:57:45] New map: rp_downtown_v4c
+[23:58:17] Client "Al Shebab" connected.
+[23:58:23] Client "brexit" connected.
+[23:58:57] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 40 seconds).
+[23:59:01] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 38 seconds).
+<Logging continued in "data/ulx_logs/12-28-20.txt">
