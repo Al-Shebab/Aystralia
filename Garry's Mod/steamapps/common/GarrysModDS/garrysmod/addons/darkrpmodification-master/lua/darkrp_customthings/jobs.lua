@@ -116,6 +116,7 @@ TEAM_FIGHT_CLUB_OWNER = DarkRP.createJob("Fight Club Owner", {
     hasLicense = false,
     candemote = false,
     category = "Citizens"
+})
 TEAM_PIANIST = DarkRP.createJob("Pianist", {
     color = Color(74, 255, 69, 255),
     model = {"models/player/kleiner.mdl"},
