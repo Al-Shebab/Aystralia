@@ -23,15 +23,21 @@ Define which teams belong to civil protection
 Civil protection can set warrants, make people wanted and do some other police related things
 ---------------------------------------------------------------------------]]
 GAMEMODE.CivilProtection = {
-    [TEAM_POLICE] = true,
-    [TEAM_CHIEF] = true,
+    [TEAM_POLICE_OFFICER] = true,
+    [TEAM_POLICE_CHIEF] = true,
     [TEAM_MAYOR] = true,
+    [TEAM_SWAT] = true,
+    [TEAM_SWAT_HEAVY] = true,
+    [TEAM_SWAT_MARKSMAN] = true,
+    [TEAM_SWAT_MEDIC] = true,
+    [TEAM_SWAT_LEADER] = true,
+    [TEAM_UNDERCOVER_COP] = true,
 }
 --[[---------------------------------------------------------------------------
 Jobs that are hitmen (enables the hitman menu)
 ---------------------------------------------------------------------------]]
-DarkRP.addHitmanTeam(TEAM_MOB)
-
+DarkRP.addHitmanTeam(TEAM_ASSASSIN)
+DarkRP.addHitmanTeam(TEAM_TEAM_HITMAN)
 
 -- Civilians --
 
@@ -472,7 +478,6 @@ TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
 
 -- Illegal --
 
-
 TEAM_HACKER = DarkRP.createJob("Hacker", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/aiden_pearce.mdl"},
@@ -769,12 +774,10 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
 
 -- Manufacturing --
 
-
 TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     color = Color(34, 85, 85, 255),
     model = {"models/obese_male.mdl"},
-    description = [[Mine bitcoins before it was cool. Can base.
-]],
+    description = [[Mine bitcoins before it was cool. Can base.]],
     weapons = {},
     command = "TEAM_BITCOIN_MINER",
     max = 2,
@@ -788,8 +791,7 @@ TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
 TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/hostage/hostage_01.mdl"},
-    description = [[Make fake money. Can base.
-]],
+    description = [[Make fake money. Can base.]],
     weapons = {},
     command = "TEAM_MONEY_PRINTER",
     max = 2,
@@ -803,8 +805,7 @@ TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
 TEAM_SMOOTHIE_MAKER = DarkRP.createJob("Smoothie Maker", {
     color = Color(34, 85, 85, 255),
     model = {"models/fortnite/female/dj_bop.mdl"},
-    description = [[Blend up some fruits and sell them for 10x what they are worth at Coles. Can base.
-]],
+    description = [[Blend up some fruits and sell them for 10x what they are worth at Coles. Can base.]],
     weapons = {},
     command = "TEAM_SMOOTHIE_MAKER",
     max = 2,
@@ -818,8 +819,7 @@ TEAM_SMOOTHIE_MAKER = DarkRP.createJob("Smoothie Maker", {
 TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/anon/anon.mdl"},
-    description = [[Get some chemist warehouse cough syrup and put it in a cup. Can base.
-]],
+    description = [[Get some chemist warehouse cough syrup and put it in a cup. Can base.]],
     weapons = {},
     command = "TEAM_LEAN_MANUFACTURER",
     max = 2,
@@ -833,8 +833,7 @@ TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
 TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
     color = Color(34, 85, 85, 255),
     model = {"models/snoopdogg.mdl"},
-    description = [[Sell some green at bankstown station. Can base.
-]],
+    description = [[Sell some green at bankstown station. Can base.]],
     weapons = {},
     command = "TEAM_WEED_DEALER",
     max = 2,
@@ -848,8 +847,7 @@ TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
 TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/spacesuit.mdl"},
-    description = [[Snap off some tabs and give them to the street kids. Can base.
-]],
+    description = [[Snap off some tabs and give them to the street kids. Can base.]],
     weapons = {},
     command = "TEAM_LSD_DEALER",
     max = 2,
@@ -863,8 +861,7 @@ TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
 TEAM_METH_DEALER = DarkRP.createJob("Meth Dealer", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/spacesuit.mdl"},
-    description = [[Become a gosford local. Can base.
-]],
+    description = [[Become a gosford local. Can base.]],
     weapons = {},
     command = "TEAM_METH_DEALER",
     max = 2,
