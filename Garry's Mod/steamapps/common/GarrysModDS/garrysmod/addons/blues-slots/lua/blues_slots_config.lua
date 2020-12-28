@@ -35,7 +35,7 @@ WOL_CONFIG.pricePerSpin = 500
 
 //This is the icon used before displaying money, you can change this but its recomened to keep its leghnth to 1.
 //You can use anything like "P" for point shop or these common one ($, €, £)
-WOL_CONFIG.currencyIcon = "£"
+WOL_CONFIG.currencyIcon = "$"
 
 //This is the chances of each item appearing on the reel
 //I tried my best to balance these but of course feel free to change them.
@@ -115,7 +115,6 @@ WOL_AddBonusItem(300000)
 //This is a list of ranks that can save machine places, using !saveslots
 WOL_CONFIG.allowedRanks = {
 	"superadmin",
-	"owner"
 }
 
 
@@ -140,4 +139,4 @@ WOL_CONFIG.onPlayerAddMoney = function(ply, amount)
 	ply:addMoney(amount)
 end
 
-//Lastly I guess thanks for the purchase, it helps me so much! I hope you enjoy your addon!
+//Lastly I guess thanks for the purchase, it helps me so much! I hope you enjoy your addon! :( RIP

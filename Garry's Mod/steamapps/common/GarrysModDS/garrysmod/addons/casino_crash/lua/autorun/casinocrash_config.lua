@@ -4,12 +4,12 @@ end
 
 Casino_Crash.Config = {}
 Casino_Crash.Config.RenderDistance = 512 --How far away can the screen be seen in a 3D space?
-Casino_Crash.Config.Probability = 64 --Probability of the crash. Lower == crashes faster. Higher == longer before crash
+Casino_Crash.Config.Probability = 96 --Probability of the crash. Lower == crashes faster. Higher == longer before crash
 Casino_Crash.Config.Interval = 0.01 --How much the multiplier goes up each "tick"
 Casino_Crash.Config.Tick = 0.1 --Seconds per addition
 Casino_Crash.Config.MaxMultiplier = 5 --Maximum multiplier allowed to bet on
 Casino_Crash.Config.MinMultiplier = 0.1 --Minimum multiplier allowed to bet on
-Casino_Crash.Config.MaxCash = 50000 --Maximum multiplier allowed to bet on
+Casino_Crash.Config.MaxCash = 5000000 --Maximum multiplier allowed to bet on
 Casino_Crash.Config.MinCash = 10 --Minimum multiplier allowed to bet on
 Casino_Crash.Config.WaitTimer = 15 --Wait time between rounds
 Casino_Crash.Config.CashType = "DarkRP" --Available types are "DarkRP", "Pointshop", Anything else is defaulted to DarkRP. You can also use custom values by setting this equal to your GetCash function...

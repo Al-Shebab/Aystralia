@@ -5,7 +5,7 @@ lean_igconfig = lean_igconfig || {}
 General Config
 ---------------------------------------------------------------------------]]
 lean_config.igconfigcmd = "!leancfg" -- Command to use for opening the in-game config
-lean_config.maxpermitted = {"superadmin", "founder"} -- Ranks that can use the in-game config
+lean_config.maxpermitted = {"superadmin"} -- Ranks that can use the in-game config
 
 --[[-------------------------------------------------------------------------
 Don't edit anything below, It's all done in-game.
@@ -21,7 +21,7 @@ lean_config.categories = {
 	"NPC"
 }
 -- Barrel
-lean_igconfig.barreldmg = {val = true,name = "Barrel Take Damage",category = "Barrel",desc = "Should the barrel take damage?"}
+lean_igconfig.barreldmg = {val = false,name = "Barrel Take Damage",category = "Barrel",desc = "Should the barrel take damage?"}
 lean_igconfig.barrelhp = {val = 150,name = "Barrel HP",category = "Barrel",desc = "What HP should the barrel have?"}
 lean_igconfig.shakeamount = {val = 50,name = "Shake Amount",category = "Barrel",desc = "How much should we have to shake the barrel?"}
 lean_igconfig.extractamount = {val = 4,name = "Extract Amount",category = "Barrel",desc = "How many cups can you fill from 1 round of lean production?"}
@@ -29,7 +29,7 @@ lean_igconfig.manualshake = {val = true,name = "Manually shake barrel",category 
 lean_igconfig.mixingtime = {val = 30,name = "Mixing time",category = "Barrel",desc = "How long we have to wait in seconds for the barrel to mix ( if manualshake is turned off )"}
 lean_igconfig.pingOnVel = {val = true,name = "Ping on shake",category = "Barrel",desc = "When shaking the barrel, should the barrel make a noise? (if shaking is enabled)"}
 -- Cup
-lean_igconfig.cupdmg = {val = true,name = "Cup Take Damage",category = "Cup",desc = "Should the polystyrene cup take damage?"}
+lean_igconfig.cupdmg = {val = false,name = "Cup Take Damage",category = "Cup",desc = "Should the polystyrene cup take damage?"}
 lean_igconfig.cuphp = {val = 50,name = "Cup HP",category = "Cup",desc = "What HP should the cup have?"}
 lean_igconfig.speedtime = {val = 20,name = "Speed Effects Time",category = "Cup",desc = "How long should the speed increase effects last?"}
 lean_igconfig.allowleanuse = {val = true,name = "Allow Drinking Lean",category = "Cup",desc = "Should people be allowed to drink lean?"}
@@ -39,7 +39,7 @@ lean_igconfig.cratehold = {val = 10,name = "Crate Capacity",category = "Crate",d
 lean_igconfig.usetosell = {val = false,name = "Press E to pickup crate",category = "Crate",desc = "Use E to pickup the crate? ( true = press e, false = carry to npc"}
 lean_igconfig.cratedmg = {val = true,name = "Crate Take Damage",category = "Crate",desc = "Should the crate take damage?"}
 lean_igconfig.cratehp = {val = 200,name = "Crate HP",category = "Crate",desc = "What HP should the crate have?"}
-lean_igconfig.cratedropcups = {val = true,name = "Drop cups on destroy",category = "Crate",desc = "Should we drop the cups on the floor if the crate is destroyed? ( If there are too many cups this may cause lag )"}
+lean_igconfig.cratedropcups = {val = false,name = "Drop cups on destroy",category = "Crate",desc = "Should we drop the cups on the floor if the crate is destroyed? ( If there are too many cups this may cause lag )"}
 -- General
 lean_igconfig.currency = {val = "$",name = "Currency",category = "General",desc = "What currency should we use?"}
 lean_igconfig.prefix = {val = "[Lean Production]",name = "Chat Prefix",category = "General",desc = "What should we display before all chat messages?"}
@@ -67,4 +67,4 @@ lean_igconfig.nolean = {val = "Bring me some lean...",name = "No Lean Text",cate
 lean_igconfig.smalldmg = {val = true,name = "Take damage",category = "Small Crate",desc = "Should the small crate take damage?"}
 lean_igconfig.smallhp = {val = 50,name = "HP",category = "Small Crate",desc = "How much HP should the small crate have?"}
 lean_igconfig.smallhold = {val = 2,name = "Capacity",category = "Small Crate",desc = "How many cups can the small crate hold?"}
-lean_igconfig.smalldrop = {val = true,name = "Drop cups",category = "Small Crate",desc = "Should we drop the cups inside the box when it's destroyed?"}
+lean_igconfig.smalldrop = {val = false,name = "Drop cups",category = "Small Crate",desc = "Should we drop the cups inside the box when it's destroyed?"}

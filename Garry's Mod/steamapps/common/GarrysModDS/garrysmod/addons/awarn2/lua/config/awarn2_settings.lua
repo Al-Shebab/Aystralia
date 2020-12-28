@@ -26,13 +26,11 @@ AWarn.MySQLConfig.ServerKey	=	"Server 1"			--If you run multiple servers using t
 --Groups added to this blacklist can not be warned by anyone, ever.
 AWarn.Config.groupBlacklist = {
 	"superadmin",
-	"owner",
-	"admin",
 }
 
 --SteamID's added to this blacklist can not be warned by anyone, ever.
 AWarn.Config.userBlacklist = {
-	"STEAM_0:1:12345678",
+	"STEAM_0:0:103364981",
 }
 
 
@@ -48,13 +46,13 @@ AWarn.RegisterPunishment( {
 	NumberOfWarnings 	=	5,
 	PunishmentType 		=	"ban",
 	PunishmentMessage	=	"AWarn: You have been temporarily banned for exceeding the warning threshold",
-	PunishmentLength 	=	60,
+	PunishmentLength 	=	120,
 } )
 
 
 AWarn.RegisterPunishment( {
-	NumberOfWarnings 	=	7,
+	NumberOfWarnings 	=	10,
 	PunishmentType 		=	"ban",
-	PunishmentMessage	=	"AWarn: You have been permanently banned for exceeding the warning threshold",
-	PunishmentLength 	=	0,
+	PunishmentMessage	=	"AWarn: You have been temporarily banned for exceeding the warning threshold",
+	PunishmentLength 	=	1440,
 } )

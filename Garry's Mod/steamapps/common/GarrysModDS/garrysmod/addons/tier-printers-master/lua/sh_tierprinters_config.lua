@@ -115,59 +115,58 @@ TierPrinters.Config.Tiers = {
         [1] = { 
                 color = Color(100,0,0), 
                 price = 0, -- The price doesn't matter for the first tier, just keep it 0 
-                amount = 100
+                amount = 500
         }, 
         [2] = { 
                 color = Color(200,0,0), 
-                price = 100,
-                amount = 200
+                price = 3000,
+                amount = 2000
         }, 
         [3] = { 
                 color = Color(200,100,0), 
-                price = 300,
-                amount = 300
+                price = 5000,
+                amount = 3000
         }, 
         [4] = { 
                 color = Color(200,200,0), 
-                price = 500,
-                amount = 400
+                price = 7000,
+                amount = 4000
         }, 
         [5] = { 
                 color = Color(100,200,0), 
-                price = 750,
-                amount = 500,
+                price = 900,
+                amount = 5000,
                 limit = 40000
         }, 
         [6] = { 
                 color = Color(0,200,0), 
-                price = 1000,
-                amount = 600,
+                price = 10000,
+                amount = 6000,
                 limit = 50000
         }, 
         [7] = { 
                 color = Color(0,200,100), 
-                price = 1400,
-                amount = 700,
+                price = 14000,
+                amount = 7000,
                 limit = 55000
         }, 
         [8] = { 
                 color = Color(0,200,200), 
-                price = 2000,
-                amount = 800,
-                customCheck = function(ply) return table.HasValue({"vip", "vip+", "superadmin"}, ply:GetUserGroup()) end,
+                price = 20000,
+                amount = 8000,
                 limit = 65000
         }, 
         [9] = { 
                 color = Color(0,100,200), 
-                price = 4000,
-                amount = 900,
-                customCheck = function(ply) return table.HasValue({"vip+", "superadmin"}, ply:GetUserGroup()) end 
+                price = 40000,
+                amount = 9000,
+                limit = 120000
         }, 
         [10] = { 
                 color = Color(0,0,200), 
-                price = 5000,
-                amount = 1000,
-                customCheck = function(ply) return table.HasValue({"superadmin"}, ply:GetUserGroup()) end 
+                price = 50000,
+                amount = 10000,
+                limit = 500000
         }, 
  
 } 

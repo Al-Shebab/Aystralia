@@ -7,8 +7,8 @@ LSD.Config.Health = 100 //Entities health
 
 LSD.Config.PhonePrice = 500
 
-LSD.Config.HolderRankMultiplier = {user=1,vip=2,supervip=3,admin=5,superadmin=10} //How many of x items can players spawn
-LSD.Config.PriceRankMultiplier = {user=1,vip=0.9,supervip=0.8,admin=0.6,superadmin=0.5} //Price multiplied by ranks, example, superadmin will get their items at half price
+LSD.Config.HolderRankMultiplier = {user=2} //How many of x items can players spawn
+LSD.Config.PriceRankMultiplier = {user=1} //Price multiplied by ranks, example, superadmin will get their items at half price
 
 LSD.Config.DurationMultiplier = 1
 
@@ -28,7 +28,7 @@ LSD.Cooking.MaxShakeDamage = 20 //Max damage caused by shaking it too fast
 
 timer.Simple(0,function()
 
-LSD.Config.TeamsAllowed = {TEAM_DEALER,TEAM_CITIZEN} //Leave blank for everyone
+LSD.Config.TeamsAllowed = {TEAM_LSD_DEALER} //Leave blank for everyone
 LSD.Config.TeamsDisallowed = {TEAM_POLICE}
 
 end)

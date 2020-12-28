@@ -12,7 +12,7 @@ BM2EXTRACONFIG.DisableFuelTankExplosion = true
 BM2EXTRACONFIG.DisableLightRequirment = false
 
 --This is how much it costs to purchase the remote access upgrade on a bitminer
-BM2EXTRACONFIG.RemoteAccessPrice = 2500
+BM2EXTRACONFIG.RemoteAccessPrice = 25000
 
 --This is the command used to access the phone in game
 BM2EXTRACONFIG.RemoteAccessCommand = "!remotebitminers"
