@@ -1,0 +1,10 @@
+{
+  "resetMessages": true,
+  "fillMode": false,
+  "resetTime": 900,
+  "resetWarningTimes": [
+    600,
+    300,
+    60
+  ]
+}

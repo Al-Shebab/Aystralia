@@ -1,0 +1,21 @@
+Options:
+  Ranks:
+    GUI_Enabled: 'true'
+    Permission_GUI_Enabled: 'false'
+    Permission_GUI: prison.gui.ranks
+    Ladder: default
+    Item_gotten_rank: TRIPWIRE_HOOK
+    Item_not_gotten_rank: REDSTONE_BLOCK
+    Enchantment_effect_current_rank: 'true'
+  Mines:
+    GUI_Enabled: 'true'
+    Permission_GUI_Enabled: 'false'
+    Permission_GUI: prison.gui.mines
+    PermissionWarpPlugin: mines.tp.
+    CommandWarpPlugin: mines tp
+  Prestiges:
+    GUI_Enabled: 'true'
+    Permission_GUI_Enabled: 'false'
+    Permission_GUI: prison.gui.prestiges
+  Setup:
+    EnabledGUI: 'true'
