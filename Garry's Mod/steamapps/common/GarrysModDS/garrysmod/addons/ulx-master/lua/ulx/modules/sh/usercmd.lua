@@ -30,7 +30,7 @@ addons:help( "Opens the collection for the server." )
 function ulx.workshop( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(addonurl)]])
 end
-local workshop = ulx.command( CATEGORY_NAME, "ulx workshop", ulx.workshop, addoncommand )
+local workshop = ulx.command( CATEGORY_NAME, "ulx workshop", ulx.workshop, workshopcommand )
 workshop:defaultAccess( ULib.ACCESS_ALL )
 workshop:help( "Opens the workshop for the server." )
 
