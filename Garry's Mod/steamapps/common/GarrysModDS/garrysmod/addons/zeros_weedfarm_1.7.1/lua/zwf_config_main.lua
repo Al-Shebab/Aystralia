@@ -210,5 +210,5 @@ zwf.config.THC = {
     // How much does the THC level of the weed influence the price
     // 0.25 = +25% More Money, 2 = 200% more money
     // Examble: A infuence value of 0.5 would give 50% more money if the THC level of the weed would be full Maxed out, ( Full maxed out means a THC level of zwf.config.THC.Max)
-    sellprice_influence = 0.5,
+    sellprice_influence = 3,
 }

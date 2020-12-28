@@ -300,7 +300,7 @@ zwf.config.Plants = {
 
         Grow = {
             // How long it takes to grow
-            Duration = 200,
+            Duration = 100,
 
             // This value defines the Difficulty for growing the plant, higher values mean its gonna use up faster Water
             Difficulty = 1, // [1 - 10]
@@ -321,7 +321,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing01",
         death_effect = "zwf_death01",
         Grow = {
-            Duration = 225,
+            Duration = 113,
             Difficulty = 2,
             MaxYieldAmount = 150,
         },
@@ -338,7 +338,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing03",
         death_effect = "zwf_death03",
         Grow = {
-            Duration = 250,
+            Duration = 125,
             Difficulty = 5,
             MaxYieldAmount = 125,
         },
@@ -355,7 +355,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing01",
         death_effect = "zwf_death01",
         Grow = {
-            Duration = 300,
+            Duration = 150,
             Difficulty = 6,
             MaxYieldAmount = 125,
         },
@@ -372,7 +372,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing03",
         death_effect = "zwf_death03",
         Grow = {
-            Duration = 400,
+            Duration = 200,
             Difficulty = 7,
             MaxYieldAmount = 100,
         },
@@ -389,7 +389,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing02",
         death_effect = "zwf_death02",
         Grow = {
-            Duration = 500,
+            Duration = 250,
             Difficulty = 8,
             MaxYieldAmount = 100,
         },
@@ -406,7 +406,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing02",
         death_effect = "zwf_death02",
         Grow = {
-            Duration = 600,
+            Duration = 300,
             Difficulty = 9,
             MaxYieldAmount = 100,
         },
