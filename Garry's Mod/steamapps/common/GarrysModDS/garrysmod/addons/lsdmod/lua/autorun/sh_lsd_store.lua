@@ -11,10 +11,10 @@ LSD_STORE:AddItem({name="Flask",
   model="models/gonzo/lsd/flask.mdl",
   color=Color(100,150,235),
   ent="sent_lsd_flask",
-  maxamount=5})
+  maxamount=3})
 
 LSD_STORE:AddItem({name="Gas Can",
-  price=600,
+  price=1000,
   model="models/gonzo/lsd/gas.mdl",
   override=Vector(24,0,10),
   color=Color(50,75,255),
@@ -36,13 +36,13 @@ LSD_STORE:AddItem({name="Acid Hydrazide",
   maxamount=5})
 
 LSD_STORE:AddItem({name="Flask support",
-  price=400,model="models/gonzo/lsd/flank_support.mdl",
+  price=1000,model="models/gonzo/lsd/flank_support.mdl",
   color=Color(75,75,75),
   ent="sent_lsd_flank_support",
   maxamount=3})
 
 LSD_STORE:AddItem({name="Fridge",
-  price=1500,
+  price=2000,
   model="models/gonzo/lsd/freezer.mdl",
   color=Color(255,175,125),
   ent="sent_lsd_freezer",
@@ -56,8 +56,8 @@ LSD_STORE:AddItem({name="Magic Powder",
   maxamount=5})
 
 LSD_STORE:AddItem({name="Paper",
-  price=100,
+  price=500,
   model="models/props/cs_office/Paper_towels.mdl",
   color=Color(255,255,100),
   ent="sent_lsd_paper",
-  maxamount=10})
+  maxamount=5})
