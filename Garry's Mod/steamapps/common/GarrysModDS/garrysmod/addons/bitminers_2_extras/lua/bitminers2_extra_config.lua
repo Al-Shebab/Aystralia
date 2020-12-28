@@ -5,7 +5,7 @@ BM2EXTRACONFIG.ExtraFuelTankSize = 5000
 
 --Then someone destroyed a fuel tank that still has fuel in it it will explopde.
 --This will disable it if set to true
-BM2EXTRACONFIG.DisableFuelTankExplosion = false
+BM2EXTRACONFIG.DisableFuelTankExplosion = true
 
 --If set to true this will disable the requirment of solar panels having power
 --Setting this to false will require that solar panels have direct line of sight with the skybox
@@ -23,36 +23,40 @@ hook.Add("BM2_DLC_loadCustomDarkRPItems", "BM2.RegisterEntities", function()
 		ent = "bm2_extra_fuel_line",
 		model = "models/bitminers2/bm2_extra_fuel_plug.mdl",
 		price = 1500,
-		max = 2,
+		max = 1,
 		cmd = "buyfuelline",
-		category = "Bitminers 2"
+		allowed = {TEAM_BITCOIN_MINER},
+		category = "Bitcoin"
 	}) 
 
 	DarkRP.createEntity("Large Fuel", {
 		ent = "bm2_large_fuel",
 		model = "models/props/de_train/barrel.mdl",
 		price = 4000,
-		max = 4,
+		max = 2,
 		cmd = "buylargefuel",
-		category = "Bitminers 2"
+		allowed = {TEAM_BITCOIN_MINER},
+		category = "Bitcoin"
 	})
 
 	DarkRP.createEntity("Fuel Tank", {
 		ent = "bm2_extra_fuel_tank",
 		model = "models/bitminers2/bm2_extra_fueltank.mdl",
 		price = 10000,
-		max = 2,
+		max = 1,
 		cmd = "buyfueltank",
-		category = "Bitminers 2"
+		allowed = {TEAM_BITCOIN_MINER},
+		category = "Bitcoin"
 	})
 
 	DarkRP.createEntity("Solar Cable", {
 		ent = "bm2_solar_cable",
 		model = "models/bitminers2/bm2_solar_plug.mdl",
 		price = 500,
-		max = 10,
+		max = 5,
 		cmd = "buysolarcable",
-		category = "Bitminers 2"
+		allowed = {TEAM_BITCOIN_MINER},
+		category = "Bitcoin"
 	})
 
 	DarkRP.createEntity("Solar Converter", {
@@ -61,15 +65,17 @@ hook.Add("BM2_DLC_loadCustomDarkRPItems", "BM2.RegisterEntities", function()
 		price = 20000,
 		max = 1,
 		cmd = "buysolarconverter",
-		category = "Bitminers 2"
+		allowed = {TEAM_BITCOIN_MINER},
+		category = "Bitcoin"
 	})
 
 	DarkRP.createEntity("Solar Panel", {
 		ent = "bm2_solar_panel",
 		model = "models/bitminers2/bm2_solar_panel.mdl",
 		price = 15000,
-		max = 10,
+		max = 5,
 		cmd = "buysolarpanel",
-		category = "Bitminers 2"
+		allowed = {TEAM_BITCOIN_MINER},
+		category = "Bitcoin"
 	})
 end)
