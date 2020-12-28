@@ -362,3 +362,555 @@
 [06:17:37] New map: rp_downtown_v4c
 [06:18:51] Client "Al Shebab" connected.
 [06:19:22] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 31 seconds).
+[06:24:55] Al Shebab: !logs
+[06:24:58] Al Shebab: !blogs
+[06:27:44] Client "Jacktank" connected.
+[06:32:50] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 306 seconds).
+[06:33:23] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:33:32] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:34:11] Jacktank<STEAM_0:1:51163583> spawned sent edit_sky
+[06:34:15] Jacktank<STEAM_0:1:51163583> spawned sent edit_fog
+[06:34:38] Jacktank<STEAM_0:1:51163583> spawned sent edit_sky
+[06:35:20] Al Shebab: !blogs
+[06:35:33] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[06:35:34] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[06:35:34] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lampshade001a.mdl
+[06:36:36] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:36:38] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:36:39] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:36:39] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:36:44] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:36:45] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:36:45] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/furniturebathtub001a.mdl
+[06:37:34] Al Shebab killed Jacktank using player
+[06:41:41] Jacktank<STEAM_0:1:51163583> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[06:41:43] Client "brexit" connected.
+[06:41:45] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_bitminer_1
+[06:42:04] Al Shebab<STEAM_0:0:103364981> spawned sent bit_npc
+[06:42:06] Jacktank<STEAM_0:1:51163583> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[06:42:12] Al Shebab<STEAM_0:0:103364981> spawned sent bit_cornet
+[06:42:13] Al Shebab<STEAM_0:0:103364981> spawned sent bit_cpu
+[06:42:13] Al Shebab<STEAM_0:0:103364981> spawned sent bit_case
+[06:42:14] Al Shebab<STEAM_0:0:103364981> spawned sent bit_graphiccard
+[06:42:14] Al Shebab<STEAM_0:0:103364981> spawned sent bit_harddisk
+[06:42:15] Al Shebab<STEAM_0:0:103364981> spawned sent bit_motherboard
+[06:42:15] Al Shebab<STEAM_0:0:103364981> spawned sent bit_powersupply
+[06:42:16] Al Shebab<STEAM_0:0:103364981> spawned sent bit_ram
+[06:42:16] Al Shebab<STEAM_0:0:103364981> spawned sent bit_windows
+[06:42:21] Al Shebab<STEAM_0:0:103364981> spawned sent bit_case
+[06:42:22] Al Shebab<STEAM_0:0:103364981> spawned sent bit_case
+[06:42:24] Al Shebab<STEAM_0:0:103364981> spawned sent bit_case
+[06:42:28] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 45 seconds).
+[06:42:44] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:42:56] Jacktank killed brexit using prop_physics
+[06:43:02] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:43:27] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/propanecanister001a.mdl
+[06:43:30] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:33] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[06:43:37] Jacktank<STEAM_0:1:51163583> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[06:43:37] Jacktank<STEAM_0:1:51163583> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[06:43:41] Jacktank<STEAM_0:1:51163583> spawned model models/props_lab/blastdoor001c.mdl
+[06:44:40] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:44:49] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:44:54] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:44:58] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:45:07] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:45:11] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:45:19] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/trashdumpster02b.mdl
+[06:45:32] Al Shebab killed Jacktank using m9k_gdcwa_matador_90mm
+[06:45:37] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:45:49] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:45:51] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:45:55] brexit: !blogs
+[06:45:57] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:01] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:07] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:09] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:12] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:14] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:17] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:21] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:23] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[06:46:26] Jacktank: !blogs
+[06:46:55] Jacktank: !menu
+[06:47:03] Jacktank ragdolled Themself
+[06:47:09] Jacktank whipped Themself 10 times with 0 damage
+[06:47:19] Al Shebab suicided!
+[06:47:19] Jacktank exploded Al Shebab
+[06:47:25] Al Shebab suicided!
+[06:47:25] Jacktank respawned Al Shebab
+[06:47:40] Jacktank crashed Themself
+[06:47:54] Jacktank suicided!
+[06:47:57] brexit: !menu
+[06:47:59] Jacktank: !menu
+[06:48:13] Jacktank unragdolled Themself
+[06:48:22] Al Shebab: /bnigg
+[06:48:29] Jacktank: /write fag
+[06:48:50] Jacktank: /write You are an fag nigger 
+[06:49:02] Jacktank: cp
+[06:49:45] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[06:49:47] Jacktank killed brexit using prop_physics
+[06:49:57] brexit killed Jacktank using m9k_m202_rocket
+[06:50:13] brexit killed Jacktank using m9k_nitro_vapor
+[06:50:13] brexit suicided!
+[06:50:23] Jacktank: !menu
+[06:50:36] brexit killed Jacktank using m9k_thrown_sticky_grenade
+[06:51:04] brexit killed Jacktank using m9k_proxy
+[06:51:11] Jacktank: !menu
+[06:51:18] brexit killed Al Shebab using m9k_launched_ex41
+[06:51:20] brexit suicided!
+[06:52:03] Jacktank set the material for Themself to models/flesh
+[06:52:16] Jacktank: !menu
+[06:52:36] Jacktank: !size
+[06:53:00] Jacktank set the scale for Themself to 2
+[06:53:04] Jacktank set the scale for Themself to 1
+[06:53:08] Jacktank set the scale for Themself to 2
+[06:53:32] brexit killed Jacktank using m9k_launched_ex41
+[06:54:03] brexit killed Jacktank using m9k_launched_ex41
+[06:54:17] Jacktank<STEAM_0:1:51163583> spawned model models/props_c17/gravestone_statue001a.mdl
+[06:56:06] Jacktank: !vc
+[06:58:03] Jacktank<STEAM_0:1:51163583> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[07:06:27] brexit killed Jacktank using player
+[07:06:50] Jacktank<STEAM_0:1:51163583> spawned model models/props_wasteland/dockplank01b.mdl
+[07:06:52] Jacktank<STEAM_0:1:51163583> spawned model models/props_wasteland/interior_fence002d.mdl
+[07:06:58] Jacktank<STEAM_0:1:51163583> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[07:07:03] Jacktank: !menu
+[07:07:08] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/fer_f430.mdl
+[07:07:11] Jacktank<STEAM_0:1:51163583> spawned vehicle models/tdmcars/gtaiv_airtug.mdl
+[07:07:49] brexit killed Jacktank using player
+[07:08:22] brexit killed Jacktank using m9k_thrown_knife
+[07:08:31] brexit killed Jacktank using m9k_thrown_knife
+
+
+
+[07:11:35] New map: rp_downtown_v4c
+[07:12:10] Client "Al Shebab" connected.
+[07:12:40] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[07:14:28] Client "brexit" connected.
+[07:14:50] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 22 seconds).
+[07:14:56] Client "Jacktank" connected.
+[07:17:18] brexit killed Al Shebab using m9k_milkor_nade
+[07:18:00] brexit: t
+[07:18:04] brexit: !menu\
+[07:18:07] brexit: !menu
+[07:19:23] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 267 seconds).
+[07:19:28] brexit: !fcdadminn
+[07:20:35] brexit: !menu
+[07:22:42] Dropped "brexit" from server<STEAM_0:1:121087763>
+[07:25:31] Al Shebab: !bhop 1
+[07:25:59] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:10] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:11] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:12] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:12] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:13] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:14] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:15] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:19] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:22] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:23] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:24] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:24] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:25] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:26] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:26] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:27] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:28] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:28] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:29] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:30] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:30] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:31] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:31] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:32] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:32] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:33] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:35] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:35] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:36] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:37] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:37] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:38] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:38] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:39] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:39] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:40] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:41] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:42] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:42] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:43] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:44] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:45] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:45] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:46] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:46] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:47] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:48] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:49] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:50] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:51] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:51] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:52] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:52] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:53] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:55] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:55] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:56] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:57] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:57] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:58] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:58] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:26:59] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:27:00] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:27:01] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:28:04] Jacktank<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[07:28:19] Jacktank<STEAM_0:1:51163583> spawned model models/props_lab/blastdoor001c.mdl
+[07:28:23] Jacktank killed Al Shebab using prop_physics
+[07:28:28] Jacktank<STEAM_0:1:51163583> spawned model models/props_lab/blastdoor001c.mdl
+[07:30:02] Jacktank: !apply
+[07:31:06] Jacktank: !menu
+[07:31:43] Jacktank<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[07:31:48] Jacktank suicided!
+[07:31:58] Jacktank: !menu
+[07:32:32] Jacktank: !jail @
+[07:32:42] Jacktank: !jail ^
+[07:32:42] Jacktank jailed Themself
+[07:32:53] Jacktank: !unjail ^
+[07:32:53] Jacktank unjailed Themself
+[07:33:07] Jacktank: /rpname A B C D F G
+[07:33:21] A B C D F G: !jail A
+[07:33:21] A B C D F G jailed Everyone
+[07:33:28] Al Shebab: !jail *
+[07:33:30] A B C D F G: !unjail ^
+[07:33:30] A B C D F G unjailed Themself
+[07:33:35] Al Shebab: !unjail *
+[07:33:35] Al Shebab unjailed Themself
+[07:33:35] A B C D F G: !unjail @
+[07:34:06] A B C D F G<STEAM_0:1:51163583> spawned model models/props_c17/furniturebed001a.mdl
+[07:34:55] A B C D F G suicided!
+[07:35:30] A B C D F G: !rpname Rolply name
+[07:35:37] A B C D F G: !setname  
+[07:35:43] A B C D F G: /rpname     
+[07:36:07] A B C D F G: /rpname 黑鬼
+[07:36:12] A B C D F G: cp
+[07:36:14] A B C D F G: /y
+[07:40:45] A B C D F G suicided!
+[07:43:36] A B C D F G: !goto al
+[07:43:36] A B C D F G teleported to Al Shebab
+[07:46:40] A B C D F G: !goto al
+[07:46:40] A B C D F G teleported to Al Shebab
+[07:49:00] A B C D F G: !bring al
+[07:49:00] A B C D F G brought Al Shebab
+[07:50:28] A B C D F G: !bring al
+[07:50:28] A B C D F G brought Al Shebab
+[07:53:55] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[07:54:00] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[07:54:04] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breenglobe.mdl
+[07:54:06] A B C D F G<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[07:55:15] A B C D F G: !menuy
+[07:56:18] Dropped "A B C D F G" from server<STEAM_0:1:51163583>
+[07:56:48] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[08:18:10] Client "erik" connected.
+[08:24:14] Client "erik" spawned in server <STEAM_0:1:512068525> (took 364 seconds).
+[08:24:57] Dropped "erik" from server<STEAM_0:1:512068525>
+[08:25:08] Client "erik" connected.
+[08:44:34] Client "☭DinRalleMus☭" connected.
+[08:49:20] Client "☭DinRalleMus☭" spawned in server <STEAM_0:0:513057140> (took 286 seconds).
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/metal_plate1.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/glass/glass_plate1x1.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/metal_tube.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/glass/glass_plate1x1.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/glass/glass_plate1x1.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/glass/glass_plate1x1.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/glass/glass_plate1x1.mdl
+[08:49:41] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_phx/construct/metal_wire1x1x1.mdl
+[08:49:53] Dropped "☭DinRalleMus☭" from server<STEAM_0:0:513057140>
+[08:54:28] Client "☭DinRalleMus☭" connected.
+[08:59:12] Client "☭DinRalleMus☭" spawned in server <STEAM_0:0:513057140> (took 284 seconds).
+[09:00:46] ☭DinRalleMus☭: cheese
+[09:01:27] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_c17/furnituredrawer001a_chunk01.mdl
+[09:01:31] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_c17/furniturecupboard001a.mdl
+[09:01:58] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_c17/furniturecupboard001a.mdl
+[09:02:05] ☭DinRalleMus☭<STEAM_0:0:513057140> spawned model models/props_c17/furniturecupboard001a.mdl
+[09:06:39] Dropped "☭DinRalleMus☭" from server<STEAM_0:0:513057140>
+
+
+
+[17:09:28] New map: rp_downtown_v4c
+[17:46:31] Client "brexit" connected.
+[17:47:47] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 76 seconds).
+[17:51:50] Client "Al Shebab" connected.
+[17:52:23] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 33 seconds).
+[17:54:42] brexit: /setjob 
+[17:54:46] brexit: !setjob
+[17:54:49] brexit: !menu
+[17:55:11] brexit: /999
+[17:55:14] brexit: !menu
+[17:55:33] brexit banned Themself permanently (nigfger)
+[17:56:08] brexit: !menu
+[17:56:23] (SILENT) brexit added Al Shebab to the watchlist (reason)
+[17:56:33] (SILENT) brexit removed Al Shebab (steam_0x0x103364981) from the watchlist
+[17:56:33] (SILENT) brexit removed Al Shebab (steam_0x0x103364981) from the watchlist
+[17:56:37] Al Shebab: @ faggot
+[17:56:37] Al Shebab to admins: faggot
+[17:56:51] brexit: @ >
+[17:56:51] brexit to admins: >
+[17:56:59] brexit: @ should have a force change job for admins
+[17:56:59] brexit to admins: should have a force change job for admins
+[17:57:04] brexit: /setjob
+[17:57:14] brexit: /switchjob Police Officer
+[17:57:49] brexit: /spawnmoney
+[17:58:01] brexit: /addmoney 100000000
+[17:58:09] brexit: /addmoney brexit 1200000
+[17:58:18] brexit: /addmoney brexit 1000000000
+[17:59:32] brexit: @ fix cop spawning cars
+[17:59:32] brexit to admins: fix cop spawning cars
+[18:08:49] brexit: !menu
+[18:10:37] brexit: !menu
+[18:11:00] brexit created group donator-trial-moderator which inherits rights from group trial-moderator
+[18:11:09] brexit created group donator-moderator which inherits rights from group moderator
+[18:11:20] brexit created group donator-senior-moderator which inherits rights from group senior-moderator
+[18:11:30] brexit created group donator-admin which inherits rights from group admin
+[18:12:32] brexit: !menu
+[18:13:10] brexit created group donator which inherits rights from group user
+[18:13:41] brexit: !menu
+[18:15:04] brexit: !workshop
+[18:15:29] brexit: !apply
+[18:15:31] Al Shebab: !workshop
+[18:15:35] Al Shebab: !addons
+[18:16:20] brexit: !addons
+[18:16:23] brexit: !discord
+[18:19:05] brexit<STEAM_0:1:121087763> spawned sent decal
+[18:23:42] brexit: !savedecaks
+[18:23:46] brexit: !savedecals
+[18:23:49] brexit: .
+
+
+
+[18:25:26] New map: rp_downtown_v4c
+[18:26:26] Client "Al Shebab" connected.
+[18:26:47] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 21 seconds).
+[18:28:38] Client "brexit" connected.
+[18:28:59] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 21 seconds).
+[18:33:37] brexit<STEAM_0:1:121087763> spawned sent decal
+[18:34:29] brexit<STEAM_0:1:121087763> spawned sent decal
+[19:25:27] brexit<STEAM_0:1:121087763> spawned sent double_or_nothing
+[19:25:45] brexit<STEAM_0:1:121087763> spawned sent double_or_nothing
+[19:25:53] brexit<STEAM_0:1:121087763> spawned sent double_or_nothing
+[19:26:35] brexit<STEAM_0:1:121087763> spawned sent wheel_of_luck
+[19:26:42] brexit<STEAM_0:1:121087763> spawned sent wheel_of_luck
+[19:28:54] brexit<STEAM_0:1:121087763> spawned sent wheel_of_luck
+[19:29:01] brexit<STEAM_0:1:121087763> spawned sent wheel_of_luck
+[19:29:04] brexit<STEAM_0:1:121087763> spawned sent wheel_of_luck
+[19:29:06] brexit<STEAM_0:1:121087763> spawned sent wheel_of_luck
+[19:31:38] brexit<STEAM_0:1:121087763> spawned sent double_or_nothing
+[19:31:42] brexit<STEAM_0:1:121087763> spawned sent casinokit_roulette
+[19:31:54] brexit<STEAM_0:1:121087763> spawned sent double_or_nothing
+[19:32:47] brexit<STEAM_0:1:121087763> spawned vehicle models/tdmcars/emergency/chargersrt8.mdl
+[19:33:19] brexit: !WHEELOFLUCK
+[19:58:57] Al Shebab: // restart?
+[19:59:09] Al Shebab: !goto ton
+[19:59:12] Al Shebab: !goto br
+[19:59:12] Al Shebab teleported to brexit
+
+
+
+[20:01:56] New map: rp_downtown_v4c
+[20:01:57] Client "brexit" connected.
+[20:01:57] Client "Al Shebab" connected.
+[20:02:19] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 22 seconds).
+[20:02:21] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+[20:07:42] Al Shebab: // fag
+[20:08:30] Al Shebab<STEAM_0:0:103364981> spawned sent item_healthcharger
+[20:08:36] Al Shebab<STEAM_0:0:103364981> spawned sent item_suitcharger
+[20:09:23] Al Shebab<STEAM_0:0:103364981> spawned sent item_healthcharger
+[20:15:23] Al Shebab created group sydney which inherits rights from group user
+[20:15:34] Al Shebab created group melbourne which inherits rights from group user
+[20:15:41] Al Shebab created group brisbane which inherits rights from group user
+[20:15:45] Al Shebab created group perth which inherits rights from group user
+[20:15:53] Al Shebab created group adelaide which inherits rights from group user
+[20:15:58] Al Shebab created group hobart which inherits rights from group user
+[20:16:01] Al Shebab created group darwin which inherits rights from group user
+[20:18:28] Al Shebab removed group noaccess
+[20:18:31] Al Shebab removed group donator
+[20:19:10] Al Shebab changed group user to only be able to target !%darwin
+[20:19:32] Al Shebab changed group darwin to only be able to target !%hobart
+[20:19:54] Al Shebab changed group hobart to only be able to target !%adelaide
+[20:20:02] Al Shebab changed group adelaide to only be able to target !%perth
+[20:20:10] Al Shebab changed group perth to only be able to target !%brisbane
+[20:20:17] Al Shebab changed group brisbane to only be able to target !%melbourne
+[20:20:23] Al Shebab changed group melbourne to only be able to target !%sydney
+[20:20:32] Al Shebab changed group sydney to only be able to target !%trial-moderator
+[20:20:44] Al Shebab changed group trial-moderator to only be able to target !%donator-trial-moderator
+[20:20:58] Al Shebab changed group donator-trial-moderator to only be able to target !%moderator
+[20:21:12] Al Shebab changed group moderator to only be able to target !%donator-moderator
+[20:21:23] Al Shebab changed group donator-moderator to only be able to target !%senior-moderator
+[20:21:31] Al Shebab changed group donator-senior-moderator to only be able to target !%admin
+[20:21:41] Al Shebab changed group senior-moderator to only be able to target !%donator-senior-moderator
+[20:21:56] Al Shebab changed group donator-admin to only be able to target !%senior-admin
+[20:22:09] Al Shebab changed group admin to only be able to target !%donator-admin
+[20:22:33] Al Shebab changed group superadmin to only be able to target !%superadmin
+[20:22:40] Al Shebab changed group superadmin to only be able to target !%*
+[20:23:37] Al Shebab changed group staff-manager to be able to target anyone
+[20:24:08] Al Shebab changed group staff-manager to only be able to target !%superadmin
+[20:30:28] Al Shebab: @ oi
+[20:30:28] Al Shebab to admins: oi
+[20:30:35] Al Shebab: @ does the armoury work for you?
+[20:30:35] Al Shebab to admins: does the armoury work for you?
+[20:30:42] Al Shebab: @ or do i need to fix it in the code
+[20:30:42] Al Shebab to admins: or do i need to fix it in the code
+[20:30:53] Al Shebab: !pconfig
+[20:31:47] Al Shebab: !pconfig
+[20:33:10] brexit: !workshop
+[20:33:13] brexit: !addons
+[20:33:29] Al Shebab: !config
+[20:33:32] Al Shebab: !pconfig
+[20:34:22] Al Shebab: !pconfig
+[20:34:49] brexit<STEAM_0:1:121087763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:56] brexit<STEAM_0:1:121087763> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:35:12] Dropped "brexit" from server<STEAM_0:1:121087763>
+[20:35:12] Client "brexit" connected.
+[20:35:33] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 21 seconds).
+[20:39:50] Dropped "brexit" from server<STEAM_0:1:121087763>
+[20:42:37] Client "brexit" connected.
+[20:43:08] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 31 seconds).
+[20:46:27] Al Shebab<STEAM_0:0:103364981> spawned sent item_ammo_smg1_large
+[20:46:34] Al Shebab: !tp brexit
+[20:46:34] Al Shebab teleported brexit
+[20:51:12] Al Shebab: !workshop
+[20:53:22] brexit: .
+[20:53:28] brexit: !3P
+[20:53:45] Al Shebab: !addons
+[20:54:05] brexit: !3P
+[21:21:11] Al Shebab: !addons
+[21:23:51] Al Shebab<STEAM_0:0:103364981> spawned sent gmt_instrument_piano
+[21:44:40] Client "Trenbolone" connected.
+[21:46:08] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[21:46:26] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[21:46:28] Client "Trenbolone" spawned in server <STEAM_0:1:448363181> (took 108 seconds).
+[21:46:53] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[21:47:23] Al Shebab killed Trenbolone using m9k_oribital_cannon
+[21:47:23] Al Shebab suicided!
+[21:47:35] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[21:48:14] brexit: // tf
+[21:48:23] Al Shebab: !stopsounds
+[21:48:23] Al Shebab stopped sounds
+[21:48:59] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_bitminer_2
+[21:49:02] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_generator
+[21:49:03] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_power_lead
+[21:49:18] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_fuel
+[21:51:03] Al Shebab: !noclip *
+[21:51:32] Al Shebab: !goto tr
+[21:51:32] Al Shebab teleported to Trenbolone
+[21:51:35] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[21:51:35] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[21:52:39] Al Shebab<STEAM_0:0:103364981> spawned model models/props_lab/blastdoor001b.mdl
+[21:54:46] Al Shebab<STEAM_0:0:103364981> spawned sent double_or_nothing
+[21:55:18] Al Shebab<STEAM_0:0:103364981> spawned sent double_or_nothing
+[21:55:50] Al Shebab<STEAM_0:0:103364981> spawned sent casinokit_blackjack
+[21:56:03] Dropped "Trenbolone" from server<STEAM_0:1:448363181>
+[21:58:08] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[21:59:37] brexit: // Why is swat heavy green
+[21:59:43] brexit: // on tab
+[21:59:49] Al Shebab: // its not
+[21:59:56] Al Shebab: its the same blue
+[22:00:08] Al Shebab: but probably bc i never configed the colours yet
+[22:00:12] brexit killed Al Shebab using player
+[22:00:18] brexit: // kk
+[22:00:21] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[22:00:23] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_battery
+[22:01:09] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[22:01:12] Al Shebab<STEAM_0:0:103364981> spawned sent printer_gold
+[22:01:14] Al Shebab<STEAM_0:0:103364981> spawned sent printer_silver
+[22:01:47] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[22:01:48] Al Shebab<STEAM_0:0:103364981> spawned sent printer_addon_solarpower
+[22:01:50] Al Shebab<STEAM_0:0:103364981> spawned sent printer_addon_cooler
+[22:01:51] Al Shebab<STEAM_0:0:103364981> spawned sent printer_addon_silent
+[22:01:52] Al Shebab<STEAM_0:0:103364981> spawned sent printer_silver
+[22:01:54] Al Shebab<STEAM_0:0:103364981> spawned sent printer_gold
+[22:02:47] Al Shebab: !gsettings
+[22:03:15] brexit: !menu
+[22:03:46] brexit: // hitler
+[22:03:52] brexit: // send me all donator ranks
+[22:05:32] Al Shebab: // ok
+[22:08:29] Al Shebab<STEAM_0:0:103364981> spawned sent gattachment
+[22:08:47] brexit: !fcdamin
+[22:09:13] Al Shebab: !gconfig
+[22:09:19] brexit: // bro idk
+[22:09:27] brexit: // these restriction ranks dont work
+[22:10:06] Al Shebab: chat car
+[22:10:08] Al Shebab: w hat
+[22:10:11] Al Shebab: what*
+[22:10:58] brexit: Donator car
+[22:11:01] brexit: and police
+[22:11:05] Al Shebab: which donator car
+[22:11:09] Al Shebab: send the spawncode
+[22:11:17] brexit: !fcadmin
+[22:11:31] brexit: Last car on fcdadmin
+[22:11:36] brexit: is donator
+[22:11:55] Al Shebab: omg
+[22:12:16] Al Shebab: discord
+[22:12:17] Al Shebab: check
+[22:12:55] brexit: Ok there we go
+[22:12:56] brexit: cunt wtf
+[22:13:06] brexit: it says u need to sepreate it by ",
+[22:13:12] brexit: shits fuck
+[22:13:24] brexit: telling me u need to seperate it by ","
+[22:13:31] Al Shebab: i just copied it
+[22:13:35] Al Shebab: thought youd remove it
+[22:15:09] Al Shebab: how do make this nigga stop walking
+[22:15:12] Al Shebab: its fucking annoying
+[22:21:40] Al Shebab: check discord
+
+
+
+[22:36:14] New map: rp_downtown_v4c
+[22:37:01] Client "Al Shebab" connected.
+[22:37:55] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 54 seconds).
+[22:38:41] Al Shebab<STEAM_0:0:103364981> spawned sent vc_pickup_fuel_electricity
+[22:38:50] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_facture
+[22:38:55] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_printer
+[22:38:58] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_garage
+[22:39:02] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_stand
+[22:39:03] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_stand
+[22:39:10] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_garage
+[22:39:16] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_garage
+[22:39:18] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_tablet_ent
+[22:41:35] Client "brexit" connected.
+[22:42:15] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 40 seconds).
+
+
+
+[22:57:45] New map: rp_downtown_v4c
+[22:57:53] Client "Al Shebab" connected.
+[22:58:17] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+
+
+
+[23:05:06] New map: rp_downtown_v4c
+[23:05:51] Client "Al Shebab" connected.
+[23:06:15] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+[23:08:50] Al Shebab<STEAM_0:0:103364981> spawned sent lean_barrel
+[23:08:51] Al Shebab<STEAM_0:0:103364981> spawned sent lean_buyer
+[23:08:57] Al Shebab<STEAM_0:0:103364981> spawned sent lean_barrel
+[23:08:58] Al Shebab<STEAM_0:0:103364981> spawned sent lean_crate
+[23:08:59] Al Shebab<STEAM_0:0:103364981> spawned sent lean_cup
+[23:09:00] Al Shebab<STEAM_0:0:103364981> spawned sent lean_smallcrate
+[23:11:27] Al Shebab<STEAM_0:0:103364981> spawned sent lean_buyer
+[23:15:41] Client "brexit" connected.
+[23:16:04] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 23 seconds).

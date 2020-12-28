@@ -19,3 +19,11 @@
 2020-12-27 06.19.32: <General> Player Al Shebab has loaded and is waiting for a temp-key.
 2020-12-27 06.19.33: <General> Sent API key to player Al Shebab. 99 keys left.
 2020-12-27 06.19.33: <General> Initializing player Al Shebab.
+2020-12-27 06.33.11: <General> Player Jacktank has loaded and is waiting for a temp-key.
+2020-12-27 06.33.13: <General> Sent API key to player Jacktank. 98 keys left.
+2020-12-27 06.33.13: <General> Initializing player Jacktank.
+2020-12-27 06.42.38: <General> Player brexit has loaded and is waiting for a temp-key.
+2020-12-27 06.42.38: <General> Sent API key to player brexit. 97 keys left.
+2020-12-27 06.42.38: <General> Initializing player brexit.
+2020-12-27 07.07.08: <General> Vehicle data "Ferrari F430" loaded.
+2020-12-27 07.07.11: <General> Vehicle data "SUPER SECRET" loaded.

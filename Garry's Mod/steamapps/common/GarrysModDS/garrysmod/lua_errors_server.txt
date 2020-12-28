@@ -12025,3 +12025,184 @@ Couldn't include file 'includes\modules\cryptrandom.lua' (File not found) (<nowh
 [gmodadminsuite-logging-2.4.1] addons/gmodadminsuite-logging-2.4.1/lua/weapons/gas_log_scanner/shared.lua:118: attempt to index global 'GAS' (a nil value)
   1. unknown - addons/gmodadminsuite-logging-2.4.1/lua/weapons/gas_log_scanner/shared.lua:118
 
+
+[bitcoin] addons/bitcoin/lua/weapons/bit_usb/shared.lua:86: attempt to compare nil with number
+  1. unknown - addons/bitcoin/lua/weapons/bit_usb/shared.lua:86
+
+
+[bitcoin] addons/bitcoin/lua/weapons/bit_usb/shared.lua:86: attempt to compare nil with number
+  1. unknown - addons/bitcoin/lua/weapons/bit_usb/shared.lua:86
+
+
+[bitcoin] addons/bitcoin/lua/weapons/bit_usb/shared.lua:86: attempt to compare nil with number
+  1. unknown - addons/bitcoin/lua/weapons/bit_usb/shared.lua:86
+
+
+[blues-double-or-nothing] addons/blues-double-or-nothing/lua/entities/double_or_nothing/init.lua:390: attempt to call method 'UnlinkUser' (a nil value)
+  1. unknown - addons/blues-double-or-nothing/lua/entities/double_or_nothing/init.lua:390
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:263
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:263
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:263
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:263
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:263
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+
+
+[[Official] Precision Tool] lua/weapons/gmod_tool/stools/precision.lua:1005: attempt to index local 'Phys1' (a nil value)
+  1. Reload - lua/weapons/gmod_tool/stools/precision.lua:1005
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:130
+

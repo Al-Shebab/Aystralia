@@ -24,7 +24,7 @@
 
 
 {
-	"text" "[Sever] Need assistance? Type @ with your message."
+	"text" "[Server] Need assistance? Type @ with your message."
 	"red" "255"
 	"green" "0"
 	"blue" "0"

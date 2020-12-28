@@ -1,2 +1,94 @@
 Sun Dec 27 06:19:22 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
 Sun Dec 27 06:19:23 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 06:24:55 2020	Al Shebab (STEAM_0:0:103364981): !logs
+Sun Dec 27 06:24:58 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 06:32:50 2020	Jacktank (STEAM_0:1:51163583) has joined the game
+Sun Dec 27 06:32:50 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:34:11 2020	Jacktank (STEAM_0:1:51163583) spawned SENT edit_sky
+Sun Dec 27 06:34:15 2020	Jacktank (STEAM_0:1:51163583) spawned SENT edit_fog
+Sun Dec 27 06:34:38 2020	Jacktank (STEAM_0:1:51163583) spawned SENT edit_sky
+Sun Dec 27 06:35:20 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 06:37:34 2020	Jacktank was killed by Al Shebab with a m9k_contender
+Sun Dec 27 06:37:37 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:41:45 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bm2_bitminer_1
+Sun Dec 27 06:41:57 2020	Jacktank was killed by Entity [0][worldspawn] with a unknown
+Sun Dec 27 06:42:00 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:42:04 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_npc
+Sun Dec 27 06:42:12 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_cornet
+Sun Dec 27 06:42:13 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_cpu
+Sun Dec 27 06:42:13 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_case
+Sun Dec 27 06:42:14 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_graphiccard
+Sun Dec 27 06:42:14 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_harddisk
+Sun Dec 27 06:42:15 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_motherboard
+Sun Dec 27 06:42:15 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_powersupply
+Sun Dec 27 06:42:16 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_ram
+Sun Dec 27 06:42:16 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_windows
+Sun Dec 27 06:42:21 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_case
+Sun Dec 27 06:42:22 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_case
+Sun Dec 27 06:42:24 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT bit_case
+Sun Dec 27 06:42:28 2020	brexit (STEAM_0:1:121087763) has joined the game
+Sun Dec 27 06:42:28 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 06:42:56 2020	brexit was killed by Jacktank with a prop_physics
+Sun Dec 27 06:45:27 2020	Jacktank was killed by Entity [0][worldspawn] with a unknown
+Sun Dec 27 06:45:30 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:45:32 2020	Jacktank was killed by Al Shebab with a m9k_gdcwa_matador_90mm
+Sun Dec 27 06:45:35 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:45:36 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 06:45:55 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 06:46:26 2020	Jacktank (STEAM_0:1:51163583): 
+Sun Dec 27 06:46:55 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 06:47:19 2020	Al Shebab was killed by Himself with a suicide trick
+Sun Dec 27 06:47:22 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 06:47:25 2020	Al Shebab was killed by Himself with a suicide trick
+Sun Dec 27 06:47:25 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 06:47:54 2020	Jacktank was killed by Himself with a suicide trick
+Sun Dec 27 06:47:57 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:47:57 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 06:47:59 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 06:48:13 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:48:22 2020	Al Shebab (STEAM_0:0:103364981): /bnigg
+Sun Dec 27 06:48:29 2020	Jacktank (STEAM_0:1:51163583): /write fag
+Sun Dec 27 06:48:50 2020	Jacktank (STEAM_0:1:51163583): /write You are an fag nigger 
+Sun Dec 27 06:49:02 2020	Jacktank (STEAM_0:1:51163583): cp
+Sun Dec 27 06:49:47 2020	brexit was killed by Jacktank with a prop_physics
+Sun Dec 27 06:49:50 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 06:49:57 2020	Jacktank was killed by brexit with a m9k_m202_rocket
+Sun Dec 27 06:50:00 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:50:13 2020	Jacktank was killed by brexit with a m9k_nitro_vapor
+Sun Dec 27 06:50:13 2020	brexit was killed by Himself with a suicide trick
+Sun Dec 27 06:50:16 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 06:50:18 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:50:23 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 06:50:36 2020	Jacktank was killed by brexit with a m9k_thrown_sticky_grenade
+Sun Dec 27 06:50:46 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:51:04 2020	Jacktank was killed by brexit with a m9k_proxy
+Sun Dec 27 06:51:07 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:51:11 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 06:51:18 2020	Al Shebab was killed by brexit with a m9k_launched_ex41
+Sun Dec 27 06:51:20 2020	brexit was killed by Himself with a suicide trick
+Sun Dec 27 06:51:21 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 06:51:23 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 06:52:16 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 06:52:30 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 06:52:36 2020	Jacktank (STEAM_0:1:51163583): !size
+Sun Dec 27 06:53:32 2020	Jacktank was killed by brexit with a m9k_launched_ex41
+Sun Dec 27 06:53:37 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:54:03 2020	Jacktank was killed by brexit with a m9k_launched_ex41
+Sun Dec 27 06:54:06 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 06:54:31 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 06:56:06 2020	Jacktank (STEAM_0:1:51163583): !vc
+Sun Dec 27 06:56:10 2020	Jacktank (STEAM_0:1:51163583): 
+Sun Dec 27 06:56:15 2020	Jacktank (STEAM_0:1:51163583): 
+Sun Dec 27 07:00:01 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 07:00:27 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 07:04:00 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 07:06:27 2020	Jacktank was killed by brexit with a m9k_usp
+Sun Dec 27 07:06:37 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:07:03 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 07:07:08 2020	brexit (STEAM_0:1:121087763) spawned Vehicle prop_vehicle_jeep (ferf430tdm)
+Sun Dec 27 07:07:11 2020	Jacktank (STEAM_0:1:51163583) spawned Vehicle prop_vehicle_jeep (airtugtdm)
+Sun Dec 27 07:07:49 2020	Jacktank was killed by brexit with a m9k_usp
+Sun Dec 27 07:07:52 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:08:22 2020	Jacktank was killed by brexit with a m9k_thrown_knife
+Sun Dec 27 07:08:25 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:08:31 2020	Jacktank was killed by brexit with a m9k_thrown_knife

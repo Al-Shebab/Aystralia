@@ -1581,3 +1581,43 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460: bad argument #1 to 'insert' (table expected, got nil)
+  1. insert - [C]:-1
+   2. onLeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460
+    3. LeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:907
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460: bad argument #1 to 'insert' (table expected, got nil)
+  1. insert - [C]:-1
+   2. onLeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460
+    3. LeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:907
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460: bad argument #1 to 'insert' (table expected, got nil)
+  1. insert - [C]:-1
+   2. onLeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460
+    3. LeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:907
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460: bad argument #1 to 'insert' (table expected, got nil)
+  1. insert - [C]:-1
+   2. onLeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:460
+    3. LeftClick - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:907
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+
