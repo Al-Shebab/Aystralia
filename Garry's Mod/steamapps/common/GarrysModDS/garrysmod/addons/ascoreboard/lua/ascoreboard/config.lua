@@ -58,16 +58,16 @@ aScoreboard.PieChart					= true
 aScoreboard.WebsiteLink					= "https://discord.gg/hWN7zXtbQP"
 
 --Link to your donation page, leave as "" in order to disable page
-aScoreboard.DonationLink				= "https://scriptfodder.com/scripts/"
+aScoreboard.DonationLink				= "https://aystralia-network-garrys-mo.tebex.io"
 
 --Link to your workshop collection, leave as "" in order to disable page
 aScoreboard.WorkshopLink				= "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
 
 --Link to your Steam group, leave as "" in order to disable page
-aScoreboard.SteamGroupLink 				= ""
+aScoreboard.SteamGroupLink 				= "https://steamcommunity.com/groups/Aystralia"
 
 --Should the user be able to call for admin assistance from the admin list?
-aScoreboard.EnableAssistance			= false
+aScoreboard.EnableAssistance			= true
 
 --The console command that should be run on the user when they request assistance from an admin on the dashboard
 --Feel free to change it to something like this for DarkRP usage: "say \"/// Requesting admin assistance.\""
