@@ -767,17 +767,116 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 
+-- Manufacturing --
 
 
+TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/obese_male.mdl"},
+    description = [[Mine bitcoins before it was cool. Can base.
+]],
+    weapons = {},
+    command = "TEAM_BITCOIN_MINER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
+TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/hostage/hostage_01.mdl"},
+    description = [[Make fake money. Can base.
+]],
+    weapons = {},
+    command = "TEAM_MONEY_PRINTER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
+TEAM_SMOOTHIE_MAKER = DarkRP.createJob("Smoothie Maker", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/fortnite/female/dj_bop.mdl"},
+    description = [[Blend up some fruits and sell them for 10x what they are worth at Coles. Can base.
+]],
+    weapons = {},
+    command = "TEAM_SMOOTHIE_MAKER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
+TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/anon/anon.mdl"},
+    description = [[Get some chemist warehouse cough syrup and put it in a cup. Can base.
+]],
+    weapons = {},
+    command = "TEAM_LEAN_MANUFACTURER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
+TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/snoopdogg.mdl"},
+    description = [[Sell some green at bankstown station. Can base.
+]],
+    weapons = {},
+    command = "TEAM_WEED_DEALER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
+TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/spacesuit.mdl"},
+    description = [[Snap off some tabs and give them to the street kids. Can base.
+]],
+    weapons = {},
+    command = "TEAM_LSD_DEALER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
+TEAM_METH_DEALER = DarkRP.createJob("Meth Dealer", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/spacesuit.mdl"},
+    description = [[Become a gosford local. Can base.
+]],
+    weapons = {},
+    command = "TEAM_METH_DEALER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
 
-
-
-
-
-
-
-
-
+-- Homeless --
 
 TEAM_MUTANT = DarkRP.createJob("Mutant", {
     color = Color(34, 85, 85, 255),
@@ -819,4 +918,31 @@ TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
         ply:SetHealth(100)
         ply:SetArmor(0)
     end
+})
+
+
+
+
+TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
+    color = Color(255, 255, 255, 255),
+    model = {"models/player/combine_super_soldier.mdl"},
+    description = [[Staff only.]],
+    weapons = {"arrest_stick", "unarrest_stick", "stunstick", "weaponchecker", "weapon_keypadchecker", "staff_lockpick", "gas_log_scanner", "itemstore_checker"},
+    command = "TEAM_STAFF_ON_DUTY",
+    max = 0,
+    salary = 15000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Staff",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(500)
+        ply:SetHealth(500)
+        ply:SetArmor(500)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"superadmin", "senior-admin", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator", "admin", "senior-moderator", "moderator", "trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "Staff only.",
 })
