@@ -16,10 +16,7 @@ https://darkrp.miraheze.org/wiki/DarkRP:CustomEntityFields
 
 Add entities under the following line:
 ---------------------------------------------------------------------------]]
---[[
-    Generated using: DarkRP | Entity Generator
-    https://csite.io/tools/gmod-darkrp-entity
---]]
+
 DarkRP.createEntity("Piano", {
     ent = "gmt_instrument_piano",
     model = "models/fishy/furniture/piano.mdl",
@@ -237,6 +234,7 @@ DarkRP.createEntity("Ink Money Printer", {
     max = 2,
     cmd = "tierp_printer",
     category = "Advanced Money Printers",
+    allowed = {TEAM_MONEY_PRINTER},
     customCheck = function(ply) return
         table.HasValue({TEAM_MONEY_PRINTER}, ply:Team())
     end,
@@ -249,14 +247,12 @@ DarkRP.createEntity("Ink Money Printer Battery", {
     max = 4,
     cmd = "tierp_battery",
     category = "Advanced Money Printers",
+    allowed = {TEAM_MONEY_PRINTER},
     customCheck = function(ply) return
         table.HasValue({TEAM_MONEY_PRINTER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
-})--[[
-    Generated using: DarkRP | Entity Generator
-    https://csite.io/tools/gmod-darkrp-entity
---]]
+})
 DarkRP.createEntity("Lean Barrel", {
     ent = "lean_barrel",
     model = "models/freeman/codeine_barrel.mdl",
@@ -264,11 +260,12 @@ DarkRP.createEntity("Lean Barrel", {
     max = 2,
     cmd = "lean_barrel",
     category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER}
-})--[[
-    Generated using: DarkRP | Entity Generator
-    https://csite.io/tools/gmod-darkrp-entity
---]]
+    allowed = {TEAM_LEAN_MANUFACTURER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
 DarkRP.createEntity("Lean Crate", {
     ent = "lean_crate",
     model = "models/freeman/codeine_crate.mdl",
@@ -276,11 +273,12 @@ DarkRP.createEntity("Lean Crate", {
     max = 1,
     cmd = "lean_crate",
     category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER}
-})--[[
-    Generated using: DarkRP | Entity Generator
-    https://csite.io/tools/gmod-darkrp-entity
---]]
+    allowed = {TEAM_LEAN_MANUFACTURER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
 DarkRP.createEntity("Lean Cup", {
     ent = "lean_cup",
     model = "models/freeman/codeine_cup.mdl",
@@ -288,11 +286,12 @@ DarkRP.createEntity("Lean Cup", {
     max = 8,
     cmd = "lean_cup",
     category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER}
-})--[[
-    Generated using: DarkRP | Entity Generator
-    https://csite.io/tools/gmod-darkrp-entity
---]]
+    allowed = {TEAM_LEAN_MANUFACTURER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
 DarkRP.createEntity("Lean Small Crate", {
     ent = "lean_smallcrate",
     model = "models/props_junk/cardboard_box001a.mdl",
@@ -300,5 +299,9 @@ DarkRP.createEntity("Lean Small Crate", {
     max = 2,
     cmd = "lean_smallcrate",
     category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER}
+    allowed = {TEAM_LEAN_MANUFACTURER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
 })
