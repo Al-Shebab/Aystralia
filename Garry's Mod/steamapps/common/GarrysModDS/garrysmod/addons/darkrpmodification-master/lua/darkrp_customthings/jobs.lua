@@ -22,22 +22,9 @@ GAMEMODE.DefaultTeam = TEAM_CITIZEN
 Define which teams belong to civail protection
 Civil protection can set warrants, make people wanted and do some other police related things
 ---------------------------------------------------------------------------]]
-GAMEMODE.CivilProtection = {
-    [TEAM_POLICE_OFFICER] = true,
-    [TEAM_POLICE_CHIEF] = true,
-    [TEAM_MAYOR] = true,
-    [TEAM_SWAT] = true,
-    [TEAM_SWAT_HEAVY] = true,
-    [TEAM_SWAT_MARKSMAN] = true,
-    [TEAM_SWAT_MEDIC] = true,
-    [TEAM_SWAT_LEADER] = true,
-    [TEAM_UNDERCOVER_COP] = true,
-}
 --[[---------------------------------------------------------------------------
 Jobs that are hitmen (enables the hitman menu)
 ---------------------------------------------------------------------------]]
-DarkRP.addHitmanTeam(TEAM_ASSASSIN)
-DarkRP.addHitmanTeam(TEAM_TEAM_HITMAN)
 
 -- Civilians --
 
@@ -943,3 +930,18 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
     end,
     CustomCheckFailMsg = "Staff only.",
 })
+
+GAMEMODE.CivilProtection = {
+    [TEAM_POLICE_OFFICER] = true,
+    [TEAM_POLICE_CHIEF] = true,
+    [TEAM_MAYOR] = true,
+    [TEAM_SWAT] = true,
+    [TEAM_SWAT_HEAVY] = true,
+    [TEAM_SWAT_MARKSMAN] = true,
+    [TEAM_SWAT_MEDIC] = true,
+    [TEAM_SWAT_LEADER] = true,
+    [TEAM_UNDERCOVER_COP] = true,
+}
+
+DarkRP.addHitmanTeam(TEAM_ASSASSIN)
+DarkRP.addHitmanTeam(TEAM_TEAM_HITMAN)
