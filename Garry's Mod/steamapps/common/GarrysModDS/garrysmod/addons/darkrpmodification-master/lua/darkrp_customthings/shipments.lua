@@ -451,3 +451,156 @@ DarkRP.createShipment("RPG", {
     category = "Explosives",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
+
+-- Drugs --
+
+DarkRP.createShipment("Alcohol", {
+    model = "models/drug_mod/alcohol_can.mdl",
+    entity = "durgz_alcohol",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Aspirin", {
+    model = "models/jaanus/aspbtl.mdl",
+    entity = "durgz_aspirin",
+    amount = 10,
+    price = 25000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Ciggies", {
+    model = "models/boxopencigshib.mdl",
+    entity = "durgz_cigarette",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Heroin", {
+    model = "models/katharsmodels/syringe_out/syringe_out.mdl",
+    entity = "durgz_heroine",
+    amount = 10,
+    price = 5000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("LSD Tabs", {
+    model = "models/smile/smile.mdl",
+    entity = "durgz_lsd",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Marijuana", {
+    model = "models/katharsmodels/contraband/zak_wiet/zak_wiet.mdl",
+    entity = "durgz_weed",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Methamphetamine", {
+    model = "models/katharsmodels/contraband/metasync/blue_sky.mdl",
+    entity = "durgz_meth",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Mushrooms", {
+    model = "models/ipha/mushroom_small.mdl",
+    entity = "durgz_mushroom",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("PCP", {
+    model = "models/marioragdoll/super mario galaxy/star/star.mdl",
+    entity = "durgz_pcp",
+    amount = 10,
+    price = 10000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
+DarkRP.createShipment("Water", {
+    model = "models/drug_mod/the_bottle_of_water.mdl",
+    entity = "durgz_water",
+    amount = 10,
+    price = 5000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Drugs",
+    allowed = {TEAM_DRUG_DEALER},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_DRUG_DEALER}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})
