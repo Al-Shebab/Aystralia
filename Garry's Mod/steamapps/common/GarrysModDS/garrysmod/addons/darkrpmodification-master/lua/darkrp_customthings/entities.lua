@@ -234,18 +234,18 @@ DarkRP.createEntity("Combiner", {
 DarkRP.createEntity("Gas Filter", {
 	ent = "zmlab_filter",
 	model = "models/zerochain/zmlab/zmlab_filter.mdl",
-	price = 1000,
-	max = 2,
+	price = 10000,
+	max = 1,
 	cmd = "buyfilter_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
 })
 
-DarkRP.createEntity("Frezzer", {
+DarkRP.createEntity("Freezer", {
 	ent = "zmlab_frezzer",
 	model = "models/zerochain/zmlab/zmlab_frezzer.mdl",
-	price = 2000,
-	max = 2,
+	price = 5000,
+	max = 1,
 	cmd = "buyfrezzer_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
@@ -254,8 +254,8 @@ DarkRP.createEntity("Frezzer", {
 DarkRP.createEntity("Transport Crate", {
 	ent = "zmlab_collectcrate",
 	model = "models/zerochain/zmlab/zmlab_transportcrate.mdl",
-	price = 250,
-	max = 5,
+	price = 1000,
+	max = 3,
 	cmd = "buycollectcrate_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
@@ -264,8 +264,8 @@ DarkRP.createEntity("Transport Crate", {
 DarkRP.createEntity("Methylamin", {
 	ent = "zmlab_methylamin",
 	model = "models/zerochain/zmlab/zmlab_methylamin.mdl",
-	price = 1000,
-	max = 6,
+	price = 2000,
+	max = 3,
 	cmd = "buymethylamin_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
@@ -284,7 +284,7 @@ DarkRP.createEntity("Aluminium", {
 DarkRP.createEntity("Transport Palette", {
 	ent = "zmlab_palette",
 	model = "models/props_junk/wood_pallet001a.mdl",
-	price = 100,
+	price = 1000,
 	max = 3,
 	cmd = "buypalette_zmlab",
 	allowed = TEAM_METH_DEALER,
