@@ -305,3 +305,140 @@ DarkRP.createEntity("Lean Small Crate", {
     end,
     CustomCheckFailMsg = "",
 })
+DarkRP.createEntity("Combiner", {
+	ent = "zmlab_combiner",
+	model = "models/zerochain/zmlab/zmlab_combiner.mdl",
+	price = 6000,
+	max = 1,
+	cmd = "buycombiner_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+DarkRP.createEntity("Gas Filter", {
+	ent = "zmlab_filter",
+	model = "models/zerochain/zmlab/zmlab_filter.mdl",
+	price = 1000,
+	max = 2,
+	cmd = "buyfilter_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+DarkRP.createEntity("Frezzer", {
+	ent = "zmlab_frezzer",
+	model = "models/zerochain/zmlab/zmlab_frezzer.mdl",
+	price = 2000,
+	max = 2,
+	cmd = "buyfrezzer_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+DarkRP.createEntity("Transport Crate", {
+	ent = "zmlab_collectcrate",
+	model = "models/zerochain/zmlab/zmlab_transportcrate.mdl",
+	price = 250,
+	max = 5,
+	cmd = "buycollectcrate_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+DarkRP.createEntity("Methylamin", {
+	ent = "zmlab_methylamin",
+	model = "models/zerochain/zmlab/zmlab_methylamin.mdl",
+	price = 1000,
+	max = 6,
+	cmd = "buymethylamin_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+DarkRP.createEntity("Aluminium", {
+	ent = "zmlab_aluminium",
+	model = "models/zerochain/zmlab/zmlab_aluminiumbox.mdl",
+	price = 100,
+	max = 6,
+	cmd = "buyaluminium_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+DarkRP.createEntity("Transport Palette", {
+	ent = "zmlab_palette",
+	model = "models/props_junk/wood_pallet001a.mdl",
+	price = 100,
+	max = 3,
+	cmd = "buypalette_zmlab",
+	allowed = TEAM_METH_DEALER,
+	category = "Meth Materials"
+})
+
+-- Weed?? --
+
+DarkRP.createEntity("DoobyTable", {
+    ent = "zwf_doobytable",
+    model = "models/zerochain/props_weedfarm/zwf_doobytable.mdl",
+    price = 5000,
+    max = 1,
+    cmd = "buyzwf_doobytable",
+    allowed = {TEAM_WEED_DEALER},
+    category = "Weed Materials"
+})
+
+DarkRP.createEntity("Mixer", {
+    ent = "zwf_mixer",
+    model = "models/zerochain/props_weedfarm/zwf_mixer.mdl",
+    price = 5000,
+    max = 1,
+    cmd = "buyzwf_mixer",
+    allowed = {TEAM_WEED_DEALER},
+    category = "Weed Materials"
+})
+
+DarkRP.createEntity("Oven", {
+    ent = "zwf_oven",
+    model = "models/zerochain/props_weedfarm/zwf_oven.mdl",
+    price = 5000,
+    max = 1,
+    cmd = "buyzwf_oven",
+    allowed = {TEAM_WEED_DEALER},
+    category = "Weed Materials"
+})
+
+local function Spawn_BackMix(id,ply,tr)
+    local backmix = ents.Create("zwf_backmix")
+    backmix:SetPos(tr.HitPos)
+    backmix:Spawn()
+    backmix:SetModel(zwf.config.Cooking.edibles[id].backmix_model)
+    backmix:Activate()
+    backmix.EdibleID = id
+    return backmix
+end
+
+DarkRP.createEntity("Muffin Mix", {
+    ent = "zwf_backmix",
+    model = "models/zerochain/props_weedfarm/zwf_backmix_muffin.mdl",
+    price = 500,
+    max = 3,
+    cmd = "buyzwf_backmix_muffin",
+    allowed = {TEAM_WEED_DEALER},
+    category = "Weed Materials",
+    spawn = function(ply, tr, tblEnt)
+        return  Spawn_BackMix(1,ply,tr)
+    end
+})
+
+DarkRP.createEntity("Brownie Mix", {
+    ent = "zwf_backmix",
+    model = "models/zerochain/props_weedfarm/zwf_backmix_brownie.mdl",
+    price = 500,
+    max = 3,
+    cmd = "buyzwf_backmix_brownie",
+    allowed = {TEAM_WEED_DEALER},
+    category = "Weed Materials",
+    spawn = function(ply, tr, tblEnt)
+        return  Spawn_BackMix(2,ply,tr)
+    end
+})
