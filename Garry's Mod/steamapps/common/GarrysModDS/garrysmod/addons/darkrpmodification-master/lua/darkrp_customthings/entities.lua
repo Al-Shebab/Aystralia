@@ -16,3 +16,20 @@ https://darkrp.miraheze.org/wiki/DarkRP:CustomEntityFields
 
 Add entities under the following line:
 ---------------------------------------------------------------------------]]
+--[[
+    Generated using: DarkRP | Entity Generator
+    https://csite.io/tools/gmod-darkrp-entity
+--]]
+DarkRP.createEntity("Piano", {
+    ent = "gmt_instrument_piano",
+    model = "models/fishy/furniture/piano.mdl",
+    price = 1000,
+    max = 1,
+    cmd = "gmt_instrument_piano",
+    category = "Piano",
+    allowed = {TEAM_PIANIST},
+    customCheck = function(ply) return
+        table.HasValue({TEAM_PIANIST}, ply:Team())
+    end,
+    CustomCheckFailMsg = "",
+})

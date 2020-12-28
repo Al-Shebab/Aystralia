@@ -163,3 +163,73 @@ DarkRP.createCategory{
     canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
     sortOrder = 17,
 }
+
+
+
+-- Job Entities --
+
+
+DarkRP.createCategory{
+    name = "Bitcoin",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_BITCOIN_MINER}, ply:Team()) end,
+    sortOrder = 1
+}
+DarkRP.createCategory{
+    name = "Advanced Money Printers",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_MONEY_PRINTER}, ply:Team()) end,
+    sortOrder = 2
+}
+DarkRP.createCategory{
+    name = "Money Printers",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_CITIZEN, TEAM_BANK_MANAGER, TEAM_PARKOUR_MASTER, TEAM_GRAFFITI_ARTIST, TEAM_DJ, TEAM_VAPIST, TEAM_FIGHT_CLUB_OWNER, TEAM_PIANIST, TEAM_GAMBLING_ADDICT, TEAM_SECURITY_GUARD, TEAM_DOCTER, TEAM_NURSE, TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER, TEAM_DRUG_DEALER, TEAM_HACKER, TEAM_THIEF, TEAM_HITMAN, TEAM_BLOOD, TEAM_BLOOD_LEADER, TEAM_CRIP, TEAM_CRIP_LEADER, TEAM_BATTLE_MEDIC, TEAM_MAFIA, TEAM_MAFIA_LEADER, TEAM_PRO_THIEF, TEAM_TERRORIST, TEAM_ASSASSIN, TEAM_KIDNAPPER, TEAM_MUTANT, TEAM_MUTANT_KING, TEAM_BITCOIN_MINER, TEAM_MONEY_PRINTER, TEAM_SMOOTHIE_MAKER, TEAM_LEAN_MANUFACTURER, TEAM_WEED_DEALER, TEAM_LSD_DEALER, TEAM_METH_DEALER}, ply:Team()) end,
+    sortOrder = 113
+}
+DarkRP.createCategory{
+    name = "Smoothie Maker",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_SMOOTHIE_MAKER}, ply:Team()) end,
+    sortOrder = 3
+}
+DarkRP.createCategory{
+    name = "Lean Materials",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team()) end,
+    sortOrder = 4
+}
+DarkRP.createCategory{
+    name = "Weed Materials",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_WEED_DEALER}, ply:Team()) end,
+    sortOrder = 5
+}
+DarkRP.createCategory{
+    name = "Meth Materials",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_METH_DEALER}, ply:Team()) end,
+    sortOrder = 6
+}
+DarkRP.createCategory{
+    name = "Piano",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 0, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_PIANIST}, ply:Team()) end,
+    sortOrder = 7
+}
