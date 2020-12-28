@@ -480,7 +480,7 @@ TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
 -- Illegal --
 
 TEAM_HACKER = DarkRP.createJob("Hacker", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/aiden_pearce.mdl"},
     description = [[Hack into bases using the keypad cracker. Can base, raid and mug.]],
     weapons = {"keypad_cracker"},
@@ -499,7 +499,7 @@ TEAM_HACKER = DarkRP.createJob("Hacker", {
     end
 })
 TEAM_THIEF = DarkRP.createJob("Thief", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/arctic.mdl"},
     description = [[Lockpick into bases. Can base, raid and mug.]],
     weapons = {"lockpick"},
@@ -518,7 +518,7 @@ TEAM_THIEF = DarkRP.createJob("Thief", {
     end
 })
 TEAM_HITMAN = DarkRP.createJob("Hitman", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/gman_high.mdl"},
     description = [[Take our your targets for a fee. Can base and raid.]],
     weapons = {"lockpick", "m9k_m24"},
@@ -540,7 +540,7 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     end
 })
 TEAM_BLOOD = DarkRP.createJob("Blood", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/bloodz/slow_3.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
@@ -559,7 +559,7 @@ TEAM_BLOOD = DarkRP.createJob("Blood", {
     end
 })
 TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/bloodz/slow_1.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
@@ -578,7 +578,7 @@ TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
     end
 })
 TEAM_CRIP = DarkRP.createJob("Crip", {
-    color = Color(34, 85, 85, 255),
+    color = Color(0, 0, 255, 255),
     model = {"models/player/cripz/slow_2.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
@@ -597,7 +597,7 @@ TEAM_CRIP = DarkRP.createJob("Crip", {
     end
 })
 TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
-    color = Color(34, 85, 85, 255),
+    color = Color(0, 0, 255, 255),
     model = {"models/player/cripz/slow_1.mdl"},
     description = [[Fuck 12. Can base, raid and mug.]],
     weapons = {},
@@ -616,7 +616,7 @@ TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
     end
 })
 TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/LaNoire_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
     weapons = {},
@@ -635,7 +635,7 @@ TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
     end
 })
 TEAM_MAFIA = DarkRP.createJob("Mafia", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/LaNoire_Gray_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
     weapons = {},
@@ -654,7 +654,7 @@ TEAM_MAFIA = DarkRP.createJob("Mafia", {
     end
 })
 TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/plague_doktor/PLAYER_Plague_Doktor.mdl"},
     description = [[Heal up your comrades in a brawl. Can base, raid and mug.]],
     weapons = {"med_kit"},
@@ -673,7 +673,7 @@ TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
     end
 })
 TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/pd2_hoxton_p.mdl"},
     description = [[Raid houses at rapid speed. Can base, raid and mug. Donator ONLY]],
     weapons = {"pro_lockpick"},
@@ -696,7 +696,7 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/kuma/taliban_rpg.mdl"},
     description = [[Can blow up an entire city, but only once. May only advert terror once every 30 minutes. Donator ONLY]],
     weapons = {"m9k_suicide_bomb"},
@@ -724,7 +724,7 @@ TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/csgo/tr/professional/professional_varient_i.mdl"},
     description = [[Can kidnap anyone. May only advert kidnap once every 15 minutes. Donator ONLY]],
     weapons = {"weapon_leash_elastic"},
@@ -747,7 +747,7 @@ TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
-    color = Color(34, 85, 85, 255),
+    color = Color(255, 0, 0, 255),
     model = {"models/player/agent_47.mdl"},
     description = [[Most dangerous person in any room. Can base and raid. Donator ONLY]],
     weapons = {"m9k_intervention", "pro_lockpick"},
@@ -776,7 +776,7 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
 -- Manufacturing --
 
 TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/obese_male.mdl"},
     description = [[Mine bitcoins before it was cool. Can base.]],
     weapons = {},
@@ -790,7 +790,7 @@ TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     category = "Manufacturing"
 })
 TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/player/hostage/hostage_01.mdl"},
     description = [[Make fake money. Can base.]],
     weapons = {},
@@ -804,7 +804,7 @@ TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     category = "Manufacturing"
 })
 TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/player/anon/anon.mdl"},
     description = [[Get some chemist warehouse cough syrup and put it in a cup. Can base.]],
     weapons = {},
@@ -818,7 +818,7 @@ TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
     category = "Manufacturing"
 })
 TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/snoopdogg.mdl"},
     description = [[Sell some green at bankstown station. Can base.]],
     weapons = {"zwf_cable","zwf_shoptablet","zwf_wateringcan"},
@@ -832,7 +832,7 @@ TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
     category = "Manufacturing"
 })
 TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/player/spacesuit.mdl"},
     description = [[Snap off some tabs and give them to the street kids. Can base.]],
     weapons = {"swep_lsd_cellphone"},
@@ -846,7 +846,7 @@ TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
     category = "Manufacturing"
 })
 TEAM_METH_DEALER = DarkRP.createJob("Meth Dealer", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/bloocobalt/splinter cell/chemsuit_cod.mdl"},
     description = [[Become a gosford local. Can base.]],
     weapons = {"zmlab_extractor"},
@@ -863,7 +863,7 @@ TEAM_METH_DEALER = DarkRP.createJob("Meth Dealer", {
 -- Homeless --
 
 TEAM_MUTANT = DarkRP.createJob("Mutant", {
-    color = Color(34, 85, 85, 255),
+    color = Color(112, 112, 112, 255),
     model = {"models/player/charple.mdl"},
     description = [[Live in the sewers and shit yourself. KOS Outside the sewers.]],
     weapons = {"weapon_crowbar", "weapon_bugbait"},
@@ -883,7 +883,7 @@ TEAM_MUTANT = DarkRP.createJob("Mutant", {
     end
 })
 TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
-    color = Color(34, 85, 85, 255),
+    color = Color(112, 112, 112, 255),
     model = {"models/player/charple.mdl"},
     description = [[Live in the sewers and shit yourself. KOS Outside the sewers.]],
     weapons = {"weapon_crowbar", "weapon_bugbait"},
