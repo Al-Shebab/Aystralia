@@ -50,7 +50,9 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp01.mdl",
-                ranks = {},
+                ranks = {
+                    ["superadmin"] = true,
+                },
                 max = 2,
             },
             [4] = {
@@ -60,7 +62,7 @@ zwf.config.Shop = {
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp02.mdl",
                 ranks = {},
-                max = 2,
+                max = 4,
             },
             [5] = {
                 name = zwf.language.Shop["item_ventilator_title"],
