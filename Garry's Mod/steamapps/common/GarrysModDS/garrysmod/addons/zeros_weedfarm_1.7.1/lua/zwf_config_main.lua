@@ -54,12 +54,11 @@ zwf.config.UoL = "l"
 // If xAdmin or SAM is installed then this table will be ignored
 zwf.config.AdminRanks = {
     ["superadmin"] = true,
-    ["owner"] = true,
 }
 
 // Those job can sell weed and interact with the grow entities (Leave empty to allow everyone to sell weed)
 zwf.config.Jobs = {
-    [TEAM_ZWF_WEEDGROWER] = true,
+    [TEAM_WEED_DEALER] = true,
 }
 
 // What entities should have the player be the CPPI Owner (This allows them to move the entities via physgun)
@@ -93,7 +92,7 @@ zwf.config.CPPI = {
 
 // When changing to these jobs the script wont remove the players weed entities so he can continue growing weed later.
 zwf.config.StaffOnDuty = {
-    //[TEAM_STAFFONDUTY] = true
+    //[TEAM_STAFF_ON_DUTY] = true
 }
 
 zwf.config.Player = {
@@ -185,7 +184,7 @@ zwf.config.Wind = {
 
     // Do we want to spawn a wind entity on map load
     // *Note: This will make the plants move more realistically.
-    Enabled = true,
+    Enabled = false,
 
     // Some options for the wind entity
     //https://developer.valvesoftware.com/wiki/Env_wind

@@ -39,12 +39,11 @@ zmlab.config.SelectedLanguage = "en"
 // These Ranks are allowed do use the Chat Command  !savezmlab  which saves all the NPCs and DropOff Points
 zmlab.config.AdminRanks = {
 	["superadmin"] = true,
-	["owner"] = true,
 }
 
 // Here you can add all the Jobs that can sell Meth, Leave empty the table to allow everyone to sell meth
 zmlab.config.Jobs = {
-	[TEAM_ZMLAB_COOK] = true,
+	[TEAM_METH_DEALER] = true,
 }
 
 // Currency
@@ -171,12 +170,11 @@ zmlab.config.MethExtractorSWEP = {
 zmlab.config.Police = {
 
 	// Should the player get wanted once he sells meth?
-	WantedOnMethSell = true,
+	WantedOnMethSell = false,
 
 	// These jobs can get extra money if they destroy TransportCrates filled with meth and also get a Wanted notification once a player sells meth
 	Jobs = {
-		["Civil Protection"] = true,
-		["SWAT"] = true,
+		["SWAT"] = false,
 	},
 
 	// The money the police player receives (for destroying the TransportCrate) is the same amount the meth producer receives times this value
@@ -234,7 +232,7 @@ zmlab.config.MethBuyer = {
 	ShowEffect = true,
 
 	// What Sell mode do we want?
-	SellMode = 2,
+	SellMode = 1,
 	// 1 = Methcrates can be absorbed by Players and sold by the MethBuyer on use
 	// 2 = Methcrates cant be absorbed and the MethBuyer tells you a dropoff point instead (Palette Entity gets used here for easier transport)
 	// 3 = Methcrates can be absorbed and the MethBuyer tells you a dropoff point
@@ -243,10 +241,7 @@ zmlab.config.MethBuyer = {
 	// Sell Price per unit
 	// Examble: 1kg Meth = 7$ for a user Rank
 	SellRanks = {
-		["default"] = 5, // This value gets used if the players rank is not definied in the table
-		["user"] = 7,
-		["superadmin"] = 15,
-		["vip"] = 10,
+		["default"] = 15,
 	},
 }
 

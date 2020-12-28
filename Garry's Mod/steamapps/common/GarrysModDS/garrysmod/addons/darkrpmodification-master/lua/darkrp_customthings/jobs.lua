@@ -847,7 +847,7 @@ TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
 })
 TEAM_METH_DEALER = DarkRP.createJob("Meth Dealer", {
     color = Color(34, 85, 85, 255),
-    model = {"models/player/spacesuit.mdl"},
+    model = {"models/bloocobalt/splinter cell/chemsuit_cod.mdl"},
     description = [[Become a gosford local. Can base.]],
     weapons = {},
     command = "TEAM_METH_DEALER",
