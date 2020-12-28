@@ -831,7 +831,7 @@ TEAM_WEED_DEALER = DarkRP.createJob("Weed Dealer", {
     candemote = false,
     category = "Manufacturing"
 })
-TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
+TEAM_LSD_DEALER = DarkRP.createJob("LSD Cook", {
     color = Color(196, 115, 0, 255),
     model = {"models/player/spacesuit.mdl"},
     description = [[Snap off some tabs and give them to the street kids. Can base.]],
@@ -845,7 +845,7 @@ TEAM_LSD_DEALER = DarkRP.createJob("LSD Dealer", {
     candemote = false,
     category = "Manufacturing"
 })
-TEAM_METH_DEALER = DarkRP.createJob("Meth Dealer", {
+TEAM_METH_DEALER = DarkRP.createJob("Meth Cook", {
     color = Color(196, 115, 0, 255),
     model = {"models/bloocobalt/splinter cell/chemsuit_cod.mdl"},
     description = [[Become a gosford local. Can base.]],
