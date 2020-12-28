@@ -75,7 +75,7 @@ DarkRP.createCategory{
     startExpanded = true,
     color = Color(0, 107, 0, 255),
     canSee = function(ply) return true end,
-    sortOrder = 7,fault.
+    sortOrder = 7,
 }
 DarkRP.createCategory{
     name = "Donator Classes",
