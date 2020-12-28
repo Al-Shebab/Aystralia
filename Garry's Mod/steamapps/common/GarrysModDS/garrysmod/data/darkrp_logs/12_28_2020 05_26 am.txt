@@ -1,0 +1,8 @@
+Mon Dec 28 05:26:52 2020	Jacktank (STEAM_0:1:51163583) has joined the game
+Mon Dec 28 05:26:53 2020	jacktank (STEAM_0:1:51163583) spawned
+Mon Dec 28 05:27:36 2020	jacktank (STEAM_0:1:51163583) spawned SENT darkrp_moneypot
+Mon Dec 28 05:27:40 2020	jacktank (STEAM_0:1:51163583) spawned SENT casinokit_blackjack
+Mon Dec 28 05:28:09 2020	jacktank (STEAM_0:1:51163583) spawned
+Mon Dec 28 05:28:46 2020	jacktank (STEAM_0:1:51163583): /rpname UK Musket Warrior
+Mon Dec 28 05:29:22 2020	UK Musket Warrior (STEAM_0:1:51163583) spawned
+Mon Dec 28 05:32:11 2020	UK Musket Warrior (STEAM_0:1:51163583) spawned

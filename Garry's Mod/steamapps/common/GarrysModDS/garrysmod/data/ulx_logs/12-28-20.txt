@@ -314,3 +314,22 @@
 [03:46:22] brexit<STEAM_0:1:121087763> spawned sent durgz_water
 [03:46:36] Dropped "jacktank" from server<STEAM_0:1:51163583>
 [03:46:41] Dropped "brexit" from server<STEAM_0:1:121087763>
+[04:44:22] Client "brexit" connected.
+[04:45:05] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 43 seconds).
+[04:48:25] brexit: /setmoney brexit 20000
+[04:49:05] brexit<STEAM_0:1:121087763> spawned sent zwf_buyer_npc
+[04:56:35] brexit: !setmoney brexit 500000
+[04:56:40] brexit: !setmoney brexit 50000
+[04:59:35] brexit: !setmoney 50000
+
+
+
+[05:23:50] New map: rp_downtown_v4c
+[05:25:04] Client "Jacktank" connected.
+[05:26:52] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 108 seconds).
+[05:27:36] jacktank<STEAM_0:1:51163583> spawned sent darkrp_moneypot
+[05:27:40] jacktank<STEAM_0:1:51163583> spawned sent casinokit_blackjack
+[05:28:46] jacktank: /rpname UK Musket Warrior
+[05:29:29] Client "Feeyne" connected.
+[05:32:17] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/props_c17/fence01b.mdl
+[05:32:44] UK Musket Warrior<STEAM_0:1:51163583> spawned model models/props_borealis/mooring_cleat01.mdl

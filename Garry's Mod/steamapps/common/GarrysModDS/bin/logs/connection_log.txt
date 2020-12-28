@@ -768,3 +768,118 @@
 [2020-12-28 03:03:12] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
 [2020-12-28 03:03:12] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
 [2020-12-28 03:03:12] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:18:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:18:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:18:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:18:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:18:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:18:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:25] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:25] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:25] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:29] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:29] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:29] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:30] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:30] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:30] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:31] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:31] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:31] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:31] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:31] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:31] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:33] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:33] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:33] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:34] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:41] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:41] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:41] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:42] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:42] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:42] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:44] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:44] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:44] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:44] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:44] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:44] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:47] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:47] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:47] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:20:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:20:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:21:25] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:21:25] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:21:25] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+
+
+[2020-12-28 05:23:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:23:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-28 05:23:49] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
