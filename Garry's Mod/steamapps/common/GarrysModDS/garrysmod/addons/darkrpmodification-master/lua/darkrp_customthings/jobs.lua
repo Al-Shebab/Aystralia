@@ -256,7 +256,7 @@ TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["m9k_ammo_pistol"] = 120
+        ["pistol"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -280,7 +280,7 @@ TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
     chief = true,
     NeedToChangeFrom = TEAM_POLICE_OFFICER,
     ammo = {
-        ["m9k_ammo_smg"] = 120
+        ["smg1"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -327,7 +327,7 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["m9k_ammo_ar2"] = 120
+        ["ar2"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -349,7 +349,7 @@ TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["m9k_ammo_ar2"] = 400
+        ["ar2"] = 400
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -375,7 +375,7 @@ TEAM_SWAT_MARKSMAN = DarkRP.createJob("Swat Marksman", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["m9k_ammo_sniper_rounds"] = 40
+        ["SniperRound"] = 40
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -402,7 +402,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
     category = "Government",
     medic = true,
     ammo = {
-        ["m9k_ammo_ar2"] = 120
+        ["ar2"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -428,7 +428,7 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["m9k_ammo_ar2"] = 120
+        ["ar2"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -454,7 +454,7 @@ TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["m9k_ammo_pistol"] = 120
+        ["pistol"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -517,7 +517,7 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     candemote = true,
     category = "Illegal",
     ammo = {
-        ["m9k_ammo_sniper_rounds"] = 20
+        ["SniperRound"] = 20
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
@@ -746,7 +746,7 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
     candemote = false,
     category = "Illegal",
     ammo = {
-        ["m9k_ammo_sniper_rounds"] = 100
+        ["SniperRound"] = 100
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
