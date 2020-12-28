@@ -914,3 +914,9 @@
 [23:11:27] Al Shebab<STEAM_0:0:103364981> spawned sent lean_buyer
 [23:15:41] Client "brexit" connected.
 [23:16:04] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 23 seconds).
+
+
+
+[23:38:05] New map: rp_downtown_v4c
+[23:38:48] Client "Al Shebab" connected.
+[23:41:28] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 160 seconds).
