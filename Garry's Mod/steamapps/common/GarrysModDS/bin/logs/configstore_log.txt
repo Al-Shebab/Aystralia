@@ -761,3 +761,7 @@
 
 [2020-12-28 05:23:49] Loaded store 'install' from 'C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
 [2020-12-28 05:23:51] Flushed store 'install' to 'C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+
+
+[2020-12-28 05:59:33] Loaded store 'install' from 'C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2020-12-28 05:59:35] Flushed store 'install' to 'C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
