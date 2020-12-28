@@ -7,12 +7,12 @@ ghomes.percentageOnSell = 0.9 -- 90% of original price
 ghomes.emulate2Dmode = false -- replaces the 3D panels (the ones floating in the air) by the same menu but opening in a derma window when you press F2 on any door of your house.
 
 ghomes.enabledhousenames = true -- enable the 3d panel with the house name
-ghomes.maxpropertiesperuser = 3; -- it will prevent the guy from buying all the houses
-ghomes.alarmprice = 2000 -- the price the guy will pay in the DLC if he want to enable the alarm that will be triggered when someone lockpicks one of his doors
+ghomes.maxpropertiesperuser = 1; -- it will prevent the guy from buying all the houses
+ghomes.alarmprice = 200000 -- the price the guy will pay in the DLC if he want to enable the alarm that will be triggered when someone lockpicks one of his doors
 ghomes.cooldownspawnafterrobbery = 60 * 5 -- in seconds, (60*5 = 5mins) don't let the player spawn in any house that was robbed less than x secs ago, it also applies for a battering ram used on a door
 ghomes.autosellafternotconnecterforxdays = 3600 * 24 * 30 -- in seconds,(0 => it never expires)  if the player doesn't connect for x seconds then his houses get auto sold so anyone else can get them
 -- ^^^^ --> 3600 * 24 * 30<-- ^^^^ for 30 days
-ghomes.maxdaysrent = 182 -- in days, don't put it > 182 because renting it 182 days = purchase price (you can still change it in the NPC config menu tho)
+ghomes.maxdaysrent = 1 -- in days, don't put it > 182 because renting it 182 days = purchase price (you can still change it in the NPC config menu tho)
 
 --[[
 
@@ -21,7 +21,7 @@ ghomes.maxdaysrent = 182 -- in days, don't put it > 182 because renting it 182 d
 																		^^ 6 hours here ^^
 ]]
 
-ghomes.shouldsaveprops = true -- set it to false to disable the prop saving
+ghomes.shouldsaveprops = false -- set it to false to disable the prop saving
 ghomes.delayPropSaving = 60 -- save the props every X seconds
 
 
