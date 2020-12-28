@@ -8,7 +8,7 @@ local CFG = {}
 ]]
 
 CFG.CarDealerJobs = {
-	["Car dealer"] = true,
+	["Car dealer"] = false,
 }
 
 -- How much different job cars can be out at the same time 
@@ -18,14 +18,14 @@ CFG.MaxJobCars = 1
 
 -- 0 = MPH
 -- 1 = KMH
-CFG.TypeOfSpeed = 0
+CFG.TypeOfSpeed = 1
 
 CFG.IsCarLockedWhenSpawned = false
-CFG.IsPlayerInVehicleWhenSpawned = false
+CFG.IsPlayerInVehicleWhenSpawned = true
 
-CFG.PercentageWhenResell = 10
+CFG.PercentageWhenResell = 60
 
-CFG.PriceUnderglow = 1000
+CFG.PriceUnderglow = 250000
 -- how much does the seller get if a car is bought with underglow?
 CFG.CommissionUnderglow = 50
 
@@ -39,7 +39,7 @@ CFG.MaxFactureSpawnable = 1
 CFG.KeyToStopUnderglow = KEY_L
 CFG.KeyToReturnIntoGarage = KEY_G
 
-CFG.MaxSpawnedVehicles = 2
+CFG.MaxSpawnedVehicles = 1
 
 --[[
 	People in the Car dealer job have access to more customisation than the other players.
@@ -74,33 +74,22 @@ CFG.AdminUserGroups = {
 	[ "superadmin" ] = true,
 }
 
---[[
-EXAMPLES OF CUSTOM CHECKS :
-Copy/paste them at the end of the file if you want to use them.
-
 AdvCarDealer.CustomChecks = {
-	[ "VIP only" ]	= {
-		func = function( ply ) return ply:GetUserGroup() == "VIP" end,
+	[ "Donator" ]	= {
+		func = function(ply) return CLIENT or
+   			 table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+		end,
 		messageCatalog = "This vehicle is limited to VIP users.",
 		onlyOnceBuying = false, -- if the check has to be done only once buying, or also when the player try to take it from the garage.
 	}
 }
 
 AdvCarDealer.CustomChecks = {
-	[ "Police only" ]	= {
+	[ "Police" ]	= {
 		func = function( ply ) return ply:isCP() end,
 		messageCatalog = "This vehicle is limited to police.",
 		onlyOnceBuying = false,
 	}
 }
-
-AdvCarDealer.CustomChecks = {
-	[ "Team name only" ]	= {
-		func = function( ply ) return team.GetName( ply:Team() ) == "Team Name" end,
-		messageCatalog = "This vehicle is limited to Team name.",
-		onlyOnceBuying = false,
-	}
-}
---]]
 
 AdvCarDealer.Config = CFG
