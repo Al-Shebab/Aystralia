@@ -265,8 +265,6 @@ zwf.config.Shop = {
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
                 ranks = {},
             },
-
-
             [5] = {
                 nutid = 5,
                 desc = zwf.language.Shop["item_nutrition05_desc"],
