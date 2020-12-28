@@ -19,10 +19,10 @@ zwf.config.NPC = {
     DynamicBuyRate = true,
 
     // The maximal buy rate in % (Set to 100 for now no price change)
-    MaxBuyRate = 125,
+    MaxBuyRate = 250,
 
     // The minimal buy rate in % (Set to 100 for now no price change)
-    MinBuyRate = 95,
+    MinBuyRate = 170,
 
     // The interval at which the sell price changes in second ( Set to -1 to disable the refresh timer)
     RefreshRate = 600,
