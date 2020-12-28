@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "sycreations/car_dealership/tablet_screen"
+	"$color2" "[ 1 1 1 ]" //meltiply the value of the screen texture. 0 makes 100% black. 1 makes it normal
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+}

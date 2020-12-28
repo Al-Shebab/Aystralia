@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "sycreations/commons/blank"
+	"$color2" "[ .2 .2 .2 ]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	
+	
+	$phong 1
+
+        $phongexponent 50
+        $phongboost 1
+        $phongtint "[0.4 0.4 0.4]"
+        $phongfresnelranges "[4 4 4]"
+	
+	
+		$rimlight               1
+		$rimlightexponent       0.25
+		$rimlightboost          4	
+		
+}
