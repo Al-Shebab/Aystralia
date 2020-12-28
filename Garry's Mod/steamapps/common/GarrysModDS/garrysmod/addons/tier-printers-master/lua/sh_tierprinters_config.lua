@@ -119,52 +119,52 @@ TierPrinters.Config.Tiers = {
         }, 
         [2] = { 
                 color = Color(200,0,0), 
-                price = 3000,
+                price = 5000,
                 amount = 2000
         }, 
         [3] = { 
                 color = Color(200,100,0), 
-                price = 5000,
+                price = 7000,
                 amount = 3000
         }, 
         [4] = { 
                 color = Color(200,200,0), 
-                price = 7000,
+                price = 10000,
                 amount = 4000
         }, 
         [5] = { 
                 color = Color(100,200,0), 
-                price = 900,
+                price = 20000,
                 amount = 5000,
                 limit = 40000
         }, 
         [6] = { 
                 color = Color(0,200,0), 
-                price = 10000,
+                price = 30000,
                 amount = 6000,
                 limit = 50000
         }, 
         [7] = { 
                 color = Color(0,200,100), 
-                price = 14000,
+                price = 40000,
                 amount = 7000,
                 limit = 55000
         }, 
         [8] = { 
                 color = Color(0,200,200), 
-                price = 20000,
+                price = 75000,
                 amount = 8000,
                 limit = 65000
         }, 
         [9] = { 
                 color = Color(0,100,200), 
-                price = 40000,
+                price = 90000,
                 amount = 9000,
                 limit = 120000
         }, 
         [10] = { 
                 color = Color(0,0,200), 
-                price = 50000,
+                price = 150000,
                 amount = 10000,
                 limit = 500000
         }, 

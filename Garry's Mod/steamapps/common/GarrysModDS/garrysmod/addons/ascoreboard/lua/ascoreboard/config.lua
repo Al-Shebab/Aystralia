@@ -88,7 +88,7 @@ aScoreboard.UseLink 				= true
 aScoreboard.UseHTMLRules 			= true
 
 ----Link to a rules.txt file if the above is set to false, if not link to your normal rules webpage
-aScoreboard.RulesLink 				= "http://www.kdgaming.org/forum/m/26772030/viewthread/16064378-must-read-darkrp-rules"
+aScoreboard.RulesLink 				= "https://bit.ly/3mQVodO"
 
 aScoreboard.Rules 	= [[
 --General Rules
@@ -166,7 +166,7 @@ aScoreboard.DataValues["Team"] 			= 	{
 											}	
 
 if ATAG then 								--aTags support
-aScoreboard.DataValues["aTag"] 			= 	{		
+aScoreboard.DataValues["Rank"] 			= 	{		
 												Enabled = true,
 												Pos = function(length) return length - 280 end,	
 												Col = function(ply) 

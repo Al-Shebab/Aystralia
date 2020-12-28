@@ -111,7 +111,7 @@ function PANEL:Init()
 	end
 
 	if aScoreboard.WebsiteLink != "" then 
-		self:AddCat("Website", aScoreboard.Icons.WebButton, self.Website)
+		self:AddCat("Discord", aScoreboard.Icons.WebButton, self.Website)
 	end
 	
 	if aScoreboard.DonationLink != "" then
