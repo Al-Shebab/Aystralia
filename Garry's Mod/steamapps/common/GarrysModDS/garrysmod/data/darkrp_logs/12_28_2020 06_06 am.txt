@@ -1,0 +1,18 @@
+Mon Dec 28 06:06:49 2020	Jacktank (STEAM_0:1:51163583) has joined the game
+Mon Dec 28 06:06:49 2020	UK Musket Warrior (STEAM_0:1:51163583) spawned
+Mon Dec 28 06:07:16 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Mon Dec 28 06:07:16 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Dec 28 06:07:52 2020	brexit (STEAM_0:1:121087763) has joined the game
+Mon Dec 28 06:07:52 2020	brexit (STEAM_0:1:121087763) spawned
+Mon Dec 28 06:08:16 2020	Al Shebab (STEAM_0:0:103364981): 
+Mon Dec 28 06:10:10 2020	UK Musket Warrior was killed by brexit with a m9k_improvised_explosive
+Mon Dec 28 06:10:13 2020	UK Musket Warrior (STEAM_0:1:51163583) spawned
+Mon Dec 28 06:10:57 2020	brexit was killed by Himself with a suicide trick
+Mon Dec 28 06:10:57 2020	UK Musket Warrior was killed by brexit with a m9k_oribital_cannon
+Mon Dec 28 06:11:00 2020	brexit (STEAM_0:1:121087763) spawned
+Mon Dec 28 06:11:00 2020	UK Musket Warrior (STEAM_0:1:51163583) spawned
+Mon Dec 28 06:11:53 2020	Al Shebab was killed by brexit with a m9k_oribital_cannon
+Mon Dec 28 06:11:53 2020	UK Musket Warrior was killed by brexit with a m9k_oribital_cannon
+Mon Dec 28 06:11:56 2020	UK Musket Warrior (STEAM_0:1:51163583) spawned
+Mon Dec 28 06:11:57 2020	UK Musket Warrior (STEAM_0:1:51163583): !menu
+Mon Dec 28 06:12:27 2020	Al Shebab (STEAM_0:0:103364981) spawned
