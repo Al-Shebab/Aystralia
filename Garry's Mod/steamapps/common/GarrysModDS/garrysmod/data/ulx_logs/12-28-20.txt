@@ -665,3 +665,14 @@
 [07:12:40] Dropped "Red Hairline" from server<STEAM_0:1:51163583>
 [07:12:43] Client "Jacktank" connected.
 [07:13:26] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 43 seconds).
+[07:14:48] Client "brexit" connected.
+[07:15:05] Red Hairline: /advert raid
+[07:15:18] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 30 seconds).
+[07:16:06] Joshua Mitchelle: Wjat
+[07:16:07] Joshua Mitchelle: type
+[07:16:11] Red Hairline: drive by
+[07:16:15] Red Hairline: these cunts
+[07:16:19] Red Hairline<STEAM_0:1:51163583> spawned vehicle models/tdmcars/350z.mdl
+[07:16:20] Joshua Mitchelle: look at me
+[07:16:26] Red Hairline: yea
+[07:16:26] Joshua Mitchelle killed Red Hairline using player

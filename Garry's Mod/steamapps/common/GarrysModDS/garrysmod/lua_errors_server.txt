@@ -12580,3 +12580,29 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
      4. fn - lua/permaprops/sv_lib.lua:233
       5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
 
+
+[ulx-master] addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expected, got userdata)
+  1. format - [C]:-1
+   2. unknown - addons/ulx-master/lua/ulx/log.lua:480
+    3. gsub - [C]:-1
+     4. fancyLogAdmin - addons/ulx-master/lua/ulx/log.lua:450
+      5. call - addons/ulx-master/lua/ulx/modules/sh/money.lua:44
+       6. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+        7. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+         8. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+          9. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+           10. unknown - lua/includes/modules/concommand.lua:54
+
+
+[ulx-master] addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expected, got userdata)
+  1. format - [C]:-1
+   2. unknown - addons/ulx-master/lua/ulx/log.lua:480
+    3. gsub - [C]:-1
+     4. fancyLogAdmin - addons/ulx-master/lua/ulx/log.lua:450
+      5. call - addons/ulx-master/lua/ulx/modules/sh/money.lua:44
+       6. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+        7. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+         8. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+          9. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+           10. unknown - lua/includes/modules/concommand.lua:54
+
