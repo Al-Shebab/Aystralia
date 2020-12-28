@@ -86,7 +86,9 @@ zwf.config.Shop = {
                 price = 1000,
                 class = "zwf_pot",
                 model = "models/zerochain/props_weedfarm/zwf_pot01.mdl",
-                ranks = {},
+                ranks = {
+                    ["superadmin"] = true,
+                },
                 max = 2,
             },
             [8] = {
@@ -96,7 +98,7 @@ zwf.config.Shop = {
                 class = "zwf_pot_hydro",
                 model = "models/zerochain/props_weedfarm/zwf_pot02.mdl",
                 ranks = {},
-                max = 2,
+                max = 4,
             },
             [9] = {
                 name = zwf.language.Shop["item_soil_title"],
