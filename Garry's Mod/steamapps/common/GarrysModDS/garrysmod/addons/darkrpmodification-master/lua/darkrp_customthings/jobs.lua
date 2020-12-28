@@ -803,20 +803,6 @@ TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     candemote = false,
     category = "Manufacturing"
 })
-TEAM_SMOOTHIE_MAKER = DarkRP.createJob("Smoothie Maker", {
-    color = Color(34, 85, 85, 255),
-    model = {"models/fortnite/female/dj_bop.mdl"},
-    description = [[Blend up some fruits and sell them for 10x what they are worth at Coles. Can base.]],
-    weapons = {},
-    command = "TEAM_SMOOTHIE_MAKER",
-    max = 2,
-    salary = 2500,
-    admin = 0,
-    vote = false,
-    hasLicense = false,
-    candemote = false,
-    category = "Manufacturing"
-})
 TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/anon/anon.mdl"},
