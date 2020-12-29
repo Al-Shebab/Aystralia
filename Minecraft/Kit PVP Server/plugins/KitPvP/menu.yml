@@ -66,29 +66,8 @@ Menu:
         - 'player: kp kit Tank'
         Right-Click:
         - 'player: kp preview Tank'
+    
     '13':
-      Name: '&a&lSoldier Kit'
-      Material: ARROW
-      Lore:
-      - '&6Ability: &75 Guns'
-      - ' '
-      - '&7- Iron Sword'
-      - '&7- Bow'
-      - '&7- 32 Arrows'
-      - '&7- Fishing Rod'
-      - '&7- Leather Helmet'
-      - '&7- Chain Chestplate'
-      - '&7- Leather Leggings'
-      - '&7- Leather Boots'
-      - ' '
-      - '&eLeft-click to select.'
-      - '&eRight-click to preview.'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Soldier'
-        Right-Click:
-        - 'player: kp preview Soldier'
-    '14':
       Name: '&a&lBomber Kit'
       Material: TNT
       Lore:
@@ -108,46 +87,8 @@ Menu:
         - 'player: kp kit Bomber'
         Right-Click:
         - 'player: kp preview Bomber'
-    '15':
-      Name: '&a&lKangaroo Kit'
-      Material: SADDLE
-      Lore:
-      - '&6Ability: &73 Launchers'
-      - ' '
-      - '&7- Iron Sword'
-      - '&7- Leather Helmet'
-      - '&7- Leather Chestplate'
-      - '&7- Leather Leggings'
-      - '&7- Leather Boots'
-      - ' '
-      - '&eLeft-click to select.'
-      - '&eRight-click to preview.'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Kangaroo'
-        Right-Click:
-        - 'player: kp preview Kangaroo'
-    '16':
-      Name: '&a&lWarper Kit'
-      Material: ENDER_PEARL
-      Lore:
-      - '&6Ability: &73 Teleporters'
-      - ' '
-      - '&7- Iron Sword'
-      - '&7- 4 Ender Pearls'
-      - '&7- Leather Helmet'
-      - '&7- Leather Chestplate'
-      - '&7- Leather Leggings'
-      - '&7- Leather Boots'
-      - ' '
-      - '&eLeft-click to select.'
-      - '&eRight-click to preview.'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Warper'
-        Right-Click:
-        - 'player: kp preview Warper'
-    '19':
+    
+    '14':
       Name: '&a&lWitch Kit'
       Material: POTION
       Slot: 19
@@ -167,26 +108,8 @@ Menu:
         - 'player: kp kit Witch'
         Right-Click:
         - 'player: kp preview Witch'
-    '20':
-      Name: '&a&lNinja Kit'
-      Material: NETHER_STAR
-      Lore:
-      - '&6Ability: &73 Vanish Stars'
-      - ' '
-      - '&7- Wooden Sword'
-      - '&7- Leather Helmet'
-      - '&7- Chain Chestplate'
-      - '&7- Chain Leggings'
-      - '&7- Chain Boots'
-      - ' '
-      - '&eLeft-click to select.'
-      - '&eRight-click to preview.'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Ninja'
-        Right-Click:
-        - 'player: kp preview Ninja'
-    '21':
+    
+    '15':
       Name: '&a&lThunderbolt Kit'
       Material: BLAZE_POWDER
       Lore:
@@ -205,45 +128,8 @@ Menu:
         - 'player: kp kit Thunderbolt'
         Right-Click:
         - 'player: kp preview Thunderbolt'
-    '22':
-      Name: '&a&lVampire Kit'
-      Material: FERMENTED_SPIDER_EYE
-      Lore:
-      - '&6Ability: &73 Blood Suckers'
-      - ' '
-      - '&7- Iron Sword'
-      - '&7- Leather Helmet'
-      - '&7- Leather Chestplate'
-      - '&7- Leather Leggings'
-      - '&7- Leather Boots'
-      - ' '
-      - '&eLeft-click to select.'
-      - '&eRight-click to preview.'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Vampire'
-        Right-Click:
-        - 'player: kp preview Vampire'
-    '23':
-      Name: '&a&lRhino Kit'
-      Material: DIAMOND_HELMET
-      Lore:
-      - '&6Ability: &73 Rhino Charges'
-      - ' '
-      - '&7- Iron Sword'
-      - '&7- Diamond Helmet'
-      - '&7- Leather Chestplate'
-      - '&7- Leather Leggings'
-      - '&7- Leather Boots'
-      - ' '
-      - '&eLeft-click to select.'
-      - '&eRight-click to preview.'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Rhino'
-        Right-Click:
-        - 'player: kp preview Rhino'
-    '24':
+    
+    '16':
       Name: '&a&lTrickster Kit'
       Material: EGG
       Lore:
@@ -262,21 +148,7 @@ Menu:
         - 'player: kp kit Trickster'
         Right-Click:
         - 'player: kp preview Trickster'
-    '25':
-      Name: '&a&lExample Kit'
-      Material: WOOD_SWORD
-      Lore:
-      - '&7This is the example of a custom'
-      - '&7kit you can create using KitPvP.'
-      - '&7You can make a custom kit using your'
-      - '&7own inventory, potion effects, and enchantments'
-      - '&7using /kp create kitName. Make sure to add it to'
-      - '&7the menu.yml!'
-      Commands:
-        Left-Click:
-        - 'player: kp kit Example'
-        Right-Click:
-        - 'player: kp preview Example'
+   
     '40':
       Name: '&c&lClose'
       Material: BARRIER
