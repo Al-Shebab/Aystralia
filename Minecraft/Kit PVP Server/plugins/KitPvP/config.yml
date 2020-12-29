@@ -126,3 +126,12 @@ Other:
 Spawn:
   Time: 5
   Enabled: true
+Arenas:
+  world:
+    '1':
+      World: world
+      X: -281
+      Y: 85
+      Z: 80
+      Yaw: -111.75021
+      Pitch: 14.100035

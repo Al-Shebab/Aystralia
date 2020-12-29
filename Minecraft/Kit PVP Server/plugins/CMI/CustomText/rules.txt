@@ -10,7 +10,7 @@
 &68. &eRespect all Players
 &69. &eObey Staff There the Law
 &610. &eNo Racist or Sexist Remarks.
-&611. &eNo Mods/Hacks
+&611. &eNo Mods/Hacks (you cant appeal for an unban)
 &612. &eNo Full Caps Messages
 &614. &eNo 1x1 Towers
 &613. &eNo Builds Near Spawn
