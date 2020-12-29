@@ -845,3 +845,11 @@
 [2020-12-28 08:14:19] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-fra1.cm.steampowered.com:27034, WebSocket)
 [2020-12-28 08:14:19] [1,3] ConnectionCompleted() (155.133.250.146:27034, WebSocket)
 [2020-12-28 08:14:19] [1,3] RecvMsgClientLogOnResponse() : [A:1:2212594697:16183] 'OK'
+
+
+[2020-12-28 16:52:48] Log session started
+[2020-12-28 16:52:48] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-28 16:52:48] [0,0] Server says 50% of connections should be websockets, we rolled 77 - using UDP as default.
+[2020-12-28 16:52:48] [1,2] Connect() starting connection (eNetQOSLevelMedium, 155.133.250.147:27021, UDP)
+[2020-12-28 16:52:48] [1,2] ConnectionCompleted() (155.133.250.147:27021, UDP)
+[2020-12-28 16:52:49] [1,2] RecvMsgClientLogOnResponse() : [A:1:3317362697:16185] 'OK'
