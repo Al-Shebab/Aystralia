@@ -107,3 +107,10 @@
 
 [2020-12-28 18:18:44] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
 [2020-12-28 21:46:29] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-29 05:01:49] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-12-29 05:14:54] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-12-29 05:55:48] [AppID 4000] CAPIJobStoreUserStats::BInit() - no stats found, aborting

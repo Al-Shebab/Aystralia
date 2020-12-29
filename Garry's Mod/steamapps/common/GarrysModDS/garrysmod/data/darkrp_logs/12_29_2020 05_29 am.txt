@@ -1,0 +1,26 @@
+Tue Dec 29 05:29:24 2020	Jacktank (STEAM_0:1:51163583) has joined the game
+Tue Dec 29 05:29:25 2020	Red Hairline (STEAM_0:1:51163583) spawned
+Tue Dec 29 05:30:17 2020	Red Hairline (STEAM_0:1:51163583): Al shebab
+Tue Dec 29 05:30:32 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Tue Dec 29 05:30:33 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Dec 29 05:30:34 2020	Red Hairline (STEAM_0:1:51163583): target al shebab
+Tue Dec 29 05:30:39 2020	Red Hairline (STEAM_0:1:51163583): Red hairline
+Tue Dec 29 05:30:55 2020	Red Hairline (STEAM_0:1:51163583): 
+Tue Dec 29 05:31:06 2020	Red Hairline (STEAM_0:1:51163583): 
+Tue Dec 29 05:31:14 2020	Red Hairline (STEAM_0:1:51163583): target al shebab
+Tue Dec 29 05:31:23 2020	Red Hairline (STEAM_0:1:51163583): target al shebab
+Tue Dec 29 05:31:36 2020	Red Hairline (STEAM_0:1:51163583): target al shebab
+Tue Dec 29 05:31:57 2020	Red Hairline (STEAM_0:1:51163583): target al shebab
+Tue Dec 29 05:32:06 2020	Red Hairline (STEAM_0:1:51163583): 
+Tue Dec 29 05:32:22 2020	Red Hairline (STEAM_0:1:51163583): 
+Tue Dec 29 05:32:38 2020	Al Shebab (STEAM_0:0:103364981): !menu
+Tue Dec 29 05:33:34 2020	Red Hairline was killed by Himself with a suicide trick
+Tue Dec 29 05:33:34 2020	Al Shebab was killed by Red Hairline with a gmod_wire_explosive
+Tue Dec 29 05:33:39 2020	Red Hairline (STEAM_0:1:51163583) spawned
+Tue Dec 29 05:35:18 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Dec 29 05:35:45 2020	Red Hairline (STEAM_0:1:51163583): Target Al Shebab
+Tue Dec 29 05:37:09 2020	Red Hairline (STEAM_0:1:51163583): Target Al Shebab
+Tue Dec 29 05:40:05 2020	Red Hairline (STEAM_0:1:51163583): Target Al Shebab
+Tue Dec 29 05:40:26 2020	Red Hairline (STEAM_0:1:51163583) spawned
+Tue Dec 29 05:54:02 2020	Red Hairline (STEAM_0:1:51163583): /rpname SawCon
+Tue Dec 29 05:55:48 2020	SawCon (STEAM_0:1:51163583) disconnected
