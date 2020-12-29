@@ -1821,3 +1821,68 @@
 [2020-12-28 07:05:46] [3,3] LogOff()
 [2020-12-28 07:05:46] [2,3] AsyncDisconnect()
 [2020-12-28 07:05:46] [2,3] Log session ended
+
+
+[2020-12-28 08:11:42] Log session started
+[2020-12-28 08:11:42] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-28 08:11:43] [0,0] Server says 50% of connections should be websockets, we rolled 15 - using WebSockets as default.
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27029) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27030) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27031) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27039) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27029) results: 20.9926ms + load 62.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27028) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27030) results: 49.0185ms + load 63.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm3-fra1.cm.steampowered.com:27031) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27031) results: 48.8281ms + load 64.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27039) results: 49.0540ms + load 63.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27031) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27034) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27028) results: 36.3528ms + load 63.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm1-fra1.cm.steampowered.com:27034) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm3-fra1.cm.steampowered.com:27031) results: 36.3389ms + load 64.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm4-fra1.cm.steampowered.com:27026) starting...
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27031) results: 15.5417ms + load 64.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27034) results: 15.8352ms + load 63.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() stopping early for good host (cm2-fra1.cm.steampowered.com:27034)
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm1-fra1.cm.steampowered.com:27034) results: 48.7701ms + load 64.0000
+[2020-12-28 08:11:43] [0,0] PingWebSocketCM() (cm4-fra1.cm.steampowered.com:27026) results: 48.9280ms + load 63.0000
+[2020-12-28 08:11:43] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-fra1.cm.steampowered.com:27034, WebSocket)
+[2020-12-28 08:11:43] [1,3] ConnectionCompleted() (155.133.250.146:27034, WebSocket)
+[2020-12-28 08:11:43] [1,3] RecvMsgClientLogOnResponse() : [A:1:2209717253:16183] 'OK'
+[2020-12-28 08:11:51] [3,3] LogOff()
+[2020-12-28 08:11:51] [2,3] AsyncDisconnect()
+[2020-12-28 08:11:51] [2,3] Log session ended
+
+
+[2020-12-28 16:48:53] Log session started
+[2020-12-28 16:48:53] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-28 16:48:53] [0,0] Server says 50% of connections should be websockets, we rolled 14 - using WebSockets as default.
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27031) starting...
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27034) starting...
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27029) starting...
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27028) starting...
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm5-fra1.cm.steampowered.com:27029) results: 14.0927ms + load 44.0000
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() stopping early for good host (cm5-fra1.cm.steampowered.com:27029)
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27028) results: 48.4996ms + load 44.0000
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27034) results: 48.8868ms + load 45.0000
+[2020-12-28 16:48:53] [0,0] PingWebSocketCM() (cm2-fra1.cm.steampowered.com:27031) results: 62.8858ms + load 45.0000
+[2020-12-28 16:48:53] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm5-fra1.cm.steampowered.com:27029, WebSocket)
+[2020-12-28 16:48:53] [1,3] ConnectionCompleted() (155.133.250.147:27029, WebSocket)
+[2020-12-28 16:48:54] [1,3] RecvMsgClientLogOnResponse() : [A:1:3253511177:16185] 'OK'
+[2020-12-28 16:49:02] [3,3] LogOff()
+[2020-12-28 16:49:02] [2,3] AsyncDisconnect()
+[2020-12-28 16:49:02] [2,3] Log session ended
+
+
+[2020-12-28 16:49:21] Log session started
+[2020-12-28 16:49:21] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-28 16:49:21] [0,0] Server says 50% of connections should be websockets, we rolled 4 - using WebSockets as default.
+[2020-12-28 16:49:21] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27031) results: 62.0000ms + load 45.0000 (28 seconds ago)
+[2020-12-28 16:49:21] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27028) results: 48.0000ms + load 44.0000 (28 seconds ago)
+[2020-12-28 16:49:21] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27034) results: 48.0000ms + load 45.0000 (28 seconds ago)
+[2020-12-28 16:49:21] [0,0] Existing WebSocket ping data (cm5-fra1.cm.steampowered.com:27029) results: 14.0000ms + load 44.0000 (28 seconds ago)
+[2020-12-28 16:49:21] [0,0] PingWebSocketCM() stopping early for good host (cm5-fra1.cm.steampowered.com:27029)
+[2020-12-28 16:49:21] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm5-fra1.cm.steampowered.com:27029, WebSocket)
+[2020-12-28 16:49:22] [1,3] ConnectionCompleted() (155.133.250.147:27029, WebSocket)
+[2020-12-28 16:49:22] [1,3] RecvMsgClientLogOnResponse() : [A:1:3253839881:16185] 'OK'
