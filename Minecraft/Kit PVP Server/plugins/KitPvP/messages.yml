@@ -5,7 +5,7 @@ Messages:
     Player: '%prefix% &cYou must be a player to perform this action.'
   Commands:
     Create: '%prefix% &7The kit &b%kit% &7has successfully been created.'
-    Delete: '%prefix% &7The kit &b%kit% &7has successfully been deleted.'
+    Delete: '%prefix% &7The kit &b%kit% &7has successfully been destroyed.'
     Kit: '%prefix% &7You have selected kit &b%kit%&7.'
     KitOther: '%prefix% &7Attempting to give &b%player% &7kit &b%kit%&7.'
     Kits: '%prefix% &bKits (case-sensitive): &7%kits%'

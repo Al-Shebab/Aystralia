@@ -4,9 +4,9 @@
 
 Levels:
   Options:
-    Experience-To-Level-Up: 100
-    Experience-Given-On-Kill: 15
-    Experience-Taken-On-Death: 5
+    Experience-To-Level-Up: 125
+    Experience-Given-On-Kill: 35
+    Experience-Taken-On-Death: 15
     Minimum-Level: 0
     Maximum-Level: 100
   Commands-On-Level-Up: []
