@@ -833,3 +833,43 @@
 
 
 [08:14:19] New map: rp_downtown_v4c
+
+
+
+[16:52:48] New map: rp_downtown_v4c
+[16:55:21] Client "Al Shebab" connected.
+[16:56:16] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 55 seconds).
+[17:01:35] Al Shebab<STEAM_0:0:103364981> spawned sent gattachment
+[17:01:40] Al Shebab<STEAM_0:0:103364981> spawned sent lean_barrel
+[17:01:41] Al Shebab<STEAM_0:0:103364981> spawned sent lean_buyer
+[17:01:43] Al Shebab<STEAM_0:0:103364981> spawned sent lean_crate
+[17:01:49] Al Shebab<STEAM_0:0:103364981> spawned sent sent_lsd_paper
+[17:02:04] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[17:06:59] Client "Al Shebab" connected.
+[17:07:35] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 36 seconds).
+[17:08:05] Al Shebab<STEAM_0:0:103364981> spawned sent armory
+[17:08:08] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_bitminer_1
+[17:08:10] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_extra_fuel_tank
+[17:08:13] Al Shebab<STEAM_0:0:103364981> spawned sent wheel_of_luck
+[17:08:15] Al Shebab<STEAM_0:0:103364981> spawned sent wol_reel
+[17:08:16] Al Shebab<STEAM_0:0:103364981> spawned sent double_or_nothing
+[17:08:20] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_garage
+[17:08:21] Al Shebab<STEAM_0:0:103364981> spawned sent cardealer_stand
+[17:08:25] Al Shebab<STEAM_0:0:103364981> spawned sent casinokit_blackjack
+[17:08:27] Al Shebab<STEAM_0:0:103364981> spawned sent darkrp_moneypot
+[17:08:29] Al Shebab<STEAM_0:0:103364981> spawned sent decal
+[17:08:32] Al Shebab<STEAM_0:0:103364981> spawned sent durgz_aspirin
+[17:08:35] Al Shebab<STEAM_0:0:103364981> spawned sent gmt_instrument_piano
+[17:08:38] Al Shebab<STEAM_0:0:103364981> spawned sent itemstore_box_huge
+[17:08:41] Al Shebab<STEAM_0:0:103364981> spawned sent sent_lsd_paper
+[17:08:43] Al Shebab<STEAM_0:0:103364981> spawned sent lean_barrel
+[17:08:45] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[17:08:47] Al Shebab<STEAM_0:0:103364981> spawned sent keypad
+[17:08:48] Al Shebab<STEAM_0:0:103364981> spawned sent gattachment
+[17:08:50] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_battery
+[17:08:53] Al Shebab<STEAM_0:0:103364981> spawned sent tierp_printer
+[17:08:57] Al Shebab<STEAM_0:0:103364981> spawned sent zwf_bong03_ent
+[17:09:01] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_filter
+[17:09:04] Al Shebab<STEAM_0:0:103364981> spawned sent ghomes_seller
+[17:13:15] Al Shebab: as
+[17:13:54] Al Shebab: !gsettings
