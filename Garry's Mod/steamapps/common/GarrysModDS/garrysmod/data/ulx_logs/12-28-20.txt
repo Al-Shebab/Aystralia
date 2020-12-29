@@ -873,3 +873,11 @@
 [17:09:04] Al Shebab<STEAM_0:0:103364981> spawned sent ghomes_seller
 [17:13:15] Al Shebab: as
 [17:13:54] Al Shebab: !gsettings
+
+
+
+[17:38:30] New map: rp_downtown_v4c
+[17:38:34] Client "Al Shebab" connected.
+[17:39:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 27 seconds).
+[17:42:18] Al Shebab: !gsettings
+[17:43:53] Al Shebab: !gsettings
