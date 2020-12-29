@@ -1,0 +1,69 @@
+[00:49:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:49:05] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[00:49:05] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:49:05] [Worker-Main-5/INFO]: Loaded 7 recipes
+[00:49:06] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[00:49:06] [Server thread/INFO]: Loading properties
+[00:49:06] [Server thread/INFO]: This server is running Paper version git-Paper-324 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[00:49:07] [Server thread/INFO]: Debug logging is disabled
+[00:49:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:49:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:49:07] [Server thread/INFO]: Default game type: SURVIVAL
+[00:49:07] [Server thread/INFO]: Generating keypair
+[00:49:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:49:07] [Server thread/INFO]: Using default channel type
+[00:49:08] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:49:12] [Server thread/WARN]: Legacy plugin BedwarsRel v1.3.6 does not specify an api-version.
+[00:49:12] [Server thread/INFO]: [BedwarsRel] Loading BedwarsRel v1.3.6
+[00:49:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:49:12] [Server thread/INFO]: Preparing level "world"
+[00:49:16] [Server thread/WARN]: Unable to find spawn biome
+[00:49:16] [Server thread/WARN]: Unable to find spawn biome
+[00:49:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:49:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[00:49:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:49:17] [Server thread/INFO]: Time elapsed: 393 ms
+[00:49:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:49:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[00:49:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:49:17] [Server thread/INFO]: Time elapsed: 163 ms
+[00:49:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:49:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[00:49:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:49:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[00:49:18] [Server thread/INFO]: Time elapsed: 564 ms
+[00:49:18] [Server thread/INFO]: [BedwarsRel] Enabling BedwarsRel v1.3.6*
+[00:49:19] [Server thread/INFO]: [BedWars] Couldn't find version related class io.github.bedwarsrel.com.v1_16_R3.TNTSheepRegister
+[00:49:19] [Server thread/WARN]: java.lang.NullPointerException
+[00:49:19] [Server thread/WARN]: 	at io.github.bedwarsrel.shop.Specials.TNTSheepListener.<init>(TNTSheepListener.java:29)
+[00:49:19] [Server thread/WARN]: 	at io.github.bedwarsrel.shop.Specials.SpecialItem.loadSpecials(SpecialItem.java:38)
+[00:49:19] [Server thread/WARN]: 	at io.github.bedwarsrel.BedwarsRel.registerListener(BedwarsRel.java:897)
+[00:49:19] [Server thread/WARN]: 	at io.github.bedwarsrel.BedwarsRel.onEnable(BedwarsRel.java:791)
+[00:49:19] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[00:49:19] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380)
+[00:49:19] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483)
+[00:49:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501)
+[00:49:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415)
+[00:49:19] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:469)
+[00:49:19] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239)
+[00:49:19] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:936)
+[00:49:19] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:178)
+[00:49:19] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[00:49:19] [Server thread/INFO]: Running delayed init tasks
+[00:49:19] [Server thread/INFO]: Done (12.743s)! For help, type "help"
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_271
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[00:49:19] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[00:49:19] [Server thread/INFO]: Timings Reset
