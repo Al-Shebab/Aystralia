@@ -12,16 +12,16 @@ Decals.cfg.Color = Color( 0, 178, 238 )
 Decals.cfg.RenderDistance = 5000
 
 -- Command to save decals (do not add ! or /)
-Decals.cfg.ChatCommand = "savedecals"
+Decals.cfg.ChatCommand = "savegdecals"
 
 -- Command to duplicate decals (do not add ! or /)
-Decals.cfg.CopyCommand = "copydecal"
+Decals.cfg.CopyCommand = "copygdecal"
 
 -- Command to remove the current decal (do not add ! or /)
-Decals.cfg.RemoveCommand = "removedecal"
+Decals.cfg.RemoveCommand = "removegdecal"
 
 -- Command to clear all decals (do not add ! or /)
-Decals.cfg.ClearCommand = "cleardecals"
+Decals.cfg.ClearCommand = "cleargdecals"
 
 -- Default image (what the decal is by default)
 Decals.cfg.DefaultImage = "https://vignette.wikia.nocookie.net/tf2freakshow/images/3/36/GMod_Logo.png"

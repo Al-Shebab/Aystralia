@@ -91,7 +91,7 @@ TEAM_DJ = DarkRP.createJob("DJ", {
 })
 TEAM_VAPIST = DarkRP.createJob("Vapist", {
     color = Color(74, 255, 69, 255),
-    model = {"models/snoopdogg.mdl"},
+    model = {"models/player/daftpunk/daft_gold.mdl"},
     description = [[Vape Nation. Can not raid/mug. Can not use weapons.]],
     weapons = {"weapon_vape_juicy"},
     command = "TEAM_VAPIST",
