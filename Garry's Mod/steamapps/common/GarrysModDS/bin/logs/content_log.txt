@@ -1941,3 +1941,81 @@
 
 [2020-12-28 17:36:03] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
 [2020-12-28 17:36:04] Got 85 content servers from directory
+
+
+[2020-12-28 17:38:29] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-28 17:38:30] Got 85 content servers from directory
+
+
+[2020-12-29 00:33:15] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 00:33:16] Got 85 content servers from directory
+[2020-12-29 00:33:17] AppID 4000 update changed : Running,
+[2020-12-29 00:33:17] AppID 4000 update changed : Running,Reconfiguring,
+[2020-12-29 00:33:17] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 77,  using it
+[2020-12-29 00:33:18] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (5/0)
+[2020-12-29 00:33:18] Created download interface of type 'SteamCache' (7) to host cache23-fra1.steamcontent.com (cache23-fra1.steamcontent.com)
+[2020-12-29 00:33:18] Created download interface of type 'SteamCache' (7) to host cache53-fra1.steamcontent.com (cache53-fra1.steamcontent.com)
+[2020-12-29 00:33:18] Created download interface of type 'SteamCache' (7) to host cache68-fra1.steamcontent.com (cache68-fra1.steamcontent.com)
+[2020-12-29 00:33:18] Enabling ipv6 dual-stack
+[2020-12-29 00:33:18] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2020-12-29 00:33:18] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-29 00:33:18] Created ipv4-only http client
+[2020-12-29 00:33:18] HTTP (SteamCache,299) - cache23-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache23-fra1.steamcontent.com): AuthenticateDepotID (4000) - Success!
+[2020-12-29 00:33:18] HTTP (SteamCache,299) - cache23-fra1.steamcontent.com (155.133.250.36:443 / 155.133.250.36:443, host: cache23-fra1.steamcontent.com): cache23-fra1.steamcontent.com/depot/4000/manifest/7174174913718651764/5 - received 0 (Invalid) HTTP response
+[2020-12-29 00:33:18] HTTP (SteamCache,299) - cache23-fra1.steamcontent.com (155.133.250.36:443 / 155.133.250.36:443, host: cache23-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4000
+[2020-12-29 00:33:18] HTTP (SteamCache,299) - cache23-fra1.steamcontent.com (155.133.250.36:443 / 155.133.250.36:443, host: cache23-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-29 00:33:18] HTTP (SteamCache,299) - cache23-fra1.steamcontent.com (155.133.250.36:443 / 155.133.250.36:443, host: cache23-fra1.steamcontent.com): Closing connection
+[2020-12-29 00:33:18] Created download interface of type 'SteamCache' (7) to host cache44-fra1.steamcontent.com (cache44-fra1.steamcontent.com)
+[2020-12-29 00:33:18] HTTP (SteamCache,158) - cache53-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache53-fra1.steamcontent.com): AuthenticateDepotID (4000) - Success!
+[2020-12-29 00:33:18] HTTP (SteamCache,158) - cache53-fra1.steamcontent.com (155.133.250.99:443 / 155.133.250.99:443, host: cache53-fra1.steamcontent.com): cache53-fra1.steamcontent.com/depot/4000/manifest/7174174913718651764/5 - received 0 (Invalid) HTTP response
+[2020-12-29 00:33:18] HTTP (SteamCache,158) - cache53-fra1.steamcontent.com (155.133.250.99:443 / 155.133.250.99:443, host: cache53-fra1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4000
+[2020-12-29 00:33:18] HTTP (SteamCache,158) - cache53-fra1.steamcontent.com (155.133.250.99:443 / 155.133.250.99:443, host: cache53-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-29 00:33:18] HTTP (SteamCache,158) - cache53-fra1.steamcontent.com (155.133.250.99:443 / 155.133.250.99:443, host: cache53-fra1.steamcontent.com): Closing connection
+[2020-12-29 00:33:18] Created download interface of type 'SteamCache' (7) to host cache39-fra1.steamcontent.com (cache39-fra1.steamcontent.com)
+[2020-12-29 00:33:18] HTTP (SteamCache,149) - cache44-fra1.steamcontent.com (155.133.250.55:443 / 155.133.250.55:443, host: cache44-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2020-12-29 00:33:18] HTTP (SteamCache,149) - cache44-fra1.steamcontent.com (155.133.250.55:443 / 155.133.250.55:443, host: cache44-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-29 00:33:18] HTTP (SteamCache,204) - cache39-fra1.steamcontent.com (155.133.250.50:443 / 155.133.250.50:443, host: cache39-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2020-12-29 00:33:18] HTTP (SteamCache,204) - cache39-fra1.steamcontent.com (155.133.250.50:443 / 155.133.250.50:443, host: cache39-fra1.steamcontent.com): Disabling dual-stack for this connection
+[2020-12-29 00:33:18] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-12-29 00:33:18] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): AuthenticateDepotID (4000) - Success!
+[2020-12-29 00:33:18] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): cache68-fra1.steamcontent.com/depot/4000/manifest/7174174913718651764/5 - received 200 (OK) HTTP response
+[2020-12-29 00:33:18] AppID 4000 update changed : Running,
+[2020-12-29 00:33:18] AppID 4000 update changed : Running,Preallocating,
+[2020-12-29 00:33:18] AppID 4000 update changed : Running,
+[2020-12-29 00:33:18] AppID 4000 update started : download 0/7779024, store 0/0, reuse 0/0, delta 0/0, stage 0/48087354 
+[2020-12-29 00:33:18] AppID 4000 update changed : Running,Downloading,
+[2020-12-29 00:33:18] AppID 4000 update changed : Running,Downloading,Staging,
+[2020-12-29 00:33:18] Downloading 49 chunks from depot 4000
+[2020-12-29 00:33:18] HTTP (SteamCache,149) - cache44-fra1.steamcontent.com (155.133.250.55:443 / 155.133.250.55:443, host: cache44-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-12-29 00:33:18] HTTP (SteamCache,149) - cache44-fra1.steamcontent.com (155.133.250.55:443 / 155.133.250.55:443, host: cache44-fra1.steamcontent.com): AuthenticateDepotID (4000) - Success!
+[2020-12-29 00:33:18] HTTP (SteamCache,204) - cache39-fra1.steamcontent.com (155.133.250.50:443 / 155.133.250.50:443, host: cache39-fra1.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2020-12-29 00:33:18] HTTP (SteamCache,204) - cache39-fra1.steamcontent.com (155.133.250.50:443 / 155.133.250.50:443, host: cache39-fra1.steamcontent.com): AuthenticateDepotID (4000) - Success!
+[2020-12-29 00:33:20] AppID 4000 update changed : Running,
+[2020-12-29 00:33:20] AppID 4000 update changed : Running,Committing,
+[2020-12-29 00:33:20] AppID 4000 file commit : 2 updated, 0 moved, 0 deleted
+[2020-12-29 00:33:20] AppID 4000 update changed : Running,
+[2020-12-29 00:33:20] AppID 4000 update changed : None
+[2020-12-29 00:33:21] AppID 4000 update changed : Running,
+[2020-12-29 00:33:21] AppID 4000 update changed : Running,Reconfiguring,
+[2020-12-29 00:33:21] AppID 4000 update changed : Running,
+[2020-12-29 00:33:23] AppID 4000 update started : download 0/0, store 0/0, reuse 0/0, delta 0/0, stage 0/0 
+[2020-12-29 00:33:23] AppID 4000 has no changes, active: 4000 (8358564942330412869),4000 (4174641390190538908),4000 (2245266697743520990),4000 (695695470355403720),4000 (9062542756382893211),4000 (5024634558251499918),4000 (957545079426200402),4000 (2342072148406587808),4000 (7920653157843197922),4000 (7868187879513785058),4000 (2396435893468429967),4000 (2969067994618487161),4000 (7508936734016441404),4000 (540371725865338478),4000 (7174174913718651764),4000 (6679519380771513930),4000 (4443602172949555397),4000 (6782105036560892788), target: 4000 (8358564942330412869),4000 (4174641390190538908),4000 (2245266697743520990),4000 (695695470355403720),4000 (9062542756382893211),4000 (5024634558251499918),4000 (957545079426200402),4000 (2342072148406587808),4000 (7920653157843197922),4000 (7868187879513785058),4000 (2396435893468429967),4000 (2969067994618487161),4000 (7508936734016441404),4000 (540371725865338478),4000 (7174174913718651764),4000 (6679519380771513930),4000 (4443602172949555397),4000 (6782105036560892788),
+[2020-12-29 00:33:23] AppID 4000 update changed : Running,Committing,
+[2020-12-29 00:33:23] AppID 4000 file commit : 0 updated, 0 moved, 0 deleted
+[2020-12-29 00:33:23] AppID 4000 update changed : Running,
+[2020-12-29 00:33:23] AppID 4000 update changed : None
+[2020-12-29 00:33:30] HTTP (SteamCache,204) - cache39-fra1.steamcontent.com (155.133.250.50:443 / 155.133.250.50:443, host: cache39-fra1.steamcontent.com): Closing connection
+[2020-12-29 00:33:30] HTTP (SteamCache,149) - cache44-fra1.steamcontent.com (155.133.250.55:443 / 155.133.250.55:443, host: cache44-fra1.steamcontent.com): Closing connection
+[2020-12-29 00:33:30] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): Closing connection
+
+
+[2020-12-29 00:35:40] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 00:35:41] Got 85 content servers from directory
+
+
+[2020-12-29 00:38:53] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 00:38:54] Got 85 content servers from directory
+
+
+[2020-12-29 00:41:12] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 00:41:13] Got 85 content servers from directory

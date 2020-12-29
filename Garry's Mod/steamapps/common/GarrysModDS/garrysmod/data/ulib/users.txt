@@ -1,32 +1,32 @@
 "STEAM_0:1:121087763"	
 {
-	"allow"	
-	{
-	}
 	"name"	"brexit"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:0:103364981"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Al Shebab"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:1:51163583"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Jacktank"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"superadmin"
