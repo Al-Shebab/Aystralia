@@ -881,3 +881,16 @@
 [17:39:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 27 seconds).
 [17:42:18] Al Shebab: !gsettings
 [17:43:53] Al Shebab: !gsettings
+[17:49:24] Al Shebab: !savedecals
+[17:50:07] Al Shebab<STEAM_0:0:103364981> spawned model models/props/cs_militia/table_kitchen.mdl
+[17:50:20] Al Shebab<STEAM_0:0:103364981> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[18:03:35] Al Shebab<STEAM_0:0:103364981> spawned model models/props/cs_militia/table_kitchen.mdl
+[18:07:56] Al Shebab<STEAM_0:0:103364981> spawned sent decal
+[18:08:37] Al Shebab: !savedecals
+[18:11:58] Al Shebab gave $1000000 to Themself
+[18:12:00] Al Shebab gave $10000000 to Themself
+[18:13:01] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/bug_veyronss.mdl
+[18:18:44] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[20:26:21] Client "brexit" connected.
+[20:27:40] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 79 seconds).
+[21:46:29] Dropped "brexit" from server<STEAM_0:1:121087763>

@@ -1,0 +1,13 @@
+[00:35:40] New map: rp_downtown_v4c
+
+
+
+[00:41:12] New map: rp_downtown_v4c
+[00:46:39] Client "Al Shebab" connected.
+[00:48:53] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 134 seconds).
+[04:50:55] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/sl65amg.mdl
+[04:50:59] Al Shebab: sl65amgtdm 
+[04:52:28] Client "brexit" connected.
+[04:52:58] Client "Jacktank" connected.
+[04:53:28] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 60 seconds).
+[04:54:55] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 117 seconds).
