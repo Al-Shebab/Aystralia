@@ -162,7 +162,7 @@ TEAM_SECURITY_GUARD = DarkRP.createJob("Security Guard", {
     candemote = false,
     category = "Services"
 })
-TEAM_DOCTER = DarkRP.createJob("Docter", {
+TEAM_DOCTER = DarkRP.createJob("Doctor", {
     color = Color(80, 221, 204, 255),
     model = {"models/player/Group03m/male_01.mdl"},
     description = [[Paid good money to help out others in need. Can not raid/mug. Can not use weapons.]],
