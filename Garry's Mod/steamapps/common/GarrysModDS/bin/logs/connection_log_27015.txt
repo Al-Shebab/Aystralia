@@ -826,3 +826,22 @@
 [2020-12-28 07:08:09] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm5-fra1.cm.steampowered.com:27029, WebSocket)
 [2020-12-28 07:08:09] [1,3] ConnectionCompleted() (155.133.250.147:27029, WebSocket)
 [2020-12-28 07:08:09] [1,3] RecvMsgClientLogOnResponse() : [A:1:1152704513:16183] 'OK'
+
+
+[2020-12-28 08:14:19] Log session started
+[2020-12-28 08:14:19] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-28 08:14:19] [0,0] Server says 50% of connections should be websockets, we rolled 36 - using WebSockets as default.
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27039) results: 49.0000ms + load 63.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm5-fra1.cm.steampowered.com:27030) results: 49.0000ms + load 63.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm4-fra1.cm.steampowered.com:27026) results: 48.0000ms + load 63.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm5-fra1.cm.steampowered.com:27031) results: 48.0000ms + load 64.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm1-fra1.cm.steampowered.com:27034) results: 48.0000ms + load 64.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27028) results: 36.0000ms + load 63.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm3-fra1.cm.steampowered.com:27031) results: 36.0000ms + load 64.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm5-fra1.cm.steampowered.com:27029) results: 20.0000ms + load 62.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27034) results: 15.0000ms + load 63.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] Existing WebSocket ping data (cm2-fra1.cm.steampowered.com:27031) results: 15.0000ms + load 64.0000 (156 seconds ago)
+[2020-12-28 08:14:19] [0,0] PingWebSocketCM() stopping early for good host (cm2-fra1.cm.steampowered.com:27034)
+[2020-12-28 08:14:19] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-fra1.cm.steampowered.com:27034, WebSocket)
+[2020-12-28 08:14:19] [1,3] ConnectionCompleted() (155.133.250.146:27034, WebSocket)
+[2020-12-28 08:14:19] [1,3] RecvMsgClientLogOnResponse() : [A:1:2212594697:16183] 'OK'

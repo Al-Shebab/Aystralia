@@ -1,12 +1,12 @@
 "STEAM_0:1:121087763"	
 {
+	"name"	"brexit"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"name"	"brexit"
 	"group"	"superadmin"
 }
 "STEAM_0:0:103364981"	

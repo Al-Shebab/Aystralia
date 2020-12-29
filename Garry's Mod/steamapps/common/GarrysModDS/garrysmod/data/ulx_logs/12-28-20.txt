@@ -676,3 +676,160 @@
 [07:16:20] Joshua Mitchelle: look at me
 [07:16:26] Red Hairline: yea
 [07:16:26] Joshua Mitchelle killed Red Hairline using player
+[07:17:09] Joshua Mitchelle killed Trenbolone using player
+[07:17:17] Red Hairline: /advert raid
+[07:17:21] Red Hairline killed Al Shebab using player
+[07:17:31] Al Shebab killed Trenbolone using m9k_gdcwa_matador_90mm
+[07:17:34] Joshua Mitchelle killed Al Shebab using player
+[07:17:40] Al Shebab: !god tre
+[07:17:40] Al Shebab granted god mode upon Trenbolone
+[07:17:45] Joshua Mitchelle: !menu
+[07:17:49] Al Shebab: !god she
+[07:17:49] Al Shebab granted god mode upon Themself
+[07:17:56] Joshua Mitchelle added Themself to group trial-moderator
+[07:18:06] Joshua Mitchelle: !menu
+[07:18:18] Dropped "Joshua Mitchelle" from server<STEAM_0:1:121087763>
+[07:18:19] Client "brexit" connected.
+[07:18:47] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 28 seconds).
+[07:20:06] Joshua Mitchelle: !blogs
+[07:20:36] Al Shebab added Joshua Mitchelle to group staff-manager
+[07:20:47] Al Shebab removed all access rights from Joshua Mitchelle
+[07:20:50] Joshua Mitchelle: !
+[07:20:51] Al Shebab added Joshua Mitchelle to group superadmin
+[07:21:00] Joshua Mitchelle: !blogs
+[07:25:48] Joshua Mitchelle: !menu
+[07:25:58] Joshua Mitchelle added Themself to group moderator
+[07:26:02] Joshua Mitchelle: !blogs
+[07:26:10] Joshua Mitchelle: !blogs
+[07:26:30] Red Hairline: !menu
+[07:26:38] Red Hairline added Joshua Mitchelle to group trial-moderator
+[07:26:41] Joshua Mitchelle: !blogs
+[07:26:47] Red Hairline added Joshua Mitchelle to group senior-moderator
+[07:26:50] Joshua Mitchelle: !blogs
+[07:26:56] Red Hairline added Joshua Mitchelle to group admin
+[07:26:58] Joshua Mitchelle: !blogs
+[07:27:07] Red Hairline added Joshua Mitchelle to group senior-admin
+[07:27:10] Joshua Mitchelle: !blogs
+[07:27:19] Red Hairline added Joshua Mitchelle to group superadmin
+[07:27:23] Joshua Mitchelle: !blogs
+[07:30:00] Joshua Mitchelle: !menu
+[07:30:20] Joshua Mitchelle: !blogs
+[07:31:51] Red Hairline: !bring al
+[07:31:51] Red Hairline brought Al Shebab
+[07:32:31] Joshua Mitchelle: !menu
+[07:32:43] Joshua Mitchelle: !blogs
+[07:34:56] Joshua Mitchelle: !menu
+[07:35:06] Joshua Mitchelle added Themself to group trial-moderator
+[07:35:09] Joshua Mitchelle: !blogs
+[07:35:22] Red Hairline: !menu
+[07:36:13] Red Hairline: !menu
+[07:36:19] Red Hairline added Joshua Mitchelle to group donator-trial-moderator
+[07:36:22] Joshua Mitchelle: !blogs
+[07:36:31] Red Hairline added Joshua Mitchelle to group donator-senior-moderator
+[07:36:32] Joshua Mitchelle: !menu
+[07:37:38] Red Hairline added Joshua Mitchelle to group superadmin
+[07:37:40] Al Shebab added Joshua Mitchelle to group superadmin
+[07:37:48] Joshua Mitchelle: !rpname brexit
+[07:37:53] Joshua Mitchelle: /rpname brexit
+[07:39:17] brexit<STEAM_0:1:121087763> spawned sent decal
+[07:40:18] brexit<STEAM_0:1:121087763> spawned sent decal
+[07:41:12] brexit<STEAM_0:1:121087763> spawned sent decal
+[07:42:17] brexit<STEAM_0:1:121087763> spawned sent decal
+[07:44:59] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/fer_lafer.mdl
+[07:45:16] Red Hairline<STEAM_0:1:51163583> spawned vehicle models/tdmcars/gtaiv_airtug.mdl
+[07:46:29] brexit<STEAM_0:1:121087763> spawned sent decal
+[07:47:21] brexit: !savedecals
+[07:47:33] brexit killed Red Hairline using m9k_m202_rocket
+[07:47:39] Dropped "Trenbolone" from server<STEAM_0:1:448363181>
+[07:48:13] Red Hairline suicided!
+[07:48:13] Red Hairline killed brexit using m9k_suicide_bomb
+[07:48:34] brexit: !menu
+[07:48:51] Red Hairline suicided!
+[07:48:51] Red Hairline killed brexit using m9k_suicide_bomb
+[07:49:49] Al Shebab killed brexit using player
+[07:49:51] Red Hairline: !hp ^ 10000000
+[07:49:51] Red Hairline set the hp for Themself to 10000000
+[07:50:06] Red Hairline: !hp ^ 100000000000000000000000000
+[07:50:08] Al Shebab killed brexit using m9k_davy_crockett_explo
+[07:50:08] Al Shebab killed Red Hairline using m9k_davy_crockett_explo
+[07:50:12] brexit killed Red Hairline using m9k_released_poison
+[07:50:12] Al Shebab killed brexit using m9k_davy_crockett_explo
+[07:50:47] brexit killed Red Hairline using m9k_gdcwa_matador_90mm
+[07:53:17] Red Hairline: /hp brexit -1
+[07:53:25] Red Hairline: !hp jacktank -1
+[07:53:30] Red Hairline: !hp red -1
+[07:54:35] brexit: !3p
+[07:54:46] Red Hairline killed brexit using m9k_damascus
+[07:54:50] brexit: @ admin
+[07:54:50] brexit to admins: admin
+[07:54:55] Red Hairline: @admin wtf h
+[07:54:55] Red Hairline to admins: admin wtf h
+[07:55:25] (TEAM) brexit: !3p
+[07:55:34] brexit suicided!
+[07:55:43] Red Hairline suicided!
+[07:55:43] Red Hairline killed brexit using m9k_suicide_bomb
+[07:56:03] brexit killed Red Hairline using m9k_fists
+[07:56:06] Red Hairline killed brexit using m9k_thrown_sticky_grenade
+[07:56:30] Al Shebab: !kick bre
+[07:56:30] Al Shebab kicked brexit
+[07:56:30] Dropped "brexit" from server<STEAM_0:1:121087763>
+[07:56:49] Client "brexit" connected.
+[07:57:16] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 27 seconds).
+[07:57:35] brexit: !kick ^
+[07:57:35] brexit kicked Themself
+[07:57:35] Dropped "brexit" from server<STEAM_0:1:121087763>
+[07:57:39] Client "brexit" connected.
+[07:57:43] Red Hairline: !menu
+[07:57:50] Red Hairline mauled Al Shebab
+[07:57:50] Al Shebab was killed by npc_fastzombie
+[07:58:07] Red Hairline: !respawn al
+[07:58:07] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 28 seconds).
+[07:58:37] brexit killed Red Hairline using player
+[07:58:45] brexit killed Al Shebab using player
+[07:58:48] Al Shebab: !god
+[07:58:48] Al Shebab granted god mode upon Themself
+[07:58:51] Red Hairline killed brexit using npc_satchel
+[07:59:00] Red Hairline: !menu
+[07:59:02] (TEAM) brexit: !ban jack retard 
+[07:59:34] Red Hairline<STEAM_0:1:51163583> spawned sent prop_thumper
+[07:59:34] Dropped "brexit" from server<STEAM_0:1:121087763>
+[07:59:49] Red Hairline<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[07:59:55] Red Hairline<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[08:00:07] Red Hairline<STEAM_0:1:51163583> spawned sent combine_mine
+[08:00:11] Red Hairline<STEAM_0:1:51163583> spawned sent combine_mine
+[08:00:31] Red Hairline<STEAM_0:1:51163583> spawned sent combine_mine
+[08:00:37] Red Hairline<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[08:00:42] Red Hairline<STEAM_0:1:51163583> spawned sent grenade_helicopter
+[08:01:11] Red Hairline<STEAM_0:1:51163583> spawned sent item_healthkit
+[08:01:13] Red Hairline<STEAM_0:1:51163583> spawned sent item_healthcharger
+[08:01:54] Red Hairline<STEAM_0:1:51163583> spawned sent m9k_ammo_40mm_single
+[08:02:14] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_pcp
+[08:02:15] Red Hairline: REEEED! MENOS TRES
+[08:02:19] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_pcp
+[08:02:20] Red Hairline: MY ARMS ARE LIKE FUCKING CANNONS
+[08:02:20] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_pcp
+[08:02:21] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_pcp
+[08:02:21] Red Hairline: REEEED! MENOS TRES
+[08:02:22] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:02:24] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:02:39] Red Hairline: HELLO. MY NAME IS JARED AND I LIKE FOOTBALL.
+[08:02:41] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:02:53] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_weed
+[08:02:54] Red Hairline: FFFFFFUUUUUUUUUUUUUUUUUU
+[08:02:57] Red Hairline was killed by entityflame
+[08:03:04] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_weed
+[08:03:07] Red Hairline: My eyes aren't red. What are you talking about?
+[08:03:09] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_weed
+[08:03:10] Red Hairline: duuuuuuuuuuudeeeeeeee
+[08:03:11] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_weed
+[08:03:12] Red Hairline: does any1 hav goldfish!?1 i want goldfish plz thx
+[08:03:14] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:03:15] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:03:16] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:03:16] Red Hairline<STEAM_0:1:51163583> spawned sent durgz_water
+[08:05:10] Red Hairline: 1208588
+[08:11:25] Dropped "Red Hairline" from server<STEAM_0:1:51163583>
+
+
+
+[08:14:19] New map: rp_downtown_v4c
