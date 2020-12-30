@@ -66,31 +66,6 @@ function ENT:Initialize()
 			angle = Angle(0,0,0),
 			pluggedInEntity = nil
 		},
-		[6] = {
-			position = Vector(-19.5 + (11.15 * 2),4.8,-22.2),
-			angle = Angle(0,0,0),
-			pluggedInEntity = nil
-		},
-		[7] = { ---13.85
-			position = Vector(-25 + (11.15 * 3),8.5,-22.2),
-			angle = Angle(0,0,0),
-			pluggedInEntity = nil
-		},
-		[8] = {
-			position = Vector(-19.5 + (11.15 * 3),4.8,-22.2),
-			angle = Angle(0,0,0),
-			pluggedInEntity = nil
-		},
-		[9] = { ---13.85
-			position = Vector(-25 + (11.15 * 4),8.5,-22.2),
-			angle = Angle(0,0,0),
-			pluggedInEntity = nil
-		},
-		[10] = {
-			position = Vector(-19.5 + (11.15 * 4),4.8,-22.2),
-			angle = Angle(0,0,0),
-			pluggedInEntity = nil
-		}
 	}
 
 	//Max amount of watt to output (in KW)
@@ -163,7 +138,7 @@ function ENT:TickSolarCheck()
 			return 
 		end
 
-		local availablePower = 100 * totalActiveSolarPanels
+		local availablePower = 200 * totalActiveSolarPanels
 		local requiredPower = 0
 		for k ,v in pairs(connectedBitminers) do
 			if v.miningState then
