@@ -1782,3 +1782,43 @@ Jacktank|5|STEAM_0:1:51163583
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[crash_menu] addons/crash_menu/lua/autorun/sh_cmenu.lua:287: attempt to call field 'CrashDetect' (a nil value)
+  1. fn - addons/crash_menu/lua/autorun/sh_cmenu.lua:287
+   2. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[crash_menu] addons/crash_menu/lua/autorun/sh_cmenu.lua:287: attempt to call field 'CrashDetect' (a nil value)
+  1. fn - addons/crash_menu/lua/autorun/sh_cmenu.lua:287
+   2. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[crash_menu] addons/crash_menu/lua/autorun/sh_cmenu.lua:287: attempt to call field 'CrashDetect' (a nil value)
+  1. fn - addons/crash_menu/lua/autorun/sh_cmenu.lua:287
+   2. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[crash_menu] addons/crash_menu/lua/autorun/sh_cmenu.lua:287: attempt to call field 'CrashDetect' (a nil value)
+  1. fn - addons/crash_menu/lua/autorun/sh_cmenu.lua:287
+   2. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[crash_menu] addons/crash_menu/lua/autorun/sh_cmenu.lua:287: attempt to call field 'CrashDetect' (a nil value)
+  1. fn - addons/crash_menu/lua/autorun/sh_cmenu.lua:287
+   2. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+

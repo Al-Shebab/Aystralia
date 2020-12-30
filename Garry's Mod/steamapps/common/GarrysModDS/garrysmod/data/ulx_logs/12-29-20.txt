@@ -422,3 +422,15 @@
 [17:37:02] New map: rp_downtown_v4c
 [17:37:10] Client "Al Shebab" connected.
 [17:37:51] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 41 seconds).
+
+
+
+[17:50:55] New map: rp_downtown_v4c
+[17:51:52] Client "Al Shebab" connected.
+[17:52:21] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 29 seconds).
+
+
+
+[18:08:43] New map: rp_downtown_v4c
+[18:08:50] Client "Al Shebab" connected.
+[18:08:56] Client "Al Shebab" connected.

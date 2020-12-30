@@ -2132,3 +2132,48 @@
 [2020-12-29 17:36:14] [3,2] LogOff()
 [2020-12-29 17:36:14] [2,2] AsyncDisconnect()
 [2020-12-29 17:36:14] [2,2] Log session ended
+
+
+[2020-12-29 17:50:02] Log session started
+[2020-12-29 17:50:02] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-29 17:50:02] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 17:50:02] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 17:50:02] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 17:50:02] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 17:50:02] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 17:50:02] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 17:50:02] [0,0] Server says 50% of connections should be websockets, we rolled 25 - using WebSockets as default.
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27034) results: 149.0000ms + load 20.0000 (1443 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm5-lax1.cm.steampowered.com:27035) results: 147.0000ms + load 20.0000 (1528 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm5-lax1.cm.steampowered.com:27029) results: 147.0000ms + load 20.0000 (1528 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm2-lax1.cm.steampowered.com:27020) results: 147.0000ms + load 20.0000 (1528 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm1-sgp1.cm.steampowered.com:27026) results: 136.0000ms + load 59.0000 (1489 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm3-sgp1.cm.steampowered.com:27026) results: 120.0000ms + load 59.0000 (1528 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm2-syd1.cm.steampowered.com:443) results: 50.0000ms + load 43.0000 (1536 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm1-syd1.cm.steampowered.com:27026) results: 49.0000ms + load 42.0000 (1528 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm2-syd1.cm.steampowered.com:27023) results: 49.0000ms + load 42.0000 (1672 seconds ago)
+[2020-12-29 17:50:02] [0,0] Existing WebSocket ping data (cm1-syd1.cm.steampowered.com:27024) results: 34.0000ms + load 43.0000 (780 seconds ago)
+[2020-12-29 17:50:02] [0,0] PingWebSocketCM() stopping early for good host (cm1-syd1.cm.steampowered.com:27024)
+[2020-12-29 17:50:02] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm1-syd1.cm.steampowered.com:27024, WebSocket)
+[2020-12-29 17:50:03] [1,3] ConnectionCompleted() (103.10.125.164:27024, WebSocket)
+[2020-12-29 17:50:03] [1,3] RecvMsgClientLogOnResponse() : [A:1:427917322:16192] 'OK'
+[2020-12-29 17:50:06] [3,3] LogOff()
+[2020-12-29 17:50:06] [2,3] AsyncDisconnect()
+[2020-12-29 17:50:06] [2,3] Log session ended
+
+
+[2020-12-29 18:07:54] Log session started
+[2020-12-29 18:07:54] [0,0] SetSteamID( [A:1:0:0] )
+[2020-12-29 18:07:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 18:07:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 18:07:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 18:07:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 18:07:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 18:07:54] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-12-29 18:07:55] [0,0] Server says 50% of connections should be websockets, we rolled 53 - using UDP as default.
+[2020-12-29 18:07:55] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.165:27018, UDP)
+[2020-12-29 18:07:55] [1,2] ConnectionCompleted() (103.10.125.165:27018, UDP)
+[2020-12-29 18:07:55] [1,2] RecvMsgClientLogOnResponse() : [A:1:618381322:16192] 'OK'
+[2020-12-29 18:07:58] [3,2] LogOff()
+[2020-12-29 18:07:58] [2,2] AsyncDisconnect()
+[2020-12-29 18:07:58] [2,2] Log session ended

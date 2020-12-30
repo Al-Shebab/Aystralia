@@ -2061,3 +2061,19 @@
 
 [2020-12-29 17:37:02] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
 [2020-12-29 17:37:03] Got 85 content servers from directory
+
+
+[2020-12-29 17:50:02] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 17:50:03] Got 85 content servers from directory
+
+
+[2020-12-29 17:50:55] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 17:50:57] Got 85 content servers from directory
+
+
+[2020-12-29 18:07:54] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 18:07:56] Got 85 content servers from directory
+
+
+[2020-12-29 18:08:43] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2020-12-29 18:08:44] Got 85 content servers from directory
