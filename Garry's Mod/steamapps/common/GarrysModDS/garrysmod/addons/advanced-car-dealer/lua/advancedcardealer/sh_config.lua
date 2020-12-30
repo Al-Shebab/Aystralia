@@ -76,9 +76,9 @@ CFG.AdminUserGroups = {
 
 AdvCarDealer.CustomChecks = {
 	[ "Donator" ]	= {
-		func = function(ply) return table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup")) end,
-		messageCatalog = "This vehicle is limited to donators.",
-		onlyOnceBuying = false, -- if the check has to be done only once buying, or also when the player try to take it from the garage.
+		func = function( ply ) return ply:GetUserGroup() == "superadmin" end,
+		messageCatalog = "Purchasing this vehicle is limited to superadmins.",
+		onlyOnceBuying = true, -- if the check has to be done only once buying, or also when the player try to take it from the garage.
 	}
 }
 

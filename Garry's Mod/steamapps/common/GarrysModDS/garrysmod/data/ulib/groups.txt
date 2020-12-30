@@ -61,27 +61,15 @@
 	"allow"	
 	{
 	}
+	"inherit_from"	"user"
 }
-"staff-manager"	
+"donator-senior-moderator"	
 {
-	"can_target"	"!%superadmin"
+	"can_target"	"!%admin"
 	"allow"	
 	{
-		"awarn_delete"
-		"ulx adduser"
-		"ulx adduserid"
-		"ulx hiddenecho"
-		"ulx maul"
-		"ulx ragdoll"
-		"ulx removeuser"
-		"ulx removeuserid"
-		"ulx seeanonymousechoes"
-		"ulx seeasay"
-		"ulx spawnecho"
-		"ulx whip"
-		"ulx who"
 	}
-	"inherit_from"	"senior-admin"
+	"inherit_from"	"senior-moderator"
 }
 "melbourne"	
 {
@@ -105,6 +93,37 @@
 	{
 	}
 	"inherit_from"	"perth"
+}
+"user"	
+{
+	"allow"	
+	{
+		"awarn_view"
+		"ulx addons"
+		"ulx apply"
+		"ulx asay"
+		"ulx bugs"
+		"ulx discord"
+		"ulx donate"
+		"ulx profile"
+		"ulx psay"
+		"ulx report"
+		"ulx rules"
+		"ulx soundlist"
+		"ulx thirdperson"
+		"ulx votegag"
+		"ulx votemute"
+		"ulx workshop"
+	}
+	"can_target"	"!%darwin"
+}
+"senior-moderator"	
+{
+	"can_target"	"!%donator-senior-moderator"
+	"allow"	
+	{
+	}
+	"inherit_from"	"moderator"
 }
 "superadmin"	
 {
@@ -134,6 +153,7 @@
 		"ulx getcommandtable"
 		"ulx gethooktable"
 		"ulx givemoney"
+		"ulx givemoneyid"
 		"ulx gravity"
 		"ulx groupallow"
 		"ulx groupdeny"
@@ -161,6 +181,7 @@
 		"ulx luarun"
 		"ulx maprestart"
 		"ulx maul"
+		"ulx moneyid"
 		"ulx playsound"
 		"ulx printhooks"
 		"ulx ragdoll"
@@ -207,61 +228,6 @@
 		"xgui_svsettings"
 	}
 	"inherit_from"	"admin"
-}
-"senior-moderator"	
-{
-	"can_target"	"!%donator-senior-moderator"
-	"allow"	
-	{
-	}
-	"inherit_from"	"moderator"
-}
-"user"	
-{
-	"allow"	
-	{
-		"awarn_view"
-		"ulx addons"
-		"ulx apply"
-		"ulx asay"
-		"ulx bugs"
-		"ulx discord"
-		"ulx donate"
-		"ulx profile"
-		"ulx psay"
-		"ulx report"
-		"ulx rules"
-		"ulx soundlist"
-		"ulx thirdperson"
-		"ulx votegag"
-		"ulx votemute"
-		"ulx workshop"
-	}
-	"can_target"	"!%darwin"
-}
-"trial-moderator"	
-{
-	"can_target"	"!%donator-trial-moderator"
-	"allow"	
-	{
-		"awarn_warn"
-		"ulx bring"
-		"ulx freeze"
-		"ulx gag"
-		"ulx goto"
-		"ulx jail"
-		"ulx jailtp"
-		"ulx kick"
-		"ulx noclip"
-		"ulx physgunplayer"
-		"ulx teleport"
-		"ulx thetime"
-		"ulx unfreeze"
-		"ulx ungag"
-		"ulx unjail"
-		"ulx who"
-	}
-	"inherit_from"	"user"
 }
 "admin"	
 {
@@ -426,13 +392,50 @@
 	"can_target"	"!%donator-admin"
 	"inherit_from"	"senior-moderator"
 }
-"donator-trial-moderator"	
+"trial-moderator"	
 {
-	"can_target"	"!%moderator"
+	"can_target"	"!%donator-trial-moderator"
 	"allow"	
 	{
+		"awarn_warn"
+		"ulx bring"
+		"ulx freeze"
+		"ulx gag"
+		"ulx goto"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx kick"
+		"ulx noclip"
+		"ulx physgunplayer"
+		"ulx teleport"
+		"ulx thetime"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx unjail"
+		"ulx who"
 	}
-	"inherit_from"	"trial-moderator"
+	"inherit_from"	"user"
+}
+"staff-manager"	
+{
+	"can_target"	"!%superadmin"
+	"allow"	
+	{
+		"awarn_delete"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx hiddenecho"
+		"ulx maul"
+		"ulx ragdoll"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx seeanonymousechoes"
+		"ulx seeasay"
+		"ulx spawnecho"
+		"ulx whip"
+		"ulx who"
+	}
+	"inherit_from"	"senior-admin"
 }
 "senior-admin"	
 {
@@ -446,11 +449,11 @@
 	}
 	"inherit_from"	"admin"
 }
-"donator-senior-moderator"	
+"donator-trial-moderator"	
 {
-	"can_target"	"!%admin"
+	"can_target"	"!%moderator"
 	"allow"	
 	{
 	}
-	"inherit_from"	"senior-moderator"
+	"inherit_from"	"trial-moderator"
 }

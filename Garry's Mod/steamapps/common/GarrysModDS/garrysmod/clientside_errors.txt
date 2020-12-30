@@ -1822,3 +1822,44 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[ulx-master] addons/ulx-master/lua/ulx/modules/sh/money.lua:30: attempt to call global 'updateNames' (a nil value)
+  1. unknown - addons/ulx-master/lua/ulx/modules/sh/money.lua:30
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ulx-master] addons/ulx-master/lua/ulx/modules/sh/money.lua:30: attempt to call global 'updateNames' (a nil value)
+  1. unknown - addons/ulx-master/lua/ulx/modules/sh/money.lua:30
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ulx-master] addons/ulx-master/lua/ulx/modules/sh/money.lua:30: attempt to call global 'updateNames' (a nil value)
+  1. unknown - addons/ulx-master/lua/ulx/modules/sh/money.lua:30
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ulx-master] addons/ulx-master/lua/ulx/modules/sh/money.lua:131: '<eof>' expected near 'end'
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ulx-master] addons/ulx-master/lua/ulx/modules/sh/money.lua:30: attempt to call global 'updateNames' (a nil value)
+  1. unknown - addons/ulx-master/lua/ulx/modules/sh/money.lua:30
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ulx-master] addons/ulx-master/lua/ulx/modules/sh/money.lua:30: attempt to call global 'updateNames' (a nil value)
+  1. unknown - addons/ulx-master/lua/ulx/modules/sh/money.lua:30
+
+
+

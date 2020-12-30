@@ -25,22 +25,29 @@
 
 {
 	"text" "Need assistance? Type @ with your message."
-	"red" "255"
-	"green" "0"
-	"blue" "0"
-	"time" "300"
+	"red" "0"
+	"green" "187"
+	"blue" "255"
+	"time" "600"
 }
 {
 	"text" "No staff online? Type !report to report players."
 	"red" "0"
 	"green" "255"
-	"blue" "59"
-	"time" "360"
+	"blue" "233"
+	"time" "600"
 }
 {
 	"text" "Interested in becoming staff? Type !apply."
 	"red" "0"
-	"green" "0"
+	"green" "123"
 	"blue" "255"
-	"time" "360"
+	"time" "600"
+}
+{
+	"text" "Want to see more? Join our discord! Type !discord"
+	"red" "0"
+	"green" "255"
+	"blue" "123"
+	"time" "600"
 }

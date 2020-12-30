@@ -434,3 +434,45 @@
 [18:08:43] New map: rp_downtown_v4c
 [18:08:50] Client "Al Shebab" connected.
 [18:08:56] Client "Al Shebab" connected.
+[18:10:44] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 108 seconds).
+[21:15:55] Al Shebab added Themself to group superadmin
+[21:21:50] Al Shebab: !donate
+[21:37:40] Al Shebab: /setmoney
+[21:37:46] Al Shebab: /setmoney she 1
+[21:43:42] (Console) added brexit to group perth
+
+
+
+[21:50:39] New map: rp_downtown_v4c
+[21:51:09] Client "Al Shebab" connected.
+[21:51:48] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 39 seconds).
+
+
+
+[21:59:42] New map: rp_downtown_v4c
+[22:00:11] Client "Al Shebab" connected.
+[22:00:42] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 31 seconds).
+[22:01:18] Al Shebab gave $1000 to Themself
+[22:01:20] Al Shebab gave $1000 to Themself
+[22:01:20] Al Shebab gave $1000 to Themself
+[22:01:20] Al Shebab gave $1000 to Themself
+
+
+
+[22:16:17] New map: rp_downtown_v4c
+[22:20:40] Client "Al Shebab" connected.
+[22:21:10] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[22:25:20] Al Shebab: acd_givevehicle STEAM_0:0:103364981 p1tdm
+[22:25:28] Al Shebab: p1tdm
+[23:32:19] Al Shebab: !donate
+
+
+
+[23:43:38] New map: rp_downtown_v4c
+[23:43:56] Client "Al Shebab" connected.
+[23:44:26] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[23:46:44] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[23:47:14] Client "Al Shebab" connected.
+[23:47:54] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 40 seconds).
+[23:55:45] Al Shebab: !setmoney sheb 50000
+<Logging continued in "data/ulx_logs/12-30-20.txt">
