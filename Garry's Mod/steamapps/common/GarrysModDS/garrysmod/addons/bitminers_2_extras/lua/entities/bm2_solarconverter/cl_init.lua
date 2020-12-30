@@ -69,9 +69,9 @@ function ENT:DrawConnectedSolarPanels(alpha)
 
 	draw.RoundedBox(4, -130, 4 , 330, 52, Color(36,36,36,  255 * alpha))
 	draw.RoundedBox(2, -128, 6 , 326, 52 - 4, Color(15,15,15, 255 * alpha))
-	draw.RoundedBox(2, -128, 6 , 326 * (self:GetConnectedPanels()/10), 52 - 4, Color(255,165,0,  255 * alpha))
-	draw.SimpleText(self:GetConnectedPanels().."/10", "BM2GeneratorFont", 45, 24 + 6, Color(0,0,0, 255 * alpha), 1, 1)
-	draw.SimpleText(self:GetConnectedPanels().."/10", "BM2GeneratorFont", 44, 24 + 5, Color(255,255,255, 255 * alpha), 1, 1)
+	draw.RoundedBox(2, -128, 6 , 326 * (self:GetConnectedPanels()/5), 52 - 4, Color(255,165,0,  255 * alpha))
+	draw.SimpleText(self:GetConnectedPanels().."/5", "BM2GeneratorFont", 45, 24 + 6, Color(0,0,0, 255 * alpha), 1, 1)
+	draw.SimpleText(self:GetConnectedPanels().."/5", "BM2GeneratorFont", 44, 24 + 5, Color(255,255,255, 255 * alpha), 1, 1)
 end
 
 function ENT:DrawTranslucent()

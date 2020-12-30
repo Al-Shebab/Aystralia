@@ -156,7 +156,7 @@ function ENT:TickSolarCheck()
 	if totalConnectedSolarPanel > 0 then
 		self:SetShowNoConnectedSolarWarning(false)
 		self:SetShowNoConnectedSolarWarning(false)
-		self:SetMaxPowerConsumpsion(100 * totalActiveSolarPanels)
+		self:SetMaxPowerConsumpsion(200 * totalActiveSolarPanels)
 		local connectedBitminers = BM2GetConnectedMiners(self)
 		if connectedBitminers == false then 
 			self:SetPowerConsumpsion(0)
