@@ -1,21 +1,21 @@
 "STEAM_0:1:121087763"	
 {
+	"allow"	
+	{
+	}
 	"name"	"brexit"
 	"deny"	
 	{
 	}
-	"allow"	
-	{
-	}
-	"group"	"superadmin"
+	"group"	"perth"
 }
 "STEAM_0:0:103364981"	
 {
-	"name"	"Al Shebab"
-	"deny"	
+	"allow"	
 	{
 	}
-	"allow"	
+	"name"	"Al Shebab"
+	"deny"	
 	{
 	}
 	"group"	"superadmin"
@@ -30,4 +30,15 @@
 	{
 	}
 	"group"	"superadmin"
+}
+"STEAM_0:1:128868430"	
+{
+	"name"	"Feeyne"
+	"allow"	
+	{
+	}
+	"deny"	
+	{
+	}
+	"group"	"sydney"
 }
