@@ -408,3 +408,17 @@
 [05:54:02] Red Hairline: /rpname SawCon
 [05:55:27] SawCon<STEAM_0:1:51163583> spawned model models/props_c17/trappropeller_blade.mdl
 [05:55:48] Dropped "SawCon" from server<STEAM_0:1:51163583>
+
+
+
+[17:22:07] New map: rp_downtown_v4c
+
+
+
+[17:25:58] New map: rp_downtown_v4c
+
+
+
+[17:37:02] New map: rp_downtown_v4c
+[17:37:10] Client "Al Shebab" connected.
+[17:37:51] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 41 seconds).
