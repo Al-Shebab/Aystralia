@@ -1,0 +1,393 @@
+# Staff++ | Made with love by Shortninja and continued by Qball - Revisited by Garagepoort
+# 
+# If you're having trouble with item type names, refer to here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+# All item slots are how they "should be", meaning the first slot of an inventory will be one. Maximum is 36.
+
+lang: lang_en
+bungee: false
+authentication:
+  provider: noop
+blocked-commands: /example1, /example2, /example3
+blocked-mode-commands: /example1, /example2, /example3
+glass-color: 0
+glass-title: '&bChoose GUI glass color'
+offline-players-mode: true
+reports-module:
+  enabled: true
+  sound: ORB_PICKUP
+  cooldown: 10
+  show-reporter: true
+  closing-reason-enabled: true
+  reporter-notifications:
+    notify-on-join: true
+    status-change-notifications: IN_PROGRESS;RESOLVED;REJECTED
+warnings-module:
+  enabled: true
+  sound: ORB_PICKUP
+  clear: 604800
+  show-issuer: true
+  user-notifications:
+    enabled: true
+    always-notify: false
+  severity-levels:
+  - name: MINOR
+    score: 1
+  - name: MAJOR
+    score: 3
+  - name: CRITICAL
+    score: 5
+  thresholds:
+  - score: 6
+    actions:
+    - command: ban %player% &4Warning threshold has been met
+      run-strategy: ALWAYS
+staff-chat-module:
+  enabled: true
+  bungee: true
+  handle: '@'
+vanish-module:
+  enabled: true
+  tab-list: true
+  show-away: false
+  suggestions: false
+  chat: false
+  vanish-message-enabled: true
+chat-module:
+  enabled: true
+  lines: 100
+  slow: 5
+  blacklist-module:
+    enabled: false
+    hoverable: false
+    character: '*'
+    merging: true
+    words: fuck, shit, ass, bitch, dick, cock, piss, cunt, fag, faggot, slut, nigger,
+      nigga
+    characters: 卐, 卍
+    domains: com, net, org
+    periods: (), (dot),
+    allowed: bypass, assembly, assassin, compass, assume, assault, asset, assort
+broadcast-module:
+  enabled: true
+  enabled-servers: CURRENT
+ban-module:
+  enabled: true
+mute-module:
+  enabled: true
+protect-module:
+  player-enabled: true
+  area-enabled: true
+  area-max-size: 40
+tickets-module:
+  enabled: true
+  global: false
+  keep-open: false
+alt-detect-module:
+  enabled: false
+alerts-module:
+  name-notify: true
+  mention-notify: true
+  sound: ORB_PICKUP
+  xray-alerts:
+    enabled: true
+    blocks: SPAWNER, EMERALD_ORE, DIAMOND_ORE, GOLD_ORE, IRON_ORE, COAL_ORE, LAPIS_ORE,
+      REDSTONE_ORE
+  alt-detect-notify:
+    enabled: true
+    trust-levels: FAIRLY_POSITIVE;POSITIVE
+trace-module:
+  enabled: true
+  trace-events: PICKUP_ITEM;DROP_ITEM;BLOCK_BREAK;BLOCK_PLACE;COMMANDS;CHAT;WORLD_CHANGE;INVENTORY;DAMAGE
+  output-channels: CHAT;FILE
+staff-mode:
+  block-manipulation: false
+  inventory-interaction: true
+  item-change: false
+  vanish-type: TOTAL
+  invincible: true
+  damage: false
+  hunger-loss: false
+  flight: true
+  creative: false
+  original-location: false
+  enable-on-login: false
+  enable-commands: example1 %player%, example2 %player%
+  disable-commands: example1 %player%, example2 %player%
+  disable-on-world-change: false
+  staff-see-staff-in-mode: false
+  compass-module:
+    enabled: true
+    slot: 1
+    velocity: 5
+    item: COMPASS
+    name: '&4Launcher'
+    lore: '&7Launches you towards the, &7location you are facing.'
+  random-teleport-module:
+    enabled: true
+    slot: 2
+    item: ENDEREYE
+    name: '&cRandom Teleport'
+    lore: '&7Teleports you to a random player.'
+    random: false
+  vanish-module:
+    enabled: true
+    slot: 3
+    item: INK:10
+    name: '&6Vanish'
+    lore: '&7Toggles your total vanish.'
+    item-off: INK:8
+  gui-module:
+    enabled: true
+    slot: 4
+    item: PAPER
+    name: '&eGUI Hub'
+    lore: '&7Opens the GUI hub.'
+    reports-gui: true
+    reports-title: '&bUnresolved reports'
+    my-reports-title: '&bReports assigned to you'
+    closed-reports-title: '&bClosed reports'
+    reports-name: '&bUnresolved reports GUI'
+    reports-lore: '&7Shows all open reports.'
+    my-reports-lore: '&7Shows reports currently assigned to you.'
+    closed-reports-lore: '&7History of all closed reports.'
+    miner-gui: true
+    miner-title: '&bUnderground users'
+    miner-name: '&bMiner GUI'
+    miner-lore: '&7Shows all players under the set Y value.'
+    xray-level: 16
+    protected-areas-gui: true
+    protected-areas-title: '&bOverview protected areas'
+    protected-areas-name: '&bProtected Areas GUI'
+    protected-areas-lore: '&7Shows all currently set protected areas.'
+    ban-gui: true
+    ban-title: '&bOverview banned players'
+    ban-name: '&bBanned players GUI'
+    ban-lore: '&7Shows all currently banned players.'
+    mute-gui: true
+    mute-title: '&bOverview muted players'
+    mute-name: '&bMuted players GUI'
+    mute-lore: '&7Shows all currently muted players.'
+  counter-module:
+    enabled: true
+    slot: 5
+    item: HEAD
+    name: '&aStaff List'
+    lore: '&7Shows all staff online and in staff mode'
+    title: '&bCurrent staff online'
+    show-staff-mode: false
+  freeze-module:
+    enabled: true
+    slot: 6
+    item: BLAZE_ROD
+    name: '&2Freeze'
+    lore: '&7Toggles freeze for the clicked player.'
+    chat: true
+    damage: false
+    timer: 5
+    sound: ORB_PICKUP
+    prompt: false
+    prompt-title: '&bFrozen'
+    logout-commands: ban %player%
+  cps-module:
+    enabled: true
+    slot: 7
+    item: CLOCK
+    name: '&3CPS'
+    lore: '&7Runs a click per second test on, &7the player that was clicked.'
+    time: 10
+    max: 16.0
+  examine-module:
+    enabled: true
+    slot: 8
+    item: CHEST
+    name: '&bExamine'
+    lore: '&7Inspects the inventory of the player that was clicked.'
+    title: '&bExamine inventory'
+    info-line:
+      food: 1
+      ip-address: 2
+      ping: 3
+      gamemode: 4
+      infractions: 5
+      location: 6
+      notes: 7
+      freeze: 8
+      warn: 9
+  enderchest-module:
+    enabled: true
+    offline-viewing: true
+  follow-module:
+    enabled: true
+    slot: 9
+    item: LEAD
+    name: '&9Follow'
+    lore: '&7Mounts the player that was clicked.'
+    use-mount: true
+  custom-modules:
+    StaticCommand:
+      enabled: false
+      type: COMMAND_STATIC
+      slot: 30
+      item: DIAMOND
+      name: '&4Ban all god kids'
+      lore: '&4line1, &6line2, &3line3'
+      command: ban Shortninja &4For coding 2hard!!11!1!one!
+    DynamicCommand:
+      enabled: false
+      type: COMMAND_DYNAMIC
+      slot: 31
+      item: QUARTZ
+      name: '&4Ban this kid'
+      lore: '&cyou damn lazy staff'
+      command: ban %clicked% &6for shitposting too much with %clicker%
+    ConsoleCommand:
+      enabled: false
+      type: COMMAND_CONSOLE
+      slot: 33
+      item: OBSIDIAN
+      name: '&bDisable staff mode'
+      lore: '&7you''re so lazy'
+      command: staff %clicker% disable
+    Item:
+      enabled: false
+      type: ITEM
+      slot: 34
+      item: WOOD_AXE
+      name: '&7WorldEdit Wand'
+      lore: '&8don''t grief shitlord!!'
+    Whip:
+      enabled: true
+      type: ITEM
+      slot: 34
+      item: STICK
+      name: '&7Knock out stick'
+      lore: '&8Knock em out!!'
+      enchantment: knockback:2
+permissions:
+  wild-card: staff.*
+  block: staff.block
+  report: staff.report
+  reports:
+    manage:
+      view: staff.reports.manage.view
+      delete: staff.reports.manage.delete
+      accept: staff.reports.manage.accept
+      resolve: staff.reports.manage.resolve
+      reject: staff.reports.manage.reject
+  report-bypass: staff.report.bypass
+  report-update-notifications: staff.report.update.notifications
+  view-my-reports: staff.report.view-my-reports
+  view-my-warnings: staff.warn.view-my-warnings
+  warn: staff.warn
+  warn-bypass: staff.warn.bypass
+  staff-chat: staff.staffchat
+  vanish-total: staff.vanish.total
+  vanish-list: staff.vanish.list
+  chat-clear: staff.chat.clear
+  chat-toggle: staff.chat.toggle
+  chat-slow: staff.chat.slow
+  blacklist: staff.blacklist
+  tickets: staff.tickets
+  mention: staff.alerts.mention
+  name-change: staff.alerts.namechange
+  xray: staff.alerts.xray
+  mode: staff.mode
+  compass: staff.compass
+  random-teleport: staff.random-teleport
+  gui: staff.gui
+  counter: staff.counter
+  counter-show-vanished: staff.counter-show-vanished
+  freeze: staff.freeze
+  freeze-bypass: staff.freeze.bypass
+  teleport-to-location: staff.teleport-to-location
+  teleport-to-player: staff.teleport-to-player
+  teleport-here: staff.teleport-here
+  teleport-bypass: staff.teleport.bypass
+  trace: staff.trace
+  trace-bypass: staff.trace.bypass
+  cps: staff.cps
+  examine: staff.examine
+  follow: staff.follow
+  lockdown: staff.lockdown
+  revive: staff.revive
+  member: staff.member
+  strip: staff.strip
+  tp: staff.tp
+  staffplus: staff.staffplus
+  ipPerm: staff.staffplus.hideip
+  invClear: staff.staffplus.clearinv
+  invClear-bypass: staff.staffplus.clearinv-bypass
+  resetPass: staff.staffplus.resetpassword
+  alerts: staff.staffplus.alerts
+  broadcast: staff.staffplus.broadcast
+  protect-player: staff.staffplus.protect-player
+  protect-area: staff.staffplus.protect-area
+  ban: staff.staffplus.ban
+  ban-bypass: staff.staffplus.ban-bypass
+  mute: staff.staffplus.mute
+  mute-bypass: staff.staffplus.mute-bypass
+  alt-detect-whitelist: staff.staffplus.alt-detect-whitelist
+  alt-detect-bypass: staff.staffplus.alt-detect-bypass
+  alerts-alt-detect: staff.alerts.alt-detects
+  examine-inventory-interaction: staff.examine.inventory-interaction
+  examine-view-inventory: staff.examine.view-inventory
+commands:
+  staff-mode: staff
+  freeze: freeze
+  teleport-to-location: teleportToLocation
+  teleport-back: teleportBack
+  teleport-to-player: teleportToPlayer
+  teleport-here: teleportHere
+  examine: examine
+  notes: notes
+  cps: cps
+  staff-chat: sc
+  my-reports: my-reports
+  report: report
+  reportPlayer: reportPlayer
+  reports:
+    manage:
+      gui: manage-reports
+      cli: reports
+  warn: warn
+  warns: warns
+  my-warnings: my-warnings
+  vanish: vanish
+  chat: chat
+  ticket: ticket
+  alerts: alerts
+  follow: follow
+  revive: revive
+  staff-list: personnel
+  login: login
+  register: register
+  strip: strip
+  clearInv: clear
+  trace: trace
+  resetPass: resetPassword
+  changePass: changepassword
+  echest_view: eview
+  broadcast: broadcast
+  protect-player: protectPlayer
+  protect-area: protectArea
+  ban: ban
+  tempban: tempban
+  unban: unban
+  mute: mute
+  tempmute: tempmute
+  unmute: unmute
+  alt-detect-whitelist: altWhitelist
+storage:
+  type: sqlite
+  mysql:
+    host: localhost
+    user: root
+    database: root
+    password: mypass
+    port: 3306
+config-version: 6205
+auto-save: 3602
+clock: 2
+animation-packets: PacketPlayOutBlockBreakAnimation, PacketPlayOutBlockAction
+sound-names: random.chestopen, random.chestclosed
+metrics: true

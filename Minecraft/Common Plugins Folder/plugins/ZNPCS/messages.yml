@@ -1,0 +1,10 @@
+{
+  NPC_NOT_FOUND: '&cHey!, I couldnt find a npc with this id.',
+  NO_PERMISSION: '&cYou do not have permission to execute this command.',
+  COMMAND_NOT_FOUND: '&cThis command was not found.',
+  INCORRECT_USAGE: '&cIncorrect use of command.',
+  SUCCESS: '&aDone...',
+  COMMAND_ERROR: '&cThere was an error executing the command, see the console for
+    more information.',
+  INVALID_NUMBER: '&cHey!, The inserted number/id does not look like a number..'
+}

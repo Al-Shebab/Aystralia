@@ -1,0 +1,47 @@
+#                                         #
+#                PvPLevels                #
+#                   by                    #
+#                MathiasMC                #
+#  Any ideas for the plugin or need help? #
+#           contact me on spigot          #
+#                                         #
+
+default:
+  xp:
+    get:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have killed &b{xp_type} &7and received &b{xp_get} &7xp.'
+    item:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7Item multiplier &bx{xp_item} &7was applied.'
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have killed &b{xp_type} &7and received &b{xp_get} &7xp.'
+    boost:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7Multiplier &bx{xp_multiplier} &7was applied.'
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have killed &b{xp_type} &7and received &b{xp_get} &7xp.'
+    both:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7Multiplier &bx{xp_multiplier} &7and Item multiplier &bx{xp_item} &7was applied.'
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have killed &b{xp_type} &7and received &b{xp_get} &7xp.'
+    lose:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have lost &b{xp_lost} &7xp.'
+  level:
+    up:
+      - 'pvplevels broadcast null &7[&f&lP&b&lL&7] &f&l» &b{player} &7has leveled up to Level &b{level_next}&7!'
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have killed &b{xp_type} &7and received &b{xp_get} &7xp.'
+    down:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have lost a level and now at Level &b{level}&7.'
+default-last:
+  xp:
+    get:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You cannot receive more xp, you have reached max level.'
+    item:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You cannot receive more xp, you have reached max level.'
+    boost:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You cannot receive more xp, you have reached max level.'
+    both:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You cannot receive more xp, you have reached max level.'
+    lose:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have lost &b{xp_lost} &7xp.'
+  level:
+    up:
+      - 'pvplevels broadcast null &7[&f&lP&b&lL&7] &f&l» &b{player} &7has leveled up to Level &b{level_next}&7!'
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have killed &b{xp_type} &7and received &b{xp_get} &7xp.'
+    down:
+      - 'pvplevels message {player} &7[&f&lP&b&lL&7] &f&l» &7You have lost a level and now at Level &b{level}&7.'

@@ -1,0 +1,15 @@
+# ┌------------------------------------------------┐
+# | ChatHook made by dxcf                          |
+# | Version: 1.0-SNAPSHOT                          |
+# └------------------------------------------------┘
+
+usage: "&cUsage: /<cmd>"
+no-permission: "&cNo permission."
+config-reloaded: "&aSuccess! &eThe configuration has been reloaded, check console if there is any issues."
+
+#Use <help-language>
+#PM me if you want your language to translate this plugin
+#Available: EN-US, EN
+#Recommended: EN-US, EN
+help: EN-US
+info: EN-US

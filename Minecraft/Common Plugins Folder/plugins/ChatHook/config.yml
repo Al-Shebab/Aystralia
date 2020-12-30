@@ -1,0 +1,17 @@
+# ┌------------------------------------------------┐
+# | ChatHook made by dxcf                          |
+# | Version: 1.0-SNAPSHOT                          |
+# | Messages are available at messages.yml         |
+# └------------------------------------------------┘
+
+webhook-url: ""
+skin-url: "https://crafatar.com/avatars/%uuid%"
+silent-execute-exceptions: true
+#when webhook is executed, recommend turning it on
+
+use-displayname: false
+#this will use displayname instead of player's username
+remove-at-everyone-at-here: true
+#this will remove @everyone, @here
+smart-filter: true
+#this will prevent players from using something like **bold text** or *italic text*
