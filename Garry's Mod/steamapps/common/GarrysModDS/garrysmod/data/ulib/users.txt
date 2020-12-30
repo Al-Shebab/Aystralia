@@ -33,6 +33,7 @@
 }
 "STEAM_0:1:128868430"	
 {
+	"name"	"Feeyne"
 	"allow"	
 	{
 	}
