@@ -1,9 +1,0 @@
-Enabled: true
-CoolDown: 86400
-TimeLasts: 60
-Name: 'Increase strength'
-Description: 'Increase strength'
-Effects:
-- 'IncreaseStrength:2' 
-Item:
-  Material: 'GOLDEN_APPLE'
