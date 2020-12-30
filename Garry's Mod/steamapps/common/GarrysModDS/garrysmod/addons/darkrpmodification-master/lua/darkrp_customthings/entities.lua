@@ -359,64 +359,62 @@ DarkRP.createEntity("Brownie Mix", {
     end
 })
 
-hook.Add("BM2_DLC_loadCustomDarkRPItems", "BM2.RegisterEntities", function()
-	DarkRP.createEntity("Fuel Line", {
-		ent = "bm2_extra_fuel_line",
-		model = "models/bitminers2/bm2_extra_fuel_plug.mdl",
-		price = 1500,
-		max = 1,
-		cmd = "buyfuelline",
-		allowed = {TEAM_BITCOIN_MINER},
-		category = "Bitcoin"
-	}) 
+DarkRP.createEntity("Fuel Line", {
+    ent = "bm2_extra_fuel_line",
+    model = "models/bitminers2/bm2_extra_fuel_plug.mdl",
+    price = 1500,
+    max = 1,
+    cmd = "buyfuelline",
+    allowed = {TEAM_BITCOIN_MINER},
+    category = "Bitcoin"
+}) 
 
-	DarkRP.createEntity("Large Fuel", {
-		ent = "bm2_large_fuel",
-		model = "models/props/de_train/barrel.mdl",
-		price = 4000,
-		max = 2,
-		cmd = "buylargefuel",
-		allowed = {TEAM_BITCOIN_MINER},
-		category = "Bitcoin"
-	})
+DarkRP.createEntity("Large Fuel", {
+    ent = "bm2_large_fuel",
+    model = "models/props/de_train/barrel.mdl",
+    price = 4000,
+    max = 2,
+    cmd = "buylargefuel",
+    allowed = {TEAM_BITCOIN_MINER},
+    category = "Bitcoin"
+})
 
-	DarkRP.createEntity("Fuel Tank", {
-		ent = "bm2_extra_fuel_tank",
-		model = "models/bitminers2/bm2_extra_fueltank.mdl",
-		price = 10000,
-		max = 1,
-		cmd = "buyfueltank",
-		allowed = {TEAM_BITCOIN_MINER},
-		category = "Bitcoin"
-	})
+DarkRP.createEntity("Fuel Tank", {
+    ent = "bm2_extra_fuel_tank",
+    model = "models/bitminers2/bm2_extra_fueltank.mdl",
+    price = 10000,
+    max = 1,
+    cmd = "buyfueltank",
+    allowed = {TEAM_BITCOIN_MINER},
+    category = "Bitcoin"
+})
 
-	DarkRP.createEntity("Solar Cable", {
-		ent = "bm2_solar_cable",
-		model = "models/bitminers2/bm2_solar_plug.mdl",
-		price = 500,
-		max = 5,
-		cmd = "buysolarcable",
-		allowed = {TEAM_BITCOIN_MINER},
-		category = "Bitcoin"
-	})
+DarkRP.createEntity("Solar Cable", {
+    ent = "bm2_solar_cable",
+    model = "models/bitminers2/bm2_solar_plug.mdl",
+    price = 500,
+    max = 5,
+    cmd = "buysolarcable",
+    allowed = {TEAM_BITCOIN_MINER},
+    category = "Bitcoin"
+})
 
-	DarkRP.createEntity("Solar Converter", {
-		ent = "bm2_solarconverter",
-		model = "models/bitminers2/bm2_solar_converter.mdl",
-		price = 20000,
-		max = 1,
-		cmd = "buysolarconverter",
-		allowed = {TEAM_BITCOIN_MINER},
-		category = "Bitcoin"
-	})
+DarkRP.createEntity("Solar Converter", {
+    ent = "bm2_solarconverter",
+    model = "models/bitminers2/bm2_solar_converter.mdl",
+    price = 20000,
+    max = 1,
+    cmd = "buysolarconverter",
+    allowed = {TEAM_BITCOIN_MINER},
+    category = "Bitcoin"
+})
 
-	DarkRP.createEntity("Solar Panel", {
-		ent = "bm2_solar_panel",
-		model = "models/bitminers2/bm2_solar_panel.mdl",
-		price = 15000,
-		max = 5,
-		cmd = "buysolarpanel",
-		allowed = {TEAM_BITCOIN_MINER},
-		category = "Bitcoin"
-	})
-end)
+DarkRP.createEntity("Solar Panel", {
+    ent = "bm2_solar_panel",
+    model = "models/bitminers2/bm2_solar_panel.mdl",
+    price = 15000,
+    max = 5,
+    cmd = "buysolarpanel",
+    allowed = {TEAM_BITCOIN_MINER},
+    category = "Bitcoin"
+})
