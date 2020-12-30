@@ -944,4 +944,4 @@ GAMEMODE.CivilProtection = {
 }
 
 DarkRP.addHitmanTeam(TEAM_ASSASSIN)
-DarkRP.addHitmanTeam(TEAM_TEAM_HITMAN)
+DarkRP.addHitmanTeam(TEAM_HITMAN)

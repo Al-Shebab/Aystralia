@@ -407,16 +407,12 @@ GM.Config.CategoryOverride = {
 }
 
 -- The list of weapons admins spawn with, in addition to the default weapons, a job's weapons and GM.Config.AdminsCopWeapons.
-GM.Config.AdminWeapons = {
-    "weapon_keypadchecker",
-    "itemstore_checker",
-}
+GM.Config.AdminWeapons = {}
 
 -- These are the default laws, they're unchangeable in-game.
 GM.Config.DefaultLaws = {
-    "Do not attack other citizens except in self-defence.",
-    "Do not steal or break into people's homes.",
-    "Money printers/drugs are illegal.",
+    "Weapons are illegal without a license.",
+    "Money printers and drugs are illegal",
 }
 
 GM.Config.PocketBlacklist = {
