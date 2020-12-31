@@ -19,12 +19,28 @@ disabled_commands:
 - disabledcommandhere
 servers:
   hub:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+    motd: '&b&lAystralia Network &f&l| &f&lHub'
+    address: localhost:25560
+    restricted: false
+  survival:
+    motd: '&b&lAystralia Network &f&l| &a&lSurvival'
+    address: localhost:25561
+    restricted: false
+  skyblock:
+    motd: '&b&lAystralia Network &f&l| &9&lSkyblock'
+    address: localhost:25562
+    restricted: false
+  creative:
+    motd: '&b&lAystralia Network &f&l| &e&lCreative'
+    address: localhost:25563
+    restricted: false
+  creative:
+    motd: '&b&lAystralia Network &f&l| &7&lPrison'
+    address: localhost:25564
     restricted: false
 listeners:
-- query_port: 25577
-  motd: '&1Another Bungee server'
+- query_port: 25575
+  motd: '&l&bAystralia Network &f| &aSurvival &f| &9Skyblock &f| &7Prison &f| &eCreative'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -34,15 +50,15 @@ listeners:
   priorities:
   - hub
   bind_local_address: true
-  host: 1.1.1.1:25565
-  max_players: 1
+  host: 0.0.0.0:25565
+  max_players: 1000
   tab_size: 60
   force_default_server: false
-ip_forward: false
+ip_forward: true
 remote_ping_timeout: 5000
 prevent_proxy_connections: false
 groups:
-  md_5:
+  Al_Shebab:
   - admin
 connection_throttle: 4000
 stats: cb5a3ba7-6bb2-4fab-a9bc-3fa32b297736
