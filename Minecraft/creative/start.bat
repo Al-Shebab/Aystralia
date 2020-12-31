@@ -1,2 +1,2 @@
-java -Xmx8G -jar paper.jar --nogui
+java -Xmx2G -jar paper.jar --nogui
 pause

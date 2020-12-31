@@ -1,7 +1,21 @@
-server_connect_timeout: 5000
+listeners:
+- query_port: 25575
+  motd: '&l&bAystralia Network &f| &aSurvival &f| &9Skyblock &f| &7Prison &f| &eCreative'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - hub
+  bind_local_address: true
+  host: 139.99.208.69:25565
+  max_players: 1000
+  tab_size: 60
+  force_default_server: false
 remote_ping_cache: -1
-forge_support: true
-player_limit: -1
+network_compression_threshold: 256
 permissions:
   default:
   - bungeecord.command.server
@@ -11,10 +25,22 @@ permissions:
   - bungeecord.command.end
   - bungeecord.command.ip
   - bungeecord.command.reload
+log_pings: true
+connection_throttle_limit: 3
+server_connect_timeout: 5000
 timeout: 30000
+stats: cb5a3ba7-6bb2-4fab-a9bc-3fa32b297736
+player_limit: -1
+ip_forward: true
+groups:
+  Al_Shebab:
+  - admin
+remote_ping_timeout: 5000
+connection_throttle: 4000
 log_commands: false
-network_compression_threshold: 256
+prevent_proxy_connections: false
 online_mode: true
+forge_support: true
 disabled_commands:
 - disabledcommandhere
 servers:
@@ -31,36 +57,6 @@ servers:
     address: localhost:25562
     restricted: false
   creative:
-    motd: '&b&lAystralia Network &f&l| &e&lCreative'
-    address: localhost:25563
-    restricted: false
-  creative:
     motd: '&b&lAystralia Network &f&l| &7&lPrison'
     address: localhost:25564
     restricted: false
-listeners:
-- query_port: 25575
-  motd: '&l&bAystralia Network &f| &aSurvival &f| &9Skyblock &f| &7Prison &f| &eCreative'
-  tab_list: GLOBAL_PING
-  query_enabled: false
-  proxy_protocol: false
-  forced_hosts:
-    pvp.md-5.net: pvp
-  ping_passthrough: false
-  priorities:
-  - hub
-  bind_local_address: true
-  host: 0.0.0.0:25565
-  max_players: 1000
-  tab_size: 60
-  force_default_server: false
-ip_forward: true
-remote_ping_timeout: 5000
-prevent_proxy_connections: false
-groups:
-  Al_Shebab:
-  - admin
-connection_throttle: 4000
-stats: cb5a3ba7-6bb2-4fab-a9bc-3fa32b297736
-connection_throttle_limit: 3
-log_pings: true
