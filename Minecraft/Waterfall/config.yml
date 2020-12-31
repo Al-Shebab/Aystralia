@@ -44,19 +44,23 @@ forge_support: true
 disabled_commands:
 - disabledcommandhere
 servers:
-  hub:
+  Hub:
     motd: '&b&lAystralia Network &f&l| &f&lHub'
     address: localhost:25560
     restricted: false
-  survival:
+  Survival:
     motd: '&b&lAystralia Network &f&l| &a&lSurvival'
     address: localhost:25561
     restricted: false
-  skyblock:
+  Skyblock:
     motd: '&b&lAystralia Network &f&l| &9&lSkyblock'
     address: localhost:25562
     restricted: false
-  creative:
+  Creative:
+    motd: '&b&lAystralia Network &f&l| &e&lCreative'
+    address: localhost:25563
+    restricted: false
+  Prison:
     motd: '&b&lAystralia Network &f&l| &7&lPrison'
     address: localhost:25564
     restricted: false
