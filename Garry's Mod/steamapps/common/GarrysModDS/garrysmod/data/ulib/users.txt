@@ -1,44 +1,44 @@
 "STEAM_0:1:121087763"	
 {
-	"allow"	
-	{
-	}
 	"name"	"brexit"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"perth"
 }
 "STEAM_0:0:103364981"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Al Shebab"
 	"deny"	
 	{
 	}
-	"group"	"superadmin"
-}
-"STEAM_0:1:51163583"	
-{
 	"allow"	
-	{
-	}
-	"name"	"Red Hairline"
-	"deny"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:1:128868430"	
 {
-	"name"	"Feeyne"
 	"allow"	
 	{
 	}
 	"deny"	
 	{
 	}
+	"name"	"Feeyne"
 	"group"	"sydney"
+}
+"STEAM_0:1:51163583"	
+{
+	"name"	"Red Hairline"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
 }

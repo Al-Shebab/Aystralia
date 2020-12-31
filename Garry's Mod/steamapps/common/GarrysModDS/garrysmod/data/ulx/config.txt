@@ -18,12 +18,12 @@ ulx motdurl ulyssesmod.net ; The MOTD to show, if using a URL.
 
 
 ulx chattime 1.0 ; Players can only chat every x seconds (anti-spam). 0 to disable
-ulx meChatEnabled 2 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sandbox only (Default), 2 = Enabled
+ulx meChatEnabled 0 ; Allow players to use '/me' in chat. 0 = Disabled, 1 = Sandbox only (Default), 2 = Enabled
 
 
 ; This is what the players will see when they join, set it to "" to disable.
 ; You can use %host% and %curmap% in your text and have it automagically parsed for you
-ulx welcomemessage "Welcome to the Aystralia Network! Enjoy your stay!" 
+ulx welcomemessage  
 
 
 ulx logFile 0 ; Log to file (Can still echo if off). This is a global setting, nothing will be logged to file with this off.
@@ -99,9 +99,9 @@ ulx voteEcho 0 ; 1 = Echo what every player votes (this does not apply to votema
 ulx votemap2Successratio 1.00 ; Ratio of (votes for map)/(total players) needed to change map. (Rounds up)
 ulx votemap2Minvotes 10 ; Number of minimum votes needed to change map (Pevents llamas). This supercedes the above convar on small servers.
 
-ulx votekickSuccessratio 0.6 ; Ratio of (votes for kick)/(total players) needed to kick player. (Rounds up)
-ulx votekickMinvotes 2 ; Number of minimum votes needed to kick player (Pevents llamas). This supercedes the above convar on small servers.
+ulx votekickSuccessratio 0.96 ; Ratio of (votes for kick)/(total players) needed to kick player. (Rounds up)
+ulx votekickMinvotes 10 ; Number of minimum votes needed to kick player (Pevents llamas). This supercedes the above convar on small servers.
 
-ulx votebanSuccessratio 0.7 ; Ratio of (votes for ban)/(total players) needed to ban player. (Rounds up)
-ulx votebanMinvotes 3 ; Number of minimum votes needed to ban player (Pevents llamas). This supercedes the above convar on small servers.
+ulx votebanSuccessratio 1.00 ; Ratio of (votes for ban)/(total players) needed to ban player. (Rounds up)
+ulx votebanMinvotes 10 ; Number of minimum votes needed to ban player (Pevents llamas). This supercedes the above convar on small servers.
 ulx kickAfterNameChanges 2 ; <number> - Players can only change their name x times every ulx_kickAfterNameChangesCooldown 20 

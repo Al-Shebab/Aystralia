@@ -28,26 +28,26 @@
 	"red" "0"
 	"green" "187"
 	"blue" "255"
-	"time" "600"
+	"time" "1800"
 }
 {
 	"text" "No staff online? Type !report to report players."
 	"red" "0"
 	"green" "255"
 	"blue" "233"
-	"time" "600"
+	"time" "1800"
 }
 {
 	"text" "Interested in becoming staff? Type !apply."
 	"red" "0"
 	"green" "123"
 	"blue" "255"
-	"time" "600"
+	"time" "1800"
 }
 {
 	"text" "Want to see more? Join our discord! Type !discord"
 	"red" "0"
 	"green" "255"
 	"blue" "123"
-	"time" "600"
+	"time" "1800"
 }
