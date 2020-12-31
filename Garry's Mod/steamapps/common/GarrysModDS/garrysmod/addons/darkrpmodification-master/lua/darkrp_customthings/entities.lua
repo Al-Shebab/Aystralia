@@ -62,7 +62,7 @@ DarkRP.createEntity("Bitminer S2", {
 DarkRP.createEntity("Bitminer Server", {
     ent = "bm2_bitminer_server",
     model = "models/bitminers2/bitminer_2.mdl",
-    price = 50000,
+    price = 80000,
     max = 8,
     cmd = "buybitminerserver",
     category = "Bitcoin",
@@ -402,7 +402,7 @@ DarkRP.createEntity("Solar Cable", {
 DarkRP.createEntity("Solar Converter", {
     ent = "bm2_solarconverter",
     model = "models/bitminers2/bm2_solar_converter.mdl",
-    price = 20000,
+    price = 30000,
     max = 1,
     cmd = "buysolarconverter",
     allowed = {TEAM_BITCOIN_MINER},

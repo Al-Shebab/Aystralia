@@ -16,7 +16,7 @@ BM2CONFIG.BaseFuelDepletionRate = 0.3 --0.9 default
 
 
 --This will allow you to change the default generator output level
-BM2CONFIG.GeneratorPowerOutput = 30 --This should only be whole numbers, 10 == 1000W
+BM2CONFIG.GeneratorPowerOutput = 15 --This should only be whole numbers, 10 == 1000W
 
 --These should be 1 by default, changing them high will increase the default
 --speed for that bitminer. Making it lower than 1 makes it slower. 
