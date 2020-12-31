@@ -91,7 +91,7 @@ DarkRP.createEntity("Extension Lead", {
     ent = "bm2_extention_lead",
     model = "models/bitminers2/bitminer_plug_3.mdl",
     price = 500,
-    max = 4,
+    max = 1,
     cmd = "buybitminerextension",
     category = "Bitcoin",
     allowed = {TEAM_BITCOIN_MINER},
