@@ -124,6 +124,9 @@ Optimizations:
   ShortDateFormat: dd/MM/yy
   # Do you want to record sell hand actions into file
   SellLog: true
+  # When set to true players with same name but different capitalization will be denyied from joining server to avoid possible issues. In example if on first day player Zrips joined server and on second day player zRips tries to join server, he will be rejected
+  # RECOMMENDED to keep this at true
+  PreventDifferentCapitalizationNames: false
   # When this set to true by using any command, requiring players name, in case plugin cant determine player by given full name, then partial matches from online players will be used. In example: /cmi heal rips can heal player Zrips 
   # Useful when you have players with complicated names
   PartialPlayerName: false
@@ -212,6 +215,9 @@ Optimizations:
     # List of worlds to whichones player can't go back with /back command
     BackBlackList:
     - TeztWorldz
+  Hat:
+    # When enabled we will not allow to place items into head slot if item has custom lore
+    IgnoreLored: true
   helpop:
     # When set to true player will not see his sent message to helpop, but rather predefined message informing that his question have been sent to online staff
     feedbackMessage: true
@@ -242,10 +248,14 @@ Optimizations:
     # List of materials to block from itemName command
     TypeBlackList:
     - gold_nugget
+    # When set to true items which name got changed with itemname command will be marked with NBT data as 'ModifiedName' boolean type
+    MarkChanged: false
   ItemLore:
     # List of materials to block from itemName command
     TypeBlackList:
     - gold_nugget
+    # When set to true items which lore got changed with itemname command will be marked with NBT data as 'ModifiedLore' boolean type
+    MarkChanged: false
   OnDurabilityLoss:
     # Do you want to inform player when item durability gets lower than set threshold
     # Player should have cmi.informDurability
@@ -284,6 +294,7 @@ Optimizations:
       # This will use separate locale line which includes direction to the player
       # So instead of having something like 123m you will have ~100m
       Approximate: true
+      DefaultDistance: 200
       # When enabled, players can click on each player name and simple /cmi point [location] will be performed which shows particles directing towards target player
       PointTo: true
       # How many lines you want to show when using /near command
@@ -318,6 +329,10 @@ Sleeping:
     # When set to true, players can speedup night by sleeping in bed
     # This will allow to speed up night in percentage depending how many players are sleeping in beds in that world
     Enabled: false
+    # List of worlds where this should be applied.
+    # Keep in mind that time speed up only works on a normal type world and by default you will have only one
+    # Set this list to [] if you want to include all possible worlds
+    Worlds: []
     # When this set to true time will be speed up only between 13000 and 24000 ticks of the day
     # When having this set to false players can speed up day durring storms or other events
     OnlyDurringNight: true
@@ -478,10 +493,11 @@ Afk:
   - msg! %cmi_user_name% {#fa7814}&lCommands &7» {#007ba7}You are {#fae600}no longer
     {#007ba7}AFK!
   # Defines how long to wait after player stops moving to kick player
-  # This is aditional timer to AutoAfkIn and in case player entered afk mode manually he will get kicked after AutoAfkIn+AutoKickIn seconds
+  # This is additional timer to AutoAfkIn and in case player entered afk mode manually he will get kicked after AutoAfkIn+AutoKickIn seconds
   # This can be used not only to kick but to perform repeating action every x seconds if needed
   # Keep it at -1 to disable auto kick
   # Can be bypassed with cmi.command.afk.kickbypass permission node
+  # Additionally players kick time can be changed with cmi.command.afk.kickOutIn.[seconds] permission node where bigger value takes priority
   AutoKickIn: -1
   # This will define how long to wait before performing kick commands again
   RepeatingAutoKickInterval: 300
@@ -516,6 +532,8 @@ Afk:
   DisableOnPrivateChat: true
   # Disables afk on move
   DisableOnMove: true
+  # Disables afk on fishing
+  DisableFishing: false
   # Disables item pickup while afk
   DisableItemPickup: false
   PreventMobSpawning:
@@ -868,6 +886,11 @@ Command:
       - login
       - register
   Spy:
+    # Delay in seconds for commands spy to turn on after relog
+    # This will prevent some one from loging in with admin account and seeing commands before loging in
+    # Keep it at same or higher than your login plugin delay for entering password
+    # This includes social spy too
+    DelayForTrigger: 60
     # Commands in this list will not be shown when command spy is enabled for player for security/privacy reasons
     # This can be bypassed with cmi.command.commandspy.bypass permission node
     BlackListed:
@@ -939,7 +962,7 @@ Spawners:
     # If set to true, player will need to have particular permission node to break and get particular spawner.
     # In example: player should have cmi.dropspawner.pig to break pig spawner and get it dropped, or cmi.dropspawner.zombie to get zombie spawner
     RequiresExactPermission: false
-    # When set tp false, exp will not be dropped from broken spawner independent if spawner it self is being dropped
+    # When set to false, exp will not be dropped from broken spawner independent if spawner it self is being dropped
     # When set to true exp will be dropped only if spawner is not
     DropExp: false
     # Minimal silktouch level required to get spawner back
@@ -1071,6 +1094,11 @@ Totem:
     Time: 10
   # If player falls into void while having totem, he will be teleported to respawn location and totem gets consumed
   ProtectFromVoid: true
+  Effects:
+    # Time in seconds effect needs to be applied to the player. Set it to 0 if you want to disable it
+    Regeneration: 45
+    FireResistance: 40
+    Absorbtion: 5
 Elytra:
   # cmi.elytra - allows usage of elytra
   # cmi.elytra.boost - allows usage of boost
@@ -1142,6 +1170,12 @@ FlightCharge:
   # If this is set above 0, then player will loose defined amount of charges each second they are flying instead of traveled blocks
   # Set to 0 to disable, which will deduct charges for traveled blocks
   DeductOnlyForTime: 0.0
+  AutoRecharge:
+    # Value in percentage when we should automatically recharge players flight charges if player enabled autorecharge with /autorecharge command
+    From: 10.0
+    # Value in percentage of charges we need to recharge
+    # 25 will result into 25% of max allowed charges being recharged each time auto recharge is triggered
+    Amount: 25.0
   # Defines multiplier when player falls down of charge to be taken
   # This only effects when player falls from above 3 blocks of hight
   # In example if player falls from 10 blocks height, then 7 * 2 = 14 charges will be taken
@@ -1301,6 +1335,10 @@ WorldLimits:
   Fly:
   - world_nether:False
   - world_the_end:False
+  # If player will have cmi.worldlimit.elytra.bypass permission node, elytra flight will not be prevented
+  # Players joining worlds with disable elytra flight will get their elytra dismounted if posible
+  ElytraFlight:
+  - worldName:False
   # When set to false, only players with cmi.worldlimit.fly.aboveroof can fly above world build limit
   FlyAboveRoof: true
   # When set to false, only players with cmi.worldlimit.fly.aboveroof can fly above world build limit
@@ -1427,6 +1465,11 @@ Cooldowns:
   # if cooldown set to -1 then this command can be performed only one time
   # Administration can bypass limitations with cmi.cooldownbypass.[commandname] permission node
   # Always use full command name and not its alias
+  # ----------
+  # Alternatively you can use cmi.cooldown.[some_command].[timer] permission node. For example: cmi.cooldown.cmi_heal.30 which will set 30 second cooldown on /cmi heal command
+  # If you want to apply cooldown on command when variable is provided, add extra _ at end. For example cmi.cooldown.cmi_heal_.30 which will only use this cooldown when healing some one else
+  # KEEP IN MIND that for permission to work you need to set base command cooldown in this list, otherwise permission node will have no effect
+  # -----
   # ATTENTION! If you have command like "/cmi home" and you want to prevent teleportation to home but allow gui opening without restrictions, use space after command, in example "cmi home :10"
   Enabled: true
   List:
@@ -1440,9 +1483,43 @@ Combat:
   noGodDamage: true
   # informs player that he cant damage players while in god mode
   noGodDamageInform: true
-  # If set to true, then atacked player will be included into combat mode even if he doesnt fight back
+  # If set to true, then attacked player will be included into combat mode even if he doesnt fight back
   # If set to false then only attacker will be marked for pvp mode
   IncludeVictim: true
+  Player:
+    # If set to true, then player who gets placed into combat mode will get its fly mode disabled
+    # This will disable players fly mode which will result in player dropping down and will disable option to start flying
+    # This can be bypassed by player performing fly command if he has access to it and commands durring combat are not blocked
+    # Can be bypassed with cmi.pvp.PFlyBypass permission node
+    DisableFlight: false
+    # If set to true player whose fly mode got disabled will not suffer fall damage, once
+    DisableFallDamage: false
+    # When set to true player will see boss bar message indicating how long until combat mode ends
+    # This only applies for pvp type combat
+    ShowBossBar: false
+    # When set to true players will be only able to use commands defined in the list
+    # This only applies for pvp type combat
+    BlockCommands: false
+    AllowedCommands:
+    - msg
+    - r
+    - tell
+  Mob:
+    # If set to true, then player who gets placed into combat mode will get its fly mode disabled
+    # Can be bypassed with cmi.pvp.MFlyBypass permission node
+    DisableFlight: false
+    # If set to true player whose fly mode got disabled will not suffer fall damage, once
+    DisableFallDamage: false
+    # When set to true player will see boss bar message indicating how long until combat mode ends
+    # This only applies for pve type combat
+    ShowBossBar: false
+    # When set to true players will be only able to use commands defined in the list
+    # This only applies for pve type combat
+    BlockCommands: false
+    AllowedCommands:
+    - msg
+    - r
+    - tell
   Heads:
     Player:
       Drop: false
@@ -1491,6 +1568,7 @@ Vanish:
     relogDisable: false
     noMessages: false
     fakeJoinLeave: false
+    mobSpawning: false
 WarmUps:
   # You can enable any command warmup to prevent instant command usage
   # tp:5:false means that when player performs /tp command he will need to wait 5 sec
@@ -1621,50 +1699,6 @@ Time:
   TimeSpeed:
     # Time is defined in seconds. Vanilla 24 hour ingame duration is 1200 seconds of real time
     world:
-      Enabled: false
-      # Default value: 600 Starts from tick: 0 Ends at tick: 12000
-      day: 600
-      # Default value: 90 Starts from tick: 12000 Ends at tick: 13800
-      sunset: 90
-      # Default value: 420 Starts from tick: 13800 Ends at tick: 22200
-      night: 420
-      # Default value: 90 Starts from tick: 22200 Ends at tick: 24000
-      sunrise: 90
-    # Time is defined in seconds. Vanilla 24 hour ingame duration is 1200 seconds of real time
-    build:
-      Enabled: false
-      # Default value: 600 Starts from tick: 0 Ends at tick: 12000
-      day: 600
-      # Default value: 90 Starts from tick: 12000 Ends at tick: 13800
-      sunset: 90
-      # Default value: 420 Starts from tick: 13800 Ends at tick: 22200
-      night: 420
-      # Default value: 90 Starts from tick: 22200 Ends at tick: 24000
-      sunrise: 90
-    # Time is defined in seconds. Vanilla 24 hour ingame duration is 1200 seconds of real time
-    flat:
-      Enabled: false
-      # Default value: 600 Starts from tick: 0 Ends at tick: 12000
-      day: 600
-      # Default value: 90 Starts from tick: 12000 Ends at tick: 13800
-      sunset: 90
-      # Default value: 420 Starts from tick: 13800 Ends at tick: 22200
-      night: 420
-      # Default value: 90 Starts from tick: 22200 Ends at tick: 24000
-      sunrise: 90
-    # Time is defined in seconds. Vanilla 24 hour ingame duration is 1200 seconds of real time
-    events:
-      Enabled: false
-      # Default value: 600 Starts from tick: 0 Ends at tick: 12000
-      day: 600
-      # Default value: 90 Starts from tick: 12000 Ends at tick: 13800
-      sunset: 90
-      # Default value: 420 Starts from tick: 13800 Ends at tick: 22200
-      night: 420
-      # Default value: 90 Starts from tick: 22200 Ends at tick: 24000
-      sunrise: 90
-    # Time is defined in seconds. Vanilla 24 hour ingame duration is 1200 seconds of real time
-    creative:
       Enabled: false
       # Default value: 600 Starts from tick: 0 Ends at tick: 12000
       day: 600
@@ -1916,6 +1950,8 @@ Scavenge:
   BlackToWhiteList: false
   # When set to false while player have open scavange UI they will not be able to pickup item from ground
   AllowItemPickups: false
+  # When enabled items, likes swords, after being salvagted if they dint broke then their repair cost will be reset so players can enchant it as like its a new one instead of making it to dificult to be enchanted
+  ResetRepairCost: true
 BungeeCord:
   # You can disable bungeecord support entirely if you are exrperiencing issues with it
   # When setting this to false some features like public messages over bungee cord, private messages over bungeecord, portals over bungecoord and other features will stop working

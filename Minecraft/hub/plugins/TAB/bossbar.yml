@@ -34,7 +34,7 @@ bars:
     
     #all 4 settings support placeholders including animations, you can use it to achieve changing text
     style: "PROGRESS"
-    color: "%animation:barcolors%"
+    color: "&f"
     progress: "100" # in %
     text: "&fWebsite: &bwww.domain.com"
   test:

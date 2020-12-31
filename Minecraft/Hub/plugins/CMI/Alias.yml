@@ -37,6 +37,9 @@ Alias:
   /attachcommand: true
   /powertool: true
   #  
+  # /cmi autorecharge $1-
+  /autorecharge: false
+  #  
   # /cmi back $1-
   /back: true
   /cback: true
@@ -130,6 +133,7 @@ Alias:
   #  
   # /cmi condense $1-
   /condense: true
+  /compact: false
   #  
   # /cmi counter $1-
   /counter: true
