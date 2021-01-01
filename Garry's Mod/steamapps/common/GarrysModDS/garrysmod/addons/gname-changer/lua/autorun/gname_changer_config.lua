@@ -57,7 +57,7 @@ gNameChanger.caligraphy = true -- If true, names like géRaRD, gérard or GérAr
 -- First spawn name change (asking player to change his name on his first spawn ?)
 gNameChanger.firstSpawn = true -- true = activated | false = disabled
 -- On death name change (asking player to change his name when he die ?)
-gNameChanger.reSpawn = true -- true = activated | false = disabled
+gNameChanger.reSpawn = false -- true = activated | false = disabled
 
 -- Active / Disable global notifications for name changing
 gNameChanger.globalNotify = true -- true = activated | false = disabled
