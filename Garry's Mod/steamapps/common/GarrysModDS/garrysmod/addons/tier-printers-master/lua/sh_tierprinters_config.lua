@@ -55,10 +55,10 @@ TierPrinters.Config.BatterySystem = true
 TierPrinters.Config.BatteryUI = false 
  
 -- If the above is true, how much should it cost to recharge the battery. 
-TierPrinters.Config.BatteryPrice = 500 
+TierPrinters.Config.BatteryPrice = 5000
  
 -- The time between the battery losing 1% (In seconds) 
-TierPrinters.Config.BatteryTime = 10 
+TierPrinters.Config.BatteryTime = 8
 
 
 /* 
@@ -120,52 +120,52 @@ TierPrinters.Config.Tiers = {
         [2] = { 
                 color = Color(200,0,0), 
                 price = 5000,
-                amount = 2000
+                amount = 1000
         }, 
         [3] = { 
                 color = Color(200,100,0), 
                 price = 7000,
-                amount = 3000
+                amount = 1500
         }, 
         [4] = { 
                 color = Color(200,200,0), 
                 price = 10000,
-                amount = 4000
+                amount = 2000
         }, 
         [5] = { 
                 color = Color(100,200,0), 
                 price = 20000,
-                amount = 5000,
+                amount = 2500,
                 limit = 40000
         }, 
         [6] = { 
                 color = Color(0,200,0), 
                 price = 30000,
-                amount = 6000,
+                amount = 3000,
                 limit = 50000
         }, 
         [7] = { 
                 color = Color(0,200,100), 
                 price = 40000,
-                amount = 7000,
+                amount = 3500,
                 limit = 55000
         }, 
         [8] = { 
                 color = Color(0,200,200), 
                 price = 75000,
-                amount = 8000,
+                amount = 4000,
                 limit = 65000
         }, 
         [9] = { 
                 color = Color(0,100,200), 
                 price = 90000,
-                amount = 9000,
+                amount = 4500,
                 limit = 120000
         }, 
         [10] = { 
                 color = Color(0,0,200), 
                 price = 150000,
-                amount = 10000,
+                amount = 5000,
                 limit = 500000
         }, 
  

@@ -14,14 +14,14 @@ Simplac.settings.testmode = true -- test mode (disable bans)
 Simplac.settings.testmode2 = false -- full test mode (no kicks)
 
 
-Simplac.settings.readdetectiondisclaimer = false -- Did you read the detection disclaimer?
+Simplac.settings.readdetectiondisclaimer = true -- Did you read the detection disclaimer?
 
 --if you want to disable something because one of your addons causes issues
 
 -- SET THIS TO FALSE FOR NON ROUND BASED GM AKA STUFF LIKE DARKRP, SANDBOX 
 -- KEEP TO TRUE FOR GAMEMODES WITH ROUNDS LIKE TTT
 
-Simplac.BotSuicide = true -- The bot suicides if he doesn't feel like living (aka needs to die) (round based gms only aka e.g. TTT, prop hunt)
+Simplac.BotSuicide = false -- The bot suicides if he doesn't feel like living (aka needs to die) (round based gms only aka e.g. TTT, prop hunt)
 
 -- If you want the bot gone set the detection Simplac.settings.Aimbot_MCheck to false
 Simplac.settings.Aimbot_MCheck = true -- AM = "DAMN THIS BOT IS SO ANNOYING LOL" - Aimbot check/breaker (uses bots, takes 1 slot of yo serv)
