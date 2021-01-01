@@ -10,7 +10,7 @@ ghomes.enabledhousenames = true -- enable the 3d panel with the house name
 ghomes.maxpropertiesperuser = 1; -- it will prevent the guy from buying all the houses
 ghomes.alarmprice = 200000 -- the price the guy will pay in the DLC if he want to enable the alarm that will be triggered when someone lockpicks one of his doors
 ghomes.cooldownspawnafterrobbery = 60 * 5 -- in seconds, (60*5 = 5mins) don't let the player spawn in any house that was robbed less than x secs ago, it also applies for a battering ram used on a door
-ghomes.autosellafternotconnecterforxdays = 3600 * 24 * 30 -- in seconds,(0 => it never expires)  if the player doesn't connect for x seconds then his houses get auto sold so anyone else can get them
+ghomes.autosellafternotconnecterforxdays = 3600 * 24 * 60 -- in seconds,(0 => it never expires)  if the player doesn't connect for x seconds then his houses get auto sold so anyone else can get them
 -- ^^^^ --> 3600 * 24 * 30<-- ^^^^ for 30 days
 ghomes.maxdaysrent = 1 -- in days, don't put it > 182 because renting it 182 days = purchase price (you can still change it in the NPC config menu tho)
 
