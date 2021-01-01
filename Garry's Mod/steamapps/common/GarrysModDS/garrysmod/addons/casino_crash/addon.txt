@@ -1,6 +1,0 @@
-"AddonInfo"
-{
-	"name" "Casino Crash"
-	"author_name" "KappaJ"
-	"info" " { 	"description": "Description", 	"type": "Addon", 	"tags":  	[ 		"fun", 		"roleplay" 	] }"
-}
