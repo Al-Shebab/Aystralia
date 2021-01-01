@@ -108,9 +108,23 @@ aScoreboard.NiceRanks 					= {}
 --Any user who's rank matches that of the first value will have their name and their name's colour changed to what's in the following table.
 --Usage:
 --aScoreboard.NiceRanks["actualname"] 	= {name = "Pretty Name",	col = Color(230, 230, 230)	}
-aScoreboard.NiceRanks["user"] 			= {name = "Guest", 			col = Color(230, 230, 230)	}
-aScoreboard.NiceRanks["moderator"]		= {name = "Moderator", 		col = Color(255, 200, 200)	}
-aScoreboard.NiceRanks["superadmin"] 	= {name = "Super Admin", 	col = Color(240, 173, 78)	}
+aScoreboard.NiceRanks["user"] 			= {name = "User", 			col = Color(93, 24, 255)	}
+aScoreboard.NiceRanks["trusted"] 			= {name = "Trusted", 			col = Color(132, 81, 252)	}
+aScoreboard.NiceRanks["perth"] 			= {name = "Perth", 			col = Color(0, 183, 212)	}
+aScoreboard.NiceRanks["brisbane"] 			= {name = "Brisbane", 			col = Color(61, 229, 255)	}
+aScoreboard.NiceRanks["melbourne"] 			= {name = "Melbourne", 			col = Color(61, 255, 213)	}
+aScoreboard.NiceRanks["sydney"] 			= {name = "Sydney", 			col = Color(61, 255, 154)	}
+aScoreboard.NiceRanks["trial-moderator"] 			= {name = "Trial Moderator", 			col = Color(24, 249, 255)	}
+aScoreboard.NiceRanks["moderator"] 			= {name = "Moderator", 			col = Color(74, 255, 121)	}
+aScoreboard.NiceRanks["senior-moderator"] 			= {name = "Senior Moderator", 			col = Color(148, 255, 87)	}
+aScoreboard.NiceRanks["admin"] 			= {name = "Admin", 			col = Color(226, 255, 68)	}
+aScoreboard.NiceRanks["senior-admin"] 			= {name = "Senior Admin", 			col = Color(255, 180, 0)	}
+aScoreboard.NiceRanks["staff-manager"] 			= {name = "Staff Manager", 			col = Color(255, 101, 101)	}
+aScoreboard.NiceRanks["superadmin"] 			= {name = "Superadmin", 			col = Color(255, 0, 0)	}
+aScoreboard.NiceRanks["donator-trial-moderator"] 			= {name = "Trial Moderator", 			col = Color(24, 249, 255)	}
+aScoreboard.NiceRanks["donator-moderator"] 			= {name = "Moderator", 			col = Color(74, 255, 121)	}
+aScoreboard.NiceRanks["donator-senior-moderator"] 			= {name = "Senior Moderator", 			col = Color(148, 255, 87)	}
+aScoreboard.NiceRanks["donator-admin"] 			= {name = "Admin", 			col = Color(226, 255, 68)	}
 
 --This table's used for deciding what columns you'll have on your scoreboard
 aScoreboard.DataValues = {}
