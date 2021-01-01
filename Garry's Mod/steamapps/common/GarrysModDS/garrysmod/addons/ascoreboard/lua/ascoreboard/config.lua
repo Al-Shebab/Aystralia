@@ -178,7 +178,25 @@ aScoreboard.DataValues["Team"] 			= 	{
 												Func = function(ply) return team.GetName(ply:Team()) end,
 												Alignment = TEXT_ALIGN_CENTER
 											}	
+											
+if ATAG then 								--aTags support
+aScoreboard.DataValues["Rank"] 			= 	{		
+												Enabled = false,
+												Pos = function(length) return length - 280 end,	
+												Col = function(ply) 
+													local name, color = hook.Call( "aTag_GetScoreboardTag", nil, ply )
+													if color then return color end
+													return Color(255,255,255,200) 
+												end, 
+												Func = function(ply) 
+													local name, color = hook.Call( "aTag_GetScoreboardTag", nil, ply )
+													if name then return name end
+													return ""
+												end,
+												Alignment = TEXT_ALIGN_CENTER
+											}	
 
+else	
 aScoreboard.DataValues["Rank"] 			= 	{		
 												Enabled = true,
 												Pos = function(length) return length - 280 end,	
