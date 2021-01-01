@@ -159,8 +159,8 @@ DarkRP.createEntity("Ink Money Printer", {
 DarkRP.createEntity("Ink Money Printer Battery", {
     ent = "tierp_battery",
     model = "models/freeman/giant_battery.mdl",
-    price = 500,
-    max = 4,
+    price = 5000,
+    max = 2,
     cmd = "tierp_battery",
     category = "Advanced Money Printers",
     allowed = {TEAM_MONEY_PRINTER},
