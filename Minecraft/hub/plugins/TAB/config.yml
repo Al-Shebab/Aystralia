@@ -42,9 +42,6 @@ group-sorting-priority-list:
   - melbourne
   - brisbane
   - perth
-  - adelaide
-  - hobart
-  - darwin
   - member
   - default
 
@@ -100,15 +97,6 @@ Groups:
   perth:
     tabprefix: "&#3de5ff&lPerth&r "
     tagprefix: "&#3de5ff&lPerth&r "
-  adelaide:
-    tabprefix: "&#00b7d4&lAdelaide&r "
-    tagprefix: "&#00b7d4&lAdelaide&r "
-  hobart:
-    tabprefix: "&#008ed3&lHobart&r "
-    tagprefix: "&#008ed3&lHobart&r "
-  darwin:
-    tabprefix: "&#0071d3&lDarwin&r "
-    tagprefix: "&#0071d3&lDarwin&r "
   member:
     tabprefix: "&#763bff&lMember&r "
     tagprefix: "&#763bff&lMember&r "

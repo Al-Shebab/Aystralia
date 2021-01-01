@@ -9,7 +9,8 @@ function ulx.pgag( calling_ply, target_plys, should_unpgag )
 		for k,v in pairs( target_plys ) do
 	
 			v:RemovePData( "permgagged" )
-		
+			
+			v.perma_gagged = false
 		end
 		
 		ulx.fancyLogAdmin( calling_ply, "#A un-permagagged #T ", target_plys )
@@ -19,7 +20,8 @@ function ulx.pgag( calling_ply, target_plys, should_unpgag )
 		for k,v in pairs( target_plys ) do
 	
 			v:SetPData( "permgagged", "true" )
-		
+			
+			v.perma_gagged = true
 		end
 	
 		ulx.fancyLogAdmin( calling_ply, "#A permanently gagged #T", target_plys )
@@ -36,9 +38,41 @@ pgag:defaultAccess( ULib.ACCESS_ADMIN )
 pgag:help( "Gag target(s), disables microphone using pdata." )
 pgag:setOpposite( "ulx unpgag", { _, _, true }, "!unpgag" )
 
+
+
+function ulx.pgagid(calling_ply, steamID, should_unpgag)
+	if should_unpgag then
+		util.RemovePData(steamID, "permgagged")
+		local ply = player.GetBySteamID(steamID)
+		if(ply) then
+			ply.perma_gagged = false
+		end
+
+		ulx.fancyLogAdmin(calling_ply, "#A un-permagagged #s", steamID)
+	else
+		util.SetPData(steamID, "permgagged", "true")
+		local ply = player.GetBySteamID(steamID)
+		if(ply) then
+			ply.perma_gagged = true
+		end
+
+		ulx.fancyLogAdmin(calling_ply, "#A permanently gagged #s", steamID)
+	end
+end
+
+local pgagid = ulx.command( "Custom", "ulx pgagid", ulx.pgagid, "!pgagid" )
+pgagid:addParam{ type=ULib.cmds.StringArg, hint="steamid" }
+pgagid:addParam{ type=ULib.cmds.BoolArg, invisible=true }
+pgagid:defaultAccess( ULib.ACCESS_ADMIN )
+pgagid:help("Permanently gag target Steam ID, disabling their microphone.")
+pgagid:setOpposite("ulx unpgagid", { _, _, true }, "!unpgagid")
+
+
+
+
 local function pgagHook( listener, talker )
 
-	if talker:GetPData( "permgagged" ) == "true" then
+	if talker.perma_gagged == true then
 	
 		return false
 		
@@ -68,9 +102,13 @@ end
 hook.Add( "PlayerDisconnected", "pgagdisconnect", pgagPlayerDisconnect )
 
 function pgaguserAuthed( ply )
-
-	if ply:GetPData( "permgagged" ) == "true" then
 	
+	local pdata = ply:GetPData( "permgagged" )
+	
+	if  pdata == "true" then
+		
+		ply.perma_gagged = true
+		
 		for k,v in pairs( player.GetAll() ) do
 		
 			if v:IsAdmin() then
@@ -80,6 +118,10 @@ function pgaguserAuthed( ply )
 			end
 			
 		end
+		
+	else 
+		
+		ply.perma_gagged = false	
 		
 	end
 	
@@ -108,4 +150,4 @@ function ulx.printpgags( calling_ply )
 end
 local printpgags = ulx.command( "Custom", "ulx printpgags", ulx.printpgags, "!printpgags", true )
 printpgags:defaultAccess( ULib.ACCESS_ADMIN )
-printpgags:help( "Prints players who are pgagged." )
+printpgags:help("Lists any players connected to the server who are permanently gagged.")
