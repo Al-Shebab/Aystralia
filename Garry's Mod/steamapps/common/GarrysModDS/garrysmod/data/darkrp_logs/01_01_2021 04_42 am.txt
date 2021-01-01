@@ -43,3 +43,19 @@ Fri Jan  1 05:18:51 2021	Layth (STEAM_0:0:84012375):
 Fri Jan  1 05:18:53 2021	Layth (STEAM_0:0:84012375): !ep
 Fri Jan  1 05:18:55 2021	Layth (STEAM_0:0:84012375): 
 Fri Jan  1 05:20:48 2021	Layth (STEAM_0:0:84012375): !noclip
+Fri Jan  1 05:21:57 2021	Layth (STEAM_0:0:84012375): 
+Fri Jan  1 05:23:00 2021	Layth (STEAM_0:0:84012375): !noclip
+Fri Jan  1 05:23:20 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Fri Jan  1 05:23:20 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 05:24:39 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT darkrp_moneypot
+Fri Jan  1 05:24:43 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT itemstore_box_huge
+Fri Jan  1 05:24:45 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_battery
+Fri Jan  1 05:25:05 2021	Al Shebab (STEAM_0:0:103364981): !addons
+Fri Jan  1 05:25:40 2021	Layth (STEAM_0:0:84012375): 
+Fri Jan  1 05:28:43 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:29:15 2021	Layth (STEAM_0:0:84012375): !addons
+Fri Jan  1 05:29:33 2021	Layth (STEAM_0:0:84012375) disconnected
+Fri Jan  1 05:31:56 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 05:31:56 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:34:36 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:35:54 2021	Al Shebab (STEAM_0:0:103364981): !setmoney sheb 1234123

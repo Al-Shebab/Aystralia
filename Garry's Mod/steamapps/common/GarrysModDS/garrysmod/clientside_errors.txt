@@ -1964,3 +1964,9 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Al Shebab|3|STEAM_0:0:103364981
+
+[gname-changer] addons/gname-changer/lua/autorun/gname_changer_config.lua:16: '=' expected near 'addon'
+
+
+

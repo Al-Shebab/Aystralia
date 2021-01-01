@@ -61,7 +61,7 @@
 	"allow"	
 	{
 	}
-	"inherit_from"	"user"
+	"inherit_from"	"trusted"
 }
 "donator-senior-moderator"	
 {
@@ -94,6 +94,36 @@
 	{
 	}
 	"inherit_from"	"perth"
+}
+"user"	
+{
+	"allow"	
+	{
+		"awarn_view"
+		"ulx addons"
+		"ulx apply"
+		"ulx asay"
+		"ulx bugs"
+		"ulx discord"
+		"ulx donate"
+		"ulx profile"
+		"ulx psay"
+		"ulx report"
+		"ulx rules"
+		"ulx soundlist"
+		"ulx thirdperson"
+		"ulx votegag"
+		"ulx votemute"
+		"ulx workshop"
+	}
+}
+"senior-moderator"	
+{
+	"can_target"	"!%donator-senior-moderator"
+	"allow"	
+	{
+	}
+	"inherit_from"	"moderator"
 }
 "superadmin"	
 {
@@ -207,37 +237,6 @@
 		"xgui_svsettings"
 	}
 	"inherit_from"	"staff-manager"
-}
-"senior-moderator"	
-{
-	"can_target"	"!%donator-senior-moderator"
-	"allow"	
-	{
-	}
-	"inherit_from"	"moderator"
-}
-"user"	
-{
-	"allow"	
-	{
-		"awarn_view"
-		"ulx addons"
-		"ulx apply"
-		"ulx asay"
-		"ulx bugs"
-		"ulx discord"
-		"ulx donate"
-		"ulx profile"
-		"ulx psay"
-		"ulx report"
-		"ulx rules"
-		"ulx soundlist"
-		"ulx thirdperson"
-		"ulx votegag"
-		"ulx votemute"
-		"ulx workshop"
-	}
-	"can_target"	"!%trusted"
 }
 "admin"	
 {
@@ -431,7 +430,7 @@
 		"ulx unjail"
 		"ulx who"
 	}
-	"inherit_from"	"user"
+	"inherit_from"	"sydney"
 }
 "staff-manager"	
 {

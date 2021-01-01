@@ -1,0 +1,21 @@
+{
+  "Type": "GHAST",
+  "Loot": [
+    {
+      "Type": "GHAST_TEAR",
+      "Chance": 100.0,
+      "Min": 0,
+      "Max": 1,
+      "Looting": true,
+      "requireCharged": false
+    },
+    {
+      "Type": "GUNPOWDER",
+      "Chance": 100.0,
+      "Min": 0,
+      "Max": 2,
+      "Looting": true,
+      "requireCharged": false
+    }
+  ]
+}
