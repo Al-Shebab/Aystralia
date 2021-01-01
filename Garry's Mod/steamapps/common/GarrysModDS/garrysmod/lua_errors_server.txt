@@ -15218,3 +15218,22 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
      4. fn - lua/permaprops/sv_lib.lua:233
       5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
 
+addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expected, got userdata)
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - lua/permaprops/sv_lib.lua:120
+     4. fn - lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - lua/permaprops/sv_lib.lua:120
+     4. fn - lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+[gname-changer] addons/gname-changer/lua/autorun/gname_changer_config.lua:16: '=' expected near 'addon'
+
