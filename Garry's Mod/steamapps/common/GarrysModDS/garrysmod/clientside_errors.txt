@@ -1970,3 +1970,186 @@ Al Shebab|3|STEAM_0:0:103364981
 
 
 
+popbob1|8|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|8|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|8|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|8|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|8|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/config.lua:199: '<eof>' expected near 'end'
+  1. unknown - addons/ascoreboard/lua/ascoreboard.lua:22
+   2. include - [C]:-1
+    3. fn - addons/ascoreboard/lua/autorun/client/cl_ascoreboard.lua:2
+     4. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_dashboard.lua:3: attempt to perform arithmetic on field 'Width' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_dashboard.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/ascoreboard/lua/ascoreboard.lua:69
+     4. include - [C]:-1
+      5. fn - addons/ascoreboard/lua/autorun/client/cl_ascoreboard.lua:2
+       6. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/config.lua:199: '<eof>' expected near 'end'
+  1. unknown - addons/ascoreboard/lua/ascoreboard.lua:22
+   2. include - [C]:-1
+    3. fn - addons/ascoreboard/lua/autorun/client/cl_ascoreboard.lua:2
+     4. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_dashboard.lua:3: attempt to perform arithmetic on field 'Width' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_dashboard.lua:3
+   2. include - [C]:-1
+    3. unknown - addons/ascoreboard/lua/ascoreboard.lua:69
+     4. include - [C]:-1
+      5. fn - addons/ascoreboard/lua/autorun/client/cl_ascoreboard.lua:2
+       6. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:22: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Init - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:22
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+     4. Init - addons/ascoreboard/lua/ascoreboard/cl_masterpanel.lua:70
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+       6. unknown - addons/ascoreboard/lua/ascoreboard.lua:88
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+popbob1|2|STEAM_0:1:90900081
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:22: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. Init - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:22
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+     4. Init - addons/ascoreboard/lua/ascoreboard/cl_masterpanel.lua:70
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+       6. unknown - addons/ascoreboard/lua/ascoreboard.lua:88
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:113
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/config.lua:199: '<eof>' expected near 'end'
+
+
+

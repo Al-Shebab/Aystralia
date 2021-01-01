@@ -2,7 +2,7 @@
 Simplac = Simplac or {}
 Simplac.settings = {}
 
-Simplac.settings.justinstalled = true -- SET THIS TO FALSE TO DISABLE THE JOIN MESSAGE.
+Simplac.settings.justinstalled = false -- SET THIS TO FALSE TO DISABLE THE JOIN MESSAGE.
 
 
 Simplac.settings.bantime = 0 -- Permanent (time is in seconds, 0= permanent)

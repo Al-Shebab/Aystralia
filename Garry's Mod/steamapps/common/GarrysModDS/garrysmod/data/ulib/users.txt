@@ -1,66 +1,55 @@
 "STEAM_0:0:103364981"	
 {
-	"name"	"Al Shebab"
-	"deny"	
+	"allow"	
 	{
 	}
-	"allow"	
+	"name"	"Al Shebab"
+	"deny"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:1:39582903"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"callum22122"
-	"deny"	
-	{
-	}
 	"group"	"superadmin"
 }
 "STEAM_0:1:121087763"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"brexit"
-	"deny"	
-	{
-	}
-	"group"	"superadmin"
-}
-"STEAM_0:1:51163583"	
-{
-	"name"	"Red Hairline"
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
 	"group"	"superadmin"
 }
 "STEAM_0:0:84012375"	
 {
+	"name"	"TheRealLayth"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"name"	"TheRealLayth"
 	"group"	"moderator"
 }
 "STEAM_0:1:128868430"	
 {
+	"name"	"Feeyne"
 	"allow"	
 	{
 	}
 	"deny"	
 	{
 	}
-	"name"	"Feeyne"
 	"group"	"sydney"
 }
