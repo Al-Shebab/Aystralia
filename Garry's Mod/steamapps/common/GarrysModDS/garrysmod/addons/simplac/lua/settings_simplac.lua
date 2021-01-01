@@ -7,7 +7,7 @@ Simplac.settings.justinstalled = true -- SET THIS TO FALSE TO DISABLE THE JOIN M
 
 Simplac.settings.bantime = 0 -- Permanent (time is in seconds, 0= permanent)
 Simplac.settings.banreason = "Cheating"
-Simplac.settings.telleveryoneaboutcheaters = 2 -- tell everyone who cheated 0/false = tell no one, 2 = everyone, 1 = admins only
+Simplac.settings.telleveryoneaboutcheaters = 1 -- tell everyone who cheated 0/false = tell no one, 2 = everyone, 1 = admins only
 
 
 Simplac.settings.testmode = true -- test mode (disable bans)
