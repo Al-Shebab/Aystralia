@@ -1,0 +1,86 @@
+Fri Jan  1 06:12:13 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 06:12:13 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:15:06 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:16:57 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Fri Jan  1 06:16:57 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:21:25 2021	Layth (STEAM_0:0:84012375) disconnected
+Fri Jan  1 06:21:59 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 06:21:59 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:22:08 2021	popbob1 (STEAM_0:1:90900081) has joined the game
+Fri Jan  1 06:22:08 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 06:22:57 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:23:23 2021	Al Shebab was killed by Himself with a suicide trick
+Fri Jan  1 06:23:26 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:23:52 2021	Layth was killed by Himself with a suicide trick
+Fri Jan  1 06:23:55 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:24:05 2021	popbob1 was killed by Himself with a suicide trick
+Fri Jan  1 06:24:05 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:24:19 2021	Al Shebab (STEAM_0:0:103364981): !bhop 1
+Fri Jan  1 06:25:50 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 06:27:08 2021	Al Shebab (STEAM_0:0:103364981) disconnected
+Fri Jan  1 06:27:13 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 06:27:24 2021	popbob1 (STEAM_0:1:90900081): hi
+Fri Jan  1 06:27:39 2021	popbob1 (STEAM_0:1:90900081): yeah 
+Fri Jan  1 06:27:45 2021	popbob1 (STEAM_0:1:90900081): eventually players will join
+Fri Jan  1 06:28:01 2021	popbob1 (STEAM_0:1:90900081): aight
+Fri Jan  1 06:28:41 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Fri Jan  1 06:28:41 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:30:15 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:32:30 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:33:25 2021	Layth (STEAM_0:0:84012375): /dropmoney 50
+Fri Jan  1 06:33:26 2021	Layth (STEAM_0:0:84012375) has dropped $50
+Fri Jan  1 06:33:30 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 515498236
+Fri Jan  1 06:33:31 2021	Al Shebab (STEAM_0:0:103364981) has dropped $515,498,236
+Fri Jan  1 06:34:40 2021	Al Shebab (STEAM_0:0:103364981): 
+Fri Jan  1 06:35:53 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:36:50 2021	Al Shebab was killed by Layth with a m9k_m416
+Fri Jan  1 06:36:56 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:37:40 2021	Al Shebab (STEAM_0:0:103364981): /drop
+Fri Jan  1 06:37:46 2021	Al Shebab was killed by Layth with a m9k_gdcwa_rpg_heat
+Fri Jan  1 06:37:49 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:38:21 2021	Layth (STEAM_0:0:84012375): /warrant al
+Fri Jan  1 06:38:25 2021	Layth (STEAM_0:0:84012375): /warrant al because
+Fri Jan  1 06:38:35 2021	Layth (STEAM_0:0:84012375): /warrant Al shebab g
+Fri Jan  1 06:38:54 2021	Layth (STEAM_0:0:84012375): /unwarrant al
+Fri Jan  1 06:38:57 2021	Al Shebab (STEAM_0:0:103364981): 
+Fri Jan  1 06:38:59 2021	Layth (STEAM_0:0:84012375): /warrant al lolol
+Fri Jan  1 06:39:17 2021	Al Shebab (STEAM_0:0:103364981): // are you looking for the meth dealer?
+Fri Jan  1 06:39:21 2021	popbob1 (STEAM_0:1:90900081): /ooc ye
+Fri Jan  1 06:39:24 2021	popbob1 (STEAM_0:1:90900081): /ooc ye
+Fri Jan  1 06:39:37 2021	popbob1 (STEAM_0:1:90900081): /ooc yeah
+Fri Jan  1 06:39:55 2021	Al Shebab (STEAM_0:0:103364981): // down the tunnel to the right
+Fri Jan  1 06:39:55 2021	popbob1 (STEAM_0:1:90900081): /pm shebab ooc not working for some reason
+Fri Jan  1 06:40:05 2021	Layth (STEAM_0:0:84012375): /advert IF you look like a druggie, your dead
+Fri Jan  1 06:40:10 2021	Layth (STEAM_0:0:84012375): /ooc <3 jks
+Fri Jan  1 06:40:40 2021	popbob1 (STEAM_0:1:90900081): 34k
+Fri Jan  1 06:40:48 2021	popbob1 (STEAM_0:1:90900081): also i cant use the ooc 
+Fri Jan  1 06:40:51 2021	popbob1 (STEAM_0:1:90900081): for some reason
+Fri Jan  1 06:41:00 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 06:41:10 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 06:41:16 2021	popbob1 (STEAM_0:1:90900081): yeah it just does proximity
+Fri Jan  1 06:41:45 2021	Al Shebab (STEAM_0:0:103364981): ./ooc test
+Fri Jan  1 06:41:48 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 06:41:50 2021	Al Shebab (STEAM_0:0:103364981): /ooc test
+Fri Jan  1 06:41:50 2021	popbob1 (STEAM_0:1:90900081): nah
+Fri Jan  1 06:41:57 2021	Al Shebab (STEAM_0:0:103364981): .// test
+Fri Jan  1 06:42:00 2021	popbob1 (STEAM_0:1:90900081): // test
+Fri Jan  1 06:42:28 2021	popbob1 (STEAM_0:1:90900081): pm doesnt work either
+Fri Jan  1 06:42:59 2021	Al Shebab (STEAM_0:0:103364981): /pm she test
+Fri Jan  1 06:43:01 2021	Layth (STEAM_0:0:84012375) disconnected
+Fri Jan  1 06:43:01 2021	popbob1 (STEAM_0:1:90900081): /pm she test
+Fri Jan  1 06:43:05 2021	Al Shebab (STEAM_0:0:103364981): /pm pop test
+Fri Jan  1 06:43:09 2021	popbob1 (STEAM_0:1:90900081): //pm al test
+Fri Jan  1 06:43:12 2021	popbob1 (STEAM_0:1:90900081): /pm al test
+Fri Jan  1 06:43:19 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 34000
+Fri Jan  1 06:43:20 2021	Al Shebab (STEAM_0:0:103364981) has dropped $34,000
+Fri Jan  1 06:43:23 2021	popbob1 (STEAM_0:1:90900081): cheers
+Fri Jan  1 06:43:25 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 100000
+Fri Jan  1 06:43:26 2021	Al Shebab (STEAM_0:0:103364981) has dropped $100,000
+Fri Jan  1 06:43:32 2021	popbob1 (STEAM_0:1:90900081): shit thx
+Fri Jan  1 06:43:46 2021	popbob1 (STEAM_0:1:90900081): do you guys have an anticheat on this server?
+Fri Jan  1 06:44:15 2021	popbob1 (STEAM_0:1:90900081): yeah there's a really broken bypass that lets you inject lua scripts even if allowcslua is off
+Fri Jan  1 06:44:33 2021	popbob1 (STEAM_0:1:90900081): its easy aswell
+Fri Jan  1 06:45:21 2021	popbob1 (STEAM_0:1:90900081): servers have anticheats to detect it but when i was testing on sup and elite i wasnt autobanned
+Fri Jan  1 06:46:38 2021	popbob1 (STEAM_0:1:90900081): im guessing for some reason the allowcslua is listed as a server cvar but is clientside
+Fri Jan  1 06:48:04 2021	popbob1 (STEAM_0:1:90900081): im surprised it hasnt been used more often
+Fri Jan  1 06:48:13 2021	popbob1 (STEAM_0:1:90900081): there isnt very many videos on it tho
