@@ -2470,3 +2470,37 @@
 [2020-12-31 03:58:22] [3,3] LogOff()
 [2020-12-31 03:58:22] [2,3] AsyncDisconnect()
 [2020-12-31 03:58:22] [2,3] Log session ended
+
+
+[2021-01-01 04:17:01] Log session started
+[2021-01-01 04:17:01] [0,0] SetSteamID( [A:1:0:0] )
+[2021-01-01 04:17:01] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:17:01] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:17:01] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:17:01] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:17:01] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:17:01] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:17:01] [0,0] Server says 50% of connections should be websockets, we rolled 84 - using UDP as default.
+[2021-01-01 04:17:01] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.164:27017, UDP)
+[2021-01-01 04:17:02] [1,2] ConnectionCompleted() (103.10.125.164:27017, UDP)
+[2021-01-01 04:17:02] [1,2] RecvMsgClientLogOnResponse() : [A:1:2792200198:16206] 'OK'
+[2021-01-01 04:17:05] [3,2] LogOff()
+[2021-01-01 04:17:05] [2,2] AsyncDisconnect()
+[2021-01-01 04:17:05] [2,2] Log session ended
+
+
+[2021-01-01 04:40:21] Log session started
+[2021-01-01 04:40:21] [0,0] SetSteamID( [A:1:0:0] )
+[2021-01-01 04:40:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:40:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:40:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:40:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:40:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:40:21] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-01 04:40:21] [0,0] Server says 50% of connections should be websockets, we rolled 58 - using UDP as default.
+[2021-01-01 04:40:21] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.164:27021, UDP)
+[2021-01-01 04:40:22] [1,2] ConnectionCompleted() (103.10.125.165:27019, UDP)
+[2021-01-01 04:40:22] [1,2] RecvMsgClientLogOnResponse() : [A:1:3795159046:16206] 'OK'
+[2021-01-01 04:40:25] [3,2] LogOff()
+[2021-01-01 04:40:25] [2,2] AsyncDisconnect()
+[2021-01-01 04:40:25] [2,2] Log session ended

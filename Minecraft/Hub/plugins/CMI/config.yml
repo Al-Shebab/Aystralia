@@ -1268,12 +1268,12 @@ Spawn:
   # RespawnLocation will indicate if you want to use this location as possible respawn point for player after death
   Main:
     World: world
-    X: -347.3909063137919
-    Y: 151.0
-    Z: 105.4115483738386
-    Pitch: 0
-    Yaw: 90
-    RespawnLocation: true
+    X: -347.70647841878116
+    Y: 168.0
+    Z: 105.43007861285416
+    Pitch: 15.38578
+    Yaw: 92.99725
+    RespawnLocation: false
     Rng: 0
   # Defines players first spawn point when he logs into server for the first time
   FirstSpawn:

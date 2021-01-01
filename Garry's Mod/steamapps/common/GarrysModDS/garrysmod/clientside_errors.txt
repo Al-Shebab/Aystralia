@@ -1863,3 +1863,104 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+Λscended|12|STEAM_0:1:237551287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Λscended|12|STEAM_0:1:237551287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Λscended|12|STEAM_0:1:237551287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Λscended|12|STEAM_0:1:237551287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Λscended|12|STEAM_0:1:237551287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Al Shebab|10|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:312: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:312
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|10|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|10|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|10|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|10|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|10|STEAM_0:0:103364981
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200: Tried to use a NULL entity!
+  1. Func - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200
+
+
+

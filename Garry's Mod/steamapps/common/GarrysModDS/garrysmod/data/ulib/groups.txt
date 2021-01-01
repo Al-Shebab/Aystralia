@@ -81,6 +81,7 @@
 }
 "trusted"	
 {
+	"can_target"	"!%perth"
 	"allow"	
 	{
 	}
@@ -94,40 +95,8 @@
 	}
 	"inherit_from"	"perth"
 }
-"user"	
-{
-	"allow"	
-	{
-		"awarn_view"
-		"ulx addons"
-		"ulx apply"
-		"ulx asay"
-		"ulx bugs"
-		"ulx discord"
-		"ulx donate"
-		"ulx profile"
-		"ulx psay"
-		"ulx report"
-		"ulx rules"
-		"ulx soundlist"
-		"ulx thirdperson"
-		"ulx votegag"
-		"ulx votemute"
-		"ulx workshop"
-	}
-	"can_target"	"!%darwin"
-}
-"senior-moderator"	
-{
-	"can_target"	"!%donator-senior-moderator"
-	"allow"	
-	{
-	}
-	"inherit_from"	"moderator"
-}
 "superadmin"	
 {
-	"can_target"	"!%*"
 	"allow"	
 	{
 		"apromote_settings"
@@ -145,6 +114,7 @@
 		"ulx banid"
 		"ulx banip"
 		"ulx cexec"
+		"ulx convar"
 		"ulx crash"
 		"ulx csay"
 		"ulx ent"
@@ -194,17 +164,25 @@
 		"ulx renamegroup"
 		"ulx resetmap"
 		"ulx resettimescale"
+		"ulx runscript"
+		"ulx runscriptcl"
 		"ulx sasay"
+		"ulx sconvar"
 		"ulx scrash"
 		"ulx seeanonymousechoes"
 		"ulx seeasay"
 		"ulx seesasay"
+		"ulx sendlua"
 		"ulx setgroupcantarget"
 		"ulx setmoney"
 		"ulx spawnecho"
 		"ulx speed"
+		"ulx srunscript"
+		"ulx srunscriptcl"
+		"ulx ssendlua"
 		"ulx stopsounds"
 		"ulx stopvote"
+		"ulx surl"
 		"ulx takemoney"
 		"ulx timescale"
 		"ulx tsay"
@@ -212,6 +190,7 @@
 		"ulx unbanip"
 		"ulx unignite"
 		"ulx unigniteall"
+		"ulx url"
 		"ulx userallow"
 		"ulx userallowid"
 		"ulx userdeny"
@@ -227,7 +206,38 @@
 		"xgui_managegroups"
 		"xgui_svsettings"
 	}
-	"inherit_from"	"admin"
+	"inherit_from"	"staff-manager"
+}
+"senior-moderator"	
+{
+	"can_target"	"!%donator-senior-moderator"
+	"allow"	
+	{
+	}
+	"inherit_from"	"moderator"
+}
+"user"	
+{
+	"allow"	
+	{
+		"awarn_view"
+		"ulx addons"
+		"ulx apply"
+		"ulx asay"
+		"ulx bugs"
+		"ulx discord"
+		"ulx donate"
+		"ulx profile"
+		"ulx psay"
+		"ulx report"
+		"ulx rules"
+		"ulx soundlist"
+		"ulx thirdperson"
+		"ulx votegag"
+		"ulx votemute"
+		"ulx workshop"
+	}
+	"can_target"	"!%trusted"
 }
 "admin"	
 {
@@ -317,8 +327,12 @@
 		"ulx notepad"
 		"ulx notifications"
 		"ulx pgag"
+		"ulx pgagid"
 		"ulx physgunplayer"
+		"ulx pmute"
+		"ulx pmuteid"
 		"ulx printpgags"
+		"ulx printpmutes"
 		"ulx removeragdolls"
 		"ulx removetrail"
 		"ulx reservedslots"
@@ -357,6 +371,9 @@
 		"ulx unjail"
 		"ulx unmute"
 		"ulx unpgag"
+		"ulx unpgagid"
+		"ulx unpmute"
+		"ulx unpmuteid"
 		"ulx unragdoll"
 		"ulx unvotegag"
 		"ulx unvotemute"

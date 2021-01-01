@@ -105,3 +105,7 @@ ulx votekickMinvotes 10 ; Number of minimum votes needed to kick player (Pevents
 ulx votebanSuccessratio 1.00 ; Ratio of (votes for ban)/(total players) needed to ban player. (Rounds up)
 ulx votebanMinvotes 10 ; Number of minimum votes needed to ban player (Pevents llamas). This supercedes the above convar on small servers.
 ulx kickAfterNameChanges 2 ; <number> - Players can only change their name x times every ulx_kickAfterNameChangesCooldown 20 
+ulx votegagSuccessratio 0.7 ; 
+ulx votegagMinvotes 3 ; 
+ulx votemuteSuccessratio 0.7 ; 
+ulx votemuteMinvotes 3 ; 
