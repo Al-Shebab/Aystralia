@@ -17,7 +17,7 @@ TabList:
     OnLeave: true
     afkStateChange: true
     OnWorldChange: true
-    OnDeath: false
+    OnDeath: true
     OnTeleport: false
     OnNickChange: true
   # When set to false we will not add header text to tablist

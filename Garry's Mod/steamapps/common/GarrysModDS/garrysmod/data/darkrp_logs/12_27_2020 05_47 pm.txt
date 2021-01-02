@@ -1,0 +1,44 @@
+Sun Dec 27 17:47:47 2020	brexit (STEAM_0:1:121087763) has joined the game
+Sun Dec 27 17:47:48 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 17:49:56 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 17:52:23 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Dec 27 17:52:23 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 17:54:42 2020	brexit (STEAM_0:1:121087763): /setjob 
+Sun Dec 27 17:54:46 2020	brexit (STEAM_0:1:121087763): !setjob
+Sun Dec 27 17:54:49 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 17:55:11 2020	brexit (STEAM_0:1:121087763): /999
+Sun Dec 27 17:55:14 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 17:56:08 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 17:56:37 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 17:56:51 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 17:56:59 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 17:57:04 2020	brexit (STEAM_0:1:121087763): /setjob
+Sun Dec 27 17:57:14 2020	brexit (STEAM_0:1:121087763): /switchjob Police Officer
+Sun Dec 27 17:57:31 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 17:57:49 2020	brexit (STEAM_0:1:121087763): /spawnmoney
+Sun Dec 27 17:58:01 2020	brexit (STEAM_0:1:121087763): /addmoney 100000000
+Sun Dec 27 17:58:09 2020	brexit (STEAM_0:1:121087763): /addmoney brexit 1200000
+Sun Dec 27 17:58:09 2020	brexit (STEAM_0:1:121087763) added $1,200,000 to brexit's wallet
+Sun Dec 27 17:58:18 2020	brexit (STEAM_0:1:121087763): /addmoney brexit 1000000000
+Sun Dec 27 17:58:18 2020	brexit (STEAM_0:1:121087763) added $1,000,000,000 to brexit's wallet
+Sun Dec 27 17:58:43 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 17:59:32 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 17:59:52 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 18:00:55 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 18:03:42 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 18:05:32 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 18:06:40 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 18:08:49 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 18:10:37 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 18:12:32 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 18:13:41 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 18:15:05 2020	brexit (STEAM_0:1:121087763): !workshop
+Sun Dec 27 18:15:29 2020	brexit (STEAM_0:1:121087763): !apply
+Sun Dec 27 18:15:31 2020	Al Shebab (STEAM_0:0:103364981): !workshop
+Sun Dec 27 18:15:35 2020	Al Shebab (STEAM_0:0:103364981): !addons
+Sun Dec 27 18:16:20 2020	brexit (STEAM_0:1:121087763): !addons
+Sun Dec 27 18:16:23 2020	brexit (STEAM_0:1:121087763): !discord
+Sun Dec 27 18:19:05 2020	brexit (STEAM_0:1:121087763) spawned SENT decal
+Sun Dec 27 18:23:42 2020	brexit (STEAM_0:1:121087763): !savedecaks
+Sun Dec 27 18:23:46 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 18:23:49 2020	brexit (STEAM_0:1:121087763): .

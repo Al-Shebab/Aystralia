@@ -1,0 +1,14 @@
+Sun Dec 27 05:53:11 2020	brexit (STEAM_0:1:121087763) has joined the game
+Sun Dec 27 05:53:12 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 05:53:41 2020	brexit (STEAM_0:1:121087763): !blogs
+Sun Dec 27 05:54:30 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Dec 27 05:54:30 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 05:55:14 2020	Al Shebab (STEAM_0:0:103364981): !blogs
+Sun Dec 27 05:55:20 2020	Al Shebab (STEAM_0:0:103364981): /logs
+Sun Dec 27 05:55:22 2020	Al Shebab (STEAM_0:0:103364981): !logs
+Sun Dec 27 05:55:23 2020	brexit (STEAM_0:1:121087763): !log
+Sun Dec 27 05:55:25 2020	brexit (STEAM_0:1:121087763): !blog
+Sun Dec 27 05:58:04 2020	brexit (STEAM_0:1:121087763): !menuy
+Sun Dec 27 05:58:05 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 06:00:02 2020	brexit was killed by Entity [0][worldspawn] with a unknown
+Sun Dec 27 06:00:05 2020	brexit (STEAM_0:1:121087763) spawned

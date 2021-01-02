@@ -1462,3 +1462,33 @@
 [2021-01-02 07:14:09] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-lax1.cm.steampowered.com:27021, WebSocket)
 [2021-01-02 07:14:10] [1,3] ConnectionCompleted() (162.254.195.67:27021, WebSocket)
 [2021-01-02 07:14:10] [1,3] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'
+
+
+[2021-01-02 07:41:32] Log session started
+[2021-01-02 07:41:32] [0,0] SetSteamID( [G:1:0] )
+[2021-01-02 07:41:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 07:41:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 07:41:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 07:41:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 07:41:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 07:41:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 07:41:32] [0,0] Server says 50% of connections should be websockets, we rolled 40 - using WebSockets as default.
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27035) results: 249.0000ms + load 17.0000 (1645 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm1-okc1.cm.steampowered.com:27026) results: 249.0000ms + load 22.0000 (1643 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm2-ord1.cm.steampowered.com:27033) results: 249.0000ms + load 24.0000 (1444 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm1-ord1.cm.steampowered.com:27039) results: 249.0000ms + load 23.0000 (1443 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm3-lax1.cm.steampowered.com:27021) results: 249.0000ms + load 17.0000 (1643 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm2-lax1.cm.steampowered.com:27021) results: 231.0000ms + load 18.0000 (1644 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27033) results: 231.0000ms + load 19.0000 (1644 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27031) results: 207.0000ms + load 18.0000 (1444 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm1-lax1.cm.steampowered.com:27020) results: 207.0000ms + load 17.0000 (1444 seconds ago)
+[2021-01-02 07:41:32] [0,0] Existing WebSocket ping data (cm1-syd1.cm.steampowered.com:27022) results: 49.0000ms + load 46.0000 (1444 seconds ago)
+[2021-01-02 07:41:32] [0,0] PingWebSocketCM() (cm2-okc1.cm.steampowered.com:27020) starting...
+[2021-01-02 07:41:32] [0,0] PingWebSocketCM() (cm2-lax1.cm.steampowered.com:27020) starting...
+[2021-01-02 07:41:32] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27036) starting...
+[2021-01-02 07:41:33] [0,0] PingWebSocketCM() (cm5-lax1.cm.steampowered.com:27036) results: 249.0934ms + load 23.0000
+[2021-01-02 07:41:33] [0,0] PingWebSocketCM() (cm2-lax1.cm.steampowered.com:27020) results: 249.2067ms + load 25.0000
+[2021-01-02 07:41:33] [0,0] PingWebSocketCM() (cm2-okc1.cm.steampowered.com:27020) failed talking to cm (timeout/neterror - Invalid)
+[2021-01-02 07:41:33] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm1-syd1.cm.steampowered.com:27022, WebSocket)
+[2021-01-02 07:41:33] [1,3] ConnectionCompleted() (103.10.125.164:27022, WebSocket)
+[2021-01-02 07:41:34] [1,3] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'

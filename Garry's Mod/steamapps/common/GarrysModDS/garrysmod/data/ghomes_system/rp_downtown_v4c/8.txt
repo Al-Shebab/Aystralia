@@ -1,0 +1,37 @@
+{
+	"friends": [],
+	"friendsname": [],
+	"buyablemode": 2.0,
+	"panelangle": [
+		"{0 270 90}",
+		"{0 90 90}"
+	],
+	"panels": [],
+	"permaprice": 1900000.0,
+	"rentprice": 458.0,
+	"doorsid": [
+		1874.0,
+		1841.0,
+		1844.0,
+		1843.0
+	],
+	"boxes": [
+		"[-1043.0625 -2300.6875 -78.5313]",
+		"[-871.875 -1928.4688 52.1563]"
+	],
+	"ownersteamid": "",
+	"ownername": "",
+	"doors": [],
+	"ispermarented": false,
+	"cameraangle": "{1.7813 36.9375 0}",
+	"panelpos": [
+		"[-881.0313 -2027.4688 15]",
+		"[-868.9688 -2188 15]"
+	],
+	"bellpos": "[-879.0313 -2050.6875 36.0625]",
+	"textpos": "[-868.9688 -2242.0625 49.6875]",
+	"textangle": "{0 90 90}",
+	"isrented": false,
+	"name": "Slum Apartment 1",
+	"camerapos": "[-1183.5313 -2331.4375 -16.4063]"
+}

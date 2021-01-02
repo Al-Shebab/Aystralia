@@ -1,0 +1,27 @@
+Wed Dec 30 21:32:42 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Wed Dec 30 21:32:42 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Wed Dec 30 21:41:29 2020	Al Shebab (STEAM_0:0:103364981) disconnected
+Thu Dec 31 00:25:10 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Thu Dec 31 00:25:10 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Thu Dec 31 00:53:28 2020	callum22122 (STEAM_0:1:39582903) has joined the game
+Thu Dec 31 00:53:28 2020	callum22122 (STEAM_0:1:39582903) spawned
+Thu Dec 31 00:54:46 2020	callum22122 (STEAM_0:1:39582903) disconnected
+Thu Dec 31 00:58:12 2020	callum22122 (STEAM_0:1:39582903) has joined the game
+Thu Dec 31 00:58:12 2020	callum22122 (STEAM_0:1:39582903) spawned
+Thu Dec 31 00:59:43 2020	Al Shebab (STEAM_0:0:103364981): bind v "ulx noclip"
+Thu Dec 31 01:00:04 2020	Al Shebab (STEAM_0:0:103364981): bind v "ulx noclip"
+Thu Dec 31 01:00:05 2020	Al Shebab (STEAM_0:0:103364981): bind v "ulx noclip"
+Thu Dec 31 01:00:07 2020	Al Shebab (STEAM_0:0:103364981): bind v "ulx noclip"
+Thu Dec 31 01:01:17 2020	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_40mm
+Thu Dec 31 01:03:05 2020	Al Shebab was killed by Entity [0][worldspawn] with a unknown
+Thu Dec 31 01:03:10 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Thu Dec 31 01:03:18 2020	callum22122 was killed by Entity [0][worldspawn] with a unknown
+Thu Dec 31 01:03:23 2020	callum22122 (STEAM_0:1:39582903) spawned
+Thu Dec 31 01:03:59 2020	Al Shebab (STEAM_0:0:103364981): // edating
+Thu Dec 31 01:04:09 2020	Al Shebab (STEAM_0:0:103364981): // in a call with little love
+Thu Dec 31 01:11:10 2020	callum22122 (STEAM_0:1:39582903) disconnected
+Thu Dec 31 03:07:39 2020	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Thu Dec 31 03:07:39 2020	TheRealLayth (STEAM_0:0:84012375) spawned
+Thu Dec 31 03:09:48 2020	TheRealLayth (STEAM_0:0:84012375): yo
+Thu Dec 31 03:09:54 2020	TheRealLayth (STEAM_0:0:84012375): ya here?
+Thu Dec 31 03:10:48 2020	TheRealLayth (STEAM_0:0:84012375) disconnected
