@@ -13,21 +13,26 @@ Add your custom jobs under the following line:
 ---------------------------------------------------------------------------]]
 
 
-
---[[---------------------------------------------------------------------------
-Define which team joining players spawn into and what team you change to if demoted
----------------------------------------------------------------------------]]
-GAMEMODE.DefaultTeam = TEAM_CITIZEN
---[[---------------------------------------------------------------------------
-Define which teams belong to civail protection
-Civil protection can set warrants, make people wanted and do some other police related things
----------------------------------------------------------------------------]]
---[[---------------------------------------------------------------------------
-Jobs that are hitmen (enables the hitman menu)
----------------------------------------------------------------------------]]
-
 -- Civilians --
-
+TEAM_CITIZEN = DarkRP.createJob("Citizen", {
+    color = Color(34, 85, 85, 255),
+    model = {
+        "models/player/Group01/female_02.mdl",
+        "models/player/Group01/female_01.mdl",
+        "models/player/Group01/male_01.mdl",
+        "models/player/Group01/male_02.mdl"
+    },
+    description = [[Default job. Can not raid/mug. Can not use weapons.]]],
+    weapons = {},
+    command = "TEAM_CITIZEN",
+    max = 0,
+    salary = 750,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Citizens"
+})
 TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
     color = Color(74, 255, 69, 255),
     model = {"models/player/magnusson.mdl"},
@@ -35,7 +40,7 @@ TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
     weapons = {},
     command = "TEAM_BANK_MANAGER",
     max = 1,
-    salary = 2500,
+    salary = 5000,
     admin = 0,
     vote = false,
     hasLicense = true,
@@ -49,7 +54,7 @@ TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
     weapons = {"climb_swep2"},
     command = "TEAM_PARKOUR_MASTER",
     max = 1,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -68,7 +73,7 @@ TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
     weapons = {"weapon_spraymhs"},
     command = "TEAM_GRAFFITI_ARTIST",
     max = 1,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -82,7 +87,7 @@ TEAM_DJ = DarkRP.createJob("DJ", {
     weapons = {},
     command = "TEAM_DJ",
     max = 1,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -96,7 +101,7 @@ TEAM_VAPIST = DarkRP.createJob("Vapist", {
     weapons = {"weapon_vape_juicy"},
     command = "TEAM_VAPIST",
     max = 2,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -486,7 +491,7 @@ TEAM_HACKER = DarkRP.createJob("Hacker", {
     weapons = {"keypad_cracker"},
     command = "TEAM_HACKER",
     max = 4,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -505,7 +510,7 @@ TEAM_THIEF = DarkRP.createJob("Thief", {
     weapons = {"lockpick"},
     command = "TEAM_THIEF",
     max = 4,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -930,6 +935,8 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
     end,
     CustomCheckFailMsg = "Staff only.",
 })
+
+GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
 GAMEMODE.CivilProtection = {
     [TEAM_POLICE_OFFICER] = true,
