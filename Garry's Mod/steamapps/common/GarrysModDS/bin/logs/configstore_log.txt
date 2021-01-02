@@ -1147,3 +1147,24 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+
+
+[2021-01-02 07:10:42] Failed to parse store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:10:43] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:10:44] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:10:45] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2021-01-02 07:10:45] Failed to read store 'userlocal' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\localconfig.vdf.tmp'
+[2021-01-02 07:10:46] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:11:16] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:11:46] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:12:16] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:13:16] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+
+
+[2021-01-02 07:14:05] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2021-01-02 07:14:10] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 07:14:11] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+
+
+[2021-01-02 07:17:27] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2021-01-02 07:17:29] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'

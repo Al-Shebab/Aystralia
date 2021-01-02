@@ -1,81 +1,81 @@
-"STEAM_0:1:188501563"	
+"STEAM_0:1:51163583"	
 {
-	"name"	"Lord ✘"
-	"deny"	
-	{
-	}
 	"allow"	
 	{
 	}
-	"group"	"moderator"
+	"name"	"Jacktank"
+	"deny"	
+	{
+	}
+	"group"	"senior-admin"
 }
 "STEAM_0:0:103364981"	
 {
-	"name"	"Al Shebab"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Al Shebab"
 	"group"	"superadmin"
 }
 "STEAM_0:1:39582903"	
 {
-	"allow"	
-	{
-	}
 	"name"	"callum22122"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:1:128868430"	
 {
-	"name"	"Feeyne Onbootings"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Feeyne"
 	"group"	"admin"
 }
 "STEAM_0:1:121087763"	
 {
-	"allow"	
-	{
-	}
 	"name"	"brexit"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:0:84012375"	
 {
-	"deny"	
-	{
-	}
 	"allow"	
 	{
 	}
 	"name"	"TheRealLayth"
+	"deny"	
+	{
+	}
 	"group"	"moderator"
 }
 "STEAM_0:1:56083089"	
 {
-	"name"	"Rick Sanchez"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Rick Sanchez"
 	"group"	"moderator"
 }
-"STEAM_0:1:51163583"	
+"STEAM_0:1:188501563"	
 {
 	"deny"	
 	{
@@ -83,6 +83,6 @@
 	"allow"	
 	{
 	}
-	"name"	"SawCon"
-	"group"	"senior-admin"
+	"name"	"Lord ✘"
+	"group"	"moderator"
 }
