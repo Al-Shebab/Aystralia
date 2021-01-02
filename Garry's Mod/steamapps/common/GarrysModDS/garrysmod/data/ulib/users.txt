@@ -1,0 +1,88 @@
+"STEAM_0:1:188501563"	
+{
+	"name"	"Lord ✘"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"moderator"
+}
+"STEAM_0:0:103364981"	
+{
+	"name"	"Al Shebab"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:39582903"	
+{
+	"allow"	
+	{
+	}
+	"name"	"callum22122"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:128868430"	
+{
+	"name"	"Feeyne Onbootings"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:121087763"	
+{
+	"allow"	
+	{
+	}
+	"name"	"brexit"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:84012375"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"TheRealLayth"
+	"group"	"moderator"
+}
+"STEAM_0:1:56083089"	
+{
+	"name"	"Rick Sanchez"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"moderator"
+}
+"STEAM_0:1:51163583"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"SawCon"
+	"group"	"senior-admin"
+}

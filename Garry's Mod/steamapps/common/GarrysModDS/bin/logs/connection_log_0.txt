@@ -1,0 +1,26 @@
+
+
+[2021-01-02 06:53:00] Log session started
+[2021-01-02 06:53:00] [0,0] SetSteamID( [A:1:0:0] )
+[2021-01-02 06:53:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 06:53:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 06:53:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 06:53:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 06:53:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 06:53:00] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-02 06:53:00] [0,0] Server says 50% of connections should be websockets, we rolled 9 - using WebSockets as default.
+[2021-01-02 06:53:00] [0,0] PingWebSocketCM() (cm2-syd1.cm.steampowered.com:443) starting...
+[2021-01-02 06:53:00] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:27025) starting...
+[2021-01-02 06:53:00] [0,0] PingWebSocketCM() (cm2-syd1.cm.steampowered.com:27022) starting...
+[2021-01-02 06:53:00] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27029) starting...
+[2021-01-02 06:53:00] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:27025) results: 4.7427ms + load 47.0000
+[2021-01-02 06:53:00] [0,0] PingWebSocketCM() stopping early for good host (cm1-syd1.cm.steampowered.com:27025)
+[2021-01-02 06:53:01] [0,0] PingWebSocketCM() (cm2-syd1.cm.steampowered.com:27022) results: 49.8328ms + load 49.0000
+[2021-01-02 06:53:01] [0,0] PingWebSocketCM() (cm2-syd1.cm.steampowered.com:443) results: 49.9747ms + load 47.0000
+[2021-01-02 06:53:01] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27029) results: 247.5477ms + load 21.0000
+[2021-01-02 06:53:01] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm1-syd1.cm.steampowered.com:27025, WebSocket)
+[2021-01-02 06:53:01] [1,3] ConnectionCompleted() (103.10.125.164:27025, WebSocket)
+[2021-01-02 06:53:02] [1,3] RecvMsgClientLogOnResponse() : [A:1:1229765638:16214] 'OK'
+[2021-01-02 06:53:22] [3,3] LogOff()
+[2021-01-02 06:53:22] [2,3] AsyncDisconnect()
+[2021-01-02 06:53:22] [2,3] Log session ended

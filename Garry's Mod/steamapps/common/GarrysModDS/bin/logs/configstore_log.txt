@@ -1,0 +1,12 @@
+
+
+[2021-01-02 06:53:00] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2021-01-02 06:53:02] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 06:53:03] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 06:53:05] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2021-01-02 06:53:05] Failed to read store 'userlocal' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\localconfig.vdf.tmp'
+
+
+[2021-01-02 06:54:04] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
+[2021-01-02 06:54:06] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
+[2021-01-02 06:54:07] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'

@@ -1,0 +1,1 @@
+{"11":{"Data":{"Amount":7.0,"Class":"m9k_m92beretta","Contents":2.0},"Class":"spawned_shipment"},"10":{"Data":{"Amount":1.0,"Contents":30.0,"Class":"m9k_remington7615p"},"Class":"spawned_shipment"},"9":{"Data":{"Amount":1.0,"Clip1":10.0,"Ammo":60.0,"Class":"m9k_remington7615p","Model":"models/weapons/w_remington_7615p.mdl"},"Class":"spawned_weapon"}}
