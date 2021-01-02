@@ -438,6 +438,7 @@ GM.Config.PocketBlacklist = {
     ["gmod_thruster"] = true,
     ["gmod_light"] = true,
     ["gmod_lamp"] = true,
+    ["tierp_printer"] = true,
     ["gmod_emitter"] = true,
 }
 
