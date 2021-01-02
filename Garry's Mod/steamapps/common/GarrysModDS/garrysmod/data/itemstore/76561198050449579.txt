@@ -1,1 +1,0 @@
-[{"Data":{"Amount":3.0,"Clip1":0.0,"Ammo":115.0,"Class":"m9k_mossberg590","Model":"models/weapons/w_mossberg_590.mdl","Clip2":0.0},"Class":"spawned_weapon"},{"Data":{"Amount":9.0,"Clip1":0.0,"Ammo":906.0,"Class":"m9k_uzi","Model":"models/weapons/w_uzi_imi.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

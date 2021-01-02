@@ -1,1 +1,0 @@
-[{"Data":{"Amount":8.0,"Clip1":0.0,"Ammo":0.0,"Class":"m9k_1897winchester","Model":"models/weapons/w_winchester_1897_trench.mdl","Clip2":0.0},"Class":"spawned_weapon"}]

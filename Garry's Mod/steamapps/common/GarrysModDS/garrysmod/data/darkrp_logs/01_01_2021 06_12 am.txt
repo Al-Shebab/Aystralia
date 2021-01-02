@@ -1,0 +1,228 @@
+Fri Jan  1 06:12:13 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 06:12:13 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:15:06 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:16:57 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Fri Jan  1 06:16:57 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:21:25 2021	Layth (STEAM_0:0:84012375) disconnected
+Fri Jan  1 06:21:59 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 06:21:59 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:22:08 2021	popbob1 (STEAM_0:1:90900081) has joined the game
+Fri Jan  1 06:22:08 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 06:22:57 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:23:23 2021	Al Shebab was killed by Himself with a suicide trick
+Fri Jan  1 06:23:26 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:23:52 2021	Layth was killed by Himself with a suicide trick
+Fri Jan  1 06:23:55 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:24:05 2021	popbob1 was killed by Himself with a suicide trick
+Fri Jan  1 06:24:05 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:24:19 2021	Al Shebab (STEAM_0:0:103364981): !bhop 1
+Fri Jan  1 06:25:50 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 06:27:08 2021	Al Shebab (STEAM_0:0:103364981) disconnected
+Fri Jan  1 06:27:13 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 06:27:24 2021	popbob1 (STEAM_0:1:90900081): hi
+Fri Jan  1 06:27:39 2021	popbob1 (STEAM_0:1:90900081): yeah 
+Fri Jan  1 06:27:45 2021	popbob1 (STEAM_0:1:90900081): eventually players will join
+Fri Jan  1 06:28:01 2021	popbob1 (STEAM_0:1:90900081): aight
+Fri Jan  1 06:28:41 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Fri Jan  1 06:28:41 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:30:15 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:32:30 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:33:25 2021	Layth (STEAM_0:0:84012375): /dropmoney 50
+Fri Jan  1 06:33:26 2021	Layth (STEAM_0:0:84012375) has dropped $50
+Fri Jan  1 06:33:30 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 515498236
+Fri Jan  1 06:33:31 2021	Al Shebab (STEAM_0:0:103364981) has dropped $515,498,236
+Fri Jan  1 06:34:40 2021	Al Shebab (STEAM_0:0:103364981): 
+Fri Jan  1 06:35:53 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 06:36:50 2021	Al Shebab was killed by Layth with a m9k_m416
+Fri Jan  1 06:36:56 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:37:40 2021	Al Shebab (STEAM_0:0:103364981): /drop
+Fri Jan  1 06:37:46 2021	Al Shebab was killed by Layth with a m9k_gdcwa_rpg_heat
+Fri Jan  1 06:37:49 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 06:38:21 2021	Layth (STEAM_0:0:84012375): /warrant al
+Fri Jan  1 06:38:25 2021	Layth (STEAM_0:0:84012375): /warrant al because
+Fri Jan  1 06:38:35 2021	Layth (STEAM_0:0:84012375): /warrant Al shebab g
+Fri Jan  1 06:38:54 2021	Layth (STEAM_0:0:84012375): /unwarrant al
+Fri Jan  1 06:38:57 2021	Al Shebab (STEAM_0:0:103364981): 
+Fri Jan  1 06:38:59 2021	Layth (STEAM_0:0:84012375): /warrant al lolol
+Fri Jan  1 06:39:17 2021	Al Shebab (STEAM_0:0:103364981): // are you looking for the meth dealer?
+Fri Jan  1 06:39:21 2021	popbob1 (STEAM_0:1:90900081): /ooc ye
+Fri Jan  1 06:39:24 2021	popbob1 (STEAM_0:1:90900081): /ooc ye
+Fri Jan  1 06:39:37 2021	popbob1 (STEAM_0:1:90900081): /ooc yeah
+Fri Jan  1 06:39:55 2021	Al Shebab (STEAM_0:0:103364981): // down the tunnel to the right
+Fri Jan  1 06:39:55 2021	popbob1 (STEAM_0:1:90900081): /pm shebab ooc not working for some reason
+Fri Jan  1 06:40:05 2021	Layth (STEAM_0:0:84012375): /advert IF you look like a druggie, your dead
+Fri Jan  1 06:40:10 2021	Layth (STEAM_0:0:84012375): /ooc <3 jks
+Fri Jan  1 06:40:40 2021	popbob1 (STEAM_0:1:90900081): 34k
+Fri Jan  1 06:40:48 2021	popbob1 (STEAM_0:1:90900081): also i cant use the ooc 
+Fri Jan  1 06:40:51 2021	popbob1 (STEAM_0:1:90900081): for some reason
+Fri Jan  1 06:41:00 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 06:41:10 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 06:41:16 2021	popbob1 (STEAM_0:1:90900081): yeah it just does proximity
+Fri Jan  1 06:41:45 2021	Al Shebab (STEAM_0:0:103364981): ./ooc test
+Fri Jan  1 06:41:48 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 06:41:50 2021	Al Shebab (STEAM_0:0:103364981): /ooc test
+Fri Jan  1 06:41:50 2021	popbob1 (STEAM_0:1:90900081): nah
+Fri Jan  1 06:41:57 2021	Al Shebab (STEAM_0:0:103364981): .// test
+Fri Jan  1 06:42:00 2021	popbob1 (STEAM_0:1:90900081): // test
+Fri Jan  1 06:42:28 2021	popbob1 (STEAM_0:1:90900081): pm doesnt work either
+Fri Jan  1 06:42:59 2021	Al Shebab (STEAM_0:0:103364981): /pm she test
+Fri Jan  1 06:43:01 2021	Layth (STEAM_0:0:84012375) disconnected
+Fri Jan  1 06:43:01 2021	popbob1 (STEAM_0:1:90900081): /pm she test
+Fri Jan  1 06:43:05 2021	Al Shebab (STEAM_0:0:103364981): /pm pop test
+Fri Jan  1 06:43:09 2021	popbob1 (STEAM_0:1:90900081): //pm al test
+Fri Jan  1 06:43:12 2021	popbob1 (STEAM_0:1:90900081): /pm al test
+Fri Jan  1 06:43:19 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 34000
+Fri Jan  1 06:43:20 2021	Al Shebab (STEAM_0:0:103364981) has dropped $34,000
+Fri Jan  1 06:43:23 2021	popbob1 (STEAM_0:1:90900081): cheers
+Fri Jan  1 06:43:25 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 100000
+Fri Jan  1 06:43:26 2021	Al Shebab (STEAM_0:0:103364981) has dropped $100,000
+Fri Jan  1 06:43:32 2021	popbob1 (STEAM_0:1:90900081): shit thx
+Fri Jan  1 06:43:46 2021	popbob1 (STEAM_0:1:90900081): do you guys have an anticheat on this server?
+Fri Jan  1 06:44:15 2021	popbob1 (STEAM_0:1:90900081): yeah there's a really broken bypass that lets you inject lua scripts even if allowcslua is off
+Fri Jan  1 06:44:33 2021	popbob1 (STEAM_0:1:90900081): its easy aswell
+Fri Jan  1 06:45:21 2021	popbob1 (STEAM_0:1:90900081): servers have anticheats to detect it but when i was testing on sup and elite i wasnt autobanned
+Fri Jan  1 06:46:38 2021	popbob1 (STEAM_0:1:90900081): im guessing for some reason the allowcslua is listed as a server cvar but is clientside
+Fri Jan  1 06:48:04 2021	popbob1 (STEAM_0:1:90900081): im surprised it hasnt been used more often
+Fri Jan  1 06:48:13 2021	popbob1 (STEAM_0:1:90900081): there isnt very many videos on it tho
+Fri Jan  1 06:56:06 2021	popbob1 (STEAM_0:1:90900081): hold on im gonna reconnect
+Fri Jan  1 06:56:13 2021	popbob1 (STEAM_0:1:90900081) disconnected
+Fri Jan  1 07:00:23 2021	popbob1 (STEAM_0:1:90900081) has joined the game
+Fri Jan  1 07:00:23 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:01:08 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:01:57 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 07:01:57 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:03:18 2021	Layth (STEAM_0:0:84012375): /ooc pop
+Fri Jan  1 07:03:20 2021	Layth (STEAM_0:0:84012375): /ooc try ooc
+Fri Jan  1 07:03:23 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 07:03:36 2021	popbob1 (STEAM_0:1:90900081): /ooc test
+Fri Jan  1 07:03:37 2021	Layth (STEAM_0:0:84012375): /ooc oh dw, he didnt restart server
+Fri Jan  1 07:03:39 2021	Layth (STEAM_0:0:84012375): /ooc l0l
+Fri Jan  1 07:03:46 2021	Layth (STEAM_0:0:84012375): /ooc it will work after he restarts
+Fri Jan  1 07:04:21 2021	popbob1 (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:04:42 2021	popbob1 (STEAM_0:1:90900081): downloading addons now
+Fri Jan  1 07:05:12 2021	Layth (STEAM_0:0:84012375): /name Bilbo Maggins
+Fri Jan  1 07:05:37 2021	popbob1 (STEAM_0:1:90900081): !name tyrone numjah
+Fri Jan  1 07:06:53 2021	popbob1 (STEAM_0:1:90900081): /name Buhlow Jobs
+Fri Jan  1 07:07:30 2021	Buhlow Jobs (STEAM_0:1:90900081): havent seen a server use an image before
+Fri Jan  1 07:07:32 2021	Buhlow Jobs (STEAM_0:1:90900081): looks nice
+Fri Jan  1 07:07:44 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT decal
+Fri Jan  1 07:08:11 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT decal
+Fri Jan  1 07:08:21 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT decal
+Fri Jan  1 07:08:27 2021	Bilbo Maggins (STEAM_0:0:84012375): /ooc If u got any ideas for improvement, hit us up
+Fri Jan  1 07:08:33 2021	Buhlow Jobs (STEAM_0:1:90900081): /ooc no problem
+Fri Jan  1 07:08:46 2021	Bilbo Maggins (STEAM_0:0:84012375): /ooc join discord btw with !discord, would be amazing <3
+Fri Jan  1 07:08:52 2021	Buhlow Jobs (STEAM_0:1:90900081): already in
+Fri Jan  1 07:09:00 2021	Bilbo Maggins (STEAM_0:0:84012375): /ooc looool
+Fri Jan  1 07:11:32 2021	Buhlow Jobs (STEAM_0:1:90900081): is constant value superadmin only?
+Fri Jan  1 07:12:06 2021	Buhlow Jobs (STEAM_0:1:90900081): says its restricted to superadmins only
+Fri Jan  1 07:12:12 2021	Buhlow Jobs (STEAM_0:1:90900081): constant values
+Fri Jan  1 07:12:44 2021	Buhlow Jobs (STEAM_0:1:90900081): huh?
+Fri Jan  1 07:12:55 2021	Buhlow Jobs (STEAM_0:1:90900081): mouse interaction
+Fri Jan  1 07:13:13 2021	Buhlow Jobs (STEAM_0:1:90900081): should be in input/output
+Fri Jan  1 07:14:05 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:14:29 2021	Feeyne (STEAM_0:1:128868430) has joined the game
+Fri Jan  1 07:14:29 2021	Feeyne (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:14:53 2021	Bilbo Maggins (STEAM_0:0:84012375): 
+Fri Jan  1 07:15:03 2021	Bilbo Maggins was killed by Himself with a suicide trick
+Fri Jan  1 07:15:08 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:15:13 2021	Bilbo Maggins (STEAM_0:0:84012375): /me Signals Hello/Goodbye
+Fri Jan  1 07:15:25 2021	Bilbo Maggins was killed by Himself with a suicide trick
+Fri Jan  1 07:15:29 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:15:30 2021	Feeyne (STEAM_0:1:128868430): /name Feeyne Onbootings
+Fri Jan  1 07:15:37 2021	Feeyne Onbootings (STEAM_0:1:128868430): yeah
+Fri Jan  1 07:16:24 2021	Feeyne Onbootings (STEAM_0:1:128868430): 3p
+Fri Jan  1 07:16:30 2021	Feeyne Onbootings (STEAM_0:1:128868430): 
+Fri Jan  1 07:16:30 2021	Bilbo Maggins (STEAM_0:0:84012375): g
+Fri Jan  1 07:16:42 2021	Bilbo Maggins (STEAM_0:0:84012375): !DONATOR
+Fri Jan  1 07:16:43 2021	Bilbo Maggins (STEAM_0:0:84012375): 
+Fri Jan  1 07:17:40 2021	Al Shebab (STEAM_0:0:103364981): 
+Fri Jan  1 07:18:14 2021	Al Shebab (STEAM_0:0:103364981): !atags
+Fri Jan  1 07:18:31 2021	Bilbo Maggins (STEAM_0:0:84012375): !NOCLIP
+Fri Jan  1 07:19:48 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:19:51 2021	Bilbo Maggins (STEAM_0:0:84012375): !noclip
+Fri Jan  1 07:20:17 2021	Al Shebab (STEAM_0:0:103364981): !
+Fri Jan  1 07:20:19 2021	Al Shebab (STEAM_0:0:103364981): !gcopydecal
+Fri Jan  1 07:20:22 2021	Al Shebab (STEAM_0:0:103364981): !gcopydecal
+Fri Jan  1 07:20:25 2021	Al Shebab (STEAM_0:0:103364981): !gcopydecal
+Fri Jan  1 07:20:30 2021	Buhlow Jobs (STEAM_0:1:90900081): changing colours
+Fri Jan  1 07:20:32 2021	Al Shebab (STEAM_0:0:103364981): gcopydecal
+Fri Jan  1 07:20:33 2021	Al Shebab (STEAM_0:0:103364981): !gcopydecal
+Fri Jan  1 07:20:38 2021	Al Shebab (STEAM_0:0:103364981): !gcopydecal
+Fri Jan  1 07:20:53 2021	Bilbo Maggins (STEAM_0:0:84012375): !god
+Fri Jan  1 07:20:55 2021	Bilbo Maggins (STEAM_0:0:84012375): !god
+Fri Jan  1 07:20:57 2021	Bilbo Maggins (STEAM_0:0:84012375): !ungod
+Fri Jan  1 07:21:08 2021	Al Shebab (STEAM_0:0:103364981): 
+Fri Jan  1 07:22:09 2021	Buhlow Jobs (STEAM_0:1:90900081): colour changing text screen
+Fri Jan  1 07:22:27 2021	Buhlow Jobs (STEAM_0:1:90900081): just a bit of fun
+Fri Jan  1 07:22:49 2021	Bilbo Maggins (STEAM_0:0:84012375): I see ur from perth from your profile
+Fri Jan  1 07:22:53 2021	Bilbo Maggins (STEAM_0:0:84012375): you near morley? :P
+Fri Jan  1 07:23:07 2021	Buhlow Jobs (STEAM_0:1:90900081): im near mandurah lol
+Fri Jan  1 07:23:15 2021	Bilbo Maggins (STEAM_0:0:84012375): eww
+Fri Jan  1 07:23:17 2021	Bilbo Maggins (STEAM_0:0:84012375): :PPP
+Fri Jan  1 07:23:41 2021	Bilbo Maggins (STEAM_0:0:84012375): that is far af from me
+Fri Jan  1 07:23:54 2021	Buhlow Jobs (STEAM_0:1:90900081): i have friends who are in kondinin xd
+Fri Jan  1 07:24:15 2021	Buhlow Jobs (STEAM_0:1:90900081): its country side
+Fri Jan  1 07:24:46 2021	Buhlow Jobs (STEAM_0:1:90900081): any other servers?
+Fri Jan  1 07:25:04 2021	Buhlow Jobs (STEAM_0:1:90900081): ive just dicked around with the lua bypass on elitelupus
+Fri Jan  1 07:25:17 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Fri Jan  1 07:25:19 2021	Buhlow Jobs (STEAM_0:1:90900081): nah just cheating on elite lol
+Fri Jan  1 07:25:25 2021	Feeyne Onbootings (STEAM_0:1:128868430): 
+Fri Jan  1 07:25:38 2021	Buhlow Jobs (STEAM_0:1:90900081): aimbot doesnt work when everyone has op armour and health
+Fri Jan  1 07:26:15 2021	Buhlow Jobs (STEAM_0:1:90900081): nah i only cheat on the p2w servers
+Fri Jan  1 07:26:34 2021	Buhlow Jobs (STEAM_0:1:90900081): just fun to dick around with people
+Fri Jan  1 07:30:01 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:30:42 2021	Bilbo Maggins (STEAM_0:0:84012375): !placelaws
+Fri Jan  1 07:30:45 2021	Bilbo Maggins (STEAM_0:0:84012375): !placelaw
+Fri Jan  1 07:30:54 2021	Bilbo Maggins (STEAM_0:0:84012375): /placelaws
+Fri Jan  1 07:31:24 2021	Bilbo Maggins (STEAM_0:0:84012375): /
+Fri Jan  1 07:31:26 2021	Bilbo Maggins (STEAM_0:0:84012375): /placelaw
+Fri Jan  1 07:31:29 2021	Bilbo Maggins (STEAM_0:0:84012375): /placelaws
+Fri Jan  1 07:33:06 2021	Al Shebab was killed by Entity [0][worldspawn] with a unknown
+Fri Jan  1 07:33:07 2021	Bilbo Maggins was killed by Feeyne Onbootings with a m9k_ak47
+Fri Jan  1 07:33:11 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:33:11 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 07:33:13 2021	Buhlow Jobs was killed by Entity [516][gmod_wire_textscreen] with a gmod_wire_textscreen
+Fri Jan  1 07:33:16 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:33:20 2021	Feeyne Onbootings was killed by Entity [0][worldspawn] with a unknown
+Fri Jan  1 07:33:38 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:33:58 2021	Al Shebab was killed by Entity [516][gmod_wire_textscreen] with a gmod_wire_textscreen
+Fri Jan  1 07:34:01 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 07:34:09 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Fri Jan  1 07:34:12 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:34:47 2021	Buhlow Jobs was killed by Entity [516][gmod_wire_textscreen] with a gmod_wire_textscreen
+Fri Jan  1 07:34:50 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:34:55 2021	Bilbo Maggins (STEAM_0:0:84012375): !god
+Fri Jan  1 07:35:02 2021	Feeyne Onbootings was killed by Entity [0][worldspawn] with a unknown
+Fri Jan  1 07:35:09 2021	Bilbo Maggins (STEAM_0:0:84012375): !ungod
+Fri Jan  1 07:35:17 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:35:22 2021	Bilbo Maggins was killed by Feeyne Onbootings with a m9k_ak47
+Fri Jan  1 07:35:25 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:35:28 2021	Bilbo Maggins (STEAM_0:0:84012375): !god
+Fri Jan  1 07:35:57 2021	Al Shebab (STEAM_0:0:103364981): !atag
+Fri Jan  1 07:36:00 2021	Al Shebab (STEAM_0:0:103364981): !atags
+Fri Jan  1 07:36:20 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Fri Jan  1 07:36:23 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:36:32 2021	Bilbo Maggins (STEAM_0:0:84012375): /ooc join disc :)
+Fri Jan  1 07:36:49 2021	Buhlow Jobs (STEAM_0:1:90900081): aight im a squeaker though lol
+Fri Jan  1 07:37:40 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Fri Jan  1 07:37:42 2021	Bilbo Maggins (STEAM_0:0:84012375): !noclip
+Fri Jan  1 07:37:43 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:38:34 2021	Feeyne Onbootings was killed by Entity [0][worldspawn] with a unknown
+Fri Jan  1 07:38:42 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:39:09 2021	Al Shebab (STEAM_0:0:103364981): !spcadmin
+Fri Jan  1 07:39:15 2021	Al Shebab (STEAM_0:0:103364981): !sadmin
+Fri Jan  1 07:40:05 2021	Bilbo Maggins (STEAM_0:0:84012375): At ease trooper(s)!
+Fri Jan  1 07:40:06 2021	Bilbo Maggins (STEAM_0:0:84012375): !noclip
+Fri Jan  1 07:40:53 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:41:02 2021	Feeyne Onbootings was killed by Himself with a suicide trick
+Fri Jan  1 07:41:14 2021	Bilbo Maggins (STEAM_0:0:84012375): !god
+Fri Jan  1 07:41:17 2021	Bilbo Maggins (STEAM_0:0:84012375): !ungod
+Fri Jan  1 07:41:22 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:41:50 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Fri Jan  1 07:42:00 2021	Buhlow Jobs was killed by Al Shebab with a m9k_mad_c4
+Fri Jan  1 07:42:03 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:44:07 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Fri Jan  1 07:44:20 2021	Bilbo Maggins (STEAM_0:0:84012375): 
+Fri Jan  1 07:44:42 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Fri Jan  1 07:45:48 2021	Bilbo Maggins (STEAM_0:0:84012375): !bring fe
+Fri Jan  1 07:46:36 2021	Bilbo Maggins (STEAM_0:0:84012375) disconnected

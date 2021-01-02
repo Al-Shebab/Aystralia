@@ -1,0 +1,267 @@
+[04:53:49] New map: rp_downtown_v4c_v4_sewers
+[04:57:09] Client "Al Shebab" connected.
+
+
+
+[05:58:02] New map: rp_downtown_v4c_v4
+
+
+
+[19:04:41] New map: rp_downtown_v4c_v4
+
+
+
+[20:14:35] New map: rp_downtown_v4c_v4
+[20:14:47] Client "Al Shebab" connected.
+[20:18:04] Client "Al Shebab" connected.
+
+
+
+[20:21:11] New map: rp_downtown_v4c_v4
+
+
+
+[20:23:02] New map: rp_downtown_v4c_v4
+[20:23:34] Client "Al Shebab" connected.
+
+
+
+[20:30:56] New map: rp_downtown_v4c_v4
+[20:31:28] Client "Al Shebab" connected.
+[20:35:32] Client "Al Shebab" connected.
+
+
+
+[20:45:05] New map: rp_downtown_v4c_v4
+
+
+
+[20:51:46] New map: rp_downtown_v4c
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:51:48] Client "Al Shebab" connected.
+[20:53:45] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 117 seconds).
+[20:55:10] (Console) added Al Shebab to group superadmin
+[21:31:49] Al Shebab: !ulx
+[21:31:51] Al Shebab: !menu
+[21:33:33] Client "brexit" connected.
+[21:35:10] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 97 seconds).
+[21:35:36] Al Shebab added brexit to group superadmin
+[21:36:57] brexit: NIGGER FUCK U 
+
+
+
+[21:46:51] New map: rp_downtown_v4c
+[21:47:06] Client "Al Shebab" connected.
+[21:48:11] Client "brexit" connected.
+[21:48:32] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 86 seconds).
+[21:48:39] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 28 seconds).
+
+
+
+[22:00:56] New map: rp_downtown_v4c
+
+
+
+[22:04:02] New map: rp_downtown_v4c
+[22:05:41] Client "Al Shebab" connected.
+[22:05:45] Client "brexit" connected.
+[22:06:11] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 26 seconds).
+[22:06:54] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 73 seconds).
+[22:07:26] brexit: !menu
+
+
+
+[22:10:57] New map: rp_downtown_v4c
+[22:11:06] Client "Al Shebab" connected.
+[22:11:19] Client "brexit" connected.
+[22:11:42] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 23 seconds).
+[22:16:03] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 297 seconds).
+[22:16:14] brexit: !menu
+[22:18:01] brexit: !menu
+[22:18:46] brexit removed group operator
+[22:18:49] brexit removed group noaccess
+[22:19:22] brexit created group Trial Moderator which inherits rights from group user
+[22:19:27] brexit created group Moderator which inherits rights from group user
+[22:19:48] brexit created group Senior Moderator which inherits rights from group admin
+[22:20:04] Al Shebab: senior-moderator
+[22:20:10] brexit: !menu
+[22:20:14] brexit removed group Senior Moderator
+[22:20:20] brexit removed group Moderator
+[22:20:22] brexit removed group Trial Moderator
+[22:20:23] Al Shebab: bind "m" "ulx menu"
+[22:20:48] brexit created group senior-moderator which inherits rights from group admin
+[22:20:57] brexit created group moderator which inherits rights from group user
+[22:21:02] brexit created group trial-moderator which inherits rights from group user
+[22:21:16] brexit created group senior-admin which inherits rights from group admin
+[22:22:02] brexit: !menu
+[22:23:07] brexit froze Themself
+[22:23:08] brexit unfroze Themself
+[22:23:22] Al Shebab granted access "awarn_view" to group user
+[22:23:34] Al Shebab revoked access "ulx psay" to group user
+[22:23:35] Al Shebab granted access "ulx psay" to group user
+[22:23:45] Al Shebab revoked access "ulx thetime" to group user
+[22:23:48] Al Shebab revoked access "ulx motd" to group user
+[22:23:55] Al Shebab revoked access "ulx usermanagementhelp" to group user
+[22:23:58] brexit granted access "awarn_warn" to group trial-moderator
+[22:23:59] Al Shebab revoked access "ulx help" to group user
+[22:24:00] Al Shebab revoked access "ulx version" to group user
+[22:24:01] Al Shebab revoked access "ulx who" to group user
+[22:24:04] Al Shebab revoked access "ulx votemap" to group user
+[22:24:13] brexit granted access "ulx ungag" to group trial-moderator
+[22:24:15] brexit granted access "ulx gag" to group trial-moderator
+[22:24:22] Al Shebab: /p
+[22:24:23] brexit granted access "ulx freeze" to group trial-moderator
+[22:24:29] brexit granted access "ulx jail" to group trial-moderator
+[22:24:30] brexit granted access "ulx jailtp" to group trial-moderator
+[22:24:32] Al Shebab to brexit: niga
+[22:24:36] brexit granted access "ulx unfreeze" to group trial-moderator
+[22:24:41] brexit granted access "ulx unjail" to group trial-moderator
+[22:24:52] brexit granted access "ulx cloak" to group trial-moderator
+[22:24:55] brexit granted access "ulx uncloak" to group trial-moderator
+[22:25:12] brexit revoked access "ulx cloak" to group trial-moderator
+[22:25:15] brexit revoked access "ulx uncloak" to group trial-moderator
+[22:25:20] brexit granted access "ulx cexec" to group trial-moderator
+[22:25:21] brexit revoked access "ulx cexec" to group trial-moderator
+[22:25:24] brexit granted access "ulx bring" to group trial-moderator
+[22:25:25] brexit granted access "ulx goto" to group trial-moderator
+[22:25:31] brexit granted access "ulx teleport" to group trial-moderator
+[22:25:54] brexit granted access "ulx kick" to group trial-moderator
+[22:25:56] brexit granted access "ulx noclip" to group trial-moderator
+[22:26:05] Al Shebab created group new_group which inherits rights from group user
+[22:26:16] brexit granted access "awarn_warn" to group moderator
+[22:26:20] brexit granted access "ulx gag" to group moderator
+[22:26:23] brexit granted access "ulx mute" to group moderator
+[22:26:25] brexit granted access "ulx ungag" to group moderator
+[22:26:26] brexit granted access "ulx unmute" to group moderator
+[22:26:29] brexit granted access "ulx thetime" to group moderator
+[22:26:36] Al Shebab renamed group new_group to staff-manager
+[22:26:41] brexit granted access "ulx thetime" to group trial-moderator
+[22:26:51] brexit granted access "ulx hp" to group moderator
+[22:26:55] brexit granted access "ulx jail" to group moderator
+[22:26:56] brexit granted access "ulx jailtp" to group moderator
+[22:27:01] brexit granted access "ulx strip" to group moderator
+[22:27:05] brexit granted access "ulx unfreeze" to group moderator
+[22:27:09] brexit granted access "ulx unjail" to group moderator
+[22:27:12] brexit granted access "ulx freeze" to group moderator
+[22:27:19] Al Shebab changed group staff-manager to only be able to target !%superadmin
+[22:27:24] brexit granted access "ulx ungod" to group moderator
+[22:27:27] brexit granted access "ulx god" to group moderator
+[22:27:42] brexit granted access "ulx bring" to group moderator
+[22:27:43] brexit granted access "ulx goto" to group moderator
+[22:27:44] brexit granted access "ulx teleport" to group moderator
+[22:27:49] brexit granted access "ulx kick" to group moderator
+[22:27:50] brexit granted access "ulx ban" to group moderator
+[22:27:50] brexit granted access "ulx banid" to group moderator
+[22:27:53] Al Shebab changed group admin to only be able to target !%senior-admin
+[22:28:07] Al Shebab changed group senior-admin to only be able to target !%staff-manager
+[22:28:15] brexit granted access "ulx ban" with tag "* :1w" to group moderator
+[22:28:41] brexit granted access "ulx banid" with tag "* :1w" to group moderator
+[22:28:41] Al Shebab changed group senior-moderator to only be able to target !%admin
+[22:28:56] brexit granted access "ulx noclip" to group moderator
+[22:29:00] brexit granted access "ulx spectate" to group moderator
+[22:29:09] Al Shebab changed group moderator to only be able to target !%senior-moderator
+[22:29:24] Al Shebab changed group trial-moderator to only be able to target !%moderator
+[22:29:38] Al Shebab changed group user to only be able to target !%trial-moderator
+[22:30:53] brexit granted access "ulx physgunplayer" to group moderator
+[22:31:08] brexit added Al Shebab to group moderator
+[22:31:15] brexit added brexit to group moderator
+[22:31:26] brexit: !menu
+[22:31:40] brexit teleported to Al Shebab
+[22:31:42] brexit teleported Al Shebab
+[22:31:45] (Console) added Al Shebab to group superadmin
+[22:31:57] (Console) added brexit to group superadmin
+[22:33:04] Al Shebab: https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788
+[22:35:03] Dropped "brexit" from server<STEAM_0:1:121087763>
+[22:40:42] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[23:08:32] Client "brexit" connected.
+[23:08:55] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 23 seconds).
+[23:09:18] Client "Al Shebab" connected.
+[23:09:55] Dropped "brexit" from server<STEAM_0:1:121087763>
+[23:10:28] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 70 seconds).
+[23:11:18] Client "brexit" connected.
+[23:11:51] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 33 seconds).
+[23:12:35] brexit: !men u
+[23:12:39] brexit: !menu
+[23:12:55] brexit granted access "ulx physgunplayer" to group trial-moderator
+[23:13:45] brexit: !menu
+[23:14:12] Al Shebab killed brexit using player
+[23:14:29] Al Shebab: !ipconfig
+[23:14:29] brexit: !menu
+[23:14:34] Al Shebab: !pconfig
+[23:14:42] brexit revoked access "ulx seeanonymousechoes" to group admin
+[23:14:43] brexit revoked access "ulx spawnecho" to group admin
+[23:15:10] brexit granted access "ulx banid" to group admin
+[23:15:25] brexit killed Al Shebab using player
+[23:15:38] brexit killed Al Shebab using player
+[23:16:09] brexit killed Al Shebab using player
+[23:16:15] Al Shebab killed brexit using player
+[23:16:27] brexit killed Al Shebab using player
+[23:17:05] brexit<STEAM_0:1:121087763> spawned sent zwf_drystation
+[23:17:14] Al Shebab suicided!
+[23:17:15] Al Shebab killed brexit using m9k_davy_crockett_explo
+[23:17:23] Al Shebab suicided!
+[23:17:49] Al Shebab<STEAM_0:0:103364981> spawned sent grenade_helicopter
+[23:17:55] brexit suicided!
+[23:18:03] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[23:18:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[23:18:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[23:18:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[23:18:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[23:18:11] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+[23:18:11] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+[23:18:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+[23:18:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+[23:18:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+[23:18:13] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_rockets
+[23:18:23] Al Shebab killed brexit using m9k_ammo_rockets
+[23:18:23] Al Shebab suicided!
+[23:18:46] brexit: /drop
+[23:18:48] brexit: !menu
+[23:18:55] brexit granted access "ulx help" to group admin
+[23:18:58] brexit: !help
+[23:19:06] brexit: !menu
+[23:19:19] brexit revoked access "ulx whip" to group admin
+[23:19:27] brexit revoked access "ulx ignite" to group admin
+[23:19:32] brexit revoked access "ulx ragdoll" to group admin
+[23:19:33] brexit revoked access "ulx playsound" to group admin
+[23:19:38] brexit revoked access "ulx unigniteall" to group admin
+[23:19:39] brexit revoked access "ulx unignite" to group admin
+[23:19:48] brexit revoked access "ulx csay" to group admin
+[23:19:56] brexit revoked access "ulx tsay" to group admin
+[23:20:41] brexit: !menu
+[23:20:47] brexit: !menu
+[23:24:32] brexit: !menu
+[23:24:43] brexit granted access "ulx ignite" to group senior-admin
+[23:24:48] brexit granted access "ulx unigniteall" to group senior-admin
+[23:24:49] brexit granted access "ulx unignite" to group senior-admin
+[23:26:49] brexit granted access "ulx votemap" to group superadmin
+[23:26:56] brexit granted access "ulx csay" to group superadmin
+[23:26:57] brexit granted access "ulx tsay" to group superadmin
+[23:27:00] brexit granted access "ulx ignite" to group superadmin
+[23:27:01] brexit granted access "ulx playsound" to group superadmin
+[23:27:02] brexit granted access "ulx ragdoll" to group superadmin
+[23:27:04] brexit granted access "ulx unignite" to group superadmin
+[23:27:04] brexit granted access "ulx unigniteall" to group superadmin
+[23:27:05] brexit granted access "ulx whip" to group superadmin
+[23:27:11] brexit granted access "ulx usermanagementhelp" to group superadmin
+[23:27:20] brexit granted access "ulx seeanonymousechoes" to group superadmin
+[23:27:20] brexit granted access "ulx seeasay" to group superadmin
+[23:27:20] brexit granted access "ulx spawnecho" to group superadmin
+[23:27:35] brexit granted access "awarn_delete" to group staff-manager
+[23:27:42] brexit granted access "ulx maul" to group staff-manager
+[23:27:42] brexit granted access "ulx ragdoll" to group staff-manager
+[23:27:44] brexit granted access "ulx whip" to group staff-manager
+[23:28:26] brexit granted access "ulx seeanonymousechoes" to group staff-manager
+[23:28:27] brexit granted access "ulx seeasay" to group staff-manager
+[23:28:27] brexit granted access "ulx spawnecho" to group staff-manager
+[23:28:28] brexit granted access "ulx hiddenecho" to group staff-manager
+[23:29:19] brexit granted access "ulx adduser" to group staff-manager
+[23:29:22] brexit granted access "ulx removeuser" to group staff-manager
+[23:29:23] brexit granted access "ulx removegroup" to group staff-manager
+[23:29:24] brexit granted access "ulx removeuserid" to group staff-manager
+[23:29:46] brexit revoked access "ulx removegroup" to group staff-manager
+[23:29:48] brexit granted access "ulx adduserid" to group staff-manager
+<Logging continued in "data/ulx_logs/12-26-20.txt">

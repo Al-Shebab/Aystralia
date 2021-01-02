@@ -1,0 +1,8 @@
+; Add gimp says in this file, one per line.
+; Any line starting with a ';' is a comment
+
+I'm retarded
+I broke the rules
+I'm stupid
+I'm a gimp
+I'm a faggot
