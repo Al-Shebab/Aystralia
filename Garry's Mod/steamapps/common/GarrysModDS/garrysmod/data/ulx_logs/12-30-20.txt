@@ -1,2 +1,0 @@
-<Logging continued from "data/ulx_logs/12-29-20.txt">
-[00:07:45] Al Shebab: !donate
