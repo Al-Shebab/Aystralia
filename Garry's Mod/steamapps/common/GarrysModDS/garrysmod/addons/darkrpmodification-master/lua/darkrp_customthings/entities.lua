@@ -399,7 +399,7 @@ DarkRP.createEntity("Solar Panel", {
 DarkRP.createEntity("Armour Station", {
 ent = "armour_station",
 model = "models/props_c17/consolebox01a.mdl",
-price = 5000,
+price = 125000,
 max = 1,
 cmd = "armour_station",
 category = "Supplies"
