@@ -15976,9 +15976,12 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
 
 =======
+=======
+>>>>>>> Stashed changes
 [zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
   1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6
    2. Spawn - [C]:-1
@@ -28454,4 +28457,7 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
    2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
     3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
