@@ -1,14 +1,6 @@
 
 local puffs = {"001","067","133","199","265","331"}
 
-function EFFECT:Init(data)
-	self.ent = data:GetEntity()
-	if(IsValid(self.ent)) then
-		self.Emitter = ParticleEmitter( self.ent:GetPos() )
-	end
-	self.ent:EmitSound("player/footsteps/wade"..math.random(1,8)..".wav",60,100,0.7)
-end
-
 EFFECT.nFlash = 0
 
 function EFFECT:Think()
