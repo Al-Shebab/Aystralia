@@ -281,16 +281,6 @@ DarkRP.createEntity("Aluminium", {
 	category = "Meth Materials"
 })
 
-DarkRP.createEntity("Transport Palette", {
-	ent = "zmlab_palette",
-	model = "models/props_junk/wood_pallet001a.mdl",
-	price = 1000,
-	max = 3,
-	cmd = "buypalette_zmlab",
-	allowed = TEAM_METH_DEALER,
-	category = "Meth Materials"
-})
-
 -- Weed?? --
 
 DarkRP.createEntity("DoobyTable", {
