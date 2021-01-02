@@ -215,7 +215,7 @@ TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
 })
 TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
     color = Color(37, 110, 201, 255),
-    model = {"models/GrandTheftAuto5/Trevor.mdl"},
+    model = {"models/player/gru.mdl"},
     description = [[Deliver large arms and explosives to the city. Can not raid/mug. Donator ONLY]],
     weapons = {"m9k_ak47"},
     command = "TEAM_BLACK_MARKET_DEALER",
@@ -241,7 +241,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     color = Color(37, 110, 201, 255),
-    model = {"models/player/MKX_Jax.mdl"},
+    model = {"models/GrandTheftAuto5/Trevor.mdl"},
     description = [[Sell prescription drugs to those in need. Can not raid/mug.]],
     weapons = {},
     command = "TEAM_DRUG_DEALER",
