@@ -77,7 +77,7 @@ TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
 })
 TEAM_DJ = DarkRP.createJob("DJ", {
     color = Color(74, 255, 69, 255),
-    model = {"models/fortnite/female/dj_bop.mdl"},
+    model = {"models/player/daftpunk/daft_silver.mdl"},
     description = [[Allowed to hotmic music to others. Can not raid/mug. Can not use weapons.]],
     weapons = {},
     command = "TEAM_DJ",
