@@ -2153,3 +2153,57 @@ Al Shebab|2|STEAM_0:0:103364981
 
 
 
+_Jaspereeno_|4|STEAM_0:0:579690494
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+Issac|2|STEAM_0:1:33775918
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+Al Shebab|20|STEAM_0:0:103364981
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+Shroob|18|STEAM_0:0:118882021
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+Letnan. Roze|9|STEAM_0:0:116374287
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+duckmastergames|7|STEAM_0:0:512809868
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+popbob1|6|STEAM_0:1:90900081
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+ajww1|17|STEAM_0:1:146685194
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+
+Jaems™|13|STEAM_0:0:578081804
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+
+
+

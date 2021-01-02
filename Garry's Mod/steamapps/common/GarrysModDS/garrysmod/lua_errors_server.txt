@@ -15974,3 +15974,6 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
      4. fn - lua/permaprops/sv_lib.lua:233
       5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
 
+
+[executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
+

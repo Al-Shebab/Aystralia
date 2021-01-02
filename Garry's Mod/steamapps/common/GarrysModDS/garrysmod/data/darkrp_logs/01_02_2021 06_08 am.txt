@@ -1,0 +1,11 @@
+
+Sat Jan  2 06:44:25 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 06:44:28 2021	requise Bread was killed by Issac Wilderson with a prop_physics
+Sat Jan  2 06:44:31 2021	requise Bread (STEAM_0:0:579690494) spawned
+Sat Jan  2 06:44:40 2021	Al Shebab was killed by Issac Wilderson with a prop_physics
+Sat Jan  2 06:44:47 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 06:44:52 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 06:44:52 2021	tom green was killed by Entity [845][entityflame] with a entityflame
+Sat Jan  2 06:44:52 2021	Barack Obama was killed by Entity [918][entityflame] with a entityflame
+Sat Jan  2 06:44:55 2021	Barack Obama (STEAM_0:0:118882021) spawned
+Sat Jan  2 06:44:57 2021	tom green (STEAM_0:1:146685194) spawned

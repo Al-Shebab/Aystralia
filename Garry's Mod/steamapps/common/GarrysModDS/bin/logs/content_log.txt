@@ -2354,3 +2354,118 @@
 
 [2021-01-01 08:17:06] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
 [2021-01-01 08:17:08] Got 85 content servers from directory
+
+
+[2021-01-01 08:48:26] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-01 08:48:27] Got 85 content servers from directory
+
+
+[2021-01-01 08:49:23] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-01 08:49:25] Got 85 content servers from directory
+
+
+[2021-01-02 02:15:12] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 02:15:14] Got 85 content servers from directory
+[2021-01-02 02:15:15] AppID 4000 update changed : Running,
+[2021-01-02 02:15:15] AppID 4000 update changed : Running,Reconfiguring,
+[2021-01-02 02:15:15] AppID 4000 update changed : Running,
+[2021-01-02 02:15:18] AppID 4000 update started : download 0/0, store 0/0, reuse 0/0, delta 0/0, stage 0/0 
+[2021-01-02 02:15:18] AppID 4000 has no changes, active: 4000 (8358564942330412869),4000 (4174641390190538908),4000 (2245266697743520990),4000 (695695470355403720),4000 (9062542756382893211),4000 (5024634558251499918),4000 (3980872673006119756),4000 (2342072148406587808),4000 (7920653157843197922),4000 (7868187879513785058),4000 (2396435893468429967),4000 (2969067994618487161),4000 (1014809887363799842),4000 (540371725865338478),4000 (7174174913718651764),4000 (6679519380771513930),4000 (4443602172949555397),4000 (6782105036560892788),4000 (7277934915612267951), target: 4000 (8358564942330412869),4000 (4174641390190538908),4000 (2245266697743520990),4000 (695695470355403720),4000 (9062542756382893211),4000 (5024634558251499918),4000 (3980872673006119756),4000 (2342072148406587808),4000 (7920653157843197922),4000 (7868187879513785058),4000 (2396435893468429967),4000 (2969067994618487161),4000 (1014809887363799842),4000 (540371725865338478),4000 (7174174913718651764),4000 (6679519380771513930),4000 (4443602172949555397),4000 (6782105036560892788),4000 (7277934915612267951),
+[2021-01-02 02:15:18] AppID 4000 update changed : Running,Committing,
+[2021-01-02 02:15:18] AppID 4000 file commit : 0 updated, 0 moved, 0 deleted
+[2021-01-02 02:15:18] AppID 4000 update changed : Running,
+[2021-01-02 02:15:18] AppID 4000 update changed : None
+[2021-01-02 02:15:18] AppID 4000 update changed : Running,
+[2021-01-02 02:15:18] AppID 4000 update changed : Running,Reconfiguring,
+[2021-01-02 02:15:18] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 23,  using it
+[2021-01-02 02:15:18] Got 2 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (52/0)
+[2021-01-02 02:15:18] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2021-01-02 02:15:18] Created download interface of type 'CDN' (2) to host level3.cdn.steampipe.steamcontent.com (level3.cdn.steampipe.steamcontent.com)
+[2021-01-02 02:15:18] Enabling ipv6 dual-stack
+[2021-01-02 02:15:19] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.165:443 / 23.1.240.165:443, host: steampipe.akamaized.net): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2021-01-02 02:15:19] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.165:443 / 23.1.240.165:443, host: steampipe.akamaized.net): Disabling dual-stack for this connection
+[2021-01-02 02:15:19] Created ipv4-only http client
+[2021-01-02 02:15:19] HTTP (CDN,11) - steampipe.akamaized.net (104.72.70.11:443 / 104.72.70.11:443, host: steampipe.akamaized.net): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2021-01-02 02:15:19] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.9.124:443 / 8.246.9.124:443, host: level3.cdn.steampipe.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2021-01-02 02:15:19] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.9.124:443 / 8.246.9.124:443, host: level3.cdn.steampipe.steamcontent.com): Disabling dual-stack for this connection
+[2021-01-02 02:15:20] HTTP (CDN,11) - steampipe.akamaized.net (104.72.70.11:443 / 104.72.70.11:443, host: steampipe.akamaized.net): AuthenticateDepotID (4000) - Success!
+[2021-01-02 02:15:20] HTTP (CDN,11) - steampipe.akamaized.net (104.72.70.11:443 / 104.72.70.11:443, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/4000/manifest/3609397941068453593/5 - received 200 (OK) HTTP response
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,Preallocating,
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,
+[2021-01-02 02:15:20] AppID 4000 update started : download 0/48368, store 0/0, reuse 0/0, delta 0/0, stage 0/259038 
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,Downloading,
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,Downloading,Staging,
+[2021-01-02 02:15:20] Downloading 1 chunks from depot 4000
+[2021-01-02 02:15:20] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.9.124:443 / 8.246.9.124:443, host: level3.cdn.steampipe.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,Committing,
+[2021-01-02 02:15:20] AppID 4000 file commit : 2 updated, 0 moved, 0 deleted
+[2021-01-02 02:15:20] AppID 4000 update changed : Running,
+[2021-01-02 02:15:20] AppID 4000 update changed : None
+[2021-01-02 02:15:24] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.9.124:443 / 8.246.9.124:443, host: level3.cdn.steampipe.steamcontent.com): Closing connection
+[2021-01-02 02:15:24] HTTP (CDN,11) - steampipe.akamaized.net (104.72.70.11:443 / 104.72.70.11:443, host: steampipe.akamaized.net): Closing connection
+
+
+[2021-01-02 02:16:29] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 02:16:31] Got 85 content servers from directory
+
+
+[2021-01-02 02:18:47] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 02:18:49] Got 85 content servers from directory
+
+
+[2021-01-02 02:19:57] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 02:19:59] Got 85 content servers from directory
+
+
+[2021-01-02 06:06:39] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 06:06:41] Got 85 content servers from directory
+
+
+[2021-01-02 06:07:06] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 06:07:08] Got 85 content servers from directory
+
+
+[2021-01-02 06:08:00] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 06:08:02] Got 85 content servers from directory
+
+
+[2021-01-02 06:45:04] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
+[2021-01-02 06:45:05] Got 85 content servers from directory
+[2021-01-02 06:45:07] AppID 4000 update changed : Running,
+[2021-01-02 06:45:07] AppID 4000 update changed : Running,Reconfiguring,
+[2021-01-02 06:45:07] AppID 4000 update changed : Running,
+[2021-01-02 06:45:08] AppID 4000 update started : download 0/0, store 0/0, reuse 0/0, delta 0/0, stage 0/0 
+[2021-01-02 06:45:08] AppID 4000 has no changes, active: 4000 (8358564942330412869),4000 (4174641390190538908),4000 (2245266697743520990),4000 (695695470355403720),4000 (9062542756382893211),4000 (5024634558251499918),4000 (3980872673006119756),4000 (2342072148406587808),4000 (7920653157843197922),4000 (7868187879513785058),4000 (2396435893468429967),4000 (2969067994618487161),4000 (1014809887363799842),4000 (540371725865338478),4000 (7174174913718651764),4000 (6679519380771513930),4000 (4443602172949555397),4000 (6782105036560892788),4000 (7277934915612267951), target: 4000 (8358564942330412869),4000 (4174641390190538908),4000 (2245266697743520990),4000 (695695470355403720),4000 (9062542756382893211),4000 (5024634558251499918),4000 (3980872673006119756),4000 (2342072148406587808),4000 (7920653157843197922),4000 (7868187879513785058),4000 (2396435893468429967),4000 (2969067994618487161),4000 (1014809887363799842),4000 (540371725865338478),4000 (7174174913718651764),4000 (6679519380771513930),4000 (4443602172949555397),4000 (6782105036560892788),4000 (7277934915612267951),
+[2021-01-02 06:45:08] AppID 4000 update changed : Running,Committing,
+[2021-01-02 06:45:08] AppID 4000 file commit : 0 updated, 0 moved, 0 deleted
+[2021-01-02 06:45:08] AppID 4000 update changed : Running,
+[2021-01-02 06:45:08] AppID 4000 update changed : None
+[2021-01-02 06:45:09] AppID 4000 update changed : Running,
+[2021-01-02 06:45:09] AppID 4000 update changed : Running,Reconfiguring,
+[2021-01-02 06:45:09] Convar says 100% should use BYieldingGetServersForSteamPipe, we rolled 52,  using it
+[2021-01-02 06:45:09] Got 2 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (52/0)
+[2021-01-02 06:45:09] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2021-01-02 06:45:09] Created download interface of type 'CDN' (2) to host level3.cdn.steampipe.steamcontent.com (level3.cdn.steampipe.steamcontent.com)
+[2021-01-02 06:45:09] Enabling ipv6 dual-stack
+[2021-01-02 06:45:10] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.128:443 / 23.1.240.128:443, host: steampipe.akamaized.net): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2021-01-02 06:45:10] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.128:443 / 23.1.240.128:443, host: steampipe.akamaized.net): Disabling dual-stack for this connection
+[2021-01-02 06:45:10] Created ipv4-only http client
+[2021-01-02 06:45:10] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.8.124:443 / 8.246.8.124:443, host: level3.cdn.steampipe.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - timed out
+[2021-01-02 06:45:10] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.8.124:443 / 8.246.8.124:443, host: level3.cdn.steampipe.steamcontent.com): Disabling dual-stack for this connection
+[2021-01-02 06:45:11] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.128:443 / 23.1.240.128:443, host: steampipe.akamaized.net): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2021-01-02 06:45:11] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.128:443 / 23.1.240.128:443, host: steampipe.akamaized.net): AuthenticateDepotID (4000) - Success!
+[2021-01-02 06:45:11] HTTP (CDN,11) - steampipe.akamaized.net (23.1.240.128:443 / 23.1.240.128:443, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/4000/manifest/3609397941068453593/5 - received 200 (OK) HTTP response
+[2021-01-02 06:45:12] AppID 4000 update changed : Running,
+[2021-01-02 06:45:12] AppID 4000 update changed : Running,Preallocating,
+[2021-01-02 06:45:12] AppID 4000 update changed : Running,
+[2021-01-02 06:45:12] AppID 4000 update started : download 0/48368, store 0/0, reuse 0/0, delta 0/0, stage 0/259038 
+[2021-01-02 06:45:12] AppID 4000 update changed : Running,Downloading,
+[2021-01-02 06:45:12] AppID 4000 update changed : Running,Downloading,Staging,
+[2021-01-02 06:45:12] Downloading 1 chunks from depot 4000
+[2021-01-02 06:45:12] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.1.252:443 / 8.246.1.252:443, host: level3.cdn.steampipe.steamcontent.com): CDepotHTTPDownloadInterface::BYldTestConnection - Server response 'OK' (200)
+[2021-01-02 06:45:12] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.1.252:443 / 8.246.1.252:443, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (4000) - Success!
+
+
+[2021-01-02 06:45:12] Loaded 0 apps from install folder "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\steamapps\appmanifest_*.acf".
