@@ -418,3 +418,12 @@ DarkRP.createEntity("Solar Panel", {
     allowed = {TEAM_BITCOIN_MINER},
     category = "Bitcoin"
 })
+    
+DarkRP.createEntity("Armour Station", {
+ent = "armour_station",
+model = "models/props_c17/consolebox01a.mdl",
+price = 5000,
+max = 1,
+cmd = "armour_station",
+category = "Supplies"
+})
