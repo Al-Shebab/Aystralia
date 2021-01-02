@@ -15977,9 +15977,12 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [executioner] addons/executioner/lua/autorun/executioner_config.lua:124: '=' expected near 'col'
 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 [zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_buyer_npc/init.lua:6: attempt to index field 'config' (a nil value)
@@ -28458,6 +28461,9 @@ addons/ulx-master/lua/ulx/log.lua:480: bad argument #2 to 'format' (number expec
     3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
