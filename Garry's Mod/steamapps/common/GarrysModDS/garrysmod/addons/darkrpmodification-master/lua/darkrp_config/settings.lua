@@ -203,7 +203,7 @@ GM.Config.entremovedelay                = 90
 -- gunlabweapon - The weapon that the gunlab spawns.
 GM.Config.gunlabweapon                  = "m9k_ak47"
 -- jailtimer - Sets the jailtimer (in seconds).
-GM.Config.jailtimer                     = 300
+GM.Config.jailtimer                     = 180
 -- lockdowndelay - The amount of time a mayor must wait before starting the next lockdown.
 GM.Config.lockdowndelay                 = 600
 -- maxadvertbillboards - The maximum number of /advert billboards a player can place.
