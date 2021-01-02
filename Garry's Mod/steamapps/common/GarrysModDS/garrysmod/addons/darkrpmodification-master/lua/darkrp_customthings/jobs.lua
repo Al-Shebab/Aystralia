@@ -14,25 +14,7 @@ Add your custom jobs under the following line:
 
 
 -- Civilians --
-TEAM_CITIZEN = DarkRP.createJob("Citizen", {
-    color = Color(34, 85, 85, 255),
-    model = {
-        "models/player/Group01/female_02.mdl",
-        "models/player/Group01/female_01.mdl",
-        "models/player/Group01/male_01.mdl",
-        "models/player/Group01/male_02.mdl"
-    },
-    description = [[Default job. Can not raid/mug. Can not use weapons.]]],
-    weapons = {},
-    command = "TEAM_CITIZEN",
-    max = 0,
-    salary = 750,
-    admin = 0,
-    vote = false,
-    hasLicense = false,
-    candemote = false,
-    category = "Citizens"
-})
+
 TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
     color = Color(74, 255, 69, 255),
     model = {"models/player/magnusson.mdl"},
