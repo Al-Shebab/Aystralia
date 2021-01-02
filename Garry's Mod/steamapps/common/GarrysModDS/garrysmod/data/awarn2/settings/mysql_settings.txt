@@ -1,0 +1,13 @@
+{
+	"mysql_config": {
+		"Host": "127.0.0.1",
+		"Password": "",
+		"EnableMySQL": false,
+		"Database_port": 3306.0,
+		"MultiStatements": false,
+		"Username": "root",
+		"Database_name": "awarn2",
+		"Preferred_module": "mysqloo"
+	},
+	"ServerKey": "Server 1"
+}

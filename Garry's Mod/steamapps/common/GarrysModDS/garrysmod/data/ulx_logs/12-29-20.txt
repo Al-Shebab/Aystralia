@@ -1,0 +1,478 @@
+[00:35:40] New map: rp_downtown_v4c
+
+
+
+[00:41:12] New map: rp_downtown_v4c
+[00:46:39] Client "Al Shebab" connected.
+[00:48:53] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 134 seconds).
+[04:50:55] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/sl65amg.mdl
+[04:50:59] Al Shebab: sl65amgtdm 
+[04:52:28] Client "brexit" connected.
+[04:52:58] Client "Jacktank" connected.
+[04:53:28] Client "brexit" spawned in server <STEAM_0:1:121087763> (took 60 seconds).
+[04:54:55] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 117 seconds).
+[04:56:25] brexit killed Red Hairline using player
+[04:58:54] Al Shebab: /setspawn TEAM_MUTANT
+[04:59:03] Al Shebab: /setspawn TEAM_MUTANT_KING
+[04:59:30] brexit suicided!
+[04:59:45] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_nuke
+[04:59:48] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_nuke
+[04:59:53] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:54] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:55] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:55] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:55] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:55] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:56] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[04:59:56] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:30] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:31] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:31] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:31] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:31] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:31] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:00:31] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+[05:01:49] Al Shebab: !kick red
+[05:01:49] Al Shebab kicked Red Hairline
+[05:01:49] Dropped "Red Hairline" from server<STEAM_0:1:51163583>
+[05:01:56] Client "Jacktank" connected.
+[05:02:12] Al Shebab: !stopsound
+[05:02:15] Al Shebab: !stopsounds
+[05:02:15] Al Shebab stopped sounds
+[05:02:30] brexit: !goto red
+[05:02:44] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 48 seconds).
+[05:03:38] brexit killed Al Shebab using m9k_improvised_explosive
+[05:04:21] brexit killed Red Hairline using m9k_proxy
+[05:04:53] Red Hairline killed brexit using gmod_wire_explosive
+[05:04:53] Red Hairline suicided!
+[05:05:08] Red Hairline suicided!
+[05:05:18] Red Hairline suicided!
+[05:05:18] Red Hairline killed brexit using gmod_wire_explosive
+[05:05:29] Red Hairline killed brexit using gmod_wire_explosive
+[05:05:50] brexit killed Red Hairline using m9k_mad_c4
+[05:06:07] brexit killed Al Shebab using m9k_mad_c4
+[05:07:06] brexit killed Red Hairline using m9k_mad_c4
+[05:07:55] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:08:12] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:08:16] Red Hairline killed brexit using gmod_wire_turret
+[05:08:32] Red Hairline suicided!
+[05:08:38] Red Hairline suicided!
+[05:08:46] Red Hairline suicided!
+[05:08:55] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:09:00] Red Hairline killed Al Shebab using gmod_wire_turret
+[05:09:03] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:09:03] brexit suicided!
+[05:09:06] Red Hairline suicided!
+[05:09:15] brexit: !3p
+[05:09:16] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:09:17] Red Hairline suicided!
+[05:09:24] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:09:30] Red Hairline suicided!
+[05:09:36] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:09:47] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:09:52] Red Hairline killed Al Shebab using gmod_wire_turret
+[05:09:53] brexit: !3p
+[05:09:58] Al Shebab: !god
+[05:09:58] Al Shebab granted god mode upon Themself
+[05:10:00] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:10:08] Al Shebab killed brexit using m9k_m202_rocket
+[05:10:25] Red Hairline killed brexit using gmod_wire_turret
+[05:10:35] Al Shebab killed Red Hairline using m9k_m202_rocket
+[05:10:35] Al Shebab killed brexit using m9k_m202_rocket
+[05:10:41] brexit: !ungod al
+[05:10:41] brexit revoked god mode from Al Shebab
+[05:10:50] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+[05:10:55] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+[05:10:56] brexit: !cleardecals
+[05:10:56] brexit cleared decals
+[05:11:01] Al Shebab killed brexit using m9k_m202_rocket
+[05:11:01] Al Shebab suicided!
+[05:11:04] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+[05:11:16] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+[05:11:27] brexit<STEAM_0:1:121087763> spawned model models/cranes/crane_frame.mdl
+[05:11:30] brexit<STEAM_0:1:121087763> spawned model models/cranes/crane_frame.mdl
+[05:11:31] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+[05:11:38] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+[05:11:39] Red Hairline<STEAM_0:1:51163583> spawned model models/weapons/w_smg_mp5.mdl
+[05:11:39] Red Hairline<STEAM_0:1:51163583> spawned vehicle models/nova/chair_office02.mdl
+[05:11:48] brexit killed Al Shebab using player
+[05:12:08] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:08] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/windows/window1x1.mdl
+[05:12:08] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate025x1.mdl
+[05:12:08] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/phxtended/bar1x.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/misc/platehole1x1a.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/squad/sf_plates/sf_plate4x4.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/phxtended/bar1x.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate025x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:09] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+[05:12:31] brexit killed Red Hairline using player
+[05:12:58] brexit killed Al Shebab using player
+[05:13:02] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[05:13:02] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_angle360.mdl
+[05:13:03] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_angle360.mdl
+[05:13:08] Al Shebab suicided!
+[05:13:34] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+[05:13:34] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+[05:14:10] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+[05:14:10] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+[05:14:54] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[05:17:27] Red Hairline<STEAM_0:1:51163583> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[05:18:38] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:18:57] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:08] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:08] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:09] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:15] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:16] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:18] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:19] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:20] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:22] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:23] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:24] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:25] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:26] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:27] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:28] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:29] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:30] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:31] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:32] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:33] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:34] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:35] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:36] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:37] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:38] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:39] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:40] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:41] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:44] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:46] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:48] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:50] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:51] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:52] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:52] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:53] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:54] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:55] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:56] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:57] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:19:58] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:20:01] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:20:58] brexit suicided!
+[05:20:59] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:21:03] brexit suicided!
+[05:21:03] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:21:15] Red Hairline<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[05:21:19] Red Hairline<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[05:21:26] Red Hairline<STEAM_0:1:51163583> spawned model models/props_junk/plasticcrate01a.mdl
+[05:21:28] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:21:29] brexit suicided!
+[05:21:33] brexit suicided!
+[05:21:43] Client "Al Shebab" connected.
+[05:21:54] brexit suicided!
+[05:21:54] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:21:58] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:21:59] brexit suicided!
+[05:22:34] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 51 seconds).
+[05:22:36] Red Hairline: !bring brexit
+[05:22:50] Red Hairline killed Al Shebab using weapon_fists
+[05:22:56] Al Shebab: !god
+[05:22:56] Al Shebab granted god mode upon Themself
+[05:22:56] brexit killed Red Hairline using m9k_launched_ex41
+[05:23:03] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:04] brexit suicided!
+[05:23:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:04] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:23:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:04] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:05] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:07] brexit suicided!
+[05:23:08] Red Hairline: !god ^
+[05:23:08] Red Hairline granted god mode upon Themself
+[05:23:08] brexit killed Red Hairline using m9k_released_poison
+[05:23:09] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:10] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:10] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:11] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:12] brexit: !god  ^
+[05:23:12] brexit granted god mode upon Themself
+[05:23:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:12] brexit suicided!
+[05:23:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:13] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:13] brexit killed Red Hairline using m9k_released_poison
+[05:23:13] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:15] Red Hairline: !menu
+[05:23:17] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:17] brexit suicided!
+[05:23:17] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:18] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:18] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:19] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:20] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:20] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:21] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:21] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:22] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:22] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:23] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:23] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[05:23:23] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:23] brexit suicided!
+[05:23:24] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:25] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:25] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:27] brexit: !god ^
+[05:23:27] brexit granted god mode upon Themself
+[05:23:28] brexit suicided!
+[05:23:31] brexit suicided!
+[05:23:33] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:33] Copied IP Address of brexit
+[05:23:34] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:35] brexit suicided!
+[05:23:35] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:36] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:36] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:37] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:37] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:38] brexit killed Red Hairline using m9k_released_poison
+[05:23:38] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:39] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:39] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:40] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:40] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:41] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:41] brexit killed Red Hairline using m9k_released_poison
+[05:23:42] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:43] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:43] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:44] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:44] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:45] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:45] brexit killed Red Hairline using m9k_released_poison
+[05:23:45] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:46] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:46] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:46] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:47] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:47] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:48] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:48] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:48] brexit killed Red Hairline using m9k_released_poison
+[05:23:49] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:49] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:50] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:50] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:50] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:51] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:51] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:53] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:53] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:53] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:54] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:54] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:55] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:55] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:56] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:57] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:58] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:59] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:59] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:23:59] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:00] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:00] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:01] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:01] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:02] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:02] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[05:24:06] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:06] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:07] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:07] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:07] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:08] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:11] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:12] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:13] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:14] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:14] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:15] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:15] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:15] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:16] brexit killed Red Hairline using m9k_davy_crockett_explo
+[05:24:16] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:16] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:17] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:17] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:18] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:19] brexit suicided!
+[05:24:19] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:19] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:20] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:21] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:21] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:21] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:22] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:22] brexit suicided!
+[05:24:22] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:23] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:23] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:24] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:24] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:24] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:25] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_nuke
+[05:24:26] brexit suicided!
+[05:24:26] brexit killed Red Hairline using m9k_released_poison
+[05:24:28] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:29] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:29] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:29] brexit suicided!
+[05:24:30] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:30] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:31] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:31] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:31] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:32] Al Shebab<STEAM_0:0:103364981> spawned sent m9k_ammo_proxmines
+[05:24:34] brexit suicided!
+[05:24:37] brexit suicided!
+[05:24:42] brexit suicided!
+[05:24:43] Al Shebab: !bring *
+[05:24:43] Al Shebab brought Red Hairline
+[05:24:46] brexit suicided!
+
+
+
+[05:27:40] New map: rp_downtown_v4c
+[05:28:40] Client "Jacktank" connected.
+[05:29:24] Client "Jacktank" spawned in server <STEAM_0:1:51163583> (took 44 seconds).
+[05:30:00] Client "Al Shebab" connected.
+[05:30:17] Red Hairline: Al shebab
+[05:30:32] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 32 seconds).
+[05:30:34] Red Hairline: target al shebab
+[05:30:39] Red Hairline: Red hairline
+[05:30:55] Red Hairline: Target Red Hairline
+[05:31:06] Red Hairline: Target Al Shebab
+[05:31:14] Red Hairline: target al shebab
+[05:31:23] Red Hairline: target al shebab
+[05:31:36] Red Hairline: target al shebab
+[05:31:57] Red Hairline: target al shebab
+[05:32:06] Red Hairline: Target Al Shebab
+[05:32:22] Red Hairline: Target Al Shebab
+[05:32:38] Al Shebab: !menu
+[05:32:49] Al Shebab removed all access rights from Jacktank
+[05:33:34] Red Hairline suicided!
+[05:33:34] Red Hairline killed Al Shebab using gmod_wire_explosive
+[05:35:45] Red Hairline: Target Al Shebab
+[05:37:09] Red Hairline: Target Al Shebab
+[05:40:05] Red Hairline: Target Al Shebab
+[05:44:28] Red Hairline<STEAM_0:1:51163583> spawned model models/props_c17/fence03a.mdl
+[05:46:47] Red Hairline<STEAM_0:1:51163583> spawned model models/props_c17/fence03a.mdl
+[05:46:54] Red Hairline<STEAM_0:1:51163583> spawned model models/props_c17/fence03a.mdl
+[05:47:08] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/combine_fence01a.mdl
+[05:47:11] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:47:14] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:47:16] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+[05:53:50] Al Shebab added Red Hairline to group superadmin
+[05:54:02] Red Hairline: /rpname SawCon
+[05:55:27] SawCon<STEAM_0:1:51163583> spawned model models/props_c17/trappropeller_blade.mdl
+[05:55:48] Dropped "SawCon" from server<STEAM_0:1:51163583>
+
+
+
+[17:22:07] New map: rp_downtown_v4c
+
+
+
+[17:25:58] New map: rp_downtown_v4c
+
+
+
+[17:37:02] New map: rp_downtown_v4c
+[17:37:10] Client "Al Shebab" connected.
+[17:37:51] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 41 seconds).
+
+
+
+[17:50:55] New map: rp_downtown_v4c
+[17:51:52] Client "Al Shebab" connected.
+[17:52:21] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 29 seconds).
+
+
+
+[18:08:43] New map: rp_downtown_v4c
+[18:08:50] Client "Al Shebab" connected.
+[18:08:56] Client "Al Shebab" connected.
+[18:10:44] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 108 seconds).
+[21:15:55] Al Shebab added Themself to group superadmin
+[21:21:50] Al Shebab: !donate
+[21:37:40] Al Shebab: /setmoney
+[21:37:46] Al Shebab: /setmoney she 1
+[21:43:42] (Console) added brexit to group perth
+
+
+
+[21:50:39] New map: rp_downtown_v4c
+[21:51:09] Client "Al Shebab" connected.
+[21:51:48] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 39 seconds).
+
+
+
+[21:59:42] New map: rp_downtown_v4c
+[22:00:11] Client "Al Shebab" connected.
+[22:00:42] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 31 seconds).
+[22:01:18] Al Shebab gave $1000 to Themself
+[22:01:20] Al Shebab gave $1000 to Themself
+[22:01:20] Al Shebab gave $1000 to Themself
+[22:01:20] Al Shebab gave $1000 to Themself
+
+
+
+[22:16:17] New map: rp_downtown_v4c
+[22:20:40] Client "Al Shebab" connected.
+[22:21:10] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[22:25:20] Al Shebab: acd_givevehicle STEAM_0:0:103364981 p1tdm
+[22:25:28] Al Shebab: p1tdm
+[23:32:19] Al Shebab: !donate
+
+
+
+[23:43:38] New map: rp_downtown_v4c
+[23:43:56] Client "Al Shebab" connected.
+[23:44:26] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 30 seconds).
+[23:46:44] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[23:47:14] Client "Al Shebab" connected.
+[23:47:54] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 40 seconds).
+[23:55:45] Al Shebab: !setmoney sheb 50000
+<Logging continued in "data/ulx_logs/12-30-20.txt">

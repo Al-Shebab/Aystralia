@@ -1,0 +1,74 @@
+Sun Dec 27 07:12:40 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Dec 27 07:12:40 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 07:14:24 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 07:14:50 2020	brexit (STEAM_0:1:121087763) has joined the game
+Sun Dec 27 07:14:50 2020	brexit (STEAM_0:1:121087763) spawned
+Sun Dec 27 07:15:46 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 07:15:47 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 07:15:53 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 07:16:38 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 07:17:18 2020	Al Shebab was killed by brexit with a m9k_milkor_nade
+Sun Dec 27 07:17:22 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 07:17:43 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 07:18:00 2020	brexit (STEAM_0:1:121087763): t
+Sun Dec 27 07:18:04 2020	brexit (STEAM_0:1:121087763): !menu\
+Sun Dec 27 07:18:07 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 07:18:22 2020	Al Shebab (STEAM_0:0:103364981): 
+Sun Dec 27 07:18:27 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 07:19:23 2020	Jacktank (STEAM_0:1:51163583) has joined the game
+Sun Dec 27 07:19:23 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:19:28 2020	brexit (STEAM_0:1:121087763): !fcdadminn
+Sun Dec 27 07:19:33 2020	brexit (STEAM_0:1:121087763): 
+Sun Dec 27 07:20:35 2020	brexit (STEAM_0:1:121087763): !menu
+Sun Dec 27 07:22:42 2020	brexit (STEAM_0:1:121087763) disconnected
+Sun Dec 27 07:23:08 2020	Jacktank was killed by Entity [0][worldspawn] with a unknown
+Sun Dec 27 07:23:11 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:25:31 2020	Al Shebab (STEAM_0:0:103364981): !bhop 1
+Sun Dec 27 07:27:51 2020	Jacktank was killed by Entity [0][worldspawn] with a unknown
+Sun Dec 27 07:27:53 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:28:23 2020	Al Shebab was killed by Jacktank with a prop_physics
+Sun Dec 27 07:28:26 2020	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Dec 27 07:30:02 2020	Jacktank (STEAM_0:1:51163583): !apply
+Sun Dec 27 07:31:06 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 07:31:48 2020	Jacktank was killed by Himself with a suicide trick
+Sun Dec 27 07:31:52 2020	Jacktank (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:31:58 2020	Jacktank (STEAM_0:1:51163583): !menu
+Sun Dec 27 07:32:32 2020	Jacktank (STEAM_0:1:51163583): !jail @
+Sun Dec 27 07:32:42 2020	Jacktank (STEAM_0:1:51163583): !jail ^
+Sun Dec 27 07:32:53 2020	Jacktank (STEAM_0:1:51163583): !unjail ^
+Sun Dec 27 07:33:07 2020	Jacktank (STEAM_0:1:51163583): /rpname A B C D F G
+Sun Dec 27 07:33:21 2020	A B C D F G (STEAM_0:1:51163583): !jail A
+Sun Dec 27 07:33:28 2020	Al Shebab (STEAM_0:0:103364981): !jail *
+Sun Dec 27 07:33:30 2020	A B C D F G (STEAM_0:1:51163583): !unjail ^
+Sun Dec 27 07:33:35 2020	Al Shebab (STEAM_0:0:103364981): !unjail *
+Sun Dec 27 07:33:35 2020	A B C D F G (STEAM_0:1:51163583): !unjail @
+Sun Dec 27 07:34:55 2020	A B C D F G was killed by Himself with a suicide trick
+Sun Dec 27 07:34:58 2020	A B C D F G (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:35:30 2020	A B C D F G (STEAM_0:1:51163583): !rpname Rolply name
+Sun Dec 27 07:35:37 2020	A B C D F G (STEAM_0:1:51163583): !setname  
+Sun Dec 27 07:35:43 2020	A B C D F G (STEAM_0:1:51163583): /rpname     
+Sun Dec 27 07:36:07 2020	A B C D F G (STEAM_0:1:51163583): /rpname 黑鬼
+Sun Dec 27 07:36:12 2020	A B C D F G (STEAM_0:1:51163583): cp
+Sun Dec 27 07:36:14 2020	A B C D F G (STEAM_0:1:51163583): /y
+Sun Dec 27 07:40:45 2020	A B C D F G was killed by Himself with a suicide trick
+Sun Dec 27 07:40:48 2020	A B C D F G (STEAM_0:1:51163583) spawned
+Sun Dec 27 07:43:36 2020	A B C D F G (STEAM_0:1:51163583): !goto al
+Sun Dec 27 07:46:40 2020	A B C D F G (STEAM_0:1:51163583): !goto al
+Sun Dec 27 07:49:00 2020	A B C D F G (STEAM_0:1:51163583): !bring al
+Sun Dec 27 07:50:28 2020	A B C D F G (STEAM_0:1:51163583): !bring al
+Sun Dec 27 07:55:15 2020	A B C D F G (STEAM_0:1:51163583): !menuy
+Sun Dec 27 07:56:18 2020	A B C D F G (STEAM_0:1:51163583) disconnected
+Sun Dec 27 07:56:48 2020	Al Shebab (STEAM_0:0:103364981) disconnected
+Sun Dec 27 08:24:15 2020	erik (STEAM_0:1:512068525) has joined the game
+Sun Dec 27 08:24:15 2020	erik (STEAM_0:1:512068525) spawned
+Sun Dec 27 08:24:57 2020	erik (STEAM_0:1:512068525) disconnected
+Sun Dec 27 08:49:20 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) has joined the game
+Sun Dec 27 08:49:20 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) spawned
+Sun Dec 27 08:49:53 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) disconnected
+Sun Dec 27 08:59:12 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) has joined the game
+Sun Dec 27 08:59:12 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) spawned
+Sun Dec 27 09:00:31 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) spawned
+Sun Dec 27 09:00:46 2020	☭DinRalleMus☭ (STEAM_0:0:513057140): cheese
+Sun Dec 27 09:04:36 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) spawned
+Sun Dec 27 09:06:18 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) spawned
+Sun Dec 27 09:06:39 2020	☭DinRalleMus☭ (STEAM_0:0:513057140) disconnected

@@ -1,0 +1,27 @@
+Fri Jan  1 05:40:13 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Fri Jan  1 05:40:13 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:40:17 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Fri Jan  1 05:40:17 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 05:40:53 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:41:35 2021	Al Shebab was killed by Himself with a suicide trick
+Fri Jan  1 05:41:38 2021	Layth was killed by Himself with a suicide trick
+Fri Jan  1 05:41:40 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Fri Jan  1 05:41:41 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:43:11 2021	Layth (STEAM_0:0:84012375): !bring al
+Fri Jan  1 05:43:31 2021	Layth (STEAM_0:0:84012375): 
+Fri Jan  1 05:47:00 2021	Layth (STEAM_0:0:84012375): !rules
+Fri Jan  1 05:47:06 2021	Al Shebab (STEAM_0:0:103364981): !rules
+Fri Jan  1 05:48:27 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:48:31 2021	Layth (STEAM_0:0:84012375): !agenda
+Fri Jan  1 05:48:38 2021	Layth (STEAM_0:0:84012375): !setagenda fuck al
+Fri Jan  1 05:48:45 2021	Layth (STEAM_0:0:84012375): !set agenda 
+Fri Jan  1 05:49:06 2021	Layth (STEAM_0:0:84012375): /agenda 1
+Fri Jan  1 05:49:09 2021	Layth (STEAM_0:0:84012375): /addaagenda 123131
+Fri Jan  1 05:49:18 2021	Layth (STEAM_0:0:84012375): /addagenda 12321321
+Fri Jan  1 05:49:26 2021	Layth (STEAM_0:0:84012375): /billboard
+Fri Jan  1 05:49:52 2021	Layth (STEAM_0:0:84012375): /placelaws
+Fri Jan  1 05:50:44 2021	Layth (STEAM_0:0:84012375): /addalaw y
+Fri Jan  1 05:50:56 2021	Layth (STEAM_0:0:84012375): /addlaw al shebab sucks dick
+Fri Jan  1 05:53:04 2021	Layth was killed by Himself with a suicide trick
+Fri Jan  1 05:53:07 2021	Layth (STEAM_0:0:84012375) spawned
+Fri Jan  1 05:54:24 2021	Layth (STEAM_0:0:84012375) disconnected
