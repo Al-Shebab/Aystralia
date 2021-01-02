@@ -21,6 +21,7 @@
 	{
 		"awarn_warn"
 		"ulx bring"
+		"ulx cloak"
 		"ulx freeze"
 		"ulx gag"
 		"ulx god"
@@ -36,6 +37,7 @@
 		"ulx strip"
 		"ulx teleport"
 		"ulx thetime"
+		"ulx uncloak"
 		"ulx unfreeze"
 		"ulx ungag"
 		"ulx ungod"
@@ -45,7 +47,7 @@
 		"ulx banid"	"* :1w"
 		"ulx ban"	"* :1w"
 	}
-	"inherit_from"	"trial-moderator"
+	"inherit_from"	"donator-trial-moderator"
 }
 "donator-admin"	
 {
@@ -94,36 +96,6 @@
 	{
 	}
 	"inherit_from"	"perth"
-}
-"user"	
-{
-	"allow"	
-	{
-		"awarn_view"
-		"ulx addons"
-		"ulx apply"
-		"ulx asay"
-		"ulx bugs"
-		"ulx discord"
-		"ulx donate"
-		"ulx profile"
-		"ulx psay"
-		"ulx report"
-		"ulx rules"
-		"ulx soundlist"
-		"ulx thirdperson"
-		"ulx votegag"
-		"ulx votemute"
-		"ulx workshop"
-	}
-}
-"senior-moderator"	
-{
-	"can_target"	"!%donator-senior-moderator"
-	"allow"	
-	{
-	}
-	"inherit_from"	"moderator"
 }
 "superadmin"	
 {
@@ -237,6 +209,33 @@
 		"xgui_svsettings"
 	}
 	"inherit_from"	"staff-manager"
+}
+"senior-moderator"	
+{
+	"can_target"	"!%donator-senior-moderator"
+	"allow"	
+	{
+	}
+	"inherit_from"	"donator-moderator"
+}
+"user"	
+{
+	"can_target"	"!%trusted"
+	"allow"	
+	{
+		"awarn_view"
+		"ulx addons"
+		"ulx apply"
+		"ulx asay"
+		"ulx bugs"
+		"ulx discord"
+		"ulx donate"
+		"ulx psay"
+		"ulx report"
+		"ulx rules"
+		"ulx thirdperson"
+		"ulx workshop"
+	}
 }
 "admin"	
 {
@@ -406,7 +405,7 @@
 		"ulx who"
 	}
 	"can_target"	"!%donator-admin"
-	"inherit_from"	"senior-moderator"
+	"inherit_from"	"donator-senior-moderator"
 }
 "trial-moderator"	
 {
@@ -423,6 +422,8 @@
 		"ulx kick"
 		"ulx noclip"
 		"ulx physgunplayer"
+		"ulx return"
+		"ulx seeasay"
 		"ulx teleport"
 		"ulx thetime"
 		"ulx unfreeze"
@@ -463,7 +464,7 @@
 		"ulx unigniteall"
 		"ulx who"
 	}
-	"inherit_from"	"admin"
+	"inherit_from"	"donator-admin"
 }
 "donator-trial-moderator"	
 {

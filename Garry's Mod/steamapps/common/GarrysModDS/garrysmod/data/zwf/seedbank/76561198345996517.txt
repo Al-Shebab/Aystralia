@@ -1,0 +1,18 @@
+[
+	{
+		"Weed_ID": 6.0,
+		"Weed_Name": "Strawberry Cough",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 2.0,
+		"Weed_Name": "OG Straw",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 92.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 108.0
+	}
+]

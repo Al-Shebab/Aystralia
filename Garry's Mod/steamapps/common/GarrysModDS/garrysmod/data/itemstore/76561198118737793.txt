@@ -1,0 +1,1 @@
+[{"Data":{"Amount":7.0,"Class":"m9k_deagle","Contents":7.0},"Class":"spawned_shipment"}]
