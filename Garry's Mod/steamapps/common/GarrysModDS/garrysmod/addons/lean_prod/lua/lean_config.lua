@@ -35,7 +35,7 @@ lean_igconfig.speedtime = {val = 20,name = "Speed Effects Time",category = "Cup"
 lean_igconfig.allowleanuse = {val = true,name = "Allow Drinking Lean",category = "Cup",desc = "Should people be allowed to drink lean?"}
 lean_igconfig.speedamount = {val = 500,name = "Speed Amount",category = "Cup",desc = "How much should we increase their speed after drinking lean?"}
 -- Crate
-lean_igconfig.cratehold = {val = 10,name = "Crate Capacity",category = "Crate",desc = "How many cups can the crate hold?"}
+lean_igconfig.cratehold = {val = 16,name = "Crate Capacity",category = "Crate",desc = "How many cups can the crate hold?"}
 lean_igconfig.usetosell = {val = false,name = "Press E to pickup crate",category = "Crate",desc = "Use E to pickup the crate? ( true = press e, false = carry to npc"}
 lean_igconfig.cratedmg = {val = true,name = "Crate Take Damage",category = "Crate",desc = "Should the crate take damage?"}
 lean_igconfig.cratehp = {val = 200,name = "Crate HP",category = "Crate",desc = "What HP should the crate have?"}
