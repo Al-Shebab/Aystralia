@@ -208,19 +208,6 @@ DarkRP.createEntity("Lean Cup", {
     end,
     CustomCheckFailMsg = "",
 })
-DarkRP.createEntity("Lean Small Crate", {
-    ent = "lean_smallcrate",
-    model = "models/props_junk/cardboard_box001a.mdl",
-    price = 500,
-    max = 2,
-    cmd = "lean_smallcrate",
-    category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
 DarkRP.createEntity("Combiner", {
 	ent = "zmlab_combiner",
 	model = "models/zerochain/zmlab/zmlab_combiner.mdl",

@@ -949,6 +949,3 @@ GAMEMODE.CivilProtection = {
     [TEAM_SWAT_LEADER] = true,
     [TEAM_UNDERCOVER_COP] = true,
 }
-
-DarkRP.addHitmanTeam(TEAM_ASSASSIN)
-DarkRP.addHitmanTeam(TEAM_HITMAN)
