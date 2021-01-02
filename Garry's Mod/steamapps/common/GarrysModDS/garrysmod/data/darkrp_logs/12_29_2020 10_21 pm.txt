@@ -1,5 +1,0 @@
-Tue Dec 29 22:21:10 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
-Tue Dec 29 22:21:10 2020	Al Shebab (STEAM_0:0:103364981) spawned
-Tue Dec 29 22:25:20 2020	Al Shebab (STEAM_0:0:103364981): acd_givevehicle STEAM_0:0:103364981 p1tdm
-Tue Dec 29 22:25:28 2020	Al Shebab (STEAM_0:0:103364981): p1tdm
-Tue Dec 29 23:32:19 2020	Al Shebab (STEAM_0:0:103364981): 

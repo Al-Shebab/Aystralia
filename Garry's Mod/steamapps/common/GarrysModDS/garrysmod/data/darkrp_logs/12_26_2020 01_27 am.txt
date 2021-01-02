@@ -1,5 +1,0 @@
-Sat Dec 26 01:27:07 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
-Sat Dec 26 01:27:07 2020	Al Shebab (STEAM_0:0:103364981) spawned
-Sat Dec 26 01:32:45 2020	Al Shebab (STEAM_0:0:103364981): /advert test
-Sat Dec 26 01:47:06 2020	brexit (STEAM_0:1:121087763) has joined the game
-Sat Dec 26 01:47:06 2020	brexit (STEAM_0:1:121087763) spawned

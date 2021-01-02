@@ -1,8 +1,0 @@
-Tue Dec 29 23:44:26 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
-Tue Dec 29 23:44:26 2020	Al Shebab (STEAM_0:0:103364981) spawned
-Tue Dec 29 23:46:44 2020	Al Shebab (STEAM_0:0:103364981) disconnected
-Tue Dec 29 23:47:54 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
-Tue Dec 29 23:47:54 2020	Al Shebab (STEAM_0:0:103364981) spawned
-Tue Dec 29 23:55:45 2020	Al Shebab (STEAM_0:0:103364981): !setmoney sheb 50000
-Tue Dec 29 23:55:46 2020	Al Shebab (STEAM_0:0:103364981) spawned
-Wed Dec 30 00:07:45 2020	Al Shebab (STEAM_0:0:103364981): 
