@@ -8,178 +8,19 @@
 			{
 				"CMWebSocket"
 				{
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27035"
+					"cm1-syd1.cm.steampowered.com:27024"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-syd1.cm.steampowered.com:27026"
-=======
-					"cm1-syd1.cm.steampowered.com:443"
+					"cm2-syd1.cm.steampowered.com:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm6-lax1.cm.steampowered.com:27036"
+					"cm2-syd1.cm.steampowered.com:27024"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-syd1.cm.steampowered.com:27026"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"50"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27035"
-=======
-					"cm1-lax1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598714"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"22"
-					}
-<<<<<<< Updated upstream
-					"cm2-lax1.cm.steampowered.com:27020"
-=======
-					"cm5-lax1.cm.steampowered.com:27038"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598714"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-<<<<<<< Updated upstream
-					"cm2-ord1.cm.steampowered.com:27032"
-=======
-					"cm6-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"17"
-					}
-<<<<<<< Updated upstream
-					"cm1-lax1.cm.steampowered.com:27020"
-=======
-					"cm5-lax1.cm.steampowered.com:27028"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598715"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-<<<<<<< Updated upstream
-					"cm1-okc1.cm.steampowered.com:27024"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27028"
-=======
-					"cm1-syd1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27026"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"50"
-					}
-<<<<<<< Updated upstream
-					"cm1-syd1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"1609598713"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-					"cm2-okc1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27025"
-=======
-					"cm1-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"17"
-					}
-					"cm5-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm4-lax1.cm.steampowered.com:27020"
-=======
-=======
->>>>>>> Stashed changes
-					"cm4-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"18"
-					}
-					"cm1-ord1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:443"
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609291513"
-						"LastPingValue"		"150"
-						"LastLoadValue"		"19"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:443"
+					"cm1-syd1.cm.steampowered.com:27025"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -187,146 +28,19 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm5-lax1.cm.steampowered.com:27039"
+					"cm2-syd1.cm.steampowered.com:27022"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-okc1.cm.steampowered.com:27021"
+					"cm6-lax1.cm.steampowered.com:27030"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-sea1.cm.steampowered.com:27021"
-=======
-					"cm2-ord1.cm.steampowered.com:27038"
+					"cm6-lax1.cm.steampowered.com:27029"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm6-lax1.cm.steampowered.com:27035"
-=======
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27023"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm2-ord1.cm.steampowered.com:27032"
-=======
-					"cm5-lax1.cm.steampowered.com:27034"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"22"
-					}
-<<<<<<< Updated upstream
-					"cm1-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27023"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27034"
-=======
-					"cm5-lax1.cm.steampowered.com:27034"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"22"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"1609598714"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-					"cm6-lax1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"1609291559"
-						"LastPingValue"		"149"
-						"LastLoadValue"		"20"
-					}
-					"cm2-lax1.cm.steampowered.com:27021"
-=======
-					"cm1-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-					"cm1-syd1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm4-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm4-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27039"
+					"cm6-lax1.cm.steampowered.com:27039"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -334,30 +48,75 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-syd1.cm.steampowered.com:27024"
-=======
-					"cm1-okc1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:27028"
->>>>>>> Stashed changes
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27036"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm4-lax1.cm.steampowered.com:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-lax1.cm.steampowered.com:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-lax1.cm.steampowered.com:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27034"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27035"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27033"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27034"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27029"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27031"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-okc1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27037"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -365,16 +124,15 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-<<<<<<< Updated upstream
-					"cm6-lax1.cm.steampowered.com:27030"
+					"cm1-ord1.cm.steampowered.com:27036"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-ord1.cm.steampowered.com:27035"
+					"cm1-ord1.cm.steampowered.com:27037"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-ord1.cm.steampowered.com:27028"
+					"cm2-ord1.cm.steampowered.com:27029"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -382,7 +140,207 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
+					"cm1-ord1.cm.steampowered.com:27031"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27033"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27038"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27039"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27031"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-sea1.cm.steampowered.com:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-okc1.cm.steampowered.com:27023"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-okc1.cm.steampowered.com:27026"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm4-sgp1.cm.steampowered.com:27023"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-sea1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-sgp1.cm.steampowered.com:27025"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-sgp1.cm.steampowered.com:27024"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-sgp1.cm.steampowered.com:27023"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-okc1.cm.steampowered.com:27022"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-sgp1.cm.steampowered.com:27022"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-sgp1.cm.steampowered.com:27026"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:27026"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-syd1.cm.steampowered.com:27026"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:27022"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-syd1.cm.steampowered.com:27023"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-syd1.cm.steampowered.com:27025"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27039"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27032"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm4-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm4-lax1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-lax1.cm.steampowered.com:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27035"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27036"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27031"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27033"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27037"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-lax1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-lax1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-lax1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27037"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27038"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27032"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27029"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27035"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27034"
+					{
+						"LastPingTimestamp"		"0"
+					}
 					"cm2-okc1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27039"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-okc1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27034"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -394,710 +352,15 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-syd1.cm.steampowered.com:443"
-=======
-					"cm1-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-					"cm1-syd1.cm.steampowered.com:27024"
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"48"
-					}
-					"cm1-okc1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27025"
-=======
-					"cm6-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27036"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-okc1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27031"
-=======
-					"cm3-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27036"
-=======
-					"cm1-syd1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27026"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"50"
-					}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27039"
-=======
-					"cm1-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"17"
-					}
-					"cm5-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-=======
-					"cm4-lax1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598713"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm1-syd1.cm.steampowered.com:27024"
-=======
-					"cm1-ord1.cm.steampowered.com:27032"
->>>>>>> Stashed changes
-=======
-					"cm2-ord1.cm.steampowered.com:27028"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598713"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:27023"
-=======
-					"cm2-ord1.cm.steampowered.com:27037"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598713"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"1609598714"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-					"cm6-lax1.cm.steampowered.com:27031"
-=======
-					"cm2-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609598715"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-					"cm6-lax1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"1609292223"
-						"LastPingValue"		"149"
-						"LastLoadValue"		"19"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27034"
-=======
-					"cm6-lax1.cm.steampowered.com:27034"
-=======
-					"cm2-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"18"
-					}
-					"cm1-ord1.cm.steampowered.com:27031"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:27026"
->>>>>>> Stashed changes
-=======
-					"cm6-lax1.cm.steampowered.com:27037"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609291513"
-						"LastPingValue"		"150"
-						"LastLoadValue"		"21"
-					}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm1-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"1609598716"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-					"cm5-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:443"
-=======
-					"cm3-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm4-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"21"
-					}
-					"cm6-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-					"cm2-ord1.cm.steampowered.com:27034"
-=======
-					"cm6-lax1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27026"
-=======
-					"cm2-ord1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm2-ord1.cm.steampowered.com:27032"
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27023"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm3-lax1.cm.steampowered.com:27021"
-=======
-					"cm5-lax1.cm.steampowered.com:27034"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"22"
-					}
-<<<<<<< Updated upstream
-					"cm4-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"21"
-					}
-					"cm6-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-					"cm2-ord1.cm.steampowered.com:27034"
-=======
-					"cm1-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-					"cm1-syd1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm4-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"49"
-					}
-<<<<<<< Updated upstream
-					"cm4-lax1.cm.steampowered.com:27021"
-=======
-					"cm1-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"20"
-					}
-<<<<<<< Updated upstream
-					"cm6-lax1.cm.steampowered.com:27038"
-=======
-					"cm2-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm3-lax1.cm.steampowered.com:443"
-=======
-					"cm5-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-=======
-					"cm1-okc1.cm.steampowered.com:27022"
-=======
-					"cm1-syd1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27037"
-=======
-					"cm1-syd1.cm.steampowered.com:27026"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"50"
-					}
-					"cm1-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27028"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27033"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-okc1.cm.steampowered.com:443"
-=======
-					"cm6-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm6-lax1.cm.steampowered.com:27032"
-=======
-					"cm2-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"49"
-					}
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:27025"
-=======
-					"cm1-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"20"
-					}
-<<<<<<< Updated upstream
-					"cm3-lax1.cm.steampowered.com:27020"
-=======
-					"cm2-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm2-ord1.cm.steampowered.com:27034"
-=======
-					"cm5-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-<<<<<<< Updated upstream
-=======
-					"cm2-okc1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27032"
-=======
-					"cm5-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"17"
-					}
-					"cm5-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm4-lax1.cm.steampowered.com:443"
+					"cm2-ord1.cm.steampowered.com:27035"
 					{
 						"LastPingTimestamp"		"0"
 					}
 					"cm2-ord1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"1609582514"
-						"LastPingValue"		"159"
-						"LastLoadValue"		"18"
-					}
-					"cm1-ord1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27023"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm3-lax1.cm.steampowered.com:27020"
-=======
-					"cm5-lax1.cm.steampowered.com:27034"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"22"
-					}
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-					"cm1-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27033"
-=======
-					"cm1-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-					"cm1-syd1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609582513"
-						"LastPingValue"		"250"
-						"LastLoadValue"		"48"
-					}
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27030"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -1105,579 +368,15 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm3-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27031"
-=======
-					"cm1-ord1.cm.steampowered.com:27035"
-=======
-					"cm1-okc1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"1609598715"
-						"LastPingValue"		"248"
-						"LastLoadValue"		"20"
-					}
-					"cm5-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27023"
-=======
-					"cm6-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27022"
-=======
-					"cm6-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27023"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm1-okc1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27024"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27026"
-=======
-					"cm6-lax1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27026"
-=======
-					"cm6-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-okc1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm4-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"21"
-					}
-					"cm6-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-					"cm2-ord1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm4-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27039"
-=======
-					"cm6-lax1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm4-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"21"
-					}
-					"cm6-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"20"
-					}
-					"cm2-ord1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm4-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27038"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"49"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27038"
-=======
-					"cm1-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"20"
-					}
-<<<<<<< Updated upstream
-					"cm2-lax1.cm.steampowered.com:27021"
-=======
-					"cm2-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27030"
-=======
-					"cm5-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-<<<<<<< Updated upstream
-					"cm6-lax1.cm.steampowered.com:27032"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27023"
-=======
-					"cm5-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:443"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596399"
-						"LastPingValue"		"49"
-						"LastLoadValue"		"49"
-					}
-<<<<<<< Updated upstream
-					"cm1-okc1.cm.steampowered.com:27025"
-=======
-					"cm1-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"247"
-						"LastLoadValue"		"20"
-					}
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:27024"
-=======
-					"cm2-lax1.cm.steampowered.com:27020"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596427"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm6-lax1.cm.steampowered.com:27030"
-=======
-					"cm6-lax1.cm.steampowered.com:27033"
-=======
-					"cm5-lax1.cm.steampowered.com:27029"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"1609596400"
-						"LastPingValue"		"249"
-						"LastLoadValue"		"21"
-					}
-<<<<<<< Updated upstream
-					"cm2-syd1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27023"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27024"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27032"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27028"
-=======
-					"cm1-okc1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27038"
-=======
-					"cm6-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27023"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:27024"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-okc1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27032"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm5-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27032"
->>>>>>> Stashed changes
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
-<<<<<<< Updated upstream
-					"cm1-ord1.cm.steampowered.com:27031"
-=======
-=======
->>>>>>> Stashed changes
-					"cm2-okc1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27028"
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-					"cm1-ord1.cm.steampowered.com:27028"
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-					"cm2-okc1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27028"
->>>>>>> Stashed changes
 					{
 						"LastPingTimestamp"		"0"
 					}
 				}
 				"CellIDServerOverride"		"52"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				"CM"		"103.10.125.165:27020;103.10.125.165:27021;103.10.125.165:27018;103.10.125.164:27021;103.10.125.164:27019;103.10.125.165:27019;103.10.125.164:27018;103.10.125.164:27017;103.10.125.164:27020;103.10.125.165:27017;162.254.195.87:27021;162.254.195.82:27018;162.254.195.82:27019;162.254.195.66:27018;162.254.195.67:27019;162.254.195.87:27020;162.254.195.66:27019;162.254.195.71:27023;162.254.195.71:27025;162.254.195.71:27026;162.254.195.71:27022;162.254.195.87:27027;162.254.195.67:27018;162.254.195.87:27018;162.254.195.71:27021;162.254.195.87:27024;162.254.195.83:27018;162.254.195.87:27023;162.254.195.71:27019;162.254.195.87:27017;162.254.195.66:27017;162.254.195.87:27019;162.254.195.67:27017;162.254.195.82:27017;162.254.195.71:27020;162.254.195.87:27025;162.254.195.71:27027;162.254.195.71:27017;162.254.195.87:27022;162.254.195.71:27024;162.254.195.87:27026;162.254.195.71:27018;162.254.195.83:27019;162.254.195.83:27017;162.254.193.102:27018;162.254.193.102:27025;162.254.193.102:27021;162.254.193.74:27021;162.254.193.102:27022;162.254.193.102:27020;162.254.193.102:27024;162.254.193.74:27022;162.254.193.74:27024;162.254.193.102:27019;162.254.193.102:27026;162.254.193.102:27017;162.254.193.74:27020;162.254.193.74:27023;162.254.193.74:27026;162.254.193.102:27027;162.254.193.74:27027;155.133.254.132:27021;155.133.254.133:27018;155.133.254.132:27020;155.133.254.132:27019;155.133.254.132:27018;155.133.254.133:27017;155.133.254.133:27019;162.254.193.74:27025;155.133.254.132:27017;162.254.193.74:27018;162.254.193.102:27023;162.254.193.74:27017;162.254.193.74:27019;205.196.6.75:27018;205.196.6.67:27018;205.196.6.75:27019;205.196.6.67:27019;205.196.6.67:27017;205.196.6.75:27017"
+				"CM"		"103.10.125.164:27019;103.10.125.165:27018;103.10.125.164:27021;103.10.125.164:27018;103.10.125.165:27020;103.10.125.165:27021;103.10.125.165:27019;103.10.125.165:27017;103.10.125.164:27020;103.10.125.164:27017;162.254.195.87:27018;162.254.195.87:27027;162.254.195.87:27022;162.254.195.71:27021;162.254.195.87:27021;162.254.195.71:27022;162.254.195.87:27023;162.254.195.87:27019;162.254.195.87:27024;162.254.195.87:27020;162.254.195.71:27023;162.254.195.67:27018;162.254.195.87:27026;162.254.195.87:27017;162.254.195.83:27019;162.254.195.66:27018;162.254.195.83:27018;162.254.195.71:27020;162.254.195.67:27019;162.254.195.82:27018;162.254.195.71:27026;162.254.195.82:27019;162.254.195.71:27017;162.254.195.71:27019;162.254.195.66:27019;162.254.195.87:27025;162.254.195.71:27024;162.254.195.71:27018;162.254.195.71:27027;162.254.195.71:27025;162.254.195.67:27017;162.254.195.83:27017;162.254.195.66:27017;162.254.195.82:27017;162.254.193.102:27018;155.133.254.133:27019;162.254.193.74:27027;162.254.193.74:27018;162.254.193.74:27023;162.254.193.74:27019;162.254.193.74:27025;162.254.193.102:27022;162.254.193.102:27021;162.254.193.102:27027;155.133.254.133:27018;155.133.254.132:27018;162.254.193.74:27022;162.254.193.102:27025;162.254.193.102:27019;162.254.193.74:27020;162.254.193.102:27020;162.254.193.102:27017;162.254.193.102:27026;162.254.193.74:27021;162.254.193.74:27024;162.254.193.102:27024;162.254.193.102:27023;155.133.254.133:27017;155.133.254.132:27019;162.254.193.74:27017;162.254.193.74:27026;155.133.254.132:27020;155.133.254.132:27021;205.196.6.75:27018;205.196.6.75:27019;205.196.6.67:27019;205.196.6.67:27018;155.133.254.132:27017;205.196.6.67:27017;205.196.6.75:27017"
 				"PercentDefaultWebSockets"		"50"
-				"CS"		"valve2000.steamcontent.com;valve2001.steamcontent.com;valve700.steamcontent.com;valve701.steamcontent.com;155.133.227.13:27080:27080;190.217.33.67:27080:27080;155.133.249.195:27080:27080;162.254.195.84:27080:27080;partner-origin2-sea1.steamcontent.com;103.10.125.163:27080:27080;153.254.86.178:27080:27080;partner-origin1-sea1.steamcontent.com;205.185.194.53:27080:27080;162.254.195.68:27080:27080;cm4-mad1.cm.steampowered.com:27080;205.185.194.37:27080:27080;162.254.192.84:27080:27080;162.254.193.75:27080:27080;205.196.6.135:27080:27080;162.254.193.103:27080:27080;153.254.86.162:27080:27080;205.196.6.34:27080:27080;162.254.192.68:27080:27080;162.254.196.85:27080:27080;162.254.197.44:27080:27080;103.10.124.9:27080:27080;155.133.245.20:27080:27080;103.10.124.66:27080:27080;162.254.196.69:27080:27080;cm3-mad1.cm.steampowered.com:27080;valve2300.steamcontent.com;cm1-waw1.cm.steampowered.com:27080;cm2-waw1.cm.steampowered.com:27080;162.254.198.79:27080:27080;155.133.245.21:27080:27080;valve1000.steamcontent.com;cm1-vie1.cm.steampowered.com:27080;162.254.198.15:27080:27080;cm6-ams1.cm.steampowered.com:27080;162.254.197.45:27080:27080;cm5-ams1.cm.steampowered.com:27080;cm2-vie1.cm.steampowered.com:27080;origin5-sea1.steamcontent.com;valve601.steamcontent.com;valve1001.steamcontent.com;origin7-sea1.steamcontent.com;origin3-sea1.steamcontent.com;valve600.steamcontent.com;origin2-sea1.steamcontent.com;origin1-sea1.steamcontent.com;origin6-sea1.steamcontent.com;origin4-sea1.steamcontent.com;valve1901.steamcontent.com;valve1900.steamcontent.com;origin8-sea1.steamcontent.com;valve800.steamcontent.com;valve301.steamcontent.com;valve300.steamcontent.com;valve801.steamcontent.com;valve2301.steamcontent.com;valve1300.steamcontent.com;valve1301.steamcontent.com;valve419.steamcontent.com;valve418.steamcontent.com;valve1600.steamcontent.com;valve1601.steamcontent.com;valve2500.steamcontent.com;valve2501.steamcontent.com;valve900.steamcontent.com;valve501.steamcontent.com;valve500.steamcontent.com;valve901.steamcontent.com;valve2100.steamcontent.com;valve1200.steamcontent.com;valve2101.steamcontent.com;valve1201.steamcontent.com;valve2401.steamcontent.com;valve2400.steamcontent.com;valve39.steamcontent.com;203.80.149.65:80;203.80.149.66:80;180.101.192.197:80;180.101.192.198:80;valve1101.steamcontent.com;valve1100.steamcontent.com"
-=======
-				"CM"		"103.10.125.164:27020;103.10.125.164:27018;103.10.125.165:27021;103.10.125.165:27018;103.10.125.164:27017;103.10.125.164:27021;103.10.125.165:27020;103.10.125.165:27019;103.10.125.164:27019;103.10.125.165:27017;162.254.195.87:27025;162.254.195.87:27021;162.254.195.87:27024;162.254.195.71:27019;162.254.195.71:27025;162.254.195.67:27018;162.254.195.87:27023;162.254.195.71:27020;162.254.195.87:27026;162.254.195.87:27022;162.254.195.71:27017;162.254.195.87:27020;162.254.195.67:27019;162.254.195.71:27026;162.254.195.87:27019;162.254.195.82:27018;162.254.195.87:27018;162.254.195.71:27023;162.254.195.71:27018;162.254.195.71:27024;162.254.195.83:27019;162.254.195.71:27021;162.254.195.71:27027;162.254.195.83:27018;162.254.195.82:27019;162.254.195.87:27017;162.254.195.71:27022;162.254.195.66:27018;162.254.195.83:27017;162.254.195.66:27019;162.254.195.82:27017;162.254.195.87:27027;162.254.195.66:27017;162.254.195.67:27017;162.254.193.102:27018;162.254.193.102:27025;162.254.193.74:27021;162.254.193.74:27025;162.254.193.102:27027;162.254.193.102:27026;162.254.193.102:27017;162.254.193.102:27021;162.254.193.74:27017;155.133.254.133:27019;155.133.254.132:27019;162.254.193.102:27020;162.254.193.102:27019;162.254.193.102:27022;162.254.193.74:27023;162.254.193.74:27020;162.254.193.102:27023;162.254.193.74:27018;162.254.193.74:27024;155.133.254.132:27018;155.133.254.133:27018;155.133.254.132:27021;155.133.254.132:27020;155.133.254.133:27017;162.254.193.74:27026;162.254.193.74:27019;162.254.193.102:27024;162.254.193.74:27027;155.133.254.132:27017;162.254.193.74:27022;205.196.6.75:27018;205.196.6.75:27019;205.196.6.75:27017;103.10.124.164:27020;103.10.124.162:27018;103.10.124.164:27018"
-				"PercentDefaultWebSockets"		"50"
-				"CS"		"valve2001.steamcontent.com;valve2000.steamcontent.com;valve701.steamcontent.com;valve700.steamcontent.com;partner-origin1-sea1.steamcontent.com;103.10.125.163:27080:27080;cm3-mad1.cm.steampowered.com:27080;partner-origin2-sea1.steamcontent.com;205.185.194.37:27080:27080;190.217.33.67:27080:27080;205.196.6.34:27080:27080;155.133.227.13:27080:27080;103.10.124.66:27080:27080;155.133.245.21:27080:27080;162.254.192.84:27080:27080;162.254.195.68:27080:27080;cm4-mad1.cm.steampowered.com:27080;205.196.6.135:27080:27080;162.254.198.15:27080:27080;205.185.194.53:27080:27080;valve2300.steamcontent.com;155.133.245.20:27080:27080;162.254.195.84:27080:27080;162.254.198.79:27080:27080;155.133.249.195:27080:27080;162.254.196.85:27080:27080;162.254.193.75:27080:27080;162.254.197.44:27080:27080;103.10.124.9:27080:27080;153.254.86.162:27080:27080;162.254.197.45:27080:27080;162.254.192.68:27080:27080;cm2-waw1.cm.steampowered.com:27080;162.254.193.103:27080:27080;153.254.86.178:27080:27080;162.254.196.69:27080:27080;origin3-sea1.steamcontent.com;cm6-ams1.cm.steampowered.com:27080;valve1001.steamcontent.com;valve1000.steamcontent.com;cm1-vie1.cm.steampowered.com:27080;cm5-ams1.cm.steampowered.com:27080;cm2-vie1.cm.steampowered.com:27080;cm1-waw1.cm.steampowered.com:27080;origin5-sea1.steamcontent.com;valve601.steamcontent.com;origin1-sea1.steamcontent.com;valve600.steamcontent.com;origin7-sea1.steamcontent.com;origin2-sea1.steamcontent.com;origin4-sea1.steamcontent.com;origin6-sea1.steamcontent.com;valve1901.steamcontent.com;valve1900.steamcontent.com;origin8-sea1.steamcontent.com;valve301.steamcontent.com;valve800.steamcontent.com;valve801.steamcontent.com;valve300.steamcontent.com;valve2301.steamcontent.com;valve1300.steamcontent.com;valve1301.steamcontent.com;valve418.steamcontent.com;valve419.steamcontent.com;valve1601.steamcontent.com;valve1600.steamcontent.com;valve2501.steamcontent.com;valve2500.steamcontent.com;valve501.steamcontent.com;valve500.steamcontent.com;valve900.steamcontent.com;valve901.steamcontent.com;valve2101.steamcontent.com;valve2100.steamcontent.com;valve1200.steamcontent.com;valve1201.steamcontent.com;valve2400.steamcontent.com;valve2401.steamcontent.com;valve39.steamcontent.com;203.80.149.66:80;180.101.192.197:80;180.101.192.198:80;203.80.149.65:80;valve1101.steamcontent.com;valve1100.steamcontent.com"
->>>>>>> Stashed changes
-=======
-				"CM"		"103.10.125.164:27020;103.10.125.164:27018;103.10.125.165:27021;103.10.125.165:27018;103.10.125.164:27017;103.10.125.164:27021;103.10.125.165:27020;103.10.125.165:27019;103.10.125.164:27019;103.10.125.165:27017;162.254.195.87:27025;162.254.195.87:27021;162.254.195.87:27024;162.254.195.71:27019;162.254.195.71:27025;162.254.195.67:27018;162.254.195.87:27023;162.254.195.71:27020;162.254.195.87:27026;162.254.195.87:27022;162.254.195.71:27017;162.254.195.87:27020;162.254.195.67:27019;162.254.195.71:27026;162.254.195.87:27019;162.254.195.82:27018;162.254.195.87:27018;162.254.195.71:27023;162.254.195.71:27018;162.254.195.71:27024;162.254.195.83:27019;162.254.195.71:27021;162.254.195.71:27027;162.254.195.83:27018;162.254.195.82:27019;162.254.195.87:27017;162.254.195.71:27022;162.254.195.66:27018;162.254.195.83:27017;162.254.195.66:27019;162.254.195.82:27017;162.254.195.87:27027;162.254.195.66:27017;162.254.195.67:27017;162.254.193.102:27018;162.254.193.102:27025;162.254.193.74:27021;162.254.193.74:27025;162.254.193.102:27027;162.254.193.102:27026;162.254.193.102:27017;162.254.193.102:27021;162.254.193.74:27017;155.133.254.133:27019;155.133.254.132:27019;162.254.193.102:27020;162.254.193.102:27019;162.254.193.102:27022;162.254.193.74:27023;162.254.193.74:27020;162.254.193.102:27023;162.254.193.74:27018;162.254.193.74:27024;155.133.254.132:27018;155.133.254.133:27018;155.133.254.132:27021;155.133.254.132:27020;155.133.254.133:27017;162.254.193.74:27026;162.254.193.74:27019;162.254.193.102:27024;162.254.193.74:27027;155.133.254.132:27017;162.254.193.74:27022;205.196.6.75:27018;205.196.6.75:27019;205.196.6.75:27017;103.10.124.164:27020;103.10.124.162:27018;103.10.124.164:27018"
-				"PercentDefaultWebSockets"		"50"
-				"CS"		"valve2001.steamcontent.com;valve2000.steamcontent.com;valve701.steamcontent.com;valve700.steamcontent.com;partner-origin1-sea1.steamcontent.com;103.10.125.163:27080:27080;cm3-mad1.cm.steampowered.com:27080;partner-origin2-sea1.steamcontent.com;205.185.194.37:27080:27080;190.217.33.67:27080:27080;205.196.6.34:27080:27080;155.133.227.13:27080:27080;103.10.124.66:27080:27080;155.133.245.21:27080:27080;162.254.192.84:27080:27080;162.254.195.68:27080:27080;cm4-mad1.cm.steampowered.com:27080;205.196.6.135:27080:27080;162.254.198.15:27080:27080;205.185.194.53:27080:27080;valve2300.steamcontent.com;155.133.245.20:27080:27080;162.254.195.84:27080:27080;162.254.198.79:27080:27080;155.133.249.195:27080:27080;162.254.196.85:27080:27080;162.254.193.75:27080:27080;162.254.197.44:27080:27080;103.10.124.9:27080:27080;153.254.86.162:27080:27080;162.254.197.45:27080:27080;162.254.192.68:27080:27080;cm2-waw1.cm.steampowered.com:27080;162.254.193.103:27080:27080;153.254.86.178:27080:27080;162.254.196.69:27080:27080;origin3-sea1.steamcontent.com;cm6-ams1.cm.steampowered.com:27080;valve1001.steamcontent.com;valve1000.steamcontent.com;cm1-vie1.cm.steampowered.com:27080;cm5-ams1.cm.steampowered.com:27080;cm2-vie1.cm.steampowered.com:27080;cm1-waw1.cm.steampowered.com:27080;origin5-sea1.steamcontent.com;valve601.steamcontent.com;origin1-sea1.steamcontent.com;valve600.steamcontent.com;origin7-sea1.steamcontent.com;origin2-sea1.steamcontent.com;origin4-sea1.steamcontent.com;origin6-sea1.steamcontent.com;valve1901.steamcontent.com;valve1900.steamcontent.com;origin8-sea1.steamcontent.com;valve301.steamcontent.com;valve800.steamcontent.com;valve801.steamcontent.com;valve300.steamcontent.com;valve2301.steamcontent.com;valve1300.steamcontent.com;valve1301.steamcontent.com;valve418.steamcontent.com;valve419.steamcontent.com;valve1601.steamcontent.com;valve1600.steamcontent.com;valve2501.steamcontent.com;valve2500.steamcontent.com;valve501.steamcontent.com;valve500.steamcontent.com;valve900.steamcontent.com;valve901.steamcontent.com;valve2101.steamcontent.com;valve2100.steamcontent.com;valve1200.steamcontent.com;valve1201.steamcontent.com;valve2400.steamcontent.com;valve2401.steamcontent.com;valve39.steamcontent.com;203.80.149.66:80;180.101.192.197:80;180.101.192.198:80;203.80.149.65:80;valve1101.steamcontent.com;valve1100.steamcontent.com"
->>>>>>> Stashed changes
-=======
-				"CM"		"103.10.125.164:27020;103.10.125.164:27018;103.10.125.165:27021;103.10.125.165:27018;103.10.125.164:27017;103.10.125.164:27021;103.10.125.165:27020;103.10.125.165:27019;103.10.125.164:27019;103.10.125.165:27017;162.254.195.87:27025;162.254.195.87:27021;162.254.195.87:27024;162.254.195.71:27019;162.254.195.71:27025;162.254.195.67:27018;162.254.195.87:27023;162.254.195.71:27020;162.254.195.87:27026;162.254.195.87:27022;162.254.195.71:27017;162.254.195.87:27020;162.254.195.67:27019;162.254.195.71:27026;162.254.195.87:27019;162.254.195.82:27018;162.254.195.87:27018;162.254.195.71:27023;162.254.195.71:27018;162.254.195.71:27024;162.254.195.83:27019;162.254.195.71:27021;162.254.195.71:27027;162.254.195.83:27018;162.254.195.82:27019;162.254.195.87:27017;162.254.195.71:27022;162.254.195.66:27018;162.254.195.83:27017;162.254.195.66:27019;162.254.195.82:27017;162.254.195.87:27027;162.254.195.66:27017;162.254.195.67:27017;162.254.193.102:27018;162.254.193.102:27025;162.254.193.74:27021;162.254.193.74:27025;162.254.193.102:27027;162.254.193.102:27026;162.254.193.102:27017;162.254.193.102:27021;162.254.193.74:27017;155.133.254.133:27019;155.133.254.132:27019;162.254.193.102:27020;162.254.193.102:27019;162.254.193.102:27022;162.254.193.74:27023;162.254.193.74:27020;162.254.193.102:27023;162.254.193.74:27018;162.254.193.74:27024;155.133.254.132:27018;155.133.254.133:27018;155.133.254.132:27021;155.133.254.132:27020;155.133.254.133:27017;162.254.193.74:27026;162.254.193.74:27019;162.254.193.102:27024;162.254.193.74:27027;155.133.254.132:27017;162.254.193.74:27022;205.196.6.75:27018;205.196.6.75:27019;205.196.6.75:27017;103.10.124.164:27020;103.10.124.162:27018;103.10.124.164:27018"
-				"PercentDefaultWebSockets"		"50"
-				"CS"		"valve2001.steamcontent.com;valve2000.steamcontent.com;valve701.steamcontent.com;valve700.steamcontent.com;partner-origin1-sea1.steamcontent.com;103.10.125.163:27080:27080;cm3-mad1.cm.steampowered.com:27080;partner-origin2-sea1.steamcontent.com;205.185.194.37:27080:27080;190.217.33.67:27080:27080;205.196.6.34:27080:27080;155.133.227.13:27080:27080;103.10.124.66:27080:27080;155.133.245.21:27080:27080;162.254.192.84:27080:27080;162.254.195.68:27080:27080;cm4-mad1.cm.steampowered.com:27080;205.196.6.135:27080:27080;162.254.198.15:27080:27080;205.185.194.53:27080:27080;valve2300.steamcontent.com;155.133.245.20:27080:27080;162.254.195.84:27080:27080;162.254.198.79:27080:27080;155.133.249.195:27080:27080;162.254.196.85:27080:27080;162.254.193.75:27080:27080;162.254.197.44:27080:27080;103.10.124.9:27080:27080;153.254.86.162:27080:27080;162.254.197.45:27080:27080;162.254.192.68:27080:27080;cm2-waw1.cm.steampowered.com:27080;162.254.193.103:27080:27080;153.254.86.178:27080:27080;162.254.196.69:27080:27080;origin3-sea1.steamcontent.com;cm6-ams1.cm.steampowered.com:27080;valve1001.steamcontent.com;valve1000.steamcontent.com;cm1-vie1.cm.steampowered.com:27080;cm5-ams1.cm.steampowered.com:27080;cm2-vie1.cm.steampowered.com:27080;cm1-waw1.cm.steampowered.com:27080;origin5-sea1.steamcontent.com;valve601.steamcontent.com;origin1-sea1.steamcontent.com;valve600.steamcontent.com;origin7-sea1.steamcontent.com;origin2-sea1.steamcontent.com;origin4-sea1.steamcontent.com;origin6-sea1.steamcontent.com;valve1901.steamcontent.com;valve1900.steamcontent.com;origin8-sea1.steamcontent.com;valve301.steamcontent.com;valve800.steamcontent.com;valve801.steamcontent.com;valve300.steamcontent.com;valve2301.steamcontent.com;valve1300.steamcontent.com;valve1301.steamcontent.com;valve418.steamcontent.com;valve419.steamcontent.com;valve1601.steamcontent.com;valve1600.steamcontent.com;valve2501.steamcontent.com;valve2500.steamcontent.com;valve501.steamcontent.com;valve500.steamcontent.com;valve900.steamcontent.com;valve901.steamcontent.com;valve2101.steamcontent.com;valve2100.steamcontent.com;valve1200.steamcontent.com;valve1201.steamcontent.com;valve2400.steamcontent.com;valve2401.steamcontent.com;valve39.steamcontent.com;203.80.149.66:80;180.101.192.197:80;180.101.192.198:80;203.80.149.65:80;valve1101.steamcontent.com;valve1100.steamcontent.com"
->>>>>>> Stashed changes
-=======
-				"CM"		"103.10.125.164:27020;103.10.125.164:27018;103.10.125.165:27021;103.10.125.165:27018;103.10.125.164:27017;103.10.125.164:27021;103.10.125.165:27020;103.10.125.165:27019;103.10.125.164:27019;103.10.125.165:27017;162.254.195.87:27025;162.254.195.87:27021;162.254.195.87:27024;162.254.195.71:27019;162.254.195.71:27025;162.254.195.67:27018;162.254.195.87:27023;162.254.195.71:27020;162.254.195.87:27026;162.254.195.87:27022;162.254.195.71:27017;162.254.195.87:27020;162.254.195.67:27019;162.254.195.71:27026;162.254.195.87:27019;162.254.195.82:27018;162.254.195.87:27018;162.254.195.71:27023;162.254.195.71:27018;162.254.195.71:27024;162.254.195.83:27019;162.254.195.71:27021;162.254.195.71:27027;162.254.195.83:27018;162.254.195.82:27019;162.254.195.87:27017;162.254.195.71:27022;162.254.195.66:27018;162.254.195.83:27017;162.254.195.66:27019;162.254.195.82:27017;162.254.195.87:27027;162.254.195.66:27017;162.254.195.67:27017;162.254.193.102:27018;162.254.193.102:27025;162.254.193.74:27021;162.254.193.74:27025;162.254.193.102:27027;162.254.193.102:27026;162.254.193.102:27017;162.254.193.102:27021;162.254.193.74:27017;155.133.254.133:27019;155.133.254.132:27019;162.254.193.102:27020;162.254.193.102:27019;162.254.193.102:27022;162.254.193.74:27023;162.254.193.74:27020;162.254.193.102:27023;162.254.193.74:27018;162.254.193.74:27024;155.133.254.132:27018;155.133.254.133:27018;155.133.254.132:27021;155.133.254.132:27020;155.133.254.133:27017;162.254.193.74:27026;162.254.193.74:27019;162.254.193.102:27024;162.254.193.74:27027;155.133.254.132:27017;162.254.193.74:27022;205.196.6.75:27018;205.196.6.75:27019;205.196.6.75:27017;103.10.124.164:27020;103.10.124.162:27018;103.10.124.164:27018"
-				"PercentDefaultWebSockets"		"50"
-				"CS"		"valve2001.steamcontent.com;valve2000.steamcontent.com;valve701.steamcontent.com;valve700.steamcontent.com;partner-origin1-sea1.steamcontent.com;103.10.125.163:27080:27080;cm3-mad1.cm.steampowered.com:27080;partner-origin2-sea1.steamcontent.com;205.185.194.37:27080:27080;190.217.33.67:27080:27080;205.196.6.34:27080:27080;155.133.227.13:27080:27080;103.10.124.66:27080:27080;155.133.245.21:27080:27080;162.254.192.84:27080:27080;162.254.195.68:27080:27080;cm4-mad1.cm.steampowered.com:27080;205.196.6.135:27080:27080;162.254.198.15:27080:27080;205.185.194.53:27080:27080;valve2300.steamcontent.com;155.133.245.20:27080:27080;162.254.195.84:27080:27080;162.254.198.79:27080:27080;155.133.249.195:27080:27080;162.254.196.85:27080:27080;162.254.193.75:27080:27080;162.254.197.44:27080:27080;103.10.124.9:27080:27080;153.254.86.162:27080:27080;162.254.197.45:27080:27080;162.254.192.68:27080:27080;cm2-waw1.cm.steampowered.com:27080;162.254.193.103:27080:27080;153.254.86.178:27080:27080;162.254.196.69:27080:27080;origin3-sea1.steamcontent.com;cm6-ams1.cm.steampowered.com:27080;valve1001.steamcontent.com;valve1000.steamcontent.com;cm1-vie1.cm.steampowered.com:27080;cm5-ams1.cm.steampowered.com:27080;cm2-vie1.cm.steampowered.com:27080;cm1-waw1.cm.steampowered.com:27080;origin5-sea1.steamcontent.com;valve601.steamcontent.com;origin1-sea1.steamcontent.com;valve600.steamcontent.com;origin7-sea1.steamcontent.com;origin2-sea1.steamcontent.com;origin4-sea1.steamcontent.com;origin6-sea1.steamcontent.com;valve1901.steamcontent.com;valve1900.steamcontent.com;origin8-sea1.steamcontent.com;valve301.steamcontent.com;valve800.steamcontent.com;valve801.steamcontent.com;valve300.steamcontent.com;valve2301.steamcontent.com;valve1300.steamcontent.com;valve1301.steamcontent.com;valve418.steamcontent.com;valve419.steamcontent.com;valve1601.steamcontent.com;valve1600.steamcontent.com;valve2501.steamcontent.com;valve2500.steamcontent.com;valve501.steamcontent.com;valve500.steamcontent.com;valve900.steamcontent.com;valve901.steamcontent.com;valve2101.steamcontent.com;valve2100.steamcontent.com;valve1200.steamcontent.com;valve1201.steamcontent.com;valve2400.steamcontent.com;valve2401.steamcontent.com;valve39.steamcontent.com;203.80.149.66:80;180.101.192.197:80;180.101.192.198:80;203.80.149.65:80;valve1101.steamcontent.com;valve1100.steamcontent.com"
->>>>>>> Stashed changes
+				"CS"		"valve2000.steamcontent.com;valve2001.steamcontent.com;valve700.steamcontent.com;valve701.steamcontent.com;partner-origin2-sea1.steamcontent.com;155.133.249.195:27080:27080;103.10.125.163:27080:27080;155.133.227.13:27080:27080;cm3-mad1.cm.steampowered.com:27080;190.217.33.67:27080:27080;partner-origin1-sea1.steamcontent.com;162.254.195.68:27080:27080;205.185.194.37:27080:27080;205.185.194.53:27080:27080;103.10.124.66:27080:27080;162.254.198.15:27080:27080;153.254.86.178:27080:27080;162.254.192.84:27080:27080;162.254.195.84:27080:27080;162.254.193.103:27080:27080;155.133.245.20:27080:27080;162.254.192.68:27080:27080;valve2300.steamcontent.com;cm4-mad1.cm.steampowered.com:27080;153.254.86.162:27080:27080;205.196.6.135:27080:27080;162.254.196.69:27080:27080;162.254.197.44:27080:27080;162.254.193.75:27080:27080;cm1-waw1.cm.steampowered.com:27080;162.254.198.79:27080:27080;cm2-waw1.cm.steampowered.com:27080;205.196.6.34:27080:27080;162.254.196.85:27080:27080;103.10.124.9:27080:27080;162.254.197.45:27080:27080;cm5-ams1.cm.steampowered.com:27080;cm6-ams1.cm.steampowered.com:27080;cm1-vie1.cm.steampowered.com:27080;origin7-sea1.steamcontent.com;cm2-vie1.cm.steampowered.com:27080;valve1001.steamcontent.com;valve1000.steamcontent.com;valve601.steamcontent.com;origin5-sea1.steamcontent.com;origin3-sea1.steamcontent.com;valve600.steamcontent.com;155.133.245.21:27080:27080;origin8-sea1.steamcontent.com;origin1-sea1.steamcontent.com;origin4-sea1.steamcontent.com;origin2-sea1.steamcontent.com;origin6-sea1.steamcontent.com;valve1901.steamcontent.com;valve1900.steamcontent.com;valve800.steamcontent.com;valve300.steamcontent.com;valve301.steamcontent.com;valve801.steamcontent.com;valve2301.steamcontent.com;valve1301.steamcontent.com;valve1300.steamcontent.com;valve419.steamcontent.com;valve418.steamcontent.com;valve1601.steamcontent.com;valve1600.steamcontent.com;valve2500.steamcontent.com;valve2501.steamcontent.com;valve501.steamcontent.com;valve900.steamcontent.com;valve901.steamcontent.com;valve500.steamcontent.com;valve1200.steamcontent.com;valve1201.steamcontent.com;valve2101.steamcontent.com;valve2100.steamcontent.com;valve2400.steamcontent.com;valve2401.steamcontent.com;valve39.steamcontent.com;180.101.192.198:80;203.80.149.65:80;203.80.149.66:80;180.101.192.197:80;valve1100.steamcontent.com;valve1101.steamcontent.com"
 				"Depots"
 				{
 					"4000"
@@ -1685,8 +384,7 @@
 						"DecryptionKey"		"85c35e0e023c1e99185ca5645fe083568247de0cd3f786655a10845805935393"
 					}
 				}
-				"RecentDownloadRate"		"12723033"
-				"NCTF"		"0"
+				"RecentDownloadRate"		"7699228"
 			}
 		}
 	}
