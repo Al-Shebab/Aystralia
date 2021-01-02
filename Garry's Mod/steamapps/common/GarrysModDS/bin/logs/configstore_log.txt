@@ -1138,6 +1138,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 [2021-01-02 06:45:04] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
@@ -1151,6 +1152,8 @@
 [2021-01-02 06:45:17] Flushed store 'install' to 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf'
 [2021-01-02 06:45:19] Loaded store 'install' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\config.vdf' successfully
 [2021-01-02 06:45:21] Failed to read store 'userlocal' from 'C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\bin\config\localconfig.vdf.tmp'
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

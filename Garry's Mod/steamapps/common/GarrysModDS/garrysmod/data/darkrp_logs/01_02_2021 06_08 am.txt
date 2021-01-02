@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 Sat Jan  2 06:44:25 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
 Sat Jan  2 06:44:28 2021	requise Bread was killed by Issac Wilderson with a prop_physics
@@ -13,6 +14,8 @@ Sat Jan  2 06:44:52 2021	Barack Obama was killed by Entity [918][entityflame] wi
 Sat Jan  2 06:44:55 2021	Barack Obama (STEAM_0:0:118882021) spawned
 Sat Jan  2 06:44:57 2021	tom green (STEAM_0:1:146685194) spawned
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -472,6 +475,10 @@ Sat Jan  2 06:44:19 2021	requise Bread (STEAM_0:0:579690494) spawned
 Sat Jan  2 06:44:22 2021	Buhlow Jobs was killed by Himself with a suicide trick
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Sat Jan  2 06:44:23 2021	James (STEAM_0:0:578081804): 
+>>>>>>> Stashed changes
+=======
 Sat Jan  2 06:44:23 2021	James (STEAM_0:0:578081804): 
 >>>>>>> Stashed changes
 =======
