@@ -1,3 +1,0 @@
-
-
-[2020-12-23 23:08:07] [AppID 4020] Loaded workshop items in "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\workshop" (0 installed, 0 needed)

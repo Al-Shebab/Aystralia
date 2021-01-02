@@ -2,7 +2,7 @@
 Simplac = Simplac or {}
 Simplac.settings = {}
 
-Simplac.settings.justinstalled = true -- SET THIS TO FALSE TO DISABLE THE JOIN MESSAGE.
+Simplac.settings.justinstalled = false -- SET THIS TO FALSE TO DISABLE THE JOIN MESSAGE.
 
 
 Simplac.settings.bantime = 0 -- Permanent (time is in seconds, 0= permanent)
@@ -24,7 +24,7 @@ Simplac.settings.readdetectiondisclaimer = true -- Did you read the detection di
 Simplac.BotSuicide = false -- The bot suicides if he doesn't feel like living (aka needs to die) (round based gms only aka e.g. TTT, prop hunt)
 
 -- If you want the bot gone set the detection Simplac.settings.Aimbot_MCheck to false
-Simplac.settings.Aimbot_MCheck = true -- AM = "DAMN THIS BOT IS SO ANNOYING LOL" - Aimbot check/breaker (uses bots, takes 1 slot of yo serv)
+Simplac.settings.Aimbot_MCheck = false -- AM = "DAMN THIS BOT IS SO ANNOYING LOL" - Aimbot check/breaker (uses bots, takes 1 slot of yo serv)
 
 --MC is pretty cool but apperently currently doesn't work for every addon/gamemode setup
 Simplac.settings.MouseCheck2 = true -- MC = Mouse Check ( against aimbots etc. )

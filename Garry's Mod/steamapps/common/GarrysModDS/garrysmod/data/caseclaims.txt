@@ -1,1 +1,1 @@
-{"STEAM_0:1:121087763":{"lastclaim":1608977758.0,"name":"brexit","claims":1.0}}
+{"STEAM_0:1:121087763":{"lastclaim":1609595173.0,"name":"brexit","claims":8.0},"STEAM_0:0:103364981":{"lastclaim":1609595707.0,"name":"Al Shebab","claims":23.0},"STEAM_0:0:84012375":{"lastclaim":1609595178.0,"name":"Bilbo Maggins","claims":37.0},"STEAM_0:1:188501563":{"lastclaim":1609587140.0,"name":"Rennet Hoy","claims":5.0}}

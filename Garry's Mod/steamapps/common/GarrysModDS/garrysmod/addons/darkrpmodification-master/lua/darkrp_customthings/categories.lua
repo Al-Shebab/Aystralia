@@ -227,6 +227,15 @@ DarkRP.createCategory{
     categorises = "entities",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_CITIZEN, TEAM_BANK_MANAGER, TEAM_PARKOUR_MASTER, TEAM_GRAFFITI_ARTIST, TEAM_DJ, TEAM_VAPIST, TEAM_FIGHT_CLUB_OWNER, TEAM_PIANIST, TEAM_GAMBLING_ADDICT, TEAM_SECURITY_GUARD, TEAM_DOCTER, TEAM_NURSE, TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER, TEAM_DRUG_DEALER, TEAM_HACKER, TEAM_THIEF, TEAM_HITMAN, TEAM_BLOOD, TEAM_BLOOD_LEADER, TEAM_CRIP, TEAM_CRIP_LEADER, TEAM_BATTLE_MEDIC, TEAM_MAFIA, TEAM_MAFIA_LEADER, TEAM_PRO_THIEF, TEAM_TERRORIST, TEAM_ASSASSIN, TEAM_KIDNAPPER, TEAM_MUTANT, TEAM_MUTANT_KING, TEAM_BITCOIN_MINER, TEAM_MONEY_PRINTER, TEAM_LEAN_MANUFACTURER, TEAM_WEED_DEALER, TEAM_LSD_DEALER, TEAM_METH_DEALER}, ply:Team()) end,
+    canSee = function(ply) return true end,
     sortOrder = 7
+}
+
+DarkRP.createCategory{
+    name = "Supplies",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(34, 85, 85, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 8
 }

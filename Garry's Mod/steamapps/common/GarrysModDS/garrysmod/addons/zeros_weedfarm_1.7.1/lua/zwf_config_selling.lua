@@ -11,7 +11,7 @@ zwf.config.NPC = {
 
 
     // How will the player sell the Weed?
-    SellMode = 1,
+    SellMode = 2,
     // 1 = The Player needs to put the Weedblocks on the Palette Entity and sell it at the NPC
     // 2 = The Player can absorb the WeedBlocks and sell them at the NPC
 

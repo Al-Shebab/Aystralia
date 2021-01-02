@@ -208,19 +208,6 @@ DarkRP.createEntity("Lean Cup", {
     end,
     CustomCheckFailMsg = "",
 })
-DarkRP.createEntity("Lean Small Crate", {
-    ent = "lean_smallcrate",
-    model = "models/props_junk/cardboard_box001a.mdl",
-    price = 500,
-    max = 2,
-    cmd = "lean_smallcrate",
-    category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
 DarkRP.createEntity("Combiner", {
 	ent = "zmlab_combiner",
 	model = "models/zerochain/zmlab/zmlab_combiner.mdl",
@@ -277,16 +264,6 @@ DarkRP.createEntity("Aluminium", {
 	price = 500,
 	max = 3,
 	cmd = "buyaluminium_zmlab",
-	allowed = TEAM_METH_DEALER,
-	category = "Meth Materials"
-})
-
-DarkRP.createEntity("Transport Palette", {
-	ent = "zmlab_palette",
-	model = "models/props_junk/wood_pallet001a.mdl",
-	price = 1000,
-	max = 3,
-	cmd = "buypalette_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
 })
@@ -417,4 +394,13 @@ DarkRP.createEntity("Solar Panel", {
     cmd = "buysolarpanel",
     allowed = {TEAM_BITCOIN_MINER},
     category = "Bitcoin"
+})
+    
+DarkRP.createEntity("Armour Station", {
+ent = "armour_station",
+model = "models/props_c17/consolebox01a.mdl",
+price = 125000,
+max = 1,
+cmd = "armour_station",
+category = "Supplies"
 })

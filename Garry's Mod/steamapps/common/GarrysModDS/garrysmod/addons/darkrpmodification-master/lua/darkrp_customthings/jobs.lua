@@ -13,19 +13,6 @@ Add your custom jobs under the following line:
 ---------------------------------------------------------------------------]]
 
 
-
---[[---------------------------------------------------------------------------
-Define which team joining players spawn into and what team you change to if demoted
----------------------------------------------------------------------------]]
-GAMEMODE.DefaultTeam = TEAM_CITIZEN
---[[---------------------------------------------------------------------------
-Define which teams belong to civail protection
-Civil protection can set warrants, make people wanted and do some other police related things
----------------------------------------------------------------------------]]
---[[---------------------------------------------------------------------------
-Jobs that are hitmen (enables the hitman menu)
----------------------------------------------------------------------------]]
-
 -- Civilians --
 
 TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
@@ -35,7 +22,7 @@ TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
     weapons = {},
     command = "TEAM_BANK_MANAGER",
     max = 1,
-    salary = 2500,
+    salary = 5000,
     admin = 0,
     vote = false,
     hasLicense = true,
@@ -48,8 +35,8 @@ TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
     description = [[Hardcore parkour around the entire city. Can not raid/mug. Can not use weapons.]],
     weapons = {"climb_swep2"},
     command = "TEAM_PARKOUR_MASTER",
-    max = 1,
-    salary = 500,
+    max = 2,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -67,8 +54,8 @@ TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
     description = [[Spray your tag all over the city. Can not raid/mug.]],
     weapons = {"weapon_spraymhs"},
     command = "TEAM_GRAFFITI_ARTIST",
-    max = 1,
-    salary = 500,
+    max = 2,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -77,12 +64,12 @@ TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
 })
 TEAM_DJ = DarkRP.createJob("DJ", {
     color = Color(74, 255, 69, 255),
-    model = {"models/fortnite/female/dj_bop.mdl"},
+    model = {"models/player/daftpunk/daft_silver.mdl"},
     description = [[Allowed to hotmic music to others. Can not raid/mug. Can not use weapons.]],
     weapons = {},
     command = "TEAM_DJ",
     max = 1,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -96,7 +83,7 @@ TEAM_VAPIST = DarkRP.createJob("Vapist", {
     weapons = {"weapon_vape_juicy"},
     command = "TEAM_VAPIST",
     max = 2,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -215,7 +202,7 @@ TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
 })
 TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
     color = Color(37, 110, 201, 255),
-    model = {"models/GrandTheftAuto5/Trevor.mdl"},
+    model = {"models/player/gru.mdl"},
     description = [[Deliver large arms and explosives to the city. Can not raid/mug. Donator ONLY]],
     weapons = {"m9k_ak47"},
     command = "TEAM_BLACK_MARKET_DEALER",
@@ -241,7 +228,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     color = Color(37, 110, 201, 255),
-    model = {"models/player/MKX_Jax.mdl"},
+    model = {"models/GrandTheftAuto5/Trevor.mdl"},
     description = [[Sell prescription drugs to those in need. Can not raid/mug.]],
     weapons = {},
     command = "TEAM_DRUG_DEALER",
@@ -486,7 +473,7 @@ TEAM_HACKER = DarkRP.createJob("Hacker", {
     weapons = {"keypad_cracker"},
     command = "TEAM_HACKER",
     max = 4,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -505,7 +492,7 @@ TEAM_THIEF = DarkRP.createJob("Thief", {
     weapons = {"lockpick"},
     command = "TEAM_THIEF",
     max = 4,
-    salary = 500,
+    salary =750,
     admin = 0,
     vote = false,
     hasLicense = false,
@@ -562,12 +549,12 @@ TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/bloodz/slow_1.mdl"},
     description = [[Gang member rival against crips. Can base, raid and mug.]],
-    weapons = {},
+    weapons = {"lockpick"},
     command = "TEAM_BLOOD_LEADER",
     max = 1,
     salary = 750,
     admin = 0,
-    vote = true,
+    vote = false,
     hasLicense = false,
     candemote = false,
     category = "Illegal",
@@ -600,12 +587,12 @@ TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
     color = Color(0, 0, 255, 255),
     model = {"models/player/cripz/slow_1.mdl"},
     description = [[Gang member rival against bloods. Can base, raid and mug.]],
-    weapons = {},
+    weapons = {"lockpick"},
     command = "TEAM_CRIP_LEADER",
     max = 1,
     salary = 750,
     admin = 0,
-    vote = true,
+    vote = false,
     hasLicense = false,
     candemote = false,
     category = "Illegal",
@@ -619,12 +606,12 @@ TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/LaNoire_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
-    weapons = {},
+    weapons = {"lockpick"},
     command = "TEAM_MAFIA_LEADER",
     max = 1,
     salary = 750,
     admin = 0,
-    vote = true,
+    vote = false,
     hasLicense = false,
     candemote = false,
     category = "Illegal",
@@ -781,7 +768,7 @@ TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     description = [[Mine bitcoins before it was cool. Can base.]],
     weapons = {},
     command = "TEAM_BITCOIN_MINER",
-    max = 2,
+    max = 3,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -795,7 +782,7 @@ TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     description = [[Make fake money. Can base.]],
     weapons = {},
     command = "TEAM_MONEY_PRINTER",
-    max = 2,
+    max = 3,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -809,7 +796,7 @@ TEAM_LEAN_MANUFACTURER = DarkRP.createJob("Lean Manufacturer", {
     description = [[Get some chemist warehouse cough syrup and put it in a cup. Can base.]],
     weapons = {},
     command = "TEAM_LEAN_MANUFACTURER",
-    max = 2,
+    max = 3,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -823,7 +810,7 @@ TEAM_WEED_DEALER = DarkRP.createJob("Weed Grower", {
     description = [[Sell some green at bankstown station. Can base.]],
     weapons = {"zwf_cable","zwf_shoptablet","zwf_wateringcan"},
     command = "TEAM_WEED_DEALER",
-    max = 2,
+    max = 3,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -837,7 +824,7 @@ TEAM_LSD_DEALER = DarkRP.createJob("LSD Cook", {
     description = [[Snap off some tabs and give them to the street kids. Can base.]],
     weapons = {"swep_lsd_cellphone"},
     command = "TEAM_LSD_DEALER",
-    max = 2,
+    max = 3,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -851,7 +838,7 @@ TEAM_METH_DEALER = DarkRP.createJob("Meth Cook", {
     description = [[Become a gosford local. Can base.]],
     weapons = {"zmlab_extractor"},
     command = "TEAM_METH_DEALER",
-    max = 2,
+    max = 3,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -931,6 +918,8 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
     CustomCheckFailMsg = "Staff only.",
 })
 
+GAMEMODE.DefaultTeam = TEAM_CITIZEN
+
 GAMEMODE.CivilProtection = {
     [TEAM_POLICE_OFFICER] = true,
     [TEAM_POLICE_CHIEF] = true,
@@ -943,5 +932,5 @@ GAMEMODE.CivilProtection = {
     [TEAM_UNDERCOVER_COP] = true,
 }
 
-DarkRP.addHitmanTeam(TEAM_ASSASSIN)
 DarkRP.addHitmanTeam(TEAM_HITMAN)
+DarkRP.addHitmanTeam(TEAM_ASSASSIN)

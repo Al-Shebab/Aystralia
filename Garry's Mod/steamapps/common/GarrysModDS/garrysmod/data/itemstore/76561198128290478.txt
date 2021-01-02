@@ -1,1 +1,1 @@
-[]
+[{"Data":{"THC":12.210000038146973,"WeedName":"Anti Christ","Perf_Amount":95.0,"Perf_Time":76.0,"PlantID":1.0,"Perf_THC":130.0,"WeedAmount":140.0,"ZWFOwner":"STEAM_0:1:529816283"},"Class":"zwf_jar"},{"Data":{"THC":13.0,"WeedName":"O.G. Kush","Perf_Amount":108.0,"Perf_Time":50.0,"PlantID":1.0,"Perf_THC":140.0,"WeedAmount":200.0,"ZWFOwner":"STEAM_0:1:529816283"},"Class":"zwf_jar"}]

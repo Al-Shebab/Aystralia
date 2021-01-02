@@ -35,7 +35,7 @@ lean_igconfig.speedtime = {val = 20,name = "Speed Effects Time",category = "Cup"
 lean_igconfig.allowleanuse = {val = true,name = "Allow Drinking Lean",category = "Cup",desc = "Should people be allowed to drink lean?"}
 lean_igconfig.speedamount = {val = 500,name = "Speed Amount",category = "Cup",desc = "How much should we increase their speed after drinking lean?"}
 -- Crate
-lean_igconfig.cratehold = {val = 10,name = "Crate Capacity",category = "Crate",desc = "How many cups can the crate hold?"}
+lean_igconfig.cratehold = {val = 16,name = "Crate Capacity",category = "Crate",desc = "How many cups can the crate hold?"}
 lean_igconfig.usetosell = {val = false,name = "Press E to pickup crate",category = "Crate",desc = "Use E to pickup the crate? ( true = press e, false = carry to npc"}
 lean_igconfig.cratedmg = {val = true,name = "Crate Take Damage",category = "Crate",desc = "Should the crate take damage?"}
 lean_igconfig.cratehp = {val = 200,name = "Crate HP",category = "Crate",desc = "What HP should the crate have?"}
@@ -44,7 +44,7 @@ lean_igconfig.cratedropcups = {val = false,name = "Drop cups on destroy",categor
 lean_igconfig.currency = {val = "$",name = "Currency",category = "General",desc = "What currency should we use?"}
 lean_igconfig.prefix = {val = "[Lean Production]",name = "Chat Prefix",category = "General",desc = "What should we display before all chat messages?"}
 lean_igconfig.prefixcol = {val = Color(255,0,0),name = "Chat Prefix Color",category = "General",desc = "What colour should the chat prefix be?"}
-lean_igconfig.sellprice = {val = 15000,name = "Lean Sell Price",category = "General",desc = "How much 1 cup of lean will sell for"}
+lean_igconfig.sellprice = {val = 10000,name = "Lean Sell Price",category = "General",desc = "How much 1 cup of lean will sell for"}
 lean_igconfig.usevrondakis = {val = false,name = "Use Vrondakis Levelling System",category = "General",desc = "Should we use Vrondakis levelling system to give XP when selling lean?"}
 lean_igconfig.vrondakisamt = {val = 100,name = "Vrondakis XP Amount",category = "General",desc = "How much XP 1 cup of lean will give on selling"}
 lean_igconfig.ingredientscooldown = {val = 0.5,name = "Ingredients Cooldown",category = "General",desc = "The cooldown before a player can add another ingredient (If this is too low your server can lag as exploiters like net messages with no cooldown)"}

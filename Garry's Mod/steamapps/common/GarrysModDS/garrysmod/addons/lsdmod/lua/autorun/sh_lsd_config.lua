@@ -13,7 +13,7 @@ LSD.Config.PriceRankMultiplier = {user=1} //Price multiplied by ranks, example, 
 LSD.Config.DurationMultiplier = 1
 
 LSD.Config.AllowPurchase = false //Allows to people buy lsd without making them
-LSD.Config.Price = 2000 //How much does costs to buy 4 lsd things
+LSD.Config.Price = 20000 //How much does costs to buy 4 lsd things
 LSD.Config.Selling = 2.5 //How much does cost to sell one lsd stick, correct forumla is = LSD.Config.Price/4 * LSD.Config.Selling
 LSD.Config.SellingSuper = 5 //How much does it cost to sell a super, formula LSD.Config.Price/4 * LSD.Config.Selling * LSD.Config.SellingSuper
 
