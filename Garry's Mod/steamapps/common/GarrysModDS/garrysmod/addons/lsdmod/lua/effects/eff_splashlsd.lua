@@ -1,6 +1,13 @@
 
 local puffs = {"001","067","133","199","265","331"}
 
+function EFFECT:Init(data)
+	self.ent = data:GetEntity()
+	if(IsValid(self.ent)) then
+		self.Emitter = ParticleEmitter( self.ent:GetPos() )
+	end
+end
+
 EFFECT.nFlash = 0
 
 function EFFECT:Think()
