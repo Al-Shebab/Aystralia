@@ -220,11 +220,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
-    end,
-    CustomCheckFailMsg = "This job is for donators only.",
+    end
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     color = Color(37, 110, 201, 255),
