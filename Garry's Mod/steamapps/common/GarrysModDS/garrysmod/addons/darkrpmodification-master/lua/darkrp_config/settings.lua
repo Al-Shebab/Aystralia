@@ -281,9 +281,9 @@ GM.Config.wantedtime                    = 300
 -- walkspeed - Sets the max walking speed.
 GM.Config.walkspeed                     = 160
 -- falldamagedamper - The damper on realistic fall damage. Default is 15. Decrease this for more damage.
-GM.Config.falldamagedamper              = 5
+GM.Config.falldamagedamper              = 8
 -- falldamageamount - The base damage taken from falling for static fall damage. Default is 10.
-GM.Config.falldamageamount              = 15
+GM.Config.falldamageamount              = 11
 -- printeroverheatchance - The likelyhood of a printer overheating. The higher this number, the less likely (minimum 3, default 22).
 GM.Config.printeroverheatchance         = 3
 -- printerreward - Reward for destroying a money printer.
