@@ -120,7 +120,7 @@ aScoreboard.NiceRanks["senior-moderator"] 			= {name = "Senior Moderator", 			co
 aScoreboard.NiceRanks["admin"] 			= {name = "Admin", 			col = Color(226, 255, 68)	}
 aScoreboard.NiceRanks["senior-admin"] 			= {name = "Senior Admin", 			col = Color(255, 180, 0)	}
 aScoreboard.NiceRanks["staff-manager"] 			= {name = "Staff Manager", 			col = Color(255, 101, 101)	}
-aScoreboard.NiceRanks["superadmin"] 			= {name = "Superadmin", 			col = Color(255, 0, 0)	}
+aScoreboard.NiceRanks["superadmin"] 			= {name = "User", 			col = Color(93, 24, 255)	}
 aScoreboard.NiceRanks["donator-trial-moderator"] 			= {name = "Trial Moderator", 			col = Color(24, 249, 255)	}
 aScoreboard.NiceRanks["donator-moderator"] 			= {name = "Moderator", 			col = Color(74, 255, 121)	}
 aScoreboard.NiceRanks["donator-senior-moderator"] 			= {name = "Senior Moderator", 			col = Color(148, 255, 87)	}
