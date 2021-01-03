@@ -416,7 +416,8 @@ GM.Config.DefaultLaws = {
 }
 
 GM.Config.PocketBlacklist = {
-    ["wheel_of_luck"],
+    ["cardealer_tablet_ent"] = true,
+    ["wheel_of_luck"] = true,
     ["fadmin_jail"] = true,
     ["meteor"] = true,
     ["door"] = true,
