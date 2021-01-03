@@ -35,7 +35,7 @@ CreateConVar( "cuffs_restrictteams", 1, {FCVAR_ARCHIVE,FCVAR_SERVER_CAN_EXECUTE}
 
 CreateConVar( "cuffs_restrictwarrant", 1, {FCVAR_ARCHIVE,FCVAR_SERVER_CAN_EXECUTE,FCVAR_REPLICATED} )
 CreateConVar( "cuffs_autoarrest", 0, {FCVAR_ARCHIVE,FCVAR_SERVER_CAN_EXECUTE} )
-CreateConVar( "cuffs_restrictarrest", 1, {FCVAR_ARCHIVE,FCVAR_SERVER_CAN_EXECUTE} )
+CreateConVar( "cuffs_restrictarrest", 0, {FCVAR_ARCHIVE,FCVAR_SERVER_CAN_EXECUTE} )
 
 // Standard hooks //
 hook.Add( "CanPlayerSuicide", "Cuffs RestrictSuicide", function( ply )
