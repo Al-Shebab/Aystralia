@@ -6,6 +6,7 @@ addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
 discordurl = "https://discord.gg/hWN7zXtbQP"
 donateurl = "https://bit.ly/3na8tzg"
 rulesurl = "https://bit.ly/3mQVodO"
+groupurl = "https://steamcommunity.com/groups/Aystralia"
 reporturl = "https://forms.gle/pjxfwF9QdkdwMsj57"
 bugsurl = "https://bit.ly/2WKFtDB"
 applyurl = "https://forms.gle/xugZ5v1Xqy4m2tpr9"
@@ -15,6 +16,7 @@ workshopcommand = "!workshop"
 discordcommand = "!discord"
 donatecommand = "!donate"
 rulescommand = "!rules"
+groupcommand = "!group"
 reportcommand = "!report"
 bugscommand = "!bugs"
 applycommand = "!apply"
@@ -77,4 +79,11 @@ end
 local apply = ulx.command( CATEGORY_NAME, "ulx apply", ulx.apply, applycommand )
 apply:defaultAccess( ULib.ACCESS_ALL )
 apply:help( "Apply for staff!" )
+
+function ulx.group( calling_ply )
+	calling_ply:SendLua([[gui.OpenURL(groupurl)]])
+end
+local group = ulx.command( CATEGORY_NAME, "ulx group", ulx.group, groupcommand ) 
+group:defaultAccess( ULib.ACCESS_ALL )
+group:help( "Opens the group for the server." )
 
