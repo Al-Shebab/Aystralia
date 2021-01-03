@@ -330,7 +330,11 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
-    end
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
     color = Color(45, 6, 255, 255),
