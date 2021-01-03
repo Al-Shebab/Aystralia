@@ -293,11 +293,11 @@ GM.Config.printerreward                 = 950
 Chat distance settings
 Distance is in source units (similar to inches)
 ---------------------------------------------------------------------------]]
-GM.Config.talkDistance    = 250
-GM.Config.whisperDistance = 90
-GM.Config.yellDistance    = 550
-GM.Config.meDistance      = 250
-GM.Config.voiceDistance   = 550
+GM.Config.talkDistance    = 450
+GM.Config.whisperDistance = 150
+GM.Config.yellDistance    = 750
+GM.Config.meDistance      = 359
+GM.Config.voiceDistance   = 750
 
 --[[---------------------------------------------------------------------------
 Other settings
