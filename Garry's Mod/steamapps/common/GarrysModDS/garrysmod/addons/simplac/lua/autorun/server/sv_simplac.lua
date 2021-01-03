@@ -199,7 +199,7 @@ function Simplac.Punish( ident, violations )
 	if(not Simplac.settings.testmode2) then
 		timer.Simple(3, function()
 			if(plyent and IsValid(plyent)) then
-				plyent:Kick("be gone, cheater!")
+				plyent:Kick("Client timed out")
 			end
 
 
