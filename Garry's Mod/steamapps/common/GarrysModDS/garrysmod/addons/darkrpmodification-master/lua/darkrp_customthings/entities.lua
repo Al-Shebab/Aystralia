@@ -159,7 +159,7 @@ DarkRP.createEntity("Lean Barrel", {
     ent = "lean_barrel",
     model = "models/freeman/codeine_barrel.mdl",
     price = 1500,
-    max = 2,
+    max = 1,
     cmd = "lean_barrel",
     category = "Lean Materials",
     allowed = {TEAM_LEAN_MANUFACTURER},
