@@ -185,7 +185,7 @@ DarkRP.createEntity("Lean Cup", {
     ent = "lean_cup",
     model = "models/freeman/codeine_cup.mdl",
     price = 20,
-    max = 8,
+    max = 5,
     cmd = "lean_cup",
     category = "Lean Materials",
     allowed = {TEAM_LEAN_MANUFACTURER},
@@ -385,7 +385,7 @@ DarkRP.createEntity("Solar Panel", {
 DarkRP.createEntity("Armour Station", {
 ent = "armour_station",
 model = "models/props_c17/consolebox01a.mdl",
-price = 125000,
+price = 100000,
 max = 1,
 cmd = "armour_station",
 category = "Supplies"
