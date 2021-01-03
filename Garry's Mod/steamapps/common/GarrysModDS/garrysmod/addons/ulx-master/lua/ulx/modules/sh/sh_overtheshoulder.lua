@@ -8,7 +8,7 @@ local function ThirdPerson(ply, pos, ang)
     local trace = {}
     trace.start = pos
     trace.endpos = targetpos
-    trace.mins = Vector(-5, -5, -5).
+    trace.mins = Vector(-5, -5, -5)
     trace.maxs = Vector(5, 5, 5)
     trace.filter = ply
     trace.mask = MASK_VISIBLE
