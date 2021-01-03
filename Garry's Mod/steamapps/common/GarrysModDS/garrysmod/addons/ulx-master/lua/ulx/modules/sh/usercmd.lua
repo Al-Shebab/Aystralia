@@ -4,6 +4,7 @@
 
 addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
 discordurl = "https://discord.gg/hWN7zXtbQP"
+donateurl = "https://bit.ly/3na8tzg"
 rulesurl = "https://bit.ly/3mQVodO"
 reporturl = "https://forms.gle/pjxfwF9QdkdwMsj57"
 bugsurl = "https://bit.ly/2WKFtDB"
@@ -12,6 +13,7 @@ applyurl = "https://forms.gle/xugZ5v1Xqy4m2tpr9"
 addoncommand = "!addons"
 workshopcommand = "!workshop"
 discordcommand = "!discord"
+donatecommand = "!donate"
 rulescommand = "!rules"
 reportcommand = "!report"
 bugscommand = "!bugs"
@@ -40,6 +42,13 @@ end
 local discord = ulx.command( CATEGORY_NAME, "ulx discord", ulx.discord, discordcommand )
 discord:defaultAccess( ULib.ACCESS_ALL )
 discord:help( "Opens the discord for the server." )
+
+function ulx.donate( calling_ply )
+	calling_ply:SendLua([[gui.OpenURL(donateurl)]])
+end
+local donate = ulx.command( CATEGORY_NAME, "ulx donate", ulx.donate, donatecommand )
+donate:defaultAccess( ULib.ACCESS_ALL )
+donate:help( "Opens the donation link." )
 
 function ulx.rules( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(rulesurl)]])
