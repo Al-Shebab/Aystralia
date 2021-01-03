@@ -30,7 +30,7 @@ ulx logFile 0 ; Log to file (Can still echo if off). This is a global setting, n
 ulx logEvents 0 ; Log events (player connect, disconnect, death)
 ulx logChat 0 ; Log player chat
 ulx logSpawns 0 ; Log when players spawn objects (props, effects, etc)
-ulx logSpawnsEcho 2 ; Echo spawns to players in server. -1 = Off, 0 = Dedicated console only, 1 = Admins only, 2 = All players. (Echoes to console)
+ulx logSpawnsEcho 1 ; Echo spawns to players in server. -1 = Off, 0 = Dedicated console only, 1 = Admins only, 2 = All players. (Echoes to console)
 ulx logJoinLeaveEcho 1 ; Echo players leaves and joins to admins in the server (useful for banning minges)
 ulx logDir "ulx_logs" ; The log dir under garrysmod/data
 ulx logEcho 2 ; Echo mode

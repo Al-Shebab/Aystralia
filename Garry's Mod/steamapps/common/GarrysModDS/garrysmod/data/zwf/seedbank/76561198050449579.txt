@@ -1,0 +1,114 @@
+[
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 2.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 2 v2",
+		"Perf_Amount": 83.0,
+		"Perf_Time": 108.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 105.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 2",
+		"Perf_Amount": 83.0,
+		"Perf_Time": 108.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 107.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 3",
+		"Perf_Amount": 77.0,
+		"Perf_Time": 114.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 110.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 3",
+		"Perf_Amount": 77.0,
+		"Perf_Time": 115.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 112.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 4",
+		"Perf_Amount": 77.0,
+		"Perf_Time": 115.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 110.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 4",
+		"Perf_Amount": 72.0,
+		"Perf_Time": 121.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 115.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 4",
+		"Perf_Amount": 71.0,
+		"Perf_Time": 113.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 119.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 5",
+		"Perf_Amount": 66.0,
+		"Perf_Time": 111.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 125.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 5",
+		"Perf_Amount": 73.0,
+		"Perf_Time": 119.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 127.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 6",
+		"Perf_Amount": 50.0,
+		"Perf_Time": 118.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 130.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 6",
+		"Perf_Amount": 68.0,
+		"Perf_Time": 125.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 133.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 7",
+		"Perf_Amount": 50.0,
+		"Perf_Time": 124.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 139.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil 7",
+		"Perf_Amount": 63.0,
+		"Perf_Time": 130.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 140.0
+	}
+]

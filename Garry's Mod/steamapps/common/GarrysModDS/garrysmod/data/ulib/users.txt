@@ -1,10 +1,54 @@
-"STEAM_0:1:188501563"	
+"STEAM_0:1:128868430"	
 {
 	"allow"	
 	{
 	}
-	"name"	"Lord ✘"
+	"name"	"Feeyne"
 	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:59860466"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Xi Jinping"
+	"group"	"trusted"
+}
+"STEAM_0:1:146685194"	
+{
+	"allow"	
+	{
+	}
+	"name"	"ajww1"
+	"deny"	
+	{
+	}
+	"group"	"trusted"
+}
+"STEAM_0:1:51163583"	
+{
+	"name"	"Jacktank"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"senior-admin"
+}
+"STEAM_0:0:84012375"	
+{
+	"name"	"TheRealLayth"
+	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"moderator"
@@ -20,27 +64,16 @@
 	}
 	"group"	"superadmin"
 }
-"STEAM_0:1:39582903"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"callum22122"
-	"group"	"superadmin"
-}
-"STEAM_0:1:128868430"	
+"STEAM_0:1:188501563"	
 {
 	"allow"	
 	{
 	}
-	"name"	"Feeyne"
+	"name"	"Lord ✘"
 	"deny"	
 	{
 	}
-	"group"	"admin"
+	"group"	"moderator"
 }
 "STEAM_0:1:121087763"	
 {
@@ -53,36 +86,25 @@
 	"name"	"brexit"
 	"group"	"superadmin"
 }
-"STEAM_0:0:84012375"	
-{
-	"name"	"TheRealLayth"
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"group"	"moderator"
-}
 "STEAM_0:1:56083089"	
 {
 	"allow"	
 	{
 	}
-	"name"	"Rick Sanchez"
+	"name"	"Ultra V"
 	"deny"	
 	{
 	}
 	"group"	"moderator"
 }
-"STEAM_0:1:51163583"	
+"STEAM_0:1:39582903"	
 {
-	"name"	"Jacktank"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"group"	"senior-admin"
+	"name"	"callum22122"
+	"group"	"superadmin"
 }
