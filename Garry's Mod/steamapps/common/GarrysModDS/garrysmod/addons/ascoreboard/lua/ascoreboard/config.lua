@@ -58,7 +58,7 @@ aScoreboard.PieChart					= true
 aScoreboard.WebsiteLink					= "https://discord.gg/hWN7zXtbQP"
 
 --Link to your donation page, leave as "" in order to disable page
-aScoreboard.DonationLink				= "https://aystralia-network-garrys-mo.tebex.io"
+aScoreboard.DonationLink				= "https://aystralia-network.tebex.io/"
 
 --Link to your workshop collection, leave as "" in order to disable page
 aScoreboard.WorkshopLink				= "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"

@@ -4,7 +4,7 @@
 
 addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
 discordurl = "https://discord.gg/hWN7zXtbQP"
-donateurl = "https://bit.ly/3na8tzg"
+donateurl = "https://aystralia-network.tebex.io/"
 rulesurl = "https://bit.ly/3mQVodO"
 groupurl = "https://steamcommunity.com/groups/Aystralia"
 reporturl = "https://forms.gle/pjxfwF9QdkdwMsj57"

@@ -2,7 +2,7 @@
 -- You can add external links to donation pages, websites, etc.
 F4Menu.Links = {
 	-- Example:
-	-- ['Donate'] = 'http://google.com',
+	-- ['Donate'] = 'https://aystralia-network.tebex.io/',
 }
 
 -- Advanced configuration
