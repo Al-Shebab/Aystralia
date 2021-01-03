@@ -1,3 +1,1078 @@
 Sat Jan  2 07:42:24 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
 Sat Jan  2 07:42:24 2021	Al Shebab (STEAM_0:0:103364981) spawned
 Sat Jan  2 07:43:25 2021	Al Shebab (STEAM_0:0:103364981): /drop
+Sat Jan  2 07:57:07 2021	Al Shebab (STEAM_0:0:103364981) disconnected
+Sat Jan  2 07:57:31 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sat Jan  2 07:57:31 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jan  2 08:06:45 2021	popbob1 (STEAM_0:1:90900081) has joined the game
+Sat Jan  2 08:06:45 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:07:28 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:08:31 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:10:33 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:11:06 2021	ajww1 (STEAM_0:1:146685194) has joined the game
+Sat Jan  2 08:11:06 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:11:45 2021	Al Shebab (STEAM_0:0:103364981): !goto Buhlow Jobs
+Sat Jan  2 08:11:58 2021	Buhlow Jobs (STEAM_0:1:90900081): yeah its not too bad
+Sat Jan  2 08:12:12 2021	Buhlow Jobs (STEAM_0:1:90900081): i guess so haha
+Sat Jan  2 08:12:13 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:12:19 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:12:27 2021	Buhlow Jobs (STEAM_0:1:90900081): clearly that works
+Sat Jan  2 08:12:28 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:12:38 2021	Buhlow Jobs (STEAM_0:1:90900081): clearly that works
+Sat Jan  2 08:12:52 2021	Buhlow Jobs (STEAM_0:1:90900081): you can still do this
+Sat Jan  2 08:12:56 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 1000000
+Sat Jan  2 08:12:57 2021	Al Shebab (STEAM_0:0:103364981) has dropped $1,000,000
+Sat Jan  2 08:13:02 2021	Al Shebab (STEAM_0:0:103364981): /dropmoney 1000000
+Sat Jan  2 08:13:03 2021	Al Shebab (STEAM_0:0:103364981) has dropped $1,000,000
+Sat Jan  2 08:13:32 2021	Feeyne (STEAM_0:1:128868430) has joined the game
+Sat Jan  2 08:13:32 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:13:51 2021	Buhlow Jobs (STEAM_0:1:90900081): ive just found it
+Sat Jan  2 08:14:15 2021	Buhlow Jobs (STEAM_0:1:90900081): lean
+Sat Jan  2 08:14:36 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:14:39 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:15:56 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:16:57 2021	Buhlow Jobs (STEAM_0:1:90900081): i was gonna suggest getting the red sushi gambling machine but the guy who developed it is dead so the addons arent listed any
+Sat Jan  2 08:16:58 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 08:17:00 2021	Buhlow Jobs (STEAM_0:1:90900081): more
+Sat Jan  2 08:17:24 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:17:32 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:17:35 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:17:57 2021	Buhlow Jobs (STEAM_0:1:90900081): nah bro you gotta do physcannon_mega_enabled 1
+Sat Jan  2 08:18:04 2021	Buhlow Jobs (STEAM_0:1:90900081): surely
+Sat Jan  2 08:18:10 2021	tom green was killed by Himself with a suicide trick
+Sat Jan  2 08:18:13 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:19:00 2021	tom green was killed by Himself with a suicide trick
+Sat Jan  2 08:19:03 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:19:05 2021	Buhlow Jobs (STEAM_0:1:90900081): a lot
+Sat Jan  2 08:19:23 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:20:14 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:20:41 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:41 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:41 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:41 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:42 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:42 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:42 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:49 2021	tom green (STEAM_0:1:146685194): /buybattery
+Sat Jan  2 08:20:56 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:56 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:58 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:58 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:58 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:20:59 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:21:00 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:21:00 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:21:00 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:21:00 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT lean_cup
+Sat Jan  2 08:21:34 2021	Al Shebab (STEAM_0:0:103364981): !gportect
+Sat Jan  2 08:21:37 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:21:53 2021	Buhlow Jobs was killed by Entity [343][lean_crate] with a lean_crate
+Sat Jan  2 08:21:56 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:22:17 2021	Mist (STEAM_0:0:152042888) has joined the game
+Sat Jan  2 08:22:17 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:22:25 2021	Al Shebab (STEAM_0:0:103364981): bind v "ulx noclip"
+Sat Jan  2 08:22:38 2021	Feeyne Onbootings was killed by Al Shebab with a lean_crate
+Sat Jan  2 08:22:48 2021	tom green (STEAM_0:1:146685194): /buybattery
+Sat Jan  2 08:22:49 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:22:50 2021	Issac (STEAM_0:1:33775918) has joined the game
+Sat Jan  2 08:22:50 2021	Feeyne Onbootings was killed by Himself with a suicide trick
+Sat Jan  2 08:22:50 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:22:53 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:23:21 2021	Buhlow Jobs (STEAM_0:1:90900081): once we can get sEnts prop protected we should make lean physgunnable so we can fit that shit through a door
+Sat Jan  2 08:23:31 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:23:32 2021	Jaems™ (STEAM_0:0:578081804) has joined the game
+Sat Jan  2 08:23:32 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:24:02 2021	Buhlow Jobs (STEAM_0:1:90900081): like be able to precision it through a wall so we dont have to go into an open space
+Sat Jan  2 08:24:11 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:24:19 2021	duckmastergames (STEAM_0:0:512809868) has joined the game
+Sat Jan  2 08:24:19 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:24:29 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_filter
+Sat Jan  2 08:24:34 2021	James was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:24:41 2021	Mist was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:24:43 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:24:45 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:24:50 2021	Issac Wilderson (STEAM_0:1:33775918) disconnected
+Sat Jan  2 08:24:51 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:24:56 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:25:10 2021	James was killed by Himself with a suicide trick
+Sat Jan  2 08:25:13 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:25:21 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:25:51 2021	Issac (STEAM_0:1:33775918) has joined the game
+Sat Jan  2 08:25:51 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:26:10 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:26:23 2021	Buhlow Jobs (STEAM_0:1:90900081): why do these make money printer sounds
+Sat Jan  2 08:26:24 2021	Issac Wilderson (STEAM_0:1:33775918) disconnected
+Sat Jan  2 08:26:40 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:26:42 2021	James (STEAM_0:0:578081804): 
+Sat Jan  2 08:26:58 2021	tom green (STEAM_0:1:146685194): 
+Sat Jan  2 08:27:26 2021	Issac (STEAM_0:1:33775918) has joined the game
+Sat Jan  2 08:27:26 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:27:35 2021	James (STEAM_0:0:578081804): 
+Sat Jan  2 08:27:39 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Sat Jan  2 08:27:41 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:27:51 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:27:52 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:28:33 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 08:29:03 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 08:29:17 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 08:29:27 2021	Lynxaffect (STEAM_0:1:166517874) has joined the game
+Sat Jan  2 08:29:27 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:29:35 2021	Issac Wilderson was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 08:29:38 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:30:04 2021	Buhlow Jobs (STEAM_0:1:90900081): 1
+Sat Jan  2 08:30:10 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:30:20 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 08:30:21 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsound
+Sat Jan  2 08:30:36 2021	Feeyne Onbootings (STEAM_0:1:128868430): 
+Sat Jan  2 08:30:39 2021	Al Shebab (STEAM_0:0:103364981) spawned SENT tierp_printer
+Sat Jan  2 08:30:42 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:30:49 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:30:57 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:30:59 2021	Mr. Lert☀ (STEAM_0:0:74726177) has joined the game
+Sat Jan  2 08:30:59 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:31:08 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:31:22 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:31:25 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:31:34 2021	Snoop dawg (STEAM_0:0:74726177): im spawn
+Sat Jan  2 08:31:38 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:31:44 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:31:50 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:31:53 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:31:57 2021	Al Shebab (STEAM_0:0:103364981): !stopsound
+Sat Jan  2 08:32:00 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Sat Jan  2 08:32:12 2021	Oat Meal (STEAM_0:1:166517874) disconnected
+Sat Jan  2 08:32:21 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:32:25 2021	Snoop dawg (STEAM_0:0:74726177): yeahh nice
+Sat Jan  2 08:32:27 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:32:35 2021	Snoop dawg (STEAM_0:0:74726177): draw a dic
+Sat Jan  2 08:32:39 2021	Lynxaffect (STEAM_0:1:166517874) has joined the game
+Sat Jan  2 08:32:39 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:32:48 2021	Snoop dawg (STEAM_0:0:74726177): Nice man
+Sat Jan  2 08:32:50 2021	Snoop dawg (STEAM_0:0:74726177): I love it
+Sat Jan  2 08:32:51 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:32:54 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:32:58 2021	Snoop dawg (STEAM_0:0:74726177): i like your skeals
+Sat Jan  2 08:33:04 2021	Snoop dawg (STEAM_0:0:74726177): this dic is nice
+Sat Jan  2 08:33:41 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:33:50 2021	Ducky Lad was killed by Himself with a suicide trick
+Sat Jan  2 08:33:53 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:34:27 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Sat Jan  2 08:34:34 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:34:40 2021	Ducky Lad was killed by Mist with a weapon_fists
+Sat Jan  2 08:34:43 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:34:49 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:35:24 2021	Snoop dawg (STEAM_0:0:74726177): ?
+Sat Jan  2 08:35:35 2021	Feeyne Onbootings was killed by Al Shebab with a m9k_ak47
+Sat Jan  2 08:35:42 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:35:59 2021	Mist was killed by Ducky Lad with a weapon_fists
+Sat Jan  2 08:36:03 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:36:09 2021	Snoop dawg (STEAM_0:0:74726177): Man im not indian lynx
+Sat Jan  2 08:36:09 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:36:15 2021	Snoop dawg (STEAM_0:0:74726177): u fakin racist
+Sat Jan  2 08:36:23 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Sat Jan  2 08:36:27 2021	Mist was killed by Ducky Lad with a weapon_fists
+Sat Jan  2 08:36:30 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:36:36 2021	Ducky Lad was killed by Mist with a weapon_fists
+Sat Jan  2 08:36:39 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:36:41 2021	tom green was killed by Al Shebab with a m9k_ak47
+Sat Jan  2 08:36:41 2021	Snoop dawg was killed by Oat Meal with a weapon_fists
+Sat Jan  2 08:36:44 2021	Snoop dawg (STEAM_0:0:74726177): WTF
+Sat Jan  2 08:36:45 2021	Oat Meal was killed by Mist with a weapon_fists
+Sat Jan  2 08:36:45 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:36:48 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:36:49 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:36:50 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:36:52 2021	Snoop dawg (STEAM_0:0:74726177): oops
+Sat Jan  2 08:36:57 2021	Mist was killed by Oat Meal with a weapon_fists
+Sat Jan  2 08:37:03 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:37:15 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 08:37:28 2021	Oat Meal was killed by Snoop dawg with a weapon_fists
+Sat Jan  2 08:37:31 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:37:40 2021	tom green was killed by Ducky Lad with a weapon_fists
+Sat Jan  2 08:37:42 2021	Snoop dawg was killed by Mist with a weapon_fists
+Sat Jan  2 08:37:43 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:37:45 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:37:52 2021	Al Shebab was killed by Himself with a suicide trick
+Sat Jan  2 08:37:52 2021	Feeyne Onbootings was killed by Al Shebab with a m9k_gdcwa_rpg_heat
+Sat Jan  2 08:37:55 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:37:55 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jan  2 08:38:06 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 08:38:07 2021	Mist was killed by Oat Meal with a weapon_fists
+Sat Jan  2 08:38:10 2021	Mist (STEAM_0:0:152042888) spawned
+Sat Jan  2 08:38:10 2021	Snoop dawg (STEAM_0:0:74726177): LOL
+Sat Jan  2 08:38:12 2021	Snoop dawg (STEAM_0:0:74726177): XDDD
+Sat Jan  2 08:38:21 2021	Snoop dawg (STEAM_0:0:74726177): LYNX
+Sat Jan  2 08:38:26 2021	Mist (STEAM_0:0:152042888): !content
+Sat Jan  2 08:38:29 2021	James (STEAM_0:0:578081804): play darude
+Sat Jan  2 08:38:32 2021	Mist (STEAM_0:0:152042888): !workshop
+Sat Jan  2 08:38:35 2021	Buhlow Jobs was killed by James with a m9k_mossberg590
+Sat Jan  2 08:38:38 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:38:40 2021	Snoop dawg (STEAM_0:0:74726177): he frezed us
+Sat Jan  2 08:38:46 2021	Buhlow Jobs was killed by James with a m9k_mossberg590
+Sat Jan  2 08:38:49 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:38:51 2021	Snoop dawg was killed by tom green with a weapon_fists
+Sat Jan  2 08:38:55 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:38:56 2021	Snoop dawg (STEAM_0:0:74726177): lol
+Sat Jan  2 08:38:56 2021	Buhlow Jobs was killed by James with a m9k_mossberg590
+Sat Jan  2 08:38:58 2021	Ducky Lad was killed by Mist with a weapon_fists
+Sat Jan  2 08:39:00 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:39:00 2021	tom green was killed by Oat Meal with a weapon_fists
+Sat Jan  2 08:39:01 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:39:04 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:39:10 2021	Buhlow Jobs was killed by Al Shebab with a m9k_m202_rocket
+Sat Jan  2 08:39:10 2021	James was killed by Al Shebab with a m9k_m202_rocket
+Sat Jan  2 08:39:13 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:39:13 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:39:14 2021	Snoop dawg (STEAM_0:0:74726177): yeah
+Sat Jan  2 08:39:17 2021	Snoop dawg (STEAM_0:0:74726177): ad min abuse
+Sat Jan  2 08:39:21 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:39:24 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:39:28 2021	Snoop dawg (STEAM_0:0:74726177): yeahh i love t
+Sat Jan  2 08:39:30 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:39:30 2021	Snoop dawg (STEAM_0:0:74726177): it
+Sat Jan  2 08:39:33 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:39:33 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 08:39:39 2021	Oat Meal was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 08:39:42 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:40:01 2021	Ducky Lad (STEAM_0:0:512809868) has dropped $1
+Sat Jan  2 08:40:06 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:40:07 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 1
+Sat Jan  2 08:40:08 2021	Ducky Lad (STEAM_0:0:512809868) has dropped $1
+Sat Jan  2 08:40:12 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 1
+Sat Jan  2 08:40:13 2021	Ducky Lad (STEAM_0:0:512809868) has dropped $1
+Sat Jan  2 08:40:15 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 1
+Sat Jan  2 08:40:15 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 08:40:16 2021	Ducky Lad (STEAM_0:0:512809868) has dropped $1
+Sat Jan  2 08:40:16 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 1
+Sat Jan  2 08:40:17 2021	Mist (STEAM_0:0:152042888) disconnected
+Sat Jan  2 08:40:17 2021	Ducky Lad (STEAM_0:0:512809868): t/dropmoney 1
+Sat Jan  2 08:40:19 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 1
+Sat Jan  2 08:40:20 2021	Ducky Lad (STEAM_0:0:512809868) has dropped $1
+Sat Jan  2 08:40:25 2021	Buhlow Jobs was killed by James with a m9k_usc
+Sat Jan  2 08:40:28 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:40:28 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:40:28 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:40:31 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:40:42 2021	Hitman Issac Wilderson accepted a hit on Buhlow Jobs, ordered by James for $10,000
+Sat Jan  2 08:40:46 2021	Snoop dawg was killed by Feeyne Onbootings with a weapon_fists
+Sat Jan  2 08:40:49 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:40:56 2021	Lord ✘ (STEAM_0:1:188501563) has joined the game
+Sat Jan  2 08:40:56 2021	Rennet Hoy (STEAM_0:1:188501563) spawned
+Sat Jan  2 08:41:03 2021	Hitman Issac Wilderson finished a hit on Buhlow Jobs, ordered by James for $10,000
+Sat Jan  2 08:41:03 2021	Buhlow Jobs was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:41:03 2021	Ducky Lad was killed by tom green with a weapon_fists
+Sat Jan  2 08:41:06 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:41:06 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:41:13 2021	Snoop dawg was killed by Feeyne Onbootings with a weapon_fists
+Sat Jan  2 08:41:16 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:41:20 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 08:41:21 2021	Issac Wilderson was killed by Oat Meal with a weapon_fists
+Sat Jan  2 08:41:24 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:41:26 2021	Hitman Issac Wilderson accepted a hit on Al Shebab, ordered by Ducky Lad for $10,000
+Sat Jan  2 08:41:35 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:41:39 2021	James (STEAM_0:0:578081804): /drop
+Sat Jan  2 08:41:43 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 08:41:43 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:41:54 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 08:41:56 2021	Feeyne Onbootings was killed by tom green with a weapon_fists
+Sat Jan  2 08:41:57 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:42:01 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:42:02 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:42:05 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:42:05 2021	Al Shebab (STEAM_0:0:103364981): !god
+Sat Jan  2 08:42:06 2021	Hit on Al Shebab failed. Reason: The hitman died!
+Sat Jan  2 08:42:06 2021	Issac Wilderson was killed by Snoop dawg with a weapon_fists
+Sat Jan  2 08:42:13 2021	Feeyne Onbootings (STEAM_0:1:128868430): !god
+Sat Jan  2 08:42:17 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:42:22 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 08:42:22 2021	tom green (STEAM_0:1:146685194) disconnected
+Sat Jan  2 08:42:23 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:42:25 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:42:26 2021	Feeyne Onbootings (STEAM_0:1:128868430): !god
+Sat Jan  2 08:42:34 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:42:35 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:42:36 2021	Rennet Hoy (STEAM_0:1:188501563) spawned
+Sat Jan  2 08:42:37 2021	Hitman Issac Wilderson accepted a hit on Al Shebab, ordered by Feeyne Onbootings for $10,000
+Sat Jan  2 08:42:44 2021	ajww1 (STEAM_0:1:146685194) has joined the game
+Sat Jan  2 08:42:44 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:42:50 2021	Rennet Hoy (STEAM_0:1:188501563): !ungod she
+Sat Jan  2 08:42:53 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jan  2 08:43:01 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 08:43:04 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:43:08 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 08:43:09 2021	Hit on Al Shebab failed. Reason: The hitman died!
+Sat Jan  2 08:43:09 2021	Issac Wilderson was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 08:43:11 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 08:43:12 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:43:14 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:43:32 2021	Hitman Issac Wilderson accepted a hit on Snoop dawg, ordered by Rennet Hoy for $10,000
+Sat Jan  2 08:43:51 2021	Rennet Hoy (STEAM_0:1:188501563):  sheb
+Sat Jan  2 08:43:59 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:45:02 2021	tom green was killed by Al Shebab with a m9k_svu
+Sat Jan  2 08:45:06 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:45:13 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Sat Jan  2 08:46:07 2021	Snoop dawg (STEAM_0:0:74726177): LOL
+Sat Jan  2 08:46:23 2021	Vivienne Westwood (STEAM_0:0:143704814) has joined the game
+Sat Jan  2 08:46:23 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 08:46:24 2021	Hit on Snoop dawg failed. Reason: The hitman died!
+Sat Jan  2 08:46:24 2021	Issac Wilderson was killed by Buhlow Jobs with a stunstick
+Sat Jan  2 08:46:27 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:47:17 2021	Buhlow Jobs (STEAM_0:1:90900081): STOP NMFEASO0=-DIG9=REISDP
+Sat Jan  2 08:47:20 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:47:21 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:47:21 2021	Rennet Hoy (STEAM_0:1:188501563): /unbox
+Sat Jan  2 08:47:25 2021	Rennet Hoy (STEAM_0:1:188501563): !unbox
+Sat Jan  2 08:47:35 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:47:39 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:47:47 2021	Buhlow Jobs (STEAM_0:1:90900081): i just removed all his weapons
+Sat Jan  2 08:47:49 2021	Ducky Lad (STEAM_0:0:512809868) spawned Vehicle prop_vehicle_jeep (r34tdm)
+Sat Jan  2 08:47:51 2021	Hitman Issac Wilderson accepted a hit on James, ordered by tom green for $10,000
+Sat Jan  2 08:47:54 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:47:59 2021	Snoop dawg (STEAM_0:0:74726177): i lag
+Sat Jan  2 08:48:09 2021	Buhlow Jobs (STEAM_0:1:90900081): i stole them all
+Sat Jan  2 08:48:11 2021	Buhlow Jobs (STEAM_0:1:90900081): i dont have them tho
+Sat Jan  2 08:48:20 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 08:48:25 2021	Rennet Hoy (STEAM_0:1:188501563): /addmoney Rennet hoy 1
+Sat Jan  2 08:48:30 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned Vehicle prop_vehicle_jeep (r34tdm)
+Sat Jan  2 08:48:32 2021	Hitman Issac Wilderson finished a hit on James, ordered by tom green for $10,000
+Sat Jan  2 08:48:32 2021	James was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:48:33 2021	Rennet Hoy (STEAM_0:1:188501563): !cloak
+Sat Jan  2 08:48:34 2021	Rennet Hoy (STEAM_0:1:188501563): !god
+Sat Jan  2 08:48:35 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:48:52 2021	0 (STEAM_0:1:29916957) has joined the game
+Sat Jan  2 08:48:52 2021	0 (STEAM_0:1:29916957) spawned
+Sat Jan  2 08:48:59 2021	Issac Wilderson was killed by James with a m9k_mossberg590
+Sat Jan  2 08:49:02 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 08:49:26 2021	Rennet Hoy (STEAM_0:1:188501563): so
+Sat Jan  2 08:49:29 2021	Rennet Hoy (STEAM_0:1:188501563): !Uncloak
+Sat Jan  2 08:49:30 2021	James (STEAM_0:0:578081804): /drop
+Sat Jan  2 08:49:31 2021	Rennet Hoy (STEAM_0:1:188501563): what happen
+Sat Jan  2 08:49:35 2021	Rennet Hoy (STEAM_0:1:188501563): why did u kill him?
+Sat Jan  2 08:49:37 2021	Hitman Issac Wilderson accepted a hit on Oat Meal, ordered by Vivienne Westwood for $10,000
+Sat Jan  2 08:49:38 2021	James (STEAM_0:0:578081804): coz he asked
+Sat Jan  2 08:49:43 2021	Rennet Hoy (STEAM_0:1:188501563): Ooo
+Sat Jan  2 08:49:46 2021	Rennet Hoy (STEAM_0:1:188501563): okieee
+Sat Jan  2 08:49:48 2021	Rennet Hoy (STEAM_0:1:188501563): my bad
+Sat Jan  2 08:49:58 2021	0 (STEAM_0:1:29916957): /name Johnny Sins
+Sat Jan  2 08:50:07 2021	Rennet Hoy (STEAM_0:1:188501563): bro my mouse is broken
+Sat Jan  2 08:50:08 2021	Rennet Hoy (STEAM_0:1:188501563): fuck
+Sat Jan  2 08:50:11 2021	Rennet Hoy (STEAM_0:1:188501563): can u just run off sorry
+Sat Jan  2 08:50:24 2021	Rennet Hoy (STEAM_0:1:188501563): i broke my mouse fook
+Sat Jan  2 08:51:03 2021	Al Shebab (STEAM_0:0:103364981): !stopsounds
+Sat Jan  2 08:51:18 2021	Buhlow Jobs (STEAM_0:1:90900081): good
+Sat Jan  2 08:51:55 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 08:52:05 2021	Rennet Hoy (STEAM_0:1:188501563): !Cloak
+Sat Jan  2 08:52:08 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:52:19 2021	Rennet Hoy (STEAM_0:1:188501563): !menu
+Sat Jan  2 08:52:24 2021	Yung Higgle (STEAM_0:1:58133697) has joined the game
+Sat Jan  2 08:52:24 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 08:52:27 2021	Hitman Issac Wilderson finished a hit on Oat Meal, ordered by Vivienne Westwood for $10,000
+Sat Jan  2 08:52:27 2021	Oat Meal was killed by Issac Wilderson with a weapon_fists
+Sat Jan  2 08:52:31 2021	Oat Meal (STEAM_0:1:166517874) spawned
+Sat Jan  2 08:52:31 2021	Rennet Hoy (STEAM_0:1:188501563): !jail
+Sat Jan  2 08:52:39 2021	Hitman Issac Wilderson accepted a hit on Johnny Sins, ordered by James for $10,000
+Sat Jan  2 08:52:56 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:52:58 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 08:53:00 2021	Ducky Lad (STEAM_0:0:512809868): 
+Sat Jan  2 08:53:00 2021	Rennet Hoy (STEAM_0:1:188501563): !goto ducky
+Sat Jan  2 08:53:06 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:53:09 2021	Hitman Issac Wilderson finished a hit on Johnny Sins, ordered by James for $10,000
+Sat Jan  2 08:53:09 2021	Johnny Sins was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:53:15 2021	Saalty (STEAM_0:1:246013655) has joined the game
+Sat Jan  2 08:53:15 2021	Saalty (STEAM_0:1:246013655) spawned
+Sat Jan  2 08:53:17 2021	Snoop dawg was killed by Entity [802][entityflame] with a entityflame
+Sat Jan  2 08:53:27 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:53:29 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:53:35 2021	Rennet Hoy (STEAM_0:1:188501563): !bring ducky
+Sat Jan  2 08:53:39 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:53:41 2021	Buhlow Jobs (STEAM_0:1:90900081): idfk
+Sat Jan  2 08:53:42 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 08:53:43 2021	Al Shebab (STEAM_0:0:103364981): 
+Sat Jan  2 08:53:45 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:53:48 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:53:48 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 08:54:01 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:54:06 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:54:09 2021	Johnny Sins (STEAM_0:1:29916957): all g
+Sat Jan  2 08:54:12 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:54:20 2021	Hitman Issac Wilderson accepted a hit on Ducky Lad, ordered by tom green for $10,000
+Sat Jan  2 08:54:40 2021	Rennet Hoy (STEAM_0:1:188501563): !uncloak
+Sat Jan  2 08:54:42 2021	Snoop dawg (STEAM_0:0:74726177): this retarded kid
+Sat Jan  2 08:54:46 2021	Hitman Issac Wilderson finished a hit on Ducky Lad, ordered by tom green for $10,000
+Sat Jan  2 08:54:46 2021	Ducky Lad was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:54:48 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 08:54:49 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 08:54:51 2021	Snoop dawg (STEAM_0:0:74726177): lol
+Sat Jan  2 08:54:58 2021	Rennet Hoy (STEAM_0:1:188501563): h
+Sat Jan  2 08:55:00 2021	Snoop dawg (STEAM_0:0:74726177): EHY OPEN THE DOOR
+Sat Jan  2 08:55:00 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 08:55:04 2021	Snoop dawg (STEAM_0:0:74726177): LYNx
+Sat Jan  2 08:55:08 2021	Snoop dawg (STEAM_0:0:74726177): OPEN
+Sat Jan  2 08:55:08 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 08:55:10 2021	Rennet Hoy (STEAM_0:1:188501563): it bugged outside
+Sat Jan  2 08:55:20 2021	Snoop dawg (STEAM_0:0:74726177): what button?
+Sat Jan  2 08:55:22 2021	Hitman Issac Wilderson accepted a hit on tom green, ordered by Ducky Lad for $10,000
+Sat Jan  2 08:55:31 2021	Rennet Hoy (STEAM_0:1:188501563): yee some idiot
+Sat Jan  2 08:55:44 2021	Johnny Sins (STEAM_0:1:29916957): need money
+Sat Jan  2 08:55:48 2021	Johnny Sins (STEAM_0:1:29916957): first
+Sat Jan  2 08:55:51 2021	Johnny Sins (STEAM_0:1:29916957): mmyes
+Sat Jan  2 08:55:54 2021	Johnny Sins (STEAM_0:1:29916957): danke
+Sat Jan  2 08:55:59 2021	Rennet Hoy (STEAM_0:1:188501563): how can i help
+Sat Jan  2 08:55:59 2021	Snoop dawg (STEAM_0:0:74726177): OPEN DORR
+Sat Jan  2 08:56:02 2021	Hitman Issac Wilderson finished a hit on tom green, ordered by Ducky Lad for $10,000
+Sat Jan  2 08:56:02 2021	tom green was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:56:02 2021	Rennet Hoy (STEAM_0:1:188501563): Bitcoin?
+Sat Jan  2 08:56:03 2021	Rennet Hoy (STEAM_0:1:188501563): Lemme asj
+Sat Jan  2 08:56:05 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 08:56:08 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:56:43 2021	Rennet Hoy (STEAM_0:1:188501563): ahh no one seems to be replying
+Sat Jan  2 08:56:46 2021	Rennet Hoy (STEAM_0:1:188501563): try make a ticket in discord
+Sat Jan  2 08:56:50 2021	Al Shebab (STEAM_0:0:103364981) spawned Vehicle prop_vehicle_jeep (fer_lafertdm)
+Sat Jan  2 08:57:00 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 08:57:08 2021	Hitman Issac Wilderson accepted a hit on James, ordered by Buhlow Jobs for $10,000
+Sat Jan  2 08:57:09 2021	Hitman Issac Wilderson finished a hit on James, ordered by Buhlow Jobs for $10,000
+Sat Jan  2 08:57:09 2021	James was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:57:10 2021	Rennet Hoy (STEAM_0:1:188501563): !uncloak
+Sat Jan  2 08:57:12 2021	Al Shebab (STEAM_0:0:103364981): /pm viv 60ish %
+Sat Jan  2 08:57:14 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 08:57:20 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 08:57:41 2021	Johnny Sins (STEAM_0:1:29916957): kill meeeeeeeee
+Sat Jan  2 08:57:45 2021	Johnny Sins was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:57:46 2021	Snoop dawg (STEAM_0:0:74726177): nicem an
+Sat Jan  2 08:57:48 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 08:58:03 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 08:58:14 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 08:58:24 2021	Snoop dawg (STEAM_0:0:74726177): MAN
+Sat Jan  2 08:58:26 2021	Snoop dawg (STEAM_0:0:74726177): OMFGGG
+Sat Jan  2 08:58:32 2021	Rennet Hoy (STEAM_0:1:188501563): !wheelofluck
+Sat Jan  2 08:58:42 2021	Rennet Hoy (STEAM_0:1:188501563): !casino
+Sat Jan  2 08:58:52 2021	Hitman Issac Wilderson accepted a hit on Buhlow Jobs, ordered by Oat Meal for $10,000
+Sat Jan  2 08:58:55 2021	Rennet Hoy (STEAM_0:1:188501563): !commands
+Sat Jan  2 08:59:08 2021	Hitman Issac Wilderson finished a hit on Buhlow Jobs, ordered by Oat Meal for $10,000
+Sat Jan  2 08:59:08 2021	Buhlow Jobs was killed by Issac Wilderson with a m9k_m24
+Sat Jan  2 08:59:28 2021	Snoop dawg was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 08:59:31 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 08:59:38 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 08:59:50 2021	Snoop dawg (STEAM_0:0:74726177): MY PRINTER
+Sat Jan  2 08:59:54 2021	tom green was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 08:59:56 2021	Vivienne Westwood (STEAM_0:0:143704814): !unstuck
+Sat Jan  2 08:59:57 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:00:01 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 0.5
+Sat Jan  2 09:00:02 2021	Johnny Sins (STEAM_0:1:29916957): hi
+Sat Jan  2 09:00:06 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 10
+Sat Jan  2 09:00:07 2021	Ducky Lad (STEAM_0:0:512809868) has dropped $10
+Sat Jan  2 09:00:09 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Dances for our victory against the infidel
+Sat Jan  2 09:00:09 2021	Vivienne Westwood was killed by Himself with a suicide trick
+Sat Jan  2 09:00:09 2021	Johnny Sins (STEAM_0:1:29916957): but thats illeeegallll
+Sat Jan  2 09:00:12 2021	Ducky Lad (STEAM_0:0:512809868): /dropmoney 10000000000
+Sat Jan  2 09:00:13 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:00:18 2021	Snoop dawg (STEAM_0:0:74726177): omfg i hate this rp server
+Sat Jan  2 09:00:26 2021	Rennet Hoy (STEAM_0:1:188501563): !kixk
+Sat Jan  2 09:00:28 2021	Snoop dawg (STEAM_0:0:74726177): lets go to other server man
+Sat Jan  2 09:00:33 2021	Rennet Hoy (STEAM_0:1:188501563): !add
+Sat Jan  2 09:00:34 2021	Johnny Sins (STEAM_0:1:29916957): make it 11k and yes
+Sat Jan  2 09:00:36 2021	Rennet Hoy (STEAM_0:1:188501563): !money
+Sat Jan  2 09:00:38 2021	Rennet Hoy (STEAM_0:1:188501563): !addmoney
+Sat Jan  2 09:00:40 2021	Rennet Hoy (STEAM_0:1:188501563): /add
+Sat Jan  2 09:00:41 2021	Snoop dawg (STEAM_0:0:74726177): oops
+Sat Jan  2 09:00:44 2021	Rennet Hoy (STEAM_0:1:188501563): /addmoney
+Sat Jan  2 09:00:49 2021	Hitman Issac Wilderson accepted a hit on Saalty, ordered by Johnny Sins for $10,000
+Sat Jan  2 09:00:52 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 09:01:02 2021	Ducky Lad was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:01:10 2021	Ducky Lad (STEAM_0:0:512809868) spawned
+Sat Jan  2 09:01:11 2021	Johnny Sins (STEAM_0:1:29916957): YES
+Sat Jan  2 09:01:16 2021	Ducky Lad (STEAM_0:0:512809868) disconnected
+Sat Jan  2 09:01:16 2021	Feeyne Onbootings (STEAM_0:1:128868430): !buyprinter
+Sat Jan  2 09:01:20 2021	tom green was killed by Entity [981][tierp_printer] with a tierp_printer
+Sat Jan  2 09:01:23 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:01:24 2021	James (STEAM_0:0:578081804): PCP, LSD, METH wat u want
+Sat Jan  2 09:01:25 2021	Johnny Sins (STEAM_0:1:29916957): PCP thanks
+Sat Jan  2 09:01:31 2021	Johnny Sins (STEAM_0:1:29916957): how much
+Sat Jan  2 09:01:31 2021	James (STEAM_0:0:578081804): 5 dollars
+Sat Jan  2 09:01:33 2021	Johnny Sins (STEAM_0:1:29916957): /give 5
+Sat Jan  2 09:01:35 2021	Johnny Sins (STEAM_0:1:29916957) has given $5 to James (STEAM_0:0:578081804)
+Sat Jan  2 09:01:35 2021	Hit on Saalty failed. Reason: The target has left the server!
+Sat Jan  2 09:01:35 2021	Saalty (STEAM_0:1:246013655) disconnected
+Sat Jan  2 09:01:44 2021	Issac Wilderson (STEAM_0:1:33775918): REEEED! MENOS TRES
+Sat Jan  2 09:01:55 2021	Johnny Sins (STEAM_0:1:29916957): danke shon
+Sat Jan  2 09:02:01 2021	Issac Wilderson (STEAM_0:1:33775918) disconnected
+Sat Jan  2 09:02:02 2021	Johnny Sins (STEAM_0:1:29916957): REEEED! MENOS TRES
+Sat Jan  2 09:02:07 2021	Johnny Sins was killed by Himself with a suicide trick
+Sat Jan  2 09:02:17 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:02:51 2021	Johnny Sins (STEAM_0:1:29916957): /job Cum Artist
+Sat Jan  2 09:02:55 2021	James was killed by Entity [686][tierp_printer] with a tierp_printer
+Sat Jan  2 09:02:59 2021	James (STEAM_0:0:578081804) spawned
+Sat Jan  2 09:03:13 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 09:03:39 2021	tom green was killed by Himself with a suicide trick
+Sat Jan  2 09:03:43 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:03:53 2021	tom green was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:03:56 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:03:59 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:04:27 2021	Vivienne Westwood (STEAM_0:0:143704814): v
+Sat Jan  2 09:04:28 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:04:58 2021	James (STEAM_0:0:578081804) disconnected
+Sat Jan  2 09:05:11 2021	tom green was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:05:15 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:05:34 2021	Johnny Sins (STEAM_0:1:29916957): launch me daddy
+Sat Jan  2 09:05:58 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 09:06:01 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 09:06:19 2021	Rennet Hoy (STEAM_0:1:188501563) spawned
+Sat Jan  2 09:06:29 2021	Rennet Hoy (STEAM_0:1:188501563): g
+Sat Jan  2 09:06:58 2021	tom green was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:07:03 2021	Rennet Hoy (STEAM_0:1:188501563) spawned Vehicle prop_vehicle_jeep (hsvw427poltdm)
+Sat Jan  2 09:07:13 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:07:22 2021	Snoop dawg (STEAM_0:0:74726177): Omfg who every got my printer bring it back to me
+Sat Jan  2 09:07:22 2021	Johnny Sins was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:07:25 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:07:32 2021	Domino (STEAM_0:0:75211885) has joined the game
+Sat Jan  2 09:07:32 2021	Domino (STEAM_0:0:75211885) spawned
+Sat Jan  2 09:07:32 2021	Snoop dawg (STEAM_0:0:74726177): ever*
+Sat Jan  2 09:07:43 2021	Johnny Sins (STEAM_0:1:29916957): print me a dollar
+Sat Jan  2 09:07:52 2021	Johnny Sins (STEAM_0:1:29916957): wooo
+Sat Jan  2 09:07:58 2021	Johnny Sins (STEAM_0:1:29916957): danke
+Sat Jan  2 09:08:04 2021	Johnny Sins (STEAM_0:1:29916957): maybe it wont despawn
+Sat Jan  2 09:08:06 2021	Johnny Sins (STEAM_0:1:29916957): in pocket
+Sat Jan  2 09:08:06 2021	Rennet Hoy (STEAM_0:1:188501563): ima warn u for minging
+Sat Jan  2 09:08:13 2021	Rennet Hoy (STEAM_0:1:188501563): !warn
+Sat Jan  2 09:08:44 2021	Vivienne Westwood (STEAM_0:0:143704814): !warns
+Sat Jan  2 09:09:03 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 09:09:05 2021	Rennet Hoy (STEAM_0:1:188501563): 
+Sat Jan  2 09:09:08 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:09:09 2021	Rennet Hoy (STEAM_0:1:188501563): !xban
+Sat Jan  2 09:09:22 2021	Johnny Sins (STEAM_0:1:29916957): 
+Sat Jan  2 09:09:30 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:09:35 2021	Boh (STEAM_0:0:86403133) has joined the game
+Sat Jan  2 09:09:35 2021	Boh Bee (STEAM_0:0:86403133) spawned
+Sat Jan  2 09:09:40 2021	tom green was killed by Feeyne Onbootings with a m9k_remington7615p
+Sat Jan  2 09:09:44 2021	Domino (STEAM_0:0:75211885): /name Domino McLegs
+Sat Jan  2 09:09:50 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:09:52 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 09:09:53 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:09:53 2021	Rennet Hoy (STEAM_0:1:188501563): /dropsuit
+Sat Jan  2 09:09:55 2021	tom green (STEAM_0:1:146685194) disconnected
+Sat Jan  2 09:10:05 2021	Johnny Sins (STEAM_0:1:29916957): yee
+Sat Jan  2 09:10:08 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:10:16 2021	Johnny Sins (STEAM_0:1:29916957): sure
+Sat Jan  2 09:10:25 2021	Johnny Sins (STEAM_0:1:29916957): first time playing gmod in 3 years :)
+Sat Jan  2 09:10:35 2021	Johnny Sins (STEAM_0:1:29916957): something like that
+Sat Jan  2 09:10:42 2021	Johnny Sins (STEAM_0:1:29916957): happiness?
+Sat Jan  2 09:10:45 2021	Johnny Sins (STEAM_0:1:29916957): I got you fam
+Sat Jan  2 09:10:47 2021	Johnny Sins (STEAM_0:1:29916957): observe
+Sat Jan  2 09:11:09 2021	Johnny Sins (STEAM_0:1:29916957): inhale this
+Sat Jan  2 09:11:13 2021	Johnny Sins (STEAM_0:1:29916957): you will gain 6 inches
+Sat Jan  2 09:11:25 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:11:59 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:12:27 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:12:30 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:13:15 2021	Domino McLegs (STEAM_0:0:75211885) disconnected
+Sat Jan  2 09:13:23 2021	ATorchy (STEAM_0:0:83103744) has joined the game
+Sat Jan  2 09:13:23 2021	ATorchy (STEAM_0:0:83103744) spawned
+Sat Jan  2 09:13:23 2021	Rennet Hoy (STEAM_0:1:188501563) disconnected
+Sat Jan  2 09:13:25 2021	Johnny Sins (STEAM_0:1:29916957): what is a lean
+Sat Jan  2 09:13:39 2021	Vivienne Westwood (STEAM_0:0:143704814): we off that lean lean lean in yo dream dream dream dreaaams
+Sat Jan  2 09:13:43 2021	Johnny Sins (STEAM_0:1:29916957): yes
+Sat Jan  2 09:13:59 2021	Vivienne Westwood (STEAM_0:0:143704814): we dont want alcohol drinks only soda and codeine yeahhhhh
+Sat Jan  2 09:13:59 2021	Boh Bee (STEAM_0:0:86403133) disconnected
+Sat Jan  2 09:14:40 2021	Johnny Sins was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:14:44 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:15:03 2021	Oat Meal (STEAM_0:1:166517874): bitcoin sell
+Sat Jan  2 09:15:10 2021	Feeyne Onbootings (STEAM_0:1:128868430): !StopSounds
+Sat Jan  2 09:15:14 2021	lachy (STEAM_0:0:495640002) has joined the game
+Sat Jan  2 09:15:14 2021	lachy (STEAM_0:0:495640002) spawned
+Sat Jan  2 09:16:01 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:16:04 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:16:15 2021	Vivienne Westwood was killed by Himself with a suicide trick
+Sat Jan  2 09:16:18 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:16:29 2021	ATorchy was killed by Himself with a suicide trick
+Sat Jan  2 09:16:30 2021	Oat Meal (STEAM_0:1:166517874) disconnected
+Sat Jan  2 09:16:34 2021	ATorchy (STEAM_0:0:83103744) spawned
+Sat Jan  2 09:16:50 2021	lachy (STEAM_0:0:495640002) disconnected
+Sat Jan  2 09:17:06 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:17:27 2021	ATorchy (STEAM_0:0:83103744) spawned
+Sat Jan  2 09:17:47 2021	Vivienne Westwood was killed by Buhlow Jobs with a m9k_mp9
+Sat Jan  2 09:17:50 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 09:17:50 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:17:51 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Salutes
+Sat Jan  2 09:17:52 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 09:18:27 2021	Buhlow Jobs was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:18:30 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:19:26 2021	Buhlow Jobs was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:19:29 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:19:37 2021	Vivienne Westwood (STEAM_0:0:143704814): i hit my desk so hard my mic unplugged
+Sat Jan  2 09:19:51 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:20:52 2021	ATorchy (STEAM_0:0:83103744): /dropmoney 10000
+Sat Jan  2 09:20:52 2021	Buhlow Jobs was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:20:53 2021	ATorchy (STEAM_0:0:83103744) has dropped $10,000
+Sat Jan  2 09:20:55 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:21:39 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:21:44 2021	Snoop dawg was killed by Entity [797][gexpert_printer] with a gexpert_printer
+Sat Jan  2 09:21:54 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:21:57 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:22:00 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 09:22:14 2021	Vivienne Westwood was killed by Buhlow Jobs with a m9k_usp
+Sat Jan  2 09:22:18 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:22:36 2021	Snoop dawg (STEAM_0:0:74726177): yes
+Sat Jan  2 09:22:44 2021	Snoop dawg (STEAM_0:0:74726177): how much
+Sat Jan  2 09:22:50 2021	Snoop dawg (STEAM_0:0:74726177): 10 cats?
+Sat Jan  2 09:22:52 2021	Binger Smurfonemo (STEAM_0:1:58133697): 10k
+Sat Jan  2 09:22:54 2021	Snoop dawg (STEAM_0:0:74726177): oh
+Sat Jan  2 09:22:59 2021	Snoop dawg (STEAM_0:0:74726177): no thanks man
+Sat Jan  2 09:23:04 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:23:08 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:23:25 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:23:26 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:23:28 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:23:59 2021	Johnny Sins (STEAM_0:1:29916957): yo
+Sat Jan  2 09:23:59 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:24:04 2021	Johnny Sins (STEAM_0:1:29916957): draw me a dick
+Sat Jan  2 09:24:15 2021	Johnny Sins (STEAM_0:1:29916957): YES
+Sat Jan  2 09:24:17 2021	Johnny Sins (STEAM_0:1:29916957): YES
+Sat Jan  2 09:24:21 2021	Johnny Sins (STEAM_0:1:29916957): YEEEEEEEEEEEES
+Sat Jan  2 09:24:26 2021	Johnny Sins (STEAM_0:1:29916957): /give 500
+Sat Jan  2 09:24:27 2021	Johnny Sins (STEAM_0:1:29916957) has given $500 to ATorchy (STEAM_0:0:83103744)
+Sat Jan  2 09:24:31 2021	Johnny Sins (STEAM_0:1:29916957): payment well deserved
+Sat Jan  2 09:25:23 2021	Vivienne Westwood (STEAM_0:0:143704814): !remotebitminers
+Sat Jan  2 09:25:25 2021	Buhlow Jobs was killed by Entity [862][bm2_extra_fuel_tank] with a bm2_extra_fuel_tank
+Sat Jan  2 09:25:28 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:25:40 2021	ATorchy (STEAM_0:0:83103744) disconnected
+Sat Jan  2 09:26:00 2021	Buhlow Jobs was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:26:03 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:26:14 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:26:17 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:26:28 2021	Binger Smurfonemo (STEAM_0:1:58133697): 
+Sat Jan  2 09:26:31 2021	Johnny Sins was killed by Himself with a suicide trick
+Sat Jan  2 09:26:36 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:26:49 2021	Vivienne Westwood was killed by Buhlow Jobs with a m9k_usp
+Sat Jan  2 09:26:52 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:27:06 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 09:27:09 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:27:10 2021	Johnny Sins was killed by Entity [527][tierp_printer] with a tierp_printer
+Sat Jan  2 09:27:14 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:27:20 2021	Buhlow Jobs was killed by Vivienne Westwood with a tierp_printer
+Sat Jan  2 09:27:21 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:27:23 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:27:23 2021	Binger Smurfonemo was killed by Entity [527][tierp_printer] with a tierp_printer
+Sat Jan  2 09:27:26 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:27:34 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:27:34 2021	Buhlow Jobs (STEAM_0:1:90900081) arrested Vivienne Westwood
+Sat Jan  2 09:27:35 2021	Johnny Sins (STEAM_0:1:29916957) disconnected
+Sat Jan  2 09:27:43 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:27:59 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:28:06 2021	0 (STEAM_0:1:29916957) has joined the game
+Sat Jan  2 09:28:06 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:28:22 2021	Binger Smurfonemo was killed by Buhlow Jobs with a m9k_usp
+Sat Jan  2 09:28:25 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:28:31 2021	Johnny Sins (STEAM_0:1:29916957): 
+Sat Jan  2 09:28:34 2021	Binger Smurfonemo was killed by Buhlow Jobs with a m9k_usp
+Sat Jan  2 09:28:41 2021	Binger Smurfonemo (STEAM_0:1:58133697): 
+Sat Jan  2 09:28:41 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:28:48 2021	Binger Smurfonemo (STEAM_0:1:58133697): 
+Sat Jan  2 09:28:49 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:29:01 2021	Buhlow Jobs was killed by Binger Smurfonemo with a m9k_m92beretta
+Sat Jan  2 09:29:04 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:29:24 2021	Binger Smurfonemo (STEAM_0:1:58133697): /drop
+Sat Jan  2 09:29:26 2021	Buhlow Jobs was killed by Binger Smurfonemo with a m9k_m92beretta
+Sat Jan  2 09:29:29 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 09:30:00 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:30:09 2021	Johnny Sins (STEAM_0:1:29916957): /rules
+Sat Jan  2 09:30:27 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Goes to see Allah
+Sat Jan  2 09:30:27 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:30:28 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Goes to see Allah
+Sat Jan  2 09:30:29 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:30:30 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Goes to see Allah
+Sat Jan  2 09:30:31 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:30:31 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Goes to see Allah
+Sat Jan  2 09:30:32 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:30:33 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Goes to see Allah
+Sat Jan  2 09:30:34 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:30:35 2021	Vivienne Westwood (STEAM_0:0:143704814): /me Goes to see Allah
+Sat Jan  2 09:30:35 2021	Vivienne Westwood was killed by Himself with a suicide trick
+Sat Jan  2 09:30:39 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:30:46 2021	Buhlow Jobs (STEAM_0:1:90900081) disconnected
+Sat Jan  2 09:30:59 2021	Johnny Sins (STEAM_0:1:29916957): /job thief
+Sat Jan  2 09:31:07 2021	Binger Smurfonemo was killed by Vivienne Westwood with a m9k_m24
+Sat Jan  2 09:31:10 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:31:28 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:31:53 2021	Vivienne Westwood was killed by Feeyne Onbootings with a m9k_remington7615p
+Sat Jan  2 09:31:56 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:32:29 2021	Feeyne Onbootings was killed by Vivienne Westwood with a m9k_m24
+Sat Jan  2 09:32:32 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 09:32:40 2021	Binger Smurfonemo was killed by Vivienne Westwood with a m9k_m24
+Sat Jan  2 09:32:44 2021	Binger Smurfonemo (STEAM_0:1:58133697) spawned
+Sat Jan  2 09:32:44 2021	Feeyne Onbootings was killed by Vivienne Westwood with a m9k_m24
+Sat Jan  2 09:32:50 2021	Vivienne Westwood (STEAM_0:0:143704814) disconnected
+Sat Jan  2 09:32:51 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 09:33:01 2021	Johnny Sins was killed by Himself with a suicide trick
+Sat Jan  2 09:33:04 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:33:24 2021	Vivienne Westwood (STEAM_0:0:143704814) has joined the game
+Sat Jan  2 09:33:24 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:33:52 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:34:17 2021	Vivienne Westwood was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:34:23 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:35:46 2021	Feeyne Onbootings was killed by Vivienne Westwood with a weapon_fists
+Sat Jan  2 09:35:49 2021	Feeyne Onbootings (STEAM_0:1:128868430) spawned
+Sat Jan  2 09:36:00 2021	Vivienne Westwood (STEAM_0:0:143704814): 
+Sat Jan  2 09:36:22 2021	Johnny Sins (STEAM_0:1:29916957): go on
+Sat Jan  2 09:36:26 2021	Vivienne Westwood was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 09:36:29 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:37:42 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:37:45 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:37:52 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:37:55 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:38:11 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:38:14 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:38:29 2021	Johnny Sins (STEAM_0:1:29916957): what
+Sat Jan  2 09:38:35 2021	Johnny Sins (STEAM_0:1:29916957): hell yea
+Sat Jan  2 09:38:41 2021	Johnny Sins (STEAM_0:1:29916957): Ill take both
+Sat Jan  2 09:38:45 2021	Johnny Sins (STEAM_0:1:29916957): /give 50
+Sat Jan  2 09:38:46 2021	Johnny Sins (STEAM_0:1:29916957) has given $50 to Binger Smurfonemo (STEAM_0:1:58133697)
+Sat Jan  2 09:38:48 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:38:52 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:38:54 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:38:58 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:39:16 2021	Johnny Sins was killed by Vivienne Westwood with a m9k_1897winchester
+Sat Jan  2 09:39:20 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:39:24 2021	Vivienne Westwood was killed by Johnny Sins with a weapon_fists
+Sat Jan  2 09:39:30 2021	Vivienne Westwood (STEAM_0:0:143704814) spawned
+Sat Jan  2 09:39:33 2021	Johnny Sins (STEAM_0:1:29916957): a what
+Sat Jan  2 09:39:38 2021	Johnny Sins (STEAM_0:1:29916957): sure 
+Sat Jan  2 09:39:39 2021	Snoop dawg was killed by Entity [490][entityflame] with a entityflame
+Sat Jan  2 09:39:46 2021	Johnny Sins (STEAM_0:1:29916957): /give 30000
+Sat Jan  2 09:39:48 2021	Johnny Sins (STEAM_0:1:29916957) has given $30,000 to Binger Smurfonemo (STEAM_0:1:58133697)
+Sat Jan  2 09:39:55 2021	Johnny Sins (STEAM_0:1:29916957): sweet
+Sat Jan  2 09:39:55 2021	Snoop dawg (STEAM_0:0:74726177) spawned
+Sat Jan  2 09:40:50 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 09:41:21 2021	Snoop dawg (STEAM_0:0:74726177) disconnected
+Sat Jan  2 09:43:10 2021	Johnny Sins (STEAM_0:1:29916957) disconnected
+Sat Jan  2 09:43:38 2021	Vivienne Westwood (STEAM_0:0:143704814) disconnected
+Sat Jan  2 09:44:07 2021	Binger Smurfonemo (STEAM_0:1:58133697) disconnected
+Sat Jan  2 09:56:48 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 09:58:26 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 10:25:09 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsoundsa
+Sat Jan  2 10:25:20 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 10:49:56 2021	Feeyne Onbootings (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 10:51:14 2021	Feeyne Onbootings (STEAM_0:1:128868430): /kick Vivienne Westwood -1
+Sat Jan  2 10:53:19 2021	Feeyne Onbootings (STEAM_0:1:128868430): /ulx ban Issac Wilderson "Major Racism"
+Sat Jan  2 10:53:27 2021	Feeyne Onbootings (STEAM_0:1:128868430): ! ulx ban Issac Wilderson "Major Racism"
+Sat Jan  2 11:22:27 2021	Feeyne Onbootings (STEAM_0:1:128868430): !Nick Feeyne
+Sat Jan  2 11:22:36 2021	Feeyne Onbootings (STEAM_0:1:128868430): /nick Feeyne
+Sat Jan  2 11:35:47 2021	Feeyne (STEAM_0:1:128868430): !stopsounds
+Sat Jan  2 11:36:29 2021	Feeyne was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 11:36:50 2021	Feeyne (STEAM_0:1:128868430) spawned
+Sat Jan  2 12:33:51 2021	Feeyne (STEAM_0:1:128868430) spawned
+Sat Jan  2 12:34:57 2021	Feeyne (STEAM_0:1:128868430) spawned
+Sat Jan  2 12:40:20 2021	Feeyne (STEAM_0:1:128868430): !drop
+Sat Jan  2 12:40:26 2021	Feeyne (STEAM_0:1:128868430): /drop
+Sat Jan  2 12:40:34 2021	Feeyne was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 12:41:28 2021	Feeyne (STEAM_0:1:128868430) spawned
+Sat Jan  2 13:24:09 2021	leea07 (STEAM_0:1:573279009) has joined the game
+Sat Jan  2 13:24:09 2021	leea07 (STEAM_0:1:573279009) spawned
+Sat Jan  2 13:26:13 2021	leea07 (STEAM_0:1:573279009): very cool
+Sat Jan  2 13:26:44 2021	leea07 (STEAM_0:1:573279009): /name happy boi
+Sat Jan  2 13:27:20 2021	happy boi (STEAM_0:1:573279009): 
+Sat Jan  2 13:27:25 2021	happy boi (STEAM_0:1:573279009): 
+Sat Jan  2 13:27:27 2021	happy boi (STEAM_0:1:573279009): !rules
+Sat Jan  2 13:27:35 2021	happy boi (STEAM_0:1:573279009): !apply
+Sat Jan  2 13:27:55 2021	K9 Firebreak (STEAM_0:0:484745754) has joined the game
+Sat Jan  2 13:27:55 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 13:28:20 2021	happy boi (STEAM_0:1:573279009) disconnected
+Sat Jan  2 13:28:45 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 13:28:59 2021	Bob Ross was killed by Himself with a suicide trick
+Sat Jan  2 13:33:51 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 13:34:27 2021	Bob Ross was killed by Himself with a suicide trick
+Sat Jan  2 14:08:51 2021	0 (STEAM_0:1:29916957) has joined the game
+Sat Jan  2 14:08:51 2021	Johnny Sins (STEAM_0:1:29916957) spawned
+Sat Jan  2 14:11:43 2021	Johnny Sins (STEAM_0:1:29916957) disconnected
+Sat Jan  2 14:22:30 2021	braith89 (STEAM_0:0:563366542) has joined the game
+Sat Jan  2 14:22:30 2021	braith89 (STEAM_0:0:563366542) spawned
+Sat Jan  2 14:23:38 2021	braith89 (STEAM_0:0:563366542) disconnected
+Sat Jan  2 15:54:28 2021	Naplam vietnam (STEAM_0:1:157118546) has joined the game
+Sat Jan  2 15:54:28 2021	Naplam vietnam (STEAM_0:1:157118546) spawned
+Sat Jan  2 15:56:28 2021	Naplam vietnam (STEAM_0:1:157118546): !workshop
+Sat Jan  2 15:57:19 2021	OfficialMalware (STEAM_0:1:529816283) has joined the game
+Sat Jan  2 15:57:19 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 15:58:37 2021	Naplam vietnam (STEAM_0:1:157118546): gday
+Sat Jan  2 15:59:01 2021	Naplam vietnam (STEAM_0:1:157118546) disconnected
+Sat Jan  2 15:59:36 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 16:02:29 2021	Apple Cider (STEAM_0:1:529816283): How big of a base can you have?
+Sat Jan  2 16:04:25 2021	Shroob (STEAM_0:0:118882021) has joined the game
+Sat Jan  2 16:04:25 2021	Barack Obama (STEAM_0:0:118882021) spawned
+Sat Jan  2 16:05:05 2021	Barack Obama (STEAM_0:0:118882021) disconnected
+Sat Jan  2 16:06:26 2021	Shroob (STEAM_0:0:118882021) has joined the game
+Sat Jan  2 16:06:26 2021	Barack Obama (STEAM_0:0:118882021) spawned
+Sat Jan  2 16:06:55 2021	Barack Obama (STEAM_0:0:118882021): !worshop
+Sat Jan  2 16:07:01 2021	Barack Obama (STEAM_0:0:118882021): !workshop
+Sat Jan  2 16:08:35 2021	Apple Cider (STEAM_0:1:529816283): Proper about to get lost in the sewers
+Sat Jan  2 16:09:46 2021	Barack Obama (STEAM_0:0:118882021) disconnected
+Sat Jan  2 16:11:38 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 16:11:49 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 16:16:00 2021	Bob Ross (STEAM_0:0:484745754): you stink
+Sat Jan  2 16:28:14 2021	Reece (STEAM_0:1:45091925) has joined the game
+Sat Jan  2 16:28:14 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 16:28:51 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 16:30:33 2021	Bob Ross (STEAM_0:0:484745754): no
+Sat Jan  2 16:35:08 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 16:35:59 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 16:43:46 2021	Naplam vietnam (STEAM_0:1:157118546) has joined the game
+Sat Jan  2 16:43:46 2021	Naplam vietnam (STEAM_0:1:157118546) spawned
+Sat Jan  2 16:45:00 2021	Koba Dober was killed by Bob Ross with a zwf_lamp
+Sat Jan  2 16:45:01 2021	Naplam vietnam (STEAM_0:1:157118546) spawned
+Sat Jan  2 16:45:03 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 16:50:07 2021	Apple Cider (STEAM_0:1:529816283): !rules
+Sat Jan  2 16:55:28 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 16:55:42 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 17:01:38 2021	Naplam vietnam was killed by Entity [914][zwf_drystation] with a zwf_drystation
+Sat Jan  2 17:01:44 2021	Naplam vietnam (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:01:56 2021	Naplam vietnam (STEAM_0:1:157118546): fuck
+Sat Jan  2 17:05:42 2021	Naplam vietnam (STEAM_0:1:157118546): !unstuck
+Sat Jan  2 17:07:02 2021	Naplam vietnam (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:15:06 2021	Apple Cider (STEAM_0:1:529816283): !rule
+Sat Jan  2 17:15:11 2021	Apple Cider (STEAM_0:1:529816283): !rules
+Sat Jan  2 17:20:24 2021	Apple Cider (STEAM_0:1:529816283): !discord
+Sat Jan  2 17:21:10 2021	popbob1 (STEAM_0:1:90900081) has joined the game
+Sat Jan  2 17:21:10 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:21:29 2021	Ultra V (STEAM_0:1:56083089) has joined the game
+Sat Jan  2 17:21:29 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 17:21:29 2021	Rick Sanchez (STEAM_0:1:56083089) spawned
+Sat Jan  2 17:21:38 2021	Ollie (STEAM_0:1:79236032) has joined the game
+Sat Jan  2 17:21:38 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 17:21:39 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:22:09 2021	Apple Cider (STEAM_0:1:529816283): !warns
+Sat Jan  2 17:22:25 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 17:22:30 2021	steele_kid (STEAM_0:1:103168662) has joined the game
+Sat Jan  2 17:22:30 2021	Mac Aroni (STEAM_0:1:103168662) spawned
+Sat Jan  2 17:22:31 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:22:52 2021	Rick Sanchez (STEAM_0:1:56083089) spawned
+Sat Jan  2 17:23:25 2021	Buhlow Jobs (STEAM_0:1:90900081) disconnected
+Sat Jan  2 17:23:54 2021	popbob1 (STEAM_0:1:90900081) has joined the game
+Sat Jan  2 17:23:54 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:24:41 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 17:24:41 2021	Mac Aroni (STEAM_0:1:103168662) spawned
+Sat Jan  2 17:24:43 2021	Rick Sanchez (STEAM_0:1:56083089): 
+Sat Jan  2 17:24:44 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:24:58 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:25:22 2021	Blob Job (STEAM_0:1:79236032): /lqaew=df
+Sat Jan  2 17:25:30 2021	Blob Job (STEAM_0:1:79236032): /l
+Sat Jan  2 17:25:35 2021	Blob Job (STEAM_0:1:79236032): !laws
+Sat Jan  2 17:26:38 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 17:26:46 2021	Mac Aroni (STEAM_0:1:103168662) disconnected
+Sat Jan  2 17:26:57 2021	Blob Job (STEAM_0:1:79236032): 
+Sat Jan  2 17:27:11 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 17:27:14 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:27:35 2021	Blob Job (STEAM_0:1:79236032): /3p
+Sat Jan  2 17:27:43 2021	Blob Job (STEAM_0:1:79236032): !2p
+Sat Jan  2 17:27:49 2021	Blob Job (STEAM_0:1:79236032): 
+Sat Jan  2 17:28:11 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:29:15 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:30:54 2021	Bob Ross was killed by Entity [925][armour_station] with a armour_station
+Sat Jan  2 17:30:58 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 17:30:58 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 17:32:18 2021	Buhlow Jobs was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 17:32:21 2021	Buhlow Jobs (STEAM_0:1:90900081) spawned
+Sat Jan  2 17:33:15 2021	Naplam vietnam (STEAM_0:1:157118546): !drop money 1
+Sat Jan  2 17:33:24 2021	Naplam vietnam (STEAM_0:1:157118546): !dropmoney 1
+Sat Jan  2 17:33:54 2021	Naplam vietnam (STEAM_0:1:157118546) has dropped $1
+Sat Jan  2 17:34:03 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 17:34:36 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:34:41 2021	Naplam vietnam (STEAM_0:1:157118546): /name daniel james
+Sat Jan  2 17:36:15 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:36:15 2021	daniel james was killed by Koba Dober with a m9k_mossberg590
+Sat Jan  2 17:36:20 2021	daniel james (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:36:36 2021	Project Badger (STEAM_0:0:90617101) has joined the game
+Sat Jan  2 17:36:36 2021	Project Badger (STEAM_0:0:90617101) spawned
+Sat Jan  2 17:36:54 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 17:37:53 2021	daniel james (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:38:11 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:39:01 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 17:39:10 2021	Hitman Apple Cider accepted a hit on Koba Dober, ordered by daniel james for $10,000
+Sat Jan  2 17:39:14 2021	Buhlow Jobs (STEAM_0:1:90900081): 
+Sat Jan  2 17:39:15 2021	Buhlow Jobs was killed by Himself with a suicide trick
+Sat Jan  2 17:39:20 2021	Buhlow Jobs (STEAM_0:1:90900081) disconnected
+Sat Jan  2 17:40:19 2021	Hit on Koba Dober failed. Reason: The hitman died!
+Sat Jan  2 17:40:19 2021	Apple Cider was killed by Bob Ross with a m9k_colt1911
+Sat Jan  2 17:40:23 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:40:40 2021	Project Badger (STEAM_0:0:90617101) disconnected
+Sat Jan  2 17:42:10 2021	daniel james (STEAM_0:1:157118546): waht
+Sat Jan  2 17:42:13 2021	daniel james (STEAM_0:1:157118546): what
+Sat Jan  2 17:42:40 2021	Rick Sanchez was killed by Blob Job with a weapon_fists
+Sat Jan  2 17:42:42 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:42:42 2021	daniel james (STEAM_0:1:157118546) arrested Apple Cider
+Sat Jan  2 17:42:43 2021	Rick Sanchez (STEAM_0:1:56083089) spawned
+Sat Jan  2 17:43:01 2021	daniel james (STEAM_0:1:157118546) unarrested Apple Cider
+Sat Jan  2 17:44:11 2021	daniel james was killed by Apple Cider with a m9k_m24
+Sat Jan  2 17:44:16 2021	daniel james (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:45:03 2021	Apple Cider was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 17:45:06 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 17:45:33 2021	KS (STEAM_0:1:524475268) has joined the game
+Sat Jan  2 17:45:33 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 17:47:08 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 17:47:54 2021	daniel james (STEAM_0:1:157118546): !die
+Sat Jan  2 17:47:59 2021	daniel james (STEAM_0:1:157118546): !kys
+Sat Jan  2 17:48:07 2021	Feeyne (STEAM_0:1:128868430): !STOPSOUNDS
+Sat Jan  2 17:48:17 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 17:48:44 2021	Bob Ross was killed by Himself with a suicide trick
+Sat Jan  2 17:48:49 2021	Hitman Apple Cider accepted a hit on Bob Ross, ordered by daniel james for $10,000
+Sat Jan  2 17:49:24 2021	Karim Sheaks (STEAM_0:1:524475268): ur dead cop
+Sat Jan  2 17:49:32 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 17:49:32 2021	daniel james (STEAM_0:1:157118546): fuck up
+Sat Jan  2 17:49:48 2021	Karim Sheaks (STEAM_0:1:524475268): /sellalldoors
+Sat Jan  2 17:50:06 2021	Hitman Apple Cider finished a hit on Bob Ross, ordered by daniel james for $10,000
+Sat Jan  2 17:50:06 2021	Bob Ross was killed by Apple Cider with a m9k_m24
+Sat Jan  2 17:50:06 2021	Feeyne (STEAM_0:1:128868430): !goto ricksanchez
+Sat Jan  2 17:50:09 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 17:50:10 2021	daniel james was killed by Karim Sheaks with a m9k_uzi
+Sat Jan  2 17:50:12 2021	daniel james (STEAM_0:1:157118546): hahahhah]
+Sat Jan  2 17:50:14 2021	daniel james (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:50:24 2021	Hitman Apple Cider accepted a hit on daniel james, ordered by Bob Ross for $10,000
+Sat Jan  2 17:50:33 2021	Hitman Apple Cider finished a hit on daniel james, ordered by Bob Ross for $10,000
+Sat Jan  2 17:50:33 2021	daniel james was killed by Apple Cider with a m9k_m24
+Sat Jan  2 17:50:36 2021	daniel james (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:50:46 2021	daniel james was killed by Karim Sheaks with a m9k_uzi
+Sat Jan  2 17:50:57 2021	Karim Sheaks (STEAM_0:1:524475268): /drop
+Sat Jan  2 17:51:02 2021	daniel james (STEAM_0:1:157118546) spawned
+Sat Jan  2 17:51:51 2021	Karim Sheaks (STEAM_0:1:524475268): i cant see someones name on the hit list
+Sat Jan  2 17:52:18 2021	Karim Sheaks was killed by daniel james with a m9k_usp
+Sat Jan  2 17:52:22 2021	daniel james (STEAM_0:1:157118546) disconnected
+Sat Jan  2 17:52:24 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 17:54:30 2021	Karim Sheaks (STEAM_0:1:524475268): red please
+Sat Jan  2 17:54:34 2021	Karim Sheaks (STEAM_0:1:524475268): thats my morgage money
+Sat Jan  2 17:54:40 2021	Karim Sheaks (STEAM_0:1:524475268): ....................
+Sat Jan  2 17:55:03 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 17:55:44 2021	Apple Cider (STEAM_0:1:529816283): 
+Sat Jan  2 17:59:03 2021	Karim Sheaks was killed by Himself with a suicide trick
+Sat Jan  2 17:59:13 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 17:59:23 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 18:00:11 2021	Hitman Apple Cider accepted a hit on Rick Sanchez, ordered by Koba Dober for $10,000
+Sat Jan  2 18:00:43 2021	ajww1 (STEAM_0:1:146685194) has joined the game
+Sat Jan  2 18:00:43 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 18:04:10 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 18:05:02 2021	Hitman Apple Cider finished a hit on Rick Sanchez, ordered by Koba Dober for $10,000
+Sat Jan  2 18:05:02 2021	Rick Sanchez was killed by Apple Cider with a m9k_m24
+Sat Jan  2 18:05:05 2021	Rick Sanchez (STEAM_0:1:56083089) spawned
+Sat Jan  2 18:06:02 2021	Blob Job was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 18:06:05 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 18:06:28 2021	Rick Sanchez (STEAM_0:1:56083089): 
+Sat Jan  2 18:06:38 2021	Project Badger (STEAM_0:0:90617101) has joined the game
+Sat Jan  2 18:06:38 2021	tom green was killed by Himself with a suicide trick
+Sat Jan  2 18:06:38 2021	Project Badger (STEAM_0:0:90617101) spawned
+Sat Jan  2 18:09:01 2021	Project Badger (STEAM_0:0:90617101) spawned
+Sat Jan  2 18:10:56 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 18:12:45 2021	Rick Sanchez (STEAM_0:1:56083089): /dropmoney 500
+Sat Jan  2 18:12:46 2021	Rick Sanchez (STEAM_0:1:56083089) has dropped $500
+Sat Jan  2 18:12:50 2021	Microwave (STEAM_0:1:225566789) has joined the game
+Sat Jan  2 18:12:50 2021	Microwave (STEAM_0:1:225566789) spawned
+Sat Jan  2 18:13:50 2021	Karim Sheaks (STEAM_0:1:524475268): 
+Sat Jan  2 18:13:58 2021	Microwave (STEAM_0:1:225566789) disconnected
+Sat Jan  2 18:14:20 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 18:14:21 2021	Koba Dober (STEAM_0:1:45091925): heeelllo
+Sat Jan  2 18:15:58 2021	Blob Job was killed by Entity [1042][entityflame] with a entityflame
+Sat Jan  2 18:16:07 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 18:16:24 2021	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 18:16:27 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 18:16:29 2021	Koba Dober was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 18:16:32 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 18:16:50 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 18:16:53 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 18:17:01 2021	Feeyne (STEAM_0:1:128868430) disconnected
+Sat Jan  2 18:17:43 2021	Hitman Apple Cider accepted a hit on Bob Ross, ordered by tom green for $10,000
+Sat Jan  2 18:17:53 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 18:17:59 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 18:18:51 2021	TheRealLayth (STEAM_0:0:84012375) has joined the game
+Sat Jan  2 18:18:51 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Sat Jan  2 18:19:20 2021	Bilbo Maggins (STEAM_0:0:84012375): 
+Sat Jan  2 18:19:26 2021	Bob Ross (STEAM_0:0:484745754): 
+Sat Jan  2 18:19:31 2021	Karim Sheaks (STEAM_0:1:524475268): 
+Sat Jan  2 18:19:33 2021	Issac (STEAM_0:1:33775918) has joined the game
+Sat Jan  2 18:19:33 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:19:40 2021	Bilbo Maggins (STEAM_0:0:84012375): 
+Sat Jan  2 18:19:42 2021	Hitman Apple Cider finished a hit on Bob Ross, ordered by tom green for $10,000
+Sat Jan  2 18:19:42 2021	Bob Ross was killed by Apple Cider with a m9k_m24
+Sat Jan  2 18:19:45 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 18:20:03 2021	Karim Sheaks (STEAM_0:1:524475268): 
+Sat Jan  2 18:20:17 2021	Hitman Apple Cider accepted a hit on Koba Dober, ordered by Issac Wilderson for $10,000
+Sat Jan  2 18:20:20 2021	Karim Sheaks (STEAM_0:1:524475268): is it under there
+Sat Jan  2 18:20:23 2021	Hit on Koba Dober failed. Reason: The target has died!
+Sat Jan  2 18:20:23 2021	Koba Dober was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 18:20:25 2021	Karim Sheaks (STEAM_0:1:524475268): i cant spawn another one
+Sat Jan  2 18:20:26 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 18:20:29 2021	Karim Sheaks (STEAM_0:1:524475268): is there someway u can delete it
+Sat Jan  2 18:20:55 2021	Hitman Apple Cider accepted a hit on Karim Sheaks, ordered by Koba Dober for $10,000
+Sat Jan  2 18:21:06 2021	tom green was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 18:21:09 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:21:09 2021	tom green (STEAM_0:1:146685194) spawned
+Sat Jan  2 18:21:45 2021	Bilbo Maggins (STEAM_0:0:84012375): !goto sanch
+Sat Jan  2 18:21:48 2021	Bilbo Maggins (STEAM_0:0:84012375): !Goto sanc
+Sat Jan  2 18:22:15 2021	Hit on Karim Sheaks failed. Reason: The target has died!
+Sat Jan  2 18:22:15 2021	Karim Sheaks was killed by Entity [286][bm2_extra_fuel_tank] with a bm2_extra_fuel_tank
+Sat Jan  2 18:22:18 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 18:22:45 2021	Bilbo Maggins (STEAM_0:0:84012375): !goto karim
+Sat Jan  2 18:22:56 2021	Karim Sheaks (STEAM_0:1:524475268): like 500k
+Sat Jan  2 18:22:59 2021	Apple Cider (STEAM_0:1:529816283): Someone kill me
+Sat Jan  2 18:23:06 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:23:08 2021	Apple Cider (STEAM_0:1:529816283): nvm
+Sat Jan  2 18:23:15 2021	Karim Sheaks (STEAM_0:1:524475268): in the future cna there be an option to delete job related entitiy
+Sat Jan  2 18:23:22 2021	Karim Sheaks (STEAM_0:1:524475268): i dont mind restarting
+Sat Jan  2 18:23:56 2021	Apple Cider (STEAM_0:1:529816283): /
+Sat Jan  2 18:24:14 2021	Apple Cider (STEAM_0:1:529816283): /
+Sat Jan  2 18:24:16 2021	Issac Wilderson (STEAM_0:1:33775918): can someone type slash button so i can copy and paste coz my slash button is broken
+Sat Jan  2 18:24:19 2021	Rick Sanchez (STEAM_0:1:56083089): 
+Sat Jan  2 18:24:26 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:25:17 2021	Issac Wilderson was killed by Apple Cider with a m9k_m24
+Sat Jan  2 18:25:20 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:26:09 2021	Koba Dober was killed by Entity [0][worldspawn] with a unknown
+Sat Jan  2 18:26:12 2021	Koba Dober (STEAM_0:1:45091925) spawned
+Sat Jan  2 18:26:16 2021	Hitman Apple Cider accepted a hit on Issac Wilderson, ordered by Bob Ross for $10,000
+Sat Jan  2 18:26:18 2021	Hitman Apple Cider finished a hit on Issac Wilderson, ordered by Bob Ross for $10,000
+Sat Jan  2 18:26:18 2021	Issac Wilderson was killed by Apple Cider with a m9k_m24
+Sat Jan  2 18:26:21 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:26:29 2021	Karim Sheaks (STEAM_0:1:524475268): /sellalldoors
+Sat Jan  2 18:27:05 2021	Karim Sheaks (STEAM_0:1:524475268) spawned
+Sat Jan  2 18:27:05 2021	Hitman Apple Cider accepted a hit on Bob Ross, ordered by Issac Wilderson for $10,000
+Sat Jan  2 18:27:13 2021	Hitman Apple Cider finished a hit on Bob Ross, ordered by Issac Wilderson for $10,000
+Sat Jan  2 18:27:13 2021	Bob Ross was killed by Apple Cider with a m9k_m24
+Sat Jan  2 18:27:13 2021	Bilbo Maggins (STEAM_0:0:84012375) spawned
+Sat Jan  2 18:27:16 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 18:27:20 2021	Rick Sanchez (STEAM_0:1:56083089): /dropmoney 100000
+Sat Jan  2 18:27:21 2021	Rick Sanchez (STEAM_0:1:56083089) has dropped $100,000
+Sat Jan  2 18:27:54 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 18:28:13 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:28:14 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 18:30:06 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:30:31 2021	Issac Wilderson (STEAM_0:1:33775918): lets us in or we come in with force!
+Sat Jan  2 18:30:35 2021	Issac Wilderson (STEAM_0:1:33775918): /yell hello
+Sat Jan  2 18:30:37 2021	Rick Sanchez (STEAM_0:1:56083089): 
+Sat Jan  2 18:30:45 2021	Karim Sheaks (STEAM_0:1:524475268): if i did why would i tell u
+Sat Jan  2 18:30:49 2021	Karim Sheaks (STEAM_0:1:524475268): no
+Sat Jan  2 18:31:18 2021	Bob Ross (STEAM_0:0:484745754) spawned
+Sat Jan  2 18:31:29 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:31:40 2021	Issac Wilderson (STEAM_0:1:33775918): /warrant searching for illegal stuff
+Sat Jan  2 18:32:00 2021	Bilbo Maggins (STEAM_0:0:84012375): !cloak
+Sat Jan  2 18:32:21 2021	Issac Wilderson (STEAM_0:1:33775918): /warrant rick searching house
+Sat Jan  2 18:33:30 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:34:00 2021	Project Badger (STEAM_0:0:90617101) spawned
+Sat Jan  2 18:34:00 2021	Issac Wilderson (STEAM_0:1:33775918) arrested Project Badger
+Sat Jan  2 18:34:10 2021	Blob Job was killed by Issac Wilderson with a m9k_m416
+Sat Jan  2 18:34:13 2021	Issac Wilderson was killed by Rick Sanchez with a m9k_deagle
+Sat Jan  2 18:34:16 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:34:19 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 18:34:24 2021	Apple Cider was killed by Rick Sanchez with a m9k_deagle
+Sat Jan  2 18:34:27 2021	Apple Cider (STEAM_0:1:529816283) spawned
+Sat Jan  2 18:35:06 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:35:20 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:35:25 2021	Karim Sheaks (STEAM_0:1:524475268): 
+Sat Jan  2 18:35:33 2021	Apple Cider (STEAM_0:1:529816283): 
+Sat Jan  2 18:35:34 2021	Rick Sanchez (STEAM_0:1:56083089): 
+Sat Jan  2 18:35:39 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:35:57 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:36:13 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Sat Jan  2 18:36:58 2021	Issac Wilderson (STEAM_0:1:33775918): /law
+Sat Jan  2 18:37:03 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:37:13 2021	Rick Sanchez (STEAM_0:1:56083089): /law test
+Sat Jan  2 18:37:33 2021	Karim Sheaks (STEAM_0:1:524475268): !rules
+Sat Jan  2 18:37:51 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:39:00 2021	Issac Wilderson (STEAM_0:1:33775918): /warrant 
+Sat Jan  2 18:39:19 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Sat Jan  2 18:40:00 2021	Apple Cider (STEAM_0:1:529816283): /warrant Rick Suspicious Explosion in backyard, could be a weed farm
+Sat Jan  2 18:40:31 2021	Blob Job was killed by Apple Cider with a m9k_m416
+Sat Jan  2 18:40:37 2021	Blob Job (STEAM_0:1:79236032) spawned
+Sat Jan  2 18:41:31 2021	Rick Sanchez (STEAM_0:1:56083089): 

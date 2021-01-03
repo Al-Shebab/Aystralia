@@ -1,1 +1,1 @@
-[]
+[{"Data":{"Amount":8.0,"Contents":15.0,"Class":"m9k_mossberg590"},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Clip1":7.0,"Ammo":24.0,"Class":"m9k_mossberg590","Model":"models/weapons/w_mossberg_590.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

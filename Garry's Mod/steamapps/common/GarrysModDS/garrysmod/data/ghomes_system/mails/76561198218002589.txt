@@ -1,22 +1,10 @@
 [
 	{
-		"author": "ethanwills007",
-		"text": "i am in your base\n"
+		"text": "youre gay",
+		"author": "butter finger"
 	},
 	{
-		"author": "Koba Dober",
-		"text": "EEEEY"
-	},
-	{
-		"author": "Mike Hunt",
-		"text": "ya mums ya dad"
-	},
-	{
-		"text": "GO AWAY",
-		"author": "Koba Dober"
-	},
-	{
-		"text": "suck one mate",
-		"author": "Bob Ross"
+		"text": "WHY TF DID YOU SPEND THIS MUCH ON A HOUSE FAM\n",
+		"author": "ChickenParmy"
 	}
 ]

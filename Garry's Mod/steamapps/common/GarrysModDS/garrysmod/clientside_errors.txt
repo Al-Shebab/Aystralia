@@ -9555,3 +9555,3366 @@ ajww1|10|STEAM_0:1:146685194
 
 
 
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|14|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+popbob1|5|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|5|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|5|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|5|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+popbob1|5|STEAM_0:1:90900081
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Reece|42|STEAM_0:1:45091925
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Reece|42|STEAM_0:1:45091925
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Reece|42|STEAM_0:1:45091925
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Reece|42|STEAM_0:1:45091925
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Reece|42|STEAM_0:1:45091925
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Naplam vietnam|43|STEAM_0:1:157118546
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Naplam vietnam|43|STEAM_0:1:157118546
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Naplam vietnam|43|STEAM_0:1:157118546
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Naplam vietnam|43|STEAM_0:1:157118546
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Naplam vietnam|43|STEAM_0:1:157118546
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Ultra V|45|STEAM_0:1:56083089
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Ultra V|45|STEAM_0:1:56083089
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Ultra V|45|STEAM_0:1:56083089
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Ultra V|45|STEAM_0:1:56083089
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Ultra V|45|STEAM_0:1:56083089
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+KS|52|STEAM_0:1:524475268
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+KS|52|STEAM_0:1:524475268
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+KS|52|STEAM_0:1:524475268
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+KS|52|STEAM_0:1:524475268
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+KS|52|STEAM_0:1:524475268
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SirSkittlez blw.tf|12|STEAM_0:1:418858026
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Mr. Lert☀|33|STEAM_0:0:74726177
+
+[[DarkRP] OOC/Advert/Ano Revamped] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[ERROR] lua/entities/durgz_base/shared.lua:41: attempt to call method 'Name' (a nil value)
+  1. Function - lua/entities/durgz_base/shared.lua:41
+   2. unknown - lua/includes/modules/usermessage.lua:80
+
+
+
+1998 Mulan Schezuan Sauce|32|STEAM_0:1:105019937
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+1998 Mulan Schezuan Sauce|32|STEAM_0:1:105019937
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Issac|9|STEAM_0:1:33775918
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Lasagne|15|STEAM_0:0:174043799
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+kaia|53|STEAM_0:0:33238534
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+joel|42|STEAM_0:0:100053991
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Letnan. Roze|37|STEAM_0:0:116374287
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200: Tried to use a NULL entity!
+  1. Func - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200
+
+
+
+Tozbi|64|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+uzis|69|STEAM_0:0:60939701
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|64|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Letnan. Roze|37|STEAM_0:0:116374287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Letnan. Roze|37|STEAM_0:0:116374287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Letnan. Roze|37|STEAM_0:0:116374287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Letnan. Roze|37|STEAM_0:0:116374287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Letnan. Roze|37|STEAM_0:0:116374287
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Midget_|72|STEAM_0:0:63002648
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Midget_|72|STEAM_0:0:63002648
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Midget_|72|STEAM_0:0:63002648
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+eliano|76|STEAM_0:1:150661630
+
+[decals] addons/decals/lua/entities/decal/cl_init.lua:35: attempt to call method 'SetDecal' (a nil value)
+  1. callback - addons/decals/lua/entities/decal/cl_init.lua:35
+   2. onsuccess - addons/decals/lua/decals/load/cl_load.lua:60
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+
+Cereberus|38|STEAM_0:0:418422312
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:9: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:9
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|70|STEAM_0:1:51163583
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:312: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:312
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Jacktank|70|STEAM_0:1:51163583
+
+[Screengrab] lua/autorun/sh_screengrab_v2.lua:317: attempt to perform arithmetic on field 'parts' (a nil value)
+  1. func - lua/autorun/sh_screengrab_v2.lua:317
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Aqua|102|STEAM_0:1:46673021
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200: Tried to use a NULL entity!
+  1. Func - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200
+
+
+
+uzis|69|STEAM_0:0:60939701
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200: Tried to use a NULL entity!
+  1. Func - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/vgui/cl_playerline.lua:200
+
+
+
+SuitingDog1|112|STEAM_0:1:429757133
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:3: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:3
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lynxaffect|115|STEAM_0:1:166517874
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+SmolChild|133|STEAM_0:0:54664831
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:9: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:9
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Clementine|141|STEAM_0:0:91910845
+
+[ERROR] lua/autorun/cl_init_ooc_advert_ano.lua:9: attempt to call method 'Nick' (a nil value)
+  1. func - lua/autorun/cl_init_ooc_advert_ano.lua:9
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Sp0kn|158|STEAM_0:0:534900252
+DPropertySheet:AddSheet tried to add invalid panel!
+
+Sp0kn|158|STEAM_0:0:534900252
+DPropertySheet:AddSheet tried to add invalid panel!
+
+Sp0kn|158|STEAM_0:0:534900252
+DPropertySheet:AddSheet tried to add invalid panel!
+
+Sp0kn|158|STEAM_0:0:534900252
+DPropertySheet:AddSheet tried to add invalid panel!
+
+Sp0kn|168|STEAM_0:0:534900252
+DPropertySheet:AddSheet tried to add invalid panel!
+
+Sp0kn|168|STEAM_0:0:534900252
+DPropertySheet:AddSheet tried to add invalid panel!
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Kobe|121|STEAM_0:0:75302991
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Lynxaffect|131|STEAM_0:1:166517874
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Osimno|161|STEAM_0:0:93076712
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Kobe|121|STEAM_0:0:75302991
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Lynxaffect|131|STEAM_0:1:166517874
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Kobe|121|STEAM_0:0:75302991
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Lynxaffect|131|STEAM_0:1:166517874
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Mr. Lert☀|114|STEAM_0:0:74726177
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Jaems™|162|STEAM_0:0:578081804
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+brexit|54|STEAM_0:1:121087763
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Mr. Lert☀|114|STEAM_0:0:74726177
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+verosment|127|STEAM_0:0:95372819
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Tozbi|155|STEAM_0:0:183460096
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[lsdmod] addons/lsdmod/lua/effects/eff_splashlsd.lua:16: attempt to index field 'Emitter' (a nil value)
+  1. unknown - addons/lsdmod/lua/effects/eff_splashlsd.lua:16
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Johnny Sins|137|STEAM_0:1:59860466
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Shit Man|187|STEAM_0:1:214707601
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+iDooDoofarted|185|STEAM_0:1:88745474
+
+[ERROR] Failed to create font 'font_HDN_Inds' from 'coolvetica'!
+
+  1. func - lua/autorun/client/cl_hitdamagenumbers.lua:154
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+iDooDoofarted|185|STEAM_0:1:88745474
+
+[ERROR] lua/entities/gmt_instrument_base/cl_init.lua:470: attempt to call method 'GetSound' (a nil value)
+  1. func - lua/entities/gmt_instrument_base/cl_init.lua:470
+   2. unknown - lua/includes/extensions/net.lua:32
+
+
+
+iDooDoofarted|185|STEAM_0:1:88745474
+
+[police-armoury] Failed to create font '_PArmoryFont1' from 'Tahoma'!
+
+  1. unknown -  xGMod [parmory] cl_init.lua:20
+   2. RunString - [C]:-1
+    3. unknown - xGMod.GMS[parmory] Load:428
+     4. RunString - [C]:-1
+      5. onsuccess - addons/police-armoury/lua/parmory/xgmod/client.lua:23
+       6. unknown - lua/includes/modules/http.lua:29
+
+
+
+shigbeard|188|STEAM_0:1:16716622
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+shigbeard|188|STEAM_0:1:16716622
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+shigbeard|188|STEAM_0:1:16716622
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+shigbeard|188|STEAM_0:1:16716622
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+shigbeard|188|STEAM_0:1:16716622
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|189|STEAM_0:0:174043799
+
+[ERROR] qrextern:2221: Calling net.Start with unpooled message name! [ http://goo.gl/qcx0y ]
+  1. Start - [C]:-1
+   2. DoClick - qrextern:2221
+    3. unknown - lua/vgui/dlabel.lua:237
+
+
+
+Lasagne|189|STEAM_0:0:174043799
+
+[ERROR] qrextern:2221: Calling net.Start with unpooled message name! [ http://goo.gl/qcx0y ]
+  1. Start - [C]:-1
+   2. DoClick - qrextern:2221
+    3. unknown - lua/vgui/dlabel.lua:237
+
+
+
+Lasagne|189|STEAM_0:0:174043799
+
+[ERROR] qrextern:2242: Calling net.Start with unpooled message name! [ http://goo.gl/qcx0y ]
+  1. Start - [C]:-1
+   2. DoClick - qrextern:2242
+    3. unknown - lua/vgui/dlabel.lua:237
+
+
+
+KS|183|STEAM_0:1:524475268
+
+[Graffiti Swep - Modified] lua/weapons/weapon_spraymhs.lua:205: attempt to index field 'Weapon' (a nil value)
+  1. unknown - lua/weapons/weapon_spraymhs.lua:205
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+Carl From Bunnings|193|STEAM_0:1:97474009
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:23
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] lua/effects/m9k_effect_mad_ricochet_trace/init.lua:27: attempt to index local 'emitter' (a nil value)
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:27
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:23
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] lua/effects/m9k_effect_mad_ricochet_trace/init.lua:27: attempt to index local 'emitter' (a nil value)
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:27
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:23
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] lua/effects/m9k_effect_mad_ricochet_trace/init.lua:27: attempt to index local 'emitter' (a nil value)
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:27
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Crysis Gauss Sniper] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/m9k_effect_mad_ricochet_trace/init.lua:23
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] lua/effects/effect_spray_mhs.lua:9: attempt to index field 'Emitter' (a nil value)
+  1. unknown - lua/effects/effect_spray_mhs.lua:9
+
+
+
+ChickenParmy|209|STEAM_0:0:86743317
+
+[Graffiti Swep] ParticleEmitter: Couldn't make emitter! Too many emitters!
+
+  1. unknown - lua/effects/effect_spray_mhs.lua:6
+
+
+
+Al Shebab|4|STEAM_0:0:103364981
+
+[ulib-master] addons/ulib-master/lua/ulib/shared/player.lua:121: Tried to use a NULL entity!
+  1. indexFn - [C]:-1
+   2. getUniqueIDForPlayer - addons/ulib-master/lua/ulib/shared/player.lua:121
+    3. runCmd - addons/ulx-master/lua/ulx/xgui/commands.lua:270
+     4. DoClick - addons/ulx-master/lua/ulx/xgui/commands.lua:240
+      5. unknown - lua/vgui/dlabel.lua:237
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit] addons/casinokit/lua/casinokit/util/buffer.lua:54: bad argument #1 to 'rshift' (number expected, got nil)
+  1. rshift - [C]:-1
+   2. putInt - addons/casinokit/lua/casinokit/util/buffer.lua:54
+    3. sendBet - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:250
+     4. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:347
+      5. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+       6. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+
+Zachery|8|STEAM_0:0:104081337
+
+[casinokit-blackjack] addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286: attempt to perform arithmetic on local 'value' (a nil value)
+  1. addBetAmount - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:286
+   2. drawUI - addons/casinokit-blackjack/lua/casinokit/game/impl/cl_blackjack.lua:365
+    3. DrawGameUI - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:58
+     4. unknown - addons/casinokit/lua/entities/casinokit_table/cl_init.lua:78
+
+
+

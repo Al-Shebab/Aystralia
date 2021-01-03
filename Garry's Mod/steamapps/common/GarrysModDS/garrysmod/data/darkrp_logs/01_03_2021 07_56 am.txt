@@ -1,0 +1,24 @@
+Sun Jan  3 07:56:15 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Jan  3 07:56:16 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jan  3 07:56:20 2021	Sersan. Roze (Alex's Tentara) (STEAM_0:0:116374287) has joined the game
+Sun Jan  3 07:56:20 2021	Al Shebab was killed by Himself with a suicide trick
+Sun Jan  3 07:56:20 2021	TipJar Theif (STEAM_0:0:116374287) spawned
+Sun Jan  3 07:57:39 2021	TipJar Theif (STEAM_0:0:116374287) spawned
+Sun Jan  3 07:58:36 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jan  3 07:59:23 2021	brexit (STEAM_0:1:121087763) has joined the game
+Sun Jan  3 07:59:23 2021	brexit (STEAM_0:1:121087763) spawned
+Sun Jan  3 07:59:27 2021	Al Shebab was killed by TipJar Theif with a weapon_fists
+Sun Jan  3 07:59:31 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jan  3 08:00:01 2021	brexit (STEAM_0:1:121087763): yooo
+Sun Jan  3 08:00:07 2021	TipJar Theif (STEAM_0:0:116374287) disconnected
+Sun Jan  3 08:01:06 2021	Carl From Bunnings (STEAM_0:1:97474009) has joined the game
+Sun Jan  3 08:01:06 2021	Mike Lui (STEAM_0:1:97474009) spawned
+Sun Jan  3 08:02:38 2021	Al Shebab (STEAM_0:0:103364981) disconnected
+Sun Jan  3 08:03:11 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Jan  3 08:03:11 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jan  3 08:06:25 2021	Mike Lui (STEAM_0:1:97474009) disconnected
+Sun Jan  3 08:08:18 2021	Al Shebab (STEAM_0:0:103364981): !addons
+Sun Jan  3 08:12:48 2021	Carl From Bunnings (STEAM_0:1:97474009) has joined the game
+Sun Jan  3 08:12:48 2021	Mike Lui (STEAM_0:1:97474009) spawned
+Sun Jan  3 08:14:30 2021	Mike Lui (STEAM_0:1:97474009) spawned
+Sun Jan  3 08:14:34 2021	Mike Lui (STEAM_0:1:97474009) disconnected

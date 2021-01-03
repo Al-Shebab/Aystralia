@@ -1,1 +1,1 @@
-[]
+[{"Data":{"Amount":10.0,"Contents":20.0,"Class":"m9k_m16a4_acog"},"Class":"spawned_shipment"}]
