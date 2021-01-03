@@ -4,13 +4,13 @@ CH_ArmoryRobbery.Weapons = CH_ArmoryRobbery.Weapons or {}
 CH_ArmoryRobbery.Design = CH_ArmoryRobbery.Design or {}
 
 -- Section one. Handles money in the armory.
-CH_ArmoryRobbery.Config.MoneyTimer = 60 -- This is the time that defines when money is added to the armory. In seconds! [Default = 60 (1 Minute)]
+CH_ArmoryRobbery.Config.MoneyTimer = 180 -- This is the time that defines when money is added to the armory. In seconds! [Default = 60 (1 Minute)]
 CH_ArmoryRobbery.Config.MoneyOnTime = 25000 -- This is the amount of money to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 2500]
-CH_ArmoryRobbery.Config.MaxMoney = 2500000 -- The maximum amount of money the armory can have. Set to 0 for no limit. [Default = 50000]
+CH_ArmoryRobbery.Config.MaxMoney = 1000000 -- The maximum amount of money the armory can have. Set to 0 for no limit. [Default = 50000]
 
 -- Section two. Handles the ammonition part.
 CH_ArmoryRobbery.Config.AmmoTimer = 240 -- This is the time that defines when ammo is added to the armory. In seconds! [Default = 240 (4 Minutes)]
-CH_ArmoryRobbery.Config.AmmoOnTime = 5 -- This is the amount of ammo to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 5]
+CH_ArmoryRobbery.Config.AmmoOnTime = 60 -- This is the amount of ammo to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 5]
 CH_ArmoryRobbery.Config.MaxAmmo = 100 -- The maximum amount of ammo the armory can have. Set to 0 for no limit. [Default = 100]
 
 -- Section tree. Handles the shitment part.
