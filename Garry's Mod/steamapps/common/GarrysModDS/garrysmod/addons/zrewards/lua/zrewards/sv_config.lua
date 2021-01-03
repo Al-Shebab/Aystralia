@@ -77,7 +77,7 @@ zrewards.config.methodsSettings["steamgroup"] = {
     Enabled = true,
     VerifyOnSpawn = false,
     APIKey = zrewards.config.steamApiKey,
-    GroupID = "",
+    GroupID = "39420422",
     GroupLink = "https://steamcommunity.com/groups/Aystralia",
 }
 
