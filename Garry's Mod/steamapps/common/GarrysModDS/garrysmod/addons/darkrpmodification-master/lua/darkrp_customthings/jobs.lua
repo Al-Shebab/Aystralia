@@ -104,13 +104,13 @@ TEAM_FIGHT_CLUB_OWNER = DarkRP.createJob("Fight Club Owner", {
     candemote = false,
     category = "Citizens"
 })
-TEAM_PIANIST = DarkRP.createJob("Pianist", {
+TEAM_PIANIST = DarkRP.createJob("Eshay", {
     color = Color(74, 255, 69, 255),
-    model = {"models/player/kleiner.mdl"},
-    description = [[Play soothing tunes through what most players will see as an error.  Can not raid/mug.]],
-    weapons = {},
-    command = "TEAM_PIANIST",
-    max = 1,
+    model = {"models/player/phoenix.mdl"},
+    description = [[Ask dogs for money at bankstown station.  Can not raid/mug.]],
+    weapons = {"weapon_cigarette_camel","zwf_bong03"},
+    command = "TEAM_ESHAY",
+    max = 4,
     salary = 2500,
     admin = 0,
     vote = false,
@@ -220,11 +220,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
-    end,
-    CustomCheckFailMsg = "This job is for donators only.",
+    end
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     color = Color(37, 110, 201, 255),
@@ -247,7 +243,7 @@ TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
     color = Color(45, 6, 255, 255),
     model = {"models/player/santosrp/Male_02_santosrp.mdl"},
     description = [[Protect and serve. Can not base, raid or mug.]],
-    weapons = {"m9k_usp", "weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram"},
+    weapons = {"m9k_usp", "weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker"},
     command = "TEAM_POLICE_OFFICER",
     max = 4,
     salary = 1000,
@@ -269,7 +265,7 @@ TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
     color = Color(45, 6, 255, 255),
     model = {"models/player/riot.mdl"},
     description = [[Protect and serve. Can not base, raid or mug.]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_mp5"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_mp5", "door_ram"},
     command = "TEAM_POLICE_CHIEF",
     max = 1,
     salary = 2000,
@@ -293,7 +289,7 @@ TEAM_MAYOR = DarkRP.createJob("Mayor", {
     color = Color(45, 6, 255, 255),
     model = {"models/player/breen.mdl"},
     description = [[Set the laws and protect your people. Can not base, raid or mug.]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_mp5"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_mp5"},
     command = "TEAM_MAYOR",
     max = 1,
     salary = 3000,
@@ -318,7 +314,7 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
     color = Color(45, 6, 255, 255),
     model = {"Models/CODMW2/CODMW2.mdl"},
     description = [[Use big guns and big words. Can not base, raid or mug.]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_m416"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_m416"},
     command = "TEAM_SWAT",
     max = 2,
     salary = 1500,
@@ -334,13 +330,17 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
-    end
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
     color = Color(45, 6, 255, 255),
     model = {"models/mark2580/payday2/pd2_swat_heavy_zeal_player.mdl"},
     description = [[Use bigger guns and bigger words. Can not base, raid or mug. Donator ONLY]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_ares_shrike"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_ares_shrike"},
     command = "TEAM_SWAT_HEAVY",
     max = 1,
     salary = 2000,
@@ -366,7 +366,7 @@ TEAM_SWAT_MARKSMAN = DarkRP.createJob("Swat Marksman", {
     color = Color(45, 6, 255, 255),
     model = {"Models/CODMW2/CODMW2M.mdl"},
     description = [[Use biggerer guns and biggerer words. Can not base, raid or mug. Donator ONLY]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_intervention"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_intervention"},
     command = "TEAM_SWAT_MARKSMAN",
     max = 1,
     salary = 2000,
@@ -392,7 +392,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
     color = Color(45, 6, 255, 255),
     model = {"models/payday2/units/medic_player.mdl"},
     description = [[Heal your team. Can not base, raid or mug. Donator ONLY]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "med_kit", "m9k_m416"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "med_kit", "m9k_m416"},
     command = "TEAM_SWAT_MEDIC",
     max = 1,
     salary = 2000,
@@ -419,7 +419,7 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
     color = Color(45, 6, 255, 255),
     model = {"Models/CODMW2/CODMW2HE.mdl"},
     description = [[Command your team. Can not base, raid or mug. Donator ONLY]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_m416"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_m416"},
     command = "TEAM_SWAT_LEADER",
     max = 1,
     salary = 2500,
@@ -445,7 +445,7 @@ TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
     color = Color(45, 6, 255, 255),
     model = {"models/player/mossman_arctic.mdl"},
     description = [[Spy on brazil cartels from behind enemy lines. Can not base, raid or mug.]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick", "zwf_sniffer" , "weaponchecker", "door_ram", "m9k_usp"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_usp"},
     command = "TEAM_UNDERCOVER_COP",
     max = 2,
     salary = 1000,

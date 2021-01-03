@@ -215,14 +215,6 @@ DarkRP.createCategory{
     sortOrder = 5
 }
 DarkRP.createCategory{
-    name = "Piano",
-    categorises = "entities",
-    startExpanded = true,
-    color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_PIANIST}, ply:Team()) end,
-    sortOrder = 6
-}
-DarkRP.createCategory{
     name = "Money Printers",
     categorises = "entities",
     startExpanded = true,

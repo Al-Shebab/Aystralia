@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"DarkRP Armory Robbery System"
+	"version"	"2.0.0"
+	"up_date"	"2020"
+	"author_name"	"Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+	"info"		"An advanced system that allows players to rob the police armory."
+}

@@ -17,20 +17,6 @@ https://darkrp.miraheze.org/wiki/DarkRP:CustomEntityFields
 Add entities under the following line:
 ---------------------------------------------------------------------------]]
 
-DarkRP.createEntity("Piano", {
-    ent = "gmt_instrument_piano",
-    model = "models/fishy/furniture/piano.mdl",
-    price = 1000,
-    max = 1,
-    cmd = "gmt_instrument_piano",
-    category = "Piano",
-    allowed = {TEAM_PIANIST},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_PIANIST}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
-
 DarkRP.createEntity("Bitminer S1", {
     ent = "bm2_bitminer_1",
     model = "models/bitminers2/bitminer_1.mdl",
@@ -62,7 +48,7 @@ DarkRP.createEntity("Bitminer S2", {
 DarkRP.createEntity("Bitminer Server", {
     ent = "bm2_bitminer_server",
     model = "models/bitminers2/bitminer_2.mdl",
-    price = 80000,
+    price = 120000,
     max = 8,
     cmd = "buybitminerserver",
     category = "Bitcoin",
@@ -76,7 +62,7 @@ DarkRP.createEntity("Bitminer Server", {
 DarkRP.createEntity("Bitminer Rack", {
     ent = "bm2_bitminer_rack",
     model = "models/bitminers2/bitminer_rack.mdl",
-    price = 100000,
+    price = 125000,
     max = 1,
     cmd = "buybitminerrack",
     category = "Bitcoin",
@@ -173,7 +159,7 @@ DarkRP.createEntity("Lean Barrel", {
     ent = "lean_barrel",
     model = "models/freeman/codeine_barrel.mdl",
     price = 1500,
-    max = 2,
+    max = 1,
     cmd = "lean_barrel",
     category = "Lean Materials",
     allowed = {TEAM_LEAN_MANUFACTURER},
@@ -199,7 +185,7 @@ DarkRP.createEntity("Lean Cup", {
     ent = "lean_cup",
     model = "models/freeman/codeine_cup.mdl",
     price = 20,
-    max = 8,
+    max = 5,
     cmd = "lean_cup",
     category = "Lean Materials",
     allowed = {TEAM_LEAN_MANUFACTURER},
@@ -399,7 +385,7 @@ DarkRP.createEntity("Solar Panel", {
 DarkRP.createEntity("Armour Station", {
 ent = "armour_station",
 model = "models/props_c17/consolebox01a.mdl",
-price = 125000,
+price = 100000,
 max = 1,
 cmd = "armour_station",
 category = "Supplies"

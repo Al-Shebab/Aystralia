@@ -281,9 +281,9 @@ GM.Config.wantedtime                    = 300
 -- walkspeed - Sets the max walking speed.
 GM.Config.walkspeed                     = 160
 -- falldamagedamper - The damper on realistic fall damage. Default is 15. Decrease this for more damage.
-GM.Config.falldamagedamper              = 10
+GM.Config.falldamagedamper              = 8
 -- falldamageamount - The base damage taken from falling for static fall damage. Default is 10.
-GM.Config.falldamageamount              = 10
+GM.Config.falldamageamount              = 11
 -- printeroverheatchance - The likelyhood of a printer overheating. The higher this number, the less likely (minimum 3, default 22).
 GM.Config.printeroverheatchance         = 3
 -- printerreward - Reward for destroying a money printer.
@@ -293,11 +293,11 @@ GM.Config.printerreward                 = 950
 Chat distance settings
 Distance is in source units (similar to inches)
 ---------------------------------------------------------------------------]]
-GM.Config.talkDistance    = 250
-GM.Config.whisperDistance = 90
-GM.Config.yellDistance    = 550
-GM.Config.meDistance      = 250
-GM.Config.voiceDistance   = 550
+GM.Config.talkDistance    = 450
+GM.Config.whisperDistance = 150
+GM.Config.yellDistance    = 750
+GM.Config.meDistance      = 359
+GM.Config.voiceDistance   = 750
 
 --[[---------------------------------------------------------------------------
 Other settings
@@ -416,6 +416,8 @@ GM.Config.DefaultLaws = {
 }
 
 GM.Config.PocketBlacklist = {
+    ["cardealer_tablet_ent"] = true,
+    ["wheel_of_luck"] = true,
     ["fadmin_jail"] = true,
     ["meteor"] = true,
     ["door"] = true,
@@ -462,9 +464,8 @@ GM.Config.preventClassItemRemoval = {
 
 -- Properties set to true are allowed to be used. Values set to false or are missing from this list are blocked.
 GM.Config.allowedProperties = {
-    keepupright = true,
-    collision = true,
     skin = true,
+    bodygroups = true,
 }
 
 --[[---------------------------------------------------------------------------
