@@ -416,6 +416,7 @@ GM.Config.DefaultLaws = {
 }
 
 GM.Config.PocketBlacklist = {
+    ["wheel_of_luck"],
     ["fadmin_jail"] = true,
     ["meteor"] = true,
     ["door"] = true,
