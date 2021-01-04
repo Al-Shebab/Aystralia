@@ -58,7 +58,7 @@ TierPrinters.Config.BatteryUI = false
 TierPrinters.Config.BatteryPrice = 5000
  
 -- The time between the battery losing 1% (In seconds) 
-TierPrinters.Config.BatteryTime = 8
+TierPrinters.Config.BatteryTime = 7
 
 
 /* 
@@ -140,31 +140,31 @@ TierPrinters.Config.Tiers = {
         }, 
         [6] = { 
                 color = Color(0,200,0), 
-                price = 30000,
+                price = 50000,
                 amount = 3000,
                 limit = 50000
         }, 
         [7] = { 
                 color = Color(0,200,100), 
-                price = 40000,
+                price = 80000,
                 amount = 3500,
                 limit = 55000
         }, 
         [8] = { 
                 color = Color(0,200,200), 
-                price = 75000,
+                price = 100000,
                 amount = 4000,
                 limit = 65000
         }, 
         [9] = { 
                 color = Color(0,100,200), 
-                price = 90000,
+                price = 150000,
                 amount = 4500,
                 limit = 120000
         }, 
         [10] = { 
                 color = Color(0,0,200), 
-                price = 150000,
+                price = 200000,
                 amount = 5000,
                 limit = 500000
         }, 
