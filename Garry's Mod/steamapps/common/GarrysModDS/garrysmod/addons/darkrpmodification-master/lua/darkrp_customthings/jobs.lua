@@ -387,7 +387,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
     color = Color(45, 6, 255, 255),
     model = {"models/payday2/units/medic_player.mdl"},
     description = [[Heal your team. Can not base, raid or mug. Donator ONLY]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "med_kit", "m9k_m416"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "med_kit", "m9k_mp5"},
     command = "TEAM_SWAT_MEDIC",
     max = 1,
     salary = 10000,
@@ -398,7 +398,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
     category = "Government",
     medic = true,
     ammo = {
-        ["ar2"] = 120
+        ["smg1"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
