@@ -430,3 +430,14 @@ DarkRP.createEntity("Palette", {
     allowed = {TEAM_OIL_REFINER},
     category = "Oil Refiner"
 })
+
+DarkRP.createEntity("FruitSlicer Shop", {
+	ent = "zfs_shop",
+	model = "models/zerochain/fruitslicerjob/fs_shop.mdl",
+	price = 5000,
+	max = 1,
+	cmd = "buyzfs_shop",
+	allowed = TEAM_FRUIT_SLICER,
+	category = "Fruit Slicer",
+	sortOrder = 0
+})
