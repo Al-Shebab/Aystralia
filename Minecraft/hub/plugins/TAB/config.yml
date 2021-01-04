@@ -27,6 +27,7 @@ yellow-number-in-tablist: ""
 group-sorting-priority-list:
   - owner
   - developer
+  - community-manager
   - staff-manager
   - senior-administrator
   - administrator
@@ -52,6 +53,9 @@ Groups:
   developer:
     tabprefix: "&#ff2b2b&lDeveloper&r "
     tagprefix: "&#ff2b2b&lDeveloper&r "
+  community-manager:
+    tabprefix: "&#ff4848&lCommunity Manager&r "
+    tagprefix: "&#ff4848&lCommunity Manager&r "
   staff-manager:
     tabprefix: "&#ff6565&lStaff Manager&r "
     tagprefix: "&#ff6565&lStaff Manager&r "
@@ -269,6 +273,7 @@ use-primary-group: true
 primary-group-finding-list:
   - owner
   - developer
+  - community-manager
   - staff-manager
   - senior-administrator
   - administrator
