@@ -235,11 +235,11 @@ GM.Config.moneyRemoveTime               = 600
 -- mprintamount - Value of the money printed by the money printer.
 GM.Config.mprintamount                  = 250
 -- normalsalary - Sets the starting salary for newly joined players.
-GM.Config.normalsalary                  = 45
+GM.Config.normalsalary                  = 500
 -- npckillpay - Sets the money given for each NPC kill.
 GM.Config.npckillpay                    = 10
 -- paydelay - Sets how long it takes before people get salary.
-GM.Config.paydelay                      = 180
+GM.Config.paydelay                      = 300
 -- pocketitems - Sets the amount of objects the pocket can carry.
 GM.Config.pocketitems                   = 10
 -- pricecap - The maximum price of items (using /price).
