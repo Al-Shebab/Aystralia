@@ -20,7 +20,7 @@ end
 zrush.f.CreateOilSource({
     chance = 50,
     depth = 15,
-    burnchance = 7,
+    burnchance = 0,
     oil_amount = math.Round(math.random(3000, 10000)),
     gas_amount = math.Round(math.random(1000, 5000)),
     chaos_chance = 5
@@ -29,7 +29,7 @@ zrush.f.CreateOilSource({
 zrush.f.CreateOilSource({
     chance = 30,
     depth = 20,
-    burnchance = 15,
+    burnchance = 0,
     oil_amount = math.Round(math.random(6000, 20000)),
     gas_amount = math.Round(math.random(5000, 8000)),
     chaos_chance = 10
@@ -38,7 +38,7 @@ zrush.f.CreateOilSource({
 zrush.f.CreateOilSource({
     chance = 20,
     depth = 25,
-    burnchance = 75,
+    burnchance = 0,
     oil_amount = math.Round(math.random(15000, 40000)),
     gas_amount = math.Round(math.random(5000, 10000)),
     chaos_chance = 20
