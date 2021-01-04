@@ -13,7 +13,7 @@ local Ar_fill_rate = 5
 local Ar_plyfill_rate = 0.2
 
 local Ar_printer_health = 100
-local Ar_printer_storage = 100
+local Ar_printer_storage = 300
 
 local overheatchance = 1000
 
@@ -158,8 +158,7 @@ function ENT:Use( activator, caller )
 		--self.sound = CreateSound(self, Sound("ambient/levels/labs/equipment_printer_loop1.wav"))
 	
 		
-		if self:GetNWInt("Armour_amount") > 0 and caller:Armor() < 100 then 
-		self:EmitSound("hl1/fvox/boop.wav", 150, caller:Armor() + 10, 1, CHAN_AUTO) -- Stolen from darkrp gamemode :(
+		if self:GetNWInt("Armour_amount") > 0 and caller:Armor() < 100 then
 		if hp_no_spam == 0 then
 			hp_no_spam = 1
 			local to_take = self:GetNWInt("Armour_amount") - 1
