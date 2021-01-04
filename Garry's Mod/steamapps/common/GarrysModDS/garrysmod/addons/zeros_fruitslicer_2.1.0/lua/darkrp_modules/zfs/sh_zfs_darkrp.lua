@@ -17,6 +17,7 @@ for k, v in pairs(Fruits) do
 		max = 5,
 		cmd = "buy" .. k,
 		allowed = TEAM_FRUIT_SLICER,
+		canSee = function(ply) return table.HasValue({TEAM_FRUIT_SLICER}, ply:Team()) end,
 		category = "Fruit Slicer"
 	})
 end
