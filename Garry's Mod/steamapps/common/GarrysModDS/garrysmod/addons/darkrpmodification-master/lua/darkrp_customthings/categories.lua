@@ -231,3 +231,12 @@ DarkRP.createCategory{
     canSee = function(ply) return true end,
     sortOrder = 8
 }
+
+DarkRP.createCategory{
+    name = "Oil Refiner",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(255, 107, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_OIL_REFINER}, ply:Team()) end,
+    sortOrder = 104
+}

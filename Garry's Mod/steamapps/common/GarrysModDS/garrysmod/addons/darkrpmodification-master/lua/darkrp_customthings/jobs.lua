@@ -933,6 +933,20 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
     CustomCheckFailMsg = "Staff only.",
 })
 
+TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
+    color = Color(225, 75, 75, 255),
+    model = {"models/player/Group03/male_03.mdl"},
+    description = [[You are making Fuel!]],
+    weapons = {},
+    command = "TEAM_OIL_REFINER",
+    max = 3,
+    salary = 5500,
+    admin = 0,
+    vote = false,
+    category = "Manufacturing",
+    hasLicense = false
+})
+
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
 GAMEMODE.CivilProtection = {

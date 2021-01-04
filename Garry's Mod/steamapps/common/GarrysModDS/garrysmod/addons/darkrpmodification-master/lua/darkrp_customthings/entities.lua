@@ -383,10 +383,50 @@ DarkRP.createEntity("Solar Panel", {
 })
     
 DarkRP.createEntity("Armour Station", {
-ent = "armour_station",
-model = "models/props_c17/consolebox01a.mdl",
-price = 100000,
-max = 1,
-cmd = "armour_station",
-category = "Supplies"
+    ent = "armour_station",
+    model = "models/props_c17/consolebox01a.mdl",
+    price = 100000,
+    max = 1,
+    cmd = "armour_station",
+    category = "Supplies"
+})
+
+DarkRP.createEntity("BuildKit", {
+    ent = "zrush_machinecrate",
+    model = "models/zerochain/props_oilrush/zor_machinecrate.mdl",
+    price = 2500,
+    max = 3,
+    cmd = "buyzrushmachinecrate",
+    allowed = {TEAM_OIL_REFINER),
+    category = "FuelRefiner"
+})
+
+DarkRP.createEntity("Barrel", {
+    ent = "zrush_barrel",
+    model = "models/zerochain/props_oilrush/zor_barrel.mdl",
+    price = 1000,
+    max = 8,
+    cmd = "buyzrushbarrel",
+    allowed = {TEAM_OIL_REFINER),
+    category = "FuelRefiner"
+})
+
+DarkRP.createEntity("10x Pipes", {
+    ent = "zrush_drillpipe_holder",
+    model = "models/zerochain/props_oilrush/zor_drillpipe_holder.mdl",
+    price = 1000,
+    max = 4,
+    cmd = "buyzrushdrillpipeholder",
+    allowed = {TEAM_OIL_REFINER),
+    category = "FuelRefiner"
+})
+
+DarkRP.createEntity("Palette", {
+    ent = "zrush_palette",
+    model = "models/props_junk/wood_pallet001a.mdl",
+    price = 5000,
+    max = 2,
+    cmd = "buyzrush_palette",
+    allowed = {TEAM_OIL_REFINER),
+    category = "FuelRefiner"
 })

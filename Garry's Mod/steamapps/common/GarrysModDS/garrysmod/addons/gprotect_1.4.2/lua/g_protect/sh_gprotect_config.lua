@@ -7,7 +7,7 @@ gProtect.config.FrameSize = {x = 620, y = 400}
 
 gProtect.config.SelectedLanguage = "en"
 
-gProtect.config.EnableOwnershipHUD = true
+gProtect.config.EnableOwnershipHUD = false
 
 gProtect.config.ConfigPermission = { 
 	["superadmin"] = true
