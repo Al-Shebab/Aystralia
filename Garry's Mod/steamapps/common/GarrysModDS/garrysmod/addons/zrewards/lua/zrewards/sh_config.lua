@@ -75,7 +75,7 @@ zrewards.config.spawnRewardWaitTime = 15
     - Notification settings
 ]]
 zrewards.config.notifications = {
-    showGlobal = true,              -- Display the global reward message
+    showGlobal = false,              -- Display the global reward message
     showDisclaimer = false,         -- Display a disclaimer when claiming methods; only used for discord
 }
 
