@@ -416,6 +416,7 @@ GM.Config.DefaultLaws = {
 }
 
 GM.Config.PocketBlacklist = {
+    ["zrush_drillhole"] = true,
     ["zrush_oilspot"] = true,
     ["zrush_drillpipe_holder"] = true,
     ["cardealer_tablet_ent"] = true,
