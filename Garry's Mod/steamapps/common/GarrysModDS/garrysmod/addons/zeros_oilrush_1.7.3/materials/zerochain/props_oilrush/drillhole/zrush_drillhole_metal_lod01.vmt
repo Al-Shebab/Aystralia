@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	//$color2 "{ 15 15 15 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_oilrush/drillhole/zrush_drillhole_diff_lod02"
+
+	"$bumpMap"				"zerochain/props_oilrush/drillhole/zrush_drillhole_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+	"$halflambert" 1
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$envmapfresnel" "2"
+	
+}

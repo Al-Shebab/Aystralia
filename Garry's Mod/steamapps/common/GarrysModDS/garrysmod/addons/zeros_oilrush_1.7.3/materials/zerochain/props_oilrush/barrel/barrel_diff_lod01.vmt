@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	//$color2 "{ 200 45 45 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_oilrush/barrel/barrel_diff_lod02"
+
+	"$bumpMap"				"zerochain/props_oilrush/barrel/barrel_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	$phong 1
+		$phongexponent 25
+
+        $phongtint "[1 1 1]"
+        $phongboost	1
+		$phongfresnelranges	"[1 2 3]"
+}

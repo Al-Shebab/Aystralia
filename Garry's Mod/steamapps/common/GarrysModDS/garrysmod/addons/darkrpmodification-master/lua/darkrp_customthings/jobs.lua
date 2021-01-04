@@ -935,7 +935,7 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
 
 TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
     color = Color(225, 75, 75, 255),
-    model = {"models/player/Group03/male_03.mdl"},
+    model = {"models/hazmat/bmhaztechs.mdl"},
     description = [[You are making Fuel!]],
     weapons = {},
     command = "TEAM_OIL_REFINER",
@@ -945,6 +945,20 @@ TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
     vote = false,
     category = "Manufacturing",
     hasLicense = false
+})
+
+TEAM_FRUIT_SLICER = DarkRP.createJob("Fruit Slicer", {
+	color = Color(0, 128, 255, 255),
+	model = {"models/fortnite/female/dj_bop.mdl"},
+	description = [[You sell Smoothies at spawn!]],
+	weapons = {"zfs_knife"},
+	command = "TEAM_FRUIT_SLICER",
+	max = 1,
+	salary = 5000,
+	admin = 0,
+	vote = false,
+	category = "Citizens",
+	hasLicense = false
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN

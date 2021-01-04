@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	//$color2 "{ 200 45 45 }"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_oilrush/barrel/barrel_diff_lod02"
+}

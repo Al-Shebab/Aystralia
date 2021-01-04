@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_oilrush/oilspot/oilspot_diff_lod"
+
+	$surfaceprop metal
+	$model 1
+}

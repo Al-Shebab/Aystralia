@@ -220,7 +220,7 @@ DarkRP.createCategory{
     startExpanded = true,
     color = Color(0, 0, 0, 255),
     canSee = function(ply) return true end,
-    sortOrder = 7
+    sortOrder = 12
 }
 
 DarkRP.createCategory{
@@ -229,7 +229,7 @@ DarkRP.createCategory{
     startExpanded = true,
     color = Color(34, 85, 85, 255),
     canSee = function(ply) return true end,
-    sortOrder = 8
+    sortOrder = 11
 }
 
 DarkRP.createCategory{
@@ -238,5 +238,14 @@ DarkRP.createCategory{
     startExpanded = true,
     color = Color(255, 107, 0, 255),
     canSee = function(ply) return table.HasValue({TEAM_OIL_REFINER}, ply:Team()) end,
-    sortOrder = 104
+    sortOrder = 9
+}
+
+DarkRP.createCategory{
+	name = "Fruit Slicer",
+	categorises = "entities",
+	startExpanded = true,
+	color = Color(0, 107, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_FRUIT_SLICER}, ply:Team()) end,
+	sortOrder = 10
 }
