@@ -45,12 +45,7 @@ TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
 })
 TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
     color = Color(74, 255, 69, 255),
-    model = {
-        "models/player/Group03/male_03.mdl",
-        "models/player/Group03/male_01.mdl",
-        "models/player/Group03/female_05.mdl",
-        "models/player/Group03/female_03.mdl"
-    },
+    model = {"models/watch_dogs/characters/mgs5_big_boss_trenchcoat.mdl"},
     description = [[Spray your tag all over the city. Can not raid/mug.]],
     weapons = {"weapon_spraymhs"},
     command = "TEAM_GRAFFITI_ARTIST",
@@ -263,7 +258,7 @@ TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
 })
 TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
     color = Color(45, 6, 255, 255),
-    model = {"models/player/riot.mdl"},
+    model = {"models/sru_sergeant/sru_sergeant.mdl"},
     description = [[Protect and serve. Can not base, raid or mug.]],
     weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_mp5", "door_ram"},
     command = "TEAM_POLICE_CHIEF",
@@ -856,6 +851,26 @@ TEAM_MUTANT = DarkRP.createJob("Mutant", {
     weapons = {"weapon_crowbar", "weapon_bugbait"},
     command = "TEAM_MUTANT",
     max = 5,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    hobo = true,
+    category = "Homeless",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
+TEAM_HOBO = DarkRP.createJob("Hobo", {
+    color = Color(112, 112, 112, 255),
+    model = {"models/player/scavenger/scavenger.mdl"},
+    description = [[Live on the streets of centerlink. Allowed to build anywhere.]],
+    weapons = {"weapon_bugbait"},
+    command = "TEAM_HOBO",
+    max = 0,
     salary = 0,
     admin = 0,
     vote = false,
