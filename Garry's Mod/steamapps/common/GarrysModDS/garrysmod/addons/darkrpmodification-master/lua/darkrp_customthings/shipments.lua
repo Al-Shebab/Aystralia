@@ -170,7 +170,7 @@ DarkRP.createShipment("Winchester 1897", {
     pricesep = 0,
     noship = false,
     category = "Shotguns",
-    allowed = {TEAM_GUN_DEALER}
+    allowed = {TEAM_STAFF_ON_DUTY}
 })
 DarkRP.createShipment("Benelli M3", {
     model = "models/weapons/w_benelli_m3.mdl",

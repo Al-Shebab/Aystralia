@@ -415,7 +415,7 @@ DarkRP.createEntity("10x Pipes", {
     ent = "zrush_drillpipe_holder",
     model = "models/zerochain/props_oilrush/zor_drillpipe_holder.mdl",
     price = 1000,
-    max = 4,
+    max = 2,
     cmd = "buyzrushdrillpipeholder",
     allowed = {TEAM_OIL_REFINER),
     category = "FuelRefiner"
@@ -425,7 +425,7 @@ DarkRP.createEntity("Palette", {
     ent = "zrush_palette",
     model = "models/props_junk/wood_pallet001a.mdl",
     price = 5000,
-    max = 2,
+    max = 1,
     cmd = "buyzrush_palette",
     allowed = {TEAM_OIL_REFINER),
     category = "FuelRefiner"
