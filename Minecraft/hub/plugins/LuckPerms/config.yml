@@ -115,7 +115,7 @@ data:
     #   connections to the database backend.
     # - More information about determining the size of connection pools can be found here:
     #   https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
-    maximum-pool-size: 10
+    maximum-pool-size: 100
 
     # Sets the minimum number of idle connections that the pool will try to maintain.
     # - For maximum performance and responsiveness to spike demands, it is recommended to not set
