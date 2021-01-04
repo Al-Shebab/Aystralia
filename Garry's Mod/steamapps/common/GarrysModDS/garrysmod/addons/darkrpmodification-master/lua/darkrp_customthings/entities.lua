@@ -437,7 +437,88 @@ DarkRP.createEntity("FruitSlicer Shop", {
 	price = 5000,
 	max = 1,
 	cmd = "buyzfs_shop",
-	allowed = TEAM_FRUIT_SLICER,
+	allowed = {TEAM_FRUIT_SLICER},
 	category = "Fruit Slicer",
-	sortOrder = 0
+})
+
+DarkRP.createEntity("Melons", {
+	ent = "zfs_fruitbox_melon",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_melon",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Bananas", {
+	ent = "zfs_fruitbox_banana",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_banana",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Coconuts", {
+	ent = "zfs_fruitbox_coconut",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_coconut",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Pomegranates", {
+	ent = "zfs_fruitbox_pomegranate",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_pomegranate",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Strawberrys", {
+	ent = "zfs_fruitbox_strawberry",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_strawberry",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Kiwis", {
+	ent = "zfs_fruitbox_kiwi",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_kiwi",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Lemons", {
+	ent = "zfs_fruitbox_lemon",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_lemon",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Oranges", {
+	ent = "zfs_fruitbox_orange",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_orange",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
+})
+DarkRP.createEntity("Apples", {
+	ent = "zfs_fruitbox_apple",
+	model = "models/zerochain/fruitslicerjob/fs_cardboardbox.mdl",
+	price = 1000,
+	max = 1,
+	cmd = "zfs_fruitbox_apple",
+	allowed = {TEAM_FRUIT_SLICER},
+	category = "Fruit Slicer"
 })
