@@ -397,7 +397,7 @@ DarkRP.createEntity("BuildKit", {
     price = 2500,
     max = 3,
     cmd = "buyzrushmachinecrate",
-    allowed = {TEAM_OIL_REFINER),
+    allowed = {TEAM_OIL_REFINER},
     category = "Oil Refiner"
 })
 
@@ -407,7 +407,7 @@ DarkRP.createEntity("Barrel", {
     price = 1000,
     max = 8,
     cmd = "buyzrushbarrel",
-    allowed = {TEAM_OIL_REFINER),
+    allowed = {TEAM_OIL_REFINER},
     category = "Oil Refiner"
 })
 
@@ -417,7 +417,7 @@ DarkRP.createEntity("10x Pipes", {
     price = 1000,
     max = 2,
     cmd = "buyzrushdrillpipeholder",
-    allowed = {TEAM_OIL_REFINER),
+    allowed = {TEAM_OIL_REFINER},
     category = "Oil Refiner"
 })
 
@@ -427,6 +427,6 @@ DarkRP.createEntity("Palette", {
     price = 5000,
     max = 1,
     cmd = "buyzrush_palette",
-    allowed = {TEAM_OIL_REFINER),
+    allowed = {TEAM_OIL_REFINER},
     category = "Oil Refiner"
 })
