@@ -251,7 +251,7 @@ GM.Config.propcost                      = 10
 -- quakechance - Chance of an earthquake happening.
 GM.Config.quakechance                   = 4000
 -- respawntime - Minimum amount of seconds a player has to wait before respawning.
-GM.Config.respawntime                   = 3
+GM.Config.respawntime                   = 15
 -- changejobtime - Minimum amount of seconds a player has to wait before changing job.
 GM.Config.changejobtime                 = 60
 -- runspeed - Sets the max running speed.
@@ -261,7 +261,7 @@ GM.Config.runspeedcp                    = 240
 -- searchtime - Number of seconds for which a search warrant is valid.
 GM.Config.searchtime                    = 30
 -- ShipmentSpawnTime - Antispam time between spawning shipments.
-GM.Config.ShipmentSpamTime              = 3
+GM.Config.ShipmentSpamTime              = 1
 -- shipmenttime - The number of seconds it takes for a shipment to spawn.
 GM.Config.shipmentspawntime             = 10
 -- startinghealth - the health when you spawn.
@@ -296,7 +296,7 @@ Distance is in source units (similar to inches)
 GM.Config.talkDistance    = 450
 GM.Config.whisperDistance = 150
 GM.Config.yellDistance    = 750
-GM.Config.meDistance      = 359
+GM.Config.meDistance      = 350
 GM.Config.voiceDistance   = 750
 
 --[[---------------------------------------------------------------------------
