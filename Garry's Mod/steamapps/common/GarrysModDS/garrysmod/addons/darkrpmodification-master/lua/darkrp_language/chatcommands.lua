@@ -53,7 +53,6 @@ local descriptions = {
     ["citizen"]               = "Become Citizen.",
     ["cp"]                    = "Become Civil Protection and skip the vote.",
     ["cr"]                    = "Cry for help, the police will come (hopefully)!",
-    ["credits"]               = "Send the DarkRP credits to someone.",
     ["demote"]                = "Demote a player from their job",
     ["demotelicense"]         = "Start a vote to get someone's license revoked.",
     ["disablestorm"]          = "Disable meteor storms.",
@@ -122,7 +121,6 @@ local descriptions = {
     ["wakeup"]                = "Go to sleep or wake up",
     ["wanted"]                = "Make a player wanted. This is needed to get them arrested.",
     ["warrant"]               = "Get a search warrant for a certain player. With this warrant you can search their house",
-    ["write"]                 = "Write a letter.",
     ["y"]                     = "Yell something out loud.",
     ["zombiemax"]             = "Set the maximum amount of zombies that can be in a level.",
 
