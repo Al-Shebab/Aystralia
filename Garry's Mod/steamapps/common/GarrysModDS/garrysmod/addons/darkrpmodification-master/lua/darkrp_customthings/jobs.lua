@@ -214,7 +214,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(25)
     end
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
@@ -253,7 +253,7 @@ TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(50)
+        ply:SetArmor(0)
     end
 })
 TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
@@ -277,7 +277,7 @@ TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(25)
     end
 })
 TEAM_MAYOR = DarkRP.createJob("Mayor", {
@@ -309,7 +309,7 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
     color = Color(45, 6, 255, 255),
     model = {"Models/CODMW2/CODMW2.mdl"},
     description = [[Use big guns and big words. Can not base, raid or mug. Donator ONLY]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_m416"},
+    weapons = {"weapon_cuff_police", "arrest_stick", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_mp5"},
     command = "TEAM_SWAT",
     max = 2,
     salary = 9000,
@@ -319,12 +319,12 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
     candemote = true,
     category = "Government",
     ammo = {
-        ["ar2"] = 120
+        ["smg1"] = 120
     },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(50)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -350,7 +350,7 @@ TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(50)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -376,7 +376,7 @@ TEAM_SWAT_MARKSMAN = DarkRP.createJob("Swat Marksman", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(0)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -403,7 +403,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(50)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -429,7 +429,7 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(50)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -455,7 +455,7 @@ TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(100)
+        ply:SetArmor(50)
     end
 })
 
@@ -670,7 +670,7 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(50)
+        ply:SetArmor(0)
     end,
     customCheck = function(ply) return CLIENT or
         table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
