@@ -29,43 +29,20 @@ zfs.config.Toppings = {
 	},
 	//
 	[2] = {
-		// The Name of the Topping
 		Name = "Baby",
-
-		// The Extra price when adding this topping
 		ExtraPrice = 1000,
-
-		// If specified we use a icon instead of the model itself
 		Icon = nil,
-
-		// The Topping Model that gets placed on the cup
 		Model = "models/props_c17/doll01.mdl",
-
-		// The Scale of the Topping Model
 		mScale = 0.5,
-
-		// The Info of the Topping
 		Info = "Stem Cells can cure cancer, so \neating this gives you extra Health!",
-
-		// The Benefits the player gets when consuming this topping
 		ToppingBenefits = {
 			["Health"] = 200 // This Gives the Player extra Health
 		},
-
-		// The Duration of the Benefits, this only applys to benefits that have a length. Wont to anything on Health since its Instant
 		ToppingBenefit_Duration = 0,
-
-		// The Info the Player gets when consuming the Fruicup
 		ConsumInfo = "You feel very Healthy!",
-
-		// This defines the Ranks who are allowed to consume the fruit cup if he has this topping, Leave empty to not Restrict it
 		Ranks_consume = {},
-
-		// This defines the Ranks who are allowed to add this topping to the fruit cup, Leave empty to not Restrict it
-		Ranks_create = {),
-
-		// This defines the Jobs who are allowed to consume the fruit cup if he has this topping, Leave empty to not Restrict it
-		Job_consume = {)
+		Ranks_create = {},
+		Job_consume = {}
 	},
 	[3] = {
 		Name = "Coffee",
