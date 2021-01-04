@@ -59,7 +59,7 @@ zrush.config.Barrel = {
 	Rank_PickUpCheck = true,
 
 	// If enabled this checks if the player is the owner of the FuelBarrel before picking it up
-	Owner_PickUpCheck = true
+	Owner_PickUpCheck = false
 }
 
 // Player Config
@@ -85,7 +85,7 @@ zrush.config.ChaosEvents = {
 }
 
 // The money you get when you sell your machines or modules again
-zrush.config.SellValue = 0.5 // You get 50% of the original price
+zrush.config.SellValue = 1.0 // You get 50% of the original price
 
 // The system which is used do place machines
 zrush.config.MachineBuilder = {
@@ -110,7 +110,7 @@ zrush.config.FuelBuyer = {
 
 	// 1 = Barrels can be absorbed and sold by the NPC
 	// 2 = Barrels need to be moved to the NPC and sold directly
-	SellMode = 1,
+	SellMode = 2,
 
 	// The Model
 	Model = "models/odessa.mdl",
