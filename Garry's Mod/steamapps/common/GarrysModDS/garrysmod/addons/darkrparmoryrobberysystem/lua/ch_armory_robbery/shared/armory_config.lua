@@ -53,6 +53,7 @@ CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs t
 CH_ArmoryRobbery.Config.AllowedTeams = { -- These are the teams that are allowed to rob the armory.
 	"Thief",
 	"Pro Thief",
+	"Pro Hacker",
 	"Battle Medic",
 	"Blood",
 	"Blood Leader",
@@ -83,5 +84,5 @@ CH_ArmoryRobbery.Weapons.Weapon3AmmoAmount = 30
 CH_ArmoryRobbery.Weapons.Weapon3Model = "models/weapons/w_aac_honeybadger.mdl"
 
 CH_ArmoryRobbery.Weapons.Cooldown = 5 -- Amount of minutes between being able to retrieve a weapon from the police armory as a government official. [Default = 5]
-CH_ArmoryRobbery.Weapons.ArmorAmount = 100 -- How much armor should the police jobs get when they press E on the armory. [Default = 100]
+CH_ArmoryRobbery.Weapons.ArmorAmount = 50 -- How much armor should the police jobs get when they press E on the armory. [Default = 100]
 CH_ArmoryRobbery.Weapons.Enabled = true -- Should the weapon armory for police jobs be enabled or not? true/false option. [Default = true]
