@@ -26,14 +26,14 @@ OnePrint.Cfg.CPRewardSelf = false           -- true: CPs are rewarded if they de
 OnePrint.Cfg.ServerPrice = 20000             -- Server price
 OnePrint.Cfg.WatercoolingPrice = 25000        -- Watercooling price
 OnePrint.Cfg.PowerPrice = 16000               -- Power price
-OnePrint.Cfg.OverclockingPrice = 75000        -- Overclocking price
+OnePrint.Cfg.OverclockingPrice = 150000        -- Overclocking price
 OnePrint.Cfg.SecurityPrice = 125000            -- Security price (against hacking)
 OnePrint.Cfg.DefensePrice = 30000             -- Defense boost price
 OnePrint.Cfg.DefenseBoost = 50              -- Max HP added for each boost upgrade bought
 OnePrint.Cfg.DefenseMax = 32                 -- Max boosts buyables [min = 1, max = 32]
 OnePrint.Cfg.SilencerPrice = 50000            -- Silencer price
 OnePrint.Cfg.HackNotifyPrice = 75000         -- Hack notification price
-OnePrint.Cfg.LowHPNotifyPrice = 10000        -- Low HP notification price
+OnePrint.Cfg.LowHPNotifyPrice = 30000        -- Low HP notification price
 
 OnePrint.Cfg.NotifyAllUsers = false         -- true: Notify all printer users on printer hack/low hp, false: Only notify owner on printer hack/low hp
 

@@ -133,7 +133,8 @@ DarkRP.createEntity( "One Printer", {
     model = "models/ogl/ogl_oneprint.mdl",
     price = 30000,
     max = 1,
-    cmd = "Advanced Money Printers",
+    cmd = "oneprinter",
+    category = "Advanced Money Printers",
     allowed = {TEAM_MONEY_PRINTER},
     customCheck = function(ply) return
         table.HasValue({TEAM_MONEY_PRINTER}, ply:Team())
