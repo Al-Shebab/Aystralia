@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/meekal/LG_22EA53"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/meekal/LG_22EA53_Spec"
+	"$AmbientOcclusion" "1"
+	"$AmbientOcclColor" "0 0 0"
+	"AmbientOcclTexture" "models/meekal/LG_22EA53_AO" 
+}

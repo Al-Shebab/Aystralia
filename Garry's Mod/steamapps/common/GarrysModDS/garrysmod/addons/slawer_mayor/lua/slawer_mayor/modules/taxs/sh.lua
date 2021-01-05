@@ -1,0 +1,1 @@
+Slawer.Mayor.JobTaxs = {}

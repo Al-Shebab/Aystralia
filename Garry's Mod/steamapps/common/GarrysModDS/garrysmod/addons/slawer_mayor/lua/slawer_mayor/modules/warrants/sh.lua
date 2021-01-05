@@ -1,0 +1,1 @@
+Slawer.Mayor.WarrantsList = Slawer.Mayor.WarrantsList or {}

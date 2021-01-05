@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/anthon/safebox_diffuse"
+	$bumpmap "models/anthon/safebox_normal"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.20 0.20 0.20]"
+
+	$phong 1
+	$phongexponenttexture "models/anthon/safebox_glossiness"
+	$phongfresnelranges "[0.4 0.7 1]"
+	$phongtint "[0.73 0.73 0.73]"
+	$halflambert 1
+	$phongboost 2
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 4
+}

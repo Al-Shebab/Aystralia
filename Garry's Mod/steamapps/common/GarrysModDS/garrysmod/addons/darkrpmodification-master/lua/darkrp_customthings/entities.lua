@@ -128,8 +128,7 @@ DarkRP.createEntity("Fuel", {
     end,
     CustomCheckFailMsg = "",
 })
-
-DarkRP.createEntity( "OnePrint", {
+DarkRP.createEntity( "One Printer", {
     ent = "oneprint",
     model = "models/ogl/ogl_oneprint.mdl",
     price = 30000,
