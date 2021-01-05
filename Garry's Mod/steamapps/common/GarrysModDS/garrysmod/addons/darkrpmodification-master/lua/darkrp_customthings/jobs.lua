@@ -29,6 +29,34 @@ TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
     candemote = false,
     category = "Citizens"
 })
+JOB_CASINO_SECURITY = DarkRP.createJob("Casino Security", {
+    color = Color(74, 255, 69, 255),
+    model = {"models/player/portal/Male_04_security.mdl"},
+    description = [[Protect the casino from angery gamblers]],
+    weapons = {"m9k_colt1911"},
+    command = "JOB_CASINO_SECURITY",
+    max = 2,
+    salary = 7500,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Citizens"
+})
+JOB_CASINO_MANAGER = DarkRP.createJob("Casino Manager", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/player/kleiner.mdl"},
+    description = [[Make sure the casino isn't earning too much money.]],
+    weapons = {"weapon_cigarette_camel"},
+    command = "JOB_CASINO_MANAGER",
+    max = 1,
+    salary = 25000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Citizens"
+})
 TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
     color = Color(74, 255, 69, 255),
     model = {"models/player/errolliamp/p2_chell_new.mdl"},
