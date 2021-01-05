@@ -26,9 +26,9 @@ OnePrint.Cfg.CPRewardSelf = false           -- true: CPs are rewarded if they de
 OnePrint.Cfg.ServerPrice = 5000             -- Server price
 OnePrint.Cfg.WatercoolingPrice = 25000        -- Watercooling price
 OnePrint.Cfg.PowerPrice = 16000               -- Power price
-OnePrint.Cfg.OverclockingPrice = 150000        -- Overclocking price
-OnePrint.Cfg.SecurityPrice = 125000            -- Security price (against hacking)
-OnePrint.Cfg.DefensePrice = 30000             -- Defense boost price
+OnePrint.Cfg.OverclockingPrice = 100000        -- Overclocking price
+OnePrint.Cfg.SecurityPrice = 12500            -- Security price (against hacking)
+OnePrint.Cfg.DefensePrice = 20000             -- Defense boost price
 OnePrint.Cfg.DefenseBoost = 50              -- Max HP added for each boost upgrade bought
 OnePrint.Cfg.DefenseMax = 32                 -- Max boosts buyables [min = 1, max = 32]
 OnePrint.Cfg.SilencerPrice = 50000            -- Silencer price
@@ -51,8 +51,8 @@ OnePrint.Cfg.FireOnExplosion = false         -- If this is set to true, the prin
 OnePrint.Cfg.FireChance = 50               -- Percentage of chance that an explosion creates a fire
 
 -- Logs
-OnePrint.Cfg.MaxActionsHistory = 10         -- Max entries saved in the actions history [min = 1, max = 10]
-OnePrint.Cfg.MaxIncomeHistory = 16          -- Max entries saved in the income history [min = 6, max = 24]
+OnePrint.Cfg.MaxActionsHistory = 18         -- Max entries saved in the actions history [min = 1, max = 10]
+OnePrint.Cfg.MaxIncomeHistory = 24          -- Max entries saved in the income history [min = 6, max = 24]
 OnePrint.Cfg.IncomeHistoryDelay = 30        -- Next save occurrence in the income history, in seconds [min = 5, max = 3600]
 
 -- Hacking
@@ -61,7 +61,7 @@ OnePrint.Cfg.HackingOwnedPrinter = false    -- true : Allow players to hack thei
 OnePrint.Cfg.HackingErrorMargin = 10        -- The higher this value is, the farther your point can be from the target to pass a hacking step (higher = easier) [min = 0, max = 50]
 OnePrint.Cfg.HackingSpeedMin = 0.2          -- Min rotation speed for the hacking minigame [min = 0.1, max = 2]
 OnePrint.Cfg.HackingSpeedMax = 1.5          -- Max rotation speed for the hacking minigame [min = 0.1, max = 2]
-OnePrint.Cfg.HackingSecurityMax = 16        -- Amount of security upgrades buyable on this printer (hacking step needed to unlock) [min = 1, max = 32]
+OnePrint.Cfg.HackingSecurityMax = 32        -- Amount of security upgrades buyable on this printer (hacking step needed to unlock) [min = 1, max = 32]
 OnePrint.Cfg.HackingJobs = {                -- Whitelist of jobs allowed to hack other players printers. Leave empty to allow all jobs: OnePrint.Cfg.HackingJobs = {}
     [ "Hacker" ] = true,
     [ "Pro Hacker" ] = true
