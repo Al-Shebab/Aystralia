@@ -1,0 +1,44 @@
+Mon Jan  4 08:41:20 2021	Al Shebab (STEAM_0:0:103364981) has joined the game
+Mon Jan  4 08:41:20 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Jan  4 08:41:37 2021	Issac (STEAM_0:1:33775918) has joined the game
+Mon Jan  4 08:41:37 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:41:59 2021	Feeyne (STEAM_0:1:128868430) has joined the game
+Mon Jan  4 08:41:59 2021	Feeyne (STEAM_0:1:128868430) spawned
+Mon Jan  4 08:42:05 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:42:36 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Jan  4 08:43:16 2021	Al Shebab (STEAM_0:0:103364981): 
+Mon Jan  4 08:43:49 2021	Al Shebab (STEAM_0:0:103364981): 
+Mon Jan  4 08:44:19 2021	Feeyne (STEAM_0:1:128868430) spawned
+Mon Jan  4 08:44:30 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:45:24 2021	Issac Wilderson (STEAM_0:1:33775918): 
+Mon Jan  4 08:45:30 2021	Handicap Humper (STEAM_0:0:143032283) has joined the game
+Mon Jan  4 08:45:30 2021	Viraj Sanjay (STEAM_0:0:143032283) spawned
+Mon Jan  4 08:45:54 2021	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Jan  4 08:46:06 2021	Viraj Sanjay (STEAM_0:0:143032283): // has the server restarted
+Mon Jan  4 08:46:11 2021	Al Shebab (STEAM_0:0:103364981): // gotta restart again
+Mon Jan  4 08:46:14 2021	Feeyne (STEAM_0:1:128868430): // Yeah
+Mon Jan  4 08:46:19 2021	Feeyne was killed by Issac Wilderson with a weapon_fists
+Mon Jan  4 08:46:37 2021	Feeyne (STEAM_0:1:128868430) spawned
+Mon Jan  4 08:46:50 2021	Viraj Sanjay (STEAM_0:0:143032283): // why the fuck is there fruit now
+Mon Jan  4 08:47:47 2021	Issac Wilderson was killed by Entity [0][worldspawn] with a unknown
+Mon Jan  4 08:48:00 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:48:20 2021	Viraj Sanjay (STEAM_0:0:143032283): // have you set up the oil miner
+Mon Jan  4 08:48:25 2021	Viraj Sanjay was killed by Entity [0][worldspawn] with a unknown
+Mon Jan  4 08:48:35 2021	Viraj Sanjay (STEAM_0:0:143032283) spawned
+Mon Jan  4 08:49:42 2021	Issac Wilderson was killed by Viraj Sanjay with a m9k_coltpython
+Mon Jan  4 08:49:52 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:50:02 2021	Feeyne was killed by Viraj Sanjay with a m9k_coltpython
+Mon Jan  4 08:50:05 2021	Viraj Sanjay was killed by Issac Wilderson with a weapon_fists
+Mon Jan  4 08:50:17 2021	Viraj Sanjay (STEAM_0:0:143032283) spawned
+Mon Jan  4 08:50:19 2021	Feeyne (STEAM_0:1:128868430) spawned
+Mon Jan  4 08:50:24 2021	Issac Wilderson was killed by Himself with a suicide trick
+Mon Jan  4 08:50:36 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:51:17 2021	Issac Wilderson was killed by Viraj Sanjay with a weapon_fists
+Mon Jan  4 08:51:27 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:52:06 2021	Feeyne was killed by Issac Wilderson with a m9k_launched_m79
+Mon Jan  4 08:52:10 2021	Viraj Sanjay was killed by Issac Wilderson with a m9k_launched_m79
+Mon Jan  4 08:52:10 2021	Issac Wilderson was killed by Himself with a suicide trick
+Mon Jan  4 08:52:20 2021	Issac Wilderson (STEAM_0:1:33775918) spawned
+Mon Jan  4 08:52:20 2021	Viraj Sanjay (STEAM_0:0:143032283) spawned
+Mon Jan  4 08:52:37 2021	Viraj Sanjay was killed by Issac Wilderson with a m9k_usc
+Mon Jan  4 08:52:49 2021	Viraj Sanjay (STEAM_0:0:143032283) spawned

@@ -1,10 +1,1 @@
-[
-	{
-		"text": "youre gay",
-		"author": "butter finger"
-	},
-	{
-		"text": "WHY TF DID YOU SPEND THIS MUCH ON A HOUSE FAM\n",
-		"author": "ChickenParmy"
-	}
-]
+[]

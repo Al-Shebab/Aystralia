@@ -1,14 +1,22 @@
 {
-	"friends": [],
-	"friendsname": [],
+	"friends": [
+		"STEAM_0:0:103364981"
+	],
+	"friendsname": [
+		"Al Shebab"
+	],
+	"lastJoin": 1609760649.0,
 	"buyablemode": 2.0,
 	"panelangle": [
 		"{0 360 90}",
 		"{0 180 90}"
 	],
 	"bellpos": "[-838.9375 -1287.9688 428.9375]",
+	"textpos": "[-812.9688 -1429.9688 433.3125]",
+	"spawnHere": false,
 	"permaprice": 6200000.0,
 	"rentprice": 0.0,
+	"props": [],
 	"doorsid": [
 		1682.0,
 		1687.0,
@@ -23,9 +31,10 @@
 		"[-1068.6875 -1311.4375 311.5313]",
 		"[-689.5313 -902.6875 627.625]"
 	],
-	"lastJoin": 1609339842.0,
-	"selltime": 0.0,
+	"saveEntities": false,
 	"panels": [],
+	"spawnHereFriends": false,
+	"ownersteamid": "STEAM_0:1:128868430",
 	"doors": [],
 	"ispermarented": true,
 	"cameraangle": "{2.3125 -44.9688 0}",
@@ -33,11 +42,11 @@
 		"[-753.875 -1306.0313 410]",
 		"[-823.3438 -1285.9688 408.0938]"
 	],
-	"textpos": "[-812.9688 -1429.9688 433.3125]",
-	"isrented": true,
-	"ownername": "Feeyne",
 	"textangle": "{0 90 90}",
-	"ownersteamid": "STEAM_0:1:128868430",
+	"ownername": "Feeyne",
+	"selltime": 0.0,
+	"alarmProtected": false,
+	"isrented": true,
 	"name": "Meriton Penthouse",
 	"camerapos": "[-1321.1875 -616.25 422.6875]"
 }

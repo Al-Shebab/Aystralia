@@ -1,1 +1,1 @@
-[]
+[{"Data":{"Amount":3.0,"Contents":17.0,"Class":"m9k_winchester73"},"Class":"spawned_shipment"},{"Data":{"Amount":6.0,"Contents":19.0,"Class":"m9k_ak47"},"Class":"spawned_shipment"}]
