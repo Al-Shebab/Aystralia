@@ -21,17 +21,17 @@ WOL_CONFIG.antiTheftTime = 30
 //This is the price to increase the jackpot amount per spin.
 //You can set this to 0 to disable increacing it but I recommend you do
 //to keep excitment in players.
-WOL_CONFIG.jackpotIncreasePerSpin = 500
+WOL_CONFIG.jackpotIncreasePerSpin = 1000
 
 //This is the minimal amount the jackpot can reset to
 //The jackpot gets reset after someone wins it and it then set to a random number
 //between the minimum and maximum jackpot numbers. 
 //Set them both to zero if you want to jackpot to start at 0
-WOL_CONFIG.jackpotResetMin = 100
-WOL_CONFIG.jackpotResetMax = 2000000 //2 mill is reasonable consider the rarity the jackpot should be.
+WOL_CONFIG.jackpotResetMin = 200000
+WOL_CONFIG.jackpotResetMax = 4000000 //2 mill is reasonable consider the rarity the jackpot should be.
 
 //The amount it charges the user to per spin (It does not charge for the bonus spins as they are free)
-WOL_CONFIG.pricePerSpin = 500 
+WOL_CONFIG.pricePerSpin = 1000
 
 //This is the icon used before displaying money, you can change this but its recomened to keep its leghnth to 1.
 //You can use anything like "P" for point shop or these common one ($, €, £)
@@ -55,16 +55,16 @@ WOL_ITEM_CHANCE[8] = 65  //Nothing
 WOL_CONFIG.winning = {}
 
 //Getting three bonus in a row (This includes 3 bonus spins too)
-WOL_CONFIG.winning.threeBonus = 25000
+WOL_CONFIG.winning.threeBonus = 50000
 
 //Getting two bonus in a any position(This includes 3 bonus spins too)
-WOL_CONFIG.winning.twoBonus = 10000
+WOL_CONFIG.winning.twoBonus = 20000
 
 //Getting one bonus in a any position(This includes 3 bonus spins too)
-WOL_CONFIG.winning.oneBonus = 5000
+WOL_CONFIG.winning.oneBonus = 10000
 
 //Getting threE raspberrys in a row.
-WOL_CONFIG.winning.threeRaspberry = 2500
+WOL_CONFIG.winning.threeRaspberry = 5000
 
 //Getting three coins in a row
 WOL_CONFIG.winning.threeCoins = 10000
@@ -76,16 +76,16 @@ WOL_CONFIG.winning.twoCoins = 5000
 WOL_CONFIG.winning.threeDiamonds = 20000 
 
 //Getting two diamons in any place
-WOL_CONFIG.winning.twoDiamonds = 7500
+WOL_CONFIG.winning.twoDiamonds = 15000
 
 //Getting one diamond in any place
-WOL_CONFIG.winning.oneDiamonds = 1000  
+WOL_CONFIG.winning.oneDiamonds = 2000  
 
 //Getting three BAR2's in a row
-WOL_CONFIG.winning.threeBar2 = 1750
+WOL_CONFIG.winning.threeBar2 = 5250
 
 //Getting three BAR'S in a row
-WOL_CONFIG.winning.threeBar = 1000
+WOL_CONFIG.winning.threeBar = 3000
 
 //Getting three 7's in a row
 WOL_CONFIG.winning.threeSeven = 3500
