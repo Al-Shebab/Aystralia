@@ -4,15 +4,15 @@ BM2CONFIG = {}
 BM2CONFIG.GeneratorsProduceSound = true
 
 --Dollas a bitcoins sells for. Dont make this too large or it will be too easy to make money
-BM2CONFIG.BitcoinValue = 28000
+BM2CONFIG.BitcoinValue = 30000
 
 --This is a value that when raising or lowering will effect the speed of all bitminers.
 --This is a balanced number and you should only change it if you know you need to. Small increments make big differences
-BM2CONFIG.BaseSpeed = 0.0002
+BM2CONFIG.BaseSpeed = 0.00017
 
 --The higher this number, the faster the generator will loose fuel.
 --You can use this to balance out more so they need to buy fuel more frequently
-BM2CONFIG.BaseFuelDepletionRate = 0.3 --0.9 default
+BM2CONFIG.BaseFuelDepletionRate = 0.4 --0.9 default
 
 
 --This will allow you to change the default generator output level
@@ -24,5 +24,5 @@ BM2CONFIG.GeneratorPowerOutput = 15 --This should only be whole numbers, 10 == 1
 BM2CONFIG.BitminerSpeedMulipliers = {
 	["bitminerS1"] = 1,
 	["bitminerS2"] = 1,
-	["bitminerRack"] = 1
+	["bitminerRack"] = 0.95
 }
