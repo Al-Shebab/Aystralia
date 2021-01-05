@@ -19,10 +19,10 @@ cfg.DisabledModules = {
 }
 
 -- Does everything reset when there is no mayor? (funds, upgrades, taxes)
-cfg.AllResetWhenNoMayor = true
+cfg.AllResetWhenNoMayor = false
 
 -- City funds when the server starts
-cfg.DefaultFunds = 100000
+cfg.DefaultFunds = 250000
 
 -- Max city funds when the server starts
 cfg.DefaultMaxFunds = 250000
@@ -31,10 +31,10 @@ cfg.DefaultMaxFunds = 250000
 cfg.CanMayorWithdrawFromSafe = false
 
 -- MIN/MAX Values that a mayor can give as a bonus
-cfg.MinMaxBonus = {100, 100000}
+cfg.MinMaxBonus = {100, 10000}
 
 -- Max tax that a mayor can set (never set it greater than 100!)
-cfg.MaxTax = 50
+cfg.MaxTax = 75
 
 -- delay between each bonus (seconds)
 cfg.BonusDelay = 600
@@ -84,11 +84,11 @@ cfg.Upgrades[1] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 30000,
+			Price = 3000,
 			Weapons = {"m9k_mp5sd"},
 		},
 		[2] = {
-			Price = 75000,
+			Price = 7500,
 			Weapons = {"m9k_m4a1"},
 		},
 	}
@@ -102,11 +102,11 @@ cfg.Upgrades[2] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 5000,
+			Price = 500,
 			SalaryBonus = 2500
 		},
 		[2] = {
-			Price = 50000,
+			Price = 5000,
 			SalaryBonus = 12000
 		},
 	}
@@ -120,7 +120,7 @@ cfg.Upgrades[3] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 25000,
+			Price = 2500,
 			DefaultArmor = 100
 		},
 	}
