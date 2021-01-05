@@ -596,7 +596,7 @@ GM.Config.AFKDelay = 300
 Hitmenu module
 ---------------------------------------------------------------------------]]
 -- The minimum price for a hit.
-GM.Config.minHitPrice = 10000
+GM.Config.minHitPrice = 100000
 -- The maximum price for a hit.
 GM.Config.maxHitPrice = 500000
 -- The minimum distance between a hitman and his customer when they make the deal.
@@ -606,9 +606,9 @@ GM.Config.hudText = "I am a hitman.\nPress E on me to request a hit!"
 -- The text above a hitman when he's got a hit.
 GM.Config.hitmanText = ""
 -- The cooldown time for a hit target (so they aren't spam killed).
-GM.Config.hitTargetCooldown = 300
+GM.Config.hitTargetCooldown = 1800
 -- How long a customer has to wait to be able to buy another hit (from the moment the hit is accepted).
-GM.Config.hitCustomerCooldown = 300
+GM.Config.hitCustomerCooldown = 600
 
 --[[---------------------------------------------------------------------------
 Hungermod module

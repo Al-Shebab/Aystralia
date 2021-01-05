@@ -545,7 +545,7 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/gman_high.mdl"},
     description = [[Take our your targets for a fee. Can base and raid.]],
-    weapons = {"lockpick", "m9k_m24"},
+    weapons = {"lockpick", "m9k_usp"},
     command = "TEAM_HITMAN",
     max = 1,
     salary = 1250,
@@ -554,9 +554,6 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     hasLicense = true,
     candemote = true,
     category = "Illegal",
-    ammo = {
-        ["SniperRound"] = 20
-    },
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
