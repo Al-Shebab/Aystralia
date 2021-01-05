@@ -170,7 +170,7 @@ GM.Config.printeroverheat               = true
 -- weaponCheckerHideDefault - Hide default weapons when checking weapons.
 GM.Config.weaponCheckerHideDefault      = true
 -- weaponCheckerHideNoLicense - Hide weapons that do not require a license.
-GM.Config.weaponCheckerHideNoLicense    = false
+GM.Config.weaponCheckerHideNoLicense    = true
 
 --[[
 Value settings
@@ -253,11 +253,11 @@ GM.Config.quakechance                   = 4000
 -- respawntime - Minimum amount of seconds a player has to wait before respawning.
 GM.Config.respawntime                   = 15
 -- changejobtime - Minimum amount of seconds a player has to wait before changing job.
-GM.Config.changejobtime                 = 60
+GM.Config.changejobtime                 = 30
 -- runspeed - Sets the max running speed.
 GM.Config.runspeed                      = 240
 -- runspeed - Sets the max running speed for CP teams.
-GM.Config.runspeedcp                    = 240
+GM.Config.runspeedcp                    = 245
 -- searchtime - Number of seconds for which a search warrant is valid.
 GM.Config.searchtime                    = 30
 -- ShipmentSpawnTime - Antispam time between spawning shipments.

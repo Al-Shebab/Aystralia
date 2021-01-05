@@ -43,4 +43,5 @@ GM.NoLicense["weapon_crowbar"]       = true
 GM.NoLicense["weapon_spraymhs"]       = true
 GM.NoLicense["swep_lsd_cellphone"]       = true
 GM.NoLicense["climb_swep2"]       = true
+GM.NoLicense["zfs_knife"]       = true
 
