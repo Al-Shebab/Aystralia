@@ -562,6 +562,12 @@ GM.Config.preventClassItemRemoval = {
 
 -- Properties set to true are allowed to be used. Values set to false or are missing from this list are blocked.
 GM.Config.allowedProperties = {
+    remover = false,
+    ignite = false,
+    extinguish = false,
+    keepupright = false,
+    gravity = false,
+    collision = false,
     skin = true,
     bodygroups = true,
 }
