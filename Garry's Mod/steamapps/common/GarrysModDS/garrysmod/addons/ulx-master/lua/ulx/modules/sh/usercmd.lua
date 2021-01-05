@@ -13,6 +13,7 @@ applyurl = "https://forms.gle/xugZ5v1Xqy4m2tpr9"
 
 addoncommand = "!addons"
 workshopcommand = "!workshop"
+contentcommand = "!content"
 discordcommand = "!discord"
 donatecommand = "!donate"
 rulescommand = "!rules"
@@ -37,6 +38,13 @@ end
 local workshop = ulx.command( CATEGORY_NAME, "ulx workshop", ulx.workshop, workshopcommand )
 workshop:defaultAccess( ULib.ACCESS_ALL )
 workshop:help( "Opens the workshop for the server." )
+
+function ulx.content( calling_ply )
+	calling_ply:SendLua([[gui.OpenURL(addonurl)]])
+end
+local content = ulx.command( CATEGORY_NAME, "ulx content", ulx.content, contentcommand )
+content:defaultAccess( ULib.ACCESS_ALL )
+content:help( "Opens the content for the server." )
 
 function ulx.discord( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(discordurl)]])
