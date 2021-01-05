@@ -15,11 +15,11 @@ OnePrint.Cfg.ServerLimit = {                -- Max servers per printer (dependin
 
 -- Money
 OnePrint.Cfg.MoneyDelay = 5                 -- Cooldown before the printer generates money
-OnePrint.Cfg.ServerIncome = 400              -- Income per server (for 1 server and without any upgrade)
+OnePrint.Cfg.ServerIncome = 200              -- Income per server (for 1 server and without any upgrade)
 OnePrint.Cfg.OverclockingIncome = 25        -- % of income added per level of overclocking
 OnePrint.Cfg.ServerStorage = 500000           -- Max storage per server
 
-OnePrint.Cfg.CPDestroyReward = 20000         -- Reward a CP for destroying a printer [min = 0]
+OnePrint.Cfg.CPDestroyReward = 75000         -- Reward a CP for destroying a printer [min = 0]
 OnePrint.Cfg.CPRewardSelf = false           -- true: CPs are rewarded if they destroy their own printer
 
 -- Upgrades/Shop
