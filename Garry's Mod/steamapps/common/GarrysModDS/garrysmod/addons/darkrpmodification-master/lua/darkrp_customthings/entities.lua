@@ -129,26 +129,12 @@ DarkRP.createEntity("Fuel", {
     CustomCheckFailMsg = "",
 })
 
-DarkRP.createEntity("Ink Money Printer", {
-    ent = "tierp_printer",
-    model = "models/freeman/money_printer.mdl",
-    price = 10000,
-    max = 2,
-    cmd = "tierp_printer",
-    category = "Advanced Money Printers",
-    allowed = {TEAM_MONEY_PRINTER},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_MONEY_PRINTER}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
-DarkRP.createEntity("Ink Money Printer Battery", {
-    ent = "tierp_battery",
-    model = "models/freeman/giant_battery.mdl",
-    price = 5000,
-    max = 2,
-    cmd = "tierp_battery",
-    category = "Advanced Money Printers",
+DarkRP.createEntity( "OnePrint", {
+    ent = "oneprint",
+    model = "models/ogl/ogl_oneprint.mdl",
+    price = 30000,
+    max = 1,
+    cmd = "Advanced Money Printers"
     allowed = {TEAM_MONEY_PRINTER},
     customCheck = function(ply) return
         table.HasValue({TEAM_MONEY_PRINTER}, ply:Team())
