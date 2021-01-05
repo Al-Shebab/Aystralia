@@ -1,1 +1,1 @@
-[]
+[{"Data":{"THC":18.780000686645509,"WeedName":"Nigga patty","Perf_Amount":107.0,"Perf_Time":100.0,"PlantID":2.0,"Perf_THC":158.0,"WeedAmount":136.0,"ZWFOwner":"STEAM_0:1:33775918"},"Class":"zwf_jar"},{"Data":{"THC":31.0,"WeedName":"Dark Devil","Perf_Amount":81.0,"Perf_Time":105.0,"PlantID":7.0,"Perf_THC":103.0,"WeedAmount":78.55000305175781,"ZWFOwner":"nil"},"Class":"zwf_jar"},{"Data":{"THC":31.0,"WeedName":"Dark Devil","Perf_Amount":81.0,"Perf_Time":110.0,"PlantID":7.0,"Perf_THC":110.0,"WeedAmount":200.0,"ZWFOwner":"nil"},"Class":"zwf_jar"}]

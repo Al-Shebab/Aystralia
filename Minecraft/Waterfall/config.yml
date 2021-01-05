@@ -1,3 +1,4 @@
+prevent_proxy_connections: false
 listeners:
 - query_port: 25575
   motd: '&l&bAystralia Network &f| &aSurvival &f| &9Skyblock &f| &7Prison &f| &eCreative'
@@ -29,7 +30,6 @@ log_pings: true
 connection_throttle_limit: 3
 server_connect_timeout: 5000
 timeout: 30000
-stats: cb5a3ba7-6bb2-4fab-a9bc-3fa32b297736
 player_limit: -1
 ip_forward: true
 groups:
@@ -38,7 +38,7 @@ groups:
 remote_ping_timeout: 5000
 connection_throttle: 4000
 log_commands: false
-prevent_proxy_connections: false
+stats: cb5a3ba7-6bb2-4fab-a9bc-3fa32b297736
 online_mode: true
 forge_support: true
 disabled_commands:

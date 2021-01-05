@@ -1,1 +1,1 @@
-[]
+[{"Data":{"SeedID":2.0,"Perf_Amount":100.0,"Perf_Time":100.0,"SeedCount":1.0,"SeedName":"Bubba Kush","Perf_THC":100.0,"ZWFOwner":"nil"},"Class":"zwf_seed"},{"Data":{"SeedID":7.0,"Perf_Amount":100.0,"Perf_Time":100.0,"SeedCount":1.0,"SeedName":"Dark Devil","Perf_THC":100.0,"ZWFOwner":"nil"},"Class":"zwf_seed"},{"Data":{"Amount":6.0,"Contents":10.0,"Class":"m9k_uzi"},"Class":"spawned_shipment"},{"Data":{"Amount":9.0,"Contents":46.0,"Class":"durgz_pcp"},"Class":"spawned_shipment"},{"Data":{"Amount":10.0,"Class":"m9k_m3","Contents":14.0},"Class":"spawned_shipment"}]

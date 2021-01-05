@@ -1,15 +1,15 @@
 "STEAM_0:1:128868430"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"Feeyne"
-	"deny"	
-	{
-	}
-	"group"	"admin"
+	"group"	"donator-admin"
 }
-"STEAM_0:1:59860466"	
+"STEAM_0:1:39582903"	
 {
 	"deny"	
 	{
@@ -17,8 +17,8 @@
 	"allow"	
 	{
 	}
-	"name"	"Xi Jinping"
-	"group"	"trusted"
+	"name"	"callum22122"
+	"group"	"superadmin"
 }
 "STEAM_0:1:146685194"	
 {
@@ -31,27 +31,49 @@
 	}
 	"group"	"trusted"
 }
-"STEAM_0:1:51163583"	
+"STEAM_0:1:188501563"	
 {
-	"name"	"Jacktank"
-	"deny"	
-	{
-	}
 	"allow"	
 	{
 	}
-	"group"	"senior-admin"
-}
-"STEAM_0:0:84012375"	
-{
-	"name"	"TheRealLayth"
+	"name"	"Lord ✘"
 	"deny"	
-	{
-	}
-	"allow"	
 	{
 	}
 	"group"	"moderator"
+}
+"STEAM_0:1:103168662"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Mac Aroni"
+	"group"	"moderator"
+}
+"STEAM_0:0:84012375"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"TheRealLayth"
+	"group"	"admin"
+}
+"STEAM_0:1:59860466"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Johnny Sins"
+	"group"	"trusted"
 }
 "STEAM_0:0:103364981"	
 {
@@ -64,12 +86,23 @@
 	}
 	"group"	"superadmin"
 }
-"STEAM_0:1:188501563"	
+"STEAM_0:1:33775918"	
 {
 	"allow"	
 	{
 	}
-	"name"	"Lord ✘"
+	"name"	"Issac"
+	"deny"	
+	{
+	}
+	"group"	"trial-moderator"
+}
+"STEAM_0:1:97474009"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Carl From Bunnings"
 	"deny"	
 	{
 	}
@@ -97,7 +130,7 @@
 	}
 	"group"	"moderator"
 }
-"STEAM_0:1:39582903"	
+"STEAM_0:1:51163583"	
 {
 	"deny"	
 	{
@@ -105,6 +138,6 @@
 	"allow"	
 	{
 	}
-	"name"	"callum22122"
-	"group"	"superadmin"
+	"name"	"Jacktank"
+	"group"	"senior-admin"
 }

@@ -1,1 +1,1 @@
-[{"Data":{"Amount":10.0,"Contents":20.0,"Class":"m9k_m16a4_acog"},"Class":"spawned_shipment"}]
+[{"Data":{"Amount":10.0,"Contents":20.0,"Class":"m9k_m16a4_acog"},"Class":"spawned_shipment"},{"Data":{"Amount":7.0,"Contents":1.0,"Class":"m9k_colt1911"},"Class":"spawned_shipment"}]

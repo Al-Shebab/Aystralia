@@ -1,1 +1,1 @@
-[]
+[{"Data":{"THC":36.59000015258789,"WeedName":"MUPPET","ZWFOwner":"STEAM_0:0:484745754","WeedAmount":571.0,"WeedID":7.0},"Class":"zwf_weedblock"},{"Data":{"Amount":9.0,"Contents":46.0,"Class":"durgz_pcp"},"Class":"spawned_shipment"},{"Data":{"Amount":8.0,"Contents":41.0,"Class":"durgz_heroine"},"Class":"spawned_shipment"},{"Data":{"Amount":9.0,"Contents":41.0,"Class":"durgz_heroine"},"Class":"spawned_shipment"}]
