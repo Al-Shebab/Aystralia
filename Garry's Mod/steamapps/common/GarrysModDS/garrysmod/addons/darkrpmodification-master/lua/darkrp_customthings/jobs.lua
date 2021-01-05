@@ -507,7 +507,7 @@ TEAM_HACKER = DarkRP.createJob("Hacker", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/aiden_pearce.mdl"},
     description = [[Hack into bases using the keypad cracker. Can base, raid and mug.]],
-    weapons = {"keypad_cracker"},
+    weapons = {"keypad_cracker","lockpick"},
     command = "TEAM_HACKER",
     max = 4,
     salary =750,
@@ -702,6 +702,29 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
     description = [[Raid houses at rapid speed. Can base, raid and mug. Donator ONLY]],
     weapons = {"pro_lockpick"},
     command = "TEAM_PRO_THIEF",
+    max = 4,
+    salary = 1000,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end,
+    customCheck = function(ply) return CLIENT or
+        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
+})
+TEAM_PRO_HACKER = DarkRP.createJob("Pro Hacker", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/anonymous_hacktivist.mdl"},
+    description = [[Get into fading doors at rapid speed. Can base, raid and mug. Donator ONLY]],
+    weapons = {"prokeypadcracker","pro_lockpick"},
+    command = "TEAM_PRO_HACKER",
     max = 4,
     salary = 1000,
     admin = 0,
