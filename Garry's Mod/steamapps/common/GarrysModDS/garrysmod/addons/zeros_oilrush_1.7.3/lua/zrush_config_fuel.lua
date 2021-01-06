@@ -26,8 +26,8 @@ zrush.f.CreateFuelTypes({
 	name = "Regular Petrol",
 	color = Color(211,190,255),
 	vcmodfuel = 0,
-	refineoutput = 0.55,
-	price = 300,
+	refineoutput = 0.75,
+	price = 130,
 	ranks = {}
 })
 
@@ -35,8 +35,8 @@ zrush.f.CreateFuelTypes({
 	name = "Premium Petrol",
 	color = Color(255,236,110),
 	vcmodfuel = 0,
-	refineoutput = 0.25,
-	price = 320,
+	refineoutput = 0.65,
+	price = 150,
 	ranks = {}
 })
 
@@ -44,8 +44,8 @@ zrush.f.CreateFuelTypes({
 	name = "Race Fuel",
 	color = Color(255,227,190),
 	vcmodfuel = 0,
-	refineoutput = 0.55,
-	price = 400,
+	refineoutput = 0.45,
+	price = 200,
 	ranks = {}
 })
 
@@ -54,7 +54,7 @@ zrush.f.CreateFuelTypes({
 	color = Color(248,154,53),
 	vcmodfuel = 0,
 	refineoutput = 0.25,
-	price = 420,
+	price = 350,
 	ranks = {}
 })
 ///////////////////////

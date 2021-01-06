@@ -4,18 +4,6 @@ function zrush.f.CreateOilSource(data)
     return table.insert(zrush.Holes, data)
 end
 
-// Oil Hole Settings
-///////////////////////
-// OilSource Registration
-/*
-	Values for this are
-	Chance (1-100)	     : The Chance of getting this Hole
-	Depth			     : How many pipes it will need
-	Burnchance (1-100)   : how high the chance is that it needs to be burned after hitting the oil
-    oil_amount			 : how much oil is in the Hole
-	gas_amount           : how much gas is in the Hole
-	chaos_chance         : The Chance of the Machine do have a OverHeat/Jam -Event when working on this OilSource (This gets added do the Base OverHeat/Jam -Chance of the machine)
-*/
 
 zrush.f.CreateOilSource({
     chance = 50,
@@ -43,4 +31,3 @@ zrush.f.CreateOilSource({
     gas_amount = math.Round(math.random(500, 1000)),
     chaos_chance = 20
 })
-///////////////////////

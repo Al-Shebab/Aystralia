@@ -125,7 +125,7 @@ zrush.config.FuelBuyer = {
 	RefreshRate = 300,
 
 	//% The Max Sell Multiplicator you can get (100 is the Base Price, More means + Profit , Less means - Profit)
-	MaxBuyRate = 150,
+	MaxBuyRate = 125,
 
 	//% The Min Sell Multiplicator you can get
 	MinBuyRate = 75,
