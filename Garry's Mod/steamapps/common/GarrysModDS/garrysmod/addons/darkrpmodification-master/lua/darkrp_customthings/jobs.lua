@@ -369,7 +369,7 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
         ply:SetArmor(50)
     end,
     customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -395,7 +395,7 @@ TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
         ply:SetArmor(50)
     end,
     customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -421,7 +421,7 @@ TEAM_SWAT_MARKSMAN = DarkRP.createJob("Swat Marksman", {
         ply:SetArmor(0)
     end,
     customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -448,7 +448,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
         ply:SetArmor(50)
     end,
     customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -474,7 +474,7 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
         ply:SetArmor(50)
     end,
     customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -712,7 +712,7 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
         ply:SetArmor(0)
     end,
     customCheck = function(ply) return CLIENT or
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -735,7 +735,7 @@ TEAM_PRO_HACKER = DarkRP.createJob("Pro Hacker", {
         ply:SetArmor(0)
     end,
     customCheck = function(ply) return CLIENT or
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -763,7 +763,7 @@ TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
         DarkRP.notifyAll(0, 4, "The terrorist has died.")
     end,
     customCheck = function(ply) return CLIENT or
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -786,7 +786,7 @@ TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
         ply:SetArmor(0)
     end,
     customCheck = function(ply) return CLIENT or
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
@@ -812,7 +812,7 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
         ply:SetArmor(100)
     end,
     customCheck = function(ply) return CLIENT or
-        table.HasValue({"sydney", "melbourne", "brisbane", "adelaide", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
