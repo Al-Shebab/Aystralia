@@ -103,7 +103,7 @@ zrush.config.MachineBuilder = {
 // 0 = The DrillTower dont needs a oilspots and can be placed everywhere
 // 1 = The DrillTower can only be placed on OilSpots and OilSpots Refresh after use (OilSpots need do be placed by an Admin)
 // 2 = The DrillTower can only be placed on OilSpots which get created at random by a OilSpot Generator. (OilSpot Generator need do be placed by an Admin)
-zrush.config.Drill_Mode = 1
+zrush.config.Drill_Mode = 2
 
 // The Fuel Buyer data
 zrush.config.FuelBuyer = {
@@ -165,10 +165,10 @@ zrush.config.OilSpot = {
 
 zrush.config.OilSpot_Generator = {
 	// The rate in seconds the generator tries do spawn a new OilSpot if possible
-	Rate = 3,
+	Rate = 10,
 
 	// The Max count of valid oilspots a generator can have
-	MaxOilSpots = 3,
+	MaxOilSpots = 5,
 
 	// This is the max time in seconds a oilspot is gonna wait before it gets removed again if its not used by a Player
 	MaxLifeTime = 600,
