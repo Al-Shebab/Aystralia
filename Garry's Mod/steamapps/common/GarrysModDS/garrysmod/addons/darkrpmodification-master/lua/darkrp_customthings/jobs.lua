@@ -190,7 +190,7 @@ TEAM_DOCTER = DarkRP.createJob("Doctor", {
     color = Color(80, 221, 204, 255),
     model = {"models/player/Group03m/male_01.mdl"},
     description = [[Paid good money to help out others in need. Can not raid/mug. Can not use weapons.]],
-    weapons = {"weapon_medkit"},
+    weapons = {"med_kit"},
     command = "TEAM_DOCTER",
     max = 1,
     salary = 2000,
@@ -209,7 +209,7 @@ TEAM_NURSE = DarkRP.createJob("Nurse", {
         "models/player/Group03m/female_03.mdl"
     },
     description = [[Paid decent money to help out others in need. Can not raid/mug. Can not use weapons.]],
-    weapons = {"weapon_medkit"},
+    weapons = {"med_kit"},
     command = "TEAM_NURSE",
     max = 2,
     salary = 800,
