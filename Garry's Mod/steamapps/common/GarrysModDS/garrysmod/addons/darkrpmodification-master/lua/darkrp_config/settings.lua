@@ -410,10 +410,7 @@ GM.Config.CategoryOverride = {
 GM.Config.AdminWeapons = {}
 
 -- These are the default laws, they're unchangeable in-game.
-GM.Config.DefaultLaws = {
-    "Weapons are illegal without a license.",
-    "Money printers and drugs are illegal",
-}
+GM.Config.DefaultLaws = {}
 
 GM.Config.PocketBlacklist = {
     ["zrush_drillhole"] = true,
