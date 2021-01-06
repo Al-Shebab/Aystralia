@@ -43,20 +43,6 @@ JOB_CASINO_SECURITY = DarkRP.createJob("Casino Security", {
     candemote = false,
     category = "Citizens"
 })
-JOB_DISCORD_ADMIN = DarkRP.createJob("Discord Admin", {
-    color = Color(34, 85, 85, 255),
-    model = {"models/boomer/boomer.mdl"},
-    description = [[No memes in #general.]],
-    weapons = {},
-    command = "JOB_DISCORD_ADMIN",
-    max = 4,
-    salary = 600,
-    admin = 0,
-    vote = false,
-    hasLicense = false,
-    candemote = false,
-    category = "Citizens"
-})
 JOB_CASINO_MANAGER = DarkRP.createJob("Casino Manager", {
     color = Color(34, 85, 85, 255),
     model = {"models/player/kleiner.mdl"},
