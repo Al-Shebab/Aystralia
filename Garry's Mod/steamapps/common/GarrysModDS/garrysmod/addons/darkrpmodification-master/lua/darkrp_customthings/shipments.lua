@@ -161,6 +161,17 @@ DarkRP.createShipment("MP9", {
 
 -- Shotguns --
 
+DarkRP.createShipment("Winchester 1897", {
+    model = "models/weapons/w_winchester_1897_trench.mdl",
+    entity = "m9k_1897winchester",
+    amount = 10,
+    price = 100000,
+    separate = false,
+    pricesep = 0,
+    noship = false,
+    category = "Shotguns",
+    allowed = {TEAM_GUN_DEALER}
+})
 DarkRP.createShipment("Benelli M3", {
     model = "models/weapons/w_benelli_m3.mdl",
     entity = "m9k_m3",
@@ -183,7 +194,7 @@ DarkRP.createShipment("Mossberg 590", {
     category = "Shotguns",
     allowed = {TEAM_GUN_DEALER}
 })
-DarkRP.createShipment("Winchester 87", {
+DarkRP.createShipment("Winchester 1887", {
     model = "models/weapons/w_browning_auto.mdl",
     entity = "m9k_1887winchester",
     amount = 10,
@@ -197,17 +208,6 @@ DarkRP.createShipment("Winchester 87", {
 
 -- Rifles --
 
-DarkRP.createShipment("73 Winchester Carbine", {
-    model = "models/weapons/w_winchester_1873.mdl",
-    entity = "m9k_winchester73",
-    amount = 10,
-    price = 250000,
-    separate = false,
-    pricesep = 0,
-    noship = false,
-    category = "Rifles",
-    allowed = {TEAM_GUN_DEALER}
-})
 DarkRP.createShipment("M4A1", {
     model = "models/weapons/w_m4a1_iron.mdl",
     entity = "m9k_m4a1",
