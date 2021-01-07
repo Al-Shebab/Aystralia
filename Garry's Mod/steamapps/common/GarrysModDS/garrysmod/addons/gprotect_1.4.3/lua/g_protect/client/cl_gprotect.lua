@@ -38,10 +38,9 @@ local function openSettingsMenu()
     :Center()
     :addCloseButton()
 	:MakePopup()
-	:setBlur(true)
 
 	for k, v in pairs(gProtect.LoadedModules) do
-		local _, tab = gprotect_menu:addTab(slib.getLang("gprotect", gProtect.config.SelectedLanguage, k))
+		local _, tab = gprotect_menu:addTab(slib.getLang("gprotect", gProtect.config.SelectedLanguage, k), "gprotect/tabs/"..k..".png")
 		tab:SetZPos(gProtect.config.ModuleCoordination[k])
 		
 		local scroller = vgui.Create("SScrollPanel", tab:getFrame())
@@ -142,7 +141,6 @@ local function openSettingsMenu()
 		if k ~= "general" then
 			local search = vgui.Create("SSearchBar", tab:getFrame())
 			search:addIcon()
-			search:DockMargin(0,0,0,0)
 			
 			search.entry.onValueChange = function(newval)
 				for k,v in pairs(scroller:GetCanvas():GetChildren()) do

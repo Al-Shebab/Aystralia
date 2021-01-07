@@ -51,7 +51,7 @@ if numpad and !gProtect.Overridden["numpad"] then
 
         if result and isfunction(result) then func = result end
 
-        oldRegister(name, func)    
+        oldRegister(name, func)
     end
 
     gProtect.Overridden["numpad"] = true
@@ -63,6 +63,7 @@ if !gProtect.Overridden["physobj"] then
     local oldEnableMotion = physobj.EnableMotion
 
     function physobj:EnableMotion(boolean)
+        if !IsValid(self) then return end
         oldEnableMotion(self, boolean)
 
         hook.Run("MotionChanged", self, boolean)
