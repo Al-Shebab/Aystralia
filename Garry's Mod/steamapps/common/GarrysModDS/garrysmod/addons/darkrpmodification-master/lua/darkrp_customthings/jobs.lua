@@ -172,7 +172,7 @@ TEAM_SECURITY_GUARD = DarkRP.createJob("Security Guard", {
     candemote = false,
     category = "Services"
 })
-TEAM_DOCTER = DarkRP.createJob("Doctor", {
+TEAM_DOCTER = DarkRP.createJob("Medic", {
     color = Color(80, 221, 204, 255),
     model = {"models/player/Group03m/male_01.mdl"},
     description = [[Paid good money to help out others in need. Can not raid/mug. Can not use weapons.]],
@@ -180,25 +180,6 @@ TEAM_DOCTER = DarkRP.createJob("Doctor", {
     command = "TEAM_DOCTER",
     max = 1,
     salary = 2000,
-    admin = 0,
-    vote = false,
-    medic = true,
-    hasLicense = false,
-    candemote = false,
-    category = "Services"
-})
-TEAM_NURSE = DarkRP.createJob("Nurse", {
-    color = Color(80, 221, 204, 255),
-    model = {
-        "models/player/Group03m/female_02.mdl",
-        "models/player/Group03m/female_01.mdl",
-        "models/player/Group03m/female_03.mdl"
-    },
-    description = [[Paid decent money to help out others in need. Can not raid/mug. Can not use weapons.]],
-    weapons = {"med_kit"},
-    command = "TEAM_NURSE",
-    max = 2,
-    salary = 800,
     admin = 0,
     vote = false,
     medic = true,

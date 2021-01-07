@@ -27,7 +27,7 @@ zrush.f.CreateFuelTypes({
 	color = Color(211,190,255),
 	vcmodfuel = 0,
 	refineoutput = 0.75,
-	price = 150,
+	price = 120,
 	ranks = {}
 })
 
@@ -36,7 +36,7 @@ zrush.f.CreateFuelTypes({
 	color = Color(255,236,110),
 	vcmodfuel = 0,
 	refineoutput = 0.65,
-	price = 170,
+	price = 150,
 	ranks = {}
 })
 
@@ -45,7 +45,7 @@ zrush.f.CreateFuelTypes({
 	color = Color(255,227,190),
 	vcmodfuel = 0,
 	refineoutput = 0.45,
-	price = 220,
+	price = 190,
 	ranks = {}
 })
 
@@ -54,7 +54,7 @@ zrush.f.CreateFuelTypes({
 	color = Color(248,154,53),
 	vcmodfuel = 0,
 	refineoutput = 0.25,
-	price = 370,
+	price = 340,
 	ranks = {}
 })
 ///////////////////////
