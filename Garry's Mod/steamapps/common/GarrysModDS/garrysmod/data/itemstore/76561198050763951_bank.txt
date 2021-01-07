@@ -1,0 +1,1 @@
+[{"Data":{"Amount":5.0,"Clip1":6.0,"Ammo":174.0,"Class":"m9k_coltpython","Model":"models/weapons/w_colt_python.mdl"},"Class":"spawned_weapon"}]

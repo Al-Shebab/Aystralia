@@ -1,0 +1,485 @@
+L 12/29/2020 - 00:41:12: Log file started (file "logs\L1229001.log") (game "C:\Users\Administrator\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\garrysmod") (version "7891")
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_noclip" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxprops" "150"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxragdolls" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxnpcs" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxballoons" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxeffects" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxdynamite" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxlamps" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxthrusters" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxwheels" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxhoverballs" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxvehicles" "1"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxbuttons" "10"
+L 12/29/2020 - 00:41:12: server_cvar: "sbox_maxemitters" "0"
+L 12/29/2020 - 00:41:12: server_cvar: "sv_airaccelerate" "1000"
+L 12/29/2020 - 00:41:15: Connection to Steam servers successful.
+L 12/29/2020 - 00:41:15:    Public IP is 134.255.252.243.
+L 12/29/2020 - 00:41:15: Assigned anonymous gameserver Steam ID [A-1:873489413(16187)].
+L 12/29/2020 - 00:41:15: VAC secure mode is activated.
+L 12/29/2020 - 00:41:16: AWarn: Message Table Exists
+L 12/29/2020 - 00:41:16: AWarn: Player Data Table Exists
+L 12/29/2020 - 00:41:16: AWarn: Offline Player Data Table Exists
+L 12/29/2020 - 00:41:21: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 00:46:39: "Al Shebab<2><STEAM_0:0:103364981><>" connected, address "202.7.195.60:27005"
+L 12/29/2020 - 00:46:39: "Al Shebab<2><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/29/2020 - 00:48:53: "Al Shebab<2><STEAM_0:0:103364981><>" entered the game
+L 12/29/2020 - 01:11:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 01:41:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 02:11:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 02:41:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 03:11:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 03:41:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 04:11:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 04:41:31: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 04:50:55: [ULX] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/tdmcars/sl65amg.mdl
+L 12/29/2020 - 04:50:59: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "sl65amgtdm "
+
+L 12/29/2020 - 04:52:28: "brexit<3><STEAM_0:1:121087763><>" connected, address "45.133.4.104:27005"
+L 12/29/2020 - 04:52:28: "brexit<3><STEAM_0:1:121087763><>" STEAM USERID validated
+L 12/29/2020 - 04:52:58: "Jacktank<4><STEAM_0:1:51163583><>" connected, address "119.18.1.50:25469"
+L 12/29/2020 - 04:52:59: "Jacktank<4><STEAM_0:1:51163583><>" STEAM USERID validated
+L 12/29/2020 - 04:53:28: "brexit<3><STEAM_0:1:121087763><>" entered the game
+L 12/29/2020 - 04:54:55: "Jacktank<4><STEAM_0:1:51163583><>" entered the game
+L 12/29/2020 - 04:58:54: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "/setspawn TEAM_MUTANT"
+
+L 12/29/2020 - 04:59:03: "Al Shebab<2><STEAM_0:0:103364981><Citizen>" say "/setspawn TEAM_MUTANT_KING"
+
+L 12/29/2020 - 04:59:45: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_nuke
+L 12/29/2020 - 04:59:48: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_nuke
+L 12/29/2020 - 04:59:53: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:54: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. MakeEnt - lua/wire/stools/detonator.lua:19
+    3. LeftClick_Make - lua/wire/tool_loader.lua:56
+     4. LeftClick - lua/wire/tool_loader.lua:37
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 04:59:54: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:55: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:55: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:55: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:55: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:56: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:56: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 04:59:56: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. MakeEnt - lua/wire/stools/detonator.lua:19
+    3. LeftClick_Make - lua/wire/tool_loader.lua:56
+     4. LeftClick - lua/wire/tool_loader.lua:37
+      5. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 04:59:57: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:00:21: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:00:30: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:31: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:31: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:31: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:31: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:31: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:31: [ULX] brexit<STEAM_0:1:121087763> spawned sent m9k_ammo_40mm_single
+L 12/29/2020 - 05:00:35: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:00:45: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:00:45: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:01:49: [ULX] Al Shebab kicked Red Hairline
+L 12/29/2020 - 05:01:49: "Al Shebab<2><STEAM_0:0:103364981><DJ>" say "!kick red"
+
+L 12/29/2020 - 05:01:49: "Jacktank<4><STEAM_0:1:51163583><>" disconnected (reason "Kicked by Al Shebab(STEAM_0:0:103364981)")
+L 12/29/2020 - 05:01:56: "Jacktank<5><STEAM_0:1:51163583><>" connected, address "119.18.1.50:25469"
+L 12/29/2020 - 05:01:56: "Jacktank<5><STEAM_0:1:51163583><>" STEAM USERID validated
+L 12/29/2020 - 05:02:12: "Al Shebab<2><STEAM_0:0:103364981><DJ>" say "!stopsound"
+
+L 12/29/2020 - 05:02:15: [ULX] Al Shebab stopped sounds
+L 12/29/2020 - 05:02:15: "Al Shebab<2><STEAM_0:0:103364981><DJ>" say "!stopsounds"
+
+L 12/29/2020 - 05:02:30: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!goto red"
+
+L 12/29/2020 - 05:02:44: "Jacktank<5><STEAM_0:1:51163583><>" entered the game
+L 12/29/2020 - 05:07:53: Player [3][Jacktank] is arming a dupe, size: 4173
+L 12/29/2020 - 05:07:55: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:08:12: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:08:55: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:09:15: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!3p"
+
+L 12/29/2020 - 05:09:16: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:09:24: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:09:36: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:09:47: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:09:53: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!3p"
+
+L 12/29/2020 - 05:09:58: [ULX] Al Shebab granted god mode upon Themself
+L 12/29/2020 - 05:09:58: "Al Shebab<2><STEAM_0:0:103364981><DJ>" say "!god"
+
+L 12/29/2020 - 05:10:00: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:10:41: [ULX] brexit revoked god mode from Al Shebab
+L 12/29/2020 - 05:10:41: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!ungod al"
+
+L 12/29/2020 - 05:10:50: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube05x05x025.mdl
+L 12/29/2020 - 05:10:50: Player [3][Jacktank] is arming a dupe, size: 6889
+L 12/29/2020 - 05:10:53: Player [3][Jacktank] is arming a dupe, size: 6889
+L 12/29/2020 - 05:10:55: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+L 12/29/2020 - 05:10:56: [ULX] brexit cleared decals
+L 12/29/2020 - 05:10:56: "brexit<3><STEAM_0:1:121087763><Citizen>" say "!cleardecals"
+
+L 12/29/2020 - 05:11:04: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+L 12/29/2020 - 05:11:16: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+L 12/29/2020 - 05:11:27: [ULX] brexit<STEAM_0:1:121087763> spawned model models/cranes/crane_frame.mdl
+L 12/29/2020 - 05:11:30: [ULX] brexit<STEAM_0:1:121087763> spawned model models/cranes/crane_frame.mdl
+L 12/29/2020 - 05:11:31: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+L 12/29/2020 - 05:11:32: Player [3][Jacktank] is arming a dupe, size: 19675
+L 12/29/2020 - 05:11:33: AWarn: Your server info has been updated to the online statistics tracking
+L 12/29/2020 - 05:11:38: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/blocks/cube025x3x025.mdl
+L 12/29/2020 - 05:11:39: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/weapons/w_smg_mp5.mdl
+L 12/29/2020 - 05:11:39: [ULX] Red Hairline<STEAM_0:1:51163583> spawned vehicle models/nova/chair_office02.mdl
+L 12/29/2020 - 05:12:06: Player [3][Jacktank] is arming a dupe, size: 12051
+L 12/29/2020 - 05:12:08: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:08: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/windows/window1x1.mdl
+L 12/29/2020 - 05:12:08: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate025x1.mdl
+L 12/29/2020 - 05:12:08: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/phxtended/bar1x.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1x2.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1x2.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/misc/platehole1x1a.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_plate1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/squad/sf_plates/sf_plate4x4.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/phxtended/bar1x.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/mechanics/robotics/b1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate025x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1x1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/hunter/plates/plate1.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/venompapa/wirecd_small.mdl
+L 12/29/2020 - 05:12:53: Player [3][Jacktank] is arming a dupe, size: 3220
+L 12/29/2020 - 05:13:02: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+L 12/29/2020 - 05:13:02: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_angle360.mdl
+L 12/29/2020 - 05:13:03: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_phx/construct/metal_angle360.mdl
+L 12/29/2020 - 05:13:33: Player [3][Jacktank] is arming a dupe, size: 13911
+L 12/29/2020 - 05:13:34: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+L 12/29/2020 - 05:13:34: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+L 12/29/2020 - 05:13:35: Player [3][Jacktank] is arming a dupe, size: 13911
+L 12/29/2020 - 05:14:10: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+L 12/29/2020 - 05:14:10: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/xqm/polex1.mdl
+L 12/29/2020 - 05:14:11: Player [3][Jacktank] is arming a dupe, size: 15926
+L 12/29/2020 - 05:14:36: Player [3][Jacktank] is arming a dupe, size: 17494
+L 12/29/2020 - 05:14:37: Player [3][Jacktank] is arming a dupe, size: 17494
+L 12/29/2020 - 05:14:44: Player [3][Jacktank] is arming a dupe, size: 17494
+L 12/29/2020 - 05:14:54: "Al Shebab<2><STEAM_0:0:103364981><>" disconnected (reason "Disconnect by user.")
+L 12/29/2020 - 05:17:27: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+L 12/29/2020 - 05:17:31: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:33: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:34: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:34: "models/bull/gates/capacitor_mini.mdl" is already in the black/whitelistL 12/29/2020 - 05:17:35: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:38: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:40: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:44: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:47: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:47: "models/bull/gates/microcontroller1_mini.mdl" is already in the black/whitelistL 12/29/2020 - 05:17:48: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:49: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:49: "models/bull/gates/microcontroller2.mdl" is already in the black/whitelistL 12/29/2020 - 05:17:51: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:52: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:54: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:56: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:57: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:57: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:58: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:17:58: "models/bull/gates/transistor2.mdl" is already in the black/whitelistL 12/29/2020 - 05:17:59: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:00: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:00: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:01: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:02: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:03: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:03: "models/jaanus/wiretool/wiretool_controlchip.mdl" is already in the black/whitelistL 12/29/2020 - 05:18:03: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:04: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:05: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:05: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:06: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:18: Lua Error: 
+[Blacklist Props Tool[FPP & DPP]] RunConsoleCommand: Command has invalid characters! (dpp_addblockedmodel  (' '))
+	The first parameter of this function should contain only the command, the second parameter should contain arguments.
+
+  1. LeftClick - lua/weapons/gmod_tool/stools/blacklistprops.lua:28
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 12/29/2020 - 05:18:38: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:18:53: Player [3][Jacktank] is arming a dupe, size: 7117
+L 12/29/2020 - 05:18:54: Player [3][Jacktank] is arming a dupe, size: 2758
+L 12/29/2020 - 05:18:57: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:08: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:08: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:09: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:15: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:16: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:18: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:19: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:20: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:22: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:23: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:24: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:25: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:26: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:27: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:28: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:29: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:30: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:31: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:32: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:33: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:34: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:35: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:36: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:37: [ULX] Red Hairline<STEAM_0:1:51163583> spawned model models/props_combine/breendesk.mdl
+L 12/29/2020 - 05:19:3

@@ -8,16 +8,32 @@
 		"Perf_THC": 100.0
 	},
 	{
-		"Weed_ID": 4.0,
-		"Weed_Name": "AK-47",
+		"Weed_ID": 1.0,
+		"Weed_Name": "Homophobia",
+		"Perf_Amount": 96.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 114.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "O.G. Kush",
 		"Perf_Amount": 100.0,
 		"Perf_Time": 100.0,
-		"SeedCount": 2.0,
+		"SeedCount": 5.0,
 		"Perf_THC": 100.0
 	},
 	{
 		"Weed_ID": 7.0,
 		"Weed_Name": "Dark Devil",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "O.G. Kush",
 		"Perf_Amount": 100.0,
 		"Perf_Time": 100.0,
 		"SeedCount": 1.0,

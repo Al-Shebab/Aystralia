@@ -1,0 +1,1285 @@
+L 01/03/2021 - 05:36:23: Log file started (file "logs\L0103000.log") (game "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\garrysmod") (version "7891")
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_noclip" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxprops" "100"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxragdolls" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxnpcs" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxballoons" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxeffects" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxdynamite" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxlamps" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxthrusters" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxwheels" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxhoverballs" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxvehicles" "1"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxbuttons" "10"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxemitters" "0"
+L 01/03/2021 - 05:36:23: server_cvar: "sbox_maxtextscreens" "5"
+L 01/03/2021 - 05:36:23: server_cvar: "sv_airaccelerate" "1000"
+L 01/03/2021 - 05:36:24: Connection to Steam servers successful.
+L 01/03/2021 - 05:36:24:    Public IP is 139.99.208.69.
+L 01/03/2021 - 05:36:24: Assigned persistent gameserver Steam ID [G-1:3955559].
+L 01/03/2021 - 05:36:24: VAC secure mode is activated.
+L 01/03/2021 - 05:36:25: AWarn: Message Table Exists
+L 01/03/2021 - 05:36:25: AWarn: Player Data Table Exists
+L 01/03/2021 - 05:36:25: AWarn: Offline Player Data Table Exists
+L 01/03/2021 - 05:36:29: "Mr. Lert☀<2><STEAM_0:0:74726177><>" connected, address "119.76.15.225:27005"
+L 01/03/2021 - 05:36:29: "Carl From Bunnings<3><STEAM_0:1:97474009><>" connected, address "139.130.216.8:27005"
+L 01/03/2021 - 05:36:29: "Mr. Lert☀<2><STEAM_0:0:74726177><>" STEAM USERID validated
+L 01/03/2021 - 05:36:29: "Carl From Bunnings<3><STEAM_0:1:97474009><>" STEAM USERID validated
+L 01/03/2021 - 05:36:33: "Al Shebab<4><STEAM_0:0:103364981><>" connected, address "220.245.134.97:27005"
+L 01/03/2021 - 05:36:33: "Al Shebab<4><STEAM_0:0:103364981><>" STEAM USERID validated
+L 01/03/2021 - 05:36:34: AWarn: Your server info has been updated to the online statistics tracking
+L 01/03/2021 - 05:36:58: "Jaems™<5><STEAM_0:0:578081804><>" connected, address "136.158.11.220:37938"
+L 01/03/2021 - 05:36:59: "Jaems™<5><STEAM_0:0:578081804><>" STEAM USERID validated
+L 01/03/2021 - 05:36:59: "Johnny Sins<6><STEAM_0:1:59860466><>" connected, address "118.208.18.61:27005"
+L 01/03/2021 - 05:36:59: "Johnny Sins<6><STEAM_0:1:59860466><>" STEAM USERID validated
+L 01/03/2021 - 05:37:09: "Mr. Lert☀<2><STEAM_0:0:74726177><>" entered the game
+L 01/03/2021 - 05:37:10: "Al Shebab<4><STEAM_0:0:103364981><>" entered the game
+L 01/03/2021 - 05:37:11: "brexit<7><STEAM_0:1:121087763><>" connected, address "45.67.96.161:27005"
+L 01/03/2021 - 05:37:11: "brexit<7><STEAM_0:1:121087763><>" STEAM USERID validated
+L 01/03/2021 - 05:37:25: "Zachery<8><STEAM_0:0:104081337><>" connected, address "123.100.41.26:27005"
+L 01/03/2021 - 05:37:25: "Zachery<8><STEAM_0:0:104081337><>" STEAM USERID validated
+L 01/03/2021 - 05:37:32: "Jaems™<5><STEAM_0:0:578081804><>" entered the game
+L 01/03/2021 - 05:37:50: "Johnny Sins<6><STEAM_0:1:59860466><>" entered the game
+L 01/03/2021 - 05:37:51: "Snoop dawg<2><STEAM_0:0:74726177><Citizen>" say "only 3 ppl?"
+
+L 01/03/2021 - 05:38:01: "Zachery<8><STEAM_0:0:104081337><>" entered the game
+L 01/03/2021 - 05:38:06: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "hello again man"
+
+L 01/03/2021 - 05:38:15: "brexit<7><STEAM_0:1:121087763><>" entered the game
+L 01/03/2021 - 05:38:32: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "remember me?"
+
+L 01/03/2021 - 05:38:34: "Xi Jinping<6><STEAM_0:1:59860466><Citizen>" say "ye"
+
+L 01/03/2021 - 05:38:37: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "yeahhhh"
+
+L 01/03/2021 - 05:38:39: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "hit?"
+
+L 01/03/2021 - 05:38:57: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah imgoin to get in trouble"
+
+L 01/03/2021 - 05:39:09: "brexit<7><STEAM_0:1:121087763><Citizen>" say "!workshop"
+
+L 01/03/2021 - 05:39:19: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol"
+
+L 01/03/2021 - 05:39:33: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "nice"
+
+L 01/03/2021 - 05:39:56: "Zachery<8><STEAM_0:0:104081337><Citizen>" say "/name John F. Kennedy"
+
+L 01/03/2021 - 05:39:57: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "nice smok"
+
+L 01/03/2021 - 05:40:19: "John Stone<8><STEAM_0:0:104081337><Citizen>" say "/name John Stone"
+
+L 01/03/2021 - 05:40:23: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "wait is eshay a update?"
+
+L 01/03/2021 - 05:40:31: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "i've never seen this"
+
+L 01/03/2021 - 05:40:53: "Carl From Bunnings<3><STEAM_0:1:97474009><>" entered the game
+L 01/03/2021 - 05:41:07: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah man im covered with smoke"
+
+L 01/03/2021 - 05:41:47: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Hey Xi maybe u can be mayor"
+
+L 01/03/2021 - 05:41:52: "Xi Jinping<6><STEAM_0:1:59860466><Police Officer>" say "maybe"
+
+L 01/03/2021 - 05:41:53: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "make the "RULES""
+
+L 01/03/2021 - 05:42:05: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ill press yes"
+
+L 01/03/2021 - 05:42:09: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah man what is this?"
+
+L 01/03/2021 - 05:42:33: "Xi Jinping<6><STEAM_0:1:59860466><Police Officer>" say "can i be trusted"
+
+L 01/03/2021 - 05:42:47: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "being hitman=fun moneyprinter=rich but boring"
+
+L 01/03/2021 - 05:43:28: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "\"
+
+L 01/03/2021 - 05:43:34: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "i want sum mayor its fun having mayor"
+
+L 01/03/2021 - 05:44:16: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Lol"
+
+L 01/03/2021 - 05:44:25: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "anyone wanna hit?"
+
+L 01/03/2021 - 05:44:27: "brexit<7><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 01/03/2021 - 05:44:29: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "tell me"
+
+L 01/03/2021 - 05:45:50: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Yeah"
+
+L 01/03/2021 - 05:46:03: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "why is the fall damage so extreme"
+
+L 01/03/2021 - 05:46:03: "brexit<7><STEAM_0:1:121087763><Citizen>" say "!menu"
+
+L 01/03/2021 - 05:46:07: "Al Shebab<4><STEAM_0:0:103364981><Eshay>" say "fixing"
+
+L 01/03/2021 - 05:46:17: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "hey follow me"
+
+L 01/03/2021 - 05:46:22: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Xi"
+
+L 01/03/2021 - 05:46:27: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Be mayor ill press yes"
+
+L 01/03/2021 - 05:47:09: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "yeahh"
+
+L 01/03/2021 - 05:47:13: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "yeeeeeeeeee"
+
+L 01/03/2021 - 05:47:21: "thewoodsamiright?<9><STEAM_0:0:538693245><>" connected, address "124.168.172.25:27005"
+L 01/03/2021 - 05:47:22: "thewoodsamiright?<9><STEAM_0:0:538693245><>" STEAM USERID validated
+L 01/03/2021 - 05:47:47: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "hey wanna hitm an?"
+
+L 01/03/2021 - 05:47:49: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "ok"
+
+L 01/03/2021 - 05:47:49: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "man*"
+
+L 01/03/2021 - 05:47:53: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ok choose one"
+
+L 01/03/2021 - 05:48:03: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "press e"
+
+L 01/03/2021 - 05:48:11: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "man nice smoke"
+
+L 01/03/2021 - 05:48:24: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 05:48:28: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 05:48:38: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "thx man"
+
+L 01/03/2021 - 05:48:40: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lel"
+
+L 01/03/2021 - 05:48:52: "Mike Lui<3><STEAM_0:1:97474009><Eshay>" say "give weed"
+
+L 01/03/2021 - 05:48:56: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "i have meth"
+
+L 01/03/2021 - 05:48:59: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "want it?"
+
+L 01/03/2021 - 05:49:04: "Mike Lui<3><STEAM_0:1:97474009><Eshay>" say "fucken want some weed cunt"
+
+L 01/03/2021 - 05:49:08: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "i have weed bitch"
+
+L 01/03/2021 - 05:49:09: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ok man"
+
+L 01/03/2021 - 05:49:10: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "cmere"
+
+L 01/03/2021 - 05:49:12: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Lol"
+
+L 01/03/2021 - 05:49:18: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "bitch go get weed"
+
+L 01/03/2021 - 05:49:22: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 05:49:25: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 05:49:38: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "2k for weed"
+
+L 01/03/2021 - 05:49:43: "Mike Lui<3><STEAM_0:1:97474009><Eshay>" say "/dropmoney 2000"
+
+L 01/03/2021 - 05:50:13: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "GIVE BACK THE WEEd"
+
+L 01/03/2021 - 05:50:25: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "/ooc oh fuck sorry"
+
+L 01/03/2021 - 05:50:30: "Mike Lui<3><STEAM_0:1:97474009><Eshay>" say "my weed"
+
+L 01/03/2021 - 05:50:32: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol"
+
+L 01/03/2021 - 05:51:40: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "we good?"
+
+L 01/03/2021 - 05:51:42: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "yee"
+
+L 01/03/2021 - 05:51:44: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ok man"
+
+L 01/03/2021 - 05:51:59: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "duuuuuuuuuuudeeeeeeee"
+
+L 01/03/2021 - 05:52:16: Lua Error: 
+[Wiremod] lua/wire/tool_loader.lua:66: attempt to index local 'ent' (a boolean value)
+  1. MakeEnt - lua/wire/tool_loader.lua:66
+   2. LeftClick_Make - lua/wire/tool_loader.lua:56
+    3. LeftClick - lua/wire/tool_loader.lua:37
+     4. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 05:52:26: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Yeahh weed is nice"
+
+L 01/03/2021 - 05:52:39: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "everything is blurry"
+
+L 01/03/2021 - 05:53:04: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "/drop"
+
+L 01/03/2021 - 05:53:04: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah is effect is gone"
+
+L 01/03/2021 - 05:53:11: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "the effect*"
+
+L 01/03/2021 - 05:53:36: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "knife fight"
+
+L 01/03/2021 - 05:53:43: "thewoodsamiright?<9><STEAM_0:0:538693245><>" entered the game
+L 01/03/2021 - 05:53:46: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "/y alright"
+
+L 01/03/2021 - 05:54:02: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "wow"
+
+L 01/03/2021 - 05:54:06: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "nice job xi"
+
+L 01/03/2021 - 05:54:14: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "MAN"
+
+L 01/03/2021 - 05:54:15: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "y"
+
+L 01/03/2021 - 05:54:18: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "y"
+
+L 01/03/2021 - 05:54:23: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "why u shot me"
+
+L 01/03/2021 - 05:54:27: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah sorry man"
+
+L 01/03/2021 - 05:54:29: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "we where having a friendly knife fight"
+
+L 01/03/2021 - 05:54:35: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol ok man Xd"
+
+L 01/03/2021 - 05:54:52: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "hit?"
+
+L 01/03/2021 - 05:55:07: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah man"
+
+L 01/03/2021 - 05:55:20: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "knife fight?"
+
+L 01/03/2021 - 05:55:27: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!hp greg 100"
+
+L 01/03/2021 - 05:55:32: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "gogoggoogo"
+
+L 01/03/2021 - 05:55:37: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "i cheer brexit"
+
+L 01/03/2021 - 05:55:43: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "fightos"
+
+L 01/03/2021 - 05:55:45: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "um"
+
+L 01/03/2021 - 05:55:47: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "oof"
+
+L 01/03/2021 - 05:55:48: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "gg"
+
+L 01/03/2021 - 05:55:49: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "yay?"
+
+L 01/03/2021 - 05:55:58: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "again?"
+
+L 01/03/2021 - 05:56:04: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!hp ^ 100"
+
+L 01/03/2021 - 05:56:16: "brexit<7><STEAM_0:1:121087763><Eshay>" say "haha"
+
+L 01/03/2021 - 05:56:23: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "sniper fight?"
+
+L 01/03/2021 - 05:56:39: "thewoodsamiright?<9><STEAM_0:0:538693245><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 05:56:44: "brexit<7><STEAM_0:1:121087763><Eshay>" say "// sorrry"
+
+L 01/03/2021 - 05:56:49: "brexit<7><STEAM_0:1:121087763><Eshay>" say "// tell me when"
+
+L 01/03/2021 - 05:56:52: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ok man"
+
+L 01/03/2021 - 05:57:00: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "start now"
+
+L 01/03/2021 - 05:57:05: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "i will glass ya brah"
+
+L 01/03/2021 - 05:57:11: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "fack off cunt"
+
+L 01/03/2021 - 05:57:14: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol nice"
+
+L 01/03/2021 - 05:57:36: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "afk"
+
+L 01/03/2021 - 05:58:35: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "bac"
+
+L 01/03/2021 - 05:58:53: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "there is a lot of eshay"
+
+L 01/03/2021 - 05:58:57: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "knife fight"
+
+L 01/03/2021 - 05:59:14: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "nice job"
+
+L 01/03/2021 - 05:59:24: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "/ooc how the fuck did u throw the knife?"
+
+L 01/03/2021 - 05:59:42: "Al Shebab<4><STEAM_0:0:103364981><Eshay>" say "!god"
+
+L 01/03/2021 - 05:59:47: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol"
+
+L 01/03/2021 - 05:59:49: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "/y alluah akbar"
+
+L 01/03/2021 - 06:00:11: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "/y boom"
+
+L 01/03/2021 - 06:01:01: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "nuce"
+
+L 01/03/2021 - 06:01:05: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Xd"
+
+L 01/03/2021 - 06:01:17: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "how do i throw the knife?"
+
+L 01/03/2021 - 06:01:21: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "idk"
+
+L 01/03/2021 - 06:01:29: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "but iwant"
+
+L 01/03/2021 - 06:01:34: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "more hits"
+
+L 01/03/2021 - 06:01:41: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol"
+
+L 01/03/2021 - 06:01:48: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "hitman should have a pistol instead  of a sniper"
+
+L 01/03/2021 - 06:01:50: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 06:01:52: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "nahh"
+
+L 01/03/2021 - 06:01:53: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "sniper is fucken op"
+
+L 01/03/2021 - 06:02:02: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Hitman is like 47"
+
+L 01/03/2021 - 06:02:07: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "he needs niper for "
+
+L 01/03/2021 - 06:02:12: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "sniper stealth*"
+
+L 01/03/2021 - 06:02:23: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "hitman should have the beretta"
+
+L 01/03/2021 - 06:02:27: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "nah"
+
+L 01/03/2021 - 06:02:30: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "yah"
+
+L 01/03/2021 - 06:02:31: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "sniper is ok"
+
+L 01/03/2021 - 06:02:44: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "if u are hitman you would want snipe"
+
+L 01/03/2021 - 06:02:46: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "r"
+
+L 01/03/2021 - 06:02:58: "James Greg<5><STEAM_0:0:578081804><Eshay>" say "sniper OP tho"
+
+L 01/03/2021 - 06:03:06: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "yeah but he cant kill everyone"
+
+L 01/03/2021 - 06:03:09: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "he needs hit"
+
+L 01/03/2021 - 06:03:10: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "ur a bin head"
+
+L 01/03/2021 - 06:03:14: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol"
+
+L 01/03/2021 - 06:03:16: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "haha"
+
+L 01/03/2021 - 06:03:41: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "man gimme hit"
+
+L 01/03/2021 - 06:03:48: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "im bored"
+
+L 01/03/2021 - 06:03:59: "Al Shebab<4><STEAM_0:0:103364981><Eshay>" say "!ulx adduser brexit superadmin"
+
+L 01/03/2021 - 06:04:10: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "I ned to keal"
+
+L 01/03/2021 - 06:04:26: "Jaems™<5><STEAM_0:0:578081804><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:05:14: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "afk"
+
+L 01/03/2021 - 06:06:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/03/2021 - 06:07:37: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "bac"
+
+L 01/03/2021 - 06:07:54: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "fist fight?"
+
+L 01/03/2021 - 06:07:56: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "kill him"
+
+L 01/03/2021 - 06:08:01: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "here"
+
+L 01/03/2021 - 06:08:06: "Xi Jinping<6><STEAM_0:1:59860466><Police Chief>" say "snoop"
+
+L 01/03/2021 - 06:08:29: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "noice"
+
+L 01/03/2021 - 06:08:36: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "i got money"
+
+L 01/03/2021 - 06:08:42: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "ah lol"
+
+L 01/03/2021 - 06:09:04: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "LOL"
+
+L 01/03/2021 - 06:09:06: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "/unarrest shebab"
+
+L 01/03/2021 - 06:09:24: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "acac"
+
+L 01/03/2021 - 06:09:25: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!atag"
+
+L 01/03/2021 - 06:09:28: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!atags"
+
+L 01/03/2021 - 06:09:43: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!atags"
+
+L 01/03/2021 - 06:10:27: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!atags"
+
+L 01/03/2021 - 06:10:42: "Mr. Steal Your Diamonds<10><STEAM_0:1:100590082><>" connected, address "121.200.4.44:13237"
+L 01/03/2021 - 06:10:43: "Mr. Steal Your Diamonds<10><STEAM_0:1:100590082><>" STEAM USERID validated
+L 01/03/2021 - 06:11:00: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!atags"
+
+L 01/03/2021 - 06:11:15: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:11:30: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "acas"
+
+L 01/03/2021 - 06:11:31: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:11:41: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:11:42: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:11:52: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:11:57: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:12:02: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:12:07: "Sersan. Roze (Alex's Tentara)<11><STEAM_0:0:116374287><>" connected, address "115.70.250.130:27005"
+L 01/03/2021 - 06:12:07: "Sersan. Roze (Alex's Tentara)<11><STEAM_0:0:116374287><>" STEAM USERID validated
+L 01/03/2021 - 06:12:21: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "afk"
+
+L 01/03/2021 - 06:12:21: "Sersan. Roze (Alex's Tentara)<11><STEAM_0:0:116374287><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:12:36: "Sersan. Roze (Alex's Tentara)<12><STEAM_0:0:116374287><>" connected, address "115.70.250.130:27005"
+L 01/03/2021 - 06:12:36: "Sersan. Roze (Alex's Tentara)<12><STEAM_0:0:116374287><>" STEAM USERID validated
+L 01/03/2021 - 06:12:38: "Mr. Steal Your Diamonds<10><STEAM_0:1:100590082><>" entered the game
+L 01/03/2021 - 06:12:47: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!unarrest ^"
+
+L 01/03/2021 - 06:12:52: "brexit<7><STEAM_0:1:121087763><Eshay>" say "/unarrest ^"
+
+L 01/03/2021 - 06:12:53: Lua Error: 
+[Keypad Tool and Cracker with Wire Support] lua/weapons/gmod_tool/stools/keypad_willox.lua:86: attempt to call method 'GetKeypadOwner' (a nil value)
+  1. RightClick - lua/weapons/gmod_tool/stools/keypad_willox.lua:86
+   2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:263
+
+
+L 01/03/2021 - 06:12:58: "brexit<7><STEAM_0:1:121087763><Eshay>" say "/unarrest brexit"
+
+L 01/03/2021 - 06:13:41: "Sersan. Roze (Alex's Tentara)<12><STEAM_0:0:116374287><>" entered the game
+L 01/03/2021 - 06:13:43: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!gprotect"
+
+L 01/03/2021 - 06:13:46: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!atags"
+
+L 01/03/2021 - 06:14:09: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/03/2021 - 06:14:10: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!gprotect"
+
+L 01/03/2021 - 06:14:40: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!goto bre"
+
+L 01/03/2021 - 06:14:41: "brexit<7><STEAM_0:1:121087763><Eshay>" say "nigg"
+
+L 01/03/2021 - 06:14:46: "fusq<13><STEAM_0:1:433105488><>" connected, address "114.73.24.26:27005"
+L 01/03/2021 - 06:14:46: "fusq<13><STEAM_0:1:433105488><>" STEAM USERID validated
+L 01/03/2021 - 06:14:50: "Mike Lui<3><STEAM_0:1:97474009><Eshay>" say "word"
+
+L 01/03/2021 - 06:16:18: "Mr. Steal Your Diamonds<10><STEAM_0:1:100590082><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:16:39: "meh4prince<14><STEAM_0:0:425678091><>" connected, address "49.228.57.120:27005"
+L 01/03/2021 - 06:16:39: "meh4prince<14><STEAM_0:0:425678091><>" STEAM USERID validated
+L 01/03/2021 - 06:17:23: "fusq<13><STEAM_0:1:433105488><>" entered the game
+L 01/03/2021 - 06:18:59: "fusq<13><STEAM_0:1:433105488><Citizen>" say "hi"
+
+L 01/03/2021 - 06:19:01: "fusq<13><STEAM_0:1:433105488><Citizen>" say "speak!"
+
+L 01/03/2021 - 06:19:02: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "hey"
+
+L 01/03/2021 - 06:20:26: "brexit<7><STEAM_0:1:121087763><Eshay>" say "Im going to have to report you"
+
+L 01/03/2021 - 06:20:28: "brexit<7><STEAM_0:1:121087763><Eshay>" say "Yeah"
+
+L 01/03/2021 - 06:20:30: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "wanna work together"
+
+L 01/03/2021 - 06:20:32: "brexit<7><STEAM_0:1:121087763><Eshay>" say "@ admin "
+
+L 01/03/2021 - 06:20:32: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "we just selling"
+
+L 01/03/2021 - 06:20:40: "brexit<7><STEAM_0:1:121087763><Eshay>" say "@ okay nvm"
+
+L 01/03/2021 - 06:20:56: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!goto jin"
+
+L 01/03/2021 - 06:20:57: "fusq<13><STEAM_0:1:433105488><Citizen>" say "@ he said the n word"
+
+L 01/03/2021 - 06:21:00: "fusq<13><STEAM_0:1:433105488><Citizen>" say "@ and the f word"
+
+L 01/03/2021 - 06:21:06: "fusq<13><STEAM_0:1:433105488><Citizen>" say "dude"
+
+L 01/03/2021 - 06:21:09: "fusq<13><STEAM_0:1:433105488><Citizen>" say "whtyd u hi me"
+
+L 01/03/2021 - 06:21:21: "brexit<7><STEAM_0:1:121087763><Eshay>" say "im gonna tell admin now"
+
+L 01/03/2021 - 06:21:23: "brexit<7><STEAM_0:1:121087763><Eshay>" say "u rdm me"
+
+L 01/03/2021 - 06:21:34: "fusq<13><STEAM_0:1:433105488><DJ>" say "!dj"
+
+L 01/03/2021 - 06:21:36: "brexit<7><STEAM_0:1:121087763><Eshay>" say "should i report u"
+
+L 01/03/2021 - 06:21:49: "brexit<7><STEAM_0:1:121087763><Eshay>" say "why u rdm me"
+
+L 01/03/2021 - 06:21:53: "fusq<13><STEAM_0:1:433105488><DJ>" say "bc ur black"
+
+L 01/03/2021 - 06:21:56: "Rozlin Helms<12><STEAM_0:0:116374287><Eshay>" say "racist cunt"
+
+L 01/03/2021 - 06:22:11: "brexit<7><STEAM_0:1:121087763><Eshay>" say "look at me"
+
+L 01/03/2021 - 06:22:14: "fusq<13><STEAM_0:1:433105488><DJ>" say "ok"
+
+L 01/03/2021 - 06:22:17: "fusq<13><STEAM_0:1:433105488><DJ>" say "black boy"
+
+L 01/03/2021 - 06:22:21: "fusq<13><STEAM_0:1:433105488><DJ>" say "woah"
+
+L 01/03/2021 - 06:22:22: "Rozlin Helms<12><STEAM_0:0:116374287><Eshay>" say "fuck you white boii"
+
+L 01/03/2021 - 06:22:38: "fuck you<13><STEAM_0:1:433105488><DJ>" say "/name fuck you"
+
+L 01/03/2021 - 06:22:41: "brexit<7><STEAM_0:1:121087763><Eshay>" say "wtffff"
+
+L 01/03/2021 - 06:22:42: "brexit<7><STEAM_0:1:121087763><Eshay>" say "rdmmm"
+
+L 01/03/2021 - 06:22:45: "brexit<7><STEAM_0:1:121087763><Eshay>" say "stoppp"
+
+L 01/03/2021 - 06:23:03: "fuck you<13><STEAM_0:1:433105488><DJ>" say "/admin"
+
+L 01/03/2021 - 06:23:12: "brexit<7><STEAM_0:1:121087763><Eshay>" say "will u tell admin"
+
+L 01/03/2021 - 06:23:23: "TipJar Theif<12><STEAM_0:0:116374287><Eshay>" say "/name TipJar Theif"
+
+L 01/03/2021 - 06:23:27: "fuck you<13><STEAM_0:1:433105488><DJ>" say "fuck up"
+
+L 01/03/2021 - 06:23:27: "brexit<7><STEAM_0:1:121087763><Eshay>" say "bro dont i dont want to report u"
+
+L 01/03/2021 - 06:23:34: "fuck you<13><STEAM_0:1:433105488><DJ>" say "ill kill yo momma bitch!"
+
+L 01/03/2021 - 06:23:37: "brexit<7><STEAM_0:1:121087763><Eshay>" say "telling admin"
+
+L 01/03/2021 - 06:23:47: "brexit<7><STEAM_0:1:121087763><Eshay>" say "@ admin he said he is gonna kill my mother"
+
+L 01/03/2021 - 06:23:57: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "Do you guys have any tip jars i can borrow?"
+
+L 01/03/2021 - 06:24:31: "brexit<7><STEAM_0:1:121087763><Eshay>" say "bro admin is gonna see i think"
+
+L 01/03/2021 - 06:24:38: "brexit<7><STEAM_0:1:121087763><Eshay>" say "is there an admin on"
+
+L 01/03/2021 - 06:24:38: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "i'm done with it now...."
+
+L 01/03/2021 - 06:24:46: "brexit<7><STEAM_0:1:121087763><Eshay>" say "ty"
+
+L 01/03/2021 - 06:25:16: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "lol"
+
+L 01/03/2021 - 06:25:38: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "Xi where u?"
+
+L 01/03/2021 - 06:26:00: "brexit<7><STEAM_0:1:121087763><Eshay>" say "dont tell admin"
+
+L 01/03/2021 - 06:26:06: "brexit<7><STEAM_0:1:121087763><Eshay>" say "@ admin im stuck"
+
+L 01/03/2021 - 06:26:27: "brexit<7><STEAM_0:1:121087763><Eshay>" say "helppp"
+
+L 01/03/2021 - 06:26:50: "brexit<7><STEAM_0:1:121087763><Eshay>" say "will u tell admin"
+
+L 01/03/2021 - 06:26:56: "brexit<7><STEAM_0:1:121087763><Eshay>" say "dont please"
+
+L 01/03/2021 - 06:27:11: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "how mcuh money did u get?"
+
+L 01/03/2021 - 06:27:12: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "150k for 10 lean cups"
+
+L 01/03/2021 - 06:27:17: "Snoop dawg<2><STEAM_0:0:74726177><Hitman>" say "wow thats alot"
+
+L 01/03/2021 - 06:27:19: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "yeah"
+
+L 01/03/2021 - 06:27:21: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "its been debuffed"
+
+L 01/03/2021 - 06:27:24: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "next restart"
+
+L 01/03/2021 - 06:27:29: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "no i just want tip jars"
+
+L 01/03/2021 - 06:27:30: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "idk how much doe"
+
+L 01/03/2021 - 06:28:09: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "i do wanna t sell"
+
+L 01/03/2021 - 06:28:18: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "sell too*"
+
+L 01/03/2021 - 06:28:27: "brexit<7><STEAM_0:1:121087763><Eshay>" say "HAhahah"
+
+L 01/03/2021 - 06:28:28: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "buy ur barrels"
+
+L 01/03/2021 - 06:28:30: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "and"
+
+L 01/03/2021 - 06:28:32: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "crate"
+
+L 01/03/2021 - 06:28:39: "brexit<7><STEAM_0:1:121087763><Eshay>" say "admin"
+
+L 01/03/2021 - 06:28:42: "brexit<7><STEAM_0:1:121087763><Eshay>" say "I need admin"
+
+L 01/03/2021 - 06:29:11: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "how to fill it up?"
+
+L 01/03/2021 - 06:29:19: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "click on it"
+
+L 01/03/2021 - 06:29:22: "brexit<7><STEAM_0:1:121087763><Eshay>" say "@ admin i need help"
+
+L 01/03/2021 - 06:29:22: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "and"
+
+L 01/03/2021 - 06:29:26: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "do you have another tip jar admin?"
+
+L 01/03/2021 - 06:29:26: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "click to buy"
+
+L 01/03/2021 - 06:29:31: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "ingridents"
+
+L 01/03/2021 - 06:29:37: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "get barrel out"
+
+L 01/03/2021 - 06:29:46: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "wait how to drop pocketed things?"
+
+L 01/03/2021 - 06:29:46: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "idk"
+
+L 01/03/2021 - 06:29:50: "meh4prince<14><STEAM_0:0:425678091><>" entered the game
+L 01/03/2021 - 06:29:58: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "click on it"
+
+L 01/03/2021 - 06:29:58: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "oh"
+
+L 01/03/2021 - 06:29:59: "Mike Lui<3><STEAM_0:1:97474009><Lean Manufacturer>" say "ADMID"
+
+L 01/03/2021 - 06:30:03: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "with e"
+
+L 01/03/2021 - 06:30:06: "Mike Lui<3><STEAM_0:1:97474009><Lean Manufacturer>" say "ADMIN"
+
+L 01/03/2021 - 06:30:09: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "and click on stuff"
+
+L 01/03/2021 - 06:30:11: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "to buy it"
+
+L 01/03/2021 - 06:30:22: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "until max"
+
+L 01/03/2021 - 06:30:24: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "on each one"
+
+L 01/03/2021 - 06:30:41: "fuck you<13><STEAM_0:1:433105488><Undercover Cop>" say "@ admin help"
+
+L 01/03/2021 - 06:30:52: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "and?"
+
+L 01/03/2021 - 06:30:57: "meh4prince<14><STEAM_0:0:425678091><Citizen>" say "everything is erroprs"
+
+L 01/03/2021 - 06:30:59: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "get ur lean cups"
+
+L 01/03/2021 - 06:31:03: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "yeah"
+
+L 01/03/2021 - 06:31:09: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "ohh"
+
+L 01/03/2021 - 06:31:10: "brexit<7><STEAM_0:1:121087763><Eshay>" say "Rdm admin"
+
+L 01/03/2021 - 06:31:17: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "let me get ya some barrels"
+
+L 01/03/2021 - 06:31:52: "brexit<7><STEAM_0:1:121087763><Eshay>" say "hello"
+
+L 01/03/2021 - 06:31:57: "meh4prince<14><STEAM_0:0:425678091><Citizen>" say "hi?"
+
+L 01/03/2021 - 06:31:57: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!give * daviecrockies"
+
+L 01/03/2021 - 06:32:24: "brexit<7><STEAM_0:1:121087763><Eshay>" say "/unarrest *"
+
+L 01/03/2021 - 06:32:39: "Al Shebab<4><STEAM_0:0:103364981><Staff On Duty>" say "!jail fuck"
+
+L 01/03/2021 - 06:32:46: "brexit<7><STEAM_0:1:121087763><Eshay>" say "hahah admin got u"
+
+L 01/03/2021 - 06:32:50: "fart<13><STEAM_0:1:433105488><Undercover Cop>" say "/rpname fart"
+
+L 01/03/2021 - 06:32:54: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "now"
+
+L 01/03/2021 - 06:32:56: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "we can go sell"
+
+L 01/03/2021 - 06:33:02: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/ooc if you arrest me for my unusual name, them no more tip jar for you!"
+
+L 01/03/2021 - 06:33:04: "fart<13><STEAM_0:1:433105488><Undercover Cop>" say "let me out!!!!"
+
+L 01/03/2021 - 06:33:04: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "come"
+
+L 01/03/2021 - 06:33:06: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "its full"
+
+L 01/03/2021 - 06:33:14: "brexit<7><STEAM_0:1:121087763><Eshay>" say "admin wtf is going on"
+
+L 01/03/2021 - 06:33:17: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "come sell ur box"
+
+L 01/03/2021 - 06:33:19: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "its full"
+
+L 01/03/2021 - 06:33:21: "meh4prince<14><STEAM_0:0:425678091><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:33:29: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "lets gow man"
+
+L 01/03/2021 - 06:33:34: "fart<13><STEAM_0:1:433105488><Undercover Cop>" say "@ admin im getting abused"
+
+L 01/03/2021 - 06:33:39: Lua Error: 
+[gmodadminsuite-logging-2.4.1] addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. EntityTakeDamage - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270
+    3. hook_func - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:349
+     4. fn - lua/gmodadminsuite/sh_hooks.lua:67
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+       6. TakeDamageInfo - [C]:-1
+        7. call - addons/ulx-master/lua/ulx/modules/sh/cc_fun.lua:315
+         8. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+          9. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+           10. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+            11. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+             12. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 01/03/2021 - 06:33:43: Lua Error: 
+[gmodadminsuite-logging-2.4.1] addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. EntityTakeDamage - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270
+    3. hook_func - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:349
+     4. fn - lua/gmodadminsuite/sh_hooks.lua:67
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+       6. TakeDamageInfo - [C]:-1
+        7. call - addons/ulx-master/lua/ulx/modules/sh/cc_fun.lua:315
+         8. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+          9. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+           10. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+            11. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+             12. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 01/03/2021 - 06:33:43: Lua Error: 
+[gmodadminsuite-logging-2.4.1] addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. EntityTakeDamage - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270
+    3. hook_func - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:349
+     4. fn - lua/gmodadminsuite/sh_hooks.lua:67
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+       6. TakeDamageInfo - [C]:-1
+        7. call - addons/ulx-master/lua/ulx/modules/sh/cc_fun.lua:315
+         8. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+          9. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+           10. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+            11. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+             12. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 01/03/2021 - 06:33:44: "fusq<13><STEAM_0:1:433105488><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:33:45: "fusq<15><STEAM_0:1:433105488><>" connected, address "114.73.24.26:27005"
+L 01/03/2021 - 06:33:45: "fusq<15><STEAM_0:1:433105488><>" STEAM USERID validated
+L 01/03/2021 - 06:33:50: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "Ltap?"
+
+L 01/03/2021 - 06:33:56: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "yeahh"
+
+L 01/03/2021 - 06:33:59: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "we're rich"
+
+L 01/03/2021 - 06:33:59: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "its good"
+
+L 01/03/2021 - 06:34:04: Lua Error: 
+[gmodadminsuite-logging-2.4.1] addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. EntityTakeDamage - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:270
+    3. hook_func - addons/gmodadminsuite-logging-2.4.1/lua/gmodadminsuite/modules/logging/modules/pvp.lua:349
+     4. fn - lua/gmodadminsuite/sh_hooks.lua:67
+      5. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+       6. TakeDamageInfo - [C]:-1
+        7. call - addons/ulx-master/lua/ulx/modules/sh/cc_fun.lua:315
+         8. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+          9. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+           10. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+            11. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+             12. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 01/03/2021 - 06:34:04: Lua Error: 
+[DarkRP] gamemodes/base/gamemode/player.lua:207: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. PlayerDeath - gamemodes/base/gamemode/player.lua:207
+    3. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:445
+     4. TakeDamageInfo - [C]:-1
+      5. call - addons/ulx-master/lua/ulx/modules/sh/cc_fun.lua:315
+       6. __fn - addons/ulib-master/lua/ulib/shared/commands.lua:951
+        7. execute - addons/ulib-master/lua/ulib/shared/commands.lua:1331
+         8. routedCommandCallback - addons/ulib-master/lua/ulib/shared/commands.lua:1359
+          9. unknown - addons/ulib-master/lua/ulib/shared/commands.lua:1375
+           10. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 01/03/2021 - 06:34:06: Lua Error: 
+[DarkRP] Warning! A net message (PlayerKilled) is already started! Discarding in favor of the new message! (FPP_TouchabilityData)
+
+  1. plySendTouchData - gamemodes/darkrp/gamemode/modules/fpp/pp/server/ownability.lua:274
+   2. onEntitiesCreated - gamemodes/darkrp/gamemode/modules/fpp/pp/server/ownability.lua:351
+    3. unknown - gamemodes/darkrp/gamemode/modules/fpp/pp/server/ownability.lua:360
+
+
+L 01/03/2021 - 06:34:24: "fusq<15><STEAM_0:1:433105488><>" entered the game
+L 01/03/2021 - 06:34:35: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "my cup isgone"
+
+L 01/03/2021 - 06:34:44: "jason<15><STEAM_0:1:433105488><Citizen>" say "/rpname jason"
+
+L 01/03/2021 - 06:34:55: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!pconfig"
+
+L 01/03/2021 - 06:35:11: "jason<15><STEAM_0:1:433105488><Citizen>" say " @help"
+
+L 01/03/2021 - 06:35:12: "jason<15><STEAM_0:1:433105488><Citizen>" say "help"
+
+L 01/03/2021 - 06:35:13: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:15: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:16: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:17: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:18: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:19: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:20: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:35:46: "brexit<7><STEAM_0:1:121087763><Eshay>" say "bro stop"
+
+L 01/03/2021 - 06:36:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/03/2021 - 06:36:49: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "eahhh"
+
+L 01/03/2021 - 06:36:52: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "yeahh*"
+
+L 01/03/2021 - 06:36:53: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/advert test"
+
+L 01/03/2021 - 06:36:55: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/Advert Mug, Drop Tip Jar Or Die 5 Seconds"
+
+L 01/03/2021 - 06:37:02: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/advert okay cool"
+
+L 01/03/2021 - 06:38:40: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "my barral is gone"
+
+L 01/03/2021 - 06:38:41: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "wtf"
+
+L 01/03/2021 - 06:38:46: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "what u mean"
+
+L 01/03/2021 - 06:38:53: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "it despawn"
+
+L 01/03/2021 - 06:38:57: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "just respawn it?"
+
+L 01/03/2021 - 06:39:02: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "plus"
+
+L 01/03/2021 - 06:39:07: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "the ingredients is gone"
+
+L 01/03/2021 - 06:39:09: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "didnt u only spawn in one for urself"
+
+L 01/03/2021 - 06:39:14: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "yeah"
+
+L 01/03/2021 - 06:39:18: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "once ingrdients are used"
+
+L 01/03/2021 - 06:39:20: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "and its made"
+
+L 01/03/2021 - 06:39:24: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "u need to make it again"
+
+L 01/03/2021 - 06:39:28: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "oh lol"
+
+L 01/03/2021 - 06:40:13: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "u can use my barrels if u want while i use them as well"
+
+L 01/03/2021 - 06:40:34: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "here"
+
+L 01/03/2021 - 06:40:34: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "!jail jason"
+
+L 01/03/2021 - 06:40:41: "jason<15><STEAM_0:1:433105488><Citizen>" say "// in my box u cant get me"
+
+L 01/03/2021 - 06:40:43: "jason<15><STEAM_0:1:433105488><Citizen>" say "// hahaha"
+
+L 01/03/2021 - 06:40:51: "jason<15><STEAM_0:1:433105488><Citizen>" say "@ can i apple for staff'"
+
+L 01/03/2021 - 06:41:06: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 06:41:09: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "!god"
+
+L 01/03/2021 - 06:41:09: "jason<15><STEAM_0:1:433105488><Citizen>" say "!blogs"
+
+L 01/03/2021 - 06:41:11: "jason<15><STEAM_0:1:433105488><Citizen>" say "!blogs"
+
+L 01/03/2021 - 06:41:20: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "Give me tip jar or die, citizen"
+
+L 01/03/2021 - 06:41:25: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "yeahh"
+
+L 01/03/2021 - 06:41:28: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "im at 1 million"
+
+L 01/03/2021 - 06:41:31: "jason<15><STEAM_0:1:433105488><Citizen>" say "!menu"
+
+L 01/03/2021 - 06:41:36: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "i have 1233089"
+
+L 01/03/2021 - 06:41:39: "Xi Jinping<6><STEAM_0:1:59860466><Lean Manufacturer>" say "nice"
+
+L 01/03/2021 - 06:41:43: "Snoop dawg<2><STEAM_0:0:74726177><Lean Manufacturer>" say "lets make more"
+
+L 01/03/2021 - 06:42:00: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "/pm jas backdoor"
+
+L 01/03/2021 - 06:42:12: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "/pm * test"
+
+L 01/03/2021 - 06:42:17: "jason<15><STEAM_0:1:433105488><Citizen>" say "/PSAY"
+
+L 01/03/2021 - 06:42:20: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "/psay * hi"
+
+L 01/03/2021 - 06:42:23: "jason<15><STEAM_0:1:433105488><Citizen>" say "nice"
+
+L 01/03/2021 - 06:42:24: "jason<15><STEAM_0:1:433105488><Citizen>" say "loser"
+
+L 01/03/2021 - 06:42:26: "jason<15><STEAM_0:1:433105488><Citizen>" say "focus"
+
+L 01/03/2021 - 06:42:28: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!blogs"
+
+L 01/03/2021 - 06:42:49: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 06:42:54: "Johnny Sins<6><STEAM_0:1:59860466><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:43:09: "jason<15><STEAM_0:1:433105488><Citizen>" say "!blogs"
+
+L 01/03/2021 - 06:43:10: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "You want guns?"
+
+L 01/03/2021 - 06:43:12: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "Nah"
+
+L 01/03/2021 - 06:43:13: "jason<15><STEAM_0:1:433105488><Citizen>" say "!blogs"
+
+L 01/03/2021 - 06:43:14: "jason<15><STEAM_0:1:433105488><Citizen>" say "!blogs"
+
+L 01/03/2021 - 06:43:15: "jason<15><STEAM_0:1:433105488><Citizen>" say "/AD THE WEEBS NEED TO GO DOWN ONE WAY OR ANOTHER (ASSIST)"
+
+L 01/03/2021 - 06:43:21: "jason<15><STEAM_0:1:433105488><Citizen>" say "/AD GET OFF OF HIM YOU WEEB (COUNTER)"
+
+L 01/03/2021 - 06:43:23: "jason<15><STEAM_0:1:433105488><Citizen>" say "/AD THE WEEBS NEED TO GO DOWN ONE WAY OR ANOTHER (ASSIST)"
+
+L 01/03/2021 - 06:43:24: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "unless you got a chea ppistol?"
+
+L 01/03/2021 - 06:43:24: "jason<15><STEAM_0:1:433105488><Citizen>" say "/advert You're bad lol (ova / false)"
+
+L 01/03/2021 - 06:43:28: "jason<15><STEAM_0:1:433105488><Citizen>" say "/advert KIDNAP DONT MOVER OR YOUR'E DEAD"
+
+L 01/03/2021 - 06:43:29: "jason<15><STEAM_0:1:433105488><Citizen>" say "/advert IM POOR M8 (MUG)"
+
+L 01/03/2021 - 06:43:30: "jason<15><STEAM_0:1:433105488><Citizen>" say "/advert RAID / RAID ASSIST"
+
+L 01/03/2021 - 06:43:30: "jason<15><STEAM_0:1:433105488><Citizen>" say "/advert IM POOR M8 (MUG)"
+
+L 01/03/2021 - 06:43:31: "jason<15><STEAM_0:1:433105488><Citizen>" say "/advert IM POOR M8 (MUG)"
+
+L 01/03/2021 - 06:43:54: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "best i got for a [pistol is 50k"
+
+L 01/03/2021 - 06:44:00: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "okay i can do that"
+
+L 01/03/2021 - 06:44:19: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/dropmoney 50000"
+
+L 01/03/2021 - 06:44:56: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "thanks"
+
+L 01/03/2021 - 06:45:14: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "you want guns?"
+
+L 01/03/2021 - 06:45:37: "Mr. Lert☀<2><STEAM_0:0:74726177><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:46:24: "jason<15><STEAM_0:1:433105488><Citizen>" say "ur server deafned Al Shebab"
+
+L 01/03/2021 - 06:46:28: "BladeFromOz<16><STEAM_0:1:157552517><>" connected, address "101.186.32.218:27005"
+L 01/03/2021 - 06:46:28: "BladeFromOz<16><STEAM_0:1:157552517><>" STEAM USERID validated
+L 01/03/2021 - 06:46:35: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "i didi it"
+
+L 01/03/2021 - 06:46:37: "jason<15><STEAM_0:1:433105488><Citizen>" say "wow"
+
+L 01/03/2021 - 06:46:37: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "to myself"
+
+L 01/03/2021 - 06:46:38: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "echo"
+
+L 01/03/2021 - 06:46:42: "faggot<15><STEAM_0:1:433105488><Citizen>" say "/rpname faggot"
+
+L 01/03/2021 - 06:46:47: "faggot<15><STEAM_0:1:433105488><Citizen>" say "/rpname unjail or gay"
+
+L 01/03/2021 - 06:46:52: "hard style<15><STEAM_0:1:433105488><Citizen>" say "/rpname hard style"
+
+L 01/03/2021 - 06:47:00: "hard style<15><STEAM_0:1:433105488><Citizen>" say "undeafen this song hard"
+
+L 01/03/2021 - 06:48:23: "BladeFromOz<16><STEAM_0:1:157552517><>" entered the game
+L 01/03/2021 - 06:48:48: "hard style<15><STEAM_0:1:433105488><Bitcoin Miner>" say "!menu"
+
+L 01/03/2021 - 06:49:42: "hard style<15><STEAM_0:1:433105488><Bitcoin Miner>" say "!menu"
+
+L 01/03/2021 - 06:49:44: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!profile hard"
+
+L 01/03/2021 - 06:49:49: "John<17><STEAM_0:1:33762876><>" connected, address "180.150.4.117:27005"
+L 01/03/2021 - 06:49:49: "John<17><STEAM_0:1:33762876><>" STEAM USERID validated
+L 01/03/2021 - 06:50:04: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "you want guns?"
+
+L 01/03/2021 - 06:50:14: "BladeFromOz<16><STEAM_0:1:157552517><Citizen>" say "yes"
+
+L 01/03/2021 - 06:50:30: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "what you want?"
+
+L 01/03/2021 - 06:50:30: "BladeFromOz<16><STEAM_0:1:157552517><Citizen>" say "pistol"
+
+L 01/03/2021 - 06:50:38: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!profile hard"
+
+L 01/03/2021 - 06:50:46: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "which pistol?"
+
+L 01/03/2021 - 06:50:47: "BladeFromOz<16><STEAM_0:1:157552517><Citizen>" say "glock or deagle"
+
+L 01/03/2021 - 06:51:22: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "glovk 80K deagle 90k"
+
+L 01/03/2021 - 06:51:32: "BladeFromOz<16><STEAM_0:1:157552517><Citizen>" say "I don't have that money, I just spawned"
+
+L 01/03/2021 - 06:51:38: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "kk"
+
+L 01/03/2021 - 06:52:24: "John<17><STEAM_0:1:33762876><>" entered the game
+L 01/03/2021 - 06:52:26: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!ip"
+
+L 01/03/2021 - 06:52:29: "brexit<7><STEAM_0:1:121087763><Eshay>" say "/ip"
+
+L 01/03/2021 - 06:52:32: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 06:53:11: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "!wheelofluck"
+
+L 01/03/2021 - 06:53:20: "fusq<15><STEAM_0:1:433105488><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 06:53:28: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "i think he left"
+
+L 01/03/2021 - 06:53:40: "BladeFromOz<16><STEAM_0:1:157552517><Police Officer>" say "/TEAM_POLICE_CHIEF"
+
+L 01/03/2021 - 06:54:09: "Mike Lui<3><STEAM_0:1:97474009><Security Guard>" say "!donate"
+
+L 01/03/2021 - 06:56:48: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 06:56:53: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!blogs"
+
+L 01/03/2021 - 06:57:10: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 06:58:41: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "!notepad"
+
+L 01/03/2021 - 06:58:55: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!notepad"
+
+L 01/03/2021 - 07:00:58: "BladeFromOz<16><STEAM_0:1:157552517><>" disconnected (reason "BladeFromOz timed out")
+L 01/03/2021 - 07:01:18: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!menu"
+
+L 01/03/2021 - 07:01:56: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/Advert Come down to the tip jar bank and donate a tip jar i am near spawn, donating tip jars will get you 5K cash in return"
+
+L 01/03/2021 - 07:02:46: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!ungag ^"
+
+L 01/03/2021 - 07:03:39: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "yes"
+
+L 01/03/2021 - 07:03:39: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "you want guns?"
+
+L 01/03/2021 - 07:03:51: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "what guns?"
+
+L 01/03/2021 - 07:04:47: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "600k"
+
+L 01/03/2021 - 07:04:48: "Mr. Lert☀<18><STEAM_0:0:74726177><>" connected, address "119.76.15.225:27005"
+L 01/03/2021 - 07:04:48: "Mr. Lert☀<18><STEAM_0:0:74726177><>" STEAM USERID validated
+L 01/03/2021 - 07:04:51: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "/dropmoney 600001"
+
+L 01/03/2021 - 07:05:01: "Mike Lui<3><STEAM_0:1:97474009><Security Guard>" say "soz"
+
+L 01/03/2021 - 07:05:13: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/dropmoney 5000"
+
+L 01/03/2021 - 07:05:16: "brexit<7><STEAM_0:1:121087763><Eshay>" say "ty"
+
+L 01/03/2021 - 07:05:36: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/dropmoney 5000"
+
+L 01/03/2021 - 07:05:44: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "i mean i guess as many as you like"
+
+L 01/03/2021 - 07:05:52: "John Stone<8><STEAM_0:0:104081337><Gun Dealer>" say "bet"
+
+L 01/03/2021 - 07:06:27: "Mr. Lert☀<18><STEAM_0:0:74726177><>" entered the game
+L 01/03/2021 - 07:06:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/03/2021 - 07:06:44: "Al Shebab<4><STEAM_0:0:103364981><Thief>" say "!report"
+
+L 01/03/2021 - 07:07:33: "brexit<7><STEAM_0:1:121087763><Eshay>" say "??"
+
+L 01/03/2021 - 07:07:42: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "i want to give you an extra 5k for being my first customer"
+
+L 01/03/2021 - 07:07:46: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/dropmoney 5000"
+
+L 01/03/2021 - 07:07:49: "brexit<7><STEAM_0:1:121087763><Eshay>" say "ty"
+
+L 01/03/2021 - 07:08:04: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "anyone wanna make a hit?"
+
+L 01/03/2021 - 07:08:13: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "ill keep it a secret"
+
+L 01/03/2021 - 07:10:00: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "wanna make a hit?"
+
+L 01/03/2021 - 07:10:02: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "ye"
+
+L 01/03/2021 - 07:10:06: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "shh"
+
+L 01/03/2021 - 07:10:09: "John<17><STEAM_0:1:33762876><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 07:10:09: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "press e"
+
+L 01/03/2021 - 07:10:52: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "ah why is my aim so rusty"
+
+L 01/03/2021 - 07:10:55: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/dropmoney 2500"
+
+L 01/03/2021 - 07:10:55: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "ty"
+
+L 01/03/2021 - 07:10:56: "Zachery<8><STEAM_0:0:104081337><>" disconnected (reason "Disconnect by user.")
+L 01/03/2021 - 07:11:01: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "wow thanks man"
+
+L 01/03/2021 - 07:11:23: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "man im so sorry"
+
+L 01/03/2021 - 07:11:45: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "he hired me"
+
+L 01/03/2021 - 07:11:53: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "ye"
+
+L 01/03/2021 - 07:11:55: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "btw"
+
+L 01/03/2021 - 07:12:00: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "what do you sell?"
+
+L 01/03/2021 - 07:12:02: "Mike Lui<3><STEAM_0:1:97474009><Money Printer>" say "can i grab one of those pistols?"
+
+L 01/03/2021 - 07:12:12: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/advert I want Tip Jars :(  [Mug drop tip jar]"
+
+L 01/03/2021 - 07:12:14: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "i mean okay"
+
+L 01/03/2021 - 07:12:20: "Mike Lui<3><STEAM_0:1:97474009><Money Printer>" say "like how much"
+
+L 01/03/2021 - 07:12:30: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "i don't have them on me"
+
+L 01/03/2021 - 07:12:34: "Mike Lui<3><STEAM_0:1:97474009><Money Printer>" say "oh fug"
+
+L 01/03/2021 - 07:12:38: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "here u go"
+
+L 01/03/2021 - 07:12:43: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "i have my own"
+
+L 01/03/2021 - 07:12:57: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "could i buy one?"
+
+L 01/03/2021 - 07:13:01: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "yes"
+
+L 01/03/2021 - 07:13:05: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "how much?"
+
+L 01/03/2021 - 07:13:26: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "here"
+
+L 01/03/2021 - 07:13:30: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "/drop"
+
+L 01/03/2021 - 07:13:46: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "ill giv u more"
+
+L 01/03/2021 - 07:14:01: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "/drop"
+
+L 01/03/2021 - 07:14:06: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "um thx"
+
+L 01/03/2021 - 07:14:13: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "ill giv u more"
+
+L 01/03/2021 - 07:14:15: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "/drop"
+
+L 01/03/2021 - 07:14:21: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "lol i cant drop this sniper"
+
+L 01/03/2021 - 07:14:25: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "oh well"
+
+L 01/03/2021 - 07:14:28: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "hit?"
+
+L 01/03/2021 - 07:14:37: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "can't too recent"
+
+L 01/03/2021 - 07:14:41: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "ah ok man"
+
+L 01/03/2021 - 07:16:41: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "lol man"
+
+L 01/03/2021 - 07:16:43: "brexit<7><STEAM_0:1:121087763><Eshay>" say "jokely"
+
+L 01/03/2021 - 07:16:44: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "i have a hit on u"
+
+L 01/03/2021 - 07:16:51: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "ah man"
+
+L 01/03/2021 - 07:16:57: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "i feel bad kiling admin"
+
+L 01/03/2021 - 07:17:07: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "Xd"
+
+L 01/03/2021 - 07:17:34: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "/dropmoney 10000"
+
+L 01/03/2021 - 07:17:39: "brexit<7><STEAM_0:1:121087763><Eshay>" say "!god @"
+
+L 01/03/2021 - 07:17:42: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "wow thats alot"
+
+L 01/03/2021 - 07:17:55: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "yeahh"
+
+L 01/03/2021 - 07:18:28: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "btw wanna go to a job thats more profitable?"
+
+L 01/03/2021 - 07:18:33: "TipJar Theif<12><STEAM_0:0:116374287><Thief>" say "yeah okay"
+
+L 01/03/2021 - 07:18:36: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "join the"
+
+L 01/03/2021 - 07:18:45: "Snoop dawg<18><STEAM_0:0:74726177><Hitman>" say "lean manufacturing"
+
+L 01/03/2021 - 07:19:21: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "we need a nice base for producin lean"
+
+L 01/03/2021 - 07:19:28: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "ah ok man"
+
+L 01/03/2021 - 07:19:39: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "have you tried lean?"
+
+L 01/03/2021 - 07:19:46: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "come"
+
+L 01/03/2021 - 07:20:06: "TipJar Theif<12><STEAM_0:0:116374287><Lean Manufacturer>" say "i have not tried lean"
+
+L 01/03/2021 - 07:20:22: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "buy this barrel"
+
+L 01/03/2021 - 07:20:29: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "and crate"
+
+L 01/03/2021 - 07:20:38: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "then press e on the barrel"
+
+L 01/03/2021 - 07:20:44: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "fll up the barrel"
+
+L 01/03/2021 - 07:21:28: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "then buy cup"
+
+L 01/03/2021 - 07:21:45: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "yeahh"
+
+L 01/03/2021 - 07:21:50: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "put in crate"
+
+L 01/03/2021 - 07:21:52: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "nice"
+
+L 01/03/2021 - 07:22:00: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "untill full"
+
+L 01/03/2021 - 07:22:14: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "buy more cups"
+
+L 01/03/2021 - 07:23:12: "TipJar Theif<12><STEAM_0:0:116374287><Lean Manufacturer>" say "how much untill full crate?"
+
+L 01/03/2021 - 07:23:19: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "ten cups"
+
+L 01/03/2021 - 07:23:49: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "im full"
+
+L 01/03/2021 - 07:24:19: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "geti tin the barrrel"
+
+L 01/03/2021 - 07:24:27: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "lets go"
+
+L 01/03/2021 - 07:24:46: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "come"
+
+L 01/03/2021 - 07:24:49: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "follow me"
+
+L 01/03/2021 - 07:25:19: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "press e"
+
+L 01/03/2021 - 07:25:22: "TipJar Theif<12><STEAM_0:0:116374287><Lean Manufacturer>" say "did i even get money?\"
+
+L 01/03/2021 - 07:25:27: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "yeahh"
+
+L 01/03/2021 - 07:25:31: "TipJar Theif<12><STEAM_0:0:116374287><Lean Manufacturer>" say "woah"
+
+L 01/03/2021 - 07:25:32: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "nice money?"
+
+L 01/03/2021 - 07:25:43: "TipJar Theif<12><STEAM_0:0:116374287><Lean Manufacturer>" say "150,000?!!"
+
+L 01/03/2021 - 07:25:45: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "yes"
+
+L 01/03/2021 - 07:25:48: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "ez money"
+
+L 01/03/2021 - 07:27:46: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "in full man"
+
+L 01/03/2021 - 07:28:21: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "buy more cups"
+
+L 01/03/2021 - 07:28:38: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "u need more"
+
+L 01/03/2021 - 07:28:40: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "lean"
+
+L 01/03/2021 - 07:28:45: "Snoop dawg<18><STEAM_0:0:74726177><Lean Manufacturer>" say "make more"
+
+L 01/03/2021 - 07:29:15: "Snoop dawg<18><STEAM_

@@ -1,0 +1,38 @@
+2020-12-27 07.10.18: <General> Logging started, map: rp_downtown_v4c.
+2020-12-27 07.10.18: <General> Welcome to VCMod Auto-Updater version 9.65.
+2020-12-27 07.10.18: <General> Pre-initialization complete, preparing to load addon data.
+2020-12-27 07.10.18: <General> Addons found: VCMod Main.
+2020-12-27 07.11.35: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2020-12-27 07.11.40: <General> Preparations are complete, handshaking API.
+2020-12-27 07.11.40: <General> Handshake successful.
+2020-12-27 07.11.40: <General> Handshake finished.
+2020-12-27 07.11.41: <General> Contacting preload API.
+2020-12-27 07.11.41: <General> Initializing preload.
+2020-12-27 07.11.41: <General> Preload finished. Initializing addons.
+2020-12-27 07.11.41: <General> Started loading serverside.
+2020-12-27 07.11.42: <General> Loaded Main v1.737 serverside.
+2020-12-27 07.11.42: <General> Finished loading serverside.
+2020-12-27 07.11.46: <General> Scanning for potentially incompatible hooks.
+2020-12-27 07.11.46: <General> No incompatibilities found.
+2020-12-27 07.11.46: <General> General vehicle data is up to date.
+2020-12-27 07.11.46: <Fuel> All fuel stations have been respawned.
+2020-12-27 07.12.49: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2020-12-27 07.12.50: <General> Sent API key to player Al Shebab. 99 keys left.
+2020-12-27 07.12.50: <General> Initializing player Al Shebab.
+2020-12-27 07.15.00: <General> Player brexit has loaded and is waiting for a temp-key.
+2020-12-27 07.15.01: <General> Sent API key to player brexit. 98 keys left.
+2020-12-27 07.15.01: <General> Initializing player brexit.
+2020-12-27 07.16.46: <General> Vehicle data "Dodge Charger SRT8 Police" loaded.
+2020-12-27 07.17.19: <General> vehicle "Dodge Charger SRT8 Police(TDM Emergency)" has exploded.
+2020-12-27 07.19.49: <General> Player Jacktank has loaded and is waiting for a temp-key.
+2020-12-27 07.19.50: <General> Sent API key to player Jacktank. 97 keys left.
+2020-12-27 07.19.50: <General> Initializing player Jacktank.
+2020-12-27 08.24.40: <General> Player erik has loaded and is waiting for a temp-key.
+2020-12-27 08.24.42: <General> Sent API key to player erik. 96 keys left.
+2020-12-27 08.24.42: <General> Initializing player erik.
+2020-12-27 08.49.29: <General> Player ☭DinRalleMus☭ has loaded and is waiting for a temp-key.
+2020-12-27 08.49.29: <General> Sent API key to player ☭DinRalleMus☭. 95 keys left.
+2020-12-27 08.49.29: <General> Initializing player ☭DinRalleMus☭.
+2020-12-27 08.59.21: <General> Player ☭DinRalleMus☭ has loaded and is waiting for a temp-key.
+2020-12-27 08.59.22: <General> Sent API key to player ☭DinRalleMus☭. 94 keys left.
+2020-12-27 08.59.22: <General> Initializing player ☭DinRalleMus☭.

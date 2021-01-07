@@ -1,0 +1,186 @@
+[
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "O.G. Kush",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST2",
+		"Perf_Amount": 104.0,
+		"Perf_Time": 103.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 125.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST3",
+		"Perf_Amount": 114.0,
+		"Perf_Time": 110.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 140.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST1",
+		"Perf_Amount": 105.0,
+		"Perf_Time": 105.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 130.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST4",
+		"Perf_Amount": 122.0,
+		"Perf_Time": 115.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 160.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST5",
+		"Perf_Amount": 132.0,
+		"Perf_Time": 120.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 175.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST6",
+		"Perf_Amount": 132.0,
+		"Perf_Time": 127.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 185.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "O.G. Kush",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST7",
+		"Perf_Amount": 132.0,
+		"Perf_Time": 128.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 200.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST8",
+		"Perf_Amount": 132.0,
+		"Perf_Time": 129.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 215.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST9",
+		"Perf_Amount": 131.0,
+		"Perf_Time": 130.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 240.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST10",
+		"Perf_Amount": 133.0,
+		"Perf_Time": 137.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 255.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST11",
+		"Perf_Amount": 134.0,
+		"Perf_Time": 138.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 280.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST12",
+		"Perf_Amount": 134.0,
+		"Perf_Time": 139.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 300.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST13",
+		"Perf_Amount": 134.0,
+		"Perf_Time": 140.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 320.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST14",
+		"Perf_Amount": 134.0,
+		"Perf_Time": 141.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 340.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST15",
+		"Perf_Amount": 136.0,
+		"Perf_Time": 139.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 355.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "TEST1",
+		"Perf_Amount": 114.0,
+		"Perf_Time": 119.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 242.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST16",
+		"Perf_Amount": 137.0,
+		"Perf_Time": 140.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 370.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "TEST2",
+		"Perf_Amount": 122.0,
+		"Perf_Time": 119.0,
+		"SeedCount": 5.0,
+		"Perf_THC": 167.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST17",
+		"Perf_Amount": 137.0,
+		"Perf_Time": 141.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 390.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST18",
+		"Perf_Amount": 137.0,
+		"Perf_Time": 142.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 410.0
+	},
+	{
+		"Weed_ID": 1.0,
+		"Weed_Name": "FAST19",
+		"Perf_Amount": 139.0,
+		"Perf_Time": 142.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 425.0
+	}
+]

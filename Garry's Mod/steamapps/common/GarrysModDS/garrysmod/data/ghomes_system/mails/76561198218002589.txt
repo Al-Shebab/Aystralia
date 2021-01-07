@@ -1,1 +1,14 @@
-[]
+[
+	{
+		"text": "cum\n",
+		"author": "Lil Kitty"
+	},
+	{
+		"text": "Squaters rights\n",
+		"author": "Furboi"
+	},
+	{
+		"text": "blood for life nigga\n",
+		"author": "Semen Demon"
+	}
+]

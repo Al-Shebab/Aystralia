@@ -1,111 +1,56 @@
-"STEAM_0:1:128868430"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"Feeyne"
-	"group"	"donator-admin"
-}
 "STEAM_0:1:39582903"	
 {
-	"deny"	
-	{
-	}
 	"allow"	
 	{
 	}
 	"name"	"callum22122"
-	"group"	"superadmin"
-}
-"STEAM_0:1:146685194"	
-{
-	"allow"	
-	{
-	}
-	"name"	"ajww1"
 	"deny"	
 	{
 	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:150661630"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"eliano"
 	"group"	"trusted"
 }
 "STEAM_0:1:188501563"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Lord ✘"
 	"deny"	
 	{
 	}
+	"allow"	
+	{
+	}
 	"group"	"moderator"
 }
-"STEAM_0:1:103168662"	
+"STEAM_0:1:56083089"	
 {
+	"name"	"Ultra V"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"name"	"Mac Aroni"
 	"group"	"moderator"
-}
-"STEAM_0:0:84012375"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"TheRealLayth"
-	"group"	"admin"
-}
-"STEAM_0:1:59860466"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"Johnny Sins"
-	"group"	"trusted"
-}
-"STEAM_0:0:103364981"	
-{
-	"allow"	
-	{
-	}
-	"name"	"Al Shebab"
-	"deny"	
-	{
-	}
-	"group"	"superadmin"
 }
 "STEAM_0:1:33775918"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"Issac"
-	"deny"	
-	{
-	}
-	"group"	"trial-moderator"
-}
-"STEAM_0:1:97474009"	
-{
-	"allow"	
-	{
-	}
-	"name"	"Carl From Bunnings"
-	"deny"	
-	{
-	}
 	"group"	"moderator"
 }
 "STEAM_0:1:121087763"	
@@ -119,25 +64,157 @@
 	"name"	"brexit"
 	"group"	"superadmin"
 }
-"STEAM_0:1:56083089"	
+"STEAM_0:0:183460096"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Tozbi"
+	"group"	"melbourne"
+}
+"STEAM_0:1:529816283"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"OfficialMalware"
+	"group"	"trusted"
+}
+"STEAM_0:1:207731005"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Saddam Hussien"
+	"group"	"trusted"
+}
+"STEAM_0:1:128868430"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Feeyne"
+	"group"	"sydney"
+}
+"STEAM_0:1:146685194"	
+{
+	"name"	"-AJ-"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"trusted"
+}
+"STEAM_0:0:84012375"	
 {
 	"allow"	
 	{
 	}
-	"name"	"Ultra V"
+	"name"	"TheRealLayth"
 	"deny"	
 	{
 	}
-	"group"	"moderator"
+	"group"	"admin"
 }
-"STEAM_0:1:51163583"	
+"STEAM_0:0:579690494"	
 {
 	"deny"	
 	{
 	}
+	"allow"	
+	{
+	}
+	"name"	"DJ Bread"
+	"group"	"melbourne"
+}
+"STEAM_0:0:86273135"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"demigod"
+	"group"	"staff-manager"
+}
+"STEAM_0:0:103364981"	
+{
+	"name"	"Al Shebab"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:59860466"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Johnny Sins"
+	"deny"	
+	{
+	}
+	"group"	"trusted"
+}
+"STEAM_0:0:143032283"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Handicap Humper"
+	"group"	"trusted"
+}
+"STEAM_0:0:165775247"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Lil Kitty [Ree]"
+	"group"	"trusted"
+}
+"STEAM_0:1:97474009"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Carl From Bunnings"
+	"group"	"admin"
+}
+"STEAM_0:1:51163583"	
+{
 	"allow"	
 	{
 	}
 	"name"	"Jacktank"
+	"deny"	
+	{
+	}
 	"group"	"senior-admin"
 }

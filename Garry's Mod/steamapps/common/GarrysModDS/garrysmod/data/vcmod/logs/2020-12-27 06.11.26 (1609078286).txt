@@ -1,0 +1,18 @@
+2020-12-27 06.11.26: <General> Logging started, map: rp_downtown_v4c.
+2020-12-27 06.11.26: <General> Welcome to VCMod Auto-Updater version 9.65.
+2020-12-27 06.11.26: <General> Pre-initialization complete, preparing to load addon data.
+2020-12-27 06.11.26: <General> Addons found: VCMod Main.
+2020-12-27 06.13.22: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2020-12-27 06.13.27: <General> Preparations are complete, handshaking API.
+2020-12-27 06.13.28: <General> Handshake successful.
+2020-12-27 06.13.28: <General> Handshake finished.
+2020-12-27 06.13.29: <General> Contacting preload API.
+2020-12-27 06.13.29: <General> Initializing preload.
+2020-12-27 06.13.29: <General> Preload finished. Initializing addons.
+2020-12-27 06.13.30: <General> Started loading serverside.
+2020-12-27 06.13.30: <General> Loaded Main v1.737 serverside.
+2020-12-27 06.13.30: <General> Finished loading serverside.
+2020-12-27 06.13.35: <General> Scanning for potentially incompatible hooks.
+2020-12-27 06.13.35: <General> No incompatibilities found.
+2020-12-27 06.13.35: <General> General vehicle data is up to date.
+2020-12-27 06.13.35: <Fuel> All fuel stations have been respawned.

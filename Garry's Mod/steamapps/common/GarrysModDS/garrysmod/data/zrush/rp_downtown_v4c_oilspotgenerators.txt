@@ -1,0 +1,1 @@
+[{"ang":"{0 0 0}","pos":"[-1614.9258 -4898.3916 -197.9688]","radius":500.0,"class":"zrush_oilspot_generator"},{"ang":"{0 0 0}","pos":"[-1930.623 -4805.1514 -197.9688]","radius":500.0,"class":"zrush_oilspot_generator"}]

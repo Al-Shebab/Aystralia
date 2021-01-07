@@ -1,1 +1,1 @@
-[{"Data":{"Amount":1.0,"Clip1":0.0,"Ammo":15.0,"Class":"m9k_honeybadger","Model":"models/weapons/w_aac_honeybadger.mdl","Clip2":0.0},"Class":"spawned_weapon"}]
+[{"Data":{"Amount":1.0,"Clip1":16.0,"Class":"m9k_honeybadger","Model":"models/weapons/w_aac_honeybadger.mdl","Clip2":0.0},"Class":"spawned_weapon"}]

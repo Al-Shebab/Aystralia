@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":6.0,"Ammo":31.0,"Class":"m9k_colt1911","Model":"models/weapons/s_dmgf_co1911.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

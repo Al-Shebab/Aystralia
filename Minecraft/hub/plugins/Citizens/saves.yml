@@ -1,1 +1,34 @@
 # Citizens NPC Storage
+
+last-created-npc-id: 6
+npc:
+  '6':
+    metadata:
+      cached-skin-uuid-name: al_shebab
+      cached-skin-uuid: e79fc165-83d6-4139-9a8f-d42bf1c23f87
+    name: al_shebab
+    uuid: e2c59bda-3514-4190-8799-98ef148a8ab6
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: MKMqxLajYxGz2uA+A3J/FrJbOZXTbfUVmSluZDUYx2McARqsrKIDSaP6AG3GVZLZTDnE5jqq5pB0W16cxsfkQge/kob5CL/ROsL+cNc2YBWkdGiblF3nyBhqzuJl4TtdNWgnopY19XJZwqY+CSyionzxY8LnKkGJ+FKK4jy3XXMTjTkiwOqRGznQb4D8r7NEJbsEGKQbev4TAgrHQxtrAw4lK81ssPFkV5UUiYKN7fa5EOtApMgj5QPP5OvAk9K4obXB4B11VT8OX511MCEBQeOvGUxrBApk88JoPeDSGd18n6ctLWytVGw5EdxHJKM/Ww3tNoZ8VNggN+D9vX0BF+SaBH6xjmDc/AOiGOwKlJPagUr1DF/jQIZam0mHJ1VsLW9W0/voAqKAPnNWsEfvle/KAgLWkNbf+y+39NsKiJK8Wb2Td0zA6nZQPP/Bcsz2CeTsuKUo8D7fARMRDeiYPh6+FlBu+vJ09aNSViblP5QmQsoy/qsqaE7LXxchtrZqdJuOTSd03Xe0ym29rDMQsW22B2ANfB4Tc6V3OAgM80bQs3iVOGjDfi2GlMtpO1RMy74mThAvLJp0F2PwNRjg/G9QBNOV4EuhY6HxEhTbPoqEuY16M/QSSlppIftp3fe34TOkeojtQXqtp6nz7MRiswY/ZX0L3lmvAJupnKu0a94=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYwOTgxMDk5MzA1MywKICAicHJvZmlsZUlkIiA6ICJlNzlmYzE2NTgzZDY0MTM5OWE4ZmQ0MmJmMWMyM2Y4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbF9TaGViYWIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM5MzQxODM0ODU2NjczMjFjOWFkNThjNGFkMDMzNzdiMDIwYThiNzgxMGM4MmVhMzA0OGJlZThmMGEyNTljNCIKICAgIH0KICB9Cn0=
+        updateSkins: false
+      location:
+        bodyYaw: -87.367615
+        world: world
+        x: '-416.2066'
+        y: '153.0'
+        z: '105.4139'
+        yaw: '-87.3676'
+        pitch: '49.65'
+      spawned: false
+      type: PLAYER
+      owner:
+        owner: AimJunkiesFeeyne
+        uuid: 5e9388ba-0573-444c-a761-b6d9174042af
+    traitnames: type,equipment,owner,scoreboardtrait,inventory,spawned,skintrait,mounttrait,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

@@ -1,0 +1,578 @@
+L 01/04/2021 - 10:00:25: Log file started (file "logs\L0104007.log") (game "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\garrysmod") (version "7891")
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_noclip" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxprops" "80"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxragdolls" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxnpcs" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxballoons" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxeffects" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxdynamite" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxlamps" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxthrusters" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxwheels" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxhoverballs" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxvehicles" "1"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxbuttons" "6"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxemitters" "0"
+L 01/04/2021 - 10:00:25: server_cvar: "sbox_maxtextscreens" "3"
+L 01/04/2021 - 10:00:25: server_cvar: "sv_airaccelerate" "1000"
+L 01/04/2021 - 10:00:27: Connection to Steam servers successful.
+L 01/04/2021 - 10:00:27:    Public IP is 139.99.208.69.
+L 01/04/2021 - 10:00:27: Assigned persistent gameserver Steam ID [G-1:3955559].
+L 01/04/2021 - 10:00:27: VAC secure mode is activated.
+L 01/04/2021 - 10:00:28: AWarn: Message Table Exists
+L 01/04/2021 - 10:00:28: AWarn: Player Data Table Exists
+L 01/04/2021 - 10:00:28: AWarn: Offline Player Data Table Exists
+L 01/04/2021 - 10:00:33: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 10:01:24: "Al Shebab<2><STEAM_0:0:103364981><>" connected, address "220.245.134.97:27005"
+L 01/04/2021 - 10:01:24: "Al Shebab<2><STEAM_0:0:103364981><>" STEAM USERID validated
+L 01/04/2021 - 10:01:59: "Al Shebab<2><STEAM_0:0:103364981><>" entered the game
+L 01/04/2021 - 10:30:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 10:38:28: "ajww1<3><STEAM_0:1:146685194><>" connected, address "14.2.124.45:27005"
+L 01/04/2021 - 10:38:28: "ajww1<3><STEAM_0:1:146685194><>" STEAM USERID validated
+L 01/04/2021 - 10:40:09: "ajww1<3><STEAM_0:1:146685194><>" entered the game
+L 01/04/2021 - 10:48:53: "ajww1<3><STEAM_0:1:146685194><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 11:00:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 11:25:56: "ajww1<4><STEAM_0:1:146685194><>" connected, address "14.2.124.45:27005"
+L 01/04/2021 - 11:25:56: "ajww1<4><STEAM_0:1:146685194><>" STEAM USERID validated
+L 01/04/2021 - 11:26:42: "ajww1<4><STEAM_0:1:146685194><>" entered the game
+L 01/04/2021 - 11:30:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 11:30:58: "ajww1<4><STEAM_0:1:146685194><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 12:00:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 12:30:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 13:00:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 13:30:36: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 13:30:58: "Bacon<5><STEAM_0:1:89078558><>" connected, address "162.239.119.127:27005"
+L 01/04/2021 - 13:30:59: "Bacon<5><STEAM_0:1:89078558><>" STEAM USERID validated
+L 01/04/2021 - 13:37:28: "Bacon<5><STEAM_0:1:89078558><>" entered the game
+L 01/04/2021 - 13:38:28: "Bacon<5><STEAM_0:1:89078558><Citizen>" say "!motd"
+
+L 01/04/2021 - 13:38:48: "Bacon<5><STEAM_0:1:89078558><Citizen>" say "!rules"
+
+L 01/04/2021 - 13:46:55: "Bacon<5><STEAM_0:1:89078558><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 14:00:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 14:30:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 15:00:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 15:03:36: "Jay<6><STEAM_0:0:57322768><>" connected, address "180.150.25.120:27005"
+L 01/04/2021 - 15:03:36: "Jay<6><STEAM_0:0:57322768><>" STEAM USERID validated
+L 01/04/2021 - 15:08:55: "Jay<6><STEAM_0:0:57322768><>" entered the game
+L 01/04/2021 - 15:22:04: Lua Error: 
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_joint_ent/init.lua:48: attempt to call method 'SetWeedID' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_joint_ent/init.lua:48
+
+
+L 01/04/2021 - 15:29:33: "eliano<7><STEAM_0:1:150661630><>" connected, address "49.194.143.46:27005"
+L 01/04/2021 - 15:29:33: "eliano<7><STEAM_0:1:150661630><>" STEAM USERID validated
+L 01/04/2021 - 15:30:34: "Jay<6><STEAM_0:0:57322768><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 15:30:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 15:33:16: "eliano<7><STEAM_0:1:150661630><>" entered the game
+L 01/04/2021 - 15:34:55: "James Johnson<7><STEAM_0:1:150661630><Citizen>" say "hey"
+
+L 01/04/2021 - 15:48:54: "Jay<8><STEAM_0:0:57322768><>" connected, address "180.150.25.120:27005"
+L 01/04/2021 - 15:48:55: "Jay<8><STEAM_0:0:57322768><>" STEAM USERID validated
+L 01/04/2021 - 15:51:08: "Jay<8><STEAM_0:0:57322768><>" entered the game
+L 01/04/2021 - 15:54:51: "Shroob<9><STEAM_0:0:118882021><>" connected, address "49.181.197.5:7433"
+L 01/04/2021 - 15:54:51: "Shroob<9><STEAM_0:0:118882021><>" STEAM USERID validated
+L 01/04/2021 - 15:57:08: "Shroob<9><STEAM_0:0:118882021><>" entered the game
+L 01/04/2021 - 15:58:13: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "lol "
+
+L 01/04/2021 - 15:58:29: "Barack Obama<9><STEAM_0:0:118882021><Thief>" say "/advert PD RAID"
+
+L 01/04/2021 - 15:58:34: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "/advert lol i have the feeling im gonna get raided"
+
+L 01/04/2021 - 16:00:09: "Barack Obama<9><STEAM_0:0:118882021><Thief>" say "/advert ova"
+
+L 01/04/2021 - 16:00:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 16:01:32: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "listen mate"
+
+L 01/04/2021 - 16:01:36: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "dont do anything pls"
+
+L 01/04/2021 - 16:03:28: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "lol youll need to wait a bit i havent grown any yet lol"
+
+L 01/04/2021 - 16:08:14: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "YH"
+
+L 01/04/2021 - 16:08:16: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "yh"
+
+L 01/04/2021 - 16:08:21: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "what"
+
+L 01/04/2021 - 16:08:40: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "we need more ppl on"
+
+L 01/04/2021 - 16:10:47: "Jaems™<10><STEAM_0:0:578081804><>" connected, address "136.158.11.220:21057"
+L 01/04/2021 - 16:10:47: "Jaems™<10><STEAM_0:0:578081804><>" STEAM USERID validated
+L 01/04/2021 - 16:12:03: "Jaems™<10><STEAM_0:0:578081804><>" entered the game
+L 01/04/2021 - 16:12:56: "James Greg<10><STEAM_0:0:578081804><Hobo>" say "!workshop"
+
+L 01/04/2021 - 16:13:56: "Jaems™<10><STEAM_0:0:578081804><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:14:17: "JabbaTheHutt_Progamer<11><STEAM_0:0:159968542><>" connected, address "218.215.23.245:27005"
+L 01/04/2021 - 16:14:17: "JabbaTheHutt_Progamer<11><STEAM_0:0:159968542><>" STEAM USERID validated
+L 01/04/2021 - 16:14:25: "Jaems™<12><STEAM_0:0:578081804><>" connected, address "136.158.11.220:21057"
+L 01/04/2021 - 16:14:25: "Jaems™<12><STEAM_0:0:578081804><>" STEAM USERID validated
+L 01/04/2021 - 16:14:59: "Jaems™<12><STEAM_0:0:578081804><>" entered the game
+L 01/04/2021 - 16:15:35: "Jaems™<12><STEAM_0:0:578081804><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:16:16: "Jaems™<13><STEAM_0:0:578081804><>" connected, address "136.158.11.220:21057"
+L 01/04/2021 - 16:16:16: "Jaems™<13><STEAM_0:0:578081804><>" STEAM USERID validated
+L 01/04/2021 - 16:17:01: "Jaems™<13><STEAM_0:0:578081804><>" entered the game
+L 01/04/2021 - 16:18:36: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "wow"
+
+L 01/04/2021 - 16:18:40: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "dont do anything"
+
+L 01/04/2021 - 16:18:40: "James Greg<13><STEAM_0:0:578081804><Hobo>" say "u makin  oil?"
+
+L 01/04/2021 - 16:18:41: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "yh"
+
+L 01/04/2021 - 16:18:52: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "dont do anything im just testing the profit"
+
+L 01/04/2021 - 16:18:55: "James Greg<13><STEAM_0:0:578081804><Hobo>" say "ok"
+
+L 01/04/2021 - 16:19:06: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "stop"
+
+L 01/04/2021 - 16:19:08: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "back away"
+
+L 01/04/2021 - 16:19:13: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "just a bit"
+
+L 01/04/2021 - 16:19:20: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "ok what were u saying"
+
+L 01/04/2021 - 16:19:26: "James Greg<13><STEAM_0:0:578081804><Hobo>" say "does it only work on the beach?"
+
+L 01/04/2021 - 16:19:36: "James Johnson<7><STEAM_0:1:150661630><Oil Refiner>" say "yh i think i havent seen other oil spots"
+
+L 01/04/2021 - 16:20:09: "Jaems™<13><STEAM_0:0:578081804><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:20:14: "Solar<14><STEAM_0:1:487850826><>" connected, address "1.156.234.250:27005"
+L 01/04/2021 - 16:20:15: "Solar<14><STEAM_0:1:487850826><>" STEAM USERID validated
+L 01/04/2021 - 16:22:15: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "obama"
+
+L 01/04/2021 - 16:22:19: "JabbaTheHutt_Progamer<11><STEAM_0:0:159968542><>" entered the game
+L 01/04/2021 - 16:22:22: "Tamoko<15><STEAM_0:1:193244411><>" connected, address "121.208.52.111:27005"
+L 01/04/2021 - 16:22:22: "Tamoko<15><STEAM_0:1:193244411><>" STEAM USERID validated
+L 01/04/2021 - 16:22:22: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "come"
+
+L 01/04/2021 - 16:22:30: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "can u pls be a cop"
+
+L 01/04/2021 - 16:22:32: "Solar<14><STEAM_0:1:487850826><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:22:36: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "i will raid the pd and give u money"
+
+L 01/04/2021 - 16:22:41: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "alr"
+
+L 01/04/2021 - 16:22:43: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "jabba"
+
+L 01/04/2021 - 16:22:47: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "jabba"
+
+L 01/04/2021 - 16:22:53: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "can u become a cop"
+
+L 01/04/2021 - 16:23:11: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "css?"
+
+L 01/04/2021 - 16:23:41: "Feeyne<16><STEAM_0:1:128868430><>" connected, address "94.2.134.55:27005"
+L 01/04/2021 - 16:23:41: "Feeyne<16><STEAM_0:1:128868430><>" STEAM USERID validated
+L 01/04/2021 - 16:23:46: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "yh"
+
+L 01/04/2021 - 16:23:50: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "we need one more cop"
+
+L 01/04/2021 - 16:23:54: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "and one more person to join"
+
+L 01/04/2021 - 16:23:56: "JabbaTheHutt_Progamer<11><STEAM_0:0:159968542><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:24:04: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "well he left"
+
+L 01/04/2021 - 16:24:35: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "i cant hear your mic"
+
+L 01/04/2021 - 16:24:39: "Reece<17><STEAM_0:1:45091925><>" connected, address "101.190.144.75:27005"
+L 01/04/2021 - 16:24:40: "Reece<17><STEAM_0:1:45091925><>" STEAM USERID validated
+L 01/04/2021 - 16:24:49: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "when i raid the pd"
+
+L 01/04/2021 - 16:24:51: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "dont kill me"
+
+L 01/04/2021 - 16:24:55: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "bc im giving u money"
+
+L 01/04/2021 - 16:25:18: "Barack Obama<9><STEAM_0:0:118882021><Police Officer>" say "/DROP"
+
+L 01/04/2021 - 16:25:58: "Feeyne<16><STEAM_0:1:128868430><>" entered the game
+L 01/04/2021 - 16:26:26: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "feeyne"
+
+L 01/04/2021 - 16:26:29: "Reece<17><STEAM_0:1:45091925><>" entered the game
+L 01/04/2021 - 16:26:30: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "sexy cunt"
+
+L 01/04/2021 - 16:26:33: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ahah"
+
+L 01/04/2021 - 16:26:38: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "na na i wont raid u man"
+
+L 01/04/2021 - 16:26:40: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "i gotchu"
+
+L 01/04/2021 - 16:26:46: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "but u know the oil shit"
+
+L 01/04/2021 - 16:26:51: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "fcken rip off"
+
+L 01/04/2021 - 16:27:00: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "took me 50 mins and got like 70k"
+
+L 01/04/2021 - 16:27:09: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "can u become a cop pls"
+
+L 01/04/2021 - 16:27:16: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "pls"
+
+L 01/04/2021 - 16:27:23: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ty"
+
+L 01/04/2021 - 16:27:37: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "fck i wanna be a pro thief"
+
+L 01/04/2021 - 16:27:56: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "shhhh"
+
+L 01/04/2021 - 16:27:58: "Feeyne<16><STEAM_0:1:128868430><Pro Thief>" say "/raiding pd"
+
+L 01/04/2021 - 16:28:09: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "10 min cool down"
+
+L 01/04/2021 - 16:28:16: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "yh"
+
+L 01/04/2021 - 16:28:51: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "yh"
+
+L 01/04/2021 - 16:29:01: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "yh but after the pd raid"
+
+L 01/04/2021 - 16:29:12: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "how do u be a pro thif"
+
+L 01/04/2021 - 16:29:13: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "thief"
+
+L 01/04/2021 - 16:29:15: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "donator?"
+
+L 01/04/2021 - 16:29:21: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "how muxh"
+
+L 01/04/2021 - 16:29:28: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ya ayr ahah"
+
+L 01/04/2021 - 16:29:32: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "!donate"
+
+L 01/04/2021 - 16:29:37: "Feeyne<16><STEAM_0:1:128868430><Pro Thief>" say "t!donate "
+
+L 01/04/2021 - 16:29:41: "Feeyne<16><STEAM_0:1:128868430><Pro Thief>" say "!donate"
+
+L 01/04/2021 - 16:29:58: "Tamoko<15><STEAM_0:1:193244411><>" entered the game
+L 01/04/2021 - 16:30:20: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "alr"
+
+L 01/04/2021 - 16:30:21: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ty"
+
+L 01/04/2021 - 16:30:22: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "<3"
+
+L 01/04/2021 - 16:30:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 16:31:40: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "11:30"
+
+L 01/04/2021 - 16:31:43: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "geez"
+
+L 01/04/2021 - 16:32:29: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "feeyne"
+
+L 01/04/2021 - 16:32:32: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "how much money u got"
+
+L 01/04/2021 - 16:32:40: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "nice lad"
+
+L 01/04/2021 - 16:33:04: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "i got 3.5 aha"
+
+L 01/04/2021 - 16:33:08: "K9 Firebreak<18><STEAM_0:0:484745754><>" connected, address "117.20.70.209:27517"
+L 01/04/2021 - 16:33:08: "K9 Firebreak<18><STEAM_0:0:484745754><>" STEAM USERID validated
+L 01/04/2021 - 16:33:10: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "with a 4mil car"
+
+L 01/04/2021 - 16:33:14: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "with underglow"
+
+L 01/04/2021 - 16:33:25: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "got a ferrari"
+
+L 01/04/2021 - 16:33:30: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "i was gonna get the skyline"
+
+L 01/04/2021 - 16:33:36: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "shebab said"
+
+L 01/04/2021 - 16:33:41: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "theres gonna be new cars"
+
+L 01/04/2021 - 16:33:45: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "but there isnt"
+
+L 01/04/2021 - 16:33:52: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "im in the discord"
+
+L 01/04/2021 - 16:33:58: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "k"
+
+L 01/04/2021 - 16:34:43: "K9 Firebreak<18><STEAM_0:0:484745754><>" entered the game
+L 01/04/2021 - 16:34:47: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "HAHah"
+
+L 01/04/2021 - 16:34:54: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "this is lamborghini ferrari"
+
+L 01/04/2021 - 16:35:39: "Koba Dober<17><STEAM_0:1:45091925><Undercover Cop>" say "are you missing textures?"
+
+L 01/04/2021 - 16:35:44: "Bob Dober<18><STEAM_0:0:484745754><Citizen>" say "no"
+
+L 01/04/2021 - 16:35:46: "Koba Dober<17><STEAM_0:1:45091925><Undercover Cop>" say "hmm"
+
+L 01/04/2021 - 16:35:52: "Koba Dober<17><STEAM_0:1:45091925><Undercover Cop>" say "might be chromium"
+
+L 01/04/2021 - 16:35:56: "Koba Dober<17><STEAM_0:1:45091925><Undercover Cop>" say "messing it up"
+
+L 01/04/2021 - 16:36:07: "Reece<17><STEAM_0:1:45091925><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:37:32: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "yh"
+
+L 01/04/2021 - 16:37:49: Lua Error: 
+[zeros_weedfarm_1.7.1] addons/zeros_weedfarm_1.7.1/lua/entities/zwf_joint_ent/init.lua:48: attempt to call method 'SetWeedID' (a nil value)
+  1. unknown - addons/zeros_weedfarm_1.7.1/lua/entities/zwf_joint_ent/init.lua:48
+
+
+L 01/04/2021 - 16:37:56: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "HAHAHA"
+
+L 01/04/2021 - 16:38:09: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "we needa get bob"
+
+L 01/04/2021 - 16:38:12: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "to be a cop"
+
+L 01/04/2021 - 16:38:17: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "or tamoko"
+
+L 01/04/2021 - 16:38:23: "Reece<19><STEAM_0:1:45091925><>" connected, address "101.190.144.75:27005"
+L 01/04/2021 - 16:38:23: "Reece<19><STEAM_0:1:45091925><>" STEAM USERID validated
+L 01/04/2021 - 16:38:28: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "what r the fcken odds of that happeneing"
+
+L 01/04/2021 - 16:38:30: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "happening"
+
+L 01/04/2021 - 16:38:43: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "shheeeeshhh"
+
+L 01/04/2021 - 16:38:48: "Tamoko<15><STEAM_0:1:193244411><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:38:52: "Feeyne<16><STEAM_0:1:128868430><Pro Thief>" say "!GOTO Bob Dober"
+
+L 01/04/2021 - 16:38:57: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "AHAH"
+
+L 01/04/2021 - 16:39:05: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "mans teleported to him"
+
+L 01/04/2021 - 16:39:15: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "AHha"
+
+L 01/04/2021 - 16:39:18: "Reece<19><STEAM_0:1:45091925><>" entered the game
+L 01/04/2021 - 16:39:29: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "@if ya want tp to me now"
+
+L 01/04/2021 - 16:39:35: "Feeyne<16><STEAM_0:1:128868430><Pro Thief>" say "/advertise "
+
+L 01/04/2021 - 16:39:43: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "/ad raid pd"
+
+L 01/04/2021 - 16:39:47: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "/advert pd raid"
+
+L 01/04/2021 - 16:40:43: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "leave"
+
+L 01/04/2021 - 16:40:49: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "oh ok"
+
+L 01/04/2021 - 16:41:53: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "feeyne"
+
+L 01/04/2021 - 16:42:00: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "after this wanna buy guns?"
+
+L 01/04/2021 - 16:42:03: "K9 Firebreak<18><STEAM_0:0:484745754><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:43:00: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "feeyne"
+
+L 01/04/2021 - 16:43:04: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "wanna buy guns after?"
+
+L 01/04/2021 - 16:43:15: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "u got a mil"
+
+L 01/04/2021 - 16:43:32: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "how much does it cost to upgrade a printer"
+
+L 01/04/2021 - 16:43:42: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "omg"
+
+L 01/04/2021 - 16:43:59: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "we need that koba got"
+
+L 01/04/2021 - 16:44:00: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "guy"
+
+L 01/04/2021 - 16:44:06: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "or u ahaha"
+
+L 01/04/2021 - 16:45:17: "Reece<19><STEAM_0:1:45091925><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:46:03: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ahaha"
+
+L 01/04/2021 - 16:46:13: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "omfg"
+
+L 01/04/2021 - 16:46:20: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "we need one persone"
+
+L 01/04/2021 - 16:46:22: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "to join"
+
+L 01/04/2021 - 16:46:27: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "the server"
+
+L 01/04/2021 - 16:46:30: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "it has to be 6 on"
+
+L 01/04/2021 - 16:47:03: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ahaha"
+
+L 01/04/2021 - 16:47:19: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "we need one more person to join"
+
+L 01/04/2021 - 16:47:28: "K9 Firebreak<20><STEAM_0:0:484745754><>" connected, address "117.20.70.209:27517"
+L 01/04/2021 - 16:47:29: "K9 Firebreak<20><STEAM_0:0:484745754><>" STEAM USERID validated
+L 01/04/2021 - 16:47:30: "K9 Firebreak<20><STEAM_0:0:484745754><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 16:47:31: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "YES"
+
+L 01/04/2021 - 16:47:33: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ing"
+
+L 01/04/2021 - 16:47:33: "K9 Firebreak<21><STEAM_0:0:484745754><>" connected, address "117.20.70.209:27517"
+L 01/04/2021 - 16:47:33: "K9 Firebreak<21><STEAM_0:0:484745754><>" STEAM USERID validated
+L 01/04/2021 - 16:47:34: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "omg"
+
+L 01/04/2021 - 16:47:45: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "the cunt needs to go in the server in 1min"
+
+L 01/04/2021 - 16:47:51: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "take me out"
+
+L 01/04/2021 - 16:48:11: "Shroob<9><STEAM_0:0:118882021><>" disconnected (reason "Client timed out")
+L 01/04/2021 - 16:48:12: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "help"
+
+L 01/04/2021 - 16:48:14: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "omg"
+
+L 01/04/2021 - 16:48:23: "K9 Firebreak<21><STEAM_0:0:484745754><>" entered the game
+L 01/04/2021 - 16:48:24: "Shroob<22><STEAM_0:0:118882021><>" connected, address "49.181.197.5:7433"
+L 01/04/2021 - 16:48:24: "Shroob<22><STEAM_0:0:118882021><>" STEAM USERID validated
+L 01/04/2021 - 16:48:26: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "this cunt just left"
+
+L 01/04/2021 - 16:48:33: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "do kill"
+
+L 01/04/2021 - 16:48:37: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "i cant die"
+
+L 01/04/2021 - 16:48:40: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "for the robbery shit"
+
+L 01/04/2021 - 16:48:47: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "go in console and type kill"
+
+L 01/04/2021 - 16:49:00: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "and get bob to be a cop"
+
+L 01/04/2021 - 16:49:14: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "fck man"
+
+L 01/04/2021 - 16:49:22: "Reece<23><STEAM_0:1:45091925><>" connected, address "101.190.144.75:27005"
+L 01/04/2021 - 16:49:22: "Reece<23><STEAM_0:1:45091925><>" STEAM USERID validated
+L 01/04/2021 - 16:49:28: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "fck"
+
+L 01/04/2021 - 16:50:16: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "if u type kill in console u die"
+
+L 01/04/2021 - 16:50:23: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "i have a gun on me"
+
+L 01/04/2021 - 16:50:26: "Reece<23><STEAM_0:1:45091925><>" entered the game
+L 01/04/2021 - 16:50:44: "Shroob<22><STEAM_0:0:118882021><>" entered the game
+L 01/04/2021 - 16:50:54: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ty"
+
+L 01/04/2021 - 16:51:03: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "gutys"
+
+L 01/04/2021 - 16:51:04: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "BE COPS"
+
+L 01/04/2021 - 16:51:09: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "omg"
+
+L 01/04/2021 - 16:51:10: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "ahaha"
+
+L 01/04/2021 - 16:51:12: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "be cops guys"
+
+L 01/04/2021 - 16:51:30: "Feeyne<16><STEAM_0:1:128868430><Swat Heavy>" say "76561198198029770 == Barack Obama is a cheater!"
+
+L 01/04/2021 - 16:51:39: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "AHAHAh"
+
+L 01/04/2021 - 16:52:25: "Koba Dober<23><STEAM_0:1:45091925><Parkour Master>" say "!3p"
+
+L 01/04/2021 - 16:52:26: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "feyne"
+
+L 01/04/2021 - 16:52:29: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "feeyne"
+
+L 01/04/2021 - 16:53:13: "Bob Dober<21><STEAM_0:0:484745754><Citizen>" say "/DROP"
+
+L 01/04/2021 - 16:53:15: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "wanna buy guns?"
+
+L 01/04/2021 - 16:53:21: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "alr"
+
+L 01/04/2021 - 16:53:25: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "/drop"
+
+L 01/04/2021 - 16:53:29: "James Johnson<7><STEAM_0:1:150661630><Thief>" say "alr"
+
+L 01/04/2021 - 16:53:45: "Bob Dober<21><STEAM_0:0:484745754><Citizen>" say "!3p"
+
+L 01/04/2021 - 16:54:21: "Barack Obama<22><STEAM_0:0:118882021><Parkour Master>" say "I am COOL."
+
+L 01/04/2021 - 16:54:27: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "hows it goin mate"
+
+L 01/04/2021 - 16:54:39: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "2?"
+
+L 01/04/2021 - 16:54:47: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "yep"
+
+L 01/04/2021 - 16:54:59: "Feeyne<16><STEAM_0:1:128868430><Bitcoin Miner>" say "/dropmoney 500000"
+
+L 01/04/2021 - 16:55:18: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "anything else?"
+
+L 01/04/2021 - 16:55:20: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "i got more"
+
+L 01/04/2021 - 16:55:23: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "alr man"
+
+L 01/04/2021 - 16:55:29: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "wait is bitcoin worth it?"
+
+L 01/04/2021 - 16:55:35: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "do u actually?"
+
+L 01/04/2021 - 16:55:38: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "i might try it"
+
+L 01/04/2021 - 16:55:45: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "alr man"
+
+L 01/04/2021 - 16:55:48: "James Johnson<7><STEAM_0:1:150661630><Black Market Dealer>" say "cya"
+
+L 01/04/2021 - 16:56:20: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "not home lol"
+
+L 01/04/2021 - 16:56:52: "Issac<24><STEAM_0:1:33775918><>" connected, address "138.130.194.217:27005"
+L 01/04/2021 - 16:56:52: "Issac<24><STEAM_0:1:33775918><>" STEAM USERID validated
+L 01/04/2021 - 16:57:14: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "this is the oil area"
+
+L 01/04/2021 - 16:57:31: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "wanna base?"
+
+L 01/04/2021 - 16:57:35: "Bob Dober<21><STEAM_0:0:484745754><Oil Refiner>" say "/advert Mug drop 15k or die"
+
+L 01/04/2021 - 16:57:40: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "wanna base?"
+
+L 01/04/2021 - 16:58:00: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "AHAHAh"
+
+L 01/04/2021 - 16:58:10: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "on my last server"
+
+L 01/04/2021 - 16:58:13: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "i did bitcoin shit"
+
+L 01/04/2021 - 16:58:16: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "it was trhe best"
+
+L 01/04/2021 - 16:58:35: "Issac<24><STEAM_0:1:33775918><>" entered the game
+L 01/04/2021 - 16:59:40: "Issac Wilderson<24><STEAM_0:1:33775918><Citizen>" say "!noclip"
+
+L 01/04/2021 - 17:00:37: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "huh"
+
+L 01/04/2021 - 17:00:37: AWarn: Your server info has been updated to the online statistics tracking
+L 01/04/2021 - 17:01:51: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "isaac"
+
+L 01/04/2021 - 17:01:52: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "eshay"
+
+L 01/04/2021 - 17:01:53: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "eshay"
+
+L 01/04/2021 - 17:01:57: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "im doing bitcoin rn"
+
+L 01/04/2021 - 17:02:24: "engineergayming<25><STEAM_0:0:583174378><>" connected, address "210.50.202.88:27005"
+L 01/04/2021 - 17:02:24: "engineergayming<25><STEAM_0:0:583174378><>" STEAM USERID validated
+L 01/04/2021 - 17:02:47: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "issac"
+
+L 01/04/2021 - 17:02:52: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "do u know how to get power"
+
+L 01/04/2021 - 17:03:26: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "i dont have barrell"
+
+L 01/04/2021 - 17:03:43: "Aussieplayzz<26><STEAM_0:0:57155810><>" connected, address "180.150.114.215:3454"
+L 01/04/2021 - 17:03:43: "Aussieplayzz<26><STEAM_0:0:57155810><>" STEAM USERID validated
+L 01/04/2021 - 17:04:19: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "ty"
+
+L 01/04/2021 - 17:04:29: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "yh i did"
+
+L 01/04/2021 - 17:04:33: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "how do i see how much i got"
+
+L 01/04/2021 - 17:04:48: "Feeyne<16><STEAM_0:1:128868430><Money Printer>" say "!stopsounds"
+
+L 01/04/2021 - 17:05:47: "Barack Obama<22><STEAM_0:0:118882021><Hacker>" say "/drop"
+
+L 01/04/2021 - 17:05:52: "Barack Obama<22><STEAM_0:0:118882021><Hacker>" say "/drop"
+
+L 01/04/2021 - 17:06:07: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "how much is tier 10"
+
+L 01/04/2021 - 17:06:13: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "how much is tier 10"
+
+L 01/04/2021 - 17:06:33: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "issac ur tmod now"
+
+L 01/04/2021 - 17:06:34: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "nice"
+
+L 01/04/2021 - 17:06:46: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "the bank"
+
+L 01/04/2021 - 17:06:47: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "yh"
+
+L 01/04/2021 - 17:07:01: "Aussieplayzz<26><STEAM_0:0:57155810><>" disconnected (reason "Disconnect by user.")
+L 01/04/2021 - 17:07:08: "Ricky Baker<27><STEAM_0:1:198146806><>" connected, address "120.149.111.122:27005"
+L 01/04/2021 - 17:07:09: "Ricky Baker<27><STEAM_0:1:198146806><>" STEAM USERID validated
+L 01/04/2021 - 17:07:13: "Barack Obama<22><STEAM_0:0:118882021><Thief>" say "/advert raid ;-;"
+
+L 01/04/2021 - 17:07:17: "engineergayming<25><STEAM_0:0:583174378><>" disconnected (reason "engineergayming timed out")
+L 01/04/2021 - 17:07:28: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "OI"
+
+L 01/04/2021 - 17:07:30: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "THEY HERE"
+
+L 01/04/2021 - 17:07:41: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "i dont"
+
+L 01/04/2021 - 17:07:46: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "i need a gun"
+
+L 01/04/2021 - 17:08:25: "Jay<8><STEAM_0:0:57322768><Weed Grower>" say "/advert anyone selling guns"
+
+L 01/04/2021 - 17:08:29: "engineergayming<28><STEAM_0:0:583174378><>" connected, address "103.2.198.125:27005"
+L 01/04/2021 - 17:08:30: "engineergayming<28><STEAM_0:0:583174378><>" STEAM USERID validated
+L 01/04/2021 - 17:09:26: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "bro"
+
+L 01/04/2021 - 17:09:28: "James Johnson<7><STEAM_0:1:150661630><Bitcoin Miner>" say "I FCKEN HID"
+
+L 01/04/2021 - 17:09:35: "Barack Obama<22><STEAM_0:0:118882021><Thief>" say "// hahahaha nlr but ok"
+
+L 01/04/202

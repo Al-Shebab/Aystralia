@@ -1,0 +1,1 @@
+{"1":{"Data":{"Amount":6.0,"Contents":16.0,"Class":"m9k_browningauto5"},"Class":"spawned_shipment"},"2":{"Data":{"Amount":8.0,"Class":"m9k_uzi","Contents":10.0},"Class":"spawned_shipment"},"4":{"Data":{"Amount":30.0,"Model":"models/items/boxmrounds.mdl","AmmoType":"SniperRound"},"Class":"spawned_ammo"}}

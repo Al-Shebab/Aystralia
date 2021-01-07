@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Contents":20.0,"Class":"m9k_m16a4_acog"},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Clip1":30.0,"Ammo":60.0,"Class":"m9k_m16a4_acog","Model":"models/weapons/w_dmg_m16ag.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

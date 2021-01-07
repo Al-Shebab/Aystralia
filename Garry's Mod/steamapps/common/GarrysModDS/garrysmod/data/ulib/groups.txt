@@ -1,22 +1,21 @@
 "donator-moderator"	
 {
-	"can_target"	"!%senior-moderator"
 	"allow"	
 	{
 	}
+	"can_target"	"!%senior-moderator"
 	"inherit_from"	"moderator"
 }
 "sydney"	
 {
-	"can_target"	"!%trial-moderator"
 	"allow"	
 	{
 	}
+	"can_target"	"!%trial-moderator"
 	"inherit_from"	"melbourne"
 }
 "moderator"	
 {
-	"can_target"	"!%donator-moderator"
 	"allow"	
 	{
 		"awarn_warn"
@@ -49,54 +48,70 @@
 		"ulx banid"	"* 0:1w"
 		"ulx ban"	"* 0:1w"
 	}
+	"can_target"	"!%donator-moderator"
 	"inherit_from"	"donator-trial-moderator"
 }
 "donator-admin"	
 {
-	"can_target"	"!%senior-admin"
 	"allow"	
 	{
 	}
+	"can_target"	"!%senior-admin"
 	"inherit_from"	"admin"
 }
 "perth"	
 {
-	"can_target"	"!%brisbane"
 	"allow"	
 	{
 	}
+	"can_target"	"!%brisbane"
 	"inherit_from"	"trusted"
 }
-"donator-senior-moderator"	
+"staff-manager"	
 {
-	"can_target"	"!%admin"
 	"allow"	
 	{
+		"awarn_delete"
+		"ulx banip"
+		"ulx hiddenecho"
+		"ulx maul"
+		"ulx ragdoll"
+		"ulx removeuser"
+		"ulx seeanonymousechoes"
+		"ulx seeasay"
+		"ulx seesasay"
+		"ulx spawnecho"
+		"ulx whip"
+		"ulx who"
+		"ulx removeuserid"	"<STEAM_0:1:121087763,STEAM_0:0:103364981>"
+		"ulx adduser"	"* <senior-admin,donator-admin,admin,donator-senior-moderator,senior-moderator,donator-moderator,moderator,donator-trial-moderator,trial-moderator>"
+		"ulx adduserid"	"* <senior-admin,donator-admin,admin,senior-moderator,donator-senior-moderator,donator-moderator,moderator,donator-trial-moderator,trial-moderator>"
 	}
-	"inherit_from"	"senior-moderator"
+	"can_target"	"!%superadmin"
+	"inherit_from"	"senior-admin"
 }
 "melbourne"	
 {
-	"can_target"	"!%sydney"
 	"allow"	
 	{
 	}
+	"can_target"	"!%sydney"
 	"inherit_from"	"brisbane"
 }
 "trusted"	
 {
-	"can_target"	"!%perth"
 	"allow"	
 	{
 	}
+	"can_target"	"!%perth"
 	"inherit_from"	"user"
 }
 "brisbane"	
 {
-	"can_target"	"!%melbourne"
 	"allow"	
 	{
 	}
+	"can_target"	"!%melbourne"
 	"inherit_from"	"perth"
 }
 "superadmin"	
@@ -214,32 +229,23 @@
 }
 "senior-moderator"	
 {
-	"can_target"	"!%donator-senior-moderator"
 	"allow"	
 	{
 	}
+	"can_target"	"!%donator-senior-moderator"
 	"inherit_from"	"donator-moderator"
 }
-"user"	
+"donator-trial-moderator"	
 {
-	"can_target"	"!%trusted"
 	"allow"	
 	{
-		"awarn_view"
-		"ulx addons"
-		"ulx apply"
-		"ulx asay"
-		"ulx bugs"
-		"ulx discord"
-		"ulx donate"
-		"ulx group"
-		"ulx report"
-		"ulx rules"
-		"ulx workshop"
 	}
+	"can_target"	"!%moderator"
+	"inherit_from"	"trial-moderator"
 }
 "admin"	
 {
+	"can_target"	"!%donator-admin"
 	"allow"	
 	{
 		"awarn_remove"
@@ -311,7 +317,6 @@
 		"ulx kickafternamechangescooldown"
 		"ulx kickafternamechangeswarning"
 		"ulx launch"
-		"ulx map"
 		"ulx material"
 		"ulx mechatenabled"
 		"ulx model"
@@ -398,12 +403,10 @@
 		"ulx welcomemessage"
 		"ulx who"
 	}
-	"can_target"	"!%donator-admin"
 	"inherit_from"	"donator-senior-moderator"
 }
 "trial-moderator"	
 {
-	"can_target"	"!%donator-trial-moderator"
 	"allow"	
 	{
 		"awarn_warn"
@@ -435,32 +438,19 @@
 		"ulx who"
 		"ulx ban"	"* :1d"
 	}
+	"can_target"	"!%donator-trial-moderator"
 	"inherit_from"	"sydney"
 }
-"staff-manager"	
+"donator-senior-moderator"	
 {
-	"can_target"	"!%superadmin"
 	"allow"	
 	{
-		"awarn_delete"
-		"ulx adduser"
-		"ulx adduserid"
-		"ulx hiddenecho"
-		"ulx maul"
-		"ulx ragdoll"
-		"ulx removeuser"
-		"ulx removeuserid"
-		"ulx seeanonymousechoes"
-		"ulx seeasay"
-		"ulx spawnecho"
-		"ulx whip"
-		"ulx who"
 	}
-	"inherit_from"	"senior-admin"
+	"can_target"	"!%admin"
+	"inherit_from"	"senior-moderator"
 }
 "senior-admin"	
 {
-	"can_target"	"!%staff-manager"
 	"allow"	
 	{
 		"ulx hiddenecho"
@@ -470,13 +460,26 @@
 		"ulx who"
 		"xgui_managebans"
 	}
+	"can_target"	"!%staff-manager"
 	"inherit_from"	"donator-admin"
 }
-"donator-trial-moderator"	
+"user"	
 {
-	"can_target"	"!%moderator"
 	"allow"	
 	{
+		"awarn_view"
+		"ulx addons"
+		"ulx apply"
+		"ulx asay"
+		"ulx bugs"
+		"ulx content"
+		"ulx discord"
+		"ulx donate"
+		"ulx getmoney"
+		"ulx group"
+		"ulx report"
+		"ulx rules"
+		"ulx workshop"
 	}
-	"inherit_from"	"trial-moderator"
+	"can_target"	"!%trusted"
 }

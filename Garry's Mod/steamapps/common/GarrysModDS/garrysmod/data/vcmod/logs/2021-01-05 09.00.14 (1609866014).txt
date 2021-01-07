@@ -1,0 +1,61 @@
+2021-01-05 09.00.14: <General> Logging started, map: rp_downtown_v4c.
+2021-01-05 09.00.14: <General> Welcome to VCMod Auto-Updater version 9.65.
+2021-01-05 09.00.14: <General> Pre-initialization complete, preparing to load addon data.
+2021-01-05 09.00.14: <General> Addons found: VCMod Main.
+2021-01-05 09.01.03: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2021-01-05 09.01.19: <General> Preparations are complete, handshaking API.
+2021-01-05 09.01.19: <General> Handshake successful.
+2021-01-05 09.01.19: <General> Handshake finished.
+2021-01-05 09.01.20: <General> Contacting preload API.
+2021-01-05 09.01.21: <General> Initializing preload.
+2021-01-05 09.01.21: <General> Preload finished. Initializing addons.
+2021-01-05 09.01.21: <General> Started loading serverside.
+2021-01-05 09.01.21: <General> Loaded Main v1.737 serverside.
+2021-01-05 09.01.21: <General> Finished loading serverside.
+2021-01-05 09.01.27: <General> Scanning for potentially incompatible hooks.
+2021-01-05 09.01.27: <General> No incompatibilities found.
+2021-01-05 09.01.27: <General> General vehicle data is up to date.
+2021-01-05 09.01.27: <Fuel> All fuel stations have been respawned.
+2021-01-05 09.02.07: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2021-01-05 09.02.08: <General> Sent API key to player Al Shebab. 99 keys left.
+2021-01-05 09.02.08: <General> Initializing player Al Shebab.
+2021-01-05 09.02.15: <General> Player Mike Lui has loaded and is waiting for a temp-key.
+2021-01-05 09.02.16: <General> Sent API key to player Mike Lui. 98 keys left.
+2021-01-05 09.02.16: <General> Initializing player Mike Lui.
+2021-01-05 09.02.41: <General> Player Lil Kitty has loaded and is waiting for a temp-key.
+2021-01-05 09.02.42: <General> Sent API key to player Lil Kitty. 97 keys left.
+2021-01-05 09.02.42: <General> Initializing player Lil Kitty.
+2021-01-05 09.02.58: <General> Player jimmy joe has loaded and is waiting for a temp-key.
+2021-01-05 09.03.00: <General> Sent API key to player jimmy joe. 96 keys left.
+2021-01-05 09.03.00: <General> Initializing player jimmy joe.
+2021-01-05 09.03.20: <General> Player Issac Wilderson has loaded and is waiting for a temp-key.
+2021-01-05 09.03.20: <General> Sent API key to player Issac Wilderson. 95 keys left.
+2021-01-05 09.03.20: <General> Initializing player Issac Wilderson.
+2021-01-05 09.04.58: <General> Player Jnr has loaded and is waiting for a temp-key.
+2021-01-05 09.04.59: <General> Sent API key to player Jnr. 94 keys left.
+2021-01-05 09.04.59: <General> Initializing player Jnr.
+2021-01-05 09.05.26: <General> Player NWA_SKULL has loaded and is waiting for a temp-key.
+2021-01-05 09.05.27: <General> Sent API key to player NWA_SKULL. 93 keys left.
+2021-01-05 09.05.27: <General> Initializing player NWA_SKULL.
+2021-01-05 09.05.41: <General> Player Kerry Elliott has loaded and is waiting for a temp-key.
+2021-01-05 09.05.43: <General> Sent API key to player Kerry Elliott. 92 keys left.
+2021-01-05 09.05.43: <General> Initializing player Kerry Elliott.
+2021-01-05 09.06.42: <General> Player Handy Mandy has loaded and is waiting for a temp-key.
+2021-01-05 09.06.43: <General> Sent API key to player Handy Mandy. 91 keys left.
+2021-01-05 09.06.43: <General> Initializing player Handy Mandy.
+2021-01-05 09.07.52: <General> Vehicle data "Bugatti Veyron SS" loaded.
+2021-01-05 09.08.06: <General> vehicle "Bugatti Veyron SS(TDM Cars)" has exploded.
+2021-01-05 09.08.30: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.09.58: <General> vehicle "Bugatti Veyron SS(TDM Cars)" has exploded.
+2021-01-05 09.11.14: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.11.27: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.11.36: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.11.43: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.11.54: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.12.10: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.12.20: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.12.26: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.12.43: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.13.00: <General> Vehicle data "Ferrari LaFerrari" loaded.
+2021-01-05 09.13.44: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-05 09.14.05: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.

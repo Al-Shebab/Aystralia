@@ -1,0 +1,24 @@
+2020-12-27 22.35.06: <General> Logging started, map: rp_downtown_v4c.
+2020-12-27 22.35.06: <General> Welcome to VCMod Auto-Updater version 9.65.
+2020-12-27 22.35.06: <General> Pre-initialization complete, preparing to load addon data.
+2020-12-27 22.35.06: <General> Addons found: VCMod Main.
+2020-12-27 22.36.14: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2020-12-27 22.36.19: <General> Preparations are complete, handshaking API.
+2020-12-27 22.36.19: <General> Handshake successful.
+2020-12-27 22.36.19: <General> Handshake finished.
+2020-12-27 22.36.20: <General> Contacting preload API.
+2020-12-27 22.36.20: <General> Initializing preload.
+2020-12-27 22.36.20: <General> Preload finished. Initializing addons.
+2020-12-27 22.36.20: <General> Started loading serverside.
+2020-12-27 22.36.21: <General> Loaded Main v1.737 serverside.
+2020-12-27 22.36.21: <General> Finished loading serverside.
+2020-12-27 22.36.25: <General> Scanning for potentially incompatible hooks.
+2020-12-27 22.36.25: <General> No incompatibilities found.
+2020-12-27 22.36.26: <General> General vehicle data is up to date.
+2020-12-27 22.36.26: <Fuel> All fuel stations have been respawned.
+2020-12-27 22.38.06: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2020-12-27 22.38.07: <General> Sent API key to player Al Shebab. 99 keys left.
+2020-12-27 22.38.07: <General> Initializing player Al Shebab.
+2020-12-27 22.42.25: <General> Player brexit has loaded and is waiting for a temp-key.
+2020-12-27 22.42.26: <General> Sent API key to player brexit. 98 keys left.
+2020-12-27 22.42.26: <General> Initializing player brexit.

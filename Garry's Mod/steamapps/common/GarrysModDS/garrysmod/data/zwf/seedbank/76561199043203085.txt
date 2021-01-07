@@ -1,0 +1,42 @@
+[
+	{
+		"Weed_ID": 4.0,
+		"Weed_Name": "AK-47",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 4.0,
+		"Weed_Name": "AK-47",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 2.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	},
+	{
+		"Weed_ID": 7.0,
+		"Weed_Name": "Dark Devil",
+		"Perf_Amount": 100.0,
+		"Perf_Time": 100.0,
+		"SeedCount": 1.0,
+		"Perf_THC": 100.0
+	}
+]

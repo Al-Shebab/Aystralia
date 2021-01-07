@@ -1,0 +1,6 @@
+[
+	{
+		"text": "Type your message here",
+		"author": "Vivienne Westwood"
+	}
+]

@@ -1,28 +1,7 @@
-**/*.db
-**/*.backup
-**/*.log
-**/*.dat
-**/*.dat_old
-**/*.lock
-
-**/world
-**/world_nether
-**/world_the_end
-**/logs
-**/cache
-
-**/.console_history
-**/plugins/mcMMO/backup
-**/plugins/AuctionHouse/auctions.db
-**/plugins/AuctionHouse/auctions.db.backup
-**/plugins/Jobs/jobs.sqlite.db
-**/plugins/CMI/cmi.sqlite.db
-**/plugins/WorldGuard/cache/profiles.sqlite
-**/usercache.json
-**/plugins/GriefPreventionData/PlayerData/
-
 ARK/*
 Rust/*
+Minecraft/*
+FiveM/*
 
 Garry's Mod/steamapps/common/GarrysModDS/sourceengine/*
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/garrysmod_000.vpk
@@ -31,3 +10,4 @@ Garry's Mod/steamapps/common/GarrysModDS/garrysmod/garrysmod_002.vpk
 Garry's Mod/logs/*
 Garry's Mod/steamapps/common/GarrysModDS/start.bat
 Garry's Mod/steamapps/common/GarrysModDS/cstrike/*
+Garry's Mod/steamapps/common/GarrysModDS/garrysmod/cache/*

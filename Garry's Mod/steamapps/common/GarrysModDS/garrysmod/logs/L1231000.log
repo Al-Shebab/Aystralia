@@ -1,0 +1,1941 @@
+L 12/31/2020 - 04:00:19: Log file started (file "logs\L1231000.log") (game "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\garrysmod") (version "7891")
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_noclip" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxprops" "150"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxragdolls" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxnpcs" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxballoons" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxeffects" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxdynamite" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxlamps" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxthrusters" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxwheels" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxhoverballs" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxvehicles" "1"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxbuttons" "10"
+L 12/31/2020 - 04:00:19: server_cvar: "sbox_maxemitters" "0"
+L 12/31/2020 - 04:00:19: server_cvar: "sv_airaccelerate" "1000"
+L 12/31/2020 - 04:00:20: Connection to Steam servers successful.
+L 12/31/2020 - 04:00:20:    Public IP is 139.99.208.69.
+L 12/31/2020 - 04:00:20: Assigned anonymous gameserver Steam ID [A-1:2365915138(16200)].
+L 12/31/2020 - 04:00:20: VAC secure mode is activated.
+L 12/31/2020 - 04:00:20: "Al Shebab<2><STEAM_0:0:103364981><>" connected, address "220.240.7.41:27005"
+L 12/31/2020 - 04:00:20: AWarn: Message Table Exists
+L 12/31/2020 - 04:00:20: AWarn: Player Data Table Exists
+L 12/31/2020 - 04:00:20: AWarn: Offline Player Data Table Exists
+L 12/31/2020 - 04:00:21: "Al Shebab<2><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/31/2020 - 04:00:27: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 04:02:00: "Al Shebab<2><STEAM_0:0:103364981><>" entered the game
+L 12/31/2020 - 04:06:11: "TheRealLayth<3><STEAM_0:0:84012375><>" connected, address "124.170.54.86:27005"
+L 12/31/2020 - 04:06:11: "TheRealLayth<3><STEAM_0:0:84012375><>" STEAM USERID validated
+L 12/31/2020 - 04:09:59: "TheRealLayth<3><STEAM_0:0:84012375><>" entered the game
+L 12/31/2020 - 04:12:12: "TheRealLayth<3><STEAM_0:0:84012375><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 04:13:54: "TheRealLayth<4><STEAM_0:0:84012375><>" connected, address "124.170.54.86:27005"
+L 12/31/2020 - 04:13:55: "TheRealLayth<4><STEAM_0:0:84012375><>" STEAM USERID validated
+L 12/31/2020 - 04:18:41: "TheRealLayth<4><STEAM_0:0:84012375><>" entered the game
+L 12/31/2020 - 04:24:05: "TheRealLayth<4><STEAM_0:0:84012375><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 04:30:35: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 05:00:35: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 05:30:35: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 06:00:36: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 06:30:43: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 06:58:04: "Feeyne<5><STEAM_0:1:128868430><>" connected, address "94.2.134.55:27005"
+L 12/31/2020 - 06:58:04: "Feeyne<5><STEAM_0:1:128868430><>" STEAM USERID validated
+L 12/31/2020 - 07:00:23: "Feeyne<5><STEAM_0:1:128868430><>" entered the game
+L 12/31/2020 - 07:00:48: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 07:13:48: "TheRealLayth<6><STEAM_0:0:84012375><>" connected, address "124.170.54.86:27005"
+L 12/31/2020 - 07:13:48: "TheRealLayth<6><STEAM_0:0:84012375><>" STEAM USERID validated
+L 12/31/2020 - 07:14:28: "Feeyne<5><STEAM_0:1:128868430><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 07:20:05: "TheRealLayth<6><STEAM_0:0:84012375><>" entered the game
+L 12/31/2020 - 07:20:26: "TheRealLayth<6><STEAM_0:0:84012375><Citizen>" say "!disc"
+
+L 12/31/2020 - 07:20:29: "TheRealLayth<6><STEAM_0:0:84012375><Citizen>" say "!discord"
+
+L 12/31/2020 - 07:22:49: "TheRealLayth<6><STEAM_0:0:84012375><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 07:29:44: "Al Shebab<2><STEAM_0:0:103364981><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 07:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 08:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 08:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 09:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 09:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 10:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 10:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 11:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 11:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 12:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 12:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 13:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 13:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 14:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 14:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 15:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 15:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 16:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 16:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 17:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 17:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 18:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 18:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 19:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 19:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 20:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 20:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 21:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 21:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 21:58:29: "TheRealLayth<7><STEAM_0:0:84012375><>" connected, address "110.175.64.165:27005"
+L 12/31/2020 - 21:58:30: "TheRealLayth<7><STEAM_0:0:84012375><>" STEAM USERID validated
+L 12/31/2020 - 21:58:30: "TheRealLayth<7><STEAM_0:0:84012375><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 22:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 22:30:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 23:00:49: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 23:01:25: "Al Shebab<8><STEAM_0:0:103364981><>" connected, address "220.240.7.41:27005"
+L 12/31/2020 - 23:01:26: "Al Shebab<8><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/31/2020 - 23:02:28: "Al Shebab<8><STEAM_0:0:103364981><>" entered the game
+L 12/31/2020 - 23:11:18: "TheRealLayth<9><STEAM_0:0:84012375><>" connected, address "110.175.64.165:27005"
+L 12/31/2020 - 23:11:19: "TheRealLayth<9><STEAM_0:0:84012375><>" STEAM USERID validated
+L 12/31/2020 - 23:16:17: "TheRealLayth<9><STEAM_0:0:84012375><>" entered the game
+L 12/31/2020 - 23:27:18: "TheRealLayth<9><STEAM_0:0:84012375><Vapist>" say "!addons"
+
+L 12/31/2020 - 23:29:04: "TheRealLayth<9><STEAM_0:0:84012375><Vapist>" say "MY ARMS ARE LIKE FUCKING CANNONS"
+
+L 12/31/2020 - 23:29:44: "TheRealLayth<9><STEAM_0:0:84012375><Vapist>" say "It's my arm man! My fuckin' arm!"
+
+L 12/31/2020 - 23:30:02: "TheRealLayth<9><STEAM_0:0:84012375><Vapist>" say "It's my arm man! My fuckin' arm!"
+
+L 12/31/2020 - 23:30:03: "TheRealLayth<9><STEAM_0:0:84012375><Vapist>" say "It's my arm man! My fuckin' arm!"
+
+L 12/31/2020 - 23:30:50: AWarn: Your server info has been updated to the online statistics tracking
+L 12/31/2020 - 23:32:01: "TheRealLayth<9><STEAM_0:0:84012375><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 23:46:35: "Al Shebab<8><STEAM_0:0:103364981><>" disconnected (reason "Disconnect by user.")
+L 12/31/2020 - 23:58:03: "Al Shebab<10><STEAM_0:0:103364981><>" connected, address "220.240.7.41:27005"
+L 12/31/2020 - 23:58:03: "Al Shebab<10><STEAM_0:0:103364981><>" STEAM USERID validated
+L 12/31/2020 - 23:58:43: "Al Shebab<10><STEAM_0:0:103364981><>" entered the game
+L 01/01/2021 - 00:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 00:05:39: "TheRealLayth<11><STEAM_0:0:84012375><>" connected, address "110.175.64.165:27005"
+L 01/01/2021 - 00:05:39: "TheRealLayth<11><STEAM_0:0:84012375><>" STEAM USERID validated
+L 01/01/2021 - 00:07:21: "TheRealLayth<11><STEAM_0:0:84012375><>" entered the game
+L 01/01/2021 - 00:16:36: "TheRealLayth<11><STEAM_0:0:84012375><Citizen>" say "!content"
+
+L 01/01/2021 - 00:16:41: "TheRealLayth<11><STEAM_0:0:84012375><Citizen>" say "!addons"
+
+L 01/01/2021 - 00:16:59: "TheRealLayth<11><STEAM_0:0:84012375><Citizen>" say "!logs"
+
+L 01/01/2021 - 00:19:13: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!logs"
+
+L 01/01/2021 - 00:19:16: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!ulx"
+
+L 01/01/2021 - 00:19:49: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!bring al "
+
+L 01/01/2021 - 00:19:53: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!reset al"
+
+L 01/01/2021 - 00:20:21: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!noclip"
+
+L 01/01/2021 - 00:20:34: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!noclip"
+
+L 01/01/2021 - 00:20:53: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!noclip"
+
+L 01/01/2021 - 00:20:58: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!noclip"
+
+L 01/01/2021 - 00:21:05: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail al"
+
+L 01/01/2021 - 00:21:09: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!unjail"
+
+L 01/01/2021 - 00:21:15: "TheRealLayth<11><STEAM_0:0:84012375><Staff On Duty>" say "!unjail real"
+
+L 01/01/2021 - 00:21:18: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "/name Layth"
+
+L 01/01/2021 - 00:21:27: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "/jail everyone 50"
+
+L 01/01/2021 - 00:21:32: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "/jail all"
+
+L 01/01/2021 - 00:21:34: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "/jail"
+
+L 01/01/2021 - 00:21:36: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "/jail al"
+
+L 01/01/2021 - 00:21:52: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail"
+
+L 01/01/2021 - 00:21:54: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail all"
+
+L 01/01/2021 - 00:21:57: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail real 10"
+
+L 01/01/2021 - 00:22:01: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail thereallayth"
+
+L 01/01/2021 - 00:22:06: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!thereallayth jail"
+
+L 01/01/2021 - 00:22:07: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail"
+
+L 01/01/2021 - 00:22:13: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail <TheRealLayth>"
+
+L 01/01/2021 - 00:22:16: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail real"
+
+L 01/01/2021 - 00:22:21: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "/unjail al"
+
+L 01/01/2021 - 00:22:24: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!unjail al"
+
+L 01/01/2021 - 00:22:27: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!jail al"
+
+L 01/01/2021 - 00:22:30: "Layth<11><STEAM_0:0:84012375><Staff On Duty>" say "!unjail al"
+
+L 01/01/2021 - 00:22:39: "TheRealLayth<11><STEAM_0:0:84012375><>" disconnected (reason "Disconnect by user.")
+L 01/01/2021 - 00:30:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 01:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 01:30:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 02:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 02:30:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 03:00:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 03:30:50: AWarn: Your server info has been updated to the online statistics tracking
+L 01/01/2021 - 03:35:35: "Al Shebab<10><STEAM_0:0:103364981><Citizen>" say "REEEED! MENOS TRES"
+
+L 01/01/2021 - 03:35:36: "Al Shebab<10><STEAM_0:0:103364981><Citizen>" say "MY ARMS ARE LIKE FUCKING CANNONS"
+
+L 01/01/2021 - 03:35:38: "Al Shebab<10><STEAM_0:0:103364981><Citizen>" say "HELLO. MY NAME IS JARED AND I LIKE FOOTBALL."
+
+L 01/01/2021 - 03:35:46: "Al Shebab<10><STEAM_0:0:103364981><Citizen>" say "MY ARMS ARE LIKE FUCKING CANNONS"
+
+L 01/01/2021 - 03:45:11: "Λscended<12><STEAM_0:1:237551287><>" connected, address "180.150.38.64:18813"
+L 01/01/2021 - 03:45:12: "Λscended<12><STEAM_0:1:237551287><>" STEAM USERID validated
+L 01/01/2021 - 03:51:55: "Λscended<12><STEAM_0:1:237551287><>" entered the game
+L 01/01/2021 - 03:52:33: Player [2][Λscended] is arming a dupe, size: 1322
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:13: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:14: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:15: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/2021 - 03:57:16: Lua Error: 
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+L 01/01/

@@ -1,0 +1,4 @@
+2020-12-27 22.31.10: <General> Logging started, map: rp_downtown_v4c.
+2020-12-27 22.31.10: <General> Welcome to VCMod Auto-Updater version 9.65.
+2020-12-27 22.31.10: <General> Pre-initialization complete, preparing to load addon data.
+2020-12-27 22.31.10: <General> Addons found: VCMod Main.
