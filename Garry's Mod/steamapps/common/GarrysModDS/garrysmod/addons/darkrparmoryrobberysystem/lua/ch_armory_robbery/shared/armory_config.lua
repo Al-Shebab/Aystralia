@@ -5,8 +5,8 @@ CH_ArmoryRobbery.Design = CH_ArmoryRobbery.Design or {}
 
 -- Section one. Handles money in the armory.
 CH_ArmoryRobbery.Config.MoneyTimer = 180 -- This is the time that defines when money is added to the armory. In seconds! [Default = 60 (1 Minute)]
-CH_ArmoryRobbery.Config.MoneyOnTime = 20000 -- This is the amount of money to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 2500]
-CH_ArmoryRobbery.Config.MaxMoney = 1200000 -- The maximum amount of money the armory can have. Set to 0 for no limit. [Default = 50000]
+CH_ArmoryRobbery.Config.MoneyOnTime = 7500 -- This is the amount of money to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 2500]
+CH_ArmoryRobbery.Config.MaxMoney = 0 -- The maximum amount of money the armory can have. Set to 0 for no limit. [Default = 50000]
 
 -- Section two. Handles the ammonition part.
 CH_ArmoryRobbery.Config.AmmoTimer = 240 -- This is the time that defines when ammo is added to the armory. In seconds! [Default = 240 (4 Minutes)]
@@ -21,7 +21,7 @@ CH_ArmoryRobbery.Config.ShipmentsAmount = 10 -- Amount of weapons inside of one 
 
 -- General settings.
 CH_ArmoryRobbery.Config.AliveTime = 2 -- The amount of MINUTES the player must stay alive before he will receive what the armory has. IN MINUTES! [Default = 5]
-CH_ArmoryRobbery.Config.CooldownTime = 10 -- The amount of MINUTES the armory is on a cooldown after a robbery! (Doesn't matter if the robbery failed or not) [Default = 20]
+CH_ArmoryRobbery.Config.CooldownTime = 15 -- The amount of MINUTES the armory is on a cooldown after a robbery! (Doesn't matter if the robbery failed or not) [Default = 20]
 CH_ArmoryRobbery.Config.RobberyDistance = 700 -- The amount of space the player can move away from the armory entity, before the robbery fails. [Default = 500]
 CH_ArmoryRobbery.Config.PlayerLimit = 6 -- The amount of players there must be on the server before you can rob the armory. [Default = 5]
 CH_ArmoryRobbery.Config.KillReward = 150000 -- The amount of money a person is rewarded for killing the armory robber. [Default = 2500]
