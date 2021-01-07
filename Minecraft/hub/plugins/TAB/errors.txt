@@ -1,1 +1,0 @@
-04.01.2021 - 02:32:24 - [TAB v2.8.9] Group "community-manager" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "community-manager" into group-sorting-priority-list in config.yml.
