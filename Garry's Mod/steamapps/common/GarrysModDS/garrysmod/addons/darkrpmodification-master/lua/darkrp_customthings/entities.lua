@@ -34,7 +34,7 @@ DarkRP.createEntity("Bitminer S1", {
 DarkRP.createEntity("Bitminer S2", {
     ent = "bm2_bitminer_2",
     model = "models/bitminers2/bitminer_3.mdl",
-    price = 25000,
+    price = 15000,
     max = 2,
     cmd = "buybitminers2",
     category = "Bitcoin",
@@ -48,7 +48,7 @@ DarkRP.createEntity("Bitminer S2", {
 DarkRP.createEntity("Bitminer Server", {
     ent = "bm2_bitminer_server",
     model = "models/bitminers2/bitminer_2.mdl",
-    price = 120000,
+    price = 90000,
     max = 8,
     cmd = "buybitminerserver",
     category = "Bitcoin",
@@ -62,7 +62,7 @@ DarkRP.createEntity("Bitminer Server", {
 DarkRP.createEntity("Bitminer Rack", {
     ent = "bm2_bitminer_rack",
     model = "models/bitminers2/bitminer_rack.mdl",
-    price = 125000,
+    price = 75000,
     max = 1,
     cmd = "buybitminerrack",
     category = "Bitcoin",
@@ -104,7 +104,7 @@ DarkRP.createEntity("Power Lead", {
 DarkRP.createEntity("Generator", {
     ent = "bm2_generator",
     model = "models/bitminers2/generator.mdl",
-    price = 6000,
+    price = 1000,
     max = 1,
     cmd = "buybitminergenerator",
     category = "Bitcoin",
