@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture		models/gonzo/lsd/gas
-
-	$translucent 1
-	$alphatest 0.8
-}
