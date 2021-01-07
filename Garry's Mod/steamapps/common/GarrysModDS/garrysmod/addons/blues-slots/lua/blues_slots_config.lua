@@ -21,7 +21,7 @@ WOL_CONFIG.antiTheftTime = 30
 //This is the price to increase the jackpot amount per spin.
 //You can set this to 0 to disable increacing it but I recommend you do
 //to keep excitment in players.
-WOL_CONFIG.jackpotIncreasePerSpin = 500
+WOL_CONFIG.jackpotIncreasePerSpin = 250
 
 //This is the minimal amount the jackpot can reset to
 //The jackpot gets reset after someone wins it and it then set to a random number
@@ -31,11 +31,11 @@ WOL_CONFIG.jackpotResetMin = 200000
 WOL_CONFIG.jackpotResetMax = 2000000 //2 mill is reasonable consider the rarity the jackpot should be.
 
 //The amount it charges the user to per spin (It does not charge for the bonus spins as they are free)
-WOL_CONFIG.pricePerSpin = 1000 
+WOL_CONFIG.pricePerSpin = 1250 
 
 //This is the icon used before displaying money, you can change this but its recomened to keep its leghnth to 1.
 //You can use anything like "P" for point shop or these common one ($, €, £)
-WOL_CONFIG.currencyIcon = "£"
+WOL_CONFIG.currencyIcon = "$"
 
 //This is the chances of each item appearing on the reel
 //I tried my best to balance these but of course feel free to change them.
