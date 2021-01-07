@@ -90,7 +90,7 @@ zrewards.config.disabledMethods = {
     ["nametag"] = true,
     ["steamgroup"] = false,
     ["discordserver"] = false,
-    ["discordboost"] = true,
+    ["discordboost"] = false,
 }
 
 --[[
@@ -159,12 +159,5 @@ zrewards.config.rewards["DarkRP.Cash"] = {
         ["referral"] = 100000,
         ["dailylogin"] = 25000,
         ["nametag"] = 1,
-    },
-}
-
-zrewards.config.rewards["Admin.Rank"] = {
-    Icon = "icon16/user.png",
-    RewardFor = {
-        ["discordboost"] = "booster",
     },
 }

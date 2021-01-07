@@ -120,9 +120,7 @@ zrewards.config.methodsSettings["discordserver"] = {
 }
 
 zrewards.config.methodsSettings["discordboost"] = {
-    Enabled = false,
+    Enabled = true,
     VerifyOnSpawn = false,
-
-    -- Your discord boost role; MUST be a string (should be the role given to users who boost - to get a role ID: go to the edit roles page and right click the role -> "Copy ID")
-    BoostRoleID = "",
+    BoostRoleID = "796569896624455732",
 }
