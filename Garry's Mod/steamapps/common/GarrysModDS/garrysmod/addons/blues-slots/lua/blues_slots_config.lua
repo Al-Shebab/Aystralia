@@ -21,21 +21,21 @@ WOL_CONFIG.antiTheftTime = 30
 //This is the price to increase the jackpot amount per spin.
 //You can set this to 0 to disable increacing it but I recommend you do
 //to keep excitment in players.
-WOL_CONFIG.jackpotIncreasePerSpin = 1000
+WOL_CONFIG.jackpotIncreasePerSpin = 500
 
 //This is the minimal amount the jackpot can reset to
 //The jackpot gets reset after someone wins it and it then set to a random number
 //between the minimum and maximum jackpot numbers. 
 //Set them both to zero if you want to jackpot to start at 0
 WOL_CONFIG.jackpotResetMin = 200000
-WOL_CONFIG.jackpotResetMax = 4000000 //2 mill is reasonable consider the rarity the jackpot should be.
+WOL_CONFIG.jackpotResetMax = 2000000 //2 mill is reasonable consider the rarity the jackpot should be.
 
 //The amount it charges the user to per spin (It does not charge for the bonus spins as they are free)
-WOL_CONFIG.pricePerSpin = 1000
+WOL_CONFIG.pricePerSpin = 1000 
 
 //This is the icon used before displaying money, you can change this but its recomened to keep its leghnth to 1.
 //You can use anything like "P" for point shop or these common one ($, €, £)
-WOL_CONFIG.currencyIcon = "$"
+WOL_CONFIG.currencyIcon = "£"
 
 //This is the chances of each item appearing on the reel
 //I tried my best to balance these but of course feel free to change them.
@@ -67,13 +67,13 @@ WOL_CONFIG.winning.oneBonus = 10000
 WOL_CONFIG.winning.threeRaspberry = 5000
 
 //Getting three coins in a row
-WOL_CONFIG.winning.threeCoins = 10000
+WOL_CONFIG.winning.threeCoins = 20000
 
 //Getting two coins in a row
-WOL_CONFIG.winning.twoCoins = 5000
+WOL_CONFIG.winning.twoCoins = 10000
 
 //Getting three diamonds in a row
-WOL_CONFIG.winning.threeDiamonds = 20000 
+WOL_CONFIG.winning.threeDiamonds = 40000 
 
 //Getting two diamons in any place
 WOL_CONFIG.winning.twoDiamonds = 15000
@@ -82,35 +82,35 @@ WOL_CONFIG.winning.twoDiamonds = 15000
 WOL_CONFIG.winning.oneDiamonds = 2000  
 
 //Getting three BAR2's in a row
-WOL_CONFIG.winning.threeBar2 = 5250
+WOL_CONFIG.winning.threeBar2 = 3500
 
 //Getting three BAR'S in a row
-WOL_CONFIG.winning.threeBar = 3000
+WOL_CONFIG.winning.threeBar = 2000
 
 //Getting three 7's in a row
-WOL_CONFIG.winning.threeSeven = 3500
+WOL_CONFIG.winning.threeSeven = 7000
 
 //These are the items on the bonus wheel, DO NOT ADD OR REMOVE ANY
 //Only change the numbers.
-WOL_AddBonusItem(100)
 WOL_AddBonusItem(200)
 WOL_AddBonusItem(400)
-WOL_AddBonusItem(1000)
-WOL_AddBonusItem(2500)
+WOL_AddBonusItem(800)
+WOL_AddBonusItem(2000)
 WOL_AddBonusItem(5000)
-WOL_AddBonusItem(7500)
 WOL_AddBonusItem(10000)
 WOL_AddBonusItem(15000)
 WOL_AddBonusItem(20000)
 WOL_AddBonusItem(30000)
 WOL_AddBonusItem(40000)
 WOL_AddBonusItem(60000)
-WOL_AddBonusItem(75000)
-WOL_AddBonusItem(100000)
+WOL_AddBonusItem(80000)
+WOL_AddBonusItem(120000)
 WOL_AddBonusItem(150000)
-WOL_AddBonusItem(175000)
 WOL_AddBonusItem(200000)
 WOL_AddBonusItem(300000)
+WOL_AddBonusItem(350000)
+WOL_AddBonusItem(400000)
+WOL_AddBonusItem(600000)
 
 //This is a list of ranks that can save machine places, using !saveslots
 WOL_CONFIG.allowedRanks = {
@@ -139,4 +139,4 @@ WOL_CONFIG.onPlayerAddMoney = function(ply, amount)
 	ply:addMoney(amount)
 end
 
-//Lastly I guess thanks for the purchase, it helps me so much! I hope you enjoy your addon! :( RIP
+//Lastly I guess thanks for the purchase, it helps me so much! I hope you enjoy your addon!
