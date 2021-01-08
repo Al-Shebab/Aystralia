@@ -280,7 +280,7 @@ zwf.config.Plants = {
 
         // The sell value per full weed block
         // *Note: A full weedblock is made out of 4 Full Jars of weed so if the weedblock got made out of 4 half jars of weed then this sell value will be half aswell
-        sellvalue = 5000,
+        sellvalue = 7500,
 
         // The default THC level in %
         thc_level = 10,
@@ -300,7 +300,7 @@ zwf.config.Plants = {
 
         Grow = {
             // How long it takes to grow
-            Duration = 100,
+            Duration = 200,
 
             // This value defines the Difficulty for growing the plant, higher values mean its gonna use up faster Water
             Difficulty = 1, // [1 - 10]
@@ -312,7 +312,7 @@ zwf.config.Plants = {
     [2] = {
         name = "Bubba Kush",
         skin = 2,
-        sellvalue = 20000,
+        sellvalue = 15000,
         thc_level = 12,
         high_effect = 2,
         high_music = nil,
@@ -321,7 +321,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing01",
         death_effect = "zwf_death01",
         Grow = {
-            Duration = 113,
+            Duration = 225,
             Difficulty = 2,
             MaxYieldAmount = 150,
         },
@@ -329,7 +329,7 @@ zwf.config.Plants = {
     [3] = {
         name = "Sour Diesel",
         skin = 3,
-        sellvalue = 25000,
+        sellvalue = 22500,
         thc_level = 14,
         high_effect = 3,
         high_music = nil,
@@ -338,7 +338,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing03",
         death_effect = "zwf_death03",
         Grow = {
-            Duration = 125,
+            Duration = 250,
             Difficulty = 5,
             MaxYieldAmount = 125,
         },
@@ -346,7 +346,7 @@ zwf.config.Plants = {
     [4] = {
         name = "AK-47",
         skin = 4,
-        sellvalue = 32000,
+        sellvalue = 24000,
         thc_level = 16,
         high_effect = 4,
         high_music = nil,
@@ -355,7 +355,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing01",
         death_effect = "zwf_death01",
         Grow = {
-            Duration = 150,
+            Duration = 300,
             Difficulty = 6,
             MaxYieldAmount = 125,
         },
@@ -363,7 +363,7 @@ zwf.config.Plants = {
     [5] = {
         name = "Super Lemon Haze",
         skin = 5,
-        sellvalue = 40000,
+        sellvalue = 30000,
         thc_level = 20,
         high_effect = 5,
         high_music = nil,
@@ -372,7 +372,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing03",
         death_effect = "zwf_death03",
         Grow = {
-            Duration = 200,
+            Duration = 400,
             Difficulty = 7,
             MaxYieldAmount = 100,
         },
@@ -380,7 +380,7 @@ zwf.config.Plants = {
     [6] = {
         name = "Strawberry Cough",
         skin = 6,
-        sellvalue = 50000,
+        sellvalue = 36000,
         thc_level = 25,
         high_effect = 6,
         high_music = nil,
@@ -389,7 +389,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing02",
         death_effect = "zwf_death02",
         Grow = {
-            Duration = 250,
+            Duration = 500,
             Difficulty = 8,
             MaxYieldAmount = 100,
         },
@@ -397,7 +397,7 @@ zwf.config.Plants = {
     [7] = {
         name = "Dark Devil",
         skin = 1,
-        sellvalue = 60000,
+        sellvalue = 39000,
         thc_level = 30,
         high_effect = 7,
         high_music = nil,
@@ -406,7 +406,7 @@ zwf.config.Plants = {
         pack_effect = "zwf_packing02",
         death_effect = "zwf_death02",
         Grow = {
-            Duration = 300,
+            Duration = 600,
             Difficulty = 9,
             MaxYieldAmount = 100,
         },

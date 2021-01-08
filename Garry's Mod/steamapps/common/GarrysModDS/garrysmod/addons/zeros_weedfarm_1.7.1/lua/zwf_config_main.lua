@@ -92,7 +92,7 @@ zwf.config.CPPI = {
 
 // When changing to these jobs the script wont remove the players weed entities so he can continue growing weed later.
 zwf.config.StaffOnDuty = {
-    //[TEAM_STAFF_ON_DUTY] = true
+    //[TEAM_STAFFONDUTY] = true
 }
 
 zwf.config.Player = {
@@ -209,6 +209,6 @@ zwf.config.THC = {
 
     // How much does the THC level of the weed influence the price
     // 0.25 = +25% More Money, 2 = 200% more money
-    // Examble: A infuence value of 0.4 would give 50% more money if the THC level of the weed would be full Maxed out, ( Full maxed out means a THC level of zwf.config.THC.Max)
+    // Examble: A infuence value of 0.5 would give 50% more money if the THC level of the weed would be full Maxed out, ( Full maxed out means a THC level of zwf.config.THC.Max)
     sellprice_influence = 0.5,
 }

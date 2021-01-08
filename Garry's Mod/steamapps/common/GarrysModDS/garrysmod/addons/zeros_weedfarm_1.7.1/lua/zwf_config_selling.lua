@@ -7,7 +7,7 @@ zwf.config.NPC = {
     Model = "models/zerochain/props_weedfarm/zwf_npc.mdl",
 
     // Setting this to false will improve network performance but disables the npc reactions for the player
-    Capabilities = true,
+    Capabilities = false,
 
 
     // How will the player sell the Weed?
@@ -19,18 +19,16 @@ zwf.config.NPC = {
     DynamicBuyRate = true,
 
     // The maximal buy rate in % (Set to 100 for now no price change)
-    MaxBuyRate = 250,
+    MaxBuyRate = 125,
 
     // The minimal buy rate in % (Set to 100 for now no price change)
-    MinBuyRate = 170,
+    MinBuyRate = 95,
 
     // The interval at which the sell price changes in second ( Set to -1 to disable the refresh timer)
     RefreshRate = 600,
 
     // These Jobs can buy Bongs. (Leave empty to allowe everyone to buy bongs)
-    Customers = {
-        //[TEAM_CITIZEN] = true
-    },
+    Customers = {},
 }
 
 zwf.config.Bongs = {
@@ -78,7 +76,7 @@ zwf.config.Bongs = {
 zwf.config.Police = {
 
     // Do we want the player to get wanted when he sells weed.
-    WantedOnWeedSell = true,
+    WantedOnWeedSell = false,
 
     // The Wanted message we display
     WantedMessage = "Sold Weed!",
@@ -88,7 +86,7 @@ zwf.config.Police = {
 
     // These jobs can get extra money if they destroy weed reletated stuff and also get a Wanted notification once a player sells weed
     Jobs  = {
-        [TEAM_POLICE] = true,
+        [TEAM_POLICE_OFFICER] = true,
     },
 
     // How much money the police player gets for destroying weed reletated stuff

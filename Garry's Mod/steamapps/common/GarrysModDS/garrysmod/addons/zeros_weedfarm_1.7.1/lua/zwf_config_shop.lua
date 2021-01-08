@@ -50,10 +50,8 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp01.mdl",
-                ranks = {
-                    ["superadmin"] = true,
-                },
-                max = 2,
+                ranks = {},
+                max = 5,
             },
             [4] = {
                 lampid = 2,
@@ -61,8 +59,11 @@ zwf.config.Shop = {
                 price = 5000,
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp02.mdl",
-                ranks = {},
-                max = 4,
+                ranks = {
+                    ["VIP"] = true,
+                    ["superadmin"] = true,
+                },
+                max = 5,
             },
             [5] = {
                 name = zwf.language.Shop["item_ventilator_title"],
@@ -85,22 +86,23 @@ zwf.config.Shop = {
             [7] = {
                 name = zwf.language.Shop["item_flowerpot01_title"],
                 desc = zwf.language.Shop["item_flowerpot01_desc"],
-                price = 1000,
+                price = 300,
                 class = "zwf_pot",
                 model = "models/zerochain/props_weedfarm/zwf_pot01.mdl",
-                ranks = {
-                    ["superadmin"] = true,
-                },
-                max = 2,
+                ranks = {},
+                max = 10,
             },
             [8] = {
                 name = zwf.language.Shop["item_flowerpot02_title"],
                 desc = zwf.language.Shop["item_flowerpot02_desc"],
-                price = 5000,
+                price = 500,
                 class = "zwf_pot_hydro",
                 model = "models/zerochain/props_weedfarm/zwf_pot02.mdl",
-                ranks = {},
-                max = 4,
+                ranks = {
+                    ["VIP"] = true,
+                    ["superadmin"] = true,
+                },
+                max = 10,
             },
             [9] = {
                 name = zwf.language.Shop["item_soil_title"],
@@ -141,10 +143,13 @@ zwf.config.Shop = {
             [13] = {
                 name = zwf.language.Shop["item_autopacker_title"],
                 desc = zwf.language.Shop["item_autopacker_desc"],
-                price = 15000,
+                price = 10000,
                 class = "zwf_autopacker",
                 model = "models/zerochain/props_weedfarm/zwf_autopacker.mdl",
-                ranks = {},
+                ranks = {
+                    ["VIP"] = true,
+                    ["superadmin"] = true,
+                },
                 max = 1,
             },
             [14] = {
@@ -168,7 +173,7 @@ zwf.config.Shop = {
             [16] = {
                 name = zwf.language.Shop["item_palette_title"],
                 desc = zwf.language.Shop["item_palette_desc"],
-                price = 500,
+                price = 250,
                 class = "zwf_palette",
                 model = "models/props_junk/wood_pallet001a.mdl",
                 ranks = {},
@@ -183,49 +188,49 @@ zwf.config.Shop = {
             [1] = {
                 seedid = 1,
                 desc = zwf.language.Shop["item_seed01_desc"],
-                price = 1000,
+                price = 2000,
                 class = "zwf_seed",
                 ranks = {},
             },
             [2] = {
                 seedid = 2,
                 desc = zwf.language.Shop["item_seed02_desc"],
-                price = 2000,
+                price = 3000,
                 class = "zwf_seed",
                 ranks = {},
             },
             [3] = {
                 seedid = 3,
                 desc = zwf.language.Shop["item_seed03_desc"],
-                price = 4000,
+                price = 5000,
                 class = "zwf_seed",
                 ranks = {},
             },
             [4] = {
                 seedid = 4,
                 desc = zwf.language.Shop["item_seed04_desc"],
-                price = 5000,
+                price = 6000,
                 class = "zwf_seed",
                 ranks = {},
             },
             [5] = {
                 seedid = 5,
                 desc = zwf.language.Shop["item_seed05_desc"],
-                price = 6000,
+                price = 7500,
                 class = "zwf_seed",
                 ranks = {},
             },
             [6] = {
                 seedid = 6,
                 desc = zwf.language.Shop["item_seed06_desc"],
-                price = 7000,
+                price = 9000,
                 class = "zwf_seed",
                 ranks = {},
             },
             [7] = {
                 seedid = 7,
                 desc = zwf.language.Shop["item_seed07_desc"],
-                price = 10000,
+                price = 12000,
                 class = "zwf_seed",
                 ranks = {},
             },
@@ -249,7 +254,10 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_nutrition",
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
-                ranks = {},
+                ranks = {
+                    ["VIP"] = true,
+                    ["superadmin"] = true,
+                },
             },
 
 
@@ -267,8 +275,13 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_nutrition",
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
-                ranks = {},
+                ranks = {
+                    ["VIP"] = true,
+                    ["superadmin"] = true,
+                },
             },
+
+
             [5] = {
                 nutid = 5,
                 desc = zwf.language.Shop["item_nutrition05_desc"],
@@ -283,7 +296,10 @@ zwf.config.Shop = {
                 price = 6000,
                 class = "zwf_nutrition",
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
-                ranks = {},
+                ranks = {
+                    ["VIP"] = true,
+                    ["superadmin"] = true,
+                },
             },
         }
     },
