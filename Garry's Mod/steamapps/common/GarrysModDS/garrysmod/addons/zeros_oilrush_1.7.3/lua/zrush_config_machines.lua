@@ -30,7 +30,7 @@ zrush.config.Machine["DrillHole"] = {
 	CustomColor = Color(200,45,45),
 
 	// This is the time in seconds before it gets removed after its used(Only used in zrush.config.Drill_Mode = 0)
-	PostCooldown = 60,
+	PostCooldown = 10,
 
 	// This makes sure unused drillholes get removed (Only used in zrush.config.Drill_Mode = 0) (Set to -1 to Disable it)
 	Cooldown = 600,
@@ -104,7 +104,7 @@ zrush.config.Machine["Pump"] = {
 	Module_Sockets = 3 ,
 
 	// seconds  How long is one pump action
-	Speed = 7,
+	Speed = 8,
 
 	// units How much oil do we get per pump
 	Amount = 3,
@@ -126,7 +126,7 @@ zrush.config.Machine["Refinery"] = {
 	Speed = 2,
 
 	// How much Oil it takes in
-	Amount = 2,
+	Amount = 1,
 
 	// % How high is the base chance for the machine do overheat? (There are extra % that get added later depending on the oilsource)
 	OverHeat_Chance = 15,
