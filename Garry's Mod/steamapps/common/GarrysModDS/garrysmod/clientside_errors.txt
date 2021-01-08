@@ -42589,3 +42589,38 @@ Lahzr_K1NG|816|STEAM_0:1:157785215
 
 
 
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: attempt to index field 'aScoreboard' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: attempt to index field 'aScoreboard' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: attempt to index field 'aScoreboard' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: attempt to index field 'aScoreboard' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: attempt to index field 'aScoreboard' (a nil value)
+  1. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
