@@ -65,10 +65,7 @@ zwf.config.Bongs = {
             hold_amount = 20, // How much weed can the bong hold
             price = 7500,
             model = "models/zerochain/props_weedfarm/zwf_bong03.mdl",
-            ranks = {
-                ["VIP"] = true,
-                ["superadmin"] = true
-            },
+            ranks = {},
         },
     }
 }

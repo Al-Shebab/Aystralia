@@ -7,30 +7,12 @@ zwf.config.Shop = {
         title = zwf.language.Shop["category_Equipment"],
         items = {
             [1] = {
-                // Name of the item
                 name = zwf.language.Shop["item_generator_title"],
-
-                 // Description
                 desc = zwf.language.Shop["item_generator_desc"],
-
-                // Price
                 price = 5000,
-
-                // Class of the Entity
                 class = "zwf_generator",
-
-                // Display Model
                 model = "models/zerochain/props_weedfarm/zwf_generator.mdl",
-
-                // The Ranks that are allowed to buy this item. Leave empty to disable
                 ranks = {},
-
-                // The Jobs that are allowed to buy this item. Leave empty to disable
-                jobs = {
-                    //[TEAM_CITIZEN] = true,
-                },
-
-                // The player can only buy this amount at once
                 max = 1,
             },
             [2] = {
