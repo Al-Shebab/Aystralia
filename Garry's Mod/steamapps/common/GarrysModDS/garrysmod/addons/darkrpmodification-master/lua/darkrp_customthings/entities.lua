@@ -184,7 +184,7 @@ DarkRP.createEntity("Combiner", {
 	ent = "zmlab_combiner",
 	model = "models/zerochain/zmlab/zmlab_combiner.mdl",
 	price = 6000,
-	max = 1,
+	max = 2,
 	cmd = "buycombiner_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
@@ -193,8 +193,8 @@ DarkRP.createEntity("Combiner", {
 DarkRP.createEntity("Gas Filter", {
 	ent = "zmlab_filter",
 	model = "models/zerochain/zmlab/zmlab_filter.mdl",
-	price = 10000,
-	max = 1,
+	price = 5000,
+	max = 2,
 	cmd = "buyfilter_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
@@ -203,8 +203,8 @@ DarkRP.createEntity("Gas Filter", {
 DarkRP.createEntity("Freezer", {
 	ent = "zmlab_frezzer",
 	model = "models/zerochain/zmlab/zmlab_frezzer.mdl",
-	price = 5000,
-	max = 1,
+	price = 2500,
+	max = 2,
 	cmd = "buyfrezzer_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
@@ -214,7 +214,7 @@ DarkRP.createEntity("Transport Crate", {
 	ent = "zmlab_collectcrate",
 	model = "models/zerochain/zmlab/zmlab_transportcrate.mdl",
 	price = 1000,
-	max = 3,
+	max = 4,
 	cmd = "buycollectcrate_zmlab",
 	allowed = TEAM_METH_DEALER,
 	category = "Meth Materials"
