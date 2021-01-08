@@ -411,7 +411,7 @@ DarkRP.createEntity("Palette", {
     ent = "zrush_palette",
     model = "models/props_junk/wood_pallet001a.mdl",
     price = 5000,
-    max = 1,
+    max = 2,
     cmd = "buyzrush_palette",
     allowed = {TEAM_OIL_REFINER},
     category = "Oil Refiner"
