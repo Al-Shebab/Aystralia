@@ -123,7 +123,7 @@ zrush.config.Machine["Refinery"] = {
 	Module_Sockets = 4,
 
 	// seconds
-	Speed = 1,
+	Speed = 2,
 
 	// How much Oil it takes in
 	Amount = 1,
