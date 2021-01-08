@@ -76,13 +76,13 @@ zfs.config.Price = {
 	// Do we allow the players do change the price of each Product
 	// *Note* If set to false then there will be a Fruit Variation Charge on the Base Price
 	// that uses the zfs.config.Price.FruitMultiplicator too incourage the Production of more complex Smoothies
-	Custom = false,
+	Custom = true,
 
 	// This is the minimum Custom Price the players can set it to
 	Minimum = 1000,
 
 	// This is the maximum Custom Price the players can set it to
-	Maximum = 100000,
+	Maximum = 1000000,
 
 	// This is the percentage of what the Smoothie will cost more when using multiple fruit types
 	// *Note Only works if zfs.config.Price.Custom is set to false
