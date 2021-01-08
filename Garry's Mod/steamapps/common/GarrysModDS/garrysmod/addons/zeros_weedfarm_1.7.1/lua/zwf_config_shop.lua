@@ -23,9 +23,7 @@ zwf.config.Shop = {
                 model = "models/zerochain/props_weedfarm/zwf_generator.mdl",
 
                 // The Ranks that are allowed to buy this item. Leave empty to disable
-                ranks = {
-                    //["superadmin"] = true,
-                },
+                ranks = {},
 
                 // The Jobs that are allowed to buy this item. Leave empty to disable
                 jobs = {
@@ -59,10 +57,7 @@ zwf.config.Shop = {
                 price = 5000,
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp02.mdl",
-                ranks = {
-                    ["VIP"] = true,
-                    ["superadmin"] = true,
-                },
+                ranks = {},
                 max = 5,
             },
             [5] = {
@@ -98,10 +93,7 @@ zwf.config.Shop = {
                 price = 500,
                 class = "zwf_pot_hydro",
                 model = "models/zerochain/props_weedfarm/zwf_pot02.mdl",
-                ranks = {
-                    ["VIP"] = true,
-                    ["superadmin"] = true,
-                },
+                ranks = {},
                 max = 10,
             },
             [9] = {
@@ -146,10 +138,7 @@ zwf.config.Shop = {
                 price = 10000,
                 class = "zwf_autopacker",
                 model = "models/zerochain/props_weedfarm/zwf_autopacker.mdl",
-                ranks = {
-                    ["VIP"] = true,
-                    ["superadmin"] = true,
-                },
+                ranks = {},
                 max = 1,
             },
             [14] = {
@@ -188,49 +177,49 @@ zwf.config.Shop = {
             [1] = {
                 seedid = 1,
                 desc = zwf.language.Shop["item_seed01_desc"],
-                price = 2000,
+                price = 200,
                 class = "zwf_seed",
                 ranks = {},
             },
             [2] = {
                 seedid = 2,
                 desc = zwf.language.Shop["item_seed02_desc"],
-                price = 3000,
+                price = 300,
                 class = "zwf_seed",
                 ranks = {},
             },
             [3] = {
                 seedid = 3,
                 desc = zwf.language.Shop["item_seed03_desc"],
-                price = 5000,
+                price = 500,
                 class = "zwf_seed",
                 ranks = {},
             },
             [4] = {
                 seedid = 4,
                 desc = zwf.language.Shop["item_seed04_desc"],
-                price = 6000,
+                price = 600,
                 class = "zwf_seed",
                 ranks = {},
             },
             [5] = {
                 seedid = 5,
                 desc = zwf.language.Shop["item_seed05_desc"],
-                price = 7500,
+                price = 750,
                 class = "zwf_seed",
                 ranks = {},
             },
             [6] = {
                 seedid = 6,
                 desc = zwf.language.Shop["item_seed06_desc"],
-                price = 9000,
+                price = 900,
                 class = "zwf_seed",
                 ranks = {},
             },
             [7] = {
                 seedid = 7,
                 desc = zwf.language.Shop["item_seed07_desc"],
-                price = 12000,
+                price = 1200,
                 class = "zwf_seed",
                 ranks = {},
             },
@@ -254,10 +243,7 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_nutrition",
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
-                ranks = {
-                    ["VIP"] = true,
-                    ["superadmin"] = true,
-                },
+                ranks = {},
             },
 
 
@@ -275,10 +261,7 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_nutrition",
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
-                ranks = {
-                    ["VIP"] = true,
-                    ["superadmin"] = true,
-                },
+                ranks = {},
             },
 
 
@@ -296,10 +279,7 @@ zwf.config.Shop = {
                 price = 6000,
                 class = "zwf_nutrition",
                 model = "models/zerochain/props_weedfarm/zwf_nutritionbottle.mdl",
-                ranks = {
-                    ["VIP"] = true,
-                    ["superadmin"] = true,
-                },
+                ranks = {},
             },
         }
     },
