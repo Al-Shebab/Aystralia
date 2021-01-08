@@ -104,7 +104,7 @@ zrush.config.Machine["Pump"] = {
 	Module_Sockets = 3 ,
 
 	// seconds  How long is one pump action
-	Speed = 10,
+	Speed = 15,
 
 	// units How much oil do we get per pump
 	Amount = 3,
