@@ -52,7 +52,7 @@ zrush.config.Machine["Drill"] = {
 	Module_Sockets = 3 ,
 
 	//(seconds) How long does it take do drill one Pipe
-	Speed = 25,
+	Speed = 20,
 
 	// How many pipes can the machine hold by default
 	MaxHoldPipes = 3,
@@ -104,7 +104,7 @@ zrush.config.Machine["Pump"] = {
 	Module_Sockets = 3 ,
 
 	// seconds  How long is one pump action
-	Speed = 15,
+	Speed = 7,
 
 	// units How much oil do we get per pump
 	Amount = 3,
@@ -123,10 +123,10 @@ zrush.config.Machine["Refinery"] = {
 	Module_Sockets = 4,
 
 	// seconds
-	Speed = 3,
+	Speed = 2,
 
 	// How much Oil it takes in
-	Amount = 1,
+	Amount = 2,
 
 	// % How high is the base chance for the machine do overheat? (There are extra % that get added later depending on the oilsource)
 	OverHeat_Chance = 15,
