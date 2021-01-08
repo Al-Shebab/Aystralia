@@ -241,7 +241,7 @@ zmlab.config.MethBuyer = {
 	// Sell Price per unit
 	// Examble: 1kg Meth = 7$ for a user Rank
 	SellRanks = {
-		["default"] = 80,
+		["default"] = 100,
 	},
 }
 
