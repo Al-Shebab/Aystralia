@@ -1,1 +1,0 @@
-{"1":{"Data":{"Amount":9.0,"Class":"m9k_ak47","Contents":19.0},"Class":"spawned_shipment"},"3":{"Data":{"Amount":1.0,"Clip1":4.0,"Ammo":60.0,"Class":"m9k_m98b","Model":"models/weapons/w_barrett_m98b.mdl","Clip2":8.0},"Class":"spawned_weapon"}}

@@ -1,1 +1,0 @@
-[{"Data":{"Amount":500.0},"Class":"spawned_money"}]

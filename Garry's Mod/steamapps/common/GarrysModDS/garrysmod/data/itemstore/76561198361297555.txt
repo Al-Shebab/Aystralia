@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":15.0,"Ammo":45.0,"Class":"m9k_usp","Model":"models/weapons/w_pist_fokkususp.mdl"},"Class":"spawned_weapon"}]

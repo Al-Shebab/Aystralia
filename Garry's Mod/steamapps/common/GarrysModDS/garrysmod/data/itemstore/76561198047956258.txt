@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":30.0,"Ammo":25.0,"Class":"m9k_mp9","Model":"models/weapons/w_brugger_thomet_mp9.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

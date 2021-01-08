@@ -1,1 +1,0 @@
-[{"Data":{"Amount":3.0,"Class":"durgz_cigarette","Contents":40.0},"Class":"spawned_shipment"},{"Data":{"Amount":7.0,"Class":"durgz_meth","Contents":44.0},"Class":"spawned_shipment"},{"Data":{"Amount":11.0,"Class":"durgz_heroine","Contents":41.0},"Class":"spawned_shipment"},{"Data":{"Amount":8.0,"Class":"durgz_weed","Contents":43.0},"Class":"spawned_shipment"}]

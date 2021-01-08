@@ -1,9 +1,0 @@
-; This file is used to store default reasons for kicking and banning users.
-; These reasons show up in console autocomplete and in XGUI dropdowns.
-Attempting to crash server
-Crashed server
-DDOS / DOX Threats
-Major Racism
-Major Rule Violation
-Removed From Community
-Trolling
