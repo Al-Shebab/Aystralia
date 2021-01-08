@@ -14,8 +14,8 @@ OnePrint.Cfg.ServerLimit = {                -- Max servers per printer (dependin
 ]]--
 
 -- Money
-OnePrint.Cfg.MoneyDelay = 10                 -- Cooldown before the printer generates money
-OnePrint.Cfg.ServerIncome = 135              -- Income per server (for 1 server and without any upgrade)
+OnePrint.Cfg.MoneyDelay = 6                 -- Cooldown before the printer generates money
+OnePrint.Cfg.ServerIncome = 115              -- Income per server (for 1 server and without any upgrade)
 OnePrint.Cfg.OverclockingIncome = 25        -- % of income added per level of overclocking
 OnePrint.Cfg.ServerStorage = 500000           -- Max storage per server
 
@@ -24,14 +24,14 @@ OnePrint.Cfg.CPRewardSelf = false           -- true: CPs are rewarded if they de
 
 -- Upgrades/Shop
 OnePrint.Cfg.ServerPrice = 5000             -- Server price
-OnePrint.Cfg.WatercoolingPrice = 25000        -- Watercooling price
-OnePrint.Cfg.PowerPrice = 16000               -- Power price
-OnePrint.Cfg.OverclockingPrice = 100000        -- Overclocking price
+OnePrint.Cfg.WatercoolingPrice = 15000        -- Watercooling price
+OnePrint.Cfg.PowerPrice = 12000               -- Power price
+OnePrint.Cfg.OverclockingPrice = 750000        -- Overclocking price
 OnePrint.Cfg.SecurityPrice = 12500            -- Security price (against hacking)
 OnePrint.Cfg.DefensePrice = 20000             -- Defense boost price
 OnePrint.Cfg.DefenseBoost = 50              -- Max HP added for each boost upgrade bought
 OnePrint.Cfg.DefenseMax = 32                 -- Max boosts buyables [min = 1, max = 32]
-OnePrint.Cfg.SilencerPrice = 50000            -- Silencer price
+OnePrint.Cfg.SilencerPrice = 25000            -- Silencer price
 OnePrint.Cfg.HackNotifyPrice = 75000         -- Hack notification price
 OnePrint.Cfg.LowHPNotifyPrice = 30000        -- Low HP notification price
 
