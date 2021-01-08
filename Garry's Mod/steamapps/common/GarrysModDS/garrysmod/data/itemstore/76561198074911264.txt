@@ -1,1 +1,0 @@
-[{"Data":{"THC":10.0,"WeedName":"O.G. Kush","Perf_Amount":100.0,"Perf_Time":105.0,"ZWFOwner":"nil","Perf_THC":100.0,"WeedAmount":140.0,"PlantID":1.0},"Class":"zwf_jar"}]

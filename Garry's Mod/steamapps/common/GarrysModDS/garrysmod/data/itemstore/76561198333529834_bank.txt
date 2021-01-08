@@ -1,1 +1,0 @@
-{"3":{"Data":{"Amount":2.0,"Contents":19.0,"Class":"m9k_m16a4_acog"},"Class":"spawned_shipment"},"5":{"Data":{"Content":[],"MachineID":"nil","ZRushOwner":"STEAM_0:0:186632053"},"Class":"zrush_machinecrate"},"7":{"Data":{"Content":[],"MachineID":"nil","ZRushOwner":"STEAM_0:0:186632053"},"Class":"zrush_machinecrate"}}

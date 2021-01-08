@@ -1,1 +1,0 @@
-{"1":{"Data":{"Amount":9.0,"Contents":42.0,"Class":"durgz_lsd"},"Class":"spawned_shipment"},"3":{"Data":{"Amount":8.0,"Contents":44.0,"Class":"durgz_meth"},"Class":"spawned_shipment"},"4":{"Data":{"Amount":9.0,"Contents":38.0,"Class":"durgz_alcohol"},"Class":"spawned_shipment"}}

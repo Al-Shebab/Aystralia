@@ -1,6 +1,0 @@
-Tue Dec 29 18:10:44 2020	Al Shebab (STEAM_0:0:103364981) has joined the game
-Tue Dec 29 18:10:44 2020	Al Shebab (STEAM_0:0:103364981) spawned
-Tue Dec 29 21:21:50 2020	Al Shebab (STEAM_0:0:103364981): 
-Tue Dec 29 21:37:40 2020	Al Shebab (STEAM_0:0:103364981): /setmoney
-Tue Dec 29 21:37:46 2020	Al Shebab (STEAM_0:0:103364981): /setmoney she 1
-Tue Dec 29 21:37:46 2020	Al Shebab (STEAM_0:0:103364981) set Al Shebab's money to $1

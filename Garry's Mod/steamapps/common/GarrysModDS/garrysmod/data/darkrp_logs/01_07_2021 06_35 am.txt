@@ -1,7 +1,0 @@
-Thu Jan  7 06:35:16 2021	Lil Kitty [Ree] (STEAM_0:0:165775247) has joined the game
-Thu Jan  7 06:35:16 2021	Lil Kitty (STEAM_0:0:165775247) spawned
-Thu Jan  7 06:35:42 2021	demigod (STEAM_0:0:86273135) has joined the game
-Thu Jan  7 06:35:42 2021	John Doe (STEAM_0:0:86273135) spawned
-Thu Jan  7 06:35:43 2021	Semen Demon (STEAM_0:0:221089566) has joined the game
-Thu Jan  7 06:35:43 2021	Semen Demon (STEAM_0:0:221089566) spawned
-Thu Jan  7 06:36:13 2021	John Doe (STEAM_0:0:86273135) disconnected

@@ -1,1 +1,0 @@
-{"11":{"Data":{"Amount":9.0,"Class":"m9k_mossberg590","Contents":15.0},"Class":"spawned_shipment"},"10":{"Data":{"Amount":3.0,"Contents":13.0,"Class":"m9k_1897winchester"},"Class":"spawned_shipment"}}

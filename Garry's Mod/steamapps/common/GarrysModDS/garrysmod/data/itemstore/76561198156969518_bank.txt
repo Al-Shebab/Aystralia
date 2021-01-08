@@ -1,1 +1,0 @@
-[{"Data":{"Amount":6.0,"Contents":4.0,"Class":"m9k_glock"},"Class":"spawned_shipment"}]

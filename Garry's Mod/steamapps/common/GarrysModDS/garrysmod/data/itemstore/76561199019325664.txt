@@ -1,1 +1,0 @@
-[{"Data":{"MethAmount":214.0},"Class":"zmlab_meth"},{"Data":{"MethAmount":214.0},"Class":"zmlab_meth"},{"Data":{"MethAmount":171.0},"Class":"zmlab_meth"}]

@@ -1,1 +1,0 @@
-[{"Data":{"Amount":6.0,"Class":"m9k_usp","Contents":3.0},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Class":"m9k_scar","Contents":23.0},"Class":"spawned_shipment"}]

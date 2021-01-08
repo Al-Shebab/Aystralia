@@ -1,1 +1,0 @@
-[{"Data":{"Amount":120.0,"Model":"models/items/boxmrounds.mdl","AmmoType":"ar2"},"Class":"spawned_ammo"}]

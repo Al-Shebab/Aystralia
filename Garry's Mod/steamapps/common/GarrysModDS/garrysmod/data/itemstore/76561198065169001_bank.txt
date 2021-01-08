@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":0.0,"Ammo":48.0,"Class":"m9k_colt1911","Model":"models/weapons/s_dmgf_co1911.mdl","Clip2":0.0},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Clip1":7.0,"Ammo":0.0,"Class":"m9k_m3","Model":"models/weapons/w_benelli_m3.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Class":"durgz_lsd","Contents":41.0},"Class":"spawned_shipment"}]

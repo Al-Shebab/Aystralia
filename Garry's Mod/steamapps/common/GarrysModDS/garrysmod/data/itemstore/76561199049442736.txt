@@ -1,1 +1,0 @@
-[{"Data":{"Amount":60.0,"Model":"models/items/boxsrounds.mdl","AmmoType":"pistol"},"Class":"spawned_ammo"},{"Data":{"MethAmount":214.0},"Class":"zmlab_meth"}]

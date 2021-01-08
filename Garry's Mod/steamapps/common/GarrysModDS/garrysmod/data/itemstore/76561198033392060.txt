@@ -1,1 +1,0 @@
-[{"Data":{"Amount":5.0,"Contents":4.0,"Class":"m9k_glock"},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Clip1":30.0,"Class":"m9k_ak47","Model":"models/weapons/w_ak47_m9k.mdl","Clip2":8.0},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Clip1":32.0,"Class":"m9k_glock","Model":"models/weapons/w_dmg_glock.mdl","Clip2":8.0},"Class":"spawned_weapon"}]

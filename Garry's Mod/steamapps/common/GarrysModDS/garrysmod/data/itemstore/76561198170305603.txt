@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":8.0,"Ammo":24.0,"Class":"m9k_m3","Model":"models/weapons/w_benelli_m3.mdl","Clip2":8.0},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Contents":10.0,"Class":"m9k_uzi"},"Class":"spawned_shipment"}]

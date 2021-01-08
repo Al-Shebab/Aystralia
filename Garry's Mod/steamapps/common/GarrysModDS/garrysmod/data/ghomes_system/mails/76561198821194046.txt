@@ -1,6 +1,0 @@
-[
-	{
-		"text": "u hav smol penis",
-		"author": "bong"
-	}
-]

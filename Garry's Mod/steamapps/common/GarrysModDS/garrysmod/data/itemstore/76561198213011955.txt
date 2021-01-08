@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":32.0,"Ammo":64.0,"Class":"m9k_glock","Model":"models/weapons/w_dmg_glock.mdl"},"Class":"spawned_weapon"}]

@@ -1,1 +1,0 @@
-{"1":{"Data":{"Content":[11.0,7.0],"ZRushOwner":"STEAM_0:1:92089651","MachineID":"Drill"},"Class":"zrush_machinecrate"},"3":{"Data":{"Content":[8.0,7.0],"ZRushOwner":"STEAM_0:1:92089651","MachineID":"Pump"},"Class":"zrush_machinecrate"},"4":{"Data":{"Content":[8.0,12.0,7.0],"ZRushOwner":"STEAM_0:1:92089651","MachineID":"Refinery"},"Class":"zrush_machinecrate"}}

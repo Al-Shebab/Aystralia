@@ -1,1 +1,0 @@
-[{"Data":{"Amount":1.0,"Clip1":7.0,"Ammo":45.0,"Class":"m9k_colt1911","Model":"models/weapons/s_dmgf_co1911.mdl"},"Class":"spawned_weapon"},{"Data":{"THC":17.0,"WeedName":"AK-47","Perf_Amount":96.0,"Perf_Time":101.0,"ZWFOwner":"nil","Perf_THC":119.0,"WeedAmount":82.3499984741211,"PlantID":4.0},"Class":"zwf_jar"}]
