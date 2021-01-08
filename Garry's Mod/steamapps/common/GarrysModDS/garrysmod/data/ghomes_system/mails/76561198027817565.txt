@@ -1,6 +1,6 @@
 [
 	{
-		"text": "Type your message here",
-		"author": "Vivienne Westwood"
+		"text": "ur gay lol",
+		"author": "Ferro"
 	}
 ]

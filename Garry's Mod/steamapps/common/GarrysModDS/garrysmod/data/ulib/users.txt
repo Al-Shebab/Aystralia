@@ -42,6 +42,17 @@
 	}
 	"group"	"moderator"
 }
+"STEAM_0:1:34069567"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Son Brown"
+	"group"	"trusted"
+}
 "STEAM_0:1:33775918"	
 {
 	"deny"	
@@ -55,25 +66,25 @@
 }
 "STEAM_0:1:121087763"	
 {
-	"deny"	
-	{
-	}
 	"allow"	
 	{
 	}
 	"name"	"brexit"
+	"deny"	
+	{
+	}
 	"group"	"superadmin"
 }
 "STEAM_0:0:183460096"	
 {
+	"name"	"Tozbi"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"name"	"Tozbi"
-	"group"	"melbourne"
+	"group"	"perth"
 }
 "STEAM_0:1:529816283"	
 {
@@ -94,7 +105,7 @@
 	"allow"	
 	{
 	}
-	"name"	"Saddam Hussien"
+	"name"	"Maher | ماهر"
 	"group"	"trusted"
 }
 "STEAM_0:1:128868430"	
@@ -119,6 +130,28 @@
 	}
 	"group"	"trusted"
 }
+"STEAM_0:1:51163583"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Jacktank"
+	"group"	"senior-admin"
+}
+"STEAM_0:0:484745754"	
+{
+	"allow"	
+	{
+	}
+	"name"	"K9 Firebreak"
+	"deny"	
+	{
+	}
+	"group"	"trusted"
+}
 "STEAM_0:0:84012375"	
 {
 	"allow"	
@@ -132,14 +165,14 @@
 }
 "STEAM_0:0:579690494"	
 {
+	"name"	"_Jaspereeno_"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"name"	"DJ Bread"
-	"group"	"melbourne"
+	"group"	"perth"
 }
 "STEAM_0:0:86273135"	
 {
@@ -163,6 +196,39 @@
 	}
 	"group"	"superadmin"
 }
+"STEAM_0:1:97474009"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Carl From Bunnings"
+	"group"	"admin"
+}
+"STEAM_0:1:157785215"	
+{
+	"name"	"Lahzr_K1NG"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"trial-moderator"
+}
+"STEAM_0:0:165775247"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Lil Kitty [Ree]"
+	"group"	"trusted"
+}
 "STEAM_0:1:59860466"	
 {
 	"allow"	
@@ -182,39 +248,6 @@
 	"allow"	
 	{
 	}
-	"name"	"Handicap Humper"
+	"name"	"Aow"
 	"group"	"trusted"
-}
-"STEAM_0:0:165775247"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"Lil Kitty [Ree]"
-	"group"	"trusted"
-}
-"STEAM_0:1:97474009"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"Carl From Bunnings"
-	"group"	"admin"
-}
-"STEAM_0:1:51163583"	
-{
-	"allow"	
-	{
-	}
-	"name"	"Jacktank"
-	"deny"	
-	{
-	}
-	"group"	"senior-admin"
 }

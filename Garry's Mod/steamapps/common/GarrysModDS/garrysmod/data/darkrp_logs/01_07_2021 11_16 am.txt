@@ -1,0 +1,990 @@
+Thu Jan  7 11:16:19 2021	tom (STEAM_0:0:51220229) has joined the game
+Thu Jan  7 11:16:19 2021	tom (STEAM_0:0:51220229) spawned
+Thu Jan  7 11:17:58 2021	tom (STEAM_0:0:51220229) disconnected
+Thu Jan  7 11:19:47 2021	Lil Kitty [Ree] (STEAM_0:0:165775247) has joined the game
+Thu Jan  7 11:19:47 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 11:20:10 2021	Semen Demon (STEAM_0:0:221089566) has joined the game
+Thu Jan  7 11:20:10 2021	Semen Demon (STEAM_0:0:221089566) spawned
+Thu Jan  7 11:21:30 2021	Lil Kitty (STEAM_0:0:165775247): Wait
+Thu Jan  7 11:21:32 2021	Lil Kitty (STEAM_0:0:165775247): i have an idea
+Thu Jan  7 11:21:42 2021	Lil Kitty was killed by Entity [407][prop_physics] with a prop_physics
+Thu Jan  7 11:21:44 2021	Lil Kitty (STEAM_0:0:165775247): qaehrfgdehy5r
+Thu Jan  7 11:21:45 2021	Semen Demon (STEAM_0:0:221089566): // lol
+Thu Jan  7 11:21:58 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 11:22:27 2021	Lil Kitty was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 11:22:27 2021	Semen Demon was killed by Lil Kitty with a prop_physics
+Thu Jan  7 11:22:43 2021	Semen Demon (STEAM_0:0:221089566) spawned
+Thu Jan  7 11:22:43 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 11:22:44 2021	Semen Demon (STEAM_0:0:221089566): // this is so good lmao
+Thu Jan  7 11:22:48 2021	Lil Kitty (STEAM_0:0:165775247): perfect plamn
+Thu Jan  7 11:22:54 2021	Lil Kitty (STEAM_0:0:165775247): waiot
+Thu Jan  7 11:22:56 2021	Lil Kitty (STEAM_0:0:165775247): better idea
+Thu Jan  7 11:22:57 2021	Semen Demon (STEAM_0:0:221089566): i cant find that prop anywhere,  i love it tho
+Thu Jan  7 11:23:08 2021	Lil Kitty (STEAM_0:0:165775247): Plastic
+Thu Jan  7 11:23:09 2021	Lil Kitty (STEAM_0:0:165775247): Misc
+Thu Jan  7 11:24:11 2021	Semen Demon (STEAM_0:0:221089566): ooh
+Thu Jan  7 11:24:13 2021	Semen Demon (STEAM_0:0:221089566): yesss
+Thu Jan  7 11:24:21 2021	Semen Demon (STEAM_0:0:221089566): this is gonna be terrible
+Thu Jan  7 11:25:24 2021	Semen Demon (STEAM_0:0:221089566): // get in herer
+Thu Jan  7 11:25:38 2021	Semen Demon (STEAM_0:0:221089566): forgot to welp
+Thu Jan  7 11:25:39 2021	Lil Kitty (STEAM_0:0:165775247): cf
+Thu Jan  7 11:25:40 2021	Semen Demon (STEAM_0:0:221089566): weld
+Thu Jan  7 11:25:41 2021	Lil Kitty (STEAM_0:0:165775247): xd
+Thu Jan  7 11:26:03 2021	Lil Kitty (STEAM_0:0:165775247): HAMSTER
+Thu Jan  7 11:26:06 2021	Semen Demon (STEAM_0:0:221089566): // haha yesss
+Thu Jan  7 11:26:09 2021	Semen Demon (STEAM_0:0:221089566): // it works!!!
+Thu Jan  7 11:26:20 2021	Lil Kitty (STEAM_0:0:165775247): // VIBING DOWN THE STREET BE LIKE
+Thu Jan  7 11:26:33 2021	Lil Kitty (STEAM_0:0:165775247): eyrhrtdefsyrte
+Thu Jan  7 11:26:34 2021	Lil Kitty (STEAM_0:0:165775247): tw
+Thu Jan  7 11:26:38 2021	Lil Kitty (STEAM_0:0:165775247): I WANT OIUT
+Thu Jan  7 11:26:40 2021	Lil Kitty (STEAM_0:0:165775247): oh no
+Thu Jan  7 11:26:44 2021	Semen Demon (STEAM_0:0:221089566): ur mine hahah
+Thu Jan  7 11:26:46 2021	Lil Kitty (STEAM_0:0:165775247): SHIT
+Thu Jan  7 11:26:48 2021	Lil Kitty was killed by Entity [503][prop_physics] with a prop_physics
+Thu Jan  7 11:26:50 2021	Lil Kitty (STEAM_0:0:165775247): ERSTDJHU
+Thu Jan  7 11:26:55 2021	Semen Demon (STEAM_0:0:221089566): // lmao thats amazing
+Thu Jan  7 11:27:03 2021	Semen Demon (STEAM_0:0:221089566): // u can just keep a bunch of slaves
+Thu Jan  7 11:27:04 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 11:27:14 2021	Lil Kitty (STEAM_0:0:165775247): // The only good thing about this
+Thu Jan  7 11:27:19 2021	Semen Demon (STEAM_0:0:221089566): // ikr haha
+Thu Jan  7 11:29:27 2021	Semen Demon was killed by Entity [406][prop_physics] with a prop_physics
+Thu Jan  7 11:29:43 2021	Semen Demon (STEAM_0:0:221089566) spawned
+Thu Jan  7 11:37:52 2021	Lil Kitty (STEAM_0:0:165775247): i have mada
+Thu Jan  7 11:37:58 2021	Semen Demon (STEAM_0:0:221089566): lmao
+Thu Jan  7 11:38:00 2021	Lil Kitty (STEAM_0:0:165775247): the ultimate prop kill weapon
+Thu Jan  7 11:38:06 2021	Semen Demon was killed by Entity [518][prop_physics] with a prop_physics
+Thu Jan  7 11:38:15 2021	Semen Demon (STEAM_0:0:221089566): // this is horrific
+Thu Jan  7 11:38:22 2021	Lil Kitty (STEAM_0:0:165775247): // FIGHT ME I DARE YOU
+Thu Jan  7 11:38:22 2021	Semen Demon (STEAM_0:0:221089566) spawned
+Thu Jan  7 11:38:28 2021	Semen Demon (STEAM_0:0:221089566): // hahah
+Thu Jan  7 11:38:33 2021	Semen Demon (STEAM_0:0:221089566): // thats pure terror
+Thu Jan  7 11:39:03 2021	Semen Demon (STEAM_0:0:221089566): // imma head off and sleep tho, that was fun lmao, idk how the server will react to all this, hopfully prop kills are fixed
+Thu Jan  7 11:39:08 2021	Semen Demon (STEAM_0:0:221089566): // gn lo
+Thu Jan  7 11:39:10 2021	Lil Kitty (STEAM_0:0:165775247): // GN
+Thu Jan  7 11:39:14 2021	Lil Kitty (STEAM_0:0:165775247): // more like gm
+Thu Jan  7 11:39:20 2021	Semen Demon (STEAM_0:0:221089566): // hahaha ikr
+Thu Jan  7 11:39:23 2021	Semen Demon (STEAM_0:0:221089566) disconnected
+Thu Jan  7 12:05:10 2021	Kscarr (STEAM_0:0:186632053) has joined the game
+Thu Jan  7 12:05:10 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 12:06:11 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 12:14:19 2021	Walter White (STEAM_0:0:186632053) disconnected
+Thu Jan  7 12:14:55 2021	Kscarr (STEAM_0:0:186632053) has joined the game
+Thu Jan  7 12:14:55 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 12:15:52 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 12:18:00 2021	Walter White (STEAM_0:0:186632053): // yo u there
+Thu Jan  7 12:25:41 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 12:34:54 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 13:28:01 2021	Night (STEAM_0:0:36563166) has joined the game
+Thu Jan  7 13:28:01 2021	Night Owl (STEAM_0:0:36563166) spawned
+Thu Jan  7 13:30:03 2021	Night Owl (STEAM_0:0:36563166): sup
+Thu Jan  7 13:30:14 2021	Night Owl (STEAM_0:0:36563166): nothing much
+Thu Jan  7 13:30:16 2021	Walter White (STEAM_0:0:186632053): !menu
+Thu Jan  7 13:31:54 2021	Night Owl (STEAM_0:0:36563166): just get a user
+Thu Jan  7 13:34:10 2021	Night Owl (STEAM_0:0:36563166): so 1-18
+Thu Jan  7 13:35:17 2021	Night Owl (STEAM_0:0:36563166): idk
+Thu Jan  7 13:37:30 2021	Night Owl (STEAM_0:0:36563166): !menu
+Thu Jan  7 13:37:35 2021	Walter White (STEAM_0:0:186632053): !menu
+Thu Jan  7 13:38:18 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 13:43:56 2021	Night Owl (STEAM_0:0:36563166) spawned
+Thu Jan  7 13:56:23 2021	Night Owl (STEAM_0:0:36563166) spawned
+Thu Jan  7 14:05:10 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 14:05:33 2021	Night Owl (STEAM_0:0:36563166): // oil refiner got nerfed
+Thu Jan  7 14:05:44 2021	Lil Kitty (STEAM_0:0:165775247): // I know but i want to see how nerfed
+Thu Jan  7 14:05:49 2021	Night Owl (STEAM_0:0:36563166): // alot
+Thu Jan  7 14:06:31 2021	Lil Kitty (STEAM_0:0:165775247): // oh god even the drill tower
+Thu Jan  7 14:07:43 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 14:08:22 2021	Lil Kitty (STEAM_0:0:165775247): wat
+Thu Jan  7 14:08:29 2021	Walter White (STEAM_0:0:186632053): did they nerf the oil refiner job
+Thu Jan  7 14:08:38 2021	Lil Kitty (STEAM_0:0:165775247): fuck ues. takes like 3 mins to drill a hole
+Thu Jan  7 14:08:41 2021	Walter White (STEAM_0:0:186632053): yeah wtf
+Thu Jan  7 14:08:45 2021	Walter White (STEAM_0:0:186632053): so shut
+Thu Jan  7 14:08:48 2021	Lil Kitty (STEAM_0:0:165775247): shebab rn is sleeping
+Thu Jan  7 14:08:54 2021	Lil Kitty (STEAM_0:0:165775247): also props a fucked
+Thu Jan  7 14:09:00 2021	Walter White (STEAM_0:0:186632053): dam
+Thu Jan  7 14:09:11 2021	Lil Kitty (STEAM_0:0:165775247): // he was trying to fix it
+Thu Jan  7 14:09:33 2021	Lil Kitty (STEAM_0:0:165775247): // but couldnt so hes taking a nap and gonna try fix it when  he wakes up
+Thu Jan  7 14:09:37 2021	Walter White (STEAM_0:0:186632053): oh so it will go back to normal?
+Thu Jan  7 14:09:39 2021	Lil Kitty (STEAM_0:0:165775247): hopefully
+Thu Jan  7 14:09:47 2021	Night Owl (STEAM_0:0:36563166): // what wrong with it
+Thu Jan  7 14:09:56 2021	Walter White (STEAM_0:0:186632053): oh
+Thu Jan  7 14:09:57 2021	Lil Kitty (STEAM_0:0:165775247): the prop protection were using is apparently ucked
+Thu Jan  7 14:10:07 2021	Lil Kitty (STEAM_0:0:165775247): so he may have to get a new one
+Thu Jan  7 14:10:14 2021	Lil Kitty (STEAM_0:0:165775247): tbh i dont really know
+Thu Jan  7 14:10:16 2021	Walter White (STEAM_0:0:186632053): okj
+Thu Jan  7 14:10:19 2021	Lil Kitty (STEAM_0:0:165775247): but hes gonna try fix it
+Thu Jan  7 14:10:21 2021	Walter White (STEAM_0:0:186632053): mad
+Thu Jan  7 14:10:27 2021	Walter White was killed by Entity [567][prop_physics] with a prop_physics
+Thu Jan  7 14:10:42 2021	Lil Kitty (STEAM_0:0:165775247): // killed himself in his own prop xd
+Thu Jan  7 14:10:43 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 14:10:58 2021	Night Owl was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 14:11:04 2021	Walter White was killed by Himself with a suicide trick
+Thu Jan  7 14:11:14 2021	Night Owl (STEAM_0:0:36563166) spawned
+Thu Jan  7 14:11:20 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 14:12:37 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 14:13:29 2021	Walter White (STEAM_0:0:186632053): do u make good money as weed dealer
+Thu Jan  7 14:13:34 2021	Lil Kitty (STEAM_0:0:165775247): idk
+Thu Jan  7 14:13:37 2021	Lil Kitty (STEAM_0:0:165775247): gonna try it now
+Thu Jan  7 14:13:43 2021	Walter White (STEAM_0:0:186632053): can i cook with u
+Thu Jan  7 14:13:46 2021	Lil Kitty (STEAM_0:0:165775247): sure
+Thu Jan  7 14:13:51 2021	Lil Kitty (STEAM_0:0:165775247): you do your here
+Thu Jan  7 14:13:54 2021	Walter White (STEAM_0:0:186632053): ye
+Thu Jan  7 14:13:55 2021	Lil Kitty (STEAM_0:0:165775247): ill do mine in here
+Thu Jan  7 14:16:04 2021	Lil Kitty (STEAM_0:0:165775247): i need to go like rn, so ima just afk
+Thu Jan  7 14:16:09 2021	Walter White (STEAM_0:0:186632053): yep
+Thu Jan  7 14:16:11 2021	Lil Kitty (STEAM_0:0:165775247): when i say go i mean like 2 - 3 hours
+Thu Jan  7 14:16:17 2021	Lil Kitty (STEAM_0:0:165775247): so goodluck
+Thu Jan  7 14:16:18 2021	Walter White (STEAM_0:0:186632053): yep
+Thu Jan  7 14:30:46 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 14:38:48 2021	Baino (STEAM_0:0:67507364) has joined the game
+Thu Jan  7 14:38:48 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 14:44:03 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 14:44:32 2021	-_- (STEAM_0:1:573380788) has joined the game
+Thu Jan  7 14:44:32 2021	-_- (STEAM_0:1:573380788) spawned
+Thu Jan  7 14:50:17 2021	-_- (STEAM_0:1:573380788) spawned
+Thu Jan  7 14:55:44 2021	Walter White was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 14:56:00 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 14:59:59 2021	Lil Kitty (STEAM_0:0:165775247): /drop
+Thu Jan  7 15:03:51 2021	Walter White (STEAM_0:0:186632053): !menu
+Thu Jan  7 15:06:55 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 15:08:10 2021	Walter White was killed by Lil Kitty with a m9k_m249lmg
+Thu Jan  7 15:08:14 2021	Lil Kitty (STEAM_0:0:165775247): /drop
+Thu Jan  7 15:08:26 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 15:08:37 2021	Lil Kitty was killed by Walter White with a prop_physics
+Thu Jan  7 15:08:48 2021	Walter White (STEAM_0:0:186632053): // why can u prop kill now?
+Thu Jan  7 15:08:53 2021	Lil Kitty (STEAM_0:0:165775247) spawned
+Thu Jan  7 15:08:55 2021	Walter White (STEAM_0:0:186632053): // server broken?
+Thu Jan  7 15:08:58 2021	Lil Kitty (STEAM_0:0:165775247): // dont abuse it
+Thu Jan  7 15:09:18 2021	Lil Kitty (STEAM_0:0:165775247): // addon stopped working, shebab went to take a nap and he will try fix it when he wakes up
+Thu Jan  7 15:09:27 2021	Lil Kitty (STEAM_0:0:165775247): // dont be a cunt or a dumbass with it
+Thu Jan  7 15:09:30 2021	Walter White (STEAM_0:0:186632053): ohh
+Thu Jan  7 15:09:46 2021	Night Owl (STEAM_0:0:36563166): // 10 hours later, he still taking his nap
+Thu Jan  7 15:10:04 2021	Lil Kitty (STEAM_0:0:165775247): // nah he was on at like 6
+Thu Jan  7 15:10:06 2021	Walter White was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:10:22 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 15:13:49 2021	-_- was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:14:05 2021	-_- (STEAM_0:1:573380788) spawned
+Thu Jan  7 15:15:30 2021	1998 Mulan Schezuan Sauce (STEAM_0:1:105019937) has joined the game
+Thu Jan  7 15:15:30 2021	tom jones (STEAM_0:1:105019937) spawned
+Thu Jan  7 15:16:26 2021	tom jones (STEAM_0:1:105019937) spawned
+Thu Jan  7 15:16:47 2021	-_- (STEAM_0:1:573380788) disconnected
+Thu Jan  7 15:20:32 2021	tom jones (STEAM_0:1:105019937) disconnected
+Thu Jan  7 15:26:53 2021	Maher | ماهر (STEAM_0:1:207731005) has joined the game
+Thu Jan  7 15:26:53 2021	issacis fat (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:27:53 2021	issacis fat (STEAM_0:1:207731005): /name Saddam Hussien
+Thu Jan  7 15:32:11 2021	gamer (STEAM_0:1:578961782) has joined the game
+Thu Jan  7 15:32:11 2021	gamer (STEAM_0:1:578961782) spawned
+Thu Jan  7 15:35:29 2021	Night Owl (STEAM_0:0:36563166): SUP
+Thu Jan  7 15:35:29 2021	Saddam Hussien (STEAM_0:1:207731005): hi
+Thu Jan  7 15:36:42 2021	gamer (STEAM_0:1:578961782) disconnected
+Thu Jan  7 15:38:23 2021	Saddam Hussien (STEAM_0:1:207731005): is this like an auto gunstore?
+Thu Jan  7 15:38:31 2021	Saddam Hussien (STEAM_0:1:207731005): or a base?
+Thu Jan  7 15:38:38 2021	Night Owl (STEAM_0:0:36563166): nah, im waiting for my trusted rank for those
+Thu Jan  7 15:38:41 2021	Saddam Hussien (STEAM_0:1:207731005): Oh
+Thu Jan  7 15:39:20 2021	Saddam Hussien (STEAM_0:1:207731005): u want to base?
+Thu Jan  7 15:40:28 2021	Saddam Hussien (STEAM_0:1:207731005): u can litteraly prop push now
+Thu Jan  7 15:40:36 2021	Saddam Hussien (STEAM_0:1:207731005): Wtf
+Thu Jan  7 15:41:40 2021	Saddam Hussien (STEAM_0:1:207731005): Im not 
+Thu Jan  7 15:41:46 2021	Saddam Hussien (STEAM_0:1:207731005): going to go any job rn
+Thu Jan  7 15:41:56 2021	Saddam Hussien (STEAM_0:1:207731005): because the server is aboutta restart probably
+Thu Jan  7 15:42:07 2021	Saddam Hussien (STEAM_0:1:207731005): In the discord
+Thu Jan  7 15:42:11 2021	Saddam Hussien (STEAM_0:1:207731005): people are asking him
+Thu Jan  7 15:42:15 2021	Saddam Hussien (STEAM_0:1:207731005): to do it
+Thu Jan  7 15:44:03 2021	Walter White was killed by Entity [451][prop_physics] with a prop_physics
+Thu Jan  7 15:44:09 2021	K9 Firebreak (STEAM_0:0:484745754) has joined the game
+Thu Jan  7 15:44:09 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:44:19 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 15:44:23 2021	Saddam Hussien was killed by Entity [630][prop_physics] with a prop_physics
+Thu Jan  7 15:44:39 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:44:42 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 15:46:45 2021	Saddam Hussien was killed by Entity [925][prop_physics] with a prop_physics
+Thu Jan  7 15:47:01 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:48:44 2021	Bob Dober was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:48:45 2021	Saddam Hussien was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:49:00 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:49:01 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:49:11 2021	Saddam Hussien was killed by Entity [636][prop_physics] with a prop_physics
+Thu Jan  7 15:49:27 2021	Bob Dober was killed by Himself with a suicide trick
+Thu Jan  7 15:49:27 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:49:29 2021	Saddam Hussien was killed by Walter White with a prop_physics
+Thu Jan  7 15:49:43 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:49:45 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:49:53 2021	Bob Dober was killed by Entity [948][prop_physics] with a prop_physics
+Thu Jan  7 15:50:09 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:50:30 2021	GOD (STEAM_0:1:88373775) has joined the game
+Thu Jan  7 15:50:30 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 15:50:58 2021	Saddam Hussien was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:51:14 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:51:37 2021	Saddam Hussien was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:51:54 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:52:06 2021	Saddam Hussien was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:52:11 2021	Bob Dober was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:52:22 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 15:52:25 2021	tk (STEAM_0:1:219822134) has joined the game
+Thu Jan  7 15:52:25 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:52:27 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:52:36 2021	GOD was killed by Walter White with a prop_physics
+Thu Jan  7 15:52:52 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 15:52:55 2021	GOD (STEAM_0:1:88373775): // thanks walter :)
+Thu Jan  7 15:53:32 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 15:53:58 2021	Walter White was killed by Entity [924][prop_physics] with a prop_physics
+Thu Jan  7 15:54:05 2021	Bob Dober was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:54:14 2021	Walter White (STEAM_0:0:186632053) spawned
+Thu Jan  7 15:54:21 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:54:47 2021	Saddam Hussien (STEAM_0:1:207731005): this?
+Thu Jan  7 15:54:58 2021	Bob Dober was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:55:12 2021	Saddam Hussien (STEAM_0:1:207731005): what should i choose?
+Thu Jan  7 15:55:14 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:55:15 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:55:30 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:55:35 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:55:50 2021	Saddam Hussien (STEAM_0:1:207731005): 1k
+Thu Jan  7 15:55:51 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:55:53 2021	Saddam Hussien (STEAM_0:1:207731005): im testing
+Thu Jan  7 15:55:55 2021	Saddam Hussien (STEAM_0:1:207731005): /me salutes
+Thu Jan  7 15:56:00 2021	Bob Dober was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:56:09 2021	Saddam Hussien (STEAM_0:1:207731005): How much did u win?
+Thu Jan  7 15:56:16 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 15:56:30 2021	Saddam Hussien (STEAM_0:1:207731005): what should i choose now?
+Thu Jan  7 15:56:41 2021	Saddam Hussien (STEAM_0:1:207731005): 1 to 30?
+Thu Jan  7 15:56:55 2021	Saddam Hussien (STEAM_0:1:207731005): thats 1 to 18
+Thu Jan  7 15:56:56 2021	Night Owl (STEAM_0:0:36563166): SUP
+Thu Jan  7 15:57:03 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:57:14 2021	Saddam Hussien (STEAM_0:1:207731005): wtf?
+Thu Jan  7 15:57:19 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:57:19 2021	Saddam Hussien (STEAM_0:1:207731005): i didnt choose it
+Thu Jan  7 15:57:24 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:57:40 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:57:57 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:58:13 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:58:17 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:58:17 2021	Awful_cat (STEAM_0:0:503306554) has joined the game
+Thu Jan  7 15:58:17 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 15:58:29 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:58:34 2021	Saddam Hussien (STEAM_0:1:207731005): wtf
+Thu Jan  7 15:58:45 2021	bong was killed by Himself with a suicide trick
+Thu Jan  7 15:58:45 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:58:57 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 15:59:01 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 15:59:02 2021	Matin Lose (STEAM_0:1:219822134): !content
+Thu Jan  7 15:59:04 2021	Saddam Hussien (STEAM_0:1:207731005): BRUHHH
+Thu Jan  7 15:59:06 2021	Saddam Hussien (STEAM_0:1:207731005): NOOO
+Thu Jan  7 15:59:09 2021	Saddam Hussien (STEAM_0:1:207731005): THIS IS RIGGED
+Thu Jan  7 15:59:11 2021	Bob Dober was killed by Himself with a suicide trick
+Thu Jan  7 15:59:13 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 15:59:18 2021	Saddam Hussien (STEAM_0:1:207731005): yes
+Thu Jan  7 15:59:27 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:00:06 2021	Saddam Hussien (STEAM_0:1:207731005): how to know how much u got?
+Thu Jan  7 16:00:18 2021	Bob Dober (STEAM_0:0:484745754) disconnected
+Thu Jan  7 16:00:22 2021	Matin Lose (STEAM_0:1:219822134): !content
+Thu Jan  7 16:00:48 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:00:52 2021	Saddam Hussien (STEAM_0:1:207731005): 10k chips
+Thu Jan  7 16:01:03 2021	Saddam Hussien (STEAM_0:1:207731005): 20k
+Thu Jan  7 16:01:04 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:01:06 2021	Saddam Hussien (STEAM_0:1:207731005): Bruh
+Thu Jan  7 16:01:15 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 16:01:39 2021	Saddam Hussien (STEAM_0:1:207731005): i can farm this
+Thu Jan  7 16:01:49 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:01:52 2021	Saddam Hussien (STEAM_0:1:207731005): u can
+Thu Jan  7 16:01:57 2021	Saddam Hussien (STEAM_0:1:207731005): yes
+Thu Jan  7 16:02:07 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:02:08 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 16:02:15 2021	Saddam Hussien (STEAM_0:1:207731005): someone bet 15 mil'
+Thu Jan  7 16:02:55 2021	Saddam Hussien (STEAM_0:1:207731005): if its green im done
+Thu Jan  7 16:03:27 2021	Saddam Hussien (STEAM_0:1:207731005): instead of standing on the table just hold b and look at it 
+Thu Jan  7 16:03:33 2021	Walter White (STEAM_0:0:186632053): /me Salutes
+Thu Jan  7 16:03:38 2021	Walter White (STEAM_0:0:186632053): /me Salutes
+Thu Jan  7 16:03:50 2021	Matin Lose (STEAM_0:1:219822134): !content
+Thu Jan  7 16:03:55 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 16:04:08 2021	Baino (STEAM_0:0:67507364): /dropmoney 90000
+Thu Jan  7 16:04:09 2021	Baino (STEAM_0:0:67507364) has dropped $90,000
+Thu Jan  7 16:04:19 2021	Saddam Hussien (STEAM_0:1:207731005): no one goes to that one
+Thu Jan  7 16:04:47 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:05:03 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:05:11 2021	Saddam Hussien (STEAM_0:1:207731005): im joining in
+Thu Jan  7 16:05:24 2021	Saddam Hussien (STEAM_0:1:207731005): got 0 chips left too
+Thu Jan  7 16:05:36 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:05:45 2021	Saddam Hussien (STEAM_0:1:207731005): just put 10k
+Thu Jan  7 16:05:49 2021	Night Owl (STEAM_0:0:36563166) spawned
+Thu Jan  7 16:05:52 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:05:52 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:05:59 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:06:02 2021	Saddam Hussien (STEAM_0:1:207731005): nooo
+Thu Jan  7 16:06:30 2021	Matin Lose (STEAM_0:1:219822134): that wont work
+Thu Jan  7 16:06:51 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:07:07 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:07:13 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:07:29 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:07:41 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:07:57 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:08:35 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:08:47 2021	Saddam Hussien (STEAM_0:1:207731005): i got no more chips..
+Thu Jan  7 16:08:51 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:09:14 2021	Walter White (STEAM_0:0:186632053): /me Salutes
+Thu Jan  7 16:09:15 2021	Walter White (STEAM_0:0:186632053): /me Salutes
+Thu Jan  7 16:09:16 2021	Walter White (STEAM_0:0:186632053): !ccf
+Thu Jan  7 16:09:17 2021	Walter White (STEAM_0:0:186632053): /me Salutes
+Thu Jan  7 16:09:20 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:09:36 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:09:49 2021	Saddam Hussien (STEAM_0:1:207731005): let me try getting the 2000 to 20k
+Thu Jan  7 16:10:03 2021	Saddam Hussien was killed by Himself with a suicide trick
+Thu Jan  7 16:10:19 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 16:10:43 2021	Matin Lose (STEAM_0:1:219822134): what u say
+Thu Jan  7 16:10:45 2021	Saddam Hussien (STEAM_0:1:207731005): !menu
+Thu Jan  7 16:10:48 2021	Walter White (STEAM_0:0:186632053): !MENU
+Thu Jan  7 16:11:03 2021	Saddam Hussien (STEAM_0:1:207731005): ...
+Thu Jan  7 16:11:16 2021	Saddam Hussien (STEAM_0:1:207731005): should i put 100k?
+Thu Jan  7 16:12:16 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 16:12:21 2021	Matin Lose (STEAM_0:1:219822134): should all in
+Thu Jan  7 16:12:26 2021	Walter White (STEAM_0:0:186632053): YES
+Thu Jan  7 16:12:33 2021	Walter White (STEAM_0:0:186632053): all in on 1-18
+Thu Jan  7 16:12:37 2021	Matin Lose (STEAM_0:1:219822134): just got 28
+Thu Jan  7 16:12:38 2021	Matin Lose (STEAM_0:1:219822134): :/
+Thu Jan  7 16:12:40 2021	Saddam Hussien (STEAM_0:1:207731005): 12k
+Thu Jan  7 16:12:42 2021	Saddam Hussien (STEAM_0:1:207731005): on the table
+Thu Jan  7 16:13:03 2021	Saddam Hussien (STEAM_0:1:207731005): FUCK
+Thu Jan  7 16:13:03 2021	Matin Lose (STEAM_0:1:219822134): owned
+Thu Jan  7 16:13:07 2021	K9 Firebreak (STEAM_0:0:484745754) has joined the game
+Thu Jan  7 16:13:07 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:13:34 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:13:50 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:14:00 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:14:16 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:14:16 2021	Bob Dober (STEAM_0:0:484745754) disconnected
+Thu Jan  7 16:14:33 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:14:36 2021	Saddam Hussien (STEAM_0:1:207731005): gl
+Thu Jan  7 16:14:49 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:15:02 2021	Saddam Hussien was killed by Himself with a suicide trick
+Thu Jan  7 16:15:18 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 16:15:43 2021	GOD (STEAM_0:1:88373775): /me sad
+Thu Jan  7 16:15:49 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:16:05 2021	Matin Lose (STEAM_0:1:219822134) spawned
+Thu Jan  7 16:16:07 2021	Saddam Hussien (STEAM_0:1:207731005): ooft
+Thu Jan  7 16:16:14 2021	Saddam Hussien (STEAM_0:1:207731005): how much are those?
+Thu Jan  7 16:16:24 2021	Saddam Hussien (STEAM_0:1:207731005): oh
+Thu Jan  7 16:16:39 2021	Saddam Hussien (STEAM_0:1:207731005): rags to riches
+Thu Jan  7 16:17:22 2021	Saddam Hussien (STEAM_0:1:207731005): IM NOT LOOKING
+Thu Jan  7 16:17:29 2021	Matin Lose was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 16:17:32 2021	Matin Lose (STEAM_0:1:219822134) disconnected
+Thu Jan  7 16:17:34 2021	Saddam Hussien (STEAM_0:1:207731005): LETS GO
+Thu Jan  7 16:17:36 2021	Baino (STEAM_0:0:67507364): /me cums
+Thu Jan  7 16:17:42 2021	Saddam Hussien (STEAM_0:1:207731005): wtf
+Thu Jan  7 16:17:43 2021	Baino (STEAM_0:0:67507364): /me regrets
+Thu Jan  7 16:17:51 2021	GOD (STEAM_0:1:88373775): /me disgust
+Thu Jan  7 16:17:52 2021	Baino (STEAM_0:0:67507364): /me disgust
+Thu Jan  7 16:17:56 2021	Saddam Hussien (STEAM_0:1:207731005): i bet we going to lose
+Thu Jan  7 16:17:57 2021	Baino (STEAM_0:0:67507364): /me cum harder
+Thu Jan  7 16:18:11 2021	GOD (STEAM_0:1:88373775): /me disgust harder
+Thu Jan  7 16:18:13 2021	Baino (STEAM_0:0:67507364): /me rapes small somalian child
+Thu Jan  7 16:18:23 2021	GOD (STEAM_0:1:88373775): /me watches in horror
+Thu Jan  7 16:18:32 2021	Baino (STEAM_0:0:67507364): /me moans
+Thu Jan  7 16:18:43 2021	GOD (STEAM_0:1:88373775): /me crys
+Thu Jan  7 16:18:50 2021	GOD (STEAM_0:1:88373775): /me crys
+Thu Jan  7 16:18:52 2021	Baino (STEAM_0:0:67507364): /me cries
+Thu Jan  7 16:18:53 2021	Saddam Hussien (STEAM_0:1:207731005): 100k
+Thu Jan  7 16:19:04 2021	Saddam Hussien (STEAM_0:1:207731005): U FUCKED ME OVER
+Thu Jan  7 16:19:06 2021	GOD (STEAM_0:1:88373775): /me steals bitcoin
+Thu Jan  7 16:19:09 2021	Baino (STEAM_0:0:67507364): /me pulls out horse cock
+Thu Jan  7 16:19:34 2021	Saddam Hussien (STEAM_0:1:207731005): 20k
+Thu Jan  7 16:19:53 2021	Saddam Hussien (STEAM_0:1:207731005): al shabeb needs to give us money
+Thu Jan  7 16:19:59 2021	Baino (STEAM_0:0:67507364): /me fucks your ass while you werent looking
+Thu Jan  7 16:20:09 2021	Night Owl (STEAM_0:0:36563166) spawned
+Thu Jan  7 16:20:17 2021	GOD (STEAM_0:1:88373775): /me grabs knife
+Thu Jan  7 16:20:26 2021	GOD (STEAM_0:1:88373775): /me cuts off dick
+Thu Jan  7 16:20:38 2021	GOD (STEAM_0:1:88373775): /me dies
+Thu Jan  7 16:20:41 2021	Saddam Hussien (STEAM_0:1:207731005): what
+Thu Jan  7 16:20:45 2021	Saddam Hussien (STEAM_0:1:207731005): No
+Thu Jan  7 16:20:55 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:21:13 2021	Saddam Hussien (STEAM_0:1:207731005): WHAT
+Thu Jan  7 16:21:13 2021	Baino (STEAM_0:0:67507364): bind "i" "say /me gropes you aggressively"
+Thu Jan  7 16:21:18 2021	Saddam Hussien (STEAM_0:1:207731005): i misclicked
+Thu Jan  7 16:21:20 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:21:20 2021	GOD (STEAM_0:1:88373775): what you egg
+Thu Jan  7 16:21:26 2021	GOD (STEAM_0:1:88373775): /me stabs him
+Thu Jan  7 16:21:35 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:21:54 2021	Saddam Hussien (STEAM_0:1:207731005): yo what
+Thu Jan  7 16:22:02 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:22:17 2021	Saddam Hussien (STEAM_0:1:207731005): gll
+Thu Jan  7 16:22:26 2021	Saddam Hussien (STEAM_0:1:207731005): holy shit
+Thu Jan  7 16:22:40 2021	Saddam Hussien (STEAM_0:1:207731005): should i cash out?
+Thu Jan  7 16:22:45 2021	GOD (STEAM_0:1:88373775): What you egg?!
+Thu Jan  7 16:22:46 2021	GOD (STEAM_0:1:88373775): /me stabs him
+Thu Jan  7 16:22:48 2021	Saddam Hussien (STEAM_0:1:207731005): 7500
+Thu Jan  7 16:22:56 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:22:59 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:12 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:13 2021	Baino (STEAM_0:0:67507364): 
+Thu Jan  7 16:23:13 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:14 2021	Baino (STEAM_0:0:67507364): 
+Thu Jan  7 16:23:15 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:17 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:19 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:20 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:23:24 2021	GOD (STEAM_0:1:88373775): /me stabs him
+Thu Jan  7 16:23:26 2021	GOD (STEAM_0:1:88373775): /me stabs him
+Thu Jan  7 16:23:27 2021	GOD (STEAM_0:1:88373775): /me stabs him
+Thu Jan  7 16:23:29 2021	GOD (STEAM_0:1:88373775): /me stabs him
+Thu Jan  7 16:23:31 2021	K9 Firebreak (STEAM_0:0:484745754) has joined the game
+Thu Jan  7 16:23:31 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:23:53 2021	Saddam Hussien (STEAM_0:1:207731005): 15k
+Thu Jan  7 16:24:14 2021	Bob Dober (STEAM_0:0:484745754): /advert Mug drop 15k or die
+Thu Jan  7 16:24:24 2021	Saddam Hussien (STEAM_0:1:207731005): punched someone at spawn
+Thu Jan  7 16:24:25 2021	Bob Dober (STEAM_0:0:484745754): /advert test
+Thu Jan  7 16:24:48 2021	Saddam Hussien (STEAM_0:1:207731005): 23m
+Thu Jan  7 16:25:00 2021	GOD (STEAM_0:1:88373775): My friend Justin, hes taken, and hes cracked at fortnite my dude
+Thu Jan  7 16:25:03 2021	GOD (STEAM_0:1:88373775): /me moans aggressively
+Thu Jan  7 16:25:06 2021	Saddam Hussien (STEAM_0:1:207731005): wait
+Thu Jan  7 16:25:08 2021	Saddam Hussien (STEAM_0:1:207731005): u have a car?
+Thu Jan  7 16:25:18 2021	Baino (STEAM_0:0:67507364): /me is thinking about what you look like naked
+Thu Jan  7 16:25:18 2021	Saddam Hussien (STEAM_0:1:207731005): Im going to sell it
+Thu Jan  7 16:25:24 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:25:28 2021	Saddam Hussien (STEAM_0:1:207731005): lik 6 mil
+Thu Jan  7 16:25:32 2021	Baino (STEAM_0:0:67507364): /me is thinking about what you look like naked
+Thu Jan  7 16:25:41 2021	Bob Dober was killed by Himself with a suicide trick
+Thu Jan  7 16:25:57 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:26:04 2021	Saddam Hussien (STEAM_0:1:207731005): // it was 1.8m
+Thu Jan  7 16:26:12 2021	Night Owl (STEAM_0:0:36563166): // what was
+Thu Jan  7 16:26:12 2021	Walter White (STEAM_0:0:186632053): // STILL GOOD
+Thu Jan  7 16:26:19 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:26:20 2021	Saddam Hussien (STEAM_0:1:207731005): // my car
+Thu Jan  7 16:26:24 2021	Night Owl (STEAM_0:0:36563166): // oh
+Thu Jan  7 16:26:28 2021	Baino (STEAM_0:0:67507364): /me notices you have a tiny penis
+Thu Jan  7 16:26:28 2021	GOD (STEAM_0:1:88373775): /me moans aggressively
+Thu Jan  7 16:27:01 2021	Saddam Hussien (STEAM_0:1:207731005): 16k
+Thu Jan  7 16:27:04 2021	Saddam Hussien (STEAM_0:1:207731005): 16m
+Thu Jan  7 16:27:07 2021	Baino (STEAM_0:0:67507364): !unbox
+Thu Jan  7 16:27:13 2021	Baino (STEAM_0:0:67507364): !wheeloffortune
+Thu Jan  7 16:27:13 2021	Saddam Hussien (STEAM_0:1:207731005): wait
+Thu Jan  7 16:27:15 2021	Saddam Hussien (STEAM_0:1:207731005): 160k
+Thu Jan  7 16:27:18 2021	Baino (STEAM_0:0:67507364): !spinwheel
+Thu Jan  7 16:27:20 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:27:20 2021	Baino (STEAM_0:0:67507364): !wheel
+Thu Jan  7 16:27:21 2021	Baino (STEAM_0:0:67507364): fuck
+Thu Jan  7 16:27:29 2021	Baino (STEAM_0:0:67507364): !spinwheel
+Thu Jan  7 16:27:32 2021	Baino (STEAM_0:0:67507364): !wheelofluck
+Thu Jan  7 16:27:44 2021	Saddam Hussien (STEAM_0:1:207731005): 336k
+Thu Jan  7 16:27:58 2021	Saddam Hussien (STEAM_0:1:207731005): if i sell it
+Thu Jan  7 16:28:12 2021	Baino (STEAM_0:0:67507364): /me notices you have a tiny penis
+Thu Jan  7 16:28:26 2021	Saddam Hussien (STEAM_0:1:207731005): 3365999
+Thu Jan  7 16:28:42 2021	Saddam Hussien (STEAM_0:1:207731005): Bruh that was nevre racking
+Thu Jan  7 16:28:58 2021	Saddam Hussien (STEAM_0:1:207731005): the car was a shitbox anyways
+Thu Jan  7 16:29:14 2021	Saddam Hussien (STEAM_0:1:207731005): the maps tiny
+Thu Jan  7 16:29:44 2021	Saddam Hussien (STEAM_0:1:207731005): how much u got
+Thu Jan  7 16:29:51 2021	Saddam Hussien (STEAM_0:1:207731005): yea ur chips
+Thu Jan  7 16:29:57 2021	⚓Sea⚓ (STEAM_0:0:210515244) has joined the game
+Thu Jan  7 16:29:57 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 16:30:28 2021	Saddam Hussien (STEAM_0:1:207731005): i still cant believe he put 15 million on green and won
+Thu Jan  7 16:30:29 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:30:37 2021	Saddam Hussien (STEAM_0:1:207731005): idk
+Thu Jan  7 16:30:44 2021	Saddam Hussien (STEAM_0:1:207731005): but i remember seeing a tower of chips
+Thu Jan  7 16:30:55 2021	Saddam Hussien (STEAM_0:1:207731005): are u in the discord?
+Thu Jan  7 16:31:03 2021	Saddam Hussien (STEAM_0:1:207731005): check general
+Thu Jan  7 16:31:07 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:31:08 2021	Saddam Hussien (STEAM_0:1:207731005): and u will see
+Thu Jan  7 16:31:21 2021	GOD (STEAM_0:1:88373775): Mother i require youir assistants in an urgent manner
+Thu Jan  7 16:31:25 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:31:28 2021	GOD (STEAM_0:1:88373775): I has consumed the mulk
+Thu Jan  7 16:31:36 2021	GOD (STEAM_0:1:88373775): 11 tho
+Thu Jan  7 16:31:41 2021	Baino (STEAM_0:0:67507364): /dropmoney 150000
+Thu Jan  7 16:31:42 2021	Baino (STEAM_0:0:67507364) has dropped $150,000
+Thu Jan  7 16:31:49 2021	eliano (STEAM_0:1:150661630) has joined the game
+Thu Jan  7 16:31:49 2021	James Johnson (STEAM_0:1:150661630) spawned
+Thu Jan  7 16:31:56 2021	Saddam Hussien (STEAM_0:1:207731005): im back
+Thu Jan  7 16:31:59 2021	Saddam Hussien (STEAM_0:1:207731005): i was tabbed out
+Thu Jan  7 16:32:06 2021	Baino (STEAM_0:0:67507364): Congratulations! You just won $2000Congratulations! You just won $2000
+Thu Jan  7 16:32:08 2021	Saddam Hussien (STEAM_0:1:207731005): his name is LadyBoy
+Thu Jan  7 16:32:25 2021	Saddam Hussien (STEAM_0:1:207731005): someone when 80 mil on double or nothing
+Thu Jan  7 16:32:33 2021	Bob Dober (STEAM_0:0:484745754): /drop
+Thu Jan  7 16:32:35 2021	Bob Dober (STEAM_0:0:484745754): /drop
+Thu Jan  7 16:32:37 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:32:44 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:32:45 2021	Saddam Hussien (STEAM_0:1:207731005): he got like 40 jackpots
+Thu Jan  7 16:32:53 2021	GOD (STEAM_0:1:88373775): Mother i require youir assistants in an urgent manner
+Thu Jan  7 16:32:55 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:32:56 2021	GOD (STEAM_0:1:88373775): I has consumed the mulk
+Thu Jan  7 16:33:01 2021	Saddam Hussien (STEAM_0:1:207731005): its rip off tbh
+Thu Jan  7 16:33:03 2021	GOD (STEAM_0:1:88373775): three
+Thu Jan  7 16:33:08 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:33:11 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:33:28 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 16:33:32 2021	GOD (STEAM_0:1:88373775): i havent filled it once
+Thu Jan  7 16:33:50 2021	Bob Dober (STEAM_0:0:484745754): /advert raid
+Thu Jan  7 16:33:52 2021	Baino (STEAM_0:0:67507364): Congratulations! You just won $7000[User] GOD: i havent filled it onceCongratulations! You just won $2000Congratulations!
+Thu Jan  7 16:34:09 2021	Saddam Hussien (STEAM_0:1:207731005): 50k
+Thu Jan  7 16:34:14 2021	Saddam Hussien (STEAM_0:1:207731005): yea
+Thu Jan  7 16:34:19 2021	Baino was killed by Bob Dober with a m9k_browningauto5
+Thu Jan  7 16:34:30 2021	Sir Asian (STEAM_0:0:210515244): 
+Thu Jan  7 16:34:35 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 16:34:53 2021	GOD was killed by Bob Dober with a m9k_browningauto5
+Thu Jan  7 16:34:54 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 16:35:04 2021	Bob Dober (STEAM_0:0:484745754): // wow dog
+Thu Jan  7 16:35:10 2021	James Johnson was killed by Himself with a suicide trick
+Thu Jan  7 16:35:10 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 16:35:16 2021	Baino (STEAM_0:0:67507364): // ?
+Thu Jan  7 16:35:16 2021	Bob Dober (STEAM_0:0:484745754): // just change jobs so i cant take your shit
+Thu Jan  7 16:35:22 2021	Baino (STEAM_0:0:67507364): // i was going to anyway??
+Thu Jan  7 16:35:25 2021	James Johnson (STEAM_0:1:150661630) spawned
+Thu Jan  7 16:35:28 2021	Baino (STEAM_0:0:67507364): // you saw me leaving base
+Thu Jan  7 16:35:38 2021	GOD (STEAM_0:1:88373775): /pm ba i sell youir shit :>
+Thu Jan  7 16:35:53 2021	Saddam Hussien (STEAM_0:1:207731005): gl
+Thu Jan  7 16:36:17 2021	Saddam Hussien (STEAM_0:1:207731005): Im going to stop 
+Thu Jan  7 16:36:18 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 16:36:23 2021	Saddam Hussien (STEAM_0:1:207731005): thats way too much gambling
+Thu Jan  7 16:36:29 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 16:36:36 2021	James Johnson was killed by Himself with a suicide trick
+Thu Jan  7 16:36:36 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 16:36:39 2021	Bob Dober (STEAM_0:0:484745754): /advert raid over
+Thu Jan  7 16:36:44 2021	GOD (STEAM_0:1:88373775): /pm ba sure
+Thu Jan  7 16:36:46 2021	Bob Dober (STEAM_0:0:484745754): /drop
+Thu Jan  7 16:36:48 2021	Bob Dober (STEAM_0:0:484745754): /drop
+Thu Jan  7 16:36:52 2021	James Johnson (STEAM_0:1:150661630) spawned
+Thu Jan  7 16:36:56 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 16:37:09 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:37:20 2021	James Johnson (STEAM_0:1:150661630): hey bob
+Thu Jan  7 16:37:22 2021	Bob Dober (STEAM_0:0:484745754): /drop
+Thu Jan  7 16:37:22 2021	Bob Dober (STEAM_0:0:484745754): 
+Thu Jan  7 16:37:26 2021	Saddam Hussien (STEAM_0:1:207731005): this slot machine is just for users
+Thu Jan  7 16:37:36 2021	GOD (STEAM_0:1:88373775): wat
+Thu Jan  7 16:37:38 2021	Saddam Hussien (STEAM_0:1:207731005): they all are
+Thu Jan  7 16:37:48 2021	James Johnson (STEAM_0:1:150661630) spawned
+Thu Jan  7 16:37:55 2021	Saddam Hussien (STEAM_0:1:207731005): !Menu
+Thu Jan  7 16:38:05 2021	Bob Dober (STEAM_0:0:484745754): It's my arm man! My fuckin' arm!
+Thu Jan  7 16:38:09 2021	Bob Dober (STEAM_0:0:484745754): It's my arm man! My fuckin' arm!
+Thu Jan  7 16:38:12 2021	Bob Dober (STEAM_0:0:484745754): It's my arm man! My fuckin' arm!
+Thu Jan  7 16:38:16 2021	Bob Dober (STEAM_0:0:484745754): HELLO. MY NAME IS JARED AND I LIKE FOOTBALL.
+Thu Jan  7 16:38:33 2021	Saddam Hussien (STEAM_0:1:207731005): this ones luck
+Thu Jan  7 16:38:42 2021	Bob Dober (STEAM_0:0:484745754): /drop
+Thu Jan  7 16:38:47 2021	Night Owl (STEAM_0:0:36563166): !Menu
+Thu Jan  7 16:38:49 2021	Bob Dober was killed by Himself with a suicide trick
+Thu Jan  7 16:38:53 2021	Saddam Hussien (STEAM_0:1:207731005): gl
+Thu Jan  7 16:39:05 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 16:39:05 2021	Walter White (STEAM_0:0:186632053): /me Salutes
+Thu Jan  7 16:39:18 2021	James Johnson (STEAM_0:1:150661630): hey
+Thu Jan  7 16:39:19 2021	Bob Dober (STEAM_0:0:484745754): /pm james you know where good bases are?
+Thu Jan  7 16:39:34 2021	James Johnson (STEAM_0:1:150661630): /pm bob na man i just hopped on sry ahaha
+Thu Jan  7 16:39:43 2021	Bob Dober (STEAM_0:0:484745754): /pm james nah your fine, all g :)
+Thu Jan  7 16:39:54 2021	Saddam Hussien (STEAM_0:1:207731005): yes
+Thu Jan  7 16:40:08 2021	Saddam Hussien (STEAM_0:1:207731005): u want to make big boy money
+Thu Jan  7 16:40:12 2021	Bob Dober (STEAM_0:0:484745754): yea
+Thu Jan  7 16:40:15 2021	Saddam Hussien (STEAM_0:1:207731005): u shot me
+Thu Jan  7 16:40:18 2021	Saddam Hussien (STEAM_0:1:207731005): bot good
+Thu Jan  7 16:40:19 2021	Bob Dober (STEAM_0:0:484745754): but idk how to use wiremod
+Thu Jan  7 16:40:21 2021	Saddam Hussien (STEAM_0:1:207731005): come
+Thu Jan  7 16:40:27 2021	Saddam Hussien (STEAM_0:1:207731005): do this
+Thu Jan  7 16:40:33 2021	Walter White (STEAM_0:0:186632053): !menu
+Thu Jan  7 16:40:34 2021	Saddam Hussien (STEAM_0:1:207731005): and put ur chips on 
+Thu Jan  7 16:40:35 2021	Bob Dober (STEAM_0:0:484745754): your not gonna make me lose
+Thu Jan  7 16:40:45 2021	Saddam Hussien (STEAM_0:1:207731005): !menu
+Thu Jan  7 16:40:49 2021	Bob Dober (STEAM_0:0:484745754): !menu
+Thu Jan  7 16:40:58 2021	Bob Dober (STEAM_0:0:484745754): ill do a little bit first
+Thu Jan  7 16:40:59 2021	Bob Dober (STEAM_0:0:484745754): to see
+Thu Jan  7 16:41:27 2021	Bob Dober (STEAM_0:0:484745754): so what do i do
+Thu Jan  7 16:41:49 2021	James Johnson (STEAM_0:1:150661630): i put it on red ahahah
+Thu Jan  7 16:42:07 2021	James Johnson (STEAM_0:1:150661630): how ahaha
+Thu Jan  7 16:42:08 2021	Bob Dober (STEAM_0:0:484745754): i didnt get shit
+Thu Jan  7 16:42:13 2021	Saddam Hussien (STEAM_0:1:207731005): bottom left
+Thu Jan  7 16:42:15 2021	Saddam Hussien (STEAM_0:1:207731005): 1 to 18
+Thu Jan  7 16:42:17 2021	James Johnson (STEAM_0:1:150661630): i did red ahaha
+Thu Jan  7 16:42:19 2021	Bob Dober (STEAM_0:0:484745754): idk how to do this
+Thu Jan  7 16:42:20 2021	Saddam Hussien (STEAM_0:1:207731005): i got 4 mill outt of it
+Thu Jan  7 16:42:21 2021	James Johnson (STEAM_0:1:150661630): i will do 1-18
+Thu Jan  7 16:42:30 2021	Baino (STEAM_0:0:67507364): /dropmoney 50000
+Thu Jan  7 16:42:31 2021	Baino (STEAM_0:0:67507364) has dropped $50,000
+Thu Jan  7 16:42:32 2021	James Johnson (STEAM_0:1:150661630): ahahaha
+Thu Jan  7 16:42:38 2021	Bob Dober (STEAM_0:0:484745754): how you bet
+Thu Jan  7 16:42:42 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 16:42:46 2021	Bob Dober (STEAM_0:0:484745754): yea i got 1k
+Thu Jan  7 16:42:56 2021	James Johnson (STEAM_0:1:150661630): thats 100 chips
+Thu Jan  7 16:43:02 2021	James Johnson (STEAM_0:1:150661630): AHAh
+Thu Jan  7 16:43:13 2021	James Johnson (STEAM_0:1:150661630): i will do 1.5mil
+Thu Jan  7 16:43:39 2021	Saddam Hussien (STEAM_0:1:207731005): ...
+Thu Jan  7 16:43:53 2021	James Johnson (STEAM_0:1:150661630): alr 500k back on
+Thu Jan  7 16:44:17 2021	Saddam Hussien (STEAM_0:1:207731005): i might go to star casino and do this
+Thu Jan  7 16:44:31 2021	Saddam Hussien (STEAM_0:1:207731005): Yea
+Thu Jan  7 16:44:37 2021	Saddam Hussien (STEAM_0:1:207731005): this is just computer progammed
+Thu Jan  7 16:44:40 2021	James Johnson (STEAM_0:1:150661630): 1mil
+Thu Jan  7 16:44:51 2021	James Johnson (STEAM_0:1:150661630): yh
+Thu Jan  7 16:45:06 2021	Bob Dober (STEAM_0:0:484745754): bs
+Thu Jan  7 16:45:08 2021	Saddam Hussien (STEAM_0:1:207731005): ...
+Thu Jan  7 16:45:08 2021	James Johnson (STEAM_0:1:150661630): every single time
+Thu Jan  7 16:45:13 2021	James Johnson (STEAM_0:1:150661630): 500k 
+Thu Jan  7 16:45:18 2021	James Johnson (STEAM_0:1:150661630): !menu
+Thu Jan  7 16:45:32 2021	Saddam Hussien (STEAM_0:1:207731005): i sold my car for this
+Thu Jan  7 16:45:35 2021	James Johnson (STEAM_0:1:150661630): alr 1mil now??
+Thu Jan  7 16:45:43 2021	Walter White (STEAM_0:0:186632053): !menu
+Thu Jan  7 16:45:44 2021	James Johnson (STEAM_0:1:150661630): 1mil ahaha
+Thu Jan  7 16:45:47 2021	James Johnson (STEAM_0:1:150661630): put it on 1-18
+Thu Jan  7 16:45:50 2021	James Johnson (STEAM_0:1:150661630): thats all i have
+Thu Jan  7 16:46:02 2021	Bob Dober (STEAM_0:0:484745754): i put 1 mil
+Thu Jan  7 16:46:05 2021	Bob Dober (STEAM_0:0:484745754): how do i bet it all
+Thu Jan  7 16:46:07 2021	James Johnson (STEAM_0:1:150661630): every single time i put 1mil or higher
+Thu Jan  7 16:46:25 2021	Bob Dober (STEAM_0:0:484745754): how do i bet my 1 mil
+Thu Jan  7 16:46:29 2021	James Johnson (STEAM_0:1:150661630): 500k on 1-18
+Thu Jan  7 16:46:32 2021	Bob Dober (STEAM_0:0:484745754): how
+Thu Jan  7 16:46:38 2021	James Johnson (STEAM_0:1:150661630): buy chips
+Thu Jan  7 16:46:40 2021	Bob Dober (STEAM_0:0:484745754): yea
+Thu Jan  7 16:46:42 2021	James Johnson (STEAM_0:1:150661630): and type in the rectangle
+Thu Jan  7 16:46:50 2021	Bob Dober (STEAM_0:0:484745754): i did
+Thu Jan  7 16:46:55 2021	Bob Dober (STEAM_0:0:484745754): i spent $1m
+Thu Jan  7 16:47:04 2021	James Johnson (STEAM_0:1:150661630): i lost
+Thu Jan  7 16:47:05 2021	GOD (STEAM_0:1:88373775): you can watch one peace start to end and itll be ahlf way
+Thu Jan  7 16:47:05 2021	James Johnson (STEAM_0:1:150661630): again
+Thu Jan  7 16:47:13 2021	James Johnson (STEAM_0:1:150661630): thats it im doing 1 mil on it
+Thu Jan  7 16:47:14 2021	PinkSamsungS4 (STEAM_0:0:173040662) has joined the game
+Thu Jan  7 16:47:14 2021	PinkSamsungS4 (STEAM_0:0:173040662) spawned
+Thu Jan  7 16:47:29 2021	James Johnson (STEAM_0:1:150661630): 1mil on it
+Thu Jan  7 16:47:35 2021	James Johnson (STEAM_0:1:150661630): if i lose ima cry
+Thu Jan  7 16:47:41 2021	James Johnson (STEAM_0:1:150661630): i lost last time
+Thu Jan  7 16:47:50 2021	Bob Dober (STEAM_0:0:484745754): rng
+Thu Jan  7 16:48:08 2021	James Johnson (STEAM_0:1:150661630): i lost over 2mil
+Thu Jan  7 16:48:37 2021	James Johnson (STEAM_0:1:150661630): 2mil
+Thu Jan  7 16:48:38 2021	James Johnson (STEAM_0:1:150661630): on it
+Thu Jan  7 16:48:41 2021	James Johnson (STEAM_0:1:150661630): pls win
+Thu Jan  7 16:48:41 2021	Saddam Hussien (STEAM_0:1:207731005): !Menu
+Thu Jan  7 16:48:59 2021	Saddam Hussien (STEAM_0:1:207731005): /dropmoney 10000
+Thu Jan  7 16:49:00 2021	Saddam Hussien (STEAM_0:1:207731005) has dropped $10,000
+Thu Jan  7 16:49:08 2021	Bob Dober (STEAM_0:0:484745754): i clicked the wrong thing
+Thu Jan  7 16:49:10 2021	James Johnson (STEAM_0:1:150661630): ty
+Thu Jan  7 16:49:18 2021	James Johnson (STEAM_0:1:150661630): 1mil on it
+Thu Jan  7 16:49:34 2021	Saddam Hussien (STEAM_0:1:207731005): u fucked it
+Thu Jan  7 16:49:42 2021	Saddam Hussien (STEAM_0:1:207731005): nvm
+Thu Jan  7 16:49:50 2021	Saddam Hussien (STEAM_0:1:207731005): Put a user on the table thing
+Thu Jan  7 16:49:53 2021	Saddam Hussien (STEAM_0:1:207731005): Bruhh
+Thu Jan  7 16:49:53 2021	James Johnson (STEAM_0:1:150661630): 1.5mil
+Thu Jan  7 16:49:54 2021	James Johnson (STEAM_0:1:150661630): pls
+Thu Jan  7 16:49:57 2021	James Johnson (STEAM_0:1:150661630): move
+Thu Jan  7 16:50:00 2021	GOD (STEAM_0:1:88373775): /pm ba i took it off
+Thu Jan  7 16:50:03 2021	James Johnson (STEAM_0:1:150661630): YESSS
+Thu Jan  7 16:50:06 2021	James Johnson (STEAM_0:1:150661630): 1.5MIL
+Thu Jan  7 16:50:12 2021	James Johnson (STEAM_0:1:150661630): i put it on
+Thu Jan  7 16:50:13 2021	Bob Dober (STEAM_0:0:484745754): i put 1 mil
+Thu Jan  7 16:50:15 2021	James Johnson (STEAM_0:1:150661630): got 3mil
+Thu Jan  7 16:50:20 2021	James Johnson (STEAM_0:1:150661630): 1mil on it
+Thu Jan  7 16:50:23 2021	James Johnson (STEAM_0:1:150661630): pls
+Thu Jan  7 16:50:32 2021	Bob Dober (STEAM_0:0:484745754): fuck off
+Thu Jan  7 16:50:41 2021	Saddam Hussien (STEAM_0:1:207731005): walter
+Thu Jan  7 16:50:45 2021	James Johnson (STEAM_0:1:150661630): 500k
+Thu Jan  7 16:51:02 2021	GOD (STEAM_0:1:88373775): Mother i require youir assistants in an urgent manner
+Thu Jan  7 16:51:04 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:51:05 2021	GOD (STEAM_0:1:88373775): I has consumed the mulk
+Thu Jan  7 16:51:06 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:51:11 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:51:16 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:51:20 2021	James Johnson (STEAM_0:1:150661630): 2mil
+Thu Jan  7 16:51:21 2021	James Johnson (STEAM_0:1:150661630): on it
+Thu Jan  7 16:51:25 2021	James Johnson (STEAM_0:1:150661630): 2mil on it
+Thu Jan  7 16:51:35 2021	James Johnson (STEAM_0:1:150661630): pay me
+Thu Jan  7 16:51:37 2021	James Johnson (STEAM_0:1:150661630): 2mil
+Thu Jan  7 16:51:42 2021	James Johnson (STEAM_0:1:150661630): yep ahaha
+Thu Jan  7 16:51:44 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:51:48 2021	GOD (STEAM_0:1:88373775): Mother i require youir assistants in an urgent manner
+Thu Jan  7 16:51:49 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:51:51 2021	GOD (STEAM_0:1:88373775): I has consumed the mulk
+Thu Jan  7 16:51:52 2021	James Johnson (STEAM_0:1:150661630): 2mmil on it
+Thu Jan  7 16:51:54 2021	James Johnson (STEAM_0:1:150661630): pls
+Thu Jan  7 16:51:56 2021	PinkSamsungS4 (STEAM_0:0:173040662) spawned
+Thu Jan  7 16:52:03 2021	James Johnson (STEAM_0:1:150661630): YESSSS
+Thu Jan  7 16:52:13 2021	James Johnson (STEAM_0:1:150661630): 2mil on it again
+Thu Jan  7 16:52:14 2021	GOD (STEAM_0:1:88373775): /pm ba i keep taken his barrel off
+Thu Jan  7 16:52:16 2021	James Johnson (STEAM_0:1:150661630): pls last one if i win
+Thu Jan  7 16:52:23 2021	Saddam Hussien (STEAM_0:1:207731005): /y he is fucking satan
+Thu Jan  7 16:52:33 2021	James Johnson (STEAM_0:1:150661630): YESSS
+Thu Jan  7 16:52:35 2021	Saddam Hussien (STEAM_0:1:207731005): Fuck this
+Thu Jan  7 16:52:39 2021	GOD (STEAM_0:1:88373775): good
+Thu Jan  7 16:53:07 2021	GOD (STEAM_0:1:88373775): /pm ba i almost got my first barrel
+Thu Jan  7 16:53:15 2021	PinkSamsungS4 (STEAM_0:0:173040662) disconnected
+Thu Jan  7 16:53:17 2021	Saddam Hussien (STEAM_0:1:207731005): NOO
+Thu Jan  7 16:53:19 2021	Saddam Hussien (STEAM_0:1:207731005): CASH OUT
+Thu Jan  7 16:53:22 2021	James Johnson (STEAM_0:1:150661630): AHAHAH
+Thu Jan  7 16:53:24 2021	Saddam Hussien (STEAM_0:1:207731005): UR FUCKED
+Thu Jan  7 16:53:33 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:53:37 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:53:38 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:53:38 2021	James Johnson (STEAM_0:1:150661630): how much u put
+Thu Jan  7 16:53:41 2021	Saddam Hussien (STEAM_0:1:207731005): cash out
+Thu Jan  7 16:53:41 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:53:47 2021	Baino (STEAM_0:0:67507364): /me gropes you aggressively
+Thu Jan  7 16:53:48 2021	GOD (STEAM_0:1:88373775): Mother i require youir assistants in an urgent manner
+Thu Jan  7 16:53:49 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 16:53:49 2021	Saddam Hussien (STEAM_0:1:207731005): 12 million
+Thu Jan  7 16:53:51 2021	GOD (STEAM_0:1:88373775): I has consumed the mulk
+Thu Jan  7 16:53:59 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 16:54:02 2021	Saddam Hussien (STEAM_0:1:207731005): ur going to get 11 mil
+Thu Jan  7 16:54:05 2021	James Johnson (STEAM_0:1:150661630): if i put 2mil will u pay me if i lose
+Thu Jan  7 16:54:17 2021	James Johnson (STEAM_0:1:150661630): whats the highest
+Thu Jan  7 16:54:37 2021	James Johnson (STEAM_0:1:150661630): PLSSSS
+Thu Jan  7 16:54:49 2021	Saddam Hussien (STEAM_0:1:207731005): /advert EVERYONE SAY CONGRATS TO BOB DOBER FOR WINNING 11MILLION DOLLARS.
+Thu Jan  7 16:54:53 2021	Saddam Hussien (STEAM_0:1:207731005): /drop
+Thu Jan  7 16:55:08 2021	Sir Asian (STEAM_0:0:210515244): /advert CONGRATS TO BOB DOBER :v
+Thu Jan  7 16:55:09 2021	James Johnson (STEAM_0:1:150661630): 2mil
+Thu Jan  7 16:55:09 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 16:55:10 2021	James Johnson (STEAM_0:1:150661630): only more
+Thu Jan  7 16:55:17 2021	James Johnson (STEAM_0:1:150661630): last one
+Thu Jan  7 16:55:27 2021	James Johnson (STEAM_0:1:150661630): last ine 
+Thu Jan  7 16:55:27 2021	Saddam Hussien (STEAM_0:1:207731005): Bob gtfo
+Thu Jan  7 16:55:34 2021	Saddam Hussien (STEAM_0:1:207731005): u took our money
+Thu Jan  7 16:55:38 2021	Saddam Hussien (STEAM_0:1:207731005): im jk
+Thu Jan  7 16:55:44 2021	GOD (STEAM_0:1:88373775): i dont got it
+Thu Jan  7 16:55:51 2021	GOD (STEAM_0:1:88373775): wat you cant pocket em
+Thu Jan  7 16:55:55 2021	Saddam Hussien (STEAM_0:1:207731005): 15 mil
+Thu Jan  7 16:55:58 2021	Saddam Hussien (STEAM_0:1:207731005): no let him
+Thu Jan  7 16:56:00 2021	James Johnson (STEAM_0:1:150661630): u will win
+Thu Jan  7 16:56:03 2021	James Johnson (STEAM_0:1:150661630): bob trust
+Thu Jan  7 16:56:07 2021	Saddam Hussien (STEAM_0:1:207731005): put 15 mil
+Thu Jan  7 16:56:08 2021	James Johnson (STEAM_0:1:150661630): u put that i put 2mil
+Thu Jan  7 16:56:14 2021	Saddam Hussien (STEAM_0:1:207731005): if u win i will kill u
+Thu Jan  7 16:56:21 2021	Sir Asian was killed by Baino with a weapon_fists
+Thu Jan  7 16:56:28 2021	James Johnson (STEAM_0:1:150661630): yh
+Thu Jan  7 16:56:33 2021	James Johnson (STEAM_0:1:150661630): AHAH
+Thu Jan  7 16:56:37 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 16:56:45 2021	Saddam Hussien (STEAM_0:1:207731005): 1 to 18
+Thu Jan  7 16:56:50 2021	James Johnson (STEAM_0:1:150661630): AHAHAH
+Thu Jan  7 16:56:57 2021	GOD (STEAM_0:1:88373775): i dont got yo barrel
+Thu Jan  7 16:57:03 2021	Saddam Hussien (STEAM_0:1:207731005): HAHAHA
+Thu Jan  7 16:57:04 2021	James Johnson (STEAM_0:1:150661630): AHAHAHAHAHHA
+Thu Jan  7 16:57:13 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 16:57:18 2021	James Johnson (STEAM_0:1:150661630): i lost 2mil as well agaga
+Thu Jan  7 16:57:29 2021	James Johnson (STEAM_0:1:150661630): pay up
+Thu Jan  7 16:57:31 2021	James Johnson (STEAM_0:1:150661630): AAHAHAHAH
+Thu Jan  7 16:57:34 2021	Saddam Hussien (STEAM_0:1:207731005): dw he did it too me as well
+Thu Jan  7 16:57:52 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 16:57:52 2021	Saddam Hussien (STEAM_0:1:207731005): walter is this one rigged?
+Thu Jan  7 16:57:54 2021	James Johnson (STEAM_0:1:150661630): rig it more
+Thu Jan  7 16:57:59 2021	James Johnson (STEAM_0:1:150661630): rig it more
+Thu Jan  7 16:58:08 2021	Saddam Hussien (STEAM_0:1:207731005): CASH OUT BRUDDA
+Thu Jan  7 16:58:15 2021	James Johnson (STEAM_0:1:150661630): 500k
+Thu Jan  7 16:58:36 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 16:58:42 2021	James Johnson (STEAM_0:1:150661630): y
+Thu Jan  7 16:58:47 2021	James Johnson (STEAM_0:1:150661630): u making me lose
+Thu Jan  7 16:58:47 2021	Saddam Hussien (STEAM_0:1:207731005): i did a mil
+Thu Jan  7 16:59:04 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 16:59:08 2021	James Johnson (STEAM_0:1:150661630): pay me ahahah
+Thu Jan  7 16:59:27 2021	James Johnson (STEAM_0:1:150661630): 4mil
+Thu Jan  7 16:59:37 2021	James Johnson (STEAM_0:1:150661630): 4mil
+Thu Jan  7 16:59:39 2021	James Johnson (STEAM_0:1:150661630): 4mil 
+Thu Jan  7 16:59:40 2021	James Johnson (STEAM_0:1:150661630): PLS
+Thu Jan  7 16:59:44 2021	James Johnson (STEAM_0:1:150661630): move cunt
+Thu Jan  7 16:59:45 2021	James Johnson (STEAM_0:1:150661630): 
+Thu Jan  7 16:59:47 2021	James Johnson (STEAM_0:1:150661630): 4mil
+Thu Jan  7 16:59:52 2021	James Johnson (STEAM_0:1:150661630): MOVE
+Thu Jan  7 17:00:09 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 17:00:14 2021	James Johnson (STEAM_0:1:150661630): u have lost me over 8mil
+Thu Jan  7 17:00:19 2021	James Johnson (STEAM_0:1:150661630): pay me
+Thu Jan  7 17:01:06 2021	James Johnson (STEAM_0:1:150661630): 1mil
+Thu Jan  7 17:01:07 2021	James Johnson (STEAM_0:1:150661630): 
+Thu Jan  7 17:01:08 2021	James Johnson (STEAM_0:1:150661630): pls
+Thu Jan  7 17:01:09 2021	James Johnson (STEAM_0:1:150661630): PLS
+Thu Jan  7 17:01:11 2021	James Johnson (STEAM_0:1:150661630): MOVE CUNT
+Thu Jan  7 17:01:18 2021	James Johnson (STEAM_0:1:150661630): GET TF OFF
+Thu Jan  7 17:01:38 2021	James Johnson (STEAM_0:1:150661630): ahahaha
+Thu Jan  7 17:01:41 2021	James Johnson (STEAM_0:1:150661630): u put 4mil
+Thu Jan  7 17:01:42 2021	James Johnson (STEAM_0:1:150661630): i put 2mil
+Thu Jan  7 17:01:49 2021	James Johnson (STEAM_0:1:150661630): 2mil
+Thu Jan  7 17:02:05 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 17:02:08 2021	James Johnson (STEAM_0:1:150661630): u fcken cunt
+Thu Jan  7 17:02:09 2021	James Johnson (STEAM_0:1:150661630): kill him
+Thu Jan  7 17:02:19 2021	James Johnson (STEAM_0:1:150661630): scammer
+Thu Jan  7 17:02:26 2021	James Johnson (STEAM_0:1:150661630): peer pressure
+Thu Jan  7 17:02:28 2021	Saddam Hussien (STEAM_0:1:207731005): He made me get 3 mil
+Thu Jan  7 17:02:30 2021	Saddam Hussien (STEAM_0:1:207731005): listen to him
+Thu Jan  7 17:02:36 2021	James Johnson (STEAM_0:1:150661630): saddam
+Thu Jan  7 17:02:38 2021	Saddam Hussien (STEAM_0:1:207731005): ?
+Thu Jan  7 17:02:43 2021	James Johnson (STEAM_0:1:150661630): pls can i have money
+Thu Jan  7 17:02:52 2021	Saddam Hussien (STEAM_0:1:207731005): u took 200k from me last time
+Thu Jan  7 17:03:04 2021	TheUnknownDoctor (STEAM_0:1:203299825) has joined the game
+Thu Jan  7 17:03:04 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:03:07 2021	James Johnson (STEAM_0:1:150661630): yh but too many people do it
+Thu Jan  7 17:03:34 2021	James Johnson (STEAM_0:1:150661630): HAHAAHH
+Thu Jan  7 17:03:36 2021	James Johnson (STEAM_0:1:150661630): im done
+Thu Jan  7 17:03:40 2021	James Johnson (STEAM_0:1:150661630): 1mil
+Thu Jan  7 17:03:41 2021	Saddam Hussien (STEAM_0:1:207731005): /y Check the oil prices
+Thu Jan  7 17:04:06 2021	Aiden Chronkzer (STEAM_0:1:203299825): // You know this server is the best out there when even god himself is playing it --
+Thu Jan  7 17:04:27 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:04:32 2021	Saddam Hussien (STEAM_0:1:207731005): make the oil pricers more
+Thu Jan  7 17:04:33 2021	GOD (STEAM_0:1:88373775): // shut it
+Thu Jan  7 17:04:59 2021	Saddam Hussien (STEAM_0:1:207731005): /y Upgrade it to max
+Thu Jan  7 17:05:02 2021	GOD (STEAM_0:1:88373775): Mother i require youir assistants in an urgent manner
+Thu Jan  7 17:05:03 2021	Saddam Hussien (STEAM_0:1:207731005): It was so fast
+Thu Jan  7 17:05:03 2021	GOD (STEAM_0:1:88373775): /me shits aggressively
+Thu Jan  7 17:05:05 2021	GOD (STEAM_0:1:88373775): I has consumed the mulk
+Thu Jan  7 17:05:12 2021	Saddam Hussien (STEAM_0:1:207731005): /y Wtf did they nerf it?
+Thu Jan  7 17:05:37 2021	Saddam Hussien (STEAM_0:1:207731005): /y U cant take each others barrel dumbcunt
+Thu Jan  7 17:05:55 2021	bong was killed by Entity [0][worldspawn] with a unknown
+Thu Jan  7 17:06:12 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 17:06:25 2021	James Johnson (STEAM_0:1:150661630): its in ur inventory
+Thu Jan  7 17:06:34 2021	James Johnson (STEAM_0:1:150661630): oi which one is better
+Thu Jan  7 17:06:39 2021	James Johnson (STEAM_0:1:150661630): money printer or bitcoin
+Thu Jan  7 17:06:49 2021	Saddam Hussien (STEAM_0:1:207731005): /drop
+Thu Jan  7 17:06:50 2021	bong (STEAM_0:0:503306554): FOOTBALLLL
+Thu Jan  7 17:07:00 2021	James Johnson (STEAM_0:1:150661630): walter
+Thu Jan  7 17:07:09 2021	James Johnson (STEAM_0:1:150661630): i cant offord bitcoin bc of u
+Thu Jan  7 17:07:14 2021	Saddam Hussien (STEAM_0:1:207731005): pistol yes
+Thu Jan  7 17:07:16 2021	Saddam Hussien (STEAM_0:1:207731005): but uzi no
+Thu Jan  7 17:07:17 2021	bong (STEAM_0:0:503306554): It's my arm man! My fuckin' arm!
+Thu Jan  7 17:07:20 2021	Saddam Hussien (STEAM_0:1:207731005): Uzi op
+Thu Jan  7 17:07:23 2021	Saddam Hussien (STEAM_0:1:207731005): no
+Thu Jan  7 17:07:53 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 17:08:10 2021	James Johnson (STEAM_0:1:150661630) spawned
+Thu Jan  7 17:08:18 2021	Saddam Hussien (STEAM_0:1:207731005): /y He is fucking asain thats why he is doing it
+Thu Jan  7 17:08:19 2021	James Johnson (STEAM_0:1:150661630): bob
+Thu Jan  7 17:08:24 2021	James Johnson (STEAM_0:1:150661630): dont raid me pls
+Thu Jan  7 17:08:25 2021	Bob Dober (STEAM_0:0:484745754): kk
+Thu Jan  7 17:08:28 2021	James Johnson (STEAM_0:1:150661630): we lost money together ahah
+Thu Jan  7 17:08:30 2021	Bob Dober (STEAM_0:0:484745754): yea tru thyat
+Thu Jan  7 17:08:32 2021	Bob Dober (STEAM_0:0:484745754): *that
+Thu Jan  7 17:08:39 2021	James Johnson (STEAM_0:1:150661630) spawned Vehicle prop_vehicle_jeep (fer_458spidtdm)
+Thu Jan  7 17:08:48 2021	Saddam Hussien (STEAM_0:1:207731005): can someone set a hit on him?
+Thu Jan  7 17:09:10 2021	Saddam Hussien (STEAM_0:1:207731005): vote yes
+Thu Jan  7 17:09:14 2021	Saddam Hussien (STEAM_0:1:207731005): i wuill kill him
+Thu Jan  7 17:09:26 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:09:45 2021	Hitman Saddam Hussien accepted a hit on Sir Asian, ordered by Baino for $100,000
+Thu Jan  7 17:09:50 2021	Hitman Saddam Hussien finished a hit on Sir Asian, ordered by Baino for $100,000
+Thu Jan  7 17:09:50 2021	Sir Asian was killed by Saddam Hussien with a m9k_uzi
+Thu Jan  7 17:09:57 2021	Bob Dober (STEAM_0:0:484745754): 
+Thu Jan  7 17:10:00 2021	Saddam Hussien (STEAM_0:1:207731005): /advert Hit complete
+Thu Jan  7 17:10:06 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 17:10:30 2021	bong (STEAM_0:0:503306554) disconnected
+Thu Jan  7 17:10:42 2021	Saddam Hussien (STEAM_0:1:207731005): NLR
+Thu Jan  7 17:10:47 2021	Saddam Hussien (STEAM_0:1:207731005): Its NLR
+Thu Jan  7 17:10:55 2021	Saddam Hussien (STEAM_0:1:207731005): NLR man
+Thu Jan  7 17:11:01 2021	Sir Asian was killed by Himself with a suicide trick
+Thu Jan  7 17:11:06 2021	Saddam Hussien (STEAM_0:1:207731005): gotta wait 5 minutes
+Thu Jan  7 17:11:17 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 17:11:25 2021	Saddam Hussien (STEAM_0:1:207731005): // Also thats prop block
+Thu Jan  7 17:11:34 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc What is?
+Thu Jan  7 17:11:45 2021	Saddam Hussien (STEAM_0:1:207731005): // Him covering the Oil shit
+Thu Jan  7 17:11:49 2021	Saddam Hussien (STEAM_0:1:207731005): /drop
+Thu Jan  7 17:12:08 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:13:15 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 17:13:45 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 17:14:55 2021	Walter White (STEAM_0:0:186632053): !MENU
+Thu Jan  7 17:15:26 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 17:15:52 2021	Walter White (STEAM_0:0:186632053): !MENU
+Thu Jan  7 17:16:24 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 17:17:01 2021	Saddam Hussien (STEAM_0:1:207731005): What are u doing walter
+Thu Jan  7 17:17:07 2021	Saddam Hussien (STEAM_0:1:207731005): he is making the whole server gamble
+Thu Jan  7 17:18:03 2021	Saddam Hussien was killed by Walter White with a weapon_fists
+Thu Jan  7 17:18:19 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:18:39 2021	Bob Dober (STEAM_0:0:484745754): /pm walter im in your warehouse cause you next to the meth noc, making meth.
+Thu Jan  7 17:18:55 2021	Bob Dober (STEAM_0:0:484745754): /pm walter npc
+Thu Jan  7 17:19:46 2021	Saddam Hussien (STEAM_0:1:207731005): !menu
+Thu Jan  7 17:19:57 2021	Saddam Hussien (STEAM_0:1:207731005): Jackpot
+Thu Jan  7 17:20:01 2021	Saddam Hussien (STEAM_0:1:207731005): Good enough
+Thu Jan  7 17:21:37 2021	Saddam Hussien (STEAM_0:1:207731005): Thats bs
+Thu Jan  7 17:22:00 2021	Saddam Hussien (STEAM_0:1:207731005): Oi walter gimme money
+Thu Jan  7 17:22:06 2021	Saddam Hussien (STEAM_0:1:207731005): No
+Thu Jan  7 17:22:12 2021	Walter White (STEAM_0:0:186632053): !MENU
+Thu Jan  7 17:22:15 2021	Baino (STEAM_0:0:67507364): !menu
+Thu Jan  7 17:22:16 2021	Saddam Hussien (STEAM_0:1:207731005): /advert Dont expose me
+Thu Jan  7 17:23:03 2021	Saddam Hussien (STEAM_0:1:207731005): It's my arm man! My fuckin' arm!
+Thu Jan  7 17:23:10 2021	Saddam Hussien (STEAM_0:1:207731005): // FUCK I TOOK HEROIN
+Thu Jan  7 17:23:17 2021	Night Owl (STEAM_0:0:36563166): // hahahaha
+Thu Jan  7 17:23:27 2021	GOD (STEAM_0:1:88373775): // give me some
+Thu Jan  7 17:23:39 2021	Saddam Hussien (STEAM_0:1:207731005): // i found it on the floor
+Thu Jan  7 17:23:39 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:23:45 2021	Saddam Hussien (STEAM_0:1:207731005): // i found it on the floor
+Thu Jan  7 17:24:02 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 17:25:26 2021	Sir Asian (STEAM_0:0:210515244) spawned
+Thu Jan  7 17:25:32 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:26:04 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:27:36 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:28:47 2021	Baino (STEAM_0:0:67507364) spawned
+Thu Jan  7 17:29:04 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 17:29:43 2021	Kev from the pub (STEAM_0:1:48909589) has joined the game
+Thu Jan  7 17:29:43 2021	Kev from the pub (STEAM_0:1:48909589) spawned
+Thu Jan  7 17:30:04 2021	GOD (STEAM_0:1:88373775): /drop
+Thu Jan  7 17:30:13 2021	Baino (STEAM_0:0:67507364): /advert raid
+Thu Jan  7 17:30:21 2021	Aiden Chronkzer was killed by Baino with a m9k_uzi
+Thu Jan  7 17:30:37 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:30:46 2021	Sir Asian (STEAM_0:0:210515244) disconnected
+Thu Jan  7 17:31:51 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc is the raid over?
+Thu Jan  7 17:31:55 2021	Baino (STEAM_0:0:67507364): // nah
+Thu Jan  7 17:32:01 2021	Saddam Hussien (STEAM_0:1:207731005): wheres ur base?
+Thu Jan  7 17:32:05 2021	Saddam Hussien (STEAM_0:1:207731005): i will counter it
+Thu Jan  7 17:32:08 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc well, the only thing you really can do is destory my bitminers.
+Thu Jan  7 17:32:14 2021	Aiden Chronkzer (STEAM_0:1:203299825): follow me.
+Thu Jan  7 17:32:17 2021	Baino (STEAM_0:0:67507364): // i know
+Thu Jan  7 17:32:27 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc and that is what you are doing.
+Thu Jan  7 17:32:28 2021	Baino (STEAM_0:0:67507364): !menu
+Thu Jan  7 17:32:31 2021	GOD (STEAM_0:1:88373775): !menu
+Thu Jan  7 17:32:38 2021	Bob Dober (STEAM_0:0:484745754): // james
+Thu Jan  7 17:32:44 2021	James Johnson (STEAM_0:1:150661630): /a yh
+Thu Jan  7 17:32:47 2021	Saddam Hussien (STEAM_0:1:207731005): /advert counter
+Thu Jan  7 17:32:50 2021	Bob Dober (STEAM_0:0:484745754): // how much money you make
+Thu Jan  7 17:32:54 2021	Bob Dober (STEAM_0:0:484745754): // *made so far
+Thu Jan  7 17:32:59 2021	James Johnson (STEAM_0:1:150661630): /a not that much
+Thu Jan  7 17:32:59 2021	Kev from the pub (STEAM_0:1:48909589) spawned
+Thu Jan  7 17:33:02 2021	Bob Dober (STEAM_0:0:484745754): // lol
+Thu Jan  7 17:33:02 2021	James Johnson (STEAM_0:1:150661630): // OMFG
+Thu Jan  7 17:33:09 2021	James Johnson (STEAM_0:1:150661630): /a RESTART R U SERIOUS CUNT
+Thu Jan  7 17:33:09 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc just realised you used the solar pathway.
+Thu Jan  7 17:33:12 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc oof
+Thu Jan  7 17:33:14 2021	Bob Dober (STEAM_0:0:484745754): // LOL
+Thu Jan  7 17:33:18 2021	Bob Dober (STEAM_0:0:484745754): // WASTED ON BITMINERS
+Thu Jan  7 17:33:19 2021	James Johnson (STEAM_0:1:150661630): /a i spent over 1mil i swear to
+Thu Jan  7 17:33:21 2021	James Johnson (STEAM_0:1:150661630): /a omg
+Thu Jan  7 17:33:25 2021	Baino (STEAM_0:0:67507364): /advert over
+Thu Jan  7 17:33:50 2021	Night Owl (STEAM_0:0:36563166): 
+Thu Jan  7 17:33:53 2021	Bob Dober (STEAM_0:0:484745754): // Fix oil refiner
+Thu Jan  7 17:33:59 2021	Aiden Chronkzer was killed by Saddam Hussien with a m9k_m16a4_acog
+Thu Jan  7 17:34:03 2021	Night Owl (STEAM_0:0:36563166): // it already nerfed
+Thu Jan  7 17:34:09 2021	GOD (STEAM_0:1:88373775) spawned
+Thu Jan  7 17:34:09 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc wait just a second.
+Thu Jan  7 17:34:15 2021	Saddam Hussien (STEAM_0:1:207731005): // Im countering it
+Thu Jan  7 17:34:15 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:34:19 2021	Lahzr_K1NG (STEAM_0:1:157785215) has joined the game
+Thu Jan  7 17:34:19 2021	Scott Froml (STEAM_0:1:157785215) spawned
+Thu Jan  7 17:34:21 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc it's over though.
+Thu Jan  7 17:34:23 2021	Saddam Hussien (STEAM_0:1:207731005): // and u walk in i have to kill u
+Thu Jan  7 17:34:26 2021	Saddam Hussien (STEAM_0:1:207731005): /advert ovqa
+Thu Jan  7 17:34:32 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc the raid was literally over.
+Thu Jan  7 17:34:38 2021	Saddam Hussien (STEAM_0:1:207731005): // mY raid wasnt
+Thu Jan  7 17:34:38 2021	Baino (STEAM_0:0:67507364): /drop
+Thu Jan  7 17:34:42 2021	Saddam Hussien (STEAM_0:1:207731005): /advert Nice Base can i inspect eheheheh ||RAID||
+Thu Jan  7 17:34:58 2021	Saddam Hussien was killed by Night Owl with a m9k_glock
+Thu Jan  7 17:35:12 2021	Awful_cat (STEAM_0:0:503306554) has joined the game
+Thu Jan  7 17:35:12 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 17:35:12 2021	Scott Froml (STEAM_0:1:157785215) spawned
+Thu Jan  7 17:35:14 2021	bong was killed by Himself with a suicide trick
+Thu Jan  7 17:35:14 2021	Saddam Hussien (STEAM_0:1:207731005) spawned
+Thu Jan  7 17:35:27 2021	Saddam Hussien (STEAM_0:1:207731005): /advert ova
+Thu Jan  7 17:35:28 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc fuck I wanna change jobs but I think my stuff disappears if I do.
+Thu Jan  7 17:35:37 2021	Baino (STEAM_0:0:67507364): // its all gone anyway
+Thu Jan  7 17:35:41 2021	Baino (STEAM_0:0:67507364): // i shot it all
+Thu Jan  7 17:35:42 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc oh okay.
+Thu Jan  7 17:35:44 2021	bong (STEAM_0:0:503306554) spawned
+Thu Jan  7 17:35:46 2021	Bob Dober (STEAM_0:0:484745754): /advert raid
+Thu Jan  7 17:35:52 2021	Saddam Hussien (STEAM_0:1:207731005): // the Gas tank is still there
+Thu Jan  7 17:36:03 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc it's fine saddam.
+Thu Jan  7 17:36:04 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:36:07 2021	Aiden Chronkzer (STEAM_0:1:203299825): /ooc I won't need it.
+Thu Jan  7 17:36:09 2021	Bob Dober was killed by Night Owl with a m9k_glock
+Thu Jan  7 17:36:22 2021	Aiden Chronkzer (STEAM_0:1:203299825): /sellalldoors
+Thu Jan  7 17:36:25 2021	Bob Dober (STEAM_0:0:484745754) spawned
+Thu Jan  7 17:36:41 2021	Saddam Hussien (STEAM_0:1:207731005): /advert SELLING M4A1 ACOG
+Thu Jan  7 17:36:45 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:37:00 2021	Night Owl (STEAM_0:0:36563166): 
+Thu Jan  7 17:37:27 2021	Saddam Hussien (STEAM_0:1:207731005): /advert SELLING M4A1 ACOG SAME ORGINAL PRICE || DO /pm Saddam ( Your location).
+Thu Jan  7 17:38:04 2021	Bob Dober (STEAM_0:0:484745754): 
+Thu Jan  7 17:38:05 2021	Saddam Hussien (STEAM_0:1:207731005): u are very laggy
+Thu Jan  7 17:38:06 2021	Saddam Hussien (STEAM_0:1:207731005): can
+Thu Jan  7 17:38:10 2021	Aiden Chronkzer (STEAM_0:1:203299825) spawned
+Thu Jan  7 17:38:11 2021	bong (STEAM_0:0:503306554): yes i am
+Thu Jan  7 17:38:11 2021	Saddam Hussien (STEAM_0:1:207731005): i have gun?
+Thu Jan  7 17:38:16 2021	bong (STEAM_0:0:503306554): sure
+Thu Jan  7 17:39:09 2021	Kev from the pub (STEAM_0:1:48909589): /ooc how to cook meth
+Thu Jan  7 17:39:17 2021	Baino (STEAM_0:0:67507364): // just do it
+Thu Jan  7 17:39:25 2021	Saddam Hussien (STEAM_0:1:207731005): // its shit dont
+Thu Jan  7 17:39:42 2021	Baino (STEAM_0:0:67507364): !menu
+Thu Jan  7 17:39:43 2021	Kev from the pub (STEAM_0:1:48909589): /ooc fuck already bought the stuff
+Thu Jan  7 17:39:43 2021	bong (STEAM_0:0:503306554): /advert be a meth dealer then press f4 and go to miscellaneous and buy everything then follow the steps on the combiner screen
+Thu Jan  7 17:39:53 2021	Baino (STEAM_0:0:67507364): !wheelofluck
+Thu Jan  7 17:39:56 2021	Bob Dober (STEAM_0:0:484745754) disconnected
+Thu Jan  7 17:39:58 2021	Kev from the pub (STEAM_0:1:48909589): /ooc ok ty
+Thu Jan  7 17:40:08 2021	Baino (STEAM_0:0:67507364): !menu
+Thu Jan  7 17:40:27 2021	Baino (STEAM_0:0:67507364): !menu
+Thu Jan  7 17:40:33 2021	Kev from the pub (STEAM_0:1:48909589): /ooc how you put stuff in the combiner 
+Thu Jan  7 17:40:45 2021	Saddam Hussien (STEAM_0:1:207731005): // where are u let me come
+Thu Jan  7 17:40:49 2021	Night Owl (STEAM_0:0:36563166): // just use the gravity gun and throw it onto it
+Thu Jan  7 17:40:52 2021	bong (STEAM_0:0:503306554): /advert use your gravity gun to pull it ontop of the hole
+Thu Jan  7 17:41:11 2021	Saddam Hussien (STEAM_0:1:207731005): /drop
+Thu Jan  7 17:41:14 2021	GOD (STEAM_0:1:88373775): // no

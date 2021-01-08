@@ -1,0 +1,1197 @@
+L 01/07/2021 - 11:15:24: Log file started (file "logs\L0107006.log") (game "C:\Users\admin\Desktop\FTP\Garry's Mod\steamapps\common\GarrysModDS\garrysmod") (version "7891")
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_noclip" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxprops" "80"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxragdolls" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxnpcs" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxballoons" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxeffects" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxdynamite" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxlamps" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxthrusters" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxwheels" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxhoverballs" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxvehicles" "1"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxbuttons" "6"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxemitters" "0"
+L 01/07/2021 - 11:15:24: server_cvar: "sbox_maxtextscreens" "3"
+L 01/07/2021 - 11:15:24: server_cvar: "sv_airaccelerate" "1000"
+L 01/07/2021 - 11:15:27: Connection to Steam servers successful.
+L 01/07/2021 - 11:15:27:    Public IP is 139.99.208.69.
+L 01/07/2021 - 11:15:27: Assigned persistent gameserver Steam ID [G-1:3955559].
+L 01/07/2021 - 11:15:27: VAC secure mode is activated.
+L 01/07/2021 - 11:15:27: "tom<2><STEAM_0:0:51220229><>" connected, address "81.144.212.194:27005"
+L 01/07/2021 - 11:15:27: "tom<2><STEAM_0:0:51220229><>" disconnected (reason "Connection closing")
+L 01/07/2021 - 11:15:27: "tom<3><STEAM_0:0:51220229><>" connected, address "81.144.212.194:27005"
+L 01/07/2021 - 11:15:27: "tom<3><STEAM_0:0:51220229><>" disconnected (reason "Connection closing")
+L 01/07/2021 - 11:15:27: "tom<4><STEAM_0:0:51220229><>" connected, address "81.144.212.194:27005"
+L 01/07/2021 - 11:15:27: "tom<4><STEAM_0:0:51220229><>" disconnected (reason "Connection closing")
+L 01/07/2021 - 11:15:27: "tom<5><STEAM_0:0:51220229><>" connected, address "81.144.212.194:27005"
+L 01/07/2021 - 11:15:27: "tom<5><STEAM_0:0:51220229><>" disconnected (reason "Connection closing")
+L 01/07/2021 - 11:15:27: "tom<6><STEAM_0:0:51220229><>" connected, address "81.144.212.194:27005"
+L 01/07/2021 - 11:15:27: "tom<6><STEAM_0:0:51220229><>" STEAM USERID validated
+L 01/07/2021 - 11:15:28: AWarn: Message Table Exists
+L 01/07/2021 - 11:15:28: AWarn: Player Data Table Exists
+L 01/07/2021 - 11:15:28: AWarn: Offline Player Data Table Exists
+L 01/07/2021 - 11:15:34: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 11:16:19: "tom<6><STEAM_0:0:51220229><>" entered the game
+L 01/07/2021 - 11:17:58: "tom<6><STEAM_0:0:51220229><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 11:18:55: "Lil Kitty [Ree]<7><STEAM_0:0:165775247><>" connected, address "60.242.233.34:27005"
+L 01/07/2021 - 11:18:55: "Lil Kitty [Ree]<7><STEAM_0:0:165775247><>" STEAM USERID validated
+L 01/07/2021 - 11:19:09: "Semen Demon<8><STEAM_0:0:221089566><>" connected, address "1.159.84.189:27005"
+L 01/07/2021 - 11:19:10: "Semen Demon<8><STEAM_0:0:221089566><>" STEAM USERID validated
+L 01/07/2021 - 11:19:47: "Lil Kitty [Ree]<7><STEAM_0:0:165775247><>" entered the game
+L 01/07/2021 - 11:20:10: "Semen Demon<8><STEAM_0:0:221089566><>" entered the game
+L 01/07/2021 - 11:21:30: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "Wait"
+
+L 01/07/2021 - 11:21:32: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "i have an idea"
+
+L 01/07/2021 - 11:21:45: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// lol"
+
+L 01/07/2021 - 11:22:44: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// this is so good lmao"
+
+L 01/07/2021 - 11:22:48: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "perfect plamn"
+
+L 01/07/2021 - 11:22:54: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "waiot"
+
+L 01/07/2021 - 11:22:56: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "better idea"
+
+L 01/07/2021 - 11:22:57: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "i cant find that prop anywhere,  i love it tho"
+
+L 01/07/2021 - 11:23:08: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "Plastic"
+
+L 01/07/2021 - 11:23:09: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "Misc"
+
+L 01/07/2021 - 11:24:11: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "ooh"
+
+L 01/07/2021 - 11:24:13: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "yesss"
+
+L 01/07/2021 - 11:24:21: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "this is gonna be terrible"
+
+L 01/07/2021 - 11:25:24: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// get in herer"
+
+L 01/07/2021 - 11:25:38: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "forgot to welp"
+
+L 01/07/2021 - 11:25:39: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "cf"
+
+L 01/07/2021 - 11:25:40: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "weld"
+
+L 01/07/2021 - 11:25:41: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "xd"
+
+L 01/07/2021 - 11:26:03: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "HAMSTER"
+
+L 01/07/2021 - 11:26:06: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// haha yesss"
+
+L 01/07/2021 - 11:26:09: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// it works!!!"
+
+L 01/07/2021 - 11:26:20: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// VIBING DOWN THE STREET BE LIKE"
+
+L 01/07/2021 - 11:26:33: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "eyrhrtdefsyrte"
+
+L 01/07/2021 - 11:26:34: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "tw"
+
+L 01/07/2021 - 11:26:38: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "I WANT OIUT"
+
+L 01/07/2021 - 11:26:40: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "oh no"
+
+L 01/07/2021 - 11:26:44: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "ur mine hahah"
+
+L 01/07/2021 - 11:26:46: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "SHIT"
+
+L 01/07/2021 - 11:26:55: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// lmao thats amazing"
+
+L 01/07/2021 - 11:27:03: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// u can just keep a bunch of slaves"
+
+L 01/07/2021 - 11:27:14: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// The only good thing about this"
+
+L 01/07/2021 - 11:27:19: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// ikr haha"
+
+L 01/07/2021 - 11:37:52: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "i have mada"
+
+L 01/07/2021 - 11:37:58: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "lmao"
+
+L 01/07/2021 - 11:38:00: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "the ultimate prop kill weapon"
+
+L 01/07/2021 - 11:38:22: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// FIGHT ME I DARE YOU"
+
+L 01/07/2021 - 11:38:28: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// hahah"
+
+L 01/07/2021 - 11:38:33: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// thats pure terror"
+
+L 01/07/2021 - 11:39:03: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// imma head off and sleep tho, that was fun lmao, idk how the server will react to all this, hopfully prop kills are fixed"
+
+L 01/07/2021 - 11:39:08: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// gn lo"
+
+L 01/07/2021 - 11:39:10: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// GN"
+
+L 01/07/2021 - 11:39:14: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// more like gm"
+
+L 01/07/2021 - 11:39:20: "Semen Demon<8><STEAM_0:0:221089566><Citizen>" say "// hahaha ikr"
+
+L 01/07/2021 - 11:39:23: "Semen Demon<8><STEAM_0:0:221089566><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 11:45:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 12:03:52: "Kscarr<9><STEAM_0:0:186632053><>" connected, address "58.162.212.111:27005"
+L 01/07/2021 - 12:03:53: "Kscarr<9><STEAM_0:0:186632053><>" STEAM USERID validated
+L 01/07/2021 - 12:05:10: "Kscarr<9><STEAM_0:0:186632053><>" entered the game
+L 01/07/2021 - 12:14:19: "Kscarr<9><STEAM_0:0:186632053><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 12:14:20: "Kscarr<10><STEAM_0:0:186632053><>" connected, address "58.162.212.111:27005"
+L 01/07/2021 - 12:14:20: "Kscarr<10><STEAM_0:0:186632053><>" STEAM USERID validated
+L 01/07/2021 - 12:14:55: "Kscarr<10><STEAM_0:0:186632053><>" entered the game
+L 01/07/2021 - 12:15:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 12:18:00: "Walter White<10><STEAM_0:0:186632053><Oil Refiner>" say "// yo u there"
+
+L 01/07/2021 - 12:45:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 13:14:38: "gaye.marvin.1<11><STEAM_0:1:552376321><>" connected, address "78.232.225.32:27005"
+L 01/07/2021 - 13:15:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 13:16:08: STEAMAUTH: Client gaye.marvin.1 received failure code 1
+L 01/07/2021 - 13:16:08: "gaye.marvin.1<11><STEAM_0:1:552376321><>" disconnected (reason "Client not connected to Steam
+")
+L 01/07/2021 - 13:26:33: "Night<12><STEAM_0:0:36563166><>" connected, address "58.164.49.125:27005"
+L 01/07/2021 - 13:26:33: "Night<12><STEAM_0:0:36563166><>" STEAM USERID validated
+L 01/07/2021 - 13:28:01: "Night<12><STEAM_0:0:36563166><>" entered the game
+L 01/07/2021 - 13:30:04: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "sup"
+
+L 01/07/2021 - 13:30:14: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "nothing much"
+
+L 01/07/2021 - 13:30:16: "Walter White<10><STEAM_0:0:186632053><Gambling Addict>" say "!menu"
+
+L 01/07/2021 - 13:31:54: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "just get a user"
+
+L 01/07/2021 - 13:34:10: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "so 1-18"
+
+L 01/07/2021 - 13:35:17: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "idk"
+
+L 01/07/2021 - 13:37:30: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "!menu"
+
+L 01/07/2021 - 13:37:36: "Walter White<10><STEAM_0:0:186632053><Gambling Addict>" say "!menu"
+
+L 01/07/2021 - 13:45:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 13:47:42: "gaye.marvin.1<13><STEAM_0:1:552376321><>" connected, address "78.232.225.32:27005"
+L 01/07/2021 - 13:49:13: STEAMAUTH: Client gaye.marvin.1 received failure code 1
+L 01/07/2021 - 13:49:13: "gaye.marvin.1<13><STEAM_0:1:552376321><>" disconnected (reason "Client not connected to Steam
+")
+L 01/07/2021 - 13:50:18: Connection to Steam servers lost. (No internet connection)
+L 01/07/2021 - 13:50:31: Connection to Steam servers successful.
+L 01/07/2021 - 13:50:31:    Public IP is 139.99.208.69.
+L 01/07/2021 - 13:50:31: Assigned persistent gameserver Steam ID [G-1:3955559].
+L 01/07/2021 - 13:50:32: VAC secure mode is activated.
+L 01/07/2021 - 14:03:55: "gaye.marvin.1<14><STEAM_0:1:552376321><>" connected, address "78.232.225.32:27005"
+L 01/07/2021 - 14:04:13: "gaye.marvin.1<14><STEAM_0:1:552376321><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 14:05:33: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "// oil refiner got nerfed"
+
+L 01/07/2021 - 14:05:44: "Lil Kitty<7><STEAM_0:0:165775247><Oil Refiner>" say "// I know but i want to see how nerfed"
+
+L 01/07/2021 - 14:05:49: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "// alot"
+
+L 01/07/2021 - 14:06:31: "Lil Kitty<7><STEAM_0:0:165775247><Oil Refiner>" say "// oh god even the drill tower"
+
+L 01/07/2021 - 14:08:22: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "wat"
+
+L 01/07/2021 - 14:08:29: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "did they nerf the oil refiner job"
+
+L 01/07/2021 - 14:08:38: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "fuck ues. takes like 3 mins to drill a hole"
+
+L 01/07/2021 - 14:08:41: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "yeah wtf"
+
+L 01/07/2021 - 14:08:45: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "so shut"
+
+L 01/07/2021 - 14:08:48: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "shebab rn is sleeping"
+
+L 01/07/2021 - 14:08:54: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "also props a fucked"
+
+L 01/07/2021 - 14:09:00: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "dam"
+
+L 01/07/2021 - 14:09:11: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "// he was trying to fix it"
+
+L 01/07/2021 - 14:09:33: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "// but couldnt so hes taking a nap and gonna try fix it when  he wakes up"
+
+L 01/07/2021 - 14:09:37: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "oh so it will go back to normal?"
+
+L 01/07/2021 - 14:09:39: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "hopefully"
+
+L 01/07/2021 - 14:09:47: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "// what wrong with it"
+
+L 01/07/2021 - 14:09:56: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "oh"
+
+L 01/07/2021 - 14:09:57: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "the prop protection were using is apparently ucked"
+
+L 01/07/2021 - 14:10:07: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "so he may have to get a new one"
+
+L 01/07/2021 - 14:10:14: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "tbh i dont really know"
+
+L 01/07/2021 - 14:10:16: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "okj"
+
+L 01/07/2021 - 14:10:19: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "but hes gonna try fix it"
+
+L 01/07/2021 - 14:10:21: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "mad"
+
+L 01/07/2021 - 14:10:42: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "// killed himself in his own prop xd"
+
+L 01/07/2021 - 14:13:29: "Walter White<10><STEAM_0:0:186632053><Weed Grower>" say "do u make good money as weed dealer"
+
+L 01/07/2021 - 14:13:34: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "idk"
+
+L 01/07/2021 - 14:13:37: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "gonna try it now"
+
+L 01/07/2021 - 14:13:43: "Walter White<10><STEAM_0:0:186632053><Weed Grower>" say "can i cook with u"
+
+L 01/07/2021 - 14:13:46: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "sure"
+
+L 01/07/2021 - 14:13:51: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "you do your here"
+
+L 01/07/2021 - 14:13:54: "Walter White<10><STEAM_0:0:186632053><Weed Grower>" say "ye"
+
+L 01/07/2021 - 14:13:55: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "ill do mine in here"
+
+L 01/07/2021 - 14:15:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 14:16:04: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "i need to go like rn, so ima just afk"
+
+L 01/07/2021 - 14:16:09: "Walter White<10><STEAM_0:0:186632053><Weed Grower>" say "yep"
+
+L 01/07/2021 - 14:16:11: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "when i say go i mean like 2 - 3 hours"
+
+L 01/07/2021 - 14:16:17: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "so goodluck"
+
+L 01/07/2021 - 14:16:18: "Walter White<10><STEAM_0:0:186632053><Weed Grower>" say "yep"
+
+L 01/07/2021 - 14:37:31: "Baino<15><STEAM_0:0:67507364><>" connected, address "144.133.192.203:27005"
+L 01/07/2021 - 14:37:32: "Baino<15><STEAM_0:0:67507364><>" STEAM USERID validated
+L 01/07/2021 - 14:38:46: "-_-<16><STEAM_0:1:573380788><>" connected, address "203.7.27.253:27005"
+L 01/07/2021 - 14:38:46: "-_-<16><STEAM_0:1:573380788><>" STEAM USERID validated
+L 01/07/2021 - 14:38:48: "Baino<15><STEAM_0:0:67507364><>" entered the game
+L 01/07/2021 - 14:44:32: "-_-<16><STEAM_0:1:573380788><>" entered the game
+L 01/07/2021 - 14:45:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 14:59:59: "Lil Kitty<7><STEAM_0:0:165775247><Weed Grower>" say "/drop"
+
+L 01/07/2021 - 15:03:51: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "!menu"
+
+L 01/07/2021 - 15:08:14: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "/drop"
+
+L 01/07/2021 - 15:08:48: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "// why can u prop kill now?"
+
+L 01/07/2021 - 15:08:55: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "// server broken?"
+
+L 01/07/2021 - 15:08:58: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// dont abuse it"
+
+L 01/07/2021 - 15:09:18: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// addon stopped working, shebab went to take a nap and he will try fix it when he wakes up"
+
+L 01/07/2021 - 15:09:27: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// dont be a cunt or a dumbass with it"
+
+L 01/07/2021 - 15:09:30: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "ohh"
+
+L 01/07/2021 - 15:09:46: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "// 10 hours later, he still taking his nap"
+
+L 01/07/2021 - 15:10:04: "Lil Kitty<7><STEAM_0:0:165775247><Citizen>" say "// nah he was on at like 6"
+
+L 01/07/2021 - 15:14:06: "1998 Mulan Schezuan Sauce<17><STEAM_0:1:105019937><>" connected, address "59.102.125.97:27005"
+L 01/07/2021 - 15:14:06: "1998 Mulan Schezuan Sauce<17><STEAM_0:1:105019937><>" STEAM USERID validated
+L 01/07/2021 - 15:15:30: "1998 Mulan Schezuan Sauce<17><STEAM_0:1:105019937><>" entered the game
+L 01/07/2021 - 15:15:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 15:16:47: "-_-<16><STEAM_0:1:573380788><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 15:20:32: "1998 Mulan Schezuan Sauce<17><STEAM_0:1:105019937><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 15:22:39: "Maher | ماهر<18><STEAM_0:1:207731005><>" connected, address "203.40.197.21:27005"
+L 01/07/2021 - 15:22:40: "Maher | ماهر<18><STEAM_0:1:207731005><>" STEAM USERID validated
+L 01/07/2021 - 15:26:53: "Maher | ماهر<18><STEAM_0:1:207731005><>" entered the game
+L 01/07/2021 - 15:27:26: "gamer<19><STEAM_0:1:578961782><>" connected, address "185.240.246.68:27005"
+L 01/07/2021 - 15:27:26: "gamer<19><STEAM_0:1:578961782><>" STEAM USERID validated
+L 01/07/2021 - 15:27:53: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "/name Saddam Hussien"
+
+L 01/07/2021 - 15:32:11: "gamer<19><STEAM_0:1:578961782><>" entered the game
+L 01/07/2021 - 15:32:47: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 15:33:24: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 15:35:29: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "SUP"
+
+L 01/07/2021 - 15:35:29: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "hi"
+
+L 01/07/2021 - 15:36:42: "gamer<19><STEAM_0:1:578961782><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 15:38:23: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "is this like an auto gunstore?"
+
+L 01/07/2021 - 15:38:31: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "or a base?"
+
+L 01/07/2021 - 15:38:38: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "nah, im waiting for my trusted rank for those"
+
+L 01/07/2021 - 15:38:41: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "Oh"
+
+L 01/07/2021 - 15:39:20: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "u want to base?"
+
+L 01/07/2021 - 15:40:28: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "u can litteraly prop push now"
+
+L 01/07/2021 - 15:40:36: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "Wtf"
+
+L 01/07/2021 - 15:41:40: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "Im not "
+
+L 01/07/2021 - 15:41:46: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "going to go any job rn"
+
+L 01/07/2021 - 15:41:56: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "because the server is aboutta restart probably"
+
+L 01/07/2021 - 15:42:07: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "In the discord"
+
+L 01/07/2021 - 15:42:11: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "people are asking him"
+
+L 01/07/2021 - 15:42:15: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "to do it"
+
+L 01/07/2021 - 15:43:17: "K9 Firebreak<20><STEAM_0:0:484745754><>" connected, address "117.20.70.209:20349"
+L 01/07/2021 - 15:43:17: "K9 Firebreak<20><STEAM_0:0:484745754><>" STEAM USERID validated
+L 01/07/2021 - 15:44:09: "K9 Firebreak<20><STEAM_0:0:484745754><>" entered the game
+L 01/07/2021 - 15:45:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 15:48:48: "GOD<21><STEAM_0:1:88373775><>" connected, address "180.150.105.102:27005"
+L 01/07/2021 - 15:48:49: "GOD<21><STEAM_0:1:88373775><>" STEAM USERID validated
+L 01/07/2021 - 15:50:30: "GOD<21><STEAM_0:1:88373775><>" entered the game
+L 01/07/2021 - 15:50:47: "tk<22><STEAM_0:1:219822134><>" connected, address "27.50.74.116:27005"
+L 01/07/2021 - 15:50:48: "tk<22><STEAM_0:1:219822134><>" STEAM USERID validated
+L 01/07/2021 - 15:52:25: "tk<22><STEAM_0:1:219822134><>" entered the game
+L 01/07/2021 - 15:52:28: "Awful_cat<23><STEAM_0:0:503306554><>" connected, address "122.111.210.42:27005"
+L 01/07/2021 - 15:52:29: "Awful_cat<23><STEAM_0:0:503306554><>" STEAM USERID validated
+L 01/07/2021 - 15:52:55: "GOD<21><STEAM_0:1:88373775><Citizen>" say "// thanks walter :)"
+
+L 01/07/2021 - 15:54:47: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "this?"
+
+L 01/07/2021 - 15:55:12: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "what should i choose?"
+
+L 01/07/2021 - 15:55:50: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "1k"
+
+L 01/07/2021 - 15:55:53: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "im testing"
+
+L 01/07/2021 - 15:55:55: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "/me salutes"
+
+L 01/07/2021 - 15:56:09: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "How much did u win?"
+
+L 01/07/2021 - 15:56:30: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "what should i choose now?"
+
+L 01/07/2021 - 15:56:41: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "1 to 30?"
+
+L 01/07/2021 - 15:56:55: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "thats 1 to 18"
+
+L 01/07/2021 - 15:56:56: "Night Owl<12><STEAM_0:0:36563166><Citizen>" say "SUP"
+
+L 01/07/2021 - 15:57:14: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "wtf?"
+
+L 01/07/2021 - 15:57:19: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "i didnt choose it"
+
+L 01/07/2021 - 15:58:17: "Awful_cat<23><STEAM_0:0:503306554><>" entered the game
+L 01/07/2021 - 15:58:34: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "wtf"
+
+L 01/07/2021 - 15:59:04: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "BRUHHH"
+
+L 01/07/2021 - 15:59:06: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "NOOO"
+
+L 01/07/2021 - 15:59:09: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "THIS IS RIGGED"
+
+L 01/07/2021 - 15:59:18: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "yes"
+
+L 01/07/2021 - 16:00:06: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "how to know how much u got?"
+
+L 01/07/2021 - 16:00:18: "K9 Firebreak<20><STEAM_0:0:484745754><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 16:00:22: "Matin Lose<22><STEAM_0:1:219822134><Battle Medic>" say "!content"
+
+L 01/07/2021 - 16:00:52: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "10k chips"
+
+L 01/07/2021 - 16:01:03: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "20k"
+
+L 01/07/2021 - 16:01:06: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "Bruh"
+
+L 01/07/2021 - 16:01:39: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "i can farm this"
+
+L 01/07/2021 - 16:01:52: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "u can"
+
+L 01/07/2021 - 16:01:57: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "yes"
+
+L 01/07/2021 - 16:02:15: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "someone bet 15 mil'"
+
+L 01/07/2021 - 16:02:55: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "if its green im done"
+
+L 01/07/2021 - 16:03:27: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "instead of standing on the table just hold b and look at it "
+
+L 01/07/2021 - 16:03:33: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "/me Salutes"
+
+L 01/07/2021 - 16:03:38: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "/me Salutes"
+
+L 01/07/2021 - 16:03:50: "Matin Lose<22><STEAM_0:1:219822134><Citizen>" say "!content"
+
+L 01/07/2021 - 16:04:08: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/dropmoney 90000"
+
+L 01/07/2021 - 16:04:19: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "no one goes to that one"
+
+L 01/07/2021 - 16:05:11: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "im joining in"
+
+L 01/07/2021 - 16:05:24: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "got 0 chips left too"
+
+L 01/07/2021 - 16:05:45: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "just put 10k"
+
+L 01/07/2021 - 16:05:52: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "yea"
+
+L 01/07/2021 - 16:06:02: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "nooo"
+
+L 01/07/2021 - 16:06:30: "Matin Lose<22><STEAM_0:1:219822134><Parkour Master>" say "that wont work"
+
+L 01/07/2021 - 16:08:47: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "i got no more chips.."
+
+L 01/07/2021 - 16:09:14: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "/me Salutes"
+
+L 01/07/2021 - 16:09:15: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "/me Salutes"
+
+L 01/07/2021 - 16:09:17: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "!ccf"
+
+L 01/07/2021 - 16:09:18: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "/me Salutes"
+
+L 01/07/2021 - 16:09:49: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "let me try getting the 2000 to 20k"
+
+L 01/07/2021 - 16:10:43: "Matin Lose<22><STEAM_0:1:219822134><Parkour Master>" say "what u say"
+
+L 01/07/2021 - 16:10:45: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "!menu"
+
+L 01/07/2021 - 16:10:48: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "!MENU"
+
+L 01/07/2021 - 16:11:03: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "..."
+
+L 01/07/2021 - 16:11:16: "Saddam Hussien<18><STEAM_0:1:207731005><Citizen>" say "should i put 100k?"
+
+L 01/07/2021 - 16:11:25: "K9 Firebreak<24><STEAM_0:0:484745754><>" connected, address "117.20.70.209:20349"
+L 01/07/2021 - 16:11:26: "K9 Firebreak<24><STEAM_0:0:484745754><>" STEAM USERID validated
+L 01/07/2021 - 16:12:21: "Matin Lose<22><STEAM_0:1:219822134><Parkour Master>" say "should all in"
+
+L 01/07/2021 - 16:12:26: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "YES"
+
+L 01/07/2021 - 16:12:33: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "all in on 1-18"
+
+L 01/07/2021 - 16:12:37: "Matin Lose<22><STEAM_0:1:219822134><Parkour Master>" say "just got 28"
+
+L 01/07/2021 - 16:12:38: "Matin Lose<22><STEAM_0:1:219822134><Parkour Master>" say ":/"
+
+L 01/07/2021 - 16:12:40: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "12k"
+
+L 01/07/2021 - 16:12:42: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "on the table"
+
+L 01/07/2021 - 16:13:03: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "FUCK"
+
+L 01/07/2021 - 16:13:03: "Matin Lose<22><STEAM_0:1:219822134><Parkour Master>" say "owned"
+
+L 01/07/2021 - 16:13:07: "K9 Firebreak<24><STEAM_0:0:484745754><>" entered the game
+L 01/07/2021 - 16:13:43: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 16:13:54: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 16:13:56: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 16:14:01: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 16:14:02: Lua Error: 
+[fading_door_tool_115753588] addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348: attempt to call global 'RemoveKeys' (a nil value)
+  1. dooEet - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:348
+   2. LeftClick - addons/fading_door_tool_115753588/lua/weapons/gmod_tool/stools/fading_door.lua:424
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:240
+
+
+L 01/07/2021 - 16:14:16: "K9 Firebreak<24><STEAM_0:0:484745754><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 16:14:36: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "gl"
+
+L 01/07/2021 - 16:15:43: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me sad"
+
+L 01/07/2021 - 16:15:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 16:16:07: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "ooft"
+
+L 01/07/2021 - 16:16:14: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "how much are those?"
+
+L 01/07/2021 - 16:16:24: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "oh"
+
+L 01/07/2021 - 16:16:39: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "rags to riches"
+
+L 01/07/2021 - 16:17:22: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "IM NOT LOOKING"
+
+L 01/07/2021 - 16:17:32: "tk<22><STEAM_0:1:219822134><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 16:17:34: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "LETS GO"
+
+L 01/07/2021 - 16:17:36: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me cums"
+
+L 01/07/2021 - 16:17:42: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "wtf"
+
+L 01/07/2021 - 16:17:43: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me regrets"
+
+L 01/07/2021 - 16:17:51: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me disgust"
+
+L 01/07/2021 - 16:17:52: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me disgust"
+
+L 01/07/2021 - 16:17:56: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i bet we going to lose"
+
+L 01/07/2021 - 16:17:57: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me cum harder"
+
+L 01/07/2021 - 16:18:11: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me disgust harder"
+
+L 01/07/2021 - 16:18:13: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me rapes small somalian child"
+
+L 01/07/2021 - 16:18:23: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me watches in horror"
+
+L 01/07/2021 - 16:18:33: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me moans"
+
+L 01/07/2021 - 16:18:43: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me crys"
+
+L 01/07/2021 - 16:18:50: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me crys"
+
+L 01/07/2021 - 16:18:52: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me cries"
+
+L 01/07/2021 - 16:18:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "100k"
+
+L 01/07/2021 - 16:19:04: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "U FUCKED ME OVER"
+
+L 01/07/2021 - 16:19:06: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me steals bitcoin"
+
+L 01/07/2021 - 16:19:09: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me pulls out horse cock"
+
+L 01/07/2021 - 16:19:34: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "20k"
+
+L 01/07/2021 - 16:19:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "al shabeb needs to give us money"
+
+L 01/07/2021 - 16:19:59: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me fucks your ass while you werent looking"
+
+L 01/07/2021 - 16:20:17: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me grabs knife"
+
+L 01/07/2021 - 16:20:26: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me cuts off dick"
+
+L 01/07/2021 - 16:20:38: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me dies"
+
+L 01/07/2021 - 16:20:41: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "what"
+
+L 01/07/2021 - 16:20:45: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "No"
+
+L 01/07/2021 - 16:20:55: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:21:13: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "WHAT"
+
+L 01/07/2021 - 16:21:13: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "bind "i" "say /me gropes you aggressively""
+
+L 01/07/2021 - 16:21:18: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i misclicked"
+
+L 01/07/2021 - 16:21:20: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:21:20: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "what you egg"
+
+L 01/07/2021 - 16:21:26: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me stabs him"
+
+L 01/07/2021 - 16:21:35: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:21:54: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yo what"
+
+L 01/07/2021 - 16:21:54: "K9 Firebreak<25><STEAM_0:0:484745754><>" connected, address "117.20.70.209:20349"
+L 01/07/2021 - 16:21:55: "K9 Firebreak<25><STEAM_0:0:484745754><>" STEAM USERID validated
+L 01/07/2021 - 16:22:02: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea"
+
+L 01/07/2021 - 16:22:17: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "gll"
+
+L 01/07/2021 - 16:22:26: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "holy shit"
+
+L 01/07/2021 - 16:22:40: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "should i cash out?"
+
+L 01/07/2021 - 16:22:45: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "What you egg?!"
+
+L 01/07/2021 - 16:22:46: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me stabs him"
+
+L 01/07/2021 - 16:22:48: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "7500"
+
+L 01/07/2021 - 16:22:56: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea"
+
+L 01/07/2021 - 16:22:59: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:12: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:13: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:13: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:14: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:15: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:17: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:19: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:20: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:23:24: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me stabs him"
+
+L 01/07/2021 - 16:23:26: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me stabs him"
+
+L 01/07/2021 - 16:23:27: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me stabs him"
+
+L 01/07/2021 - 16:23:29: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me stabs him"
+
+L 01/07/2021 - 16:23:31: "K9 Firebreak<25><STEAM_0:0:484745754><>" entered the game
+L 01/07/2021 - 16:23:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "15k"
+
+L 01/07/2021 - 16:24:15: "Bob Dober<25><STEAM_0:0:484745754><Citizen>" say "/advert Mug drop 15k or die"
+
+L 01/07/2021 - 16:24:24: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "punched someone at spawn"
+
+L 01/07/2021 - 16:24:25: "Bob Dober<25><STEAM_0:0:484745754><Citizen>" say "/advert test"
+
+L 01/07/2021 - 16:24:48: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "23m"
+
+L 01/07/2021 - 16:25:00: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "My friend Justin, hes taken, and hes cracked at fortnite my dude"
+
+L 01/07/2021 - 16:25:03: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me moans aggressively"
+
+L 01/07/2021 - 16:25:06: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "wait"
+
+L 01/07/2021 - 16:25:08: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "u have a car?"
+
+L 01/07/2021 - 16:25:18: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me is thinking about what you look like naked"
+
+L 01/07/2021 - 16:25:18: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Im going to sell it"
+
+L 01/07/2021 - 16:25:24: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea"
+
+L 01/07/2021 - 16:25:28: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "lik 6 mil"
+
+L 01/07/2021 - 16:25:32: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me is thinking about what you look like naked"
+
+L 01/07/2021 - 16:25:54: "⚓Sea⚓<26><STEAM_0:0:210515244><>" connected, address "117.20.70.178:2941"
+L 01/07/2021 - 16:25:55: "⚓Sea⚓<26><STEAM_0:0:210515244><>" STEAM USERID validated
+L 01/07/2021 - 16:26:04: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "// it was 1.8m"
+
+L 01/07/2021 - 16:26:12: "Night Owl<12><STEAM_0:0:36563166><Money Printer>" say "// what was"
+
+L 01/07/2021 - 16:26:12: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "// STILL GOOD"
+
+L 01/07/2021 - 16:26:20: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "// my car"
+
+L 01/07/2021 - 16:26:24: "Night Owl<12><STEAM_0:0:36563166><Money Printer>" say "// oh"
+
+L 01/07/2021 - 16:26:28: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me notices you have a tiny penis"
+
+L 01/07/2021 - 16:26:28: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me moans aggressively"
+
+L 01/07/2021 - 16:27:01: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "16k"
+
+L 01/07/2021 - 16:27:04: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "16m"
+
+L 01/07/2021 - 16:27:07: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "!unbox"
+
+L 01/07/2021 - 16:27:13: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "!wheeloffortune"
+
+L 01/07/2021 - 16:27:13: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "wait"
+
+L 01/07/2021 - 16:27:15: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "160k"
+
+L 01/07/2021 - 16:27:18: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "!spinwheel"
+
+L 01/07/2021 - 16:27:20: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea"
+
+L 01/07/2021 - 16:27:20: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "!wheel"
+
+L 01/07/2021 - 16:27:21: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "fuck"
+
+L 01/07/2021 - 16:27:29: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "!spinwheel"
+
+L 01/07/2021 - 16:27:32: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "!wheelofluck"
+
+L 01/07/2021 - 16:27:44: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "336k"
+
+L 01/07/2021 - 16:27:58: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "if i sell it"
+
+L 01/07/2021 - 16:28:12: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me notices you have a tiny penis"
+
+L 01/07/2021 - 16:28:26: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "3365999"
+
+L 01/07/2021 - 16:28:42: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Bruh that was nevre racking"
+
+L 01/07/2021 - 16:28:46: "eliano<27><STEAM_0:1:150661630><>" connected, address "49.194.143.46:27005"
+L 01/07/2021 - 16:28:47: "eliano<27><STEAM_0:1:150661630><>" STEAM USERID validated
+L 01/07/2021 - 16:28:58: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "the car was a shitbox anyways"
+
+L 01/07/2021 - 16:29:14: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "the maps tiny"
+
+L 01/07/2021 - 16:29:43: "Linkx<28><STEAM_0:0:570341317><>" connected, address "110.143.62.141:27005"
+L 01/07/2021 - 16:29:44: "Linkx<28><STEAM_0:0:570341317><>" STEAM USERID validated
+L 01/07/2021 - 16:29:44: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "how much u got"
+
+L 01/07/2021 - 16:29:51: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea ur chips"
+
+L 01/07/2021 - 16:29:57: "⚓Sea⚓<26><STEAM_0:0:210515244><>" entered the game
+L 01/07/2021 - 16:30:28: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i still cant believe he put 15 million on green and won"
+
+L 01/07/2021 - 16:30:29: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:30:37: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "idk"
+
+L 01/07/2021 - 16:30:44: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "but i remember seeing a tower of chips"
+
+L 01/07/2021 - 16:30:55: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "are u in the discord?"
+
+L 01/07/2021 - 16:30:58: "Linkx<28><STEAM_0:0:570341317><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 16:31:03: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "check general"
+
+L 01/07/2021 - 16:31:07: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:31:08: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "and u will see"
+
+L 01/07/2021 - 16:31:21: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "Mother i require youir assistants in an urgent manner"
+
+L 01/07/2021 - 16:31:25: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:31:28: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "I has consumed the mulk"
+
+L 01/07/2021 - 16:31:36: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "11 tho"
+
+L 01/07/2021 - 16:31:41: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/dropmoney 150000"
+
+L 01/07/2021 - 16:31:49: "eliano<27><STEAM_0:1:150661630><>" entered the game
+L 01/07/2021 - 16:31:56: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "im back"
+
+L 01/07/2021 - 16:31:59: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i was tabbed out"
+
+L 01/07/2021 - 16:32:06: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "Congratulations! You just won $2000Congratulations! You just won $2000"
+
+L 01/07/2021 - 16:32:08: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "his name is LadyBoy"
+
+L 01/07/2021 - 16:32:25: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "someone when 80 mil on double or nothing"
+
+L 01/07/2021 - 16:32:33: "Bob Dober<25><STEAM_0:0:484745754><Money Printer>" say "/drop"
+
+L 01/07/2021 - 16:32:35: "Bob Dober<25><STEAM_0:0:484745754><Money Printer>" say "/drop"
+
+L 01/07/2021 - 16:32:37: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea"
+
+L 01/07/2021 - 16:32:45: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "he got like 40 jackpots"
+
+L 01/07/2021 - 16:32:53: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "Mother i require youir assistants in an urgent manner"
+
+L 01/07/2021 - 16:32:55: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:32:56: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "I has consumed the mulk"
+
+L 01/07/2021 - 16:33:01: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "its rip off tbh"
+
+L 01/07/2021 - 16:33:03: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "three"
+
+L 01/07/2021 - 16:33:08: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:33:11: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:33:32: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "i havent filled it once"
+
+L 01/07/2021 - 16:33:50: "Bob Dober<25><STEAM_0:0:484745754><Thief>" say "/advert raid"
+
+L 01/07/2021 - 16:33:52: "Baino<15><STEAM_0:0:67507364><Bitcoin Miner>" say "Congratulations! You just won $7000[User] GOD: i havent filled it onceCongratulations! You just won $2000Congratulations!"
+
+L 01/07/2021 - 16:34:09: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "50k"
+
+L 01/07/2021 - 16:34:14: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yea"
+
+L 01/07/2021 - 16:34:30: "Sir Asian<26><STEAM_0:0:210515244><Thief>" say "!donate"
+
+L 01/07/2021 - 16:35:04: "Bob Dober<25><STEAM_0:0:484745754><Thief>" say "// wow dog"
+
+L 01/07/2021 - 16:35:16: "Baino<15><STEAM_0:0:67507364><Black Market Dealer>" say "// ?"
+
+L 01/07/2021 - 16:35:16: "Bob Dober<25><STEAM_0:0:484745754><Thief>" say "// just change jobs so i cant take your shit"
+
+L 01/07/2021 - 16:35:22: "Baino<15><STEAM_0:0:67507364><Black Market Dealer>" say "// i was going to anyway??"
+
+L 01/07/2021 - 16:35:28: "Baino<15><STEAM_0:0:67507364><Black Market Dealer>" say "// you saw me leaving base"
+
+L 01/07/2021 - 16:35:38: "GOD<21><STEAM_0:1:88373775><Bitcoin Miner>" say "/pm ba i sell youir shit :>"
+
+L 01/07/2021 - 16:35:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "gl"
+
+L 01/07/2021 - 16:36:17: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Im going to stop "
+
+L 01/07/2021 - 16:36:23: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "thats way too much gambling"
+
+L 01/07/2021 - 16:36:38: "PinkSamsungS4<29><STEAM_0:0:173040662><>" connected, address "110.151.134.218:27005"
+L 01/07/2021 - 16:36:39: "PinkSamsungS4<29><STEAM_0:0:173040662><>" STEAM USERID validated
+L 01/07/2021 - 16:36:39: "Bob Dober<25><STEAM_0:0:484745754><Thief>" say "/advert raid over"
+
+L 01/07/2021 - 16:36:44: "GOD<21><STEAM_0:1:88373775><Black Market Dealer>" say "/pm ba sure"
+
+L 01/07/2021 - 16:36:46: "Bob Dober<25><STEAM_0:0:484745754><Thief>" say "/drop"
+
+L 01/07/2021 - 16:36:48: "Bob Dober<25><STEAM_0:0:484745754><Thief>" say "/drop"
+
+L 01/07/2021 - 16:36:50: "Blake loves milk<30><STEAM_0:0:160768380><>" connected, address "123.243.166.127:27005"
+L 01/07/2021 - 16:36:51: "Blake loves milk<30><STEAM_0:0:160768380><>" STEAM USERID validated
+L 01/07/2021 - 16:37:20: "James Johnson<27><STEAM_0:1:150661630><Citizen>" say "hey bob"
+
+L 01/07/2021 - 16:37:22: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "/drop"
+
+L 01/07/2021 - 16:37:22: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "hi"
+
+L 01/07/2021 - 16:37:26: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "this slot machine is just for users"
+
+L 01/07/2021 - 16:37:36: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "wat"
+
+L 01/07/2021 - 16:37:38: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "they all are"
+
+L 01/07/2021 - 16:37:55: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "!Menu"
+
+L 01/07/2021 - 16:38:05: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "It's my arm man! My fuckin' arm!"
+
+L 01/07/2021 - 16:38:09: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "It's my arm man! My fuckin' arm!"
+
+L 01/07/2021 - 16:38:12: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "It's my arm man! My fuckin' arm!"
+
+L 01/07/2021 - 16:38:16: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "HELLO. MY NAME IS JARED AND I LIKE FOOTBALL."
+
+L 01/07/2021 - 16:38:33: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "this ones luck"
+
+L 01/07/2021 - 16:38:42: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "/drop"
+
+L 01/07/2021 - 16:38:47: "Night Owl<12><STEAM_0:0:36563166><Money Printer>" say "!Menu"
+
+L 01/07/2021 - 16:38:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "gl"
+
+L 01/07/2021 - 16:39:05: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "/me Salutes"
+
+L 01/07/2021 - 16:39:18: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "hey"
+
+L 01/07/2021 - 16:39:19: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "/pm james you know where good bases are?"
+
+L 01/07/2021 - 16:39:34: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "/pm bob na man i just hopped on sry ahaha"
+
+L 01/07/2021 - 16:39:43: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "/pm james nah your fine, all g :)"
+
+L 01/07/2021 - 16:39:54: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "yes"
+
+L 01/07/2021 - 16:40:08: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "u want to make big boy money"
+
+L 01/07/2021 - 16:40:12: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "yea"
+
+L 01/07/2021 - 16:40:16: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "u shot me"
+
+L 01/07/2021 - 16:40:18: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "bot good"
+
+L 01/07/2021 - 16:40:19: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "but idk how to use wiremod"
+
+L 01/07/2021 - 16:40:21: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "come"
+
+L 01/07/2021 - 16:40:27: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "do this"
+
+L 01/07/2021 - 16:40:33: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "!menu"
+
+L 01/07/2021 - 16:40:34: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "and put ur chips on "
+
+L 01/07/2021 - 16:40:35: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "your not gonna make me lose"
+
+L 01/07/2021 - 16:40:45: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "!menu"
+
+L 01/07/2021 - 16:40:49: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "!menu"
+
+L 01/07/2021 - 16:40:58: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "ill do a little bit first"
+
+L 01/07/2021 - 16:40:59: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "to see"
+
+L 01/07/2021 - 16:41:27: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "so what do i do"
+
+L 01/07/2021 - 16:41:49: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i put it on red ahahah"
+
+L 01/07/2021 - 16:42:07: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "how ahaha"
+
+L 01/07/2021 - 16:42:08: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "i didnt get shit"
+
+L 01/07/2021 - 16:42:13: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "bottom left"
+
+L 01/07/2021 - 16:42:15: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "1 to 18"
+
+L 01/07/2021 - 16:42:17: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i did red ahaha"
+
+L 01/07/2021 - 16:42:19: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "idk how to do this"
+
+L 01/07/2021 - 16:42:20: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i got 4 mill outt of it"
+
+L 01/07/2021 - 16:42:21: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i will do 1-18"
+
+L 01/07/2021 - 16:42:30: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/dropmoney 50000"
+
+L 01/07/2021 - 16:42:32: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "ahahaha"
+
+L 01/07/2021 - 16:42:38: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "how you bet"
+
+L 01/07/2021 - 16:42:46: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "yea i got 1k"
+
+L 01/07/2021 - 16:42:56: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "thats 100 chips"
+
+L 01/07/2021 - 16:43:02: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "AHAh"
+
+L 01/07/2021 - 16:43:13: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i will do 1.5mil"
+
+L 01/07/2021 - 16:43:39: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "..."
+
+L 01/07/2021 - 16:43:53: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "alr 500k back on"
+
+L 01/07/2021 - 16:44:17: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i might go to star casino and do this"
+
+L 01/07/2021 - 16:44:31: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Yea"
+
+L 01/07/2021 - 16:44:37: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "this is just computer progammed"
+
+L 01/07/2021 - 16:44:40: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1mil"
+
+L 01/07/2021 - 16:44:51: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "yh"
+
+L 01/07/2021 - 16:45:06: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "bs"
+
+L 01/07/2021 - 16:45:08: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "..."
+
+L 01/07/2021 - 16:45:08: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "every single time"
+
+L 01/07/2021 - 16:45:13: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "500k "
+
+L 01/07/2021 - 16:45:18: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "!menu"
+
+L 01/07/2021 - 16:45:32: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "i sold my car for this"
+
+L 01/07/2021 - 16:45:35: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "alr 1mil now??"
+
+L 01/07/2021 - 16:45:43: "Walter White<10><STEAM_0:0:186632053><Casino Manager>" say "!menu"
+
+L 01/07/2021 - 16:45:44: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1mil ahaha"
+
+L 01/07/2021 - 16:45:47: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "put it on 1-18"
+
+L 01/07/2021 - 16:45:50: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "thats all i have"
+
+L 01/07/2021 - 16:45:59: AWarn: Your server info has been updated to the online statistics tracking
+L 01/07/2021 - 16:46:02: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "i put 1 mil"
+
+L 01/07/2021 - 16:46:05: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "how do i bet it all"
+
+L 01/07/2021 - 16:46:07: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "every single time i put 1mil or higher"
+
+L 01/07/2021 - 16:46:25: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "how do i bet my 1 mil"
+
+L 01/07/2021 - 16:46:29: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "500k on 1-18"
+
+L 01/07/2021 - 16:46:32: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "how"
+
+L 01/07/2021 - 16:46:38: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "buy chips"
+
+L 01/07/2021 - 16:46:40: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "yea"
+
+L 01/07/2021 - 16:46:42: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "and type in the rectangle"
+
+L 01/07/2021 - 16:46:50: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "i did"
+
+L 01/07/2021 - 16:46:55: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "i spent $1m"
+
+L 01/07/2021 - 16:47:04: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i lost"
+
+L 01/07/2021 - 16:47:05: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "you can watch one peace start to end and itll be ahlf way"
+
+L 01/07/2021 - 16:47:05: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "again"
+
+L 01/07/2021 - 16:47:13: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "thats it im doing 1 mil on it"
+
+L 01/07/2021 - 16:47:14: "PinkSamsungS4<29><STEAM_0:0:173040662><>" entered the game
+L 01/07/2021 - 16:47:29: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1mil on it"
+
+L 01/07/2021 - 16:47:35: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "if i lose ima cry"
+
+L 01/07/2021 - 16:47:41: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i lost last time"
+
+L 01/07/2021 - 16:47:50: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "rng"
+
+L 01/07/2021 - 16:48:08: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i lost over 2mil"
+
+L 01/07/2021 - 16:48:37: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mil"
+
+L 01/07/2021 - 16:48:38: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "on it"
+
+L 01/07/2021 - 16:48:41: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "pls win"
+
+L 01/07/2021 - 16:48:41: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "!Menu"
+
+L 01/07/2021 - 16:48:59: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "/dropmoney 10000"
+
+L 01/07/2021 - 16:49:08: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "i clicked the wrong thing"
+
+L 01/07/2021 - 16:49:10: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "ty"
+
+L 01/07/2021 - 16:49:18: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1mil on it"
+
+L 01/07/2021 - 16:49:34: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "u fucked it"
+
+L 01/07/2021 - 16:49:42: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "nvm"
+
+L 01/07/2021 - 16:49:50: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Put a user on the table thing"
+
+L 01/07/2021 - 16:49:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Bruhh"
+
+L 01/07/2021 - 16:49:53: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1.5mil"
+
+L 01/07/2021 - 16:49:54: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "pls"
+
+L 01/07/2021 - 16:49:57: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "move"
+
+L 01/07/2021 - 16:50:00: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/pm ba i took it off"
+
+L 01/07/2021 - 16:50:03: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "YESSS"
+
+L 01/07/2021 - 16:50:06: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1.5MIL"
+
+L 01/07/2021 - 16:50:12: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "i put it on"
+
+L 01/07/2021 - 16:50:13: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "i put 1 mil"
+
+L 01/07/2021 - 16:50:15: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "got 3mil"
+
+L 01/07/2021 - 16:50:20: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "1mil on it"
+
+L 01/07/2021 - 16:50:23: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "pls"
+
+L 01/07/2021 - 16:50:32: "Bob Dober<25><STEAM_0:0:484745754><Hacker>" say "fuck off"
+
+L 01/07/2021 - 16:50:41: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "walter"
+
+L 01/07/2021 - 16:50:45: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "500k"
+
+L 01/07/2021 - 16:51:02: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "Mother i require youir assistants in an urgent manner"
+
+L 01/07/2021 - 16:51:04: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:51:05: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "I has consumed the mulk"
+
+L 01/07/2021 - 16:51:06: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:51:12: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:51:16: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:51:20: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mil"
+
+L 01/07/2021 - 16:51:21: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "on it"
+
+L 01/07/2021 - 16:51:25: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mil on it"
+
+L 01/07/2021 - 16:51:35: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "pay me"
+
+L 01/07/2021 - 16:51:36: "Blake loves milk<30><STEAM_0:0:160768380><>" disconnected (reason "Disconnect by user.")
+L 01/07/2021 - 16:51:37: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mil"
+
+L 01/07/2021 - 16:51:42: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "yep ahaha"
+
+L 01/07/2021 - 16:51:44: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:51:48: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "Mother i require youir assistants in an urgent manner"
+
+L 01/07/2021 - 16:51:49: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:51:52: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "I has consumed the mulk"
+
+L 01/07/2021 - 16:51:52: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mmil on it"
+
+L 01/07/2021 - 16:51:54: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "pls"
+
+L 01/07/2021 - 16:52:03: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "YESSSS"
+
+L 01/07/2021 - 16:52:13: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mil on it again"
+
+L 01/07/2021 - 16:52:14: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/pm ba i keep taken his barrel off"
+
+L 01/07/2021 - 16:52:16: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "pls last one if i win"
+
+L 01/07/2021 - 16:52:23: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "/y he is fucking satan"
+
+L 01/07/2021 - 16:52:33: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "YESSS"
+
+L 01/07/2021 - 16:52:35: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "Fuck this"
+
+L 01/07/2021 - 16:52:39: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "good"
+
+L 01/07/2021 - 16:53:07: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/pm ba i almost got my first barrel"
+
+L 01/07/2021 - 16:53:15: "PinkSamsungS4<29><STEAM_0:0:173040662><>" disconnected (reason "PinkSamsungS4 timed out")
+L 01/07/2021 - 16:53:17: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "NOO"
+
+L 01/07/2021 - 16:53:19: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "CASH OUT"
+
+L 01/07/2021 - 16:53:22: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "AHAHAH"
+
+L 01/07/2021 - 16:53:24: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "UR FUCKED"
+
+L 01/07/2021 - 16:53:33: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:53:37: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:53:38: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:53:38: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "how much u put"
+
+L 01/07/2021 - 16:53:41: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "cash out"
+
+L 01/07/2021 - 16:53:41: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:53:47: "Baino<15><STEAM_0:0:67507364><Oil Refiner>" say "/me gropes you aggressively"
+
+L 01/07/2021 - 16:53:48: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "Mother i require youir assistants in an urgent manner"
+
+L 01/07/2021 - 16:53:49: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "/me shits aggressively"
+
+L 01/07/2021 - 16:53:49: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "12 million"
+
+L 01/07/2021 - 16:53:51: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "I has consumed the mulk"
+
+L 01/07/2021 - 16:53:59: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "walter"
+
+L 01/07/2021 - 16:54:02: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "ur going to get 11 mil"
+
+L 01/07/2021 - 16:54:05: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "if i put 2mil will u pay me if i lose"
+
+L 01/07/2021 - 16:54:17: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "whats the highest"
+
+L 01/07/2021 - 16:54:37: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "PLSSSS"
+
+L 01/07/2021 - 16:54:49: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "/advert EVERYONE SAY CONGRATS TO BOB DOBER FOR WINNING 11MILLION DOLLARS."
+
+L 01/07/2021 - 16:54:53: "Saddam Hussien<18><STEAM_0:1:207731005><Gambling Addict>" say "/drop"
+
+L 01/07/2021 - 16:55:08: "Sir Asian<26><STEAM_0:0:210515244><Oil Refiner>" say "/advert CONGRATS TO BOB DOBER :v"
+
+L 01/07/2021 - 16:55:09: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "2mil"
+
+L 01/07/2021 - 16:55:10: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "only more"
+
+L 01/07/2021 - 16:55:17: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "last one"
+
+L 01/07/2021 - 16:55:27: "James Johnson<27><STEAM_0:1:150661630><Hacker>" say "last ine "
+
+L 01/07/2021 - 16:55:27: "Saddam Hussien<18><STEAM_0:1:207731005><Casino Security>" say "Bob gtfo"
+
+L 01/07/2021 - 16:55:34: "Saddam Hussien<18><STEAM_0:1:207731005><Casino Security>" say "u took our money"
+
+L 01/07/2021 - 16:55:38: "Saddam Hussien<18><STEAM_0:1:207731005><Casino Security>" say "im jk"
+
+L 01/07/2021 - 16:55:44: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "i dont got it"
+
+L 01/07/2021 - 16:55:51: "GOD<21><STEAM_0:1:88373775><Oil Refiner>" say "wat you cant pocket em"
+
+L 01/07/2021 - 16:55:55: "Saddam Hussien<18><S

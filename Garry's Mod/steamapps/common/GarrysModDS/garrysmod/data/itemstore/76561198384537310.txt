@@ -1,1 +1,1 @@
-[{"Data":{"Amount":8.0,"Class":"m9k_coltpython","Contents":5.0},"Class":"spawned_shipment"}]
+[{"Data":{"Amount":2.0,"Contents":5.0,"Class":"m9k_coltpython"},"Class":"spawned_shipment"},{"Data":{"Amount":4.0,"Class":"m9k_glock","Contents":4.0},"Class":"spawned_shipment"}]

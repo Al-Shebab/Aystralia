@@ -1,1 +1,1 @@
-[]
+[{"Data":{"THC":16.329999923706056,"WeedName":"AK-47","Perf_Amount":96.0,"Perf_Time":93.0,"ZWFOwner":"STEAM_0:0:98351895","Perf_THC":106.0,"WeedAmount":110.5,"PlantID":4.0},"Class":"zwf_jar"},{"Data":{"THC":31.309999465942384,"WeedName":"Dark Devil","Perf_Amount":117.0,"Perf_Time":99.0,"ZWFOwner":"STEAM_0:0:98351895","Perf_THC":107.0,"WeedAmount":107.94999694824219,"PlantID":7.0},"Class":"zwf_jar"}]

@@ -1,0 +1,686 @@
+2021-01-07 20.59.50: <General> Logging started, map: rp_downtown_v4c.
+2021-01-07 20.59.50: <General> Welcome to VCMod Auto-Updater version 9.65.
+2021-01-07 20.59.50: <General> Pre-initialization complete, preparing to load addon data.
+2021-01-07 20.59.50: <General> Addons found: VCMod Main.
+2021-01-07 21.00.28: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2021-01-07 21.00.42: <General> Preparations are complete, handshaking API.
+2021-01-07 21.00.43: <General> Handshake successful.
+2021-01-07 21.00.43: <General> Handshake finished.
+2021-01-07 21.00.44: <General> Contacting preload API.
+2021-01-07 21.00.45: <General> Initializing preload.
+2021-01-07 21.00.45: <General> Preload finished. Initializing addons.
+2021-01-07 21.00.45: <General> Started loading serverside.
+2021-01-07 21.00.45: <General> Loaded Main v1.737 serverside.
+2021-01-07 21.00.45: <General> Finished loading serverside.
+2021-01-07 21.00.51: <General> Scanning for potentially incompatible hooks.
+2021-01-07 21.00.51: <General> No incompatibilities found.
+2021-01-07 21.00.51: <General> General vehicle data is up to date.
+2021-01-07 21.00.51: <Fuel> All fuel stations have been respawned.
+2021-01-07 21.01.33: <General> Player James Johnson has loaded and is waiting for a temp-key.
+2021-01-07 21.01.34: <General> Sent API key to player James Johnson. 99 keys left.
+2021-01-07 21.01.34: <General> Initializing player James Johnson.
+2021-01-07 21.01.35: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2021-01-07 21.01.36: <General> Sent API key to player Al Shebab. 98 keys left.
+2021-01-07 21.01.36: <General> Initializing player Al Shebab.
+2021-01-07 21.02.06: <General> Player Jared Pions Debra has loaded and is waiting for a temp-key.
+2021-01-07 21.02.06: <General> Sent API key to player Jared Pions Debra. 97 keys left.
+2021-01-07 21.02.06: <General> Initializing player Jared Pions Debra.
+2021-01-07 21.02.17: <General> Player brexit has loaded and is waiting for a temp-key.
+2021-01-07 21.02.18: <General> Sent API key to player brexit. 96 keys left.
+2021-01-07 21.02.18: <General> Initializing player brexit.
+2021-01-07 21.02.26: <General> Player Aiden Chronkzer has loaded and is waiting for a temp-key.
+2021-01-07 21.02.26: <General> Sent API key to player Aiden Chronkzer. 95 keys left.
+2021-01-07 21.02.27: <General> Initializing player Aiden Chronkzer.
+2021-01-07 21.02.44: <General> Player Lil Kitty has loaded and is waiting for a temp-key.
+2021-01-07 21.02.45: <General> Sent API key to player Lil Kitty. 94 keys left.
+2021-01-07 21.02.45: <General> Initializing player Lil Kitty.
+2021-01-07 21.02.45: <General> Player Scott Froml has loaded and is waiting for a temp-key.
+2021-01-07 21.02.47: <General> Sent API key to player Scott Froml. 93 keys left.
+2021-01-07 21.02.47: <General> Initializing player Scott Froml.
+2021-01-07 21.02.49: <General> Player Semen Demon has loaded and is waiting for a temp-key.
+2021-01-07 21.02.51: <General> Sent API key to player Semen Demon. 92 keys left.
+2021-01-07 21.02.51: <General> Initializing player Semen Demon.
+2021-01-07 21.03.11: <General> Player Bill cosby has loaded and is waiting for a temp-key.
+2021-01-07 21.03.13: <General> Sent API key to player Bill cosby. 91 keys left.
+2021-01-07 21.03.13: <General> Initializing player Bill cosby.
+2021-01-07 21.03.21: <General> Player bong has loaded and is waiting for a temp-key.
+2021-01-07 21.03.23: <General> Sent API key to player bong. 90 keys left.
+2021-01-07 21.03.23: <General> Initializing player bong.
+2021-01-07 21.03.39: <General> Vehicle data "Bugatti Veyron" loaded.
+2021-01-07 21.05.29: <General> Player Saddam Hussien has loaded and is waiting for a temp-key.
+2021-01-07 21.05.29: <General> Sent API key to player Saddam Hussien. 89 keys left.
+2021-01-07 21.05.30: <General> Initializing player Saddam Hussien.
+2021-01-07 21.05.45: <General> Player Erik Hampton has loaded and is waiting for a temp-key.
+2021-01-07 21.05.46: <General> Sent API key to player Erik Hampton. 88 keys left.
+2021-01-07 21.05.46: <General> Initializing player Erik Hampton.
+2021-01-07 21.06.32: <General> Player bing has loaded and is waiting for a temp-key.
+2021-01-07 21.06.32: <General> Sent API key to player bing. 87 keys left.
+2021-01-07 21.06.32: <General> Initializing player bing.
+2021-01-07 21.08.42: <General> Player DJ Bread has loaded and is waiting for a temp-key.
+2021-01-07 21.08.43: <General> Sent API key to player DJ Bread. 86 keys left.
+2021-01-07 21.08.43: <General> Initializing player DJ Bread.
+2021-01-07 21.08.59: <General> Player Apple Cider has loaded and is waiting for a temp-key.
+2021-01-07 21.08.59: <General> Sent API key to player Apple Cider. 85 keys left.
+2021-01-07 21.08.59: <General> Initializing player Apple Cider.
+2021-01-07 21.12.01: <General> Player Issac Wilderson has loaded and is waiting for a temp-key.
+2021-01-07 21.12.02: <General> Sent API key to player Issac Wilderson. 84 keys left.
+2021-01-07 21.12.02: <General> Initializing player Issac Wilderson.
+2021-01-07 21.12.10: <General> Player doctor has loaded and is waiting for a temp-key.
+2021-01-07 21.12.10: <General> Sent API key to player doctor. 83 keys left.
+2021-01-07 21.12.10: <General> Initializing player doctor.
+2021-01-07 21.14.55: <General> Player Matin Lose has loaded and is waiting for a temp-key.
+2021-01-07 21.14.55: <General> Sent API key to player Matin Lose. 82 keys left.
+2021-01-07 21.14.55: <General> Initializing player Matin Lose.
+2021-01-07 21.15.25: <General> Vehicle data "McLaren P1" loaded.
+2021-01-07 21.21.14: <General> Vehicle data "Ferrari 458 Spider" loaded.
+2021-01-07 21.21.52: <General> Player Bob Dober has loaded and is waiting for a temp-key.
+2021-01-07 21.21.53: <General> Sent API key to player Bob Dober. 81 keys left.
+2021-01-07 21.21.53: <General> Initializing player Bob Dober.
+2021-01-07 21.23.51: <General> Player benjamin doe has loaded and is waiting for a temp-key.
+2021-01-07 21.23.52: <General> Sent API key to player benjamin doe. 80 keys left.
+2021-01-07 21.23.52: <General> Initializing player benjamin doe.
+2021-01-07 21.28.54: <General> Player Bill cosby has loaded and is waiting for a temp-key.
+2021-01-07 21.28.55: <General> Sent API key to player Bill cosby. 79 keys left.
+2021-01-07 21.28.55: <General> Initializing player Bill cosby.
+2021-01-07 21.29.11: <General> Player Matin Lose has loaded and is waiting for a temp-key.
+2021-01-07 21.29.11: <General> Sent API key to player Matin Lose. 78 keys left.
+2021-01-07 21.29.11: <General> Initializing player Matin Lose.
+2021-01-07 21.30.16: <General> Player autimis Prime has loaded and is waiting for a temp-key.
+2021-01-07 21.30.18: <General> Sent API key to player autimis Prime. 77 keys left.
+2021-01-07 21.30.18: <General> Initializing player autimis Prime.
+2021-01-07 21.31.36: <General> Player chopper read has loaded and is waiting for a temp-key.
+2021-01-07 21.31.38: <General> Sent API key to player chopper read. 76 keys left.
+2021-01-07 21.31.38: <General> Initializing player chopper read.
+2021-01-07 21.36.51: <General> Player Matin Lose has loaded and is waiting for a temp-key.
+2021-01-07 21.36.52: <General> Sent API key to player Matin Lose. 75 keys left.
+2021-01-07 21.36.52: <General> Initializing player Matin Lose.
+2021-01-07 21.38.01: <General> Player Walter White has loaded and is waiting for a temp-key.
+2021-01-07 21.38.02: <General> Sent API key to player Walter White. 74 keys left.
+2021-01-07 21.38.02: <General> Initializing player Walter White.
+2021-01-07 21.42.24: <General> Player Vivienne Westwood has loaded and is waiting for a temp-key.
+2021-01-07 21.42.25: <General> Sent API key to player Vivienne Westwood. 73 keys left.
+2021-01-07 21.42.25: <General> Initializing player Vivienne Westwood.
+2021-01-07 21.44.38: <General> Player Matin Lose has loaded and is waiting for a temp-key.
+2021-01-07 21.44.38: <General> Sent API key to player Matin Lose. 72 keys left.
+2021-01-07 21.44.38: <General> Initializing player Matin Lose.
+2021-01-07 21.45.52: <General> Player bing has loaded and is waiting for a temp-key.
+2021-01-07 21.45.52: <General> Sent API key to player bing. 71 keys left.
+2021-01-07 21.45.52: <General> Initializing player bing.
+2021-01-07 21.47.59: <General> Vehicle data "Bugatti Veyron SS" loaded.
+2021-01-07 21.56.08: <General> Player Ferro has loaded and is waiting for a temp-key.
+2021-01-07 21.56.10: <General> Sent API key to player Ferro. 70 keys left.
+2021-01-07 21.56.10: <General> Initializing player Ferro.
+2021-01-07 21.59.32: <General> Vehicle data "Nissan Skyline R34" loaded.
+2021-01-07 22.01.47: <General> Player Asentr1c. has loaded and is waiting for a temp-key.
+2021-01-07 22.01.49: <General> Sent API key to player Asentr1c.. 69 keys left.
+2021-01-07 22.01.49: <General> Initializing player Asentr1c..
+2021-01-07 22.05.00: <General> Player brexit has loaded and is waiting for a temp-key.
+2021-01-07 22.05.02: <General> Sent API key to player brexit. 68 keys left.
+2021-01-07 22.05.02: <General> Initializing player brexit.
+2021-01-07 22.11.41: <General> Player kid got permanently sleepy time has loaded and is waiting for a temp-key.
+2021-01-07 22.11.42: <General> Sent API key to player kid got permanently sleepy time. 67 keys left.
+2021-01-07 22.11.42: <General> Initializing player kid got permanently sleepy time.
+2021-01-07 22.12.58: <General> Player Asentr1c. has loaded and is waiting for a temp-key.
+2021-01-07 22.12.59: <General> Sent API key to player Asentr1c.. 66 keys left.
+2021-01-07 22.12.59: <General> Initializing player Asentr1c..
+2021-01-07 22.17.59: <General> Player greg gerry has loaded and is waiting for a temp-key.
+2021-01-07 22.18.00: <General> Sent API key to player greg gerry. 65 keys left.
+2021-01-07 22.18.00: <General> Initializing player greg gerry.
+2021-01-07 22.32.23: <General> Player smittyjacob has loaded and is waiting for a temp-key.
+2021-01-07 22.32.24: <General> Sent API key to player smittyjacob. 64 keys left.
+2021-01-07 22.32.24: <General> Initializing player smittyjacob.
+2021-01-07 22.33.08: <General> Player LotRDork2000 has loaded and is waiting for a temp-key.
+2021-01-07 22.33.09: <General> Sent API key to player LotRDork2000. 63 keys left.
+2021-01-07 22.33.09: <General> Initializing player LotRDork2000.
+2021-01-07 22.40.42: <General> Player Biggis Dickis has loaded and is waiting for a temp-key.
+2021-01-07 22.40.43: <General> Sent API key to player Biggis Dickis. 62 keys left.
+2021-01-07 22.40.43: <General> Initializing player Biggis Dickis.
+2021-01-07 22.45.10: <General> Player Kasan sadavi has loaded and is waiting for a temp-key.
+2021-01-07 22.45.10: <General> Sent API key to player Kasan sadavi. 61 keys left.
+2021-01-07 22.45.10: <General> Initializing player Kasan sadavi.
+2021-01-07 22.46.03: <General> Player jimmy joe has loaded and is waiting for a temp-key.
+2021-01-07 22.46.05: <General> Sent API key to player jimmy joe. 60 keys left.
+2021-01-07 22.46.05: <General> Initializing player jimmy joe.
+2021-01-07 22.48.29: <General> Player DropBear has loaded and is waiting for a temp-key.
+2021-01-07 22.48.29: <General> Sent API key to player DropBear. 59 keys left.
+2021-01-07 22.48.29: <General> Initializing player DropBear.
+2021-01-07 22.51.47: <General> Player Kasan sadavi has loaded and is waiting for a temp-key.
+2021-01-07 22.51.48: <General> Sent API key to player Kasan sadavi. 58 keys left.
+2021-01-07 22.51.48: <General> Initializing player Kasan sadavi.
+2021-01-07 23.01.17: <General> Player DropBear has loaded and is waiting for a temp-key.
+2021-01-07 23.01.19: <General> Sent API key to player DropBear. 57 keys left.
+2021-01-07 23.01.19: <General> Initializing player DropBear.
+2021-01-07 23.05.01: <General> Player James Johnson has loaded and is waiting for a temp-key.
+2021-01-07 23.05.02: <General> Sent API key to player James Johnson. 56 keys left.
+2021-01-07 23.05.02: <General> Initializing player James Johnson.
+2021-01-07 23.07.02: <General> Player Walter White has loaded and is waiting for a temp-key.
+2021-01-07 23.07.03: <General> Sent API key to player Walter White. 55 keys left.
+2021-01-07 23.07.03: <General> Initializing player Walter White.
+2021-01-07 23.09.05: <General> Player James Greg has loaded and is waiting for a temp-key.
+2021-01-07 23.09.05: <General> Sent API key to player James Greg. 54 keys left.
+2021-01-07 23.09.05: <General> Initializing player James Greg.
+2021-01-07 23.12.26: <General> Player Harry Johnson has loaded and is waiting for a temp-key.
+2021-01-07 23.12.26: <General> Sent API key to player Harry Johnson. 53 keys left.
+2021-01-07 23.12.26: <General> Initializing player Harry Johnson.
+2021-01-07 23.20.08: <General> Player Saddam Hussien has loaded and is waiting for a temp-key.
+2021-01-07 23.20.09: <General> Sent API key to player Saddam Hussien. 52 keys left.
+2021-01-07 23.20.09: <General> Initializing player Saddam Hussien.
+2021-01-07 23.21.50: <General> Player jacob last has loaded and is waiting for a temp-key.
+2021-01-07 23.21.51: <General> Sent API key to player jacob last. 51 keys left.
+2021-01-07 23.21.51: <General> Initializing player jacob last.
+2021-01-07 23.22.11: <General> Vehicle data "Mazda RX-8" loaded.
+2021-01-07 23.25.00: <General> Player Bob the builder has loaded and is waiting for a temp-key.
+2021-01-07 23.25.00: <General> Sent API key to player Bob the builder. 50 keys left.
+2021-01-07 23.25.00: <General> Initializing player Bob the builder.
+2021-01-07 23.35.39: <General> Player Bob the builder has loaded and is waiting for a temp-key.
+2021-01-07 23.35.39: <General> Sent API key to player Bob the builder. 49 keys left.
+2021-01-07 23.35.39: <General> Initializing player Bob the builder.
+2021-01-07 23.38.44: <General> Player jacob last has loaded and is waiting for a temp-key.
+2021-01-07 23.38.44: <General> Sent API key to player jacob last. 48 keys left.
+2021-01-07 23.38.44: <General> Initializing player jacob last.
+2021-01-07 23.43.14: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2021-01-07 23.43.16: <General> Sent API key to player Al Shebab. 47 keys left.
+2021-01-07 23.43.16: <General> Initializing player Al Shebab.
+2021-01-07 23.50.47: <General> Player DJ JoozBrorg has loaded and is waiting for a temp-key.
+2021-01-07 23.50.48: <General> Sent API key to player DJ JoozBrorg. 46 keys left.
+2021-01-07 23.50.48: <General> Initializing player DJ JoozBrorg.
+2021-01-07 23.59.44: <General> Player John Stone has loaded and is waiting for a temp-key.
+2021-01-07 23.59.45: <General> Sent API key to player John Stone. 45 keys left.
+2021-01-07 23.59.45: <General> Initializing player John Stone.
+2021-01-08 00.07.47: <General> Player ThiccyKai has loaded and is waiting for a temp-key.
+2021-01-08 00.07.47: <General> Sent API key to player ThiccyKai. 44 keys left.
+2021-01-08 00.07.47: <General> Initializing player ThiccyKai.
+2021-01-08 00.10.23: <General> Vehicle data "Ferrari LaFerrari" loaded.
+2021-01-08 00.10.53: <General> Player unknown_jack has loaded and is waiting for a temp-key.
+2021-01-08 00.10.54: <General> Sent API key to player unknown_jack. 43 keys left.
+2021-01-08 00.10.54: <General> Initializing player unknown_jack.
+2021-01-08 00.12.17: <General> Vehicle data "Mazda RX-7" loaded.
+2021-01-08 00.13.43: <General> Vehicle data "Mercedes-Benz E63 AMG" loaded.
+2021-01-08 00.13.58: <General> Player ThiccyKai has loaded and is waiting for a temp-key.
+2021-01-08 00.13.59: <General> Sent API key to player ThiccyKai. 42 keys left.
+2021-01-08 00.13.59: <General> Initializing player ThiccyKai.
+2021-01-08 00.17.54: <General> Player Jakieboi362 has loaded and is waiting for a temp-key.
+2021-01-08 00.17.54: <General> Sent API key to player Jakieboi362. 41 keys left.
+2021-01-08 00.17.54: <General> Initializing player Jakieboi362.
+2021-01-08 00.19.40: <General> Vehicle data "Mazda Furai" loaded.
+2021-01-08 00.26.34: <General> Player Baino has loaded and is waiting for a temp-key.
+2021-01-08 00.26.35: <General> Sent API key to player Baino. 40 keys left.
+2021-01-08 00.26.35: <General> Initializing player Baino.
+2021-01-08 00.29.56: <General> Player GOD has loaded and is waiting for a temp-key.
+2021-01-08 00.29.56: <General> Sent API key to player GOD. 39 keys left.
+2021-01-08 00.29.56: <General> Initializing player GOD.
+2021-01-08 00.30.45: <General> Player Sum Ting Wong has loaded and is waiting for a temp-key.
+2021-01-08 00.30.46: <General> Sent API key to player Sum Ting Wong. 38 keys left.
+2021-01-08 00.30.46: <General> Initializing player Sum Ting Wong.
+2021-01-08 00.38.08: <General> Player jacob last has loaded and is waiting for a temp-key.
+2021-01-08 00.38.08: <General> Sent API key to player jacob last. 37 keys left.
+2021-01-08 00.38.08: <General> Initializing player jacob last.
+2021-01-08 00.47.36: <General> Player jacob last has loaded and is waiting for a temp-key.
+2021-01-08 00.47.37: <General> Sent API key to player jacob last. 36 keys left.
+2021-01-08 00.47.37: <General> Initializing player jacob last.
+2021-01-08 00.50.49: <General> Player Shmeal has loaded and is waiting for a temp-key.
+2021-01-08 00.50.50: <General> Sent API key to player Shmeal. 35 keys left.
+2021-01-08 00.50.50: <General> Initializing player Shmeal.
+2021-01-08 00.54.03: <General> Player littyippy has loaded and is waiting for a temp-key.
+2021-01-08 00.54.05: <General> Player (PGK) LoonJr has loaded and is waiting for a temp-key.
+2021-01-08 00.54.05: <General> Sent API key to player littyippy. 34 keys left.
+2021-01-08 00.54.05: <General> Initializing player littyippy.
+2021-01-08 00.54.05: <General> Sent API key to player (PGK) LoonJr. 33 keys left.
+2021-01-08 00.54.05: <General> Initializing player (PGK) LoonJr.
+2021-01-08 00.55.32: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 00.55.33: <General> Sent API key to player vulksun. 32 keys left.
+2021-01-08 00.55.33: <General> Initializing player vulksun.
+2021-01-08 00.57.55: <General> Player big o has loaded and is waiting for a temp-key.
+2021-01-08 00.57.56: <General> Sent API key to player big o. 31 keys left.
+2021-01-08 00.57.56: <General> Initializing player big o.
+2021-01-08 01.10.08: <General> Player widepeeked has loaded and is waiting for a temp-key.
+2021-01-08 01.10.10: <General> Sent API key to player widepeeked. 30 keys left.
+2021-01-08 01.10.10: <General> Initializing player widepeeked.
+2021-01-08 01.12.33: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 01.12.34: <General> Sent API key to player vulksun. 29 keys left.
+2021-01-08 01.12.34: <General> Initializing player vulksun.
+2021-01-08 01.15.21: <General> Player James Johnson has loaded and is waiting for a temp-key.
+2021-01-08 01.15.23: <General> Sent API key to player James Johnson. 28 keys left.
+2021-01-08 01.15.23: <General> Initializing player James Johnson.
+2021-01-08 01.16.37: <General> Player Johnny Sins has loaded and is waiting for a temp-key.
+2021-01-08 01.16.38: <General> Sent API key to player Johnny Sins. 27 keys left.
+2021-01-08 01.16.38: <General> Initializing player Johnny Sins.
+2021-01-08 01.19.30: <General> Player Sum Ting Wong has loaded and is waiting for a temp-key.
+2021-01-08 01.19.30: <General> Sent API key to player Sum Ting Wong. 26 keys left.
+2021-01-08 01.19.30: <General> Initializing player Sum Ting Wong.
+2021-01-08 01.20.16: <General> Player Icy Shine. has loaded and is waiting for a temp-key.
+2021-01-08 01.20.17: <General> Sent API key to player Icy Shine.. 25 keys left.
+2021-01-08 01.20.17: <General> Initializing player Icy Shine..
+2021-01-08 01.21.50: <General> Player Cunt has loaded and is waiting for a temp-key.
+2021-01-08 01.21.51: <General> Sent API key to player Cunt. 24 keys left.
+2021-01-08 01.21.51: <General> Initializing player Cunt.
+2021-01-08 01.22.13: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 01.22.13: <General> Sent API key to player vulksun. 23 keys left.
+2021-01-08 01.22.13: <General> Initializing player vulksun.
+2021-01-08 01.24.35: <General> Player big o has loaded and is waiting for a temp-key.
+2021-01-08 01.24.36: <General> Sent API key to player big o. 22 keys left.
+2021-01-08 01.24.36: <General> Initializing player big o.
+2021-01-08 01.27.43: <General> Player Icy Shine. has loaded and is waiting for a temp-key.
+2021-01-08 01.27.45: <General> Sent API key to player Icy Shine.. 21 keys left.
+2021-01-08 01.27.45: <General> Initializing player Icy Shine..
+2021-01-08 01.37.38: <General> Player HEY GOOOOOGLE has loaded and is waiting for a temp-key.
+2021-01-08 01.37.38: <General> Sent API key to player HEY GOOOOOGLE. 20 keys left.
+2021-01-08 01.37.38: <General> Initializing player HEY GOOOOOGLE.
+2021-01-08 01.37.48: <General> Player P3tep has loaded and is waiting for a temp-key.
+2021-01-08 01.37.50: <General> Sent API key to player P3tep. 19 keys left.
+2021-01-08 01.37.50: <General> Initializing player P3tep.
+2021-01-08 01.37.58: <General> API key amount too low, fetching new ones.
+2021-01-08 01.40.36: <General> Player Icy Shine. has loaded and is waiting for a temp-key.
+2021-01-08 01.40.37: <General> Sent API key to player Icy Shine.. 118 keys left.
+2021-01-08 01.40.37: <General> Initializing player Icy Shine..
+2021-01-08 01.42.51: <General> Player HEY GOOOOOGLE has loaded and is waiting for a temp-key.
+2021-01-08 01.42.51: <General> Sent API key to player HEY GOOOOOGLE. 117 keys left.
+2021-01-08 01.42.51: <General> Initializing player HEY GOOOOOGLE.
+2021-01-08 01.43.11: <General> Player Jebus Hoops has loaded and is waiting for a temp-key.
+2021-01-08 01.43.12: <General> Sent API key to player Jebus Hoops. 116 keys left.
+2021-01-08 01.43.12: <General> Initializing player Jebus Hoops.
+2021-01-08 01.45.06: <General> Player James Johnson has loaded and is waiting for a temp-key.
+2021-01-08 01.45.06: <General> Sent API key to player James Johnson. 115 keys left.
+2021-01-08 01.45.06: <General> Initializing player James Johnson.
+2021-01-08 01.46.50: <General> Player walter white has loaded and is waiting for a temp-key.
+2021-01-08 01.46.51: <General> Sent API key to player walter white. 114 keys left.
+2021-01-08 01.46.51: <General> Initializing player walter white.
+2021-01-08 01.47.18: <General> Player bong has loaded and is waiting for a temp-key.
+2021-01-08 01.47.19: <General> Sent API key to player bong. 113 keys left.
+2021-01-08 01.47.19: <General> Initializing player bong.
+2021-01-08 01.47.46: <General> Player Baino has loaded and is waiting for a temp-key.
+2021-01-08 01.47.47: <General> Sent API key to player Baino. 112 keys left.
+2021-01-08 01.47.47: <General> Initializing player Baino.
+2021-01-08 01.51.06: <General> Player GOD has loaded and is waiting for a temp-key.
+2021-01-08 01.51.06: <General> Sent API key to player GOD. 111 keys left.
+2021-01-08 01.51.06: <General> Initializing player GOD.
+2021-01-08 01.53.33: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 01.53.35: <General> Sent API key to player vulksun. 110 keys left.
+2021-01-08 01.53.35: <General> Initializing player vulksun.
+2021-01-08 01.53.54: <General> Player WILSON™ has loaded and is waiting for a temp-key.
+2021-01-08 01.53.55: <General> Sent API key to player WILSON™. 109 keys left.
+2021-01-08 01.53.55: <General> Initializing player WILSON™.
+2021-01-08 01.54.44: <General> Player Scott Froml has loaded and is waiting for a temp-key.
+2021-01-08 01.54.45: <General> Sent API key to player Scott Froml. 108 keys left.
+2021-01-08 01.54.45: <General> Initializing player Scott Froml.
+2021-01-08 01.58.13: <General> Player Semen Demon has loaded and is waiting for a temp-key.
+2021-01-08 01.58.14: <General> Sent API key to player Semen Demon. 107 keys left.
+2021-01-08 01.58.14: <General> Initializing player Semen Demon.
+2021-01-08 02.02.38: <General> Player conorlol has loaded and is waiting for a temp-key.
+2021-01-08 02.02.39: <General> Sent API key to player conorlol. 106 keys left.
+2021-01-08 02.02.39: <General> Initializing player conorlol.
+2021-01-08 02.04.16: <General> Player kuro has loaded and is waiting for a temp-key.
+2021-01-08 02.04.18: <General> Sent API key to player kuro. 105 keys left.
+2021-01-08 02.04.18: <General> Initializing player kuro.
+2021-01-08 02.04.32: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.04.32: <General> Sent API key to player vulksun. 104 keys left.
+2021-01-08 02.04.32: <General> Initializing player vulksun.
+2021-01-08 02.04.35: <General> Player Hilly has loaded and is waiting for a temp-key.
+2021-01-08 02.04.36: <General> Sent API key to player Hilly. 103 keys left.
+2021-01-08 02.04.36: <General> Initializing player Hilly.
+2021-01-08 02.08.49: <General> Player jstrok04 has loaded and is waiting for a temp-key.
+2021-01-08 02.08.49: <General> Sent API key to player jstrok04. 102 keys left.
+2021-01-08 02.08.49: <General> Initializing player jstrok04.
+2021-01-08 02.09.55: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.09.56: <General> Sent API key to player vulksun. 101 keys left.
+2021-01-08 02.09.56: <General> Initializing player vulksun.
+2021-01-08 02.11.10: <General> Player fat cunt has loaded and is waiting for a temp-key.
+2021-01-08 02.11.12: <General> Sent API key to player fat cunt. 100 keys left.
+2021-01-08 02.11.12: <General> Initializing player fat cunt.
+2021-01-08 02.13.34: <General> Player TheDragonWarrior🐉 has loaded and is waiting for a temp-key.
+2021-01-08 02.13.35: <General> Sent API key to player TheDragonWarrior🐉. 99 keys left.
+2021-01-08 02.13.35: <General> Initializing player TheDragonWarrior🐉.
+2021-01-08 02.13.56: <General> Player kuro has loaded and is waiting for a temp-key.
+2021-01-08 02.13.57: <General> Sent API key to player kuro. 98 keys left.
+2021-01-08 02.13.57: <General> Initializing player kuro.
+2021-01-08 02.16.45: <General> Player Scott Froml has loaded and is waiting for a temp-key.
+2021-01-08 02.16.46: <General> Sent API key to player Scott Froml. 97 keys left.
+2021-01-08 02.16.46: <General> Initializing player Scott Froml.
+2021-01-08 02.16.59: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.17.00: <General> Sent API key to player vulksun. 96 keys left.
+2021-01-08 02.17.00: <General> Initializing player vulksun.
+2021-01-08 02.24.10: <General> Player kuro has loaded and is waiting for a temp-key.
+2021-01-08 02.24.12: <General> Sent API key to player kuro. 95 keys left.
+2021-01-08 02.24.12: <General> Initializing player kuro.
+2021-01-08 02.26.16: <General> Player MrMoogy has loaded and is waiting for a temp-key.
+2021-01-08 02.26.16: <General> Sent API key to player MrMoogy. 94 keys left.
+2021-01-08 02.26.16: <General> Initializing player MrMoogy.
+2021-01-08 02.26.43: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.26.45: <General> Sent API key to player vulksun. 93 keys left.
+2021-01-08 02.26.45: <General> Initializing player vulksun.
+2021-01-08 02.30.02: <General> Player joshimoshi708 has loaded and is waiting for a temp-key.
+2021-01-08 02.30.04: <General> Sent API key to player joshimoshi708. 92 keys left.
+2021-01-08 02.30.04: <General> Initializing player joshimoshi708.
+2021-01-08 02.34.02: <General> Player MrMoogy has loaded and is waiting for a temp-key.
+2021-01-08 02.34.03: <General> Sent API key to player MrMoogy. 91 keys left.
+2021-01-08 02.34.03: <General> Initializing player MrMoogy.
+2021-01-08 02.36.06: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.36.07: <General> Sent API key to player vulksun. 90 keys left.
+2021-01-08 02.36.07: <General> Initializing player vulksun.
+2021-01-08 02.37.31: <General> Player Shmeal has loaded and is waiting for a temp-key.
+2021-01-08 02.37.32: <General> Sent API key to player Shmeal. 89 keys left.
+2021-01-08 02.37.32: <General> Initializing player Shmeal.
+2021-01-08 02.38.51: <General> Player Bill cosby has loaded and is waiting for a temp-key.
+2021-01-08 02.38.52: <General> Sent API key to player Bill cosby. 88 keys left.
+2021-01-08 02.38.52: <General> Initializing player Bill cosby.
+2021-01-08 02.39.13: <General> Player DJ Bread has loaded and is waiting for a temp-key.
+2021-01-08 02.39.14: <General> Sent API key to player DJ Bread. 87 keys left.
+2021-01-08 02.39.14: <General> Initializing player DJ Bread.
+2021-01-08 02.45.34: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.45.34: <General> Sent API key to player vulksun. 86 keys left.
+2021-01-08 02.45.34: <General> Initializing player vulksun.
+2021-01-08 02.48.14: <General> Player Nathan Perez has loaded and is waiting for a temp-key.
+2021-01-08 02.48.15: <General> Sent API key to player Nathan Perez. 85 keys left.
+2021-01-08 02.48.15: <General> Initializing player Nathan Perez.
+2021-01-08 02.51.11: <General> Player jimmy joe has loaded and is waiting for a temp-key.
+2021-01-08 02.51.12: <General> Sent API key to player jimmy joe. 84 keys left.
+2021-01-08 02.51.12: <General> Initializing player jimmy joe.
+2021-01-08 02.51.15: <General> Player Bill cosby has loaded and is waiting for a temp-key.
+2021-01-08 02.51.16: <General> Sent API key to player Bill cosby. 83 keys left.
+2021-01-08 02.51.16: <General> Initializing player Bill cosby.
+2021-01-08 02.54.08: <General> Player Bob Dober has loaded and is waiting for a temp-key.
+2021-01-08 02.54.09: <General> Sent API key to player Bob Dober. 82 keys left.
+2021-01-08 02.54.09: <General> Initializing player Bob Dober.
+2021-01-08 02.55.13: <General> Player Saddam Hussien has loaded and is waiting for a temp-key.
+2021-01-08 02.55.13: <General> Sent API key to player Saddam Hussien. 81 keys left.
+2021-01-08 02.55.13: <General> Initializing player Saddam Hussien.
+2021-01-08 02.56.52: <General> Player Aiden Chronkzer has loaded and is waiting for a temp-key.
+2021-01-08 02.56.54: <General> Sent API key to player Aiden Chronkzer. 80 keys left.
+2021-01-08 02.56.54: <General> Initializing player Aiden Chronkzer.
+2021-01-08 02.57.59: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 02.58.00: <General> Sent API key to player vulksun. 79 keys left.
+2021-01-08 02.58.00: <General> Initializing player vulksun.
+2021-01-08 02.59.40: <General> Player tarareberger1961 has loaded and is waiting for a temp-key.
+2021-01-08 02.59.40: <General> Sent API key to player tarareberger1961. 78 keys left.
+2021-01-08 02.59.40: <General> Initializing player tarareberger1961.
+2021-01-08 03.06.34: <General> Player Jet_29 has loaded and is waiting for a temp-key.
+2021-01-08 03.06.34: <General> Sent API key to player Jet_29. 77 keys left.
+2021-01-08 03.06.34: <General> Initializing player Jet_29.
+2021-01-08 03.06.39: <General> Player goblin gent has loaded and is waiting for a temp-key.
+2021-01-08 03.06.39: <General> Sent API key to player goblin gent. 76 keys left.
+2021-01-08 03.06.39: <General> Initializing player goblin gent.
+2021-01-08 03.07.21: <General> Player tarareberger1961 has loaded and is waiting for a temp-key.
+2021-01-08 03.07.23: <General> Sent API key to player tarareberger1961. 75 keys left.
+2021-01-08 03.07.23: <General> Initializing player tarareberger1961.
+2021-01-08 03.09.20: <General> Player Jub-Jub has loaded and is waiting for a temp-key.
+2021-01-08 03.09.21: <General> Sent API key to player Jub-Jub. 74 keys left.
+2021-01-08 03.09.21: <General> Initializing player Jub-Jub.
+2021-01-08 03.09.35: <General> Player JEW has loaded and is waiting for a temp-key.
+2021-01-08 03.09.35: <General> Sent API key to player JEW. 73 keys left.
+2021-01-08 03.09.35: <General> Initializing player JEW.
+2021-01-08 03.10.56: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 03.10.58: <General> Sent API key to player vulksun. 72 keys left.
+2021-01-08 03.10.58: <General> Initializing player vulksun.
+2021-01-08 03.13.43: <General> Player goblin gent has loaded and is waiting for a temp-key.
+2021-01-08 03.13.43: <General> Sent API key to player goblin gent. 71 keys left.
+2021-01-08 03.13.43: <General> Initializing player goblin gent.
+2021-01-08 03.14.07: <General> Player Jet_29 has loaded and is waiting for a temp-key.
+2021-01-08 03.14.07: <General> Sent API key to player Jet_29. 70 keys left.
+2021-01-08 03.14.07: <General> Initializing player Jet_29.
+2021-01-08 03.14.34: <General> Player goblin gamer has loaded and is waiting for a temp-key.
+2021-01-08 03.14.35: <General> Sent API key to player goblin gamer. 69 keys left.
+2021-01-08 03.14.35: <General> Initializing player goblin gamer.
+2021-01-08 03.14.41: <General> Player Issac Wilderson has loaded and is waiting for a temp-key.
+2021-01-08 03.14.43: <General> Sent API key to player Issac Wilderson. 68 keys left.
+2021-01-08 03.14.43: <General> Initializing player Issac Wilderson.
+2021-01-08 03.16.37: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 03.16.38: <General> Sent API key to player vulksun. 67 keys left.
+2021-01-08 03.16.38: <General> Initializing player vulksun.
+2021-01-08 03.18.14: <General> Player kuro has loaded and is waiting for a temp-key.
+2021-01-08 03.18.16: <General> Sent API key to player kuro. 66 keys left.
+2021-01-08 03.18.16: <General> Initializing player kuro.
+2021-01-08 03.18.42: <General> Player DynamiteDemolisher has loaded and is waiting for a temp-key.
+2021-01-08 03.18.42: <General> Sent API key to player DynamiteDemolisher. 65 keys left.
+2021-01-08 03.18.42: <General> Initializing player DynamiteDemolisher.
+2021-01-08 03.22.22: <General> Player 安 迪 I CHINA NUMBER 1 has loaded and is waiting for a temp-key.
+2021-01-08 03.22.23: <General> Sent API key to player 安 迪 I CHINA NUMBER 1. 64 keys left.
+2021-01-08 03.22.23: <General> Initializing player 安 迪 I CHINA NUMBER 1.
+2021-01-08 03.24.08: <General> Player seskiip_ cs.money freeskins.com has loaded and is waiting for a temp-key.
+2021-01-08 03.24.10: <General> Sent API key to player seskiip_ cs.money freeskins.com. 63 keys left.
+2021-01-08 03.24.10: <General> Initializing player seskiip_ cs.money freeskins.com.
+2021-01-08 03.26.17: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 03.26.18: <General> Sent API key to player vulksun. 62 keys left.
+2021-01-08 03.26.18: <General> Initializing player vulksun.
+2021-01-08 03.26.52: <General> Player DynamiteDemolisher has loaded and is waiting for a temp-key.
+2021-01-08 03.26.53: <General> Sent API key to player DynamiteDemolisher. 61 keys left.
+2021-01-08 03.26.53: <General> Initializing player DynamiteDemolisher.
+2021-01-08 03.33.23: <General> Player Johnny Sins has loaded and is waiting for a temp-key.
+2021-01-08 03.33.25: <General> Sent API key to player Johnny Sins. 60 keys left.
+2021-01-08 03.33.25: <General> Initializing player Johnny Sins.
+2021-01-08 03.33.26: <General> Player lolking2020 has loaded and is waiting for a temp-key.
+2021-01-08 03.33.27: <General> Sent API key to player lolking2020. 59 keys left.
+2021-01-08 03.33.27: <General> Initializing player lolking2020.
+2021-01-08 03.36.30: <General> Player Nathan Perez has loaded and is waiting for a temp-key.
+2021-01-08 03.36.31: <General> Sent API key to player Nathan Perez. 58 keys left.
+2021-01-08 03.36.31: <General> Initializing player Nathan Perez.
+2021-01-08 03.39.01: <General> Player WILSON™ has loaded and is waiting for a temp-key.
+2021-01-08 03.39.02: <General> Sent API key to player WILSON™. 57 keys left.
+2021-01-08 03.39.02: <General> Initializing player WILSON™.
+2021-01-08 03.39.21: <General> Player Memzrs has loaded and is waiting for a temp-key.
+2021-01-08 03.39.22: <General> Sent API key to player Memzrs. 56 keys left.
+2021-01-08 03.39.22: <General> Initializing player Memzrs.
+2021-01-08 03.39.31: <General> Player DynamiteDemolisher has loaded and is waiting for a temp-key.
+2021-01-08 03.39.31: <General> Player human has loaded and is waiting for a temp-key.
+2021-01-08 03.39.32: <General> Sent API key to player DynamiteDemolisher. 55 keys left.
+2021-01-08 03.39.32: <General> Initializing player DynamiteDemolisher.
+2021-01-08 03.39.32: <General> Sent API key to player human. 54 keys left.
+2021-01-08 03.39.32: <General> Initializing player human.
+2021-01-08 03.40.07: <General> Player 安 迪 I CHINA NUMBER 1 has loaded and is waiting for a temp-key.
+2021-01-08 03.40.09: <General> Sent API key to player 安 迪 I CHINA NUMBER 1. 53 keys left.
+2021-01-08 03.40.09: <General> Initializing player 安 迪 I CHINA NUMBER 1.
+2021-01-08 03.42.49: <General> Player kooky has loaded and is waiting for a temp-key.
+2021-01-08 03.42.49: <General> Sent API key to player kooky. 52 keys left.
+2021-01-08 03.42.49: <General> Initializing player kooky.
+2021-01-08 03.43.14: <General> Player Johnny Sins has loaded and is waiting for a temp-key.
+2021-01-08 03.43.15: <General> Sent API key to player Johnny Sins. 51 keys left.
+2021-01-08 03.43.15: <General> Initializing player Johnny Sins.
+2021-01-08 03.44.05: <General> Player ozzy has loaded and is waiting for a temp-key.
+2021-01-08 03.44.06: <General> Sent API key to player ozzy. 50 keys left.
+2021-01-08 03.44.06: <General> Initializing player ozzy.
+2021-01-08 03.44.27: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 03.44.28: <General> Sent API key to player vulksun. 49 keys left.
+2021-01-08 03.44.28: <General> Initializing player vulksun.
+2021-01-08 03.47.19: <General> Player human has loaded and is waiting for a temp-key.
+2021-01-08 03.47.21: <General> Sent API key to player human. 48 keys left.
+2021-01-08 03.47.21: <General> Initializing player human.
+2021-01-08 03.49.42: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2021-01-08 03.49.43: <General> Sent API key to player Al Shebab. 47 keys left.
+2021-01-08 03.49.43: <General> Initializing player Al Shebab.
+2021-01-08 03.50.35: <General> Player tarareberger1961 has loaded and is waiting for a temp-key.
+2021-01-08 03.50.36: <General> Sent API key to player tarareberger1961. 46 keys left.
+2021-01-08 03.50.36: <General> Initializing player tarareberger1961.
+2021-01-08 03.50.49: <General> Player DynamiteDemolisher has loaded and is waiting for a temp-key.
+2021-01-08 03.50.50: <General> Sent API key to player DynamiteDemolisher. 45 keys left.
+2021-01-08 03.50.50: <General> Initializing player DynamiteDemolisher.
+2021-01-08 03.51.45: <General> Player kooky has loaded and is waiting for a temp-key.
+2021-01-08 03.51.46: <General> Sent API key to player kooky. 44 keys left.
+2021-01-08 03.51.46: <General> Initializing player kooky.
+2021-01-08 04.01.54: <General> Player Shmeal has loaded and is waiting for a temp-key.
+2021-01-08 04.01.55: <General> Sent API key to player Shmeal. 43 keys left.
+2021-01-08 04.01.55: <General> Initializing player Shmeal.
+2021-01-08 04.02.17: <General> Player kooky has loaded and is waiting for a temp-key.
+2021-01-08 04.02.17: <General> Sent API key to player kooky. 42 keys left.
+2021-01-08 04.02.17: <General> Initializing player kooky.
+2021-01-08 04.05.11: <General> Player BrockStar99 has loaded and is waiting for a temp-key.
+2021-01-08 04.05.12: <General> Sent API key to player BrockStar99. 41 keys left.
+2021-01-08 04.05.12: <General> Initializing player BrockStar99.
+2021-01-08 04.07.07: <General> Player Agent 14 has loaded and is waiting for a temp-key.
+2021-01-08 04.07.09: <General> Sent API key to player Agent 14. 40 keys left.
+2021-01-08 04.07.09: <General> Initializing player Agent 14.
+2021-01-08 04.07.09: <General> Player Memzrs has loaded and is waiting for a temp-key.
+2021-01-08 04.07.11: <General> Sent API key to player Memzrs. 39 keys left.
+2021-01-08 04.07.11: <General> Initializing player Memzrs.
+2021-01-08 04.07.32: <General> Player tarareberger1961 has loaded and is waiting for a temp-key.
+2021-01-08 04.07.33: <General> Sent API key to player tarareberger1961. 38 keys left.
+2021-01-08 04.07.33: <General> Initializing player tarareberger1961.
+2021-01-08 04.09.42: <General> Player John Miles has loaded and is waiting for a temp-key.
+2021-01-08 04.09.43: <General> Sent API key to player John Miles. 37 keys left.
+2021-01-08 04.09.43: <General> Initializing player John Miles.
+2021-01-08 04.09.56: <General> Player marcus theoraire has loaded and is waiting for a temp-key.
+2021-01-08 04.09.57: <General> Sent API key to player marcus theoraire. 36 keys left.
+2021-01-08 04.09.57: <General> Initializing player marcus theoraire.
+2021-01-08 04.10.22: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 04.10.24: <General> Sent API key to player vulksun. 35 keys left.
+2021-01-08 04.10.24: <General> Initializing player vulksun.
+2021-01-08 04.11.53: <General> Player ... has loaded and is waiting for a temp-key.
+2021-01-08 04.11.54: <General> Sent API key to player .... 34 keys left.
+2021-01-08 04.11.54: <General> Initializing player ....
+2021-01-08 04.12.08: <General> Player Yeti has loaded and is waiting for a temp-key.
+2021-01-08 04.12.08: <General> Sent API key to player Yeti. 33 keys left.
+2021-01-08 04.12.08: <General> Initializing player Yeti.
+2021-01-08 04.12.14: <General> Player John Doe has loaded and is waiting for a temp-key.
+2021-01-08 04.12.16: <General> Sent API key to player John Doe. 32 keys left.
+2021-01-08 04.12.16: <General> Initializing player John Doe.
+2021-01-08 04.13.52: <General> Player vulksun has loaded and is waiting for a temp-key.
+2021-01-08 04.13.53: <General> Sent API key to player vulksun. 31 keys left.
+2021-01-08 04.13.53: <General> Initializing player vulksun.
+2021-01-08 04.18.14: <General> Player John Doe has loaded and is waiting for a temp-key.
+2021-01-08 04.18.16: <General> Sent API key to player John Doe. 30 keys left.
+2021-01-08 04.18.16: <General> Initializing player John Doe.
+2021-01-08 04.19.50: <General> Player kooky has loaded and is waiting for a temp-key.
+2021-01-08 04.19.50: <General> Sent API key to player kooky. 29 keys left.
+2021-01-08 04.19.50: <General> Initializing player kooky.
+2021-01-08 04.22.43: <General> Player lil hilli has loaded and is waiting for a temp-key.
+2021-01-08 04.22.43: <General> Sent API key to player lil hilli. 28 keys left.
+2021-01-08 04.22.43: <General> Initializing player lil hilli.
+2021-01-08 04.23.45: <General> Player John Doe has loaded and is waiting for a temp-key.
+2021-01-08 04.23.46: <General> Sent API key to player John Doe. 27 keys left.
+2021-01-08 04.23.46: <General> Initializing player John Doe.
+2021-01-08 04.26.29: <General> Player Nadoe has loaded and is waiting for a temp-key.
+2021-01-08 04.26.30: <General> Sent API key to player Nadoe. 26 keys left.
+2021-01-08 04.26.30: <General> Initializing player Nadoe.
+2021-01-08 04.26.38: <General> Player Bongs has loaded and is waiting for a temp-key.
+2021-01-08 04.26.38: <General> Sent API key to player Bongs. 25 keys left.
+2021-01-08 04.26.38: <General> Initializing player Bongs.
+2021-01-08 04.29.08: <General> Player Texy has loaded and is waiting for a temp-key.
+2021-01-08 04.29.09: <General> Sent API key to player Texy. 24 keys left.
+2021-01-08 04.29.09: <General> Initializing player Texy.
+2021-01-08 04.30.44: <General> Player Pizza Planet has loaded and is waiting for a temp-key.
+2021-01-08 04.30.46: <General> Sent API key to player Pizza Planet. 23 keys left.
+2021-01-08 04.30.46: <General> Initializing player Pizza Planet.
+2021-01-08 04.31.14: <General> Player quagga has loaded and is waiting for a temp-key.
+2021-01-08 04.31.16: <General> Sent API key to player quagga. 22 keys left.
+2021-01-08 04.31.16: <General> Initializing player quagga.
+2021-01-08 04.36.37: <General> Player MinTi has loaded and is waiting for a temp-key.
+2021-01-08 04.36.37: <General> Sent API key to player MinTi. 21 keys left.
+2021-01-08 04.36.37: <General> Initializing player MinTi.
+2021-01-08 04.37.26: <General> Player Bray ❤ has loaded and is waiting for a temp-key.
+2021-01-08 04.37.28: <General> Sent API key to player Bray ❤. 20 keys left.
+2021-01-08 04.37.28: <General> Initializing player Bray ❤.
+2021-01-08 04.39.33: <General> Player Lord Headass Roz has loaded and is waiting for a temp-key.
+2021-01-08 04.39.34: <General> Sent API key to player Lord Headass Roz. 19 keys left.
+2021-01-08 04.39.34: <General> Initializing player Lord Headass Roz.
+2021-01-08 04.39.43: <General> API key amount too low, fetching new ones.
+2021-01-08 04.41.01: <General> Player Brendan Goo has loaded and is waiting for a temp-key.
+2021-01-08 04.41.03: <General> Sent API key to player Brendan Goo. 118 keys left.
+2021-01-08 04.41.03: <General> Initializing player Brendan Goo.
+2021-01-08 04.46.16: <General> Player John Doe has loaded and is waiting for a temp-key.
+2021-01-08 04.46.18: <General> Sent API key to player John Doe. 117 keys left.
+2021-01-08 04.46.18: <General> Initializing player John Doe.
+2021-01-08 04.51.03: <General> Player jimmy joe has loaded and is waiting for a temp-key.
+2021-01-08 04.51.04: <General> Sent API key to player jimmy joe. 116 keys left.
+2021-01-08 04.51.04: <General> Initializing player jimmy joe.
+2021-01-08 04.51.38: <General> Player Avri Brisbane has loaded and is waiting for a temp-key.
+2021-01-08 04.51.40: <General> Sent API key to player Avri Brisbane. 115 keys left.
+2021-01-08 04.51.40: <General> Initializing player Avri Brisbane.
+2021-01-08 04.52.52: <General> Player suck my dick has loaded and is waiting for a temp-key.
+2021-01-08 04.52.52: <General> Sent API key to player suck my dick. 114 keys left.
+2021-01-08 04.52.52: <General> Initializing player suck my dick.
+2021-01-08 04.53.17: <General> Player Semen Demon has loaded and is waiting for a temp-key.
+2021-01-08 04.53.18: <General> Sent API key to player Semen Demon. 113 keys left.
+2021-01-08 04.53.18: <General> Initializing player Semen Demon.
+2021-01-08 04.56.29: <General> Player سقط خربش بلدي has loaded and is waiting for a temp-key.
+2021-01-08 04.56.29: <General> Sent API key to player سقط خربش بلدي. 112 keys left.
+2021-01-08 04.56.29: <General> Initializing player سقط خربش بلدي.
+2021-01-08 04.58.20: <General> Player Avri Brisbane has loaded and is waiting for a temp-key.
+2021-01-08 04.58.22: <General> Sent API key to player Avri Brisbane. 111 keys left.
+2021-01-08 04.58.22: <General> Initializing player Avri Brisbane.
+2021-01-08 04.59.21: <General> Player Agent 14 has loaded and is waiting for a temp-key.
+2021-01-08 04.59.22: <General> Sent API key to player Agent 14. 110 keys left.
+2021-01-08 04.59.22: <General> Initializing player Agent 14.
+2021-01-08 04.59.43: <General> Player human has loaded and is waiting for a temp-key.
+2021-01-08 04.59.44: <General> Sent API key to player human. 109 keys left.
+2021-01-08 04.59.44: <General> Initializing player human.
+2021-01-08 05.00.36: <General> Player DJ JoozBrorg has loaded and is waiting for a temp-key.
+2021-01-08 05.00.37: <General> Sent API key to player DJ JoozBrorg. 108 keys left.
+2021-01-08 05.00.37: <General> Initializing player DJ JoozBrorg.
+2021-01-08 05.10.36: <General> Player Agent 14 has loaded and is waiting for a temp-key.
+2021-01-08 05.10.38: <General> Sent API key to player Agent 14. 107 keys left.
+2021-01-08 05.10.38: <General> Initializing player Agent 14.
+2021-01-08 05.14.30: <General> Player seskiip_ cs.money freeskins.com has loaded and is waiting for a temp-key.
+2021-01-08 05.14.31: <General> Sent API key to player seskiip_ cs.money freeskins.com. 106 keys left.
+2021-01-08 05.14.31: <General> Initializing player seskiip_ cs.money freeskins.com.
+2021-01-08 05.17.47: <General> Player Johnson Doeson has loaded and is waiting for a temp-key.
+2021-01-08 05.17.48: <General> Sent API key to player Johnson Doeson. 105 keys left.
+2021-01-08 05.17.48: <General> Initializing player Johnson Doeson.
+2021-01-08 05.18.46: <General> Player James Greg has loaded and is waiting for a temp-key.
+2021-01-08 05.18.48: <General> Sent API key to player James Greg. 104 keys left.
+2021-01-08 05.18.48: <General> Initializing player James Greg.
+2021-01-08 05.20.23: <General> Player CrAzYbOnEs has loaded and is waiting for a temp-key.
+2021-01-08 05.20.25: <General> Sent API key to player CrAzYbOnEs. 103 keys left.
+2021-01-08 05.20.25: <General> Initializing player CrAzYbOnEs.
+2021-01-08 05.21.36: <General> Player Johnson Doeson has loaded and is waiting for a temp-key.
+2021-01-08 05.21.37: <General> Sent API key to player Johnson Doeson. 102 keys left.
+2021-01-08 05.21.37: <General> Initializing player Johnson Doeson.
+2021-01-08 05.22.32: <General> Player Bob Brown has loaded and is waiting for a temp-key.
+2021-01-08 05.22.33: <General> Sent API key to player Bob Brown. 101 keys left.
+2021-01-08 05.22.33: <General> Initializing player Bob Brown.
+2021-01-08 05.32.59: <General> Player Comrade Potato has loaded and is waiting for a temp-key.
+2021-01-08 05.33.00: <General> Sent API key to player Comrade Potato. 100 keys left.
+2021-01-08 05.33.00: <General> Initializing player Comrade Potato.
+2021-01-08 05.33.23: <General> Player TwoBitCounterfeit has loaded and is waiting for a temp-key.
+2021-01-08 05.33.24: <General> Sent API key to player TwoBitCounterfeit. 99 keys left.
+2021-01-08 05.33.24: <General> Initializing player TwoBitCounterfeit.
+2021-01-08 05.34.15: <General> Player Steve Jones has loaded and is waiting for a temp-key.
+2021-01-08 05.34.17: <General> Sent API key to player Steve Jones. 98 keys left.
+2021-01-08 05.34.17: <General> Initializing player Steve Jones.
+2021-01-08 05.35.08: <General> Player seskiip_ cs.money freeskins.com has loaded and is waiting for a temp-key.
+2021-01-08 05.35.09: <General> Sent API key to player seskiip_ cs.money freeskins.com. 97 keys left.
+2021-01-08 05.35.09: <General> Initializing player seskiip_ cs.money freeskins.com.
+2021-01-08 05.35.24: <General> Player Son Brown has loaded and is waiting for a temp-key.
+2021-01-08 05.35.25: <General> Sent API key to player Son Brown. 96 keys left.
+2021-01-08 05.35.25: <General> Initializing player Son Brown.
+2021-01-08 05.37.09: <General> Player TwoBitCounterfeit has loaded and is waiting for a temp-key.
+2021-01-08 05.37.10: <General> Sent API key to player TwoBitCounterfeit. 95 keys left.
+2021-01-08 05.37.10: <General> Initializing player TwoBitCounterfeit.
+2021-01-08 05.37.29: <General> Player Gordon has loaded and is waiting for a temp-key.
+2021-01-08 05.37.30: <General> Sent API key to player Gordon. 94 keys left.
+2021-01-08 05.37.30: <General> Initializing player Gordon.
+2021-01-08 05.38.10: <General> Player suck my dick has loaded and is waiting for a temp-key.
+2021-01-08 05.38.10: <General> Sent API key to player suck my dick. 93 keys left.
+2021-01-08 05.38.10: <General> Initializing player suck my dick.
+2021-01-08 05.40.18: <General> Player seskiip_ cs.money freeskins.com has loaded and is waiting for a temp-key.
+2021-01-08 05.40.18: <General> Sent API key to player seskiip_ cs.money freeskins.com. 92 keys left.
+2021-01-08 05.40.18: <General> Initializing player seskiip_ cs.money freeskins.com.
+2021-01-08 05.47.13: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2021-01-08 05.47.15: <General> Sent API key to player Al Shebab. 91 keys left.
+2021-01-08 05.47.15: <General> Initializing player Al Shebab.
+2021-01-08 05.49.19: <General> Player el rubio has loaded and is waiting for a temp-key.
+2021-01-08 05.49.19: <General> Sent API key to player el rubio. 90 keys left.
+2021-01-08 05.49.19: <General> Initializing player el rubio.
+2021-01-08 05.49.27: <General> Player dispanzer has loaded and is waiting for a temp-key.
+2021-01-08 05.49.29: <General> Sent API key to player dispanzer. 89 keys left.
+2021-01-08 05.49.29: <General> Initializing player dispanzer.
+2021-01-08 05.52.23: <General> Player Furboi has loaded and is waiting for a temp-key.
+2021-01-08 05.52.23: <General> Sent API key to player Furboi. 88 keys left.
+2021-01-08 05.52.23: <General> Initializing player Furboi.
+2021-01-08 05.55.08: <General> Player James Greg has loaded and is waiting for a temp-key.
+2021-01-08 05.55.08: <General> Sent API key to player James Greg. 87 keys left.
+2021-01-08 05.55.08: <General> Initializing player James Greg.
+2021-01-08 05.59.32: <General> Player El Choso has loaded and is waiting for a temp-key.
+2021-01-08 05.59.34: <General> Sent API key to player El Choso. 86 keys left.
+2021-01-08 05.59.34: <General> Initializing player El Choso.
+2021-01-08 06.00.47: <General> Player smill with has loaded and is waiting for a temp-key.
+2021-01-08 06.00.48: <General> Sent API key to player smill with. 85 keys left.
+2021-01-08 06.00.48: <General> Initializing player smill with.
+2021-01-08 06.02.00: <General> Player: Al Shebab(76561198166995690) has altered VCMod administrative settings.
+2021-01-08 06.02.16: <General> Player Issac Wilderson has loaded and is waiting for a temp-key.
+2021-01-08 06.02.18: <General> Sent API key to player Issac Wilderson. 84 keys left.
+2021-01-08 06.02.18: <General> Initializing player Issac Wilderson.
+2021-01-08 06.07.47: <General> Player kelvinhow990315 has loaded and is waiting for a temp-key.
+2021-01-08 06.11.08: <General> Player John Doe has loaded and is waiting for a temp-key.
+2021-01-08 06.11.09: <General> Sent API key to player John Doe. 83 keys left.
+2021-01-08 06.11.09: <General> Initializing player John Doe.
+2021-01-08 06.13.12: <General> Player Steve Barrows has loaded and is waiting for a temp-key.
+2021-01-08 06.13.14: <General> Sent API key to player Steve Barrows. 82 keys left.
+2021-01-08 06.13.14: <General> Initializing player Steve Barrows.

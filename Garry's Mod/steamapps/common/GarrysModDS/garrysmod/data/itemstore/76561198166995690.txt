@@ -1,1 +1,1 @@
-[{"Data":{"Amount":500.0},"Class":"spawned_money"}]
+[{"Data":{"Amount":1.0,"Contents":28.0,"Class":"m9k_m98b"},"Class":"spawned_shipment"},{"Data":{"Amount":7.0,"Contents":40.0,"Class":"durgz_heroine"},"Class":"spawned_shipment"},{"Data":{"Amount":10.0,"Contents":40.0,"Class":"durgz_heroine"},"Class":"spawned_shipment"},{"Data":{"Amount":10.0,"Contents":39.0,"Class":"durgz_cigarette"},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Contents":36.0,"Class":"m9k_rpg7"},"Class":"spawned_shipment"}]

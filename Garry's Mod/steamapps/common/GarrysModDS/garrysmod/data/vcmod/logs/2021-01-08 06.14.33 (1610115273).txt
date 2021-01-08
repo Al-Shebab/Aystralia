@@ -1,0 +1,5 @@
+2021-01-08 06.14.33: <General> Logging started, map: rp_downtown_tits_v1.
+2021-01-08 06.14.33: <General> Welcome to VCMod Auto-Updater version 9.65.
+2021-01-08 06.14.33: <General> Pre-initialization complete, preparing to load addon data.
+2021-01-08 06.14.33: <General> Addons found: VCMod Main.
+2021-01-08 06.15.09: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
