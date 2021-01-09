@@ -46,8 +46,7 @@ CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs t
 	"Swat Leader",
 	"Undercover Cop",
 	"Swat Medic",
-	"Swat Marksman",
-	"Mayor"
+	"Swat Marksman"
 }
 
 CH_ArmoryRobbery.Config.AllowedTeams = {}
