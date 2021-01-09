@@ -4,8 +4,8 @@ CH_ArmoryRobbery.Weapons = CH_ArmoryRobbery.Weapons or {}
 CH_ArmoryRobbery.Design = CH_ArmoryRobbery.Design or {}
 
 -- Section one. Handles money in the armory.
-CH_ArmoryRobbery.Config.MoneyTimer = 180 -- This is the time that defines when money is added to the armory. In seconds! [Default = 60 (1 Minute)]
-CH_ArmoryRobbery.Config.MoneyOnTime = 7500 -- This is the amount of money to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 2500]
+CH_ArmoryRobbery.Config.MoneyTimer = 600 -- This is the time that defines when money is added to the armory. In seconds! [Default = 60 (1 Minute)]
+CH_ArmoryRobbery.Config.MoneyOnTime = 0 -- This is the amount of money to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 2500]
 CH_ArmoryRobbery.Config.MaxMoney = 0 -- The maximum amount of money the armory can have. Set to 0 for no limit. [Default = 50000]
 
 -- Section two. Handles the ammonition part.
@@ -50,37 +50,25 @@ CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs t
 	"Mayor"
 }
 
-CH_ArmoryRobbery.Config.AllowedTeams = { -- These are the teams that are allowed to rob the armory.
-	"Thief",
-	"Pro Thief",
-	"Pro Hacker",
-	"Battle Medic",
-	"Blood",
-	"Blood Leader",
-	"Crip",
-	"Crip Leader",
-	"Mafia",
-	"Mafia Leader",
-	"Hacker"
-}
+CH_ArmoryRobbery.Config.AllowedTeams = {}
 
 -- Weapon armory configuration.
 CH_ArmoryRobbery.Weapons.Weapon1Name = "HK MP7"
 CH_ArmoryRobbery.Weapons.Weapon1WepName = "m9k_mp7"
 CH_ArmoryRobbery.Weapons.Weapon1AmmoType = "m9k_ammo_smg"
-CH_ArmoryRobbery.Weapons.Weapon1AmmoAmount = 30
+CH_ArmoryRobbery.Weapons.Weapon1AmmoAmount = 300
 CH_ArmoryRobbery.Weapons.Weapon1Model = "models/weapons/w_mp7_silenced.mdl"
 
 CH_ArmoryRobbery.Weapons.Weapon2Name = "MP9"
 CH_ArmoryRobbery.Weapons.Weapon2WepName = "m9k_mp9"
 CH_ArmoryRobbery.Weapons.Weapon2AmmoType = "m9k_ammo_smg"
-CH_ArmoryRobbery.Weapons.Weapon2AmmoAmount = 30
+CH_ArmoryRobbery.Weapons.Weapon2AmmoAmount = 300
 CH_ArmoryRobbery.Weapons.Weapon2Model = "models/weapons/w_brugger_thomet_mp9.mdl"
 
 CH_ArmoryRobbery.Weapons.Weapon3Name = "Honeybadger"
 CH_ArmoryRobbery.Weapons.Weapon3WepName = "m9k_honeybadger"
 CH_ArmoryRobbery.Weapons.Weapon3AmmoType = "m9k_ammo_smg"
-CH_ArmoryRobbery.Weapons.Weapon3AmmoAmount = 30
+CH_ArmoryRobbery.Weapons.Weapon3AmmoAmount = 300
 CH_ArmoryRobbery.Weapons.Weapon3Model = "models/weapons/w_aac_honeybadger.mdl"
 
 CH_ArmoryRobbery.Weapons.Cooldown = 5 -- Amount of minutes between being able to retrieve a weapon from the police armory as a government official. [Default = 5]
