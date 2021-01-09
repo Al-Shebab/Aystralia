@@ -22,7 +22,7 @@ BM2CONFIG.GeneratorPowerOutput = 15 --This should only be whole numbers, 10 == 1
 --speed for that bitminer. Making it lower than 1 makes it slower. 
 --Remember this is a multiplier so 1 = normal, 2 = twice as fast, 3 = three times as fast, 0.5 = half as slow
 BM2CONFIG.BitminerSpeedMulipliers = {
-	["bitminerS1"] = 1,
-	["bitminerS2"] = 1,
+	["bitminerS1"] = 3,
+	["bitminerS2"] = 3,
 	["bitminerRack"] = 1
 }
