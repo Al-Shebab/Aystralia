@@ -10,13 +10,13 @@ CH_ArmoryRobbery.Config.MaxMoney = 0 -- The maximum amount of money the armory c
 
 -- Section two. Handles the ammonition part.
 CH_ArmoryRobbery.Config.AmmoTimer = 240 -- This is the time that defines when ammo is added to the armory. In seconds! [Default = 240 (4 Minutes)]
-CH_ArmoryRobbery.Config.AmmoOnTime = 60 -- This is the amount of ammo to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 5]
-CH_ArmoryRobbery.Config.MaxAmmo = 100 -- The maximum amount of ammo the armory can have. Set to 0 for no limit. [Default = 100]
+CH_ArmoryRobbery.Config.AmmoOnTime = 0 -- This is the amount of ammo to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 5]
+CH_ArmoryRobbery.Config.MaxAmmo = 0 -- The maximum amount of ammo the armory can have. Set to 0 for no limit. [Default = 100]
 
 -- Section tree. Handles the shitment part.
 CH_ArmoryRobbery.Config.ShipmentsTimer = 360 -- This is the time that defines when shipments are added to the armory. In seconds! [Default = 360 (6 Minutes)]
-CH_ArmoryRobbery.Config.ShipmentsOnTime = 1 -- This is the amount of shipments to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 1]
-CH_ArmoryRobbery.Config.MaxShipments = 5 -- The maximum amount of shipments the armory can have. Set to 0 for no limit. [Default = 5]
+CH_ArmoryRobbery.Config.ShipmentsOnTime = 0 -- This is the amount of shipments to be added to the armory every x minutes/seconds. Defined by the setting above. [Default = 1]
+CH_ArmoryRobbery.Config.MaxShipments = 0 -- The maximum amount of shipments the armory can have. Set to 0 for no limit. [Default = 5]
 CH_ArmoryRobbery.Config.ShipmentsAmount = 10 -- Amount of weapons inside of one shipment. [Default = 10]
 
 -- General settings.
