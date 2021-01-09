@@ -15,20 +15,6 @@ Add your custom jobs under the following line:
 
 -- Civilians --
 
-TEAM_BANK_MANAGER = DarkRP.createJob("Bank Manager", {
-    color = Color(74, 255, 69, 255),
-    model = {"models/player/magnusson.mdl"},
-    description = [[Manages finances and pawns items to other for a fee. Can not raid/mug.]],
-    weapons = {},
-    command = "TEAM_BANK_MANAGER",
-    max = 1,
-    salary = 5000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Citizens"
-})
 JOB_CASINO_SECURITY = DarkRP.createJob("Casino Security", {
     color = Color(74, 255, 69, 255),
     model = {"models/player/portal/Male_04_security.mdl"},
