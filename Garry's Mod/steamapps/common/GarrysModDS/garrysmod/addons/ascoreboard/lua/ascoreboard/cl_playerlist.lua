@@ -68,7 +68,7 @@ function PANEL:Think()
 						self.Scroller.Teams[v:getDarkRPVar("job")].Col = team.GetColor(v:Team())
 					end
 
-					if v.aScoreboard:IsValid() and v.aScoreboardPanel:GetParent() != self.Scroller.Teams[v:getDarkRPVar("job")] then
+					if v.aScoreboardPanel:GetParent() != self.Scroller.Teams[v:getDarkRPVar("job")] then
 						v.aScoreboardPanel:SetParent(self.Scroller.Teams[v:getDarkRPVar("job")])
 					end
 
