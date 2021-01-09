@@ -24,5 +24,5 @@ BM2CONFIG.GeneratorPowerOutput = 15 --This should only be whole numbers, 10 == 1
 BM2CONFIG.BitminerSpeedMulipliers = {
 	["bitminerS1"] = 1,
 	["bitminerS2"] = 1,
-	["bitminerRack"] = 0.95
+	["bitminerRack"] = 1
 }
