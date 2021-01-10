@@ -263,11 +263,11 @@ GM.Config.searchtime                    = 30
 -- ShipmentSpawnTime - Antispam time between spawning shipments.
 GM.Config.ShipmentSpamTime              = 1
 -- shipmenttime - The number of seconds it takes for a shipment to spawn.
-GM.Config.shipmentspawntime             = 10
+GM.Config.shipmentspawntime             = 5
 -- startinghealth - the health when you spawn.
 GM.Config.startinghealth                = 100
 -- startingmoney - your wallet when you join for the first time.
-GM.Config.startingmoney                 = 50000
+GM.Config.startingmoney                 = 150000
 -- vehiclecost - Sets the cost of a vehicle (To own it).
 GM.Config.vehiclecost                   = 40
 -- wallettaxmax - Maximum percentage of tax to be paid.
@@ -297,7 +297,7 @@ GM.Config.talkDistance    = 450
 GM.Config.whisperDistance = 150
 GM.Config.yellDistance    = 750
 GM.Config.meDistance      = 350
-GM.Config.voiceDistance   = 750
+GM.Config.voiceDistance   = 850
 
 --[[---------------------------------------------------------------------------
 Other settings
