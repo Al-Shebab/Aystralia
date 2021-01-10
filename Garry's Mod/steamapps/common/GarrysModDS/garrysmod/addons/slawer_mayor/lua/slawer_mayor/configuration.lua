@@ -84,14 +84,9 @@ cfg.Upgrades[1] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 3000,
+			Price = 30000,
 			Weapons = {"m9k_mp5sd"},
 		},
-		[2] = {
-			Price = 7500,
-			Weapons = {"m9k_m4a1"},
-		},
-	}
 }
 
 cfg.Upgrades[2] = {
@@ -102,11 +97,11 @@ cfg.Upgrades[2] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 500,
+			Price = 5000,
 			SalaryBonus = 2500
 		},
 		[2] = {
-			Price = 5000,
+			Price = 50000,
 			SalaryBonus = 12000
 		},
 	}
@@ -120,7 +115,7 @@ cfg.Upgrades[3] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 2500,
+			Price = 25000,
 			DefaultArmor = 100
 		},
 	}
