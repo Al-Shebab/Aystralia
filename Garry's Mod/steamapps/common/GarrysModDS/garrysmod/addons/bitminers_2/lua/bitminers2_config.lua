@@ -8,7 +8,7 @@ BM2CONFIG.BitcoinValue = 29000
 
 --This is a value that when raising or lowering will effect the speed of all bitminers.
 --This is a balanced number and you should only change it if you know you need to. Small increments make big differences
-BM2CONFIG.BaseSpeed = 0.00016
+BM2CONFIG.BaseSpeed = 0.00013
 
 --The higher this number, the faster the generator will loose fuel.
 --You can use this to balance out more so they need to buy fuel more frequently
