@@ -23,7 +23,7 @@ CFG.TypeOfSpeed = 1
 CFG.IsCarLockedWhenSpawned = false
 CFG.IsPlayerInVehicleWhenSpawned = true
 
-CFG.PercentageWhenResell = 60
+CFG.PercentageWhenResell = 20
 
 CFG.PriceUnderglow = 250000
 -- how much does the seller get if a car is bought with underglow?
