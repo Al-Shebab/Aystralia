@@ -19,11 +19,11 @@ elegant_printers.config = {
     price = 10000,
 --  The price of a default printer.
 
-    max = 1,
+    max = 2,
 --  By default, you can have any number of printers you want at once. (math.huge = BASICALLY INFINITE)
 --  If you set this to a number, you will be limited in the amount of printers you can simultaneously own!
 
-    GlobalMax = 3,
+    GlobalMax = 4,
 --  Maximum amounts of printers you can have at once, regardless of their tier.
 
     SeizeReward = 10000,
@@ -90,7 +90,25 @@ elegant_printers.config = {
 --  How far you have to be for the printer screen to stop rendering. Hammer units. Lowering this helps with performance.
 --  Do not forget the "^ 2" after the number, it is required for this config option to work properly.
 
-    AllowedVIPs = {},
+    AllowedVIPs = {
+        "user",
+        "trusted",
+        "perth",
+        "brisbane",
+        "melbourne",
+        "sydney",
+        "trial-moderator",
+        "moderator",
+        "senior-moderator",
+        "admin",
+        "donator-trial-moderator",
+        "donator-moderator",
+        "donator-senior-moderator",
+        "donator-admin",
+        "senior-admin",
+        "staff-manager",
+        "superadmin",
+    },
 --  If this table exists and is not empty, players that do not have one of the specified usergroups will not be able to buy a printer.
 
 --[[
