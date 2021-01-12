@@ -862,7 +862,8 @@ TEAM_MUTANT = DarkRP.createJob("Mutant", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(0)
+        ply:SetRunSpeed(340)
+        ply:SetArmor(100)
     end
 })
 TEAM_HOBO = DarkRP.createJob("Hobo", {
@@ -903,7 +904,8 @@ TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(0)
+        ply:SetArmor(100)
+        ply:SetRunSpeed(340)
     end
 })
 
