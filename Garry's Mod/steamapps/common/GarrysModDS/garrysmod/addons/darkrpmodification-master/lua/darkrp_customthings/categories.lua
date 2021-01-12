@@ -214,14 +214,6 @@ DarkRP.createCategory{
     canSee = function(ply) return table.HasValue({TEAM_METH_DEALER}, ply:Team()) end,
     sortOrder = 5
 }
-DarkRP.createCategory{
-    name = "Money Printers",
-    categorises = "entities",
-    startExpanded = true,
-    color = Color(0, 0, 0, 255),
-    canSee = function(ply) return true end,
-    sortOrder = 12
-}
 
 DarkRP.createCategory{
     name = "Supplies",
