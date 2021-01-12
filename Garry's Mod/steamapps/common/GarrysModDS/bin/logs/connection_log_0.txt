@@ -1250,3 +1250,31 @@
 [2021-01-11 02:36:59] [3,2] LogOff()
 [2021-01-11 02:36:59] [2,2] AsyncDisconnect()
 [2021-01-11 02:36:59] [2,2] Log session ended
+
+
+[2021-01-11 21:32:35] Log session started
+[2021-01-11 21:32:35] [0,0] SetSteamID( [A:1:0:0] )
+[2021-01-11 21:32:35] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-01-11 21:32:35] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-01-11 21:32:35] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-11 21:32:35] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-11 21:32:35] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-11 21:32:35] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-11 21:32:35] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-11 21:32:35] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-11 21:32:35] [0,0] Server says 50% of connections should be websockets, we rolled 9 - using WebSockets as default.
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:27026) starting...
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:27022) starting...
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm2-syd1.cm.steampowered.com:27023) starting...
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:443) starting...
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm2-syd1.cm.steampowered.com:27023) results: 13.1250ms + load 44.0000
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:443) results: 12.9273ms + load 45.0000
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() stopping early for good host (cm2-syd1.cm.steampowered.com:27023)
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:27026) results: 13.1548ms + load 45.0000
+[2021-01-11 21:32:35] [0,0] PingWebSocketCM() (cm1-syd1.cm.steampowered.com:27022) results: 49.6424ms + load 44.0000
+[2021-01-11 21:32:35] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-syd1.cm.steampowered.com:27023, WebSocket)
+[2021-01-11 21:32:35] [1,3] ConnectionCompleted() (103.10.125.165:27023, WebSocket)
+[2021-01-11 21:32:36] [1,3] RecvMsgClientLogOnResponse() : [A:1:3388508170:16279] 'OK'
+[2021-01-11 21:32:42] [3,3] LogOff()
+[2021-01-11 21:32:42] [2,3] AsyncDisconnect()
+[2021-01-11 21:32:42] [2,3] Log session ended
