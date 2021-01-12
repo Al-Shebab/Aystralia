@@ -195,15 +195,15 @@ elegant_printers.config = {
     You shouldn't have to modify the latter at any point, but it's up to you if you want to.
 ]]
     InkCartridge = {
-        PrintName = "Money Printer Ink Cartridge",
-        price = 25000,
+        PrintName = "Xenon Printer Ink Cartridge",
+        price = 2500,
         model = "models/freeman/compact_printer_ink.mdl",
         cmd = "buyprinterink",
 
         Disabled = false, -- If set to true, the item won't show up in the F4 menu.
     },
     InkSlot = {
-        PrintName = "Money Printer Ink Cartridge Slot",
+        PrintName = "Xenon Ink Cartridge Slot",
         price = 25000,
         model = "models/Items/car_battery01.mdl",
         cmd = "buyprinterslot",
@@ -211,7 +211,7 @@ elegant_printers.config = {
         Disabled = false, -- If set to true, the item won't show up in the F4 menu.
     },
     RepairPart = {
-        PrintName = "Money Printer Repair Part",
+        PrintName = "Xenon Repair Part",
         price = 25000,
         model = "models/props_lab/reciever01d.mdl",
         cmd = "buyprinterrepair",
@@ -219,7 +219,7 @@ elegant_printers.config = {
         Disabled = false, -- If set to true, the item won't show up in the F4 menu.
     },
     HQCooling = {
-        PrintName = "Money Printer High Quality Cooling",
+        PrintName = "Xenon Quality Cooling",
         price = 25000,
         model = "models/props_phx/gears/spur12.mdl",
         cmd = "buyprintercooling",
