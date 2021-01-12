@@ -140,6 +140,36 @@ elegant_printers.config = {
     Keep in mind, ALL of the values above have an effect! Don't be afraid to try and mix every config option with another!
 ]]
     Tiers = {
+        Generic = {
+            PrintName = "Generic Grade Printer",
+            price = 10000,
+            cmd = "buyprinter_generic",
+
+            PrintAmount = 1000,
+            MaxMoney = 100000,
+            Gradient1 = Color(0, 99, 115),
+            Gradient2 = Color(0, 151, 176),
+            AllowedVIPs = {
+                "user",
+                "trusted",
+                "perth",
+                "brisbane",
+                "melbourne",
+                "sydney",
+                "trial-moderator",
+                "moderator",
+                "senior-moderator",
+                "admin",
+                "donator-trial-moderator",
+                "donator-moderator",
+                "donator-senior-moderator",
+                "donator-admin",
+                "senior-admin",
+                "staff-manager",
+                "superadmin",
+            },
+-- Example: PrintTime = 10 (This tier would print $1,000 every 10 seconds)
+        },
         Perth = {
             PrintName = "Perth Grade Printer",
             price = 25000,
