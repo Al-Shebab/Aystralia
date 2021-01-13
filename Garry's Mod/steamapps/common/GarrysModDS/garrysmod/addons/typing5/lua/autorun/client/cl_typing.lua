@@ -1,5 +1,4 @@
 local admin_only = false // are only admins allowed to see the typing?
-local disabled_slash_noview = true // if they use / or ! in the beginning, it wont render.
 
 hook.Add( "ChatTextChanged", "sendMessageTyping", function( text )
 	if ( !LocalPlayer():Alive() ) then return end
@@ -38,14 +37,6 @@ hook.Add( "PostPlayerDraw", "drawChatOverheadRay", function( ply )
 	if ( !ply:Alive() or !ply:IsTyping() ) then
 		ply.real_chat = nil
 		return
-	end
-	
-	if ( disabled_slash_noview ) then
-		local str = string.Left( ply.real_chat, 1 )
-		
-		if ( str == "/" or str == "!" or str == "@" ) then
-			return
-		end	
 	end
 	
 	if ( LocalPlayer():GetPos():Distance( ply:GetPos() ) > 300 ) then
