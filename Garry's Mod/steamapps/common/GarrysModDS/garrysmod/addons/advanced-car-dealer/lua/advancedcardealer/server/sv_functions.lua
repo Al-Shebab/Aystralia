@@ -10,7 +10,7 @@ function AdvCarDealer:ClearCars( pPlayer )
 		end
 	end
 end
-
+ 
 function AdvCarDealer:ClearCarDealerFactures( pPlayer )
 	for _, eFacture in pairs( AdvCarDealer.CarDealerFactures[ pPlayer ] or {} ) do
 		if not IsValid( eFacture ) then continue end
@@ -26,22 +26,9 @@ function AdvCarDealer:ClearCarDealerVehicles( pPlayer )
 end
 
 function AdvCarDealer:GhostCar( eCar )
-	eCar:SetRenderMode( RENDERMODE_TRANSCOLOR )
-	eCar:DrawShadow( false )
-
-	local color = eCar:GetColor()
-	eCar:SetColor( Color( color.r, color.g, color.b, 100 ) )
-
-	eCar:SetCollisionGroup( COLLISION_GROUP_WORLD )
 end
 
 function AdvCarDealer:UnGhostCar( eCar )
-	eCar:DrawShadow( true )
-
-	local color = eCar:GetColor()
-	eCar:SetColor( Color( color.r, color.g, color.b, 255 ) )
-
-	eCar:SetCollisionGroup( COLLISION_GROUP_NONE )
 end
 
 function AdvCarDealer:CheckInformationsValidity( pPlayer, tCarInfos, hasCarDealerRights )
