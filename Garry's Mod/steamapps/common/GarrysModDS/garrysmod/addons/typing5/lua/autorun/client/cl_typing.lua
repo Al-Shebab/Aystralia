@@ -1,5 +1,5 @@
 local admin_only = false // are only admins allowed to see the typing?
-local disabled_slash_noview = false // if they use / or ! in the beginning, it wont render.
+local disabled_slash_noview = true // if they use / or ! in the beginning, it wont render.
 
 hook.Add( "ChatTextChanged", "sendMessageTyping", function( text )
 	if ( !LocalPlayer():Alive() ) then return end
