@@ -251,7 +251,7 @@ elegant_printers.config = {
         Disabled = false, -- If set to true, the item won't show up in the F4 menu.
     },
     InkSlot = {
-        PrintName = "Xenon Ink Cartridge Slot",
+        PrintName = "Xenon Ink Cartridge Upgrade",
         price = 25000,
         model = "models/Items/car_battery01.mdl",
         cmd = "buyprinterslot",
@@ -260,7 +260,7 @@ elegant_printers.config = {
     },
     RepairPart = {
         PrintName = "Xenon Repair Part",
-        price = 25000,
+        price = 10000,
         model = "models/props_lab/reciever01d.mdl",
         cmd = "buyprinterrepair",
 
