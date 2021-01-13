@@ -27,12 +27,7 @@ util.AddNetworkString("rayCollectRealChat")
 
 net.Receive("rayCollectRealChat", function( length, ply )
 	local str = net.ReadString()
-	if #str > 60 then return end
-
-	local start = string.Left( ply.real_chat, 1 )
-
-	if start == "!" or start == "/advert" or start == "@" or start == "/pm" then return end
-
+	
 	net.Start( "rayStreamChatMessage" )
 		net.WriteString( str )
 		net.WriteEntity( ply )
