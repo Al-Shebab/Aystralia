@@ -79,7 +79,7 @@ elegant_printers.config = {
 --  End color of the gradient
 --  Unused if GradientDirection is set to "none".
 
-    PrinterColor = Color(0, 47, 217),
+    PrinterColor = Color(255, 255, 255),
 --  The printer's model's color on spawn.
 
     InvertColors = true,
