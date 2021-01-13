@@ -34,7 +34,7 @@ DarkRP.createEntity("Bitminer S1", {
 DarkRP.createEntity("Bitminer S2", {
     ent = "bm2_bitminer_2",
     model = "models/bitminers2/bitminer_3.mdl",
-    price = 15000,
+    price = 12500,
     max = 2,
     cmd = "buybitminers2",
     category = "Bitcoin",
@@ -48,7 +48,7 @@ DarkRP.createEntity("Bitminer S2", {
 DarkRP.createEntity("Bitminer Server", {
     ent = "bm2_bitminer_server",
     model = "models/bitminers2/bitminer_2.mdl",
-    price = 50000,
+    price = 40000,
     max = 8,
     cmd = "buybitminerserver",
     category = "Bitcoin",
@@ -62,7 +62,7 @@ DarkRP.createEntity("Bitminer Server", {
 DarkRP.createEntity("Bitminer Rack", {
     ent = "bm2_bitminer_rack",
     model = "models/bitminers2/bitminer_rack.mdl",
-    price = 25000,
+    price = 20000,
     max = 1,
     cmd = "buybitminerrack",
     category = "Bitcoin",
@@ -131,7 +131,7 @@ DarkRP.createEntity("Fuel", {
 DarkRP.createEntity( "One Printer", {
     ent = "oneprint",
     model = "models/ogl/ogl_oneprint.mdl",
-    price = 30000,
+    price = 10000,
     max = 1,
     cmd = "oneprinter",
     category = "Advanced Money Printers",
@@ -380,7 +380,7 @@ DarkRP.createEntity("Armour Station", {
 DarkRP.createEntity("BuildKit", {
     ent = "zrush_machinecrate",
     model = "models/zerochain/props_oilrush/zor_machinecrate.mdl",
-    price = 2500,
+    price = 1000,
     max = 4,
     cmd = "buyzrushmachinecrate",
     allowed = {TEAM_OIL_REFINER},
@@ -390,7 +390,7 @@ DarkRP.createEntity("BuildKit", {
 DarkRP.createEntity("Barrel", {
     ent = "zrush_barrel",
     model = "models/zerochain/props_oilrush/zor_barrel.mdl",
-    price = 1000,
+    price = 500,
     max = 8,
     cmd = "buyzrushbarrel",
     allowed = {TEAM_OIL_REFINER},
@@ -400,7 +400,7 @@ DarkRP.createEntity("Barrel", {
 DarkRP.createEntity("10x Pipes", {
     ent = "zrush_drillpipe_holder",
     model = "models/zerochain/props_oilrush/zor_drillpipe_holder.mdl",
-    price = 1000,
+    price = 500,
     max = 1,
     cmd = "buyzrushdrillpipeholder",
     allowed = {TEAM_OIL_REFINER},
@@ -410,7 +410,7 @@ DarkRP.createEntity("10x Pipes", {
 DarkRP.createEntity("Palette", {
     ent = "zrush_palette",
     model = "models/props_junk/wood_pallet001a.mdl",
-    price = 5000,
+    price = 1000,
     max = 2,
     cmd = "buyzrush_palette",
     allowed = {TEAM_OIL_REFINER},

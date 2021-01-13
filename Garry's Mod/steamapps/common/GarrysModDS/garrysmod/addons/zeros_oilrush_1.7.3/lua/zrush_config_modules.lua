@@ -80,7 +80,7 @@ zrush.f.CreateAbilityModule({
 	type = "speed",
 	amount = 0.5,
 	desc = "Increases the Speed of the Machine alot.",
-	price = 50000,
+	price = 40000,
 	ranks = {},
 	jobs = {},
 	color = Color(255,201,71)
@@ -91,7 +91,7 @@ zrush.f.CreateAbilityModule({
 	type = "production",
 	amount = 1.75,
 	desc = "Increases the production amount of the machine alot.",
-	price = 50000,
+	price = 40000,
 	ranks = {},
 	jobs = {},
 	color = Color(255,201,71)
@@ -102,7 +102,7 @@ zrush.f.CreateAbilityModule({
 	type = "antijam",
 	amount = 0.85,
 	desc = "Reduces the chance of jamming the machine alot.",
-	price = 50000,
+	price = 40000,
 	ranks = {},
 	jobs = {},
 	color = Color(255,201,71)
@@ -113,7 +113,7 @@ zrush.f.CreateAbilityModule({
 	type = "cooling",
 	amount = 0.85,
 	desc = "Reduces the chance of OverHeating the machine alot.",
-	price = 50000,
+	price = 40000,
 	ranks = {},
 	jobs = {},
 	color = Color(255,201,71)
@@ -124,7 +124,7 @@ zrush.f.CreateAbilityModule({
 	type = "pipes",
 	amount = 25,
 	desc = "Add all your pipes at once!",
-	price = 50000,
+	price = 40000,
 	ranks = {},
 	jobs = {},
 	color = Color(255,201,71)
@@ -135,7 +135,7 @@ zrush.f.CreateAbilityModule({
 	type = "refining",
 	amount = 0.4,
 	desc = "Increases the refined Fuel amount alot.",
-	price = 50000,
+	price = 40000,
 	ranks = {},
 	jobs = {},
 	color = Color(255,201,71)
