@@ -12,7 +12,7 @@ BM2CONFIG.BaseSpeed = 0.00013
 
 --The higher this number, the faster the generator will loose fuel.
 --You can use this to balance out more so they need to buy fuel more frequently
-BM2CONFIG.BaseFuelDepletionRate = 0.3 --0.9 default
+BM2CONFIG.BaseFuelDepletionRate = 0.9 --0.9 default
 
 
 --This will allow you to change the default generator output level
