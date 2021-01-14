@@ -145,7 +145,7 @@ elegant_printers.config = {
             price = 10000,
             cmd = "buyprinter_generic",
 
-            PrintAmount = 1000,
+            PrintAmount = 3000,
             MaxMoney = 100000,
             Gradient1 = Color(0, 99, 115),
             Gradient2 = Color(0, 151, 176),
@@ -175,7 +175,7 @@ elegant_printers.config = {
             price = 25000,
             cmd = "buyprinter_perth",
 
-            PrintAmount = 2000,
+            PrintAmount = 6000,
             MaxMoney = 200000,
             Gradient1 = Color(0, 183, 212),
             Gradient2 = Color(36, 225, 255),
@@ -191,7 +191,7 @@ elegant_printers.config = {
             price = 50000,
             cmd = "buyprinter_brisbane",
 
-            PrintAmount = 3000,
+            PrintAmount = 9000,
             MaxMoney = 300000,
             Gradient1 = Color(61, 229, 255),
             Gradient2 = Color(130, 238, 255),
@@ -206,7 +206,7 @@ elegant_printers.config = {
             price = 75000,
             cmd = "buyprinter_melbourne",
 
-            PrintAmount = 4000,
+            PrintAmount = 12000,
             MaxMoney = 400000,
             Gradient1 = Color(61, 255, 213),
             Gradient2 = Color(130, 255, 228),
@@ -221,7 +221,7 @@ elegant_printers.config = {
             price = 100000,
             cmd = "buyprinter_sydney",
 
-            PrintAmount = 5000,
+            PrintAmount = 15000,
             MaxMoney = 500000,
             Gradient1 = Color(61, 255, 154),
             Gradient2 = Color(130, 255, 190),
@@ -244,7 +244,7 @@ elegant_printers.config = {
 ]]
     InkCartridge = {
         PrintName = "Xenon Printer Ink Cartridge",
-        price = 2500,
+        price = 100,
         model = "models/freeman/compact_printer_ink.mdl",
         cmd = "buyprinterink",
 
@@ -252,7 +252,7 @@ elegant_printers.config = {
     },
     InkSlot = {
         PrintName = "Xenon Ink Cartridge Upgrade",
-        price = 25000,
+        price = 10000,
         model = "models/Items/car_battery01.mdl",
         cmd = "buyprinterslot",
 
