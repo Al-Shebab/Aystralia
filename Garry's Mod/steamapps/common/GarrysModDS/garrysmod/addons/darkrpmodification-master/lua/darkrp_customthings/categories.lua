@@ -241,3 +241,12 @@ DarkRP.createCategory{
     canSee = function(ply) return table.HasValue({TEAM_FRUIT_SLICER}, ply:Team()) end,
 	sortOrder = 10
 }
+
+DarkRP.createCategory{
+	name = "Mining",
+	categorises = "entities",
+	startExpanded = true,
+	color = Color(0, 107, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_MINER}, ply:Team()) end,
+	sortOrder = 11
+}

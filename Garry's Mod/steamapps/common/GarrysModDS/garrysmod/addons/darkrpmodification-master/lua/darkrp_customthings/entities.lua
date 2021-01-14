@@ -508,3 +508,55 @@ DarkRP.createEntity("Apples", {
 	allowed = {TEAM_FRUIT_SLICER},
 	category = "Fruit Slicer"
 })
+
+
+
+DarkRP.createEntity("Gravel - Crate", {
+	ent = "zrms_gravelcrate",
+	model = "models/zerochain/props_mining/zrms_refiner_basket.mdl",
+	price = 250,
+	max = 6,
+	cmd = "buyzrms_gravelcrate",
+	allowed = TEAM_MINER,
+	category = "Mining"
+})
+
+DarkRP.createEntity("Refiner - Crate", {
+	ent = "zrms_basket",
+	model = "models/zerochain/props_mining/zrms_refiner_basket.mdl",
+	price = 250,
+	max = 12,
+	cmd = "buyzrms_basket",
+	allowed = TEAM_MINER,
+	category = "Mining"
+})
+
+DarkRP.createEntity("Storage Crate", {
+	ent = "zrms_storagecrate",
+	model = "models/zerochain/props_mining/zrms_storagecrate.mdl",
+	price = 25,
+	max = 6,
+	cmd = "buyzrms_storagecrate",
+	allowed = TEAM_MINER,
+	category = "Mining"
+})
+
+DarkRP.createEntity("Mine", {
+	ent = "zrms_mineentrance_base",
+	model = "models/zerochain/props_mining/mining_entrance.mdl",
+	price = 150000,
+	max = 3,
+	cmd = "buyzrms_mineentrance_base",
+	allowed = TEAM_MINER,
+	category = "Mining"
+})
+
+DarkRP.createEntity("Melter", {
+	ent = "zrms_melter",
+	model = "models/zerochain/props_mining/zrms_melter.mdl",
+	price = 7500,
+	max = 2,
+	cmd = "buyzrms_melter",
+	allowed = TEAM_MINER,
+	category = "Mining"
+})

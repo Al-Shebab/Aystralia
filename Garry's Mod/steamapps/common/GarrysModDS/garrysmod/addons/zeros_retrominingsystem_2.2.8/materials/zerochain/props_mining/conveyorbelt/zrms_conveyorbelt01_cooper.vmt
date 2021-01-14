@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt01"
+	"$bumpMap"				"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt01_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 0.4 0.195]"
+	"$envmapfresnel" "0.1"
+
+	$phong 1
+		$phongexponent 4
+		//$phongexponenttexture "zerochain/props_mining/conveyorbelt/zrms_conveyorbelt01_phong"
+        $phongboost	1
+		$phongtint "[1 0.4 0.195]"
+        $halflambert 1
+        $phongfresnelranges "[1 2 3]"
+
+		$rimlight               1
+		$rimlightexponent      1
+		$rimlightboost         1
+}
