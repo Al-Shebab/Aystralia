@@ -190,8 +190,8 @@ zrmine.config.Pickaxe_OreRestriction = {
 
 
 // How many pickaxe hits before we get another XP
-zrmine.config.Pickaxe_MaxNextXP = 20
-zrmine.config.Pickaxe_MinNextXP = 15
+zrmine.config.Pickaxe_MaxNextXP = 8
+zrmine.config.Pickaxe_MinNextXP = 2
 
 // What Color Theme should the Pickaxe UI have
 zrmine.config.PickaxeThemeLight = false
@@ -200,7 +200,7 @@ zrmine.config.PickaxeThemeLight = false
 zrmine.config.PickaxeUI_Offset = Vector(0,0,0)
 
 // Defines the harvest chance in % per Hit
-zrmine.config.Pickaxe_HarvestChance = 75 //1-100% 75% means we have a 25% chance of getting no resource
+zrmine.config.Pickaxe_HarvestChance = 100 //1-100% 75% means we have a 25% chance of getting no resource
 
 // This Values are % Multiplicators for the diffrend resource types
 // *Note* Examble : Amount: 0.5% = -50% You get only half the amount per hit   Speed: 1.3% = +30% more time needed do harvest
@@ -226,10 +226,10 @@ local Bronze_1kg = 18   //$
 local Iron_1kg = 0.80   //$
 */
 
-local Gold_1kg = 750 //$
-local Silver_1kg = 580 //$
-local Bronze_1kg = 490 //$
-local Iron_1kg = 370 //$
+local Gold_1kg = 1250 //$
+local Silver_1kg = 880 //$
+local Bronze_1kg = 690 //$
+local Iron_1kg = 570 //$
 
 local Mass_per_Bar = 10
 
@@ -266,7 +266,7 @@ zrmine.config.MetalBar_DropOnDeath = false
 zrmine.config.MetalBuyer = {
 
 	// Model of the NPC
-	model = "models/Humans/Group03/male_07.mdl",
+	model = "models/player/blockdude.mdl",
 	// Note* You need do make sure the Model got compiled with the animations you want to use
 
 	// The Idle Animations of the Buyer NPC
@@ -301,7 +301,7 @@ zrmine.config.Resource_DespawnTime = 200
 zrmine.config.Ore_Refresh = true
 
 // How often do we want do refresh the ore spawns?
-zrmine.config.Ore_Refreshrate = 15
+zrmine.config.Ore_Refreshrate = 300
 
 // How much gets refreshed?
 zrmine.config.Ore_RefreshAmount = 200 //kg
