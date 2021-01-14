@@ -190,8 +190,8 @@ zrmine.config.Pickaxe_OreRestriction = {
 
 
 // How many pickaxe hits before we get another XP
-zrmine.config.Pickaxe_MaxNextXP = 10
-zrmine.config.Pickaxe_MinNextXP = 5
+zrmine.config.Pickaxe_MaxNextXP = 20
+zrmine.config.Pickaxe_MinNextXP = 15
 
 // What Color Theme should the Pickaxe UI have
 zrmine.config.PickaxeThemeLight = false
@@ -226,12 +226,12 @@ local Bronze_1kg = 18   //$
 local Iron_1kg = 0.80   //$
 */
 
-local Gold_1kg = 150    //$
-local Silver_1kg = 75   //$
-local Bronze_1kg = 25   //$
-local Iron_1kg = 10 //$
+local Gold_1kg = 750 //$
+local Silver_1kg = 580 //$
+local Bronze_1kg = 490 //$
+local Iron_1kg = 370 //$
 
-local Mass_per_Bar = 15
+local Mass_per_Bar = 10
 
 // The Cash Value of 1 bar
 zrmine.config.BarValue = {}
