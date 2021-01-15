@@ -23,7 +23,7 @@ CFG.TypeOfSpeed = 1
 CFG.IsCarLockedWhenSpawned = false
 CFG.IsPlayerInVehicleWhenSpawned = true
 
-CFG.PercentageWhenResell = 20
+CFG.PercentageWhenResell = 75
 
 CFG.PriceUnderglow = 250000
 -- how much does the seller get if a car is bought with underglow?
@@ -75,9 +75,9 @@ CFG.AdminUserGroups = {
 }
 
 AdvCarDealer.CustomChecks = {
-	[ "Donator" ]	= {
-		func = function( ply ) return ply:GetUserGroup() == "superadmin" end,
-		messageCatalog = "Purchasing this vehicle is limited to superadmins.",
+	[ "Donators" ]	= {
+		func = function( ply ) return ply:GetUserGroup() == "superadmin" or ply:GetUserGroup() == "staff-manager" or ply:GetUserGroup() == "senior-admin" or ply:GetUserGroup() == "donator-admin" or ply:GetUserGroup() == "donator-senior-moderator" or ply:GetUserGroup() == "donator-moderator" or ply:GetUserGroup() == "donator-trial-moderator" or ply:GetUserGroup() == "sydney" or ply:GetUserGroup() == "melbourne" or ply:GetUserGroup() == "brisbane" or ply:GetUserGroup() == "perth" end,
+		messageCatalog = "Purchasing this vehicle is limited to donators.",
 		onlyOnceBuying = true, -- if the check has to be done only once buying, or also when the player try to take it from the garage.
 	}
 }
