@@ -241,4 +241,4 @@ GM.NoLicense["csgo_bayonet_black_laminate"]       = true
 GM.NoLicense["csgo_bayonet_autotronic"]       = true
 GM.NoLicense["csgo_bayonet"]       = true
 GM.NoLicense["csgo_baseknife"]       = true
-
+GM.NoLicense["gsmartwatch"]       = true
