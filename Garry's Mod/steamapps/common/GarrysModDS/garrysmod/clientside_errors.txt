@@ -146973,3 +146973,534 @@ Mewtwo|321|STEAM_0:1:419456634
 
 
 
+Fanciermot8|2|STEAM_0:1:430559016
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Al Shebab|8|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Fanciermot8|12|STEAM_0:1:430559016
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Fanciermot8|17|STEAM_0:1:430559016
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+MrDinglechalk|20|STEAM_0:1:540041952
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+DoomieDaJuan|24|STEAM_0:0:9426310
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+DN7|26|STEAM_0:1:440489214
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+eliano|25|STEAM_0:1:150661630
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Communist Salmon|27|STEAM_0:1:84584417
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Communist Salmon|27|STEAM_0:1:84584417
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Communist Salmon|27|STEAM_0:1:84584417
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Communist Salmon|27|STEAM_0:1:84584417
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Communist Salmon|27|STEAM_0:1:84584417
+
+[advanced-car-dealer] addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924: attempt to call method 'Remove' (a nil value)
+  1. NextToolFunction - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:924
+   2. Think - addons/advanced-car-dealer/lua/weapons/gmod_tool/stools/advcardealer_tool.lua:988
+    3. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:187
+
+
+
+Al Shebab|38|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Kremig|49|STEAM_0:1:92089651
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+camping|50|STEAM_0:1:86499779
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+eliano|55|STEAM_0:1:150661630
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Lasagne|60|STEAM_0:0:174043799
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+_Jaspereeno_|69|STEAM_0:0:579690494
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+eliano|72|STEAM_0:1:150661630
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Cwod|70|STEAM_0:0:430575756
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Cwod|70|STEAM_0:0:430575756
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Cwod|70|STEAM_0:0:430575756
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Cwod|70|STEAM_0:0:430575756
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+Cwod|70|STEAM_0:0:430575756
+
+[ascoreboard] addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71: Tried to use a NULL Panel!
+  1. GetParent - [C]:-1
+   2. unknown - addons/ascoreboard/lua/ascoreboard/cl_playerlist.lua:71
+
+
+
+eliano|74|STEAM_0:1:150661630
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Al Shebab|101|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Al Shebab|102|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Communist Salmon|108|STEAM_0:1:84584417
+
+[ulib-master] bad argument #1 to ULib.cmds.TranslateCommand:defaultAccess (string expected)
+  1. SetupWrapper - addons/ghomes/lua/ghomes_system/sh_compatibility/main.lua:14
+   2. fn - addons/ghomes/lua/ghomes_system/client/network.lua:22
+    3. unknown - addons/ulib-master/lua/ulib/shared/hook.lua:109
+
+
+
+Al Shebab|117|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+eliano|118|STEAM_0:1:150661630
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Tri|85|STEAM_0:0:431201115
+
+[pcasino] addons/pcasino/lua/entities/pcasino_blackjack_table/cl_init.lua:304: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. func - addons/pcasino/lua/entities/pcasino_blackjack_table/cl_init.lua:304
+    3. unknown - lua/includes/extensions/net.lua:32
+
+
+
+Fanciermot8|140|STEAM_0:1:430559016
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+eliano|144|STEAM_0:1:150661630
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+WILSON™|154|STEAM_0:0:107638481
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+popbob1|160|STEAM_0:1:90900081
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Charles Whirlpool|166|STEAM_0:1:31714911
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+wogwad|199|STEAM_0:0:542432000
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Frazer|205|STEAM_0:0:120840551
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Memzrs|207|STEAM_0:0:98413377
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[voidcases] addons/voidcases/lua/voidcases/vgui/elements.lua:609: attempt to index field 'icon' (a nil value)
+  1. callback - addons/voidcases/lua/voidcases/vgui/elements.lua:609
+   2. onsuccess - addons/voidcases/lua/voidcases/sh_misc.lua:40
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+
+KennyS CS.MONEY|7|STEAM_0:1:443217738
+
+[voidcases] addons/voidcases/lua/voidcases/vgui/elements.lua:609: attempt to index field 'icon' (a nil value)
+  1. callback - addons/voidcases/lua/voidcases/vgui/elements.lua:609
+   2. onsuccess - addons/voidcases/lua/voidcases/sh_misc.lua:51
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+
+Tri|8|STEAM_0:0:431201115
+
+[gprotect_1.4.3] addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222: attempt to index local 'eyetrace' (a nil value)
+  1. unknown - addons/gprotect_1.4.3/lua/g_protect/client/cl_gprotect.lua:222
+
+
+
