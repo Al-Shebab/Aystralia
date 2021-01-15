@@ -301,7 +301,7 @@ zrmine.config.Resource_DespawnTime = 200
 zrmine.config.Ore_Refresh = true
 
 // How often do we want do refresh the ore spawns?
-zrmine.config.Ore_Refreshrate = 15
+zrmine.config.Ore_Refreshrate = 300
 
 // How much gets refreshed?
 zrmine.config.Ore_RefreshAmount = 200 //kg
