@@ -1,8 +1,7 @@
 
 gProtect = gProtect or {}
 gProtect.TouchPermission = gProtect.TouchPermission or {}
-gProtect.data = gProtect.data or {}
-local syncedQueue = {}
+gProtect.LoadedConfig = gProtect.LoadedConfig or {}
 
 local spawnedents = {}
 local disconnectedPly = {}
@@ -20,22 +19,33 @@ end
 local limitrequests = {}
 
 gProtect.GetConfig = function(info, modul)
-	local data = gProtect.data
+	if(file.Exists( "gProtect/settings.txt", "DATA" )) then
+		local data = file.Read( "gProtect/settings.txt")
+		data = util.JSONToTable(data)
 
-	if !modul and !info then return data end
-	data[modul] = data[modul] or gProtect.config.modules[modul] or {}
-	
-	local returninfo = (modul and info ) and (data[modul] and data[modul][info] and data[modul][info]) or modul and (data[modul] and data[modul]) or (info and data[info] and data[info]) or ""
+		if !modul and !info then return data end
+		
+		local returninfo = (modul and info ) and (data[modul] and data[modul][info] and data[modul][info]) or modul and (data[modul] and data[modul]) or (info and data[info] and data[info]) or ""
 
-	if info and modul then
-		returninfo = data[modul][info]
+		if info and modul then
+			returninfo = data[modul][info]
+		end
+		
+		if (slib.getStatement(returninfo) == "bool" and returninfo == "") then
+			returninfo = false
+		end
+
+		return returninfo
+	else
+		print(gProtect.config.Prefix.."Attempting to create config.")
+		local data = util.TableToJSON(gProtect.config.modules)
+		file.CreateDir("gProtect")
+		file.Write("gProtect/settings.txt", data)
+
+		return gProtect.GetConfig(info, modul)
 	end
-	
-	if (slib.getStatement(returninfo) == "bool" and returninfo == "") then
-		returninfo = false
-	end
 
-	return returninfo
+	return {}
 end
 
 local miscscfg = gProtect.GetConfig(nil,"miscs")
@@ -46,7 +56,7 @@ local toolguncfg = gProtect.GetConfig(nil,"toolgunsettings")
 
 
 gProtect.NetworkData = function(ply, moduleedited)
-	local settings = gProtect.data
+	local settings = gProtect.GetConfig()
 
 	if moduleedited then
 		settings = settings[moduleedited]
@@ -229,6 +239,7 @@ hook.Add("BaseWars_PlayerBuyDrug", "gP:handleOwnership", function(ply, ent)
 	setSpawnedEnt(ply, ent)
 end)
 
+
 hook.Add("PlayerSpawnedProp", "gP:handleSpawning", function(ply, model, ent)
 	if IsValid(ent) then
 		if IsValid(ply) and ply:IsPlayer() then 
@@ -370,7 +381,7 @@ hook.Add("PhysgunDrop", "gP:HandlePhysgunDropping", function(ply, ent)
 	hook.Run("PhysgunDropped", ply, ent)
 end)
 
-hook.Add("OnPhysgunPickup", "gP:HandlePickups", function(ply, ent)
+hook.Add( "OnPhysgunPickup", "gP:HandlePickups", function(ply, ent)
     if IsValid(ent) then
         ent.BeingPhysgunned = ent.BeingPhysgunned or {}
         ent.BeingPhysgunned[ply] = true
@@ -454,7 +465,7 @@ hook.Add( "PlayerSay", "gP:OpenMenu", function( ply, text, public )
 end )
 
 hook.Add("gP:ConfigUpdated", "gP:UpdateCoreConfig", function(updated)
-	if !updated or updated == "miscs" or updated == "general" or updated == "gravitygunsettings" or updated == "physgunsettings" or updated == "toolgunsettings" then
+	if updated == "miscs" or updated == "general" or updated == "gravitygunsettings" or updated == "physgunsettings" or updated == "toolgunsettings" then
 		miscscfg = gProtect.GetConfig(nil,"miscs")
 		generalcfg = gProtect.GetConfig(nil,"general")
 		gravityguncfg = gProtect.GetConfig(nil,"gravitygunsettings")
@@ -671,9 +682,16 @@ net.Receive("gP:Networking", function(_, ply)
 			value = util.JSONToTable(util.Decompress(value))
 		end
 		
-		gProtect.data[module][variable] = value
+	
+		if(file.Exists( "gProtect/settings.txt", "DATA" )) then
+			local data = file.Read( "gProtect/settings.txt")
+			data = util.JSONToTable(data)
+			data[module][variable] = value
 
-		slib.saveData("gProtect", gProtect.config.StorageType, module, gProtect.data[module])
+			data = util.TableToJSON(data)
+
+			file.Write("gProtect/settings.txt", data)
+		end
 
 		gProtect.NetworkData(nil, module)
 
@@ -681,7 +699,28 @@ net.Receive("gP:Networking", function(_, ply)
 	end
 end)
 
-local function verifyData()
+hook.Add("gP:ConfigUpdated", "gP:RegisterTouchPermissions", function(module, variable, value)
+	if variable == "targetWorld" or variable == "targetPlayerOwned" then
+		local type
+
+		if module == "toolgunsettings" then
+			type = "gmod_tool"
+		elseif module == "physgunsettings" then
+			type = "weapon_physgun"
+		elseif module == "gravitygunsettings" then
+			type = "weapon_physcannon"
+		end
+
+		if type then
+			gProtect.TouchPermission[variable] = gProtect.TouchPermission[variable] or {}
+			gProtect.TouchPermission[variable][type] = value
+
+			gProtect.networkTouchPermissions(nil, variable)
+		end
+	end
+end)
+
+timer.Simple(1, function()
 	local data = gProtect.GetConfig()
 	local modified = {}
 
@@ -716,8 +755,8 @@ local function verifyData()
 		end
 	end
 
+	file.Write("gProtect/settings.txt", util.TableToJSON(data))
 	for k, v in pairs(modified) do
-		slib.saveData("gProtect", gProtect.config.StorageType, k, gProtect.data[k])
 		hook.Run("gP:ConfigUpdated", k)
 	end
 
@@ -734,75 +773,4 @@ local function verifyData()
 	gProtect.TouchPermission["targetPlayerOwned"]["gmod_tool"] = toolgun[2]
 	gProtect.TouchPermission["targetPlayerOwned"]["weapon_physgun"] = physgun[2]
 	gProtect.TouchPermission["targetPlayerOwned"]["weapon_physcannon"] = gravitygun[2]
-end
-
-hook.Add("slib:SyncedData", "gP:HandleSyncing", function(id, str, data)
-	if id ~= "gProtect" then return	end
-	syncedQueue[str] = nil
-
-	gProtect.data[str] = data and !table.IsEmpty(data) and data or gProtect.config.modules[str]
-
-	hook.Run("gP:ConfigUpdated", str)
-	
-	if table.IsEmpty(syncedQueue) then
-		verifyData()
-	end
-end)
-
-hook.Add("gP:ConfigUpdated", "gP:RegisterTouchPermissions", function(module, variable, value)
-	if variable == "targetWorld" or variable == "targetPlayerOwned" then
-		local type
-
-		if module == "toolgunsettings" then
-			type = "gmod_tool"
-		elseif module == "physgunsettings" then
-			type = "weapon_physgun"
-		elseif module == "gravitygunsettings" then
-			type = "weapon_physcannon"
-		end
-
-		if type then
-			gProtect.TouchPermission[variable] = gProtect.TouchPermission[variable] or {}
-			gProtect.TouchPermission[variable][type] = value
-
-			gProtect.networkTouchPermissions(nil, variable)
-		end
-	end
-end)
-
-local function resyncAll()
-	for k,v in pairs(gProtect.config.modules) do
-		slib.syncData("gProtect", gProtect.config.StorageType, k)
-		syncedQueue[k] = true
-	end
-end
-
-local function transferData()
-	local data = file.Read("gProtect/settings.txt", "DATA")
-	if data then
-		data = util.JSONToTable(data)
-		gProtect.data = data
-
-		for k,v in pairs(gProtect.config.modules) do
-			slib.saveData("gProtect", gProtect.config.StorageType, k, gProtect.data[k])
-		end
-
-		file.Delete("gProtect/settings.txt")
-	end
-end
-transferData()
-if gProtect.config.StorageType ~= "mysql" then
-	transferData()
-end
-
-hook.Add("slib:MySQLConnected", "gP:ResyncDataOnDBCon", function()
-	resyncAll()
-	transferData()
-end)
-
-concommand.Add("gprotect_syncall", function(ply)
-	if IsValid(ply) then return end
-	resyncAll()
-end)
-
-resyncAll()
+end) 
