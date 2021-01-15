@@ -15,7 +15,6 @@ RequiredTeams = {
 	"SWAT",
 	"Swat Heavy",
 	"Swat Leader",
-	"Undercover Cop",
 	"Swat Medic",
 	"Swat Marksman",
 	"Mayor"
@@ -27,7 +26,6 @@ GovernmentTeams = {
 	"SWAT",
 	"Swat Heavy",
 	"Swat Leader",
-	"Undercover Cop",
 	"Swat Medic",
 	"Swat Marksman",
 	"Mayor"

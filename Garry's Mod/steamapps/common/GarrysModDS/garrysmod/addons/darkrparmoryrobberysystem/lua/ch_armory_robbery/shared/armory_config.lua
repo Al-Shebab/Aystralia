@@ -33,7 +33,6 @@ CH_ArmoryRobbery.Config.RequiredTeams = { -- These are the names of the jobs tha
 	"SWAT",
 	"Swat Heavy",
 	"Swat Leader",
-	"Undercover Cop",
 	"Swat Medic",
 	"Swat Marksman"
 }
@@ -44,7 +43,6 @@ CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs t
 	"SWAT",
 	"Swat Heavy",
 	"Swat Leader",
-	"Undercover Cop",
 	"Swat Medic",
 	"Swat Marksman"
 }
