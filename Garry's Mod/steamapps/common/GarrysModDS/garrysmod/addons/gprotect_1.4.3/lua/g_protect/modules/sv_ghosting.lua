@@ -70,29 +70,16 @@ gProtect.GhostHandler = function(ent, todo, nofreeze, closedloop, ignore)
 	if !closedloop then
 		local constraintedEnts = constraint.GetAllConstrainedEntities(ent)
 		if constraintedEnts then
-			local action = !!todo
-			local stopIt = false
-
-			if !action then
-				for k, v in pairs(constraintedEnts) do
-					if v.BeingPhysgunned and !table.IsEmpty(v.BeingPhysgunned) then
-						stopIt = true
-					end
+			for k, v in pairs(constraintedEnts) do
+				local physobj = v:GetPhysicsObject()
+				if IsValid(physobj) and !physobj:IsMotionEnabled() then
+					continue
 				end
-			end
+				local physobj = v:GetPhysicsObject()
+				physobj:EnableMotion(false)
+				gProtect.GhostHandler(v, !!todo, true, true)
 
-			if !stopIt then
-				for k, v in pairs(constraintedEnts) do
-					local physobj = v:GetPhysicsObject()
-					if IsValid(physobj) and !physobj:IsMotionEnabled() then
-						continue
-					end
-					local physobj = v:GetPhysicsObject()
-					physobj:EnableMotion(false)
-					gProtect.GhostHandler(v, action, true, true)
-
-					physobj:EnableMotion(true)
-				end
+				physobj:EnableMotion(true)
 			end
 		end
 	end

@@ -60,8 +60,7 @@ gProtect.config.sortOrders = {
 		["propsThreshold"] = 10,
 		["propsException"] = 11,
 		["useBlacklist"] = 12,
-		["ghostEntities"] = 13,
-		["specificEntities"] = 14
+		["ghostEntities"] = 13
 	},
 
 	["spamprotection"] = {
@@ -98,8 +97,7 @@ gProtect.config.sortOrders = {
 		["groupToolRestrictions"] = 5,
 		["entityTargetability"] = 6,
 		["bypassTargetabilityTools"] = 7,
-		["bypassGroups"] = 8,
-		["antiSpam"] = 9
+		["bypassGroups"] = 8
 	},
 
 	["physgunsettings"] = {
@@ -160,9 +158,7 @@ gProtect.config.sortOrders = {
 		["freezeOnSpawn"] = 8,
 		["preventFadingDoorAbuse"] = 9,
 		["preventSpawnNearbyPlayer"] = 10,
-		["DRPEntForceOwnership"] = 11,
-		["DRPMaxObstructsOnPurchaseEnts"] = 12,
-		["DRPObstructsFilter"] = 13
+		["DRPEntForceOwnership"] = 11
 	}
 }
 
@@ -193,8 +189,7 @@ gProtect.config.valueRules = { --- This is because the tableviewer is modular an
 		["exception"] = {intLimit = {min = 0, max = 2}},
 		["protectDarkRPEntities"] = {intLimit = {min = 0, max = 4}},
 		["protectSpawnedEntities"] = {intLimit = {min = 0, max = 3}},
-		["protectSpawnedProps"] = {intLimit = {min = 0, max = 3}},
-		["specificEntities"] = {customTable = "int", tableAlternatives = function() local tbl = {} for k,v in pairs(scripted_ents.GetList()) do tbl[v.ClassName or k] = true end return tbl end}
+		["protectSpawnedProps"] = {intLimit = {min = 0, max = 3}}
 	},
 	["spamprotection"] = {
 		["threshold"] = {intLimit = {min = 0, max = 100000}},
@@ -220,9 +215,7 @@ gProtect.config.valueRules = { --- This is because the tableviewer is modular an
 		["targetPlayerOwned"] = {tableAlternatives = CAMI and CAMI.GetUsergroups and function() local tbl = {} for k,v in pairs(CAMI.GetUsergroups()) do tbl[k] = true end return tbl end or {}},
 		["blockedEntities"] = {tableAlternatives = function() local tbl = {} for k,v in pairs(scripted_ents.GetList()) do tbl[v.ClassName or k] = true end return tbl end},
 		["bypassTargetabilityTools"] = {tableAlternatives = function() local tbl = {} for k,v in pairs(spawnmenu.GetTools()) do for i,z in pairs(v.Items) do for key, data in pairs(z) do if istable(data) and data.ItemName then local tocompare = string.lower(data.ItemName) if data.ItemName ~= tocompare then continue end tbl[data.ItemName] = true end end end end return tbl end},
-		["bypassGroups"] = {tableAlternatives = CAMI and CAMI.GetUsergroups and function() local tbl = {} for k,v in pairs(CAMI.GetUsergroups()) do tbl[k] = true end return tbl end or {}},
-		["antiSpam"] = {customTable = "int", tableAlternatives = function() local tbl = {} for k,v in pairs(spawnmenu.GetTools()) do for i,z in pairs(v.Items) do for key, data in pairs(z) do if istable(data) and data.ItemName then local tocompare = string.lower(data.ItemName) if data.ItemName ~= tocompare then continue end tbl[data.ItemName] = true end end end end return tbl end},
-
+		["bypassGroups"] = {tableAlternatives = CAMI and CAMI.GetUsergroups and function() local tbl = {} for k,v in pairs(CAMI.GetUsergroups()) do tbl[k] = true end return tbl end or {}}
 	},
 	["physgunsettings"] = {
 		["targetWorld"] = {tableAlternatives = CAMI and CAMI.GetUsergroups and function() local tbl = {} for k,v in pairs(CAMI.GetUsergroups()) do tbl[k] = true end return tbl end or {}},
