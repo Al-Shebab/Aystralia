@@ -14,7 +14,7 @@ OnePrint.Cfg.ServerLimit = {                -- Max servers per printer (dependin
 ]]--
 
 -- Money
-OnePrint.Cfg.MoneyDelay = 15                 -- Cooldown before the printer generates money
+OnePrint.Cfg.MoneyDelay = 14                 -- Cooldown before the printer generates money
 OnePrint.Cfg.ServerIncome = 100              -- Income per server (for 1 server and without any upgrade)
 OnePrint.Cfg.OverclockingIncome = 25        -- % of income added per level of overclocking
 OnePrint.Cfg.ServerStorage = 500000           -- Max storage per server
