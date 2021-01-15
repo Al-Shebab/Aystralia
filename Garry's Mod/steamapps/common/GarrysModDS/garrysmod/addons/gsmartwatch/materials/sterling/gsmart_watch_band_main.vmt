@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sterling/gsmart_watch_band_main"
+	"$bumpmap" "sterling/gsmart_watch_band_norm"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.01 .01 .01]"	
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[0.1 0.1 0.1]"	
+}
