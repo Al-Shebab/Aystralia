@@ -420,6 +420,7 @@ GM.Config.PocketBlacklist = {
     ["zrush_oilspot"] = true,
     ["zrush_drillpipe_holder"] = true,
     ["cardealer_tablet_ent"] = true,
+    ["voidcases_crate"] = true,
     ["wheel_of_luck"] = true,
     ["keypad"] = true,
     ["keypad_wire"] = true,
