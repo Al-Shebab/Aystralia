@@ -354,6 +354,7 @@ GM.Config.DefaultWeapons = {
     "weapon_physcannon",
     "gmod_camera",
     "gmod_tool",
+    "gsmartwatch",
     "weapon_physgun",
     "weapon_fists",
     "itemstore_pickup",
