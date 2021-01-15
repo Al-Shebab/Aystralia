@@ -42,6 +42,9 @@ if SERVER then
 	slib.setLang("gprotect", "en", "insufficient-permission", "You do not have the privilege to do this!")
 	slib.setLang("gprotect", "en", "spawn-to-close", "Your prop cannot be spawned inside someone!")
 	slib.setLang("gprotect", "en", "entity-ghosted", "Your entity has been ghosted!")
+
+	slib.setLang("gprotect", "en", "ratelimited_toolgun", "This tool has a ratelimit, please wait!")
+	slib.setLang("gprotect", "en", "too_many_obstructs_purchase", "We have removed the entity and refunded you, there are too many obstructs!")
 elseif CLIENT then
 	slib.setLang("gprotect", "en", "title", "gProtect - Settings")
 	slib.setLang("gprotect", "en", "buddies-title", "gProtect - Buddies")
@@ -55,6 +58,9 @@ elseif CLIENT then
 	slib.setLang("gprotect", "en", "toolgun-help", "Shoot on a prop with the tool")
 	slib.setLang("gprotect", "en", "remove-on-blacklist", "Remove prop on blacklist")
 	slib.setLang("gprotect", "en", "player-list", "Player List")
+
+	slib.setLang("gprotect", "en", "submit", "Submit")
+	slib.setLang("gprotect", "en", "input_number", "Input number")
 
 	slib.setLang("gprotect", "en", "toolgun", "Toolgun")
 	slib.setLang("gprotect", "en", "physgun", "Physgun")
@@ -163,6 +169,8 @@ elseif CLIENT then
 	slib.setLang("gprotect", "en", "anticollide_useBlacklist_tooltip", "The blacklisted entities will be ghosted if the collide to much if this is enabled.")
 	slib.setLang("gprotect", "en", "anticollide_ghostEntities", "Entities")
 	slib.setLang("gprotect", "en", "anticollide_ghostEntities_tooltip", "Classnames in this list will be ghosted if they collide to much.")
+	slib.setLang("gprotect", "en", "anticollide_specificEntities", "Specific entities")
+	slib.setLang("gprotect", "en", "anticollide_specificEntities_tooltip", "Add classnames in here to make specific rules for them, meaning that the number here will be their threshold anything below 0 will count them as bypass.")
 
 	slib.setLang("gprotect", "en", "spamprotection_enabled", "Enabled")
 	slib.setLang("gprotect", "en", "spamprotection_enabled_tooltip", "Enable the spamprotection module?")
@@ -222,6 +230,8 @@ elseif CLIENT then
 	slib.setLang("gprotect", "en", "toolgunsettings_bypassTargetabilityTools_tooltip", "The tools in this list will bypass the targetability settings!")
 	slib.setLang("gprotect", "en", "toolgunsettings_bypassGroups", "Bypass groups")
 	slib.setLang("gprotect", "en", "toolgunsettings_bypassGroups_tooltip", "Groups in here will bypass the tool restriction list from above!")
+	slib.setLang("gprotect", "en", "toolgunsettings_antiSpam", "Anti spam")
+	slib.setLang("gprotect", "en", "toolgunsettings_antiSpam_tooltip", "Add tools in here and specify how many times they can use the tool per second!")
 
 	slib.setLang("gprotect", "en", "physgunsettings_enabled", "Enabled")
 	slib.setLang("gprotect", "en", "physgunsettings_enabled_tooltip", "Enable the physgun settings module?")
@@ -311,4 +321,8 @@ elseif CLIENT then
 	slib.setLang("gprotect", "en", "miscs_preventSpawnNearbyPlayer_tooltip", "If someone are closer to the spawn position than this value it wont spawn the prop (0 Means disabled)")
 	slib.setLang("gprotect", "en", "miscs_DRPEntForceOwnership", "Force ownership on DarkRP Entities")
 	slib.setLang("gprotect", "en", "miscs_DRPEntForceOwnership_tooltip", "This will force the ownership of entiteis bought in the F4 Menu")
+	slib.setLang("gprotect", "en", "miscs_DRPMaxObstructsOnPurchaseEnts", "Max obstructs on purchase for DarkRP Ents")
+	slib.setLang("gprotect", "en", "miscs_DRPMaxObstructsOnPurchaseEnts_tooltip", "This will prevent spawning alot of DRP Entities inside of eachother!")
+	slib.setLang("gprotect", "en", "miscs_DRPObstructsFilter", "Max obstructs filter DarkRP entities")
+	slib.setLang("gprotect", "en", "miscs_DRPObstructsFilter_tooltip", "This is the filter for the max obstructs(1 = DRP Entitities, 2 = Props)")
 end

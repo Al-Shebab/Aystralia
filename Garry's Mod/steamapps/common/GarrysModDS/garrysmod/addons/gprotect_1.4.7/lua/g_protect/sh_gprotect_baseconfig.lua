@@ -36,7 +36,7 @@ gProtect.config.modules.damage = {
 	["entities"] = {},
 	["immortalEntities"] = {},
 	["bypassGroups"] = {},
-	["canDamageWorldEntities"] = {}
+	["canDamageWorldEntities"] = {["*"] = true}
 }
 
 gProtect.config.modules.anticollide = {
@@ -50,7 +50,8 @@ gProtect.config.modules.anticollide = {
 	["entitiesException"] = 1,
 	["protectSpawnedProps"] = 3,
 	["propsThreshold"] = 45,
-	["propsException"] = 1
+	["propsException"] = 1,
+	["specificEntities"] = {}
 }
 
 gProtect.config.modules.spamprotection = {
@@ -96,7 +97,8 @@ gProtect.config.modules.toolgunsettings = {
 		list = {["sammyservers_textscreen"] = true, ["player"] = true},
 	},
 	["bypassTargetabilityTools"] = {["remover"] = true},
-	["bypassGroups"] = {["owner"] = true, ["superadmin"] = true}
+	["bypassGroups"] = {["owner"] = true, ["superadmin"] = true},
+	["antiSpam"] = {}
 }
 
 gProtect.config.modules.physgunsettings = {                    
@@ -155,7 +157,9 @@ gProtect.config.modules.miscs = {
 	["freezeOnSpawn"] = true,
 	["preventFadingDoorAbuse"] = true,
 	["preventSpawnNearbyPlayer"] = 10,
-	["DRPEntForceOwnership"] = {}
+	["DRPEntForceOwnership"] = {},
+	["DRPMaxObstructsOnPurchaseEnts"] = 3,
+	["DRPObstructsFilter"] = 1
 }
 
 ------------------------------------------------------           
