@@ -266,7 +266,7 @@ zrmine.config.MetalBar_DropOnDeath = false
 zrmine.config.MetalBuyer = {
 
 	// Model of the NPC
-	model = "models/player/blockdude.mdl",
+	model = "models/Humans/Group03/male_07.mdl",
 	// Note* You need do make sure the Model got compiled with the animations you want to use
 
 	// The Idle Animations of the Buyer NPC
