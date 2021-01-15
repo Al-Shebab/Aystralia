@@ -1363,18 +1363,6 @@ if CLIENT then
 			Panel:AddControl( "Checkbox", { Label = "Free Movement", Command = "precision_FreeMov", Description = "Only lock relative rotation, not position?"  } )
 		end
 
-		if ( mode == 8 ) then //slider
-			Panel:AddControl( "Slider",  { Label	= "Slider Width",
-					Type	= "Float",
-					Min		= 0.0,
-					Max		= 10,
-					Command = "precision_width",
-					Description = "Width of the slider black line (0 = invisible)"}	 )
-
-			Panel:AddControl( "Checkbox", { Label = "Turn Off Minor Slider Stabilisation", Command = "precision_disablesliderfix", Description = "Fix being separate X/Y/Z advanced ballsocket locks between the props.  This stops most spaz caused by rotation, but not spaz caused by displacement." } )
-			Panel:AddControl( "Label", { Text = "Stabilisation is separate X/Y/Z adv. ballsockets; it makes it far less prone to rotation triggered spaz, but the difference is only noticeable sometimes as it's still just as prone to spaz caused by drifting.", Description	= "Due to lack of working descriptions at time of coding" }  )
-		end
-
 		if ( mode == 9 ) then //parent
 			Panel:AddControl( "Label", { Text = "Parenting Notes:", Description	= "Due to lack of working descriptions at time of coding" }  )
 			Panel:AddControl( "Label", { Text = "Parenting objects is most similar to a very strong weld, but it stops most interaction on the first object when you attach it to the second.  Players can walk on it, but it will fall through players.  It will not collide with objects or the world.  It will also not cause any extra physics lag/spaz.  Try it out on a test object, and decide if it's useful to you!", Description	= "Due to lack of working descriptions at time of coding" }  )
