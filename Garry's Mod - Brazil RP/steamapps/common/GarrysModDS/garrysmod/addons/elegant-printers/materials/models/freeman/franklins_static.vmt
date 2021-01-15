@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/franklins_nocol"	"$surfaceprop" "paper"
+	"$nocull" "1"
+
+	// Tinting
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+}

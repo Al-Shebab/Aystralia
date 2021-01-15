@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/meekal/LG_22EA53_Skin2"
+	"$selfillum" 1
+	"$selfillummask" "models/meekal/LG_22EA53_Illum"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/meekal/LG_22EA53_Spec"
+}

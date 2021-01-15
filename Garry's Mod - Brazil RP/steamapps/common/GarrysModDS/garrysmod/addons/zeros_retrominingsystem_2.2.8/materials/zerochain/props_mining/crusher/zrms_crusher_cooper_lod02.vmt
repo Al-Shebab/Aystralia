@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/crusher/zrms_crusher_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

@@ -1,0 +1,12 @@
+"SpriteCard"
+{
+	"$basetexture" "zerochain/particles/zmlab/zmlab_smoke02"
+
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+
+	"$Additive" "1"
+	
+	$depthblend 1
+	$depthblendscale 2
+}

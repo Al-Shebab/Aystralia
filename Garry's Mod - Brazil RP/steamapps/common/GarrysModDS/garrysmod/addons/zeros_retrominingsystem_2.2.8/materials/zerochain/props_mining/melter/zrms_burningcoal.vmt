@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_mining/melter/zrms_burningcoal"
+	
+	"$selfIllum"			1
+	$selfillummask 			"zerochain/props_mining/melter/zrms_burningcoal"
+	"$alphatest"			1
+
+	"$surfaceprop" "plastic"
+	"$model" 1
+}

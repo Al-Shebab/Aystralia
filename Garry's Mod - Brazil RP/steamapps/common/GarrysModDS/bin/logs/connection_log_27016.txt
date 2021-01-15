@@ -1,0 +1,20 @@
+
+
+[2021-01-15 08:03:32] Log session started
+[2021-01-15 08:03:32] [0,0] SetSteamID( [G:1:0] )
+[2021-01-15 08:03:32] [0,0] Server says 50% of connections should be websockets, we rolled 92 - using UDP as default.
+[2021-01-15 08:03:32] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.164:27019, UDP)
+[2021-01-15 08:03:32] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-01-15 08:03:32] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-01-15 08:03:33] [1,2] ConnectionCompleted() (162.254.195.71:27023, UDP)
+[2021-01-15 08:03:33] [1,2] RecvMsgClientLogOnResponse() : [G:1:3987399] 'OK'
+
+
+[2021-01-15 09:01:00] Log session started
+[2021-01-15 09:01:00] [0,0] SetSteamID( [G:1:0] )
+[2021-01-15 09:01:00] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-01-15 09:01:00] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-01-15 09:01:00] [0,0] Server says 50% of connections should be websockets, we rolled 94 - using UDP as default.
+[2021-01-15 09:01:00] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.164:27020, UDP)
+[2021-01-15 09:01:01] [1,2] ConnectionCompleted() (103.10.125.164:27020, UDP)
+[2021-01-15 09:01:01] [1,2] RecvMsgClientLogOnResponse() : [G:1:3987399] 'OK'
