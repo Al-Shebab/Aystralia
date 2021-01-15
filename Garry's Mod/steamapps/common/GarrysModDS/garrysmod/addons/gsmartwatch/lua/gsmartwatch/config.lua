@@ -20,11 +20,11 @@ GSmartWatch.Cfg.DisabledApps = {                -- Set an app on true if you wan
     [ "app_compass" ] = false,
     [ "app_fitness" ] = false,
     [ "app_health" ] = false,
-    [ "app_maps" ] = false,
+    [ "app_maps" ] = true,
     [ "app_radio" ] = false,
     [ "app_services" ] = false,    
     [ "app_stockmarket" ] = false,              -- Required : Stock Market System
-    [ "app_stopwatch" ] = false,
+    [ "app_stopwatch" ] = true,
     [ "app_taxes" ] = false,                    -- Required : Slawer Mayor or DarkRP Mayor System
     [ "app_weather" ] = false,                  -- Required : StormFox
 }
