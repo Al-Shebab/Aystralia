@@ -26,8 +26,9 @@ DarkRP.createShipment("Colt 1911", {
     amount = 10,
     price = 40000,
     separate = false,
-    pricesep = 0,
+    pricesep = 4000,
     noship = false,
+    separate = true,
     category = "Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -37,8 +38,9 @@ DarkRP.createShipment("M92 Beretta", {
     amount = 10,
     price = 45000,
     separate = false,
-    pricesep = 0,
+    pricesep = 4500,
     noship = false,
+    separate = true,
     category = "Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -48,8 +50,9 @@ DarkRP.createShipment("HK USP", {
     amount = 10,
     price = 50000,
     separate = false,
-    pricesep = 0,
+    pricesep = 5000,
     noship = false,
+    separate = true,
     category = "Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -59,8 +62,9 @@ DarkRP.createShipment("Glock 18", {
     amount = 10,
     price = 65000,
     separate = false,
-    pricesep = 0,
+    pricesep = 6500,
     noship = false,
+    separate = true,
     category = "Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -73,8 +77,9 @@ DarkRP.createShipment("Colt Python", {
     amount = 10,
     price = 65000,
     separate = false,
-    pricesep = 0,
+    pricesep = 6500,
     noship = false,
+    separate = true,
     category = "Heavy Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -84,8 +89,9 @@ DarkRP.createShipment("S&W Model 500", {
     amount = 10,
     price = 75000,
     separate = false,
-    pricesep = 0,
+    pricesep = 7500,
     noship = false,
+    separate = true,
     category = "Heavy Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -95,8 +101,9 @@ DarkRP.createShipment("Desert Eagle", {
     amount = 10,
     price = 80000,
     separate = false,
-    pricesep = 0,
+    pricesep = 8000,
     noship = false,
+    separate = true,
     category = "Heavy Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -106,8 +113,9 @@ DarkRP.createShipment("Raging Bull - Scoped", {
     amount = 10,
     price = 85000,
     separate = false,
-    pricesep = 0,
+    pricesep = 8500,
     noship = false,
+    separate = true,
     category = "Heavy Pistols",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -120,8 +128,9 @@ DarkRP.createShipment("HK USC", {
     amount = 10,
     price = 90000,
     separate = false,
-    pricesep = 0,
+    pricesep = 9000,
     noship = false,
+    separate = true,
     category = "SMGs",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -131,8 +140,9 @@ DarkRP.createShipment("UZI", {
     amount = 10,
     price = 100000,
     separate = false,
-    pricesep = 0,
+    pricesep = 10000,
     noship = false,
+    separate = true,
     category = "SMGs",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -142,8 +152,9 @@ DarkRP.createShipment("Tommy Gun", {
     amount = 10,
     price = 110000,
     separate = false,
-    pricesep = 0,
+    pricesep = 11000,
     noship = false,
+    separate = true,
     category = "SMGs",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -153,8 +164,9 @@ DarkRP.createShipment("MP9", {
     amount = 10,
     price = 130000,
     separate = false,
-    pricesep = 0,
+    pricesep = 13000,
     noship = false,
+    separate = true,
     category = "SMGs",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -167,8 +179,9 @@ DarkRP.createShipment("Winchester 1897", {
     amount = 10,
     price = 100000,
     separate = false,
-    pricesep = 0,
+    pricesep = 10000,
     noship = false,
+    separate = true,
     category = "Shotguns",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -178,8 +191,9 @@ DarkRP.createShipment("Benelli M3", {
     amount = 10,
     price = 110000,
     separate = false,
-    pricesep = 0,
+    pricesep = 11000,
     noship = false,
+    separate = true,
     category = "Shotguns",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -189,8 +203,9 @@ DarkRP.createShipment("Mossberg 590", {
     amount = 10,
     price = 120000,
     separate = false,
-    pricesep = 0,
+    pricesep = 12000,
     noship = false,
+    separate = true,
     category = "Shotguns",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -200,8 +215,9 @@ DarkRP.createShipment("Winchester 1887", {
     amount = 10,
     price = 240000,
     separate = false,
-    pricesep = 0,
+    pricesep = 24000,
     noship = false,
+    separate = true,
     category = "Shotguns",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -214,8 +230,9 @@ DarkRP.createShipment("M4A1", {
     amount = 10,
     price = 310000,
     separate = false,
-    pricesep = 0,
+    pricesep = 31000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -225,8 +242,9 @@ DarkRP.createShipment("AK-47", {
     amount = 10,
     price = 350000,
     separate = false,
-    pricesep = 0,
+    pricesep = 35000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -236,8 +254,9 @@ DarkRP.createShipment("M16A4 ACOG", {
     amount = 10,
     price = 400000,
     separate = false,
-    pricesep = 0,
+    pricesep = 40000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_GUN_DEALER}
 })
@@ -250,8 +269,9 @@ DarkRP.createShipment("M416", {
     amount = 10,
     price = 200000,
     separate = false,
-    pricesep = 0,
+    pricesep = 20000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -261,8 +281,9 @@ DarkRP.createShipment("G36C", {
     amount = 10,
     price = 210000,
     separate = false,
-    pricesep = 0,
+    pricesep = 21000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -272,8 +293,9 @@ DarkRP.createShipment("SCAR", {
     amount = 10,
     price = 210000,
     separate = false,
-    pricesep = 0,
+    pricesep = 21000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -283,8 +305,9 @@ DarkRP.createShipment("F2000", {
     amount = 10,
     price = 240000,
     separate = false,
-    pricesep = 0,
+    pricesep = 24000,
     noship = false,
+    separate = true,
     category = "Rifles",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -297,8 +320,9 @@ DarkRP.createShipment("FG42", {
     amount = 5,
     price = 300000,
     separate = false,
-    pricesep = 0,
+    pricesep = 30000,
     noship = false,
+    separate = true,
     category = "Machine Guns",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -308,8 +332,9 @@ DarkRP.createShipment("M60", {
     amount = 5,
     price = 450000,
     separate = false,
-    pricesep = 0,
+    pricesep = 45000,
     noship = false,
+    separate = true,
     category = "Machine Guns",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -319,8 +344,9 @@ DarkRP.createShipment("M249", {
     amount = 5,
     price = 500000,
     separate = false,
-    pricesep = 0,
+    pricesep = 50000,
     noship = false,
+    separate = true,
     category = "Machine Guns",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -333,8 +359,9 @@ DarkRP.createShipment("M24", {
     amount = 5,
     price = 500000,
     separate = false,
-    pricesep = 0,
+    pricesep = 50000,
     noship = false,
+    separate = true,
     category = "Snipers",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -344,8 +371,9 @@ DarkRP.createShipment("Barrett M98B", {
     amount = 5,
     price = 700000,
     separate = false,
-    pricesep = 0,
+    pricesep = 70000,
     noship = false,
+    separate = true,
     category = "Snipers",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -355,8 +383,9 @@ DarkRP.createShipment("Remington 7615P", {
     amount = 5,
     price = 750000,
     separate = false,
-    pricesep = 0,
+    pricesep = 75000,
     noship = false,
+    separate = true,
     category = "Snipers",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
@@ -366,8 +395,9 @@ DarkRP.createShipment("AW50", {
     amount = 5,
     price = 800000,
     separate = false,
-    pricesep = 0,
+    pricesep = 80000,
     noship = false,
+    separate = true,
     category = "Snipers",
     allowed = {TEAM_BLACK_MARKET_DEALER}
 })
