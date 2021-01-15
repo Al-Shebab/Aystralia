@@ -190,8 +190,8 @@ zrmine.config.Pickaxe_OreRestriction = {
 
 
 // How many pickaxe hits before we get another XP
-zrmine.config.Pickaxe_MaxNextXP = 20
-zrmine.config.Pickaxe_MinNextXP = 15
+zrmine.config.Pickaxe_MaxNextXP = 10
+zrmine.config.Pickaxe_MinNextXP = 2
 
 // What Color Theme should the Pickaxe UI have
 zrmine.config.PickaxeThemeLight = false
