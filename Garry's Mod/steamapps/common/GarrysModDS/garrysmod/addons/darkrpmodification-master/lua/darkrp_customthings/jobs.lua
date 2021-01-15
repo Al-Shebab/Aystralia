@@ -431,28 +431,6 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
     end,
     CustomCheckFailMsg = "This job is for donators only.",
 })
-TEAM_UNDERCOVER_COP = DarkRP.createJob("Undercover Cop", {
-    color = Color(45, 6, 255, 255),
-    model = {"models/player/mossman_arctic.mdl"},
-    description = [[Spy on brazil cartels from behind enemy lines. Can not base, raid or mug.]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "door_ram", "unarrest_stick", "stunstick" , "weaponchecker", "m9k_usp"},
-    command = "TEAM_UNDERCOVER_COP",
-    max = 2,
-    salary = 4000,
-    admin = 0,
-    vote = true,
-    hasLicense = true,
-    candemote = true,
-    category = "Government",
-    ammo = {
-        ["pistol"] = 120
-    },
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(50)
-    end
-})
 
 -- Illegal --
 
