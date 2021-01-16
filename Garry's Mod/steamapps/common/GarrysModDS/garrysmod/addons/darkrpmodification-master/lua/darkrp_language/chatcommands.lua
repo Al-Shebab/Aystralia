@@ -83,7 +83,6 @@ local descriptions = {
     ["name"]                  = "Set your RP name",
     ["nick"]                  = "Set your RP name",
     ["ooc"]                   = "Global server chat.",
-    ["placelaws"]             = "Place a laws board.",
     ["pm"]                    = "Send a private message to someone.",
     ["price"]                 = "Set the price of the microwave or gunlab you're looking at",
     ["radio"]                 = "Say something through the radio.",
