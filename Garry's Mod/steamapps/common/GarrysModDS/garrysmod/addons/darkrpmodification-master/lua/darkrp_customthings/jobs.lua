@@ -897,16 +897,16 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
     weapons = {"arrest_stick", "door_ram", "unarrest_stick", "stunstick", "weaponchecker", "weapon_keypadchecker", "staff_lockpick", "gas_log_scanner", "itemstore_checker"},
     command = "TEAM_STAFF_ON_DUTY",
     max = 0,
-    salary = 15000,
+    salary = 45000,
     admin = 0,
     vote = false,
     hasLicense = true,
     candemote = false,
     category = "Staff",
     PlayerSpawn = function(ply)
-        ply:SetMaxHealth(500)
-        ply:SetHealth(500)
-        ply:SetArmor(500)
+        ply:SetMaxHealth(1500)
+        ply:SetHealth(1500)
+        ply:SetArmor(1500)
     end,
     customCheck = function(ply) return
         table.HasValue({"superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator", "admin", "senior-moderator", "moderator", "trial-moderator"}, ply:GetNWString("usergroup"))
