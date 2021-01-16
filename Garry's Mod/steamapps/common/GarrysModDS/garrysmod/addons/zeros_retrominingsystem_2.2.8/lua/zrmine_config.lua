@@ -182,6 +182,16 @@ zrmine.config.Pickaxe_Lvl[7] = {NextXP = 3000, HarvestAmount = 6.5, HarvestInter
 zrmine.config.Pickaxe_Lvl[8] = {NextXP = 5000, HarvestAmount = 7, HarvestInterval = 0.5 , OreInv = 400, FillCap = 50}
 zrmine.config.Pickaxe_Lvl[9] = {NextXP = 7500, HarvestAmount = 7.5, HarvestInterval = 0.45 , OreInv = 500, FillCap = 100}
 zrmine.config.Pickaxe_Lvl[10] = {NextXP = 10000, HarvestAmount = 8, HarvestInterval = 0.4 , OreInv = 600, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[11] = {NextXP = 20000, HarvestAmount = 8, HarvestInterval = 0.4 , OreInv = 700, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[12] = {NextXP = 40000, HarvestAmount = 9, HarvestInterval = 0.35 , OreInv = 800, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[13] = {NextXP = 60000, HarvestAmount = 9, HarvestInterval = 0.35 , OreInv = 900, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[14] = {NextXP = 80000, HarvestAmount = 10, HarvestInterval = 0.33 , OreInv = 1000, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[15] = {NextXP = 100000, HarvestAmount = 10, HarvestInterval = 0.33 , OreInv = 1000, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[16] = {NextXP = 140000, HarvestAmount = 10, HarvestInterval = 0.3 , OreInv = 1000, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[17] = {NextXP = 180000, HarvestAmount = 11, HarvestInterval = 0.3 , OreInv = 1000, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[18] = {NextXP = 210000, HarvestAmount = 11, HarvestInterval = 0.27 , OreInv = 1000, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[19] = {NextXP = 250000, HarvestAmount = 12, HarvestInterval = 0.27 , OreInv = 1000, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[20] = {NextXP = 300000, HarvestAmount = 13, HarvestInterval = 0.27 , OreInv = 1000, FillCap = 100}
 
 // Here you can set what Ore Ressource requires what Pickaxe Level
 zrmine.config.Pickaxe_OreRestriction = {
