@@ -171,12 +171,17 @@ Examble: zrmine.config.Pickaxe_Lvl[Level] =
     }
 */
 zrmine.config.Pickaxe_Lvl = {}
-zrmine.config.Pickaxe_Lvl[0] = {NextXP = 100, HarvestAmount = 0.1, HarvestInterval = 1.3 , OreInv = 10, FillCap = 3}
-zrmine.config.Pickaxe_Lvl[1] = {NextXP = 200, HarvestAmount = 0.5, HarvestInterval = 1 , OreInv = 15, FillCap = 5}
-zrmine.config.Pickaxe_Lvl[2] = {NextXP = 400, HarvestAmount = 1, HarvestInterval = 0.9 , OreInv = 20, FillCap = 10}
-zrmine.config.Pickaxe_Lvl[3] = {NextXP = 500, HarvestAmount = 2, HarvestInterval = 0.75 , OreInv = 25, FillCap = 15}
-zrmine.config.Pickaxe_Lvl[4] = {NextXP = 1000, HarvestAmount = 4, HarvestInterval = 0.6 , OreInv = 35, FillCap = 20}
-zrmine.config.Pickaxe_Lvl[5] = {NextXP = 1500, HarvestAmount = 5, HarvestInterval = 0.5 , OreInv = 50, FillCap = 25}
+zrmine.config.Pickaxe_Lvl[0] = {NextXP = 100, HarvestAmount = 0.1, HarvestInterval = 1.3 , OreInv = 20, FillCap = 3}
+zrmine.config.Pickaxe_Lvl[1] = {NextXP = 200, HarvestAmount = 0.5, HarvestInterval = 1 , OreInv = 30, FillCap = 5}
+zrmine.config.Pickaxe_Lvl[2] = {NextXP = 400, HarvestAmount = 1, HarvestInterval = 0.9 , OreInv = 40, FillCap = 10}
+zrmine.config.Pickaxe_Lvl[3] = {NextXP = 500, HarvestAmount = 2, HarvestInterval = 0.75 , OreInv = 50, FillCap = 15}
+zrmine.config.Pickaxe_Lvl[4] = {NextXP = 1000, HarvestAmount = 4, HarvestInterval = 0.6 , OreInv = 70, FillCap = 20}
+zrmine.config.Pickaxe_Lvl[5] = {NextXP = 1500, HarvestAmount = 5, HarvestInterval = 0.5 , OreInv = 100, FillCap = 25}
+zrmine.config.Pickaxe_Lvl[6] = {NextXP = 2000, HarvestAmount = 6, HarvestInterval = 0.5 , OreInv = 200, FillCap = 50}
+zrmine.config.Pickaxe_Lvl[7] = {NextXP = 3000, HarvestAmount = 6.5, HarvestInterval = 0.5 , OreInv = 300, FillCap = 50}
+zrmine.config.Pickaxe_Lvl[8] = {NextXP = 5000, HarvestAmount = 7, HarvestInterval = 0.5 , OreInv = 400, FillCap = 50}
+zrmine.config.Pickaxe_Lvl[9] = {NextXP = 7500, HarvestAmount = 7.5, HarvestInterval = 0.45 , OreInv = 500, FillCap = 100}
+zrmine.config.Pickaxe_Lvl[10] = {NextXP = 10000, HarvestAmount = 8, HarvestInterval = 0.4 , OreInv = 600, FillCap = 100}
 
 // Here you can set what Ore Ressource requires what Pickaxe Level
 zrmine.config.Pickaxe_OreRestriction = {
@@ -389,7 +394,7 @@ zrmine.config.Crusher_Capacity = 100
 ///////////////////////
 
 // The Capacity of the Crates
-zrmine.config.GravelCrates_Capacity = 100
+zrmine.config.GravelCrates_Capacity = 1000
 
 // Do we want do reuse the gravel crates or should they get deleted when emtpy
 zrmine.config.GravelCrates_ReUse = true
@@ -402,7 +407,7 @@ zrmine.config.GravelCrates_ReUse = true
 // Do we want that everyone can attach or detach the refiner basket
 zrmine.config.ResourceCrates_Sharing = true
 // The Capacity of the Crates
-zrmine.config.ResourceCrates_Capacity = 50
+zrmine.config.ResourceCrates_Capacity = 500
 // Do we want do reuse the crate or destroy it when emtpy
 zrmine.config.ResourceCrates_ReUse = true
 ///////////////////////
