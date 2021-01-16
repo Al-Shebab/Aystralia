@@ -525,7 +525,7 @@ DarkRP.createEntity("Refiner - Crate", {
 	ent = "zrms_basket",
 	model = "models/zerochain/props_mining/zrms_refiner_basket.mdl",
 	price = 250,
-	max = 8,
+	max = 2,
 	cmd = "buyzrms_basket",
 	allowed = TEAM_MINER,
 	category = "Mining"
@@ -535,7 +535,7 @@ DarkRP.createEntity("Storage Crate", {
 	ent = "zrms_storagecrate",
 	model = "models/zerochain/props_mining/zrms_storagecrate.mdl",
 	price = 25,
-	max = 6,
+	max = 5,
 	cmd = "buyzrms_storagecrate",
 	allowed = TEAM_MINER,
 	category = "Mining"
