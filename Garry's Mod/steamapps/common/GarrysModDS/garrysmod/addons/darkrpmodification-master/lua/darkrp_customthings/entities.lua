@@ -550,6 +550,16 @@ DarkRP.createEntity("Storage Crate", {
 	category = "Mining"
 })
 
+DarkRP.createEntity("Mine", {
+	ent = "zrms_mineentrance_base",
+	model = "models/zerochain/props_mining/mining_entrance.mdl",
+	price = 150000,
+	max = 3,
+	cmd = "buyzrms_mineentrance_base",
+	allowed = TEAM_MINER,
+	category = "Mining"
+})
+
 DarkRP.createEntity("Melter", {
 	ent = "zrms_melter",
 	model = "models/zerochain/props_mining/zrms_melter.mdl",
