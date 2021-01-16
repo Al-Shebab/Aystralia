@@ -375,6 +375,15 @@ DarkRP.createEntity("Armour Station", {
     max = 1,
     cmd = "armour_station",
     category = "Supplies"
+})    
+
+DarkRP.createEntity("Vehicle Repair Kit", {
+    ent = "vc_pickup_healthkit_100",
+    model = "models/vcmod/vcmod_toolbox.mdl",
+    price = 25000,
+    max = 1,
+    cmd = "repair_kit",
+    category = "Supplies"
 })
 
 DarkRP.createEntity("BuildKit", {
