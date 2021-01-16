@@ -915,7 +915,7 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
 })
 
 TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
-    color = Color(225, 75, 75, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/hazmat/bmhaztechs.mdl"},
     description = [[You are making Petrol!]],
     weapons = {},
@@ -929,7 +929,7 @@ TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
 })
 
 TEAM_FRUIT_SLICER = DarkRP.createJob("Fruit Slicer", {
-	color = Color(0, 128, 255, 255),
+	color = Color(74, 255, 69, 255),
 	model = {"models/fortnite/female/dj_bop.mdl"},
 	description = [[You sell Smoothies!]],
 	weapons = {"zfs_knife"},
@@ -943,17 +943,49 @@ TEAM_FRUIT_SLICER = DarkRP.createJob("Fruit Slicer", {
 })
 
 TEAM_MINER = DarkRP.createJob("Miner", {
-	color = Color(0, 128, 255, 255),
+	color = Color(196, 115, 0, 255),
 	model = {"models/player/blockdude.mdl"},
 	description = [[Find Diamonds]],
 	weapons = {"zrms_pickaxe","zrms_builder"},
 	command = "TEAM_MINER",
-	max = 4,
+	max = 8,
 	salary = 1500,
 	admin = 0,
 	vote = false,
 	category = "Manufacturing",
 	hasLicense = false
+})
+
+--[[
+    Generated using: DarkRP | Job Generator
+    https://csite.io/tools/gmod-darkrp-job
+--]]
+TEAM_CHELL = DarkRP.createJob("Chell", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/errolliamp/p2_chell_new.mdl"},
+    description = [[As you know it is a very bright summer day today and we will be celebrating it with this class.
+This class is a fine class, the finest class you will soon to understand why it is a fine class.
+Come step into my office, I will show you more.
+This job comes with ability to raid, mug and base with anyone on the server.
+If you like Al Shebab, then you will most likely love Kebabs.]],
+    weapons = {"climb_swep2", "m9k_mp7", "prokeypadcracker", "pro_lockpick"},
+    command = "TEAM_CHELL",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:1:53337546", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Joey only.",
 })
 
 
