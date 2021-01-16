@@ -197,10 +197,10 @@ zrmine.config.Pickaxe_Lvl[20] = {NextXP = 300000, HarvestAmount = 13, HarvestInt
 zrmine.config.Pickaxe_OreRestriction = {
 	["Coal"] = 0,
 	["Iron"] = 0,
-	["Bronze"] = 2,
-	["Silver"] = 3,
-	["Gold"] = 4,
-	["Random"] = 4,
+	["Bronze"] = 4,
+	["Silver"] = 5,
+	["Gold"] = 6,
+	["Random"] = 6,
 }
 
 
