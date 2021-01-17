@@ -4,7 +4,7 @@ eProtect.config = eProtect.config or {}
 
 eProtect.config["language"] = "en"
 
-eProtect.config["prefix"] = "[eProtect] "
+eProtect.config["prefix"] = ""
 
 eProtect.config["disablehttplogging"] = false
 
