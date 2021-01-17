@@ -261,7 +261,7 @@ zrmine.config.StorageCrateFull = false
 zrmine.config.MetalBar_Stealing = {
 
 	// Can other Players steal the Bars or the storagecrate?
-	Enabled = false,
+	Enabled = true,
 
 	// These Jobs can steal metalbars and storagecrates. (Leave empty to allow everyone to steal)
 	// You probably also want to add the job names to zrmine.config.Jobs so these Jobs can also sell the metal bars
