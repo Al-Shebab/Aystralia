@@ -281,7 +281,7 @@ zrmine.config.MetalBar_Stealing = {
 }
 
 // Do we want the metal bars from the players inventory to drop on death?
-zrmine.config.MetalBar_DropOnDeath = false
+zrmine.config.MetalBar_DropOnDeath = true
 ///////////////////////
 
 
