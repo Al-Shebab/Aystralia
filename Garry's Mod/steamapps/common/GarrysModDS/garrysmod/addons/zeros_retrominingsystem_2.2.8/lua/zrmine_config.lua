@@ -205,8 +205,8 @@ zrmine.config.Pickaxe_OreRestriction = {
 
 
 // How many pickaxe hits before we get another XP
-zrmine.config.Pickaxe_MaxNextXP = 10
-zrmine.config.Pickaxe_MinNextXP = 2
+zrmine.config.Pickaxe_MaxNextXP = 14
+zrmine.config.Pickaxe_MinNextXP = 4
 
 // What Color Theme should the Pickaxe UI have
 zrmine.config.PickaxeThemeLight = false
@@ -316,7 +316,7 @@ zrmine.config.Resource_DespawnTime = 200
 zrmine.config.Ore_Refresh = true
 
 // How often do we want do refresh the ore spawns?
-zrmine.config.Ore_Refreshrate = 600
+zrmine.config.Ore_Refreshrate = 300
 
 // How much gets refreshed?
 zrmine.config.Ore_RefreshAmount = 400 //kg
