@@ -1,1 +1,0 @@
-local RouletteState = CasinoKit.class("RouletteState", "State")

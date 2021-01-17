@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "sycreations/car_dealership/tablet_glass"
-	"$color2" "[ 1 1 1 ]" //increase the numbers uniformly between 0 and 1 to make the edges of the screen brighter
-
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[0.2 0.2 0.2]"
-}
