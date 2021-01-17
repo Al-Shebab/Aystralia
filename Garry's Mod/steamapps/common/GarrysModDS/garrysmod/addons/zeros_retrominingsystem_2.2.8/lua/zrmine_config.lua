@@ -266,7 +266,17 @@ zrmine.config.MetalBar_Stealing = {
 	// These Jobs can steal metalbars and storagecrates. (Leave empty to allow everyone to steal)
 	// You probably also want to add the job names to zrmine.config.Jobs so these Jobs can also sell the metal bars
 	Jobs = {
-		//[TEAM_GANG] = true,
+		[TEAM_THIEF] = true,
+		[TEAM_HACKER] = true,
+		[TEAM_BLOOD] = true,
+		[TEAM_CRIP] = true,
+		[TEAM_BLOOD_LEADER] = true,
+		[TEAM_CRIP_LEADER] = true,
+		[TEAM_MAFIA] = true,
+		[TEAM_MAFIA_LEADER] = true,
+		[TEAM_BATTLE_MEDIC] = true,
+		[TEAM_PRO_THIEF] = true,
+		[TEAM_PRO_HACKER] = true,
 	}
 }
 
