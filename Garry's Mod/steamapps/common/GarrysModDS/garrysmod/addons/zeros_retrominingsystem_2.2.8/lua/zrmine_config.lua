@@ -402,10 +402,10 @@ zrmine.config.Inserter_LossRate = 0.25  // 0 - 0.9
 zrmine.config.Crusher_Time = 4
 
 // Whats the work amount
-zrmine.config.Crusher_WorkAmount = 2
+zrmine.config.Crusher_WorkAmount = 5
 
 // Whats the crusher inventory capacity?
-zrmine.config.Crusher_Capacity = 100
+zrmine.config.Crusher_Capacity = 1000
 ///////////////////////
 
 
@@ -459,7 +459,7 @@ zrmine.config.Refiner_AutoSpawnCrate = true
 // The Melter
 ///////////////////////
 // The Coal Capacity of the Melter
-zrmine.config.Melter_Coal_Capacity = 100
+zrmine.config.Melter_Coal_Capacity = 1000
 
 // The Unload Time
 zrmine.config.Melter_UnloadTime = 10
