@@ -1,13 +1,13 @@
 gProtect = gProtect or {}
 gProtect.config = gProtect.config or {}
 
-gProtect.config.Prefix = "[gProtect] "
+gProtect.config.Prefix = ""
 
 gProtect.config.FrameSize = {x = 620, y = 450}
 
 gProtect.config.SelectedLanguage = "en"
 
-gProtect.config.EnableOwnershipHUD = false
+gProtect.config.EnableOwnershipHUD = true
 
 gProtect.config.ConfigPermission = {
 	["superadmin"] = true
