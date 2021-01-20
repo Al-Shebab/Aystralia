@@ -987,11 +987,6 @@ If you like Al Shebab, then you will most likely love Kebabs.]],
     end,
     CustomCheckFailMsg = "This job is for Joey only.",
 })
-
---[[
-    Generated using: DarkRP | Job Generator
-    https://csite.io/tools/gmod-darkrp-job
---]]
 TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
     color = Color(255, 0, 0, 255),
     model = {"models/kerry/killa_suka_blat/killa_blat.mdl"},
@@ -1004,7 +999,7 @@ TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
     vote = false,
     hasLicense = true,
     candemote = false,
-    category = "Illegal",
+    category = "Donator Classes",
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)

@@ -1,0 +1,16 @@
+
+
+[2021-01-17 20:42:38] Log session started
+[2021-01-17 20:42:38] [0,0] SetSteamID( [G:1:0] )
+[2021-01-17 20:42:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-17 20:42:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-17 20:42:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-17 20:42:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-17 20:42:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-17 20:42:38] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-01-17 20:42:38] [0,0] Server says 50% of connections should be websockets, we rolled 87 - using UDP as default.
+[2021-01-17 20:42:38] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.164:27018, UDP)
+[2021-01-17 20:42:38] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-01-17 20:42:38] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-01-17 20:42:39] [1,2] ConnectionCompleted() (103.10.125.165:27018, UDP)
+[2021-01-17 20:42:39] [1,2] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'
