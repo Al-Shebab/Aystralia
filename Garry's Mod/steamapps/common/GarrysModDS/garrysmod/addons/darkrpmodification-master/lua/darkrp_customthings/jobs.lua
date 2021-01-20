@@ -988,6 +988,34 @@ If you like Al Shebab, then you will most likely love Kebabs.]],
     CustomCheckFailMsg = "This job is for Joey only.",
 })
 
+--[[
+    Generated using: DarkRP | Job Generator
+    https://csite.io/tools/gmod-darkrp-job
+--]]
+TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/kerry/killa_suka_blat/killa_blat.mdl"},
+    description = [[One bad motherfucker, Never failed a hit.]],
+    weapons = {"m9k_m249lmg", "hmc_fiberwire", "pro_lockpick"},
+    command = "TEAM_MERCENARY",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:197708528"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Kaotic only.",
+})
+
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
@@ -1003,4 +1031,5 @@ GAMEMODE.CivilProtection = {
 }
 
 DarkRP.addHitmanTeam(TEAM_HITMAN)
+DarkRP.addHitmanTeam(TEAM_MERCENARY)
 DarkRP.addHitmanTeam(TEAM_ASSASSIN)
