@@ -141,6 +141,46 @@ TEAM_GAMBLING_ADDICT = DarkRP.createJob("Gambling Addict", {
     candemote = false,
     category = "Citizens"
 })
+TEAM_RAPIST = DarkRP.createJob("Rapist", {
+    color = Color(34, 85, 85, 255),
+    model = {
+        "models/player/Group01/male_08.mdl",
+        "models/player/Group01/male_04.mdl"
+    },
+    description = [[Commit some *crimes* on civilians. MAY ONLY RAPE ONCE EVERY 15 MINUTES, Trusted+ only.]],
+    weapons = {"weapon_rape"},
+    command = "TEAM_RAPIST",
+    max = 1,
+    salary = 1,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = true,
+    category = "Citizens",
+    PlayerDeath = function(ply, weapon, killer)
+        ply:teamBan()
+        ply:changeTeam(GAMEMODE.DefaultTeam, true)
+        DarkRP.notifyAll(0, 4, "The rapist has died.")
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator", "trusted"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for Trusted Members &amp; Donators only.",
+})
+TEAM_PROSTITUTE = DarkRP.createJob("Prostitute", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/konnie/tifff13/tifff13_s.mdl"},
+    description = [[Pleasure the inner truck drivers of the server.]],
+    weapons = {"weapon_cigarette_camel"},
+    command = "TEAM_PROSTITUTE",
+    max = 2,
+    salary = 30000,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = true,
+    category = "Citizens"
+})
 
 -- Services --
 
