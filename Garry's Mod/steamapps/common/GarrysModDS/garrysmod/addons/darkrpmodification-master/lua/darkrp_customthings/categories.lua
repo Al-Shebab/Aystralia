@@ -221,7 +221,7 @@ DarkRP.createCategory{
     startExpanded = true,
     color = Color(34, 85, 85, 255),
     canSee = function(ply) return true end,
-    sortOrder = 11
+    sortOrder = 20
 }
 
 DarkRP.createCategory{
@@ -249,4 +249,13 @@ DarkRP.createCategory{
 	color = Color(0, 107, 0, 255),
     canSee = function(ply) return table.HasValue({TEAM_MINER}, ply:Team()) end,
 	sortOrder = 11
+}
+
+DarkRP.createCategory{
+	name = "Vehicle Supplies",
+	categorises = "entities",
+	startExpanded = true,
+	color = Color(0, 107, 0, 255),
+    canSee = function(ply) return table.HasValue({TEAM_MECHANIC}, ply:Team()) end,
+	sortOrder = 12
 }
