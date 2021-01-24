@@ -156,7 +156,7 @@ zwf.config.Growing = {
 
     // The maximal Weed Amount a plant can produce
     // *Note: This can be reached by increasing the YieldAmount via NutritionBoost, SeedLab Inheritance or if enabled after the Plant has fully grown in PostGrow
-    max_amount = 500,
+    max_amount = 800,
 
 
     // How long has the plant to be unhappy before it dies.
