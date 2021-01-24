@@ -488,6 +488,25 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
 
 -- Illegal --
 
+TEAM_HACKER = DarkRP.createJob("Hacker", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/aiden_pearce.mdl"},
+    description = [[Hack into bases using the keypad cracker. Can base, raid and mug.]],
+    weapons = {"keypad_cracker","lockpick"},
+    command = "TEAM_HACKER",
+    max = 4,
+    salary =750,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Illegal",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(0)
+    end
+})
 TEAM_THIEF = DarkRP.createJob("Thief", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/arctic.mdl"},
