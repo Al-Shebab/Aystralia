@@ -1064,6 +1064,29 @@ TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
     end,
     CustomCheckFailMsg = "This job is for Kaotic only.",
 })
+TEAM_SONIC = DarkRP.createJob("Sonic", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/kaesar/moviesonic/moviesonic.mdl"},
+    description = [[It Sonic, enough said. Can do everything.]],
+    weapons = {"m9k_dragunov", "pro_lockpick", "prokeypadcracker", "invisibility_cloak"},
+    command = "TEAM_SONIC",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:86866846", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jim only.",
+})
 
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN

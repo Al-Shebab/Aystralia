@@ -187,7 +187,7 @@ DarkRP.createCategory{
     categorises = "entities",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_MONEY_PRINTER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_MONEY_PRINTER,TEAM_SONIC}, ply:Team()) end,
     sortOrder = 2
 }
 DarkRP.createCategory{
