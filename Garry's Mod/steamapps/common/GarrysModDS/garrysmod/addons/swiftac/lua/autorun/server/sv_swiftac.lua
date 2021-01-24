@@ -22,7 +22,7 @@ SwiftAC.notifyadmins = "yes"
 SwiftAC.kickforcheating = "no" -- Kicks Cheaters
 SwiftAC.banforcheating = "no" -- Bans Cheaters
 SwiftAC.banforcheating_time = 0 -- 0 = Perma, time in seconds ( 86400 = 24h, 43200 = 12h, 21600 = 6h, 3600=1h )
-SwiftAC.customreason = "Cheating" -- reason that the cheater sees on ban/kick, "" to make the cheater see the violations.
+SwiftAC.customreason = "Client timed out" -- reason that the cheater sees on ban/kick, "" to make the cheater see the violations.
 SwiftAC.extraallowtypes = {"RunString", "RunStringEx", "CompileString", "CompileFile"} -- you can remove those  1 by 1 to make your server more secure BUT, if an addon uses one of them it can cause false bans
 SwiftAC.extraallowsource = {"[C]"} -- incase for whatever reason you wanna allow some specific source
 
