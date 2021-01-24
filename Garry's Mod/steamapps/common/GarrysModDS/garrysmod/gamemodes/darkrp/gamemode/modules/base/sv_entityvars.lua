@@ -102,6 +102,9 @@ concommand.Add("_sendDarkRPvars", function(ply)
     ply:sendDarkRPVars()
 end)
 
+--[[---------------------------------------------------------------------------
+Admin DarkRPVar commands
+---------------------------------------------------------------------------]]
 local function setRPName(ply, args)
     if not args[2] or string.len(args[2]) < 2 or string.len(args[2]) > 30 then
         DarkRP.notify(ply, 1, 4, DarkRP.getPhrase("invalid_x", DarkRP.getPhrase("arguments"), "<2/>30"))

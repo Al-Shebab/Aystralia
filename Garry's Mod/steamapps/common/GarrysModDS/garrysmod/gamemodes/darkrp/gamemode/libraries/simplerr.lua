@@ -526,6 +526,7 @@ end
 -- Breaks execution. Must be the last decorator.
 function wrapError(succ, err, ...)
     if succ then return succ, err, ... end
+
     error(err)
 end
 
