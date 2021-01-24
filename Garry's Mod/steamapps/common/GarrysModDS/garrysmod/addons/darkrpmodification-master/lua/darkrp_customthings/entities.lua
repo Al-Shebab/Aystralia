@@ -132,7 +132,7 @@ DarkRP.createEntity( "Advanced Printer", {
     ent = "oneprint",
     model = "models/ogl/ogl_oneprint.mdl",
     price = 15000,
-    max = 2,
+    max = 1,
     cmd = "oneprinter",
     category = "Advanced Money Printers",
     allowed = {TEAM_MONEY_PRINTER},
