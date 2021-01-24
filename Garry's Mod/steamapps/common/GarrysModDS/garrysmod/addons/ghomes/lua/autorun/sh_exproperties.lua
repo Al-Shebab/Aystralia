@@ -76,7 +76,6 @@ if SERVER then
 	include("ghomes_system/ezlibs.lua")
 	include("ghomes_system/server/houses.lua") -- houses functions with right system
 	include("ghomes_system/server/save.lua") -- houses save (vars)
-	include("ghomes_system/server/propsave.lua") -- prop saving system  
 	include("ghomes_system/server/mails.lua") -- mails system
 	include("ghomes_system/server/npc_restore.lua") -- restore the npc
 	include("ghomes_system/sh_network.lua")
