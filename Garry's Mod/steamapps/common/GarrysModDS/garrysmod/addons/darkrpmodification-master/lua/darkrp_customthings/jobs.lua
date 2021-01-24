@@ -163,7 +163,7 @@ TEAM_RAPIST = DarkRP.createJob("Rapist", {
         DarkRP.notifyAll(0, 4, "The rapist has died.")
     end,
     customCheck = function(ply) return
-        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator", "trusted"}, ply:GetNWString("usergroup"))
+        table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
     end,
     CustomCheckFailMsg = "This job is for Trusted Members &amp; Donators only.",
 })
