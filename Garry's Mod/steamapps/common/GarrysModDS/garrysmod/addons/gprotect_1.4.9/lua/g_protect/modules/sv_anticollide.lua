@@ -10,6 +10,8 @@ hook.Add("playerBoughtCustomEntity", "gP:AntiColliderDarkRP", function(ply, entt
 	if cfg.enabled and cfg.protectDarkRPEntities > -1 then
 		if !IsValid(ent) then return end
 		local oldfunc = ent.PhysicsCollide
+		local collThreshold = tonumber(cfg.specificEntities[ent:GetClass()] or cfg.DRPentitiesThreshold or 0)
+		if collThreshold <= 0 then return end
 		ent.PhysicsCollide = function(...)
 			if isfunction(oldfunc) then oldfunc(...) end
 
@@ -27,7 +29,7 @@ hook.Add("playerBoughtCustomEntity", "gP:AntiColliderDarkRP", function(ply, entt
 				if !timeout[ent] then timeout[ent] = CurTime() end
 				collidedCounter[ent] = collidedCounter[ent] or 0
 				collidedCounter[ent] = collidedCounter[ent] + 1
-				if collidedCounter[ent] > cfg.DRPentitiesThreshold then
+				if collidedCounter[ent] > collThreshold then
 					if cfg.notifyStaff then gProtect.NotifyStaff(ply,"colliding-too-much", 3) end
 
 					if cfg.protectDarkRPEntities == 1 then
@@ -65,6 +67,9 @@ hook.Add("PlayerSpawnedProp", "gP:AntiColliderProp", function(ply, model, ent)
 	if cfg.enabled and cfg.protectSpawnedProps > -1 then
 		if !IsValid(ent) then return end
 		
+		local collThreshold = tonumber(cfg.specificEntities[ent:GetClass()] or cfg.propsThreshold or 0)
+		if collThreshold <= 0 then return end
+
 		ent:AddCallback( "PhysicsCollide", function( ent, data )
 			local collider = data.HitEntity
 			if cfg.enabled and cfg.protectSpawnedProps > -1 and !collider:IsWorld() then
@@ -77,7 +82,7 @@ hook.Add("PlayerSpawnedProp", "gP:AntiColliderProp", function(ply, model, ent)
 				if !timeout[ent] then timeout[ent] = CurTime() end
 				collidedCounter[ent] = collidedCounter[ent] or 0
 				collidedCounter[ent] = collidedCounter[ent] + 1
-				if collidedCounter[ent] > cfg.propsThreshold then
+				if collidedCounter[ent] > collThreshold then
 
 					if cfg.notifyStaff then gProtect.NotifyStaff(ply,"colliding-too-much", 3) end
 				
@@ -106,6 +111,9 @@ hook.Add("PlayerSpawnedSENT", "gP:AntiColliderEntities", function(ply, ent)
 	if cfg.enabled and cfg.protectSpawnedEntities > -1 then
 		if !IsValid(ent) then return end
 		local oldfunc = ent.PhysicsCollide
+		local collThreshold = tonumber(cfg.specificEntities[ent:GetClass()] or cfg.entitiesThreshold or 0)
+		if collThreshold <= 0 then return end
+
 		ent.PhysicsCollide = function(...)
 			if isfunction(oldfunc) then oldfunc(...) end
 			if cfg.enabled and cfg.protectSpawnedEntities > -1 then
@@ -122,7 +130,7 @@ hook.Add("PlayerSpawnedSENT", "gP:AntiColliderEntities", function(ply, ent)
 				if !timeout[ent] then timeout[ent] = CurTime() end
 				collidedCounter[ent] = collidedCounter[ent] or 0
 				collidedCounter[ent] = collidedCounter[ent] + 1
-				if collidedCounter[ent] > cfg.entitiesThreshold then					
+				if collidedCounter[ent] > collThreshold then					
 					if cfg.notifyStaff then gProtect.NotifyStaff(ply,"colliding-too-much", 3) end
 					
 					if cfg.protectSpawnedEntities == 1 then

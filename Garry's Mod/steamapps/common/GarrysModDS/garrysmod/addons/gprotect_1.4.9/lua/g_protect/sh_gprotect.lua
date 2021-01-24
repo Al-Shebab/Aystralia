@@ -49,7 +49,7 @@ end
 
 local cfg = SERVER and gProtect.GetConfig(nil, "physgunsettings") or {}
 
-hook.Add( "PhysgunPickup", "gP:PhysgunPickupLogic", function( ply, ent, norun )
+hook.Add("PhysgunPickup", "gP:PhysgunPickupLogic", function(ply, ent, norun)
 	if SERVER and !cfg.enabled then return nil end
 	if TCF and TCF.Config and ent:GetClass() == "cocaine_cooking_pot" and IsValid( ent:GetParent() ) then return nil end --- Compatibilty with the cocaine factory.
 

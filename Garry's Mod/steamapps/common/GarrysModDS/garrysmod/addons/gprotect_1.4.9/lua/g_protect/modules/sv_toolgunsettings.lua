@@ -2,6 +2,8 @@ local cfg = gProtect.GetConfig(nil,"toolgunsettings")
 
 gProtect = gProtect or {}
 
+local spamProtection = {}
+
 gProtect.HandleToolgunPermissions = function(ply, tr, tool)
     if cfg.enabled then
         local ent = tr.Entity
@@ -13,6 +15,23 @@ gProtect.HandleToolgunPermissions = function(ply, tr, tool)
         end
         
         local usergroup = ply:GetUserGroup()
+        local limit = tonumber(cfg.antiSpam[tool]) or 0
+        if limit > 0 then
+            spamProtection[ply] = spamProtection[ply] or {}
+            spamProtection[ply][tool] = spamProtection[ply][tool] or {}
+            if !spamProtection[ply][tool].timer or CurTime() >= (spamProtection[ply][tool].timer or 0) then
+                spamProtection[ply][tool].timer = CurTime() + 1
+                spamProtection[ply][tool].count = 0
+            end
+
+            spamProtection[ply][tool].count = spamProtection[ply][tool].count or {}
+            if spamProtection[ply][tool].count >= limit then
+                if IsValid(ply) then
+                    slib.notify(gProtect.config.Prefix..slib.getLang("gprotect", gProtect.config.SelectedLanguage, "ratelimited_toolgun"), ply)
+                end
+            return false end
+            spamProtection[ply][tool].count = spamProtection[ply][tool].count + 1
+        end
 
         if !cfg.groupToolRestrictions[usergroup] and !cfg.bypassGroups[usergroup] and cfg.groupToolRestrictions["default"] then usergroup = "default" end
 
