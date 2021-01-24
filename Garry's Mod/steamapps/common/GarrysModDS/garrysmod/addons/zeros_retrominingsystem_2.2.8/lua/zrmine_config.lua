@@ -304,7 +304,7 @@ zrmine.config.MetalBuyer = {
 	RefreshRate = 600, //seconds
 
 	// This defines the range at which some Buyers gonna buy your metals
-	MaxRate = 150, //%
+	MaxRate = 125, //%
 	MinRate = 75, //%
 }
 ///////////////////////
@@ -314,7 +314,7 @@ zrmine.config.MetalBuyer = {
 // The Resource Junk
 ///////////////////////
 // This Values Defines the Despawn Time in seconds, set to -1 do Disable it
-zrmine.config.Resource_DespawnTime = 200
+zrmine.config.Resource_DespawnTime = 120
 ///////////////////////
 
 
@@ -326,10 +326,10 @@ zrmine.config.Resource_DespawnTime = 200
 zrmine.config.Ore_Refresh = true
 
 // How often do we want do refresh the ore spawns?
-zrmine.config.Ore_Refreshrate = 300
+zrmine.config.Ore_Refreshrate = 600
 
 // How much gets refreshed?
-zrmine.config.Ore_RefreshAmount = 400 //kg
+zrmine.config.Ore_RefreshAmount = 800 //kg
 ///////////////////////
 
 
@@ -368,7 +368,7 @@ zrmine.config.Max_MiningAmount = 45
 zrmine.config.Min_MiningAmount = 15
 
 // This defines how many ore entites 1 mine is allowed to spawn until it tells the user to refine some of the allready spawned ore
-zrmine.config.Mine_MaxEntCount = 6
+zrmine.config.Mine_MaxEntCount = 3
 ///////////////////////
 
 

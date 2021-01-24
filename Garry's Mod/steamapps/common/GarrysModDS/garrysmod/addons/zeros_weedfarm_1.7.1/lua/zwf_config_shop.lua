@@ -22,7 +22,7 @@ zwf.config.Shop = {
                 class = "zwf_fuel",
                 model = "models/zerochain/props_weedfarm/zwf_fuel.mdl",
                 ranks = {},
-                max = 3,
+                max = 2,
             },
             [3] = {
                 lampid = 1,
@@ -30,8 +30,10 @@ zwf.config.Shop = {
                 price = 3000,
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp01.mdl",
-                ranks = {},
-                max = 5,
+                ranks = {
+                    ["superadmin"] = true,
+                },
+                max = 0,
             },
             [4] = {
                 lampid = 2,
@@ -40,7 +42,7 @@ zwf.config.Shop = {
                 class = "zwf_lamp",
                 model = "models/zerochain/props_weedfarm/zwf_lamp02.mdl",
                 ranks = {},
-                max = 5,
+                max = 6,
             },
             [5] = {
                 name = zwf.language.Shop["item_ventilator_title"],
@@ -66,8 +68,10 @@ zwf.config.Shop = {
                 price = 300,
                 class = "zwf_pot",
                 model = "models/zerochain/props_weedfarm/zwf_pot01.mdl",
-                ranks = {},
-                max = 10,
+                ranks = {
+                    ["superadmin"] = true,
+                },
+                max = 0,
             },
             [8] = {
                 name = zwf.language.Shop["item_flowerpot02_title"],
@@ -76,7 +80,7 @@ zwf.config.Shop = {
                 class = "zwf_pot_hydro",
                 model = "models/zerochain/props_weedfarm/zwf_pot02.mdl",
                 ranks = {},
-                max = 10,
+                max = 6,
             },
             [9] = {
                 name = zwf.language.Shop["item_soil_title"],
