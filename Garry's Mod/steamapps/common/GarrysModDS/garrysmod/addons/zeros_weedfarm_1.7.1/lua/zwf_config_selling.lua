@@ -19,7 +19,7 @@ zwf.config.NPC = {
     DynamicBuyRate = true,
 
     // The maximal buy rate in % (Set to 100 for now no price change)
-    MaxBuyRate = 125,
+    MaxBuyRate = 120,
 
     // The minimal buy rate in % (Set to 100 for now no price change)
     MinBuyRate = 95,
