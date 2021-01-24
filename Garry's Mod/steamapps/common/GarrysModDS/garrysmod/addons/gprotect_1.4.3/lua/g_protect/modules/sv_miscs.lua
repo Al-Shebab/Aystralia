@@ -1,11 +1,6 @@
 local cfg = gProtect.GetConfig(nil,"miscs")
 local blacklist = gProtect.GetConfig("blacklist", "general")
 
-local propEnts = {
-	["prop_physics"] = true,
-	["prop_physics_multiplayer"] = true
-}
-
 gProtect = gProtect or {}
 
 hook.Add( "CanPlayerUnfreeze", "gP:StopMotion", function(ply, ent)
@@ -87,35 +82,8 @@ hook.Add("PlayerSpawnProp", "gP:PreventSpawningTooClose", function(ply, model)
 end)
 
 hook.Add("playerBoughtCustomEntity", "gP:HandleOwnershipForcing", function(ply, enttbl, ent, price)
-	if !IsValid(ent) then return end
-	if cfg.DRPEntForceOwnership[ent:GetClass()] then
+	if cfg.DRPEntForceOwnership[enttbl.ent] then
 		gProtect.SetOwner(ply, ent)
-	end
-
-	if cfg.DRPMaxObstructsOnPurchaseEnts then
-		local obscurants = gProtect.ObscureDetection(ent)
-
-		local hits = 0
-
-		if obscurants and istable(obscurants) then
-			for k,v in ipairs(obscurants) do
-				if cfg.DRPObstructsFilter == 1 then
-					if v.DarkRPItem then
-						hits = hits + 1
-					end
-				elseif cfg.DRPObstructsFilter == 2 then
-					if propEnts[v:GetClass()] then
-						hits = hits + 1
-					end
-				end
-			end
-		end
-
-		if hits >= cfg.DRPMaxObstructsOnPurchaseEnts then
-			ent:Remove()
-			ply:addMoney(price)
-			slib.notify(gProtect.config.Prefix..slib.getLang("gprotect", gProtect.config.SelectedLanguage, "too_many_obstructs_purchase"), ply)
-		end
 	end
 end)
 

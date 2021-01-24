@@ -99,10 +99,6 @@ local function openSettingsMenu()
 							if gProtect.config.valueRules[k][option].tableDeletable then
 								s:setTableDeletable(true)
 							end
-
-							if gProtect.config.valueRules[k][option].customTable == "int" then
-								s:setCustomValues(slib.getLang("gprotect", gProtect.config.SelectedLanguage, "submit"), slib.getLang("gprotect", gProtect.config.SelectedLanguage, "input_number"), true)
-							end
 						end
 
 						s.OnRemove = function()
@@ -223,7 +219,7 @@ timer.Create("gP:updateLookAt", .05, 0, function()
 	local detected
 
 	local eyetrace = ply:GetEyeTraceNoCursor()
-	local foundent = eyetrace and eyetrace.Entity
+	local foundent = eyetrace.Entity
 
 	if foundent and IsValid(foundent) then
 		detected = foundent
