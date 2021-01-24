@@ -76,7 +76,7 @@ CFG.AdminUserGroups = {
 
 AdvCarDealer.CustomChecks = {
 	[ "Donators" ]	= {
-		func = function( ply ) return ply:GetUserGroup() == "superadmin" or ply:GetUserGroup() == "staff-manager" or ply:GetUserGroup() == "senior-admin" or ply:GetUserGroup() == "donator-admin" or ply:GetUserGroup() == "donator-senior-moderator" or ply:GetUserGroup() == "donator-moderator" or ply:GetUserGroup() == "donator-trial-moderator" or ply:GetUserGroup() == "sydney" or ply:GetUserGroup() == "melbourne" or ply:GetUserGroup() == "brisbane" or ply:GetUserGroup() == "perth" end,
+		func = function( ply ) return ply:GetUserGroup() == "superadmin" end,
 		messageCatalog = "Purchasing this vehicle is limited to donators.",
 		onlyOnceBuying = true, -- if the check has to be done only once buying, or also when the player try to take it from the garage.
 	}

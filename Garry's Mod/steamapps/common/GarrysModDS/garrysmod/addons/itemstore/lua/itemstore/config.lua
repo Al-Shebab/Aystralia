@@ -29,7 +29,7 @@ itemstore.config.SaveInterval = 180
 itemstore.config.Language = "en"
 
 -- Enable quick inventory viewing by holding the context menu key, default C.
-itemstore.config.ContextInventory = false
+itemstore.config.ContextInventory = true
 
 -- If context inventory is enabled, this defines where it appears on the player's screen.
 -- Valid values are "top", "bottom", "left" and "right"
@@ -39,7 +39,7 @@ itemstore.config.ContextInventoryPosition = "bottom"
 itemstore.config.EnableInvholster = true
 
 -- Force player to holster all of their ammo as well as their gun when they use /invholster, ala DarkRP.
-itemstore.config.InvholsterTakesAmmo = false
+itemstore.config.InvholsterTakesAmmo = true
 
 -- Split ammo on spawned_weapons instead of giving all ammo at once when used
 itemstore.config.SplitWeaponAmmo = true
@@ -107,7 +107,7 @@ itemstore.config.InventorySizes = {
 
 -- Same as above, for banks. Same format. DON'T REMOVE DEFAULT!
 itemstore.config.BankSizes = {
-	default = { 8, 2, 1 },
+	default = { 8, 4, 1 },
 	--admin = { 12, 4, 1 }
 }
 
