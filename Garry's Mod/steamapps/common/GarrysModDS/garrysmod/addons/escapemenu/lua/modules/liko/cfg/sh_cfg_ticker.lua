@@ -55,7 +55,7 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.ticker =
         {
-            enabled     = false,
+            enabled     = true,
             speed       = 2,
             delay       = 10,
             clr         = Color( 255, 255, 255, 255 )

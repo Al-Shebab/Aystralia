@@ -42,7 +42,7 @@ local cfg               	= base.modules:cfg( mod )
     *
     *   settings related to overall servers feature
     *
-    *   >   enabled         : false      > servers will be listed within script
+    *   >   enabled         : true      > servers will be listed within script
     *                       : false     > no server selection interface will show
     *
     *   >   type            : [ 1 ]     > Menu will display TEXT + ICONS

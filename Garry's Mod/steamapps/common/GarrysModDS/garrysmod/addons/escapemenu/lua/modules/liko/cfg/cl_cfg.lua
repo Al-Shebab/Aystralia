@@ -42,7 +42,7 @@ local cfg               	= base.modules:cfg( mod )
     *	basic config values
     */
 
-        cfg.general.network_name            = 'Aystralia Network'
+        cfg.general.network_name            = 'Server Name'
         cfg.general.margin_left             = 65
         cfg.general.margin_top              = { 5, 60, 45, 60, 60, 60, 55, 80 }
         cfg.general.anim_rotate_enabled     = true

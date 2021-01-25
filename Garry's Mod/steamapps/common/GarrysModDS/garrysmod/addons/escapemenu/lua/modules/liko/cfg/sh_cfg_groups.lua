@@ -55,6 +55,7 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.ugroups.titles =
         {
+<<<<<<< HEAD
             [ 'user' ] 			= 'User',
             [ 'trusted' ] 			= 'Trusted',
             [ 'perth' ] 			= 'Perth',
@@ -72,6 +73,20 @@ local cfg               	= base.modules:cfg( mod )
             [ 'donator-moderator' ] 			= 'Moderator',
             [ 'donator-senior-moderator' ] 			= 'Senior Moderator',
             [ 'donator-admin' ] 			= 'Admin',
+=======
+            [ 'superadmin' ]        = 'Owner',
+            [ 'admin' ]             = 'Admin',
+            [ 'supervisor' ]        = 'Supervisor',
+            [ 'operator' ]          = 'Moderator',
+            [ 'moderator' ]         = 'Moderator',
+            [ 'trialmod' ]          = 'Trial Moderator',
+            [ 'tmod' ]              = 'Trial Moderator',
+            [ 'donator' ]           = 'Donator',
+            [ 'enthralled' ]        = 'Enthralled',
+            [ 'respected' ]         = 'Respected',
+            [ 'user' ]              = 'User',
+            [ 'noaccess' ]          = 'User',
+>>>>>>> parent of c51f32c6... add escape menu
         }
 
     /*
@@ -95,6 +110,7 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.ugroups.clrs =
         {
+<<<<<<< HEAD
             [ 'user' ] = Color(93, 24, 255, 220),
             [ 'trusted' ] = Color(132, 81, 252, 220),
             [ 'perth' ] = Color(0, 183, 212, 220),
@@ -112,4 +128,16 @@ local cfg               	= base.modules:cfg( mod )
             [ 'donator-moderator' ] = Color(74, 255, 121, 220),
             [ 'donator-senior-moderator' ] = Color(148, 255, 87, 220),
             [ 'donator-admin' ] = Color(226, 255, 68, 220),
+=======
+            [ 'superadmin' ]        = Color( 160, 74, 51 ),
+            [ 'admin' ]             = Color( 195, 210, 48 ),
+            [ 'supervisor' ]        = Color( 246, 141, 67 ),
+            [ 'operator' ]          = Color( 246, 141, 67 ),
+            [ 'moderator' ]         = Color( 246, 94, 116 ),
+            [ 'trialmod' ]          = Color( 246, 94, 116 ),
+            [ 'tmod' ]              = Color( 246, 94, 116 ),
+            [ 'donator' ]           = Color( 26, 127, 245 ),
+            [ 'user' ]              = Color( 255, 255, 255 ),
+            [ 'noaccess' ]          = Color( 200, 200, 200 ),
+>>>>>>> parent of c51f32c6... add escape menu
         }

@@ -52,7 +52,7 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.rules =
         {
-            use_text        = false,
+            use_text        = true,
             clrs            =
             {
                 primary     = Color( 30, 30, 30, 255 ),
