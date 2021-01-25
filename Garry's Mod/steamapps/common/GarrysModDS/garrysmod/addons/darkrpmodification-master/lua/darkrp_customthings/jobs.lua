@@ -141,13 +141,13 @@ TEAM_GAMBLING_ADDICT = DarkRP.createJob("Gambling Addict", {
     candemote = false,
     category = "Citizens"
 })
-TEAM_RAPIST = DarkRP.createJob("Rapist", {
+TEAM_RAPIST = DarkRP.createJob("Predator", {
     color = Color(34, 85, 85, 255),
     model = {
         "models/player/Group01/male_08.mdl",
         "models/player/Group01/male_04.mdl"
     },
-    description = [[Commit some *crimes* on civilians. MAY ONLY RAPE ONCE EVERY 15 MINUTES, MUST ADVERT!]],
+    description = [[Commit some *crimes* on civilians. MAY ONLY *** ONCE EVERY 15 MINUTES, MUST ADVERT!]],
     weapons = {"weapon_rape"},
     command = "TEAM_RAPIST",
     max = 1,
@@ -160,7 +160,7 @@ TEAM_RAPIST = DarkRP.createJob("Rapist", {
     PlayerDeath = function(ply, weapon, killer)
         ply:teamBan()
         ply:changeTeam(GAMEMODE.DefaultTeam, true)
-        DarkRP.notifyAll(0, 4, "The rapist has died.")
+        DarkRP.notifyAll(0, 4, "The predator has died.")
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
