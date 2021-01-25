@@ -1106,7 +1106,6 @@ TEAM_SOWAKA = DarkRP.createJob("Sowaka", {
     end,
     CustomCheckFailMsg = "This job is for Gwacko only.",
 })
-
 TEAM_KERMIT = DarkRP.createJob("Kermit", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/kermit.mdl"},
@@ -1129,6 +1128,29 @@ TEAM_KERMIT = DarkRP.createJob("Kermit", {
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:579690494"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Jaspereeno only.",
+})
+TEAM_2B = DarkRP.createJob("2B", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/kuma96/2b/2b_pm.mdl"},
+    description = [[If you see this, remind Al Shebab.]],
+    weapons = {"prokeypadcracker", "pro_lockpick", "m9k_dragunov", "climb_swep2"},
+    command = "TEAM_2B",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:68387277"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jay Z only.",
 })
 
 

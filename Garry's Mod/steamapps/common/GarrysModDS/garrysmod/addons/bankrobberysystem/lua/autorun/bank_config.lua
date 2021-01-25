@@ -34,6 +34,7 @@ GovernmentTeams = {
 AllowedTeams = {
 	"Thief",
 	"Sonic",
+	"2B",
 	"Sowaka",
 	"Pro Thief",
 	"Pro Hacker",
