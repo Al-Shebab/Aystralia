@@ -1,0 +1,6 @@
+You have downloaded v2.x of Arivia.
+
+Arivia v3 Beta is currently available for download and testing.
+If you'd like to try it out; read the instructions on:
+
+	https://arivia.rlib.io/v/v2.x/v3-beta
