@@ -36,7 +36,7 @@ DarkRP.createAmmoType("ar2", {
 	amountGiven = 120
 })
 
-DarkRP.createAmmoType("SniperRound", {
+DarkRP.createAmmoType("SniperPenetratedRound", {
 	name = "Sniper Ammo",
 	model = "models/Items/BoxMRounds.mdl",
 	price = 2500,
