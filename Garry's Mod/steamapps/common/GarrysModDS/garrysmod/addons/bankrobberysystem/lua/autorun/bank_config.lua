@@ -1,6 +1,6 @@
 BANK_CUSTOM_MoneyTimer = 60 -- This is the time that defines when money is added to the bank. In seconds! [Default = 60]
 BANK_CUSTOM_MoneyOnTime = 10000 -- This is the amount of money to be added to the bank every x minutes/seconds. Defined by the setting above. [Default = 500]
-BANK_Custom_Max = 1000000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
+BANK_Custom_Max = 1500000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
 BANK_Custom_AliveTime = 3 -- The amount of MINUTES the player must stay alive before he will receive what the bank has. IN MINUTES! [Default = 5]
 BANK_Custom_CooldownTime = 15 -- The amount of MINUTES the bank is on a cooldown after a robbery! (Doesn't matter if the robbery failed or not) [Default = 20]
 BANK_Custom_RobberyDistance = 500 -- The amount of space the player can move away from the bank entity, before the bank robbery fails. [Default = 500]
