@@ -55,18 +55,23 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.ugroups.titles =
         {
-            [ 'superadmin' ]        = 'Owner',
-            [ 'admin' ]             = 'Admin',
-            [ 'supervisor' ]        = 'Supervisor',
-            [ 'operator' ]          = 'Moderator',
-            [ 'moderator' ]         = 'Moderator',
-            [ 'trialmod' ]          = 'Trial Moderator',
-            [ 'tmod' ]              = 'Trial Moderator',
-            [ 'donator' ]           = 'Donator',
-            [ 'enthralled' ]        = 'Enthralled',
-            [ 'respected' ]         = 'Respected',
-            [ 'user' ]              = 'User',
-            [ 'noaccess' ]          = 'User',
+            [ 'user' ] 			= 'User'
+            [ 'trusted' ] 			= 'Trusted'
+            [ 'perth' ] 			= 'Perth'
+            [ 'brisbane' ] 			= 'Brisbane'
+            [ 'melbourne' ] 			= 'Melbourne'
+            [ 'sydney' ] 			= 'Sydney'
+            [ 'trial-moderator' ] 			= 'Trial Moderator'
+            [ 'moderator' ] 			= 'Moderator'
+            [ 'senior-moderator' ] 			= 'Senior Moderator'
+            [ 'admin' ] 			= 'Admin'
+            [ 'senior-admin' ] 			= 'Senior Admin'
+            [ 'staff-manager' ] 			= 'Staff Manager'
+            [ 'superadmin' ] 			= 'User'
+            [ 'donator-trial-moderator' ] 			= 'Trial Moderator'
+            [ 'donator-moderator' ] 			= 'Moderator'
+            [ 'donator-senior-moderator' ] 			= 'Senior Moderator'
+            [ 'donator-admin' ] 			= 'Admin'
         }
 
     /*
@@ -90,14 +95,21 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.ugroups.clrs =
         {
-            [ 'superadmin' ]        = Color( 160, 74, 51 ),
-            [ 'admin' ]             = Color( 195, 210, 48 ),
-            [ 'supervisor' ]        = Color( 246, 141, 67 ),
-            [ 'operator' ]          = Color( 246, 141, 67 ),
-            [ 'moderator' ]         = Color( 246, 94, 116 ),
-            [ 'trialmod' ]          = Color( 246, 94, 116 ),
-            [ 'tmod' ]              = Color( 246, 94, 116 ),
-            [ 'donator' ]           = Color( 26, 127, 245 ),
-            [ 'user' ]              = Color( 255, 255, 255 ),
-            [ 'noaccess' ]          = Color( 200, 200, 200 ),
+            [ 'user' ] = Color(93, 24, 255, 220)
+            [ 'trusted' ] = Color(132, 81, 252, 220)
+            [ 'perth' ] = Color(0, 183, 212, 220)
+            [ 'brisbane' ] = Color(61, 229, 255, 220)
+            [ 'melbourne' ] = Color(61, 255, 213, 220)
+            [ 'sydney' ] = Color(61, 255, 154, 220)
+            [ 'trial-moderator' ] = Color(24, 249, 255, 220)
+            [ 'moderator' ] = Color(74, 255, 121, 220)
+            [ 'senior-moderator' ] = Color(148, 255, 87, 220)
+            [ 'admin' ] = Color(226, 255, 68, 220)
+            [ 'senior-admin' ] = Color(255, 180, 0, 220)
+            [ 'staff-manager' ] = Color(255, 101, 101, 220)
+            [ 'superadmin' ] = Color(93, 24, 255, 220)
+            [ 'donator-trial-moderator' ] = Color(24, 249, 255, 220)
+            [ 'donator-moderator' ] = Color(74, 255, 121, 220)
+            [ 'donator-senior-moderator' ] = Color(148, 255, 87, 220)
+            [ 'donator-admin' ] = Color(226, 255, 68, 220)
         }

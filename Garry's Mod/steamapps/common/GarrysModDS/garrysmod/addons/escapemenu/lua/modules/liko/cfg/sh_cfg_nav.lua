@@ -58,14 +58,14 @@ local cfg               	= base.modules:cfg( mod )
     *	menu button > network rules
     */
 
-        cfg.nav.btn.rules_url       = 'https://liko.rlib.io/internal/rules'
+        cfg.nav.btn.rules_url       = 'https://bit.ly/3mQVodO'
         cfg.nav.btn.rules_int       = true
 
     /*
     *	menu button > donations
     */
 
-        cfg.nav.btn.donate_url      = 'https://liko.rlib.io/internal/demo'
+        cfg.nav.btn.donate_url      = 'https://aystralia-network.tebex.io'
         cfg.nav.btn.donate_int      = true
 
     /*
@@ -73,13 +73,13 @@ local cfg               	= base.modules:cfg( mod )
     */
 
         cfg.nav.btn.website_url     = 'https://steamcommunity.com/groups/gmodstore'
-        cfg.nav.btn.website_int     = true
+        cfg.nav.btn.website_int     = false
 
     /*
     *	menu button > steam workshop collection
     */
 
-        cfg.nav.btn.workshop_url    = 'https://steamcommunity.com/workshop/filedetails/?id=2313877844'
+        cfg.nav.btn.workshop_url    = 'https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788'
         cfg.nav.btn.workshop_int    = true
 
     /*
@@ -172,7 +172,7 @@ local cfg               	= base.modules:cfg( mod )
                 action          = function( ) mod.ui:Hide( ) end
             },
             {
-                enabled         = true,
+                enabled         = false,
                 bIntegrated     = cfg.nav.btn.rules_int,
                 id              = 'rules',
                 name            = 'mnu_btn_rules_name',
@@ -200,7 +200,7 @@ local cfg               	= base.modules:cfg( mod )
                 action          = function( ) mod.web:OpenURL( 'mnu_btn_donate_name', cfg.nav.btn.donate_url, cfg.nav.btn.donate_int or false ) end
             },
             {
-                enabled         = true,
+                enabled         = false,
                 bIntegrated     = cfg.nav.btn.website_int,
                 id              = 'website',
                 name            = 'mnu_btn_website_name',

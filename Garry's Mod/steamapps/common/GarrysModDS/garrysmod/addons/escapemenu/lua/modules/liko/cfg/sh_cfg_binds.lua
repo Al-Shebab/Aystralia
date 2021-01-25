@@ -69,5 +69,5 @@ local cfg               	= base.modules:cfg( mod )
 
         cfg.binds.chat.motd =
         {
-            [ '!motd' ]         = true,
+            [ '!motd' ]         = false,
         }
