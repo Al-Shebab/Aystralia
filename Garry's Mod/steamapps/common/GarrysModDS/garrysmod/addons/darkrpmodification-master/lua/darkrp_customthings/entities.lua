@@ -135,7 +135,7 @@ DarkRP.createEntity( "Advanced Printer", {
     max = 1,
     cmd = "oneprinter",
     category = "Advanced Money Printers",
-    allowed = {TEAM_MONEY_PRINTER},
+    allowed = {TEAM_MONEY_PRINTER,TEAM_SONIC},
     customCheck = function(ply) return
         table.HasValue({TEAM_MONEY_PRINTER,TEAM_SONIC}, ply:Team())
     end,
