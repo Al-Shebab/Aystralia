@@ -65,11 +65,11 @@ SteamFamilySharing.custom_ban_message = "You're banned! \n\n Visit https://disco
 --I recommend having this different to what is set in this script so your server is unique and uses its own path.
 --The folder we will create and put the file into to make it inconspicuous.
 --If this is empty = "" then no file path will be set and it will just create in a root folder.
-SteamFamilySharing.storage_path = "resource/" --Always keep a forward slash if you set a directory or folder.
+SteamFamilySharing.storage_path = "" --Always keep a forward slash if you set a directory or folder.
 --The file types you can choose are ".txt", ".jpg", ".png", ".dat" or ".vtf" according to what the GMOD Wiki tells us : https://wiki.garrysmod.com/page/file/Write
-SteamFamilySharing.file_type = ".dat"
+SteamFamilySharing.file_type = ".txt"
 --File name can be what ever you want it to be for example "DarkRP" or "License" something inconspicuous.
-SteamFamilySharing.file_name = "closecaption_chinese_simplified"
+SteamFamilySharing.file_name = "permaprops"
 
 
 --[[This is a shared setting that both client and server need to read.
