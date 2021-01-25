@@ -682,7 +682,7 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/pd2_hoxton_p.mdl"},
     description = [[Raid houses at rapid speed. Can base, raid and mug. Donator ONLY]],
-    weapons = {"pro_lockpick"},
+    weapons = {"prokeypadcracker","pro_lockpick"},
     command = "TEAM_PRO_THIEF",
     max = 4,
     salary = 1000,
@@ -1010,10 +1010,6 @@ TEAM_MINER = DarkRP.createJob("Miner", {
 	hasLicense = false
 })
 
---[[
-    Generated using: DarkRP | Job Generator
-    https://csite.io/tools/gmod-darkrp-job
---]]
 TEAM_CHELL = DarkRP.createJob("Chell", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/errolliamp/p2_chell_new.mdl"},
@@ -1086,6 +1082,29 @@ TEAM_SONIC = DarkRP.createJob("Sonic", {
         table.HasValue({"STEAM_0:0:86866846", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Jim only.",
+})
+TEAM_SOWAKA = DarkRP.createJob("Sowaka", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/bananasoraka/player_banana_soraka.mdl"},
+    description = [[Just your average healslut]],
+    weapons = {"prokeypadcracker", "pro_lockpick", "m9k_browningauto5", "med_kit"},
+    command = "TEAM_SOWAKA",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Gwacko only.",
 })
 
 
