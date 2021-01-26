@@ -35,6 +35,7 @@ AllowedTeams = {
 	"Thief",
 	"Sonic",
 	"2B",
+	"Pickle Rick",
 	"Sowaka",
 	"Pro Thief",
 	"Pro Hacker",

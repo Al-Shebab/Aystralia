@@ -1152,7 +1152,29 @@ TEAM_2B = DarkRP.createJob("2B", {
     end,
     CustomCheckFailMsg = "This job is for Jay Z only.",
 })
-
+TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/oldbill/Weird_Pickle.mdl"},
+    description = [[Come down my ends you'll get sheffed up you hear me]],
+    weapons = {"prokeypadcracker", "pro_lockpick", "invisibility_cloak", "m9k_browningauto5"},
+    command = "TEAM_PICKLE_RICK",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:579690494", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jaspereeno only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
