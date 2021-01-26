@@ -39,7 +39,7 @@ BDON_CONFIG.AdminRanks = {
 }
 
 --If the sounds are too loud, you can change this. It is between 0 and 1
-BDON_CONFIG.Volume = 0.7
+BDON_CONFIG.Volume = 1
 
 --You can change this to anything, or thing. This gets added before any money amount is shown
 BDON_CONFIG.CurrenyPrefix = "$"
