@@ -182,7 +182,6 @@ elegant_printers.config = {
             AllowedVIPs = {
                 "perth",
                 "staff-manager",
-                "donator-admin",
                 "superadmin",
             },
 -- Example: PrintTime = 10 (This tier would print $1,000 every 10 seconds)
@@ -231,6 +230,7 @@ elegant_printers.config = {
                 "donator-trial-moderator",
                 "donator-moderator",
                 "donator-senior-moderator",
+                "donator-admin",
                 "senior-admin",
                 "staff-manager",
                 "superadmin",
