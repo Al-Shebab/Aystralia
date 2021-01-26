@@ -36,7 +36,7 @@ SteamFamilySharing.banreason = "attempting to bypass a current/existing ban."
 --Enable banning users by IP address too.
 --Makes it even harder for continuous offenders to return to the server.
 --Set true to enable | false to disable.
-SteamFamilySharing.banip = true
+SteamFamilySharing.banip = false
 
 --Enable blocking anyone joining on a family shared account regardless if they are banned or not.
 --Enabling this will allow only accounts that have bought and own Garry's Mod to join.
