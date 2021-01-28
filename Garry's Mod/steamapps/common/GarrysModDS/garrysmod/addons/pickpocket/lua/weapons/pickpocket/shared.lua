@@ -11,7 +11,7 @@ local PPConfig_MoneyTo = 50000
 local PPConfig_Wait = 300
 
 -- Distance able to be stolen from (default: 100)
-local PPConfig_Distance = 100
+local PPConfig_Distance = 75
 
 -- Should stealing emit a silent sound (true or false) (default: true)
 local PPConfig_Sound = false
@@ -213,7 +213,7 @@ function SWEP:Succeed()
 	if CLIENT then
 		
 		if money > 0 then
-			self.Owner:PrintMessage( HUD_PRINTTALK, "Pickpocketing succeeded, " .. money .. " bucks were gathered." )
+			self.Owner:PrintMessage( HUD_PRINTTALK, "Pickpocketing succeeded, you stole $" .. money .. "" )
 		else
 			self.Owner:PrintMessage( HUD_PRINTTALK, "Pickpocketing succeeded, but your victim's wallet was empty." )
 		end
