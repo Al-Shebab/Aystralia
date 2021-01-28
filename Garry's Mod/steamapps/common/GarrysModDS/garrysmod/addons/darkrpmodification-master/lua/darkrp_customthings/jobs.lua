@@ -59,7 +59,7 @@ TEAM_PARKOUR_MASTER = DarkRP.createJob("Parkour Master", {
 })
 TEAM_GRAFFITI_ARTIST = DarkRP.createJob("Graffiti Artist", {
     color = Color(74, 255, 69, 255),
-    model = {"models/watch_dogs/characters/mgs5_big_boss_trenchcoat.mdl"},
+    model = {"models/player/Group03/female_04.mdl"},
     description = [[Spray your tag all over the city. Can not raid/mug.]],
     weapons = {"weapon_spraymhs"},
     command = "TEAM_GRAFFITI_ARTIST",
