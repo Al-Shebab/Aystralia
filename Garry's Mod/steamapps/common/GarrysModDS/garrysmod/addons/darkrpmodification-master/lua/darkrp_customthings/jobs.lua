@@ -1175,6 +1175,29 @@ TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
     end,
     CustomCheckFailMsg = "This job is for Jaspereeno only.",
 })
+TEAM_RAT_KING = DarkRP.createJob("Rat King", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/jaray.mdl"},
+    description = [[I want it to be a standing rat ill send u the player model name]],
+    weapons = {"prokeypadcracker", "pro_lockpick", "invisibility_cloak", "m9k_honeybadger"},
+    command = "TEAM_RAT_KING",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:492844137", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Widepeeked only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
