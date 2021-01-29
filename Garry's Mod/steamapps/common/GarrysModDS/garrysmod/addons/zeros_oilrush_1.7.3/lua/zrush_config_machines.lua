@@ -126,7 +126,7 @@ zrush.config.Machine["Refinery"] = {
 	Speed = 2,
 
 	// How much Oil it takes in
-	Amount = 1,
+	Amount = 2,
 
 	// % How high is the base chance for the machine do overheat? (There are extra % that get added later depending on the oilsource)
 	OverHeat_Chance = 15,
