@@ -32,7 +32,7 @@ if SERVER then
 else
 	
 	SWEP.PrintName = "Pickpocket"
-	SWEP.Slot = 0
+	SWEP.Slot = 5
 	SWEP.SlotPos = 9
 	SWEP.DrawAmmo = false
 	SWEP.DrawCrosshair = true
