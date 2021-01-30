@@ -7,8 +7,8 @@ function SH_COCAINE_DarkRPAdds()
 		categorises = "entities",
 		startExpanded = true,
 		color = Color(0, 107, 0, 255),
-		canSee = function(ply) return true end,
-		sortOrder = 80,
+        canSee = function(ply) return table.HasValue({TEAM_COCAINE_DEALER}, ply:Team()) end,
+		sortOrder = 13,
 	}
 	
 	DarkRP.createCategory{
@@ -16,19 +16,9 @@ function SH_COCAINE_DarkRPAdds()
 		categorises = "weapons",
 		startExpanded = true,
 		color = Color(0, 107, 0, 255),
-		canSee = function(ply) return true end,
+        canSee = function(ply) return table.HasValue({TEAM_COCAINE_DEALER}, ply:Team()) end,
 		sortOrder = 80,
 	}
-	
-	DarkRP.createCategory{
-		name = "Cocaine Factory",
-		categorises = "shipments",
-		startExpanded = true,
-		color = Color(0, 107, 0, 255),
-		canSee = function(ply) return true end,
-		sortOrder = 80,
-	}
-
 	-- Entities
 	DarkRP.createEntity("Water Bottle", {
         ent = "cocaine_water",
@@ -37,6 +27,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 5,
 		category = "Cocaine Factory",
         cmd = "buywater",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Stove", {
@@ -46,6 +37,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 2,
 		category = "Cocaine Factory",
         cmd = "buystove",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Cooking Pot", {
@@ -55,6 +47,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 10,
 		category = "Cocaine Factory",
         cmd = "buypot",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 	
 	DarkRP.createEntity("Bucket", {
@@ -64,6 +57,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 10,
 		category = "Cocaine Factory",
         cmd = "buybucket",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Leaves", {
@@ -73,6 +67,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 10,
 		category = "Cocaine Factory",
         cmd = "buyleaves",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 	
 	DarkRP.createEntity("Battery", {
@@ -82,6 +77,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 10,
 		category = "Cocaine Factory",
         cmd = "buybattery",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Gas Canister", {
@@ -91,6 +87,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 8,
 		category = "Cocaine Factory",
         cmd = "buygas",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Drying Rack", {
@@ -100,6 +97,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 2,
 		category = "Cocaine Factory",
         cmd = "buydryingrack",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Cocaine Box", {
@@ -109,6 +107,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 4,
 		category = "Cocaine Factory",
 		cmd = "buycocainebox",
+        allowed = {TEAM_COCAINE_DEALER},
 	})
 	
 	if not TCF.Config.InstallPlatesDefault then
@@ -119,6 +118,7 @@ function SH_COCAINE_DarkRPAdds()
 			max = 4,
 			category = "Cocaine Factory",
 			cmd = "buyplateupgrade",
+            allowed = {TEAM_COCAINE_DEALER},
 		})
 	end
 	
@@ -129,6 +129,7 @@ function SH_COCAINE_DarkRPAdds()
         max = 2,
 		category = "Cocaine Factory",
         cmd = "buyextractor",
+        allowed = {TEAM_COCAINE_DEALER},
     })
 
     DarkRP.createEntity("Baking Soda", {
@@ -138,19 +139,8 @@ function SH_COCAINE_DarkRPAdds()
         max = 5,
 		category = "Cocaine Factory",
         cmd = "buybakingsoda",
+        allowed = {TEAM_COCAINE_DEALER},
     })
-	
-	-- Repair Wrench
-	DarkRP.createShipment("Repair Wrench (Cocaine Factory)", {
-		model = "models/craphead_scripts/the_cocaine_factory/wrench/w_wrench.mdl",
-		entity = "cocaine_repair_wrench",
-		price = 5000,
-		amount = 10,
-		separate = true,
-		pricesep = 600,
-		noship = false,
-		allowed = {TEAM_GANG, TEAM_CRIMINAL, TEAM_COCAINE, TEAM_ADMIN},
-		category = "Cocaine Factory",
-	})
+
 end
 hook.Add( "loadCustomDarkRPItems", "SH_COCAINE_DarkRPAdds", SH_COCAINE_DarkRPAdds )
