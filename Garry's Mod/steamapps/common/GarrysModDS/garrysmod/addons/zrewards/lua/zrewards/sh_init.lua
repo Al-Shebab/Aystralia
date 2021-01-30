@@ -11,18 +11,6 @@ if (SERVER) then
     include("sv_config.lua") 
 end
 
--- Dev Config(s)
-local dcRes, dcErr = pcall(
-    function()
-        AddCSLuaFile("dev/sh_config.lua")
-        include("dev/sh_config.lua")
-        
-        if (SERVER) then
-            include("dev/sv_config.lua") 
-        end
-    end
-)
-
 if !(dcRes) then
     print("No developer configs found")
 end
