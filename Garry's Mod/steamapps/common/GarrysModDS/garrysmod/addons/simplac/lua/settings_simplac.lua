@@ -11,7 +11,7 @@ Simplac.settings.telleveryoneaboutcheaters = 1 -- tell everyone who cheated 0/fa
 
 
 Simplac.settings.testmode = true -- test mode (disable bans)
-Simplac.settings.testmode2 = false -- full test mode (no kicks)
+Simplac.settings.testmode2 = true -- full test mode (no kicks)
 
 
 Simplac.settings.readdetectiondisclaimer = true -- Did you read the detection disclaimer?
@@ -34,7 +34,7 @@ Simplac.settings.AutofireCheck1 =  true -- AF = Autofire toggle check
 Simplac.settings.AutofireCheck2 =  true -- AF2 = Autofire toggle check 2
 Simplac.settings.BhopCheck = true --BH = Bunnyhop check
 Simplac.settings.Aimbot_NCheck = true -- AN = Aimbot check (also against aimbots etc. )
-Simplac.settings.MoveCheck = true -- MV check (against C++ cheats etc.)
+Simplac.settings.MoveCheck = false -- MV check (against C++ cheats etc.)
 
 
 --these are disabled by default
