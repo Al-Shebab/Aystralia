@@ -818,6 +818,20 @@ TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     candemote = false,
     category = "Manufacturing"
 })
+TEAM_COCAINE_DEALER = DarkRP.createJob("Cocaine Dealer", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/spacesuit.mdl"},
+    description = [[Live in the footsteps of Pablo]],
+    weapons = {},
+    command = "TEAM_COCAINE_DEALER",
+    max = 2,
+    salary = 2500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    candemote = false,
+    category = "Manufacturing"
+})
 TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     color = Color(196, 115, 0, 255),
     model = {"models/player/hostage/hostage_01.mdl"},
