@@ -25,7 +25,7 @@ TCF.Config.PoliceTeams = { -- Police teams. These teams are NOT allowed to use t
 }
 
 -- COCAINE BUYER NPC
-TCF.Config.NPCDisplayName = "Kaotic" -- The display name shown above the NPC
+TCF.Config.NPCDisplayName = "Cocaine Dealer" -- The display name shown above the NPC
 TCF.Config.NPCDisplayDescription = "Sell me your snow." -- The description displayed above the NPC.
 
 TCF.Config.SellDistance = 15000 -- How far away can the NPC detect your drug holder.
