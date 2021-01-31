@@ -274,20 +274,6 @@ cfg:AddTab({
 	icon = "HVnAVBY"
 })
 
-cfg:AddURL({
-	name = "Donate",
-	desc = "Buy a rank or something.",
-	tabName = "Donation Shop",
-	url = "https://aystralia-network.tebex.io/"
-})
-
-cfg:AddURL({
-	name = "Rules",
-	desc = "Who reads this?",
-	tabName = "Rules",
-	url = "https://bit.ly/3mQVodO"
-})
-
 cfg:SetXeninInventory({
 	enabled = false,
 	name = "Inventory",
@@ -322,6 +308,21 @@ cfg:SetXeninDeathscreen({
 })
 
 cfg:AddDivider()
+
+cfg:AddURL({
+	name = "Donate",
+	desc = "Buy a rank or something.",
+	tabName = "Donation Shop",
+	url = "https://aystralia-network.tebex.io/",
+	icon = "s7gkOSZ"
+})
+cfg:AddURL({
+	name = "Rules",
+	desc = "Who reads this?",
+	tabName = "Rules",
+	url = "https://bit.ly/3mQVodO",
+	icon = "XeUxpeD"
+})
 cfg:AddURL({
 	name = "Discord",
 	desc = "Join our Discord",
@@ -335,6 +336,7 @@ cfg:AddWebsite({
 	url = "https://steamcommunity.com/groups/Aystralia",
 	icon = "jvjxAQK"
 })
+
 --[[ Standalone commands
 cfg:AddTab({
 	name = "Commands",
