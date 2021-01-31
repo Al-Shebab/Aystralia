@@ -1281,6 +1281,29 @@ TEAM_MARCUS = DarkRP.createJob("Marcus", {
     end,
     CustomCheckFailMsg = "This job is for Johhny only.",
 })
+TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/jessev92/player/military/cod4_sniper.mdl"},
+    description = [[1337 counter lua]],
+    weapons = {"m9k_barret_m82", "climb_swep2", "prokeypadcracker", "pickpocket", "pro_lockpick"},
+    command = "TEAM_1337_COUNTER",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:1:107335883", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Moa only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
