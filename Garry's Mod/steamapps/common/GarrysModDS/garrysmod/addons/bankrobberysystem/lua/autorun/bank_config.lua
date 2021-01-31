@@ -33,6 +33,7 @@ GovernmentTeams = {
 
 AllowedTeams = {
 	"Thief",
+	"Hitler",
 	"Felix Argyle",
 	"Rat King",
 	"Sonic",

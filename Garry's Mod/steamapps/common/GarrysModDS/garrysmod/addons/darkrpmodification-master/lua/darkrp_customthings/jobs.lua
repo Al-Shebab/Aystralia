@@ -1235,6 +1235,29 @@ TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
     end,
     CustomCheckFailMsg = "This job is for Dog only.",
 })
+TEAM_HITLER = DarkRP.createJob("Hitler", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/minson97/hitler/hitler.mdl"},
+    description = [[Jew mad bro?]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_fg42", "sieghail"},
+    command = "TEAM_HITLER",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:33953368"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Majoron only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
