@@ -1097,9 +1097,9 @@ TEAM_SONIC = DarkRP.createJob("Sonic", {
     end,
     CustomCheckFailMsg = "This job is for Jim only.",
 })
-TEAM_SOWAKA = DarkRP.createJob("Sowaka", {
+TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
     color = Color(255, 0, 0, 255),
-    model = {"models/bananasoraka/player_banana_soraka.mdl"},
+    model = {"models/captainbigbutt/vocaloid/zatsune_miku.mdl"},
     description = [[Just your average healslut]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_browningauto5", "med_kit"},
     command = "TEAM_SOWAKA",

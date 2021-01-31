@@ -41,7 +41,7 @@ AllowedTeams = {
 	"Sonic",
 	"2B",
 	"Pickle Rick",
-	"Sowaka",
+	"Noot-Noot",
 	"Pro Thief",
 	"Pro Hacker",
 	"Battle Medic",
