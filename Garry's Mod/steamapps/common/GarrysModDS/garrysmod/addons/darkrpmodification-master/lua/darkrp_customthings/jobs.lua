@@ -819,7 +819,7 @@ TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     category = "Manufacturing"
 })
 TEAM_COCAINE_DEALER = DarkRP.createJob("Cocaine Dealer", {
-    color = Color(255, 0, 0, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/player/spacesuit.mdl"},
     description = [[Live in the footsteps of Pablo]],
     weapons = {"cocaine_repair_wrench"},
@@ -1211,6 +1211,29 @@ TEAM_RAT_KING = DarkRP.createJob("Rat King", {
         table.HasValue({"STEAM_0:0:492844137", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Widepeeked only.",
+})
+TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/shi/Felix_Argyle.mdl"},
+    description = [[Change this by messaging Al Shebab.]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_browningauto5", "climb_swep2"},
+    command = "TEAM_FELIX_ARGYLE",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:25949007"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Dog only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
