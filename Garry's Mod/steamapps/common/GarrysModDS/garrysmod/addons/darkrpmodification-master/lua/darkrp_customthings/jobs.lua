@@ -1099,7 +1099,7 @@ TEAM_SONIC = DarkRP.createJob("Sonic", {
 })
 TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
     color = Color(255, 0, 0, 255),
-    model = {"models/captainbigbutt/vocaloid/zatsune_miku.mdl"},
+    model = {"models/pacagma/houkai_impact_3rd/gyakushinn_miko/gyakushinn_miko_player.mdl"},
     description = [[Just your average healslut]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_browningauto5", "med_kit"},
     command = "TEAM_SOWAKA",
