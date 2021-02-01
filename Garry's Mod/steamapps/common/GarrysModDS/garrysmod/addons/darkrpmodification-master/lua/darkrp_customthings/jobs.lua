@@ -1114,7 +1114,7 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
-    end,,
+    end,
     PlayerSpawn = function(ply)
         ply:SetBodygroup(1, 0)
     end,
