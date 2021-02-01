@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "gBail"
+    "version"           "1.0.2"
+    "up_date"           "06/26/16"
+    "author_name"       "Guurgle"
+    "author_email"      ""
+    "author_url"        "http://steamcommunity.com/id/guurgle/"
+    "info"              ""
+    "override"          "0"
+}
