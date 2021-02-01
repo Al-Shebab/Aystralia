@@ -5,13 +5,13 @@
 	"name"		"Garry's Mod Dedicated Server"
 	"StateFlags"		"4"
 	"installdir"		"GarrysModDS"
-	"LastUpdated"		"1610070116"
+	"LastUpdated"		"1612076261"
 	"UpdateResult"		"0"
-	"SizeOnDisk"		"3928433613"
-	"buildid"		"6052021"
-	"LastOwner"		"76561198121622621"
-	"BytesToDownload"		"26277600"
-	"BytesDownloaded"		"26277600"
+	"SizeOnDisk"		"3928934072"
+	"buildid"		"6141563"
+	"LastOwner"		"76561198507619534"
+	"BytesToDownload"		"35330832"
+	"BytesDownloaded"		"35330832"
 	"AutoUpdateBehavior"		"0"
 	"AllowOtherDownloadsWhileRunning"		"0"
 	"ScheduledAutoUpdate"		"0"
@@ -19,13 +19,13 @@
 	{
 		"4021"
 		{
-			"manifest"		"4516426896272718107"
-			"size"		"3702713128"
+			"manifest"		"3099759884808582262"
+			"size"		"3703162899"
 		}
 		"4022"
 		{
-			"manifest"		"9099777563414491500"
-			"size"		"225720485"
+			"manifest"		"6935518560276613570"
+			"size"		"225771173"
 		}
 	}
 	"UserConfig"

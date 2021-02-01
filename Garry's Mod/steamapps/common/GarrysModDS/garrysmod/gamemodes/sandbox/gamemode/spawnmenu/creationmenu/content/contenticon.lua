@@ -48,7 +48,7 @@ function PANEL:Init()
 	self.Label:SetTall( 18 )
 	self.Label:SetContentAlignment( 5 )
 	self.Label:DockMargin( 4, 0, 4, 6 )
-	self.Label:SetTextColor( Color( 255, 255, 255, 255 ) )
+	self.Label:SetTextColor( color_white )
 	self.Label:SetExpensiveShadow( 1, Color( 0, 0, 0, 200 ) )
 
 	self.Border = 0
