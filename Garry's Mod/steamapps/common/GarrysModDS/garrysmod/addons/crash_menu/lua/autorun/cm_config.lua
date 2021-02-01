@@ -33,7 +33,7 @@ CM.ServerNameButtons = {
 CM.ServerIPButtons = {
 	"https://discord.gg/hWN7zXtbQP",
 	"https://steamcommunity.com/groups/Aystralia",
-	"139.99.208.69:27015",
+	"139.99.208.69:27016",
 }
 
 //Delete the code inside the brackets of both the ServerNameButtons and ServerIPButtons if you don't need server buttons.
