@@ -1114,6 +1114,9 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+    end,,
+    PlayerSpawn = function(ply)
+        ply:SetBodygroup(1, 0)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())
