@@ -1024,15 +1024,15 @@ TEAM_MINER = DarkRP.createJob("Miner", {
 	hasLicense = false
 })
 
-TEAM_CHELL = DarkRP.createJob("Chell", {
+TEAM_CHELL = DarkRP.createJob("Yoda", {
     color = Color(255, 0, 0, 255),
-    model = {"models/player/errolliamp/p2_chell_new.mdl"},
+    model = {"models/player/b4p/b4p_yoda.mdl"},
     description = [[As you know it is a very bright summer day today and we will be celebrating it with this class.
 This class is a fine class, the finest class you will soon to understand why it is a fine class.
 Come step into my office, I will show you more.
 This job comes with ability to raid, mug and base with anyone on the server.
 If you like Al Shebab, then you will most likely love Kebabs.]],
-    weapons = {"climb_swep2", "m9k_mp7", "prokeypadcracker", "pickpocket", "pro_lockpick"},
+    weapons = {"climb_swep2", "m9k_browningauto5", "prokeypadcracker", "pickpocket", "pro_lockpick"},
     command = "TEAM_CHELL",
     max = 1,
     salary = 8000,
@@ -1124,7 +1124,7 @@ TEAM_KERMIT = DarkRP.createJob("Kermit", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/kermit.mdl"},
     description = [[RUN!!!!]],
-    weapons = {"pro_lockpick", "m9k_barret_m82", "invisibility_cloak"},
+    weapons = {"pro_lockpick", "m9k_m98b", "invisibility_cloak"},
     command = "TEAM_KERMIT",
     max = 1,
     salary = 8000,
@@ -1285,7 +1285,7 @@ TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
     color = Color(255, 0, 0, 255),
     model = {"models/jessev92/player/military/cod4_sniper.mdl"},
     description = [[1337 counter lua]],
-    weapons = {"m9k_barret_m82", "climb_swep2", "prokeypadcracker", "pickpocket", "pro_lockpick"},
+    weapons = {"m9k_m98b", "climb_swep2", "prokeypadcracker", "pickpocket", "pro_lockpick"},
     command = "TEAM_1337_COUNTER",
     max = 1,
     salary = 8000,

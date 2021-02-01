@@ -38,6 +38,7 @@ AllowedTeams = {
 	"Hitler",
 	"Felix Argyle",
 	"Rat King",
+	"Yoda",
 	"Sonic",
 	"2B",
 	"Pickle Rick",
