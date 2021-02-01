@@ -337,6 +337,13 @@ cfg:AddWebsite({
 	icon = "jvjxAQK"
 })
 
+cfg:AddWebsite({
+	name = "Workshop",
+	desc = "Remove the errors",
+	url = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788",
+	icon = "jvjxAQK"
+})
+
 --[[ Standalone commands
 cfg:AddTab({
 	name = "Commands",
