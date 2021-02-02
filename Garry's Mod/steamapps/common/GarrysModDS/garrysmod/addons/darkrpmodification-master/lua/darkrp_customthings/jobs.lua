@@ -1326,7 +1326,7 @@ TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
         ply:SetArmor(100)
     end,
     customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:98102011"}, ply:SteamID())
+        table.HasValue({"STEAM_0:0:98102011", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This Moist_Sausage",
 })
