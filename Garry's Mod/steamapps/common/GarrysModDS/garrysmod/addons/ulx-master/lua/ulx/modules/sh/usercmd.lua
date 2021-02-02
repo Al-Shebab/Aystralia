@@ -7,7 +7,6 @@ discordurl = "https://discord.gg/hWN7zXtbQP"
 donateurl = "https://aystralia-network.tebex.io/"
 rulesurl = "https://bit.ly/3mQVodO"
 groupurl = "https://steamcommunity.com/groups/Aystralia"
-reporturl = "https://forms.gle/pjxfwF9QdkdwMsj57"
 bugsurl = "https://bit.ly/2WKFtDB"
 applyurl = "https://forms.gle/xugZ5v1Xqy4m2tpr9"
 
@@ -18,7 +17,6 @@ discordcommand = "!discord"
 donatecommand = "!donate"
 rulescommand = "!rules"
 groupcommand = "!group"
-reportcommand = "!report"
 bugscommand = "!bugs"
 applycommand = "!apply"
 
@@ -66,13 +64,6 @@ end
 local rules = ulx.command( CATEGORY_NAME, "ulx rules", ulx.rules, rulescommand ) 
 rules:defaultAccess( ULib.ACCESS_ALL )
 rules:help( "Opens the rules for the server." )
-
-function ulx.report( calling_ply )
-	calling_ply:SendLua([[gui.OpenURL(reporturl)]])
-end
-local report = ulx.command( CATEGORY_NAME, "ulx report", ulx.report, reportcommand )
-report:defaultAccess( ULib.ACCESS_ALL )
-report:help( "Create a player report!" )
 
 function ulx.bugs( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(bugsurl)]])
