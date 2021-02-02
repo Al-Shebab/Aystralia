@@ -1328,7 +1328,7 @@ TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:98102011", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
-    CustomCheckFailMsg = "This Moist_Sausage",
+    CustomCheckFailMsg = "This job is for Moist_Sausage only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
