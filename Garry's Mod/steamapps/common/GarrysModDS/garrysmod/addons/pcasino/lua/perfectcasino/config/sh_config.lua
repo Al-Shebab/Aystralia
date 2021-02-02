@@ -11,13 +11,13 @@
 =============*/
 
 -- Chat prefix
-PerfectCasino.Config.PrefixColor = Color(175, 0, 0)
-PerfectCasino.Config.Prefix = "[pCasino]"
+PerfectCasino.Config.PrefixColor = Color(255, 0, 0)
+PerfectCasino.Config.Prefix = "[Casino]"
 
 --- The usergroups/SteamIDs that get access to the in-game entity maker
 PerfectCasino.Config.AccessGroups = {}
 PerfectCasino.Config.AccessGroups["superadmin"] = true
-PerfectCasino.Config.AccessGroups["STEAM_0:1:123456"] = true
+PerfectCasino.Config.AccessGroups["STEAM_0:1:123456"] = false
 
 
 
