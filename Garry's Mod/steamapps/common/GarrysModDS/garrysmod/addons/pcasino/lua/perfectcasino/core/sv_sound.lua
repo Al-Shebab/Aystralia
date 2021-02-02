@@ -1,22 +1,22 @@
 -- Create all the sounds
 
 -- General slotmachine sound
-sound.Add({name = "pcasino_other_lever", channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/other/lever.wav")}) 
+sound.Add({name = "pcasino_other_lever", channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/other/lever.wav")}) 
 sound.Add({name = "pcasino_other_slot_spin", channel = CHAN_STATIC, volume = 0.25, level = 80, pitch = {95, 110}, sound = Sound("pcasino/other/spin_hum.wav")})
 -- Basic slotmachine specific sounds
-sound.Add({name = "pcasino_basic_slotmachine_jackpot", channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/jackpot_tune.wav")}) 
+sound.Add({name = "pcasino_basic_slotmachine_jackpot", channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/jackpot_tune.wav")}) 
 for i=1, 3 do
-	sound.Add({name = "pcasino_basic_slotmachine_stop"..i, channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/stop_"..i..".wav")}) 
+	sound.Add({name = "pcasino_basic_slotmachine_stop"..i, channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/stop_"..i..".wav")}) 
 end
-sound.Add({name = "pcasino_basic_slotmachine_win", channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/win_tune.wav")}) 
-sound.Add({name = "pcasino_basic_slotmachine_fail", channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/fail_tune.wav")}) 
-sound.Add({name = "pcasino_basic_slotmachine_suspense", channel = CHAN_STATIC, volume 0.7, level = 90, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/suspense_tune.wav")}) 
+sound.Add({name = "pcasino_basic_slotmachine_win", channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/win_tune.wav")}) 
+sound.Add({name = "pcasino_basic_slotmachine_fail", channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/fail_tune.wav")}) 
+sound.Add({name = "pcasino_basic_slotmachine_suspense", channel = CHAN_STATIC, volume = 1, level = 90, pitch = {95, 110}, sound = Sound("pcasino/basicslotmachine/suspense_tune.wav")}) 
 -- Wheel slotmachine specific sounds
 for i=1, 3 do
-	sound.Add({name = "pcasino_wheel_slotmachine_stop"..i, channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/wheelslotmachine/stop_"..i..".wav")}) 
+	sound.Add({name = "pcasino_wheel_slotmachine_stop"..i, channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/wheelslotmachine/stop_"..i..".wav")}) 
 end
-sound.Add({name = "pcasino_wheel_slotmachine_jackpot", channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/wheelslotmachine/jackpot_tune.wav")}) 
-sound.Add({name = "pcasino_wheel_slotmachine_jackpot_voice", channel = CHAN_STATIC, volume 0.7, level = 80, pitch = {95, 110}, sound = Sound("pcasino/wheelslotmachine/jackpot_voice.wav")}) 
+sound.Add({name = "pcasino_wheel_slotmachine_jackpot", channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/wheelslotmachine/jackpot_tune.wav")}) 
+sound.Add({name = "pcasino_wheel_slotmachine_jackpot_voice", channel = CHAN_STATIC, volume = 1, level = 80, pitch = {95, 110}, sound = Sound("pcasino/wheelslotmachine/jackpot_voice.wav")}) 
 
 -- Chips
 for i=1, 2 do
@@ -24,7 +24,7 @@ for i=1, 2 do
 end
 -- Card
 for i=1, 4 do
-	sound.Add({name = "pcasino_card"..i, channel = CHAN_STATIC, volume 0.7, level = 60, pitch = {95, 110}, sound = Sound("pcasino/card/card_"..i..".wav")})
+	sound.Add({name = "pcasino_card"..i, channel = CHAN_STATIC, volume = 1, level = 60, pitch = {95, 110}, sound = Sound("pcasino/card/card_"..i..".wav")})
 end
 -- Other
 sound.Add({name = "pcasino_other_spin", channel = CHAN_STATIC, volume = 0.4, level = 80, pitch = {95, 110}, sound = Sound("pcasino/other/spin.wav")})
