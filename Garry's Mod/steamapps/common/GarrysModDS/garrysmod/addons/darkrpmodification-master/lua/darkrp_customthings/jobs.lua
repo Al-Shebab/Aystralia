@@ -1218,8 +1218,8 @@ TEAM_RAT_KING = DarkRP.createJob("Rat King", {
 TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/shi/Felix_Argyle.mdl"},
-    description = [[Change this by messaging Al Shebab.]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_browningauto5", "climb_swep2"},
+    description = [["Don't be tricked they may be a trap"]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_scar", "climb_swep2"},
     command = "TEAM_FELIX_ARGYLE",
     max = 1,
     salary = 8000,
@@ -1306,6 +1306,29 @@ TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
         table.HasValue({"STEAM_0:1:107335883", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Moa only.",
+})
+TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/aap15/foldername/Picolas_Cage_pm/picolas_cage_reference.mdl"},
+    description = [[I'm a pickle but better than Rick]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "m9k_browningauto5", "weapon_idubbbz"},
+    command = "TEAM_PICOLAS_CAGE",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:98102011"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This Moist_Sausage",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN

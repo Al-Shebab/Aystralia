@@ -34,6 +34,7 @@ GovernmentTeams = {
 AllowedTeams = {
 	"Thief",
 	"1337 Counter",
+	"Picolas Cage",
 	"Marcus",
 	"Hitler",
 	"Felix Argyle",
