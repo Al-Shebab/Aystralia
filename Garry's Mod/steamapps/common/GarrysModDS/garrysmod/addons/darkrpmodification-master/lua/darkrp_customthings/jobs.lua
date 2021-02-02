@@ -1024,7 +1024,7 @@ TEAM_MINER = DarkRP.createJob("Miner", {
 	hasLicense = false
 })
 
-TEAM_CHELL = DarkRP.createJob("Yoda", {
+TEAM_CHELL = DarkRP.createJob("Papa Yoda", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/b4p/b4p_yoda.mdl"},
     description = [[As you know it is a very bright summer day today and we will be celebrating it with this class.
