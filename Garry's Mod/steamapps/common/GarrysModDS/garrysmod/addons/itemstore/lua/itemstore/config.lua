@@ -101,6 +101,17 @@ itemstore.config.MigrateOldData = false
 -- DO NOT REMOVE DEFAULT! If you remove it, there will be errors!
 itemstore.config.InventorySizes = {
 	default = { 8, 2, 1 },
+	sydney = { 8, 4, 1 },
+	melbourne = { 8, 4, 1 },
+	brisbane = { 8, 4, 1 },
+	perth = { 8, 4, 1 },
+	superadmin = { 8, 4, 1 },
+	senior-admin = { 8, 4, 1 },
+	staff-manager = { 8, 4, 1 },
+	donator-admin = { 8, 4, 1 },
+	donator-senior-moderator = { 8, 4, 1 },
+	donator-moderator = { 8, 4, 1 },
+	donator-trial-moderator = { 8, 4, 1 },
 	--superadmin = { 10, 5, 1 },
 	--admin = { 10, 3, 1 },
 }
@@ -108,7 +119,17 @@ itemstore.config.InventorySizes = {
 -- Same as above, for banks. Same format. DON'T REMOVE DEFAULT!
 itemstore.config.BankSizes = {
 	default = { 8, 4, 1 },
-	--admin = { 12, 4, 1 }
+	sydney = { 8, 8, 1 },
+	melbourne = { 8, 8, 1 },
+	brisbane = { 8, 8, 1 },
+	perth = { 8, 8, 1 },
+	superadmin = { 8, 8, 1 },
+	senior-admin = { 8, 8, 1 },
+	staff-manager = { 8, 8, 1 },
+	donator-admin = { 8, 8, 1 },
+	donator-senior-moderator = { 8, 8, 1 },
+	donator-moderator = { 8, 8, 1 },
+	donator-trial-moderator = { 8, 8, 1 },
 }
 
 -- The skin to use. Preinstalled skins are "flat" and "classic".
