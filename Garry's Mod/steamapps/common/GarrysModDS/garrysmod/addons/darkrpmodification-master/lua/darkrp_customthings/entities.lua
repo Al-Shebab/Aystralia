@@ -20,8 +20,8 @@ Add entities under the following line:
 DarkRP.createEntity("Bitminer S1", {
     ent = "bm2_bitminer_1",
     model = "models/bitminers2/bitminer_1.mdl",
-    price = 5000,
-    max = 2,
+    price = 10000,
+    max = 1,
     cmd = "buybitminers1",
     category = "Bitcoin",
     allowed = {TEAM_BITCOIN_MINER},
@@ -34,8 +34,8 @@ DarkRP.createEntity("Bitminer S1", {
 DarkRP.createEntity("Bitminer S2", {
     ent = "bm2_bitminer_2",
     model = "models/bitminers2/bitminer_3.mdl",
-    price = 12500,
-    max = 2,
+    price = 25000,
+    max = 1,
     cmd = "buybitminers2",
     category = "Bitcoin",
     allowed = {TEAM_BITCOIN_MINER},
