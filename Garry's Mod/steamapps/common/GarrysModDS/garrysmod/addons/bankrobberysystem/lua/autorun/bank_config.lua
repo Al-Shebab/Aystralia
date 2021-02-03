@@ -33,6 +33,7 @@ GovernmentTeams = {
 
 AllowedTeams = {
 	"Thief",
+	"Chicken Dicken",
 	"1337 Counter",
 	"Picolas Cage",
 	"Marcus",

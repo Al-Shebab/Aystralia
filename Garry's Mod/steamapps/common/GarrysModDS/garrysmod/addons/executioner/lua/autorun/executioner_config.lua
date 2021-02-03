@@ -34,7 +34,6 @@
     Executioner.Config.Hitman_Teams = { -- These are your Hitman teams. Use the name of the job you want as a Hitman (case sensitive)
         [ 'Hitman' ] = true,
         [ 'Mercenary' ] = true,
-        [ 'Kermit' ] = true,
         [ 'John Wick' ] = true,
         [ 'Assassin' ] = true
     }

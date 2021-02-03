@@ -69,6 +69,7 @@ CH_BankVault.Config.GovernmentTeams = {
 
 CH_BankVault.Config.AllowedTeams = {
 	"Thief",
+	"Chicken Dicken",
 	"1337 Counter",
 	"Picolas Cage",
 	"Marcus",

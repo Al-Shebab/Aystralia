@@ -1123,14 +1123,14 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
     end,
     CustomCheckFailMsg = "This job is for Gwacko only.",
 })
-TEAM_KERMIT = DarkRP.createJob("Kermit", {
+TEAM_KERMIT = DarkRP.createJob("Chicken Dicken", {
     color = Color(255, 0, 0, 255),
-    model = {"models/player/kermit.mdl"},
-    description = [[RUN!!!!]],
-    weapons = {"pro_lockpick", "m9k_m98b", "invisibility_cloak"},
+    model = {"models/amusquiz/player/cmplayer.mdl"},
+    description = [[gimme a kiss]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_g36", "invisibility_cloak"},
     command = "TEAM_KERMIT",
     max = 1,
-    salary = 8000,
+    salary = 15000,
     admin = 0,
     vote = false,
     hasLicense = true,
