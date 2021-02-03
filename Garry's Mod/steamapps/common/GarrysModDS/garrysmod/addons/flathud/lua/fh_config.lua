@@ -31,9 +31,9 @@ FlatHUD.Cfg.TeamColor = false
 FlatHUD.Cfg.CustomColor = Color(66, 66, 66)
 
 -- 1 - Always Show, 2 - Show on TAB, 3 - Hide, 4 - Show when getting XP (LevelPanel ONLY!)
-FlatHUD.Cfg.LawsPanel = 2
-FlatHUD.Cfg.WantedList = 2
-FlatHUD.Cfg.LevelPanel = 4
+FlatHUD.Cfg.LawsPanel = 3
+FlatHUD.Cfg.WantedList = 3
+FlatHUD.Cfg.LevelPanel = 3
 
 
 -- This one option can only be changed in this config file --
