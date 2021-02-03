@@ -78,7 +78,7 @@ CH_SupplyCrate.Config.MoneyOnTime = 15000 -- This is the amount of money to be a
 CH_SupplyCrate.Config.MaxMoney = 1500000 -- The maximum amount of money the supply crate can have. Set to 0 for no limit. [Default = 150000]
 
 -- Section two. Handles the ammonition part.
-CH_SupplyCrate.Config.EnableAmmoLoot = true -- Should the ammo element be enabled?
+CH_SupplyCrate.Config.EnableAmmoLoot = false -- Should the ammo element be enabled?
 CH_SupplyCrate.Config.AmmoTimer = 240 -- This is the time that defines when ammo is added to the supply crate. In seconds! [Default = 240 (4 Minutes)]
 CH_SupplyCrate.Config.AmmoOnTime = 8 -- This is the amount of ammo to be added to the supply crate every x minutes/seconds. Defined by the setting above. [Default = 8]
 CH_SupplyCrate.Config.MaxAmmo = 100 -- The maximum amount of ammo the supply crate can have. Set to 0 for no limit. [Default = 100]
