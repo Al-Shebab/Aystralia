@@ -39,7 +39,7 @@ gProtect.HandleMaxObstructs = function(ent, ply)
         local physobj = ent:GetPhysicsObject()
 
         if IsValid(physobj) then
-            if !physobj:IsMotionEnabled() then return true end
+            if !physobj:IsMotionEnabled() then return false end
         end
 
 		local obscuring = gProtect.ObscureDetection(ent)
@@ -52,33 +52,35 @@ gProtect.HandleMaxObstructs = function(ent, ply)
 				end
 			end
 
-			if count >= cfg.maxDropObstructs then
+            if count >= cfg.maxDropObstructs then
+                local result = true
+
 				if IsValid(physobj) then
 					physobj:EnableMotion(false)
 				end
-
-				timer.Simple(0.01, function() gProtect.GhostHandler(ent, true) end)
-				
+                
 				if cfg.maxDropObstructsAction == 1 then
-					gProtect.GhostHandler(ent) 
+                    gProtect.GhostHandler(ent, true)
 				elseif cfg.maxDropObstructsAction == 2 then
 					if IsValid(physobj) then
 						physobj:EnableMotion(false)
-					end
+                    end
+                    
+                    result = false
 				elseif cfg.maxDropObstructsAction == 3 then
-					ent:Remove()
+                    ent:Remove()
                 end
 
                 gProtect.NotifyStaff(ply, "too-many-obstructs", 3)
 
-                return false
+                return result
 			end
 		end
     end    
 end
 
-gProtect.PhysgunSettingsOnDrop = function(ply, ent)
-    if cfg.enabled and cfg.StopMotionOnDrop then
+gProtect.PhysgunSettingsOnDrop = function(ply, ent, obstructed)
+    if cfg.enabled and cfg.StopMotionOnDrop and !obstructed then
         timer.Simple(.01, function()
             if !IsValid(ent) then return end
             local physobj = ent:GetPhysicsObject()

@@ -11,16 +11,8 @@ gProtect.HandleSpawnPermission = function(ply, model, type)
         
         if model then
             model = string.lower(model)
-            if (file.Exists( "gProtect/blockedmodels.txt", "DATA" )) then
-                local data = file.Read( "gProtect/blockedmodels.txt")
-                blockedmodelsfile = util.JSONToTable(data)
 
-                for k,v in pairs(blockedmodelsfile) do
-                    blockedmodels[k] = v
-                end
-            end
-
-            local result = blockedmodels[model] and blockedmodels[model] or false
+            local result = blockedmodels[model] or false
 
             if !bypassgroups[ply:GetUserGroup()] and (isBlacklist == result) then
                 slib.notify(gProtect.config.Prefix..slib.getLang("gprotect", gProtect.config.SelectedLanguage, "model-restricted"), ply)

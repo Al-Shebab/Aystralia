@@ -244,8 +244,11 @@ hook.Add("PlayerSpawnedProp", "gP:handleSpawning", function(ply, model, ent)
 			end
 		end
 
-		gProtect.GhostHandler(ent)
-		gProtect.HandleMaxObstructs(ent, ply)
+		local obstructed = gProtect.HandleMaxObstructs(ent, ply)
+
+		if !obstructed then
+			gProtect.GhostHandler(ent)
+		end
 	end
 end)
 
@@ -354,10 +357,10 @@ hook.Add("OnProperty", "gP:HandleChangedCollisionProperty", function(ply, proper
 end)
 
 hook.Add("PhysgunDrop", "gP:HandlePhysgunDropping", function(ply, ent)
-	gProtect.HandleMaxObstructs(ent, ply)
-	gProtect.PhysgunSettingsOnDrop(ply, ent)
-
-	hook.Run("PhysgunDropped", ply, ent)
+	local obstructed = gProtect.HandleMaxObstructs(ent, ply)
+	gProtect.PhysgunSettingsOnDrop(ply, ent, obstructed)
+	
+	hook.Run("PhysgunDropped", ply, ent, obstructed)
 end)
 
 hook.Add("OnPhysgunPickup", "gP:HandlePickups", function(ply, ent)
@@ -498,7 +501,7 @@ end)
 
 concommand.Add("gprotect_transfer_fpp_blockedmodels", function( ply, cmd, args )
 	if IsValid(ply) and !gProtect.HasPermission(ply) then return end
-	local data = gProtect.GetConfig()
+	local data = gProtect.data
 
 	if args[1] == "1" then
 		for k,v in pairs(FPP.BlockedModels) do
@@ -515,7 +518,7 @@ concommand.Add("gprotect_transfer_fpp_blockedmodels", function( ply, cmd, args )
 	end
 
 
-	file.Write("gProtect/settings.txt", util.TableToJSON(data))
+	slib.saveData("gProtect", gProtect.config.StorageType, "spawnrestriction", gProtect.data["spawnrestriction"])
 
 	gProtect.NetworkData(nil, "spawnrestriction")
 	slib.notify(gProtect.config.Prefix..slib.getLang("gprotect", gProtect.config.SelectedLanguage, "successfull-fpp-blockedmodels"), ply)
@@ -525,7 +528,7 @@ concommand.Add("gprotect_transfer_fpp_grouptools", function( ply, cmd, args )
 	if IsValid(ply) and !gProtect.HasPermission(ply) then return end
 	local grouptools = sql.Query("SELECT * FROM FPP_GROUPTOOL;")
 
-	local data = gProtect.GetConfig()
+	local data = gProtect.data
 
 	if !istable(grouptools) then slib.notify(gProtect.config.Prefix..slib.getLang("gprotect", gProtect.config.SelectedLanguage, "unsuccessfull-transfer"), ply) return end
 
@@ -538,7 +541,7 @@ concommand.Add("gprotect_transfer_fpp_grouptools", function( ply, cmd, args )
 		data["toolgunsettings"]["groupToolRestrictions"][v.groupname]["list"][v.tool] = true
 	end
 
-	file.Write("gProtect/settings.txt", util.TableToJSON(data))
+	slib.saveData("gProtect", gProtect.config.StorageType, "toolgunsettings", gProtect.data["toolgunsettings"])
 
 	gProtect.NetworkData(nil, "toolgunsettings")
 	slib.notify(gProtect.config.Prefix..slib.getLang("gprotect", gProtect.config.SelectedLanguage, "successfull-fpp-grouptools"), ply)
@@ -771,7 +774,7 @@ local function resyncAll()
 end
 
 local function transferData()
-	local data = file.Read("gProtect/settings.txt", "DATA")
+	local data = file.Read("gprotect/settings.txt", "DATA")
 	if data then
 		data = util.JSONToTable(data)
 		gProtect.data = data
@@ -780,7 +783,7 @@ local function transferData()
 			slib.saveData("gProtect", gProtect.config.StorageType, k, gProtect.data[k])
 		end
 
-		file.Delete("gProtect/settings.txt")
+		file.Delete("gprotect/settings.txt")
 	end
 end
 

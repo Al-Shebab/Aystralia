@@ -106,7 +106,8 @@ hook.Add("OnPhysgunPickup", "gP:GhostPhysgun", function(ply, ent)
 	end
 end)
 
-hook.Add("PhysgunDropped", "gP:UnGhostPhysgunDrop", function(ply, ent)
+hook.Add("PhysgunDropped", "gP:UnGhostPhysgunDrop", function(ply, ent, obstructed)
+	if obstructed then return end
 	if IsValid(ent) then
 		ent.BeingPhysgunned = ent.BeingPhysgunned or {}
 		if ent.sppghosted and table.IsEmpty(ent.BeingPhysgunned) then

@@ -1,12 +1,22 @@
 gProtect = gProtect or {}
 gProtect.language = gProtect.language or {}
 
-local sidlink = {}
+local cachedSID = {}
+
+local function getBySteamID(sid)
+	if cachedSID[sid] and IsValid(cachedSID[sid]) then return cachedSID[sid] end
+	for k,v in ipairs(player.GetAll()) do
+		if v:SteamID() == sid then
+			cachedSID[sid] = v
+			return v
+		end
+	end
+end
 
 gProtect.GetOwner = function(ent)
 	if !IsValid(ent) then return end
 	local result = ent:GetNWString("gPOwner", "")
-	local foundply = player.GetBySteamID( result )
+	local foundply = getBySteamID(result)
 	
 	foundply = !isstring(foundply) and (IsValid(foundply) and foundply:IsPlayer() and foundply) or foundply
 
@@ -30,6 +40,8 @@ gProtect.HandlePermissions = function(ply, ent, permission)
 		return true
 	end
 	
+	if ent:IsWorld() then return nil end
+
 	if gProtect.TouchPermission then
 		if owner and IsValid(owner) and owner:IsPlayer() then
 			local touchtbl = gProtect.TouchPermission["targetPlayerOwned"] and gProtect.TouchPermission["targetPlayerOwned"][weapon]
@@ -42,8 +54,6 @@ gProtect.HandlePermissions = function(ply, ent, permission)
 		end
 	end
 	
-	if ent:IsWorld() then return nil end
-
 	return false, true
 end
 
