@@ -121,8 +121,8 @@ MainPanel.Paint = function (self, w, h)
 
 	-- Armor Bar
 	SmoothArmor = Lerp(5 * FrameTime(), SmoothArmor, ply:Armor())
-	local armor = math.Clamp(SmoothArmor, 1, 255) / 255
-	FlatUI.CreateBar( bar_x, 67 + 34 + main_y * 2, 170 * FlatHUD.Scale, 9, FlatUI.Colors.LightArmor, FlatUI.Colors.Armor, armor, FlatHUD.GetPhrase("armor") .. ": " .. ply:Armor() .. " / 255", FlatUI.Icons.Shield )
+	local armor = math.Clamp(SmoothArmor, 1, 100) / 100
+	FlatUI.CreateBar( bar_x, 67 + 34 + main_y * 2, 170 * FlatHUD.Scale, 9, FlatUI.Colors.LightArmor, FlatUI.Colors.Armor, armor, FlatHUD.GetPhrase("armor") .. ": " .. ply:Armor() .. " / 100", FlatUI.Icons.Shield )
 
 	-- Money Bar
 	surface.SetMaterial( FlatUI.Icons.Money )
