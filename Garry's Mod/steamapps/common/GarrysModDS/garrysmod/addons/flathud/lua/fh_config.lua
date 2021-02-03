@@ -28,7 +28,7 @@ FlatHUD.Cfg.MiniMode = false
 FlatHUD.Cfg.BlurMode = false
 
 FlatHUD.Cfg.TeamColor = false
-FlatHUD.Cfg.CustomColor = Color(128, 128, 128)
+FlatHUD.Cfg.CustomColor = Color(66, 66, 66)
 
 -- 1 - Always Show, 2 - Show on TAB, 3 - Hide, 4 - Show when getting XP (LevelPanel ONLY!)
 FlatHUD.Cfg.LawsPanel = 2
