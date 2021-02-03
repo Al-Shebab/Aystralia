@@ -241,9 +241,9 @@ local Bronze_1kg = 18   //$
 local Iron_1kg = 0.80   //$
 */
 
-local Gold_1kg = 3200 //$
-local Silver_1kg = 1500 //$
-local Bronze_1kg = 750 //$
+local Gold_1kg = 3000 //$
+local Silver_1kg = 1400 //$
+local Bronze_1kg = 700 //$
 local Iron_1kg = 550 //$
 
 local Mass_per_Bar = 10
@@ -281,7 +281,7 @@ zrmine.config.MetalBar_Stealing = {
 }
 
 // Do we want the metal bars from the players inventory to drop on death?
-zrmine.config.MetalBar_DropOnDeath = true
+zrmine.config.MetalBar_DropOnDeath = false
 ///////////////////////
 
 
