@@ -6,7 +6,7 @@ BANK_Custom_CooldownTime = 15 -- The amount of MINUTES the bank is on a cooldown
 BANK_Custom_RobberyDistance = 500 -- The amount of space the player can move away from the bank entity, before the bank robbery fails. [Default = 500]
 BANK_Custom_PlayerLimit = 6 -- The amount of players there must be on the server before you can rob the bank. [Default = 5]
 BANK_Custom_KillReward = 100000 -- The amount of money a person is rewarded for killing the bank robber. [Default = 1000]
-BANK_Custom_PoliceRequired = 2 -- The amount of police officers there must be before a person can rob the bank. [Default = 3] 
+BANK_Custom_PoliceRequired = 3 -- The amount of police officers there must be before a person can rob the bank. [Default = 3] 
 BANK_Custom_DropMoneyOnSucces = true -- Should money drop from the bank when a robbery is succesful? true/false option. [Default = false]
 
 RequiredTeams = {
