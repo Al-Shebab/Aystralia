@@ -35,6 +35,7 @@
         [ 'Hitman' ] = true,
         [ 'Mercenary' ] = true,
         [ 'Kermit' ] = true,
+        [ 'John Wick' ] = true,
         [ 'Assassin' ] = true
     }
 

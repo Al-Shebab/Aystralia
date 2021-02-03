@@ -1127,7 +1127,7 @@ TEAM_KERMIT = DarkRP.createJob("Kermit", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/kermit.mdl"},
     description = [[RUN!!!!]],
-    weapons = {"pro_lockpick", "unarrest_stick", "m9k_m98b", "invisibility_cloak"},
+    weapons = {"pro_lockpick", "m9k_m98b", "invisibility_cloak"},
     command = "TEAM_KERMIT",
     max = 1,
     salary = 8000,
@@ -1329,6 +1329,29 @@ TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
         table.HasValue({"STEAM_0:0:98102011", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Moist_Sausage only.",
+})
+TEAM_JOHN_WICK = DarkRP.createJob("John Wick", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/korka007/wick.mdl"},
+    description = [[The man with a dog]],
+    weapons = {"m9k_m98b", "w_hammer", "pro_lockpick"},
+    command = "TEAM_JOHN_WICK",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:123344808", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jordan only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
