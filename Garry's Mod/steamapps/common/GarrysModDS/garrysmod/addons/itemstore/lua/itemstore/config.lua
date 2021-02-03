@@ -106,14 +106,6 @@ itemstore.config.InventorySizes = {
 	brisbane = { 8, 4, 1 },
 	perth = { 8, 4, 1 },
 	superadmin = { 8, 4, 1 },
-	senior-admin = { 8, 4, 1 },
-	staff-manager = { 8, 4, 1 },
-	donator-admin = { 8, 4, 1 },
-	donator-senior-moderator = { 8, 4, 1 },
-	donator-moderator = { 8, 4, 1 },
-	donator-trial-moderator = { 8, 4, 1 },
-	--superadmin = { 10, 5, 1 },
-	--admin = { 10, 3, 1 },
 }
 
 -- Same as above, for banks. Same format. DON'T REMOVE DEFAULT!
@@ -124,12 +116,6 @@ itemstore.config.BankSizes = {
 	brisbane = { 8, 8, 1 },
 	perth = { 8, 8, 1 },
 	superadmin = { 8, 8, 1 },
-	senior-admin = { 8, 8, 1 },
-	staff-manager = { 8, 8, 1 },
-	donator-admin = { 8, 8, 1 },
-	donator-senior-moderator = { 8, 8, 1 },
-	donator-moderator = { 8, 8, 1 },
-	donator-trial-moderator = { 8, 8, 1 },
 }
 
 -- The skin to use. Preinstalled skins are "flat" and "classic".
