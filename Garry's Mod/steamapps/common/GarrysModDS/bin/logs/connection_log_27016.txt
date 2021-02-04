@@ -1693,3 +1693,77 @@
 [2021-02-03 09:25:53] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
 [2021-02-03 09:25:53] [1,3] ConnectionCompleted() (103.10.125.165:443, WebSocket)
 [2021-02-03 09:25:53] [1,3] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'
+
+
+[2021-02-03 19:09:07] Log session started
+[2021-02-03 19:09:07] [0,0] SetSteamID( [G:1:0] )
+[2021-02-03 19:09:07] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-03 19:09:07] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-03 19:09:07] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-03 19:09:07] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-03 19:09:07] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-03 19:09:07] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-03 19:09:07] [0,0] Server says 50% of connections should be websockets, we rolled 97 - using UDP as default.
+[2021-02-03 19:09:07] [1,2] Connect() starting connection (eNetQOSLevelMedium, 103.10.125.165:27020, UDP)
+[2021-02-03 19:09:08] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-02-03 19:09:08] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-02-03 19:09:15] [1,0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, UDP)
+[2021-02-03 19:09:15] [0,0] StartAutoReconnect() will start in 0 seconds
+[2021-02-03 19:09:15] [0,0] Server says 50% of connections should be websockets, we rolled 48 - using WebSockets as default.
+[2021-02-03 19:09:15] [0,0] Existing WebSocket ping data (cm5-lax1.cm.steampowered.com:27038) results: 250.0000ms + load 18.0000 (102 seconds ago)
+[2021-02-03 19:09:15] [0,0] Existing WebSocket ping data (cm5-lax1.cm.steampowered.com:27031) results: 250.0000ms + load 19.0000 (102 seconds ago)
+[2021-02-03 19:09:15] [0,0] Existing WebSocket ping data (cm2-syd1.cm.steampowered.com:443) results: 11.0000ms + load 41.0000 (103 seconds ago)
+[2021-02-03 19:09:15] [0,0] PingWebSocketCM() stopping early for good host (cm2-syd1.cm.steampowered.com:443)
+[2021-02-03 19:09:15] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-syd1.cm.steampowered.com:443, WebSocket)
+[2021-02-03 19:09:15] [1,3] ConnectionCompleted() (103.10.125.165:443, WebSocket)
+[2021-02-03 19:09:16] [1,3] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'
+
+
+[2021-02-04 01:47:16] Log session started
+[2021-02-04 01:47:16] [0,0] SetSteamID( [G:1:0] )
+[2021-02-04 01:47:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 01:47:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 01:47:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 01:47:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 01:47:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 01:47:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 01:47:16] [0,0] Server says 50% of connections should be websockets, we rolled 18 - using WebSockets as default.
+[2021-02-04 01:47:16] [0,0] Existing WebSocket ping data (cm4-lax1.cm.steampowered.com:443) results: 249.0000ms + load 15.0000 (91 seconds ago)
+[2021-02-04 01:47:16] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27030) results: 249.0000ms + load 13.0000 (91 seconds ago)
+[2021-02-04 01:47:16] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27037) results: 249.0000ms + load 12.0000 (91 seconds ago)
+[2021-02-04 01:47:16] [0,0] Existing WebSocket ping data (cm5-lax1.cm.steampowered.com:27030) results: 249.0000ms + load 14.0000 (91 seconds ago)
+[2021-02-04 01:47:16] [0,0] Existing WebSocket ping data (cm2-syd1.cm.steampowered.com:443) results: 50.0000ms + load 47.0000 (92 seconds ago)
+[2021-02-04 01:47:16] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27034) starting...
+[2021-02-04 01:47:16] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:443) starting...
+[2021-02-04 01:47:16] [0,0] PingWebSocketCM() (cm2-lax1.cm.steampowered.com:443) starting...
+[2021-02-04 01:47:16] [0,0] PingWebSocketCM() (cm1-lax1.cm.steampowered.com:443) starting...
+[2021-02-04 01:47:16] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-02-04 01:47:16] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-02-04 01:47:17] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:27034) results: 249.2771ms + load 14.0000
+[2021-02-04 01:47:17] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm2-syd1.cm.steampowered.com:443)
+[2021-02-04 01:47:17] [0,0] PingWebSocketCM() (cm6-lax1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2021-02-04 01:47:17] [0,0] PingWebSocketCM() (cm1-lax1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2021-02-04 01:47:17] [0,0] PingWebSocketCM() (cm2-lax1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2021-02-04 01:47:17] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-syd1.cm.steampowered.com:443, WebSocket)
+[2021-02-04 01:47:18] [1,3] ConnectionCompleted() (103.10.125.165:443, WebSocket)
+[2021-02-04 01:47:18] [1,3] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'
+
+
+[2021-02-04 14:00:58] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2021-02-04 14:00:58] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2021-02-04 14:00:58] [0,0] SetSteamID( [G:1:0] )
+[2021-02-04 14:00:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 14:00:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 14:00:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 14:00:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 14:00:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 14:00:58] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 14:00:58] [0,0] Server says 50% of connections should be websockets, we rolled 17 - using WebSockets as default.
+[2021-02-04 14:00:58] [0,0] Existing WebSocket ping data (cm5-lax1.cm.steampowered.com:27030) results: 249.0000ms + load 16.0000 (137 seconds ago)
+[2021-02-04 14:00:58] [0,0] Existing WebSocket ping data (cm4-lax1.cm.steampowered.com:443) results: 249.0000ms + load 13.0000 (137 seconds ago)
+[2021-02-04 14:00:58] [0,0] Existing WebSocket ping data (cm6-lax1.cm.steampowered.com:27037) results: 249.0000ms + load 14.0000 (137 seconds ago)
+[2021-02-04 14:00:58] [0,0] Existing WebSocket ping data (cm2-syd1.cm.steampowered.com:443) results: 34.0000ms + load 38.0000 (138 seconds ago)
+[2021-02-04 14:00:58] [0,0] PingWebSocketCM() stopping early for good host (cm2-syd1.cm.steampowered.com:443)
+[2021-02-04 14:00:58] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-syd1.cm.steampowered.com:443, WebSocket)
+[2021-02-04 14:00:58] [1,3] ConnectionCompleted() (103.10.125.165:443, WebSocket)
+[2021-02-04 14:00:59] [1,3] RecvMsgClientLogOnResponse() : [G:1:3955559] 'OK'
