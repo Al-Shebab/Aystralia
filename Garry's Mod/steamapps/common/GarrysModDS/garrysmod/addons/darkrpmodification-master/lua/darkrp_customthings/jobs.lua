@@ -240,7 +240,7 @@ TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
     salary = 7500,
     admin = 0,
     vote = false,
-    hasLicense = true,
+    hasLicense = false,
     candemote = true,
     category = "Dealers",
 })
@@ -254,7 +254,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
     salary = 15000,
     admin = 0,
     vote = false,
-    hasLicense = true,
+    hasLicense = false,
     candemote = true,
     category = "Dealers",
     ammo = {
