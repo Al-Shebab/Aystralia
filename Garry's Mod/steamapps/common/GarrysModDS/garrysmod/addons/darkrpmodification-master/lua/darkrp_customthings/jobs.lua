@@ -1399,6 +1399,29 @@ TEAM_DRIP = DarkRP.createJob("Drip", {
     end,
     CustomCheckFailMsg = "This job is for binchicken only.",
 })
+TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/cakez/wolfenstein/blackguard_p.mdl"},
+    description = [[A good soldier follows orders.]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "climb_swep2", "m9k_an94"},
+    command = "TEAM_KOMMISSAR",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:32893562"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Rick Castle only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 

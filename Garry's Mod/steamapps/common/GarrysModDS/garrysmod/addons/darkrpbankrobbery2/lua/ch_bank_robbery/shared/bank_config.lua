@@ -72,6 +72,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Chicken Dicken",
 	"1337 Counter",
 	"Picolas Cage",
+	"Kommissar",
 	"Drip",
 	"Marcus",
 	"Hitler",

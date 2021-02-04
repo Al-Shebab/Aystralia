@@ -37,6 +37,7 @@ CH_SupplyCrate.Config.AllowedTeams = {
 	"Thief",
 	"Chicken Dicken",
 	"1337 Counter",
+	"Kommissar",
 	"Picolas Cage",
 	"Drip",
 	"Marcus",
