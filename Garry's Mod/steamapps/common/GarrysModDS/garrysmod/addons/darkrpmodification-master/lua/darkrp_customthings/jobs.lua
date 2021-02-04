@@ -1376,6 +1376,7 @@ TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
+TEAM_DRIP = DarkRP.createJob("Drip", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/Taiga_Aisaka.mdl"},
     description = [[im back on my drip]],
@@ -1394,7 +1395,7 @@ TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
         ply:SetArmor(100)
     end,
     customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981"}, ply:SteamID())
+        table.HasValue({"STEAM_0:0:103364981","STEAM_0:0:437291733"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for binchicken only.",
 })
