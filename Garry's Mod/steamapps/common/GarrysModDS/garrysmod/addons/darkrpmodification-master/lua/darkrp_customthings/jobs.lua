@@ -1192,10 +1192,10 @@ TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
     end,
     CustomCheckFailMsg = "This job is for Jaspereeno only.",
 })
-TEAM_RAT_KING = DarkRP.createJob("Rat King", {
+TEAM_RAT_KING = DarkRP.createJob("Ark Knight", {
     color = Color(255, 0, 0, 255),
-    model = {"models/player/jaray.mdl"},
-    description = [[i am a mutated rat not else much to say other than i like cheese]],
+    model = {"models/Platinum/Arknights/rstar/Platinum/Platinum.mdl"},
+    description = [[the night is coming]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "invisibility_cloak", "m9k_honeybadger"},
     command = "TEAM_RAT_KING",
     max = 1,
@@ -1375,6 +1375,28 @@ TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
         table.HasValue({"STEAM_0:0:174848051", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
+})
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/Taiga_Aisaka.mdl"},
+    description = [[im back on my drip]],
+    weapons = {"m9k_honeybadger", "invisibility_cloak", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
+    command = "TEAM_DRIP",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for binchicken only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
