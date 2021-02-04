@@ -40,7 +40,7 @@ cfg.MaxTax = 75
 cfg.BonusDelay = 300
 
 -- Delay between each firing (seconds)
-cfg.KickDelay = 0
+cfg.KickDelay = 1
 
 -- Laws scrolling delay (seconds)
 cfg.LawsScrollingDelay = 2
