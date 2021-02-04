@@ -13,13 +13,13 @@
 ]]
 
 -- What chat command should open the GmodAdminSuite main menu?
-GAS.Config.ChatCommand = "!bogs"
+GAS.Config.ChatCommand = "!alogs"
 
 -- In seconds, how long until an inactive player is marked AFK?
 GAS.Config.AFKTime = 300
 
 -- Should GmodAdminSuite content (sounds, materials, etc.) be downloaded by users through the Workshop when they join the server?
-GAS.Config.WorkshopDL = true
+GAS.Config.WorkshopDL = false
 
 -- Should GmodAdminSuite content be downloaded by users directly from the server when they join? (this is unnecessary if you are using WorkshopDL)
 GAS.Config.ServerDL = false
