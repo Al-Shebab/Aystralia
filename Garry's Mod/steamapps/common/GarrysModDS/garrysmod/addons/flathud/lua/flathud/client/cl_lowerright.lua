@@ -112,8 +112,8 @@ local function DrawWeaponHUD(w, h)
 		PanelIcon = FlatUI.Icons.Build
 		BarIcon = FlatUI.Icons.Cube
 
-		BarText = FlatHUD.GetPhrase("props") .. ": " .. Props .. " / " .. GetConVar( "sbox_maxprops" ):GetInt()
-		SmoothAmmo = Lerp(5 * FrameTime(), SmoothAmmo, Props / GetConVar( "sbox_maxprops" ):GetInt())
+		BarText = FlatHUD.GetPhrase("props") .. ": " .. Props ..
+		SmoothAmmo = Lerp(5 * FrameTime(), SmoothAmmo, Props)
 	elseif Wep:Clip1() != -1 and Wep:GetPrimaryAmmoType() != -1 and Class != "weapon_physcannon" then
 		PanelIcon = FlatUI.Icons.Pistol
 		BarIcon = FlatUI.Icons.Ammo
