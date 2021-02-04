@@ -39,23 +39,23 @@ If you want only frozen and not ragdolling, set "STUNGUN.FreezeTime" to what you
 -- Set STUNGUN.FreezeTime = to whatever you want instead
 
 -- How many seconds the player becomes a ragdoll. Set to 0 to disable ragdolling completely (players will still be stunned and shaking with the FreezeTime).
-STUNGUN.ParalyzedTime = 10
+STUNGUN.ParalyzedTime = 5
 
 -- How many seconds the player is mute/gagged = Unable to speak/chat.
-STUNGUN.MuteTime = 12
+STUNGUN.MuteTime = 5
 
 -- How many seconds after the player has been unragdolled that he will be frozen and shaking. Set to 0 to disable.
 STUNGUN.FreezeTime = 3
 
 -- Amount of seconds the player is immune to stuns after he has been unfrozen. -1 to disable.
-STUNGUN.Immunity = 3
+STUNGUN.Immunity = -1
 
 -- Ragdoll physics effect
 -- Set to either 0, 1 or 2
 -- 0: No effect, ragdoll lies still on the ground
 -- 1: Original comical rolling around
 -- 2: Shaking
-STUNGUN.PhysEffect = 1
+STUNGUN.PhysEffect = 0
 
 -- This affects how quickly the ragdoll will roll around, or shake. Set to 0.01 if you're having issues with too fast rolling.
 STUNGUN.PhysEffectScale = 1
@@ -125,7 +125,7 @@ SWEP.StartCharged = true
 SWEP.InfiniteAmmo = false
 
 -- Recharge time. How many seconds it takes to charge the gun back up.
-SWEP.RechargeTime = 4
+SWEP.RechargeTime = 10
 
 -- How long range the weapon has. Players beyond this range won't get hit.
 -- To put in perspective, in DarkRP, the above-head player info has a default range of 400.
@@ -133,8 +133,7 @@ SWEP.Range = 400
 
 -- What teams are immune to the stun gun? (if any).
 local immuneteams = {
-	TEAM_MAYOR,
-	TEAM_CHIEF
+	TEAM_MAYOR
 }
 
 --[[****************
@@ -144,7 +143,7 @@ Only care about these if you're running it on a DarkRP server.
 
 -- Should the stun gun charges be buyable in the f4 store?
 -- If yes, put in a number above 0 as price, if no, put -1 to disable.
-STUNGUN.AddAmmoItem = 50
+STUNGUN.AddAmmoItem = -1
 
 -- Should it be allowed to use the arrest baton on stunned people?
 STUNGUN.AllowArrestOnRag = true
