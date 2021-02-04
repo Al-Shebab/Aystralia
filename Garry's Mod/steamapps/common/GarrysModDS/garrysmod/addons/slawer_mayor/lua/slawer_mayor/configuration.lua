@@ -37,10 +37,10 @@ cfg.MinMaxBonus = {100, 10000}
 cfg.MaxTax = 75
 
 -- delay between each bonus (seconds)
-cfg.BonusDelay = 600
+cfg.BonusDelay = 300
 
 -- Delay between each firing (seconds)
-cfg.KickDelay = 600
+cfg.KickDelay = 0
 
 -- Laws scrolling delay (seconds)
 cfg.LawsScrollingDelay = 2
@@ -83,10 +83,6 @@ cfg.Upgrades[1] = {
 	Condition = function(p) return p:isCP() end,
 	Levels = {
 		[0] = {},
-		[1] = {
-			Price = 30000,
-			Weapons = {"m9k_mp5sd"},
-		},
 	}
 }
 
