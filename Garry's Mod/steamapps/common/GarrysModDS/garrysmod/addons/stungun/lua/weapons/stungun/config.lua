@@ -122,7 +122,7 @@ SWEP.StartCharged = true
 
 -- Should we have infinite ammo (true) or finite ammo (false)?
 -- Finite ammo makes it spawn with 1 charge, unless you're running TTT in which you can specify how much ammo it should start with down below.
-SWEP.InfiniteAmmo = false
+SWEP.InfiniteAmmo = true
 
 -- Recharge time. How many seconds it takes to charge the gun back up.
 SWEP.RechargeTime = 10
