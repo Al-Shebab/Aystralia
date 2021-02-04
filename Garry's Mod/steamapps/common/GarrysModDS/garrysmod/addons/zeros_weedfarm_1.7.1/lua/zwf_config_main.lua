@@ -139,37 +139,37 @@ zwf.config.Damageable = {
 zwf.config.Sharing = {
     // Do we allow seeds to be shared and used by other players?
     // *Note: Enabling this will allow players to take anyones seed and store / use it
-    Seeds = false,
+    Seeds = true,
 
     // Do we allow other players to share Fertilizer bottles?
-    Fertilizer = false,
+    Fertilizer = true,
 
     // Do we allow other players to interact with the plants?
-    Plants = false,
+    Plants = true,
 
     // Do we allow other players to remove weed junks from the drying station?
-    DryStation = false,
+    DryStation = true,
 
     // Do we allow other players to interact with the packing table?
-    Packing = false,
+    Packing = true,
 
     // Do we allow weedblocks from other players to be added to our palette entity?
-    Palette = false,
+    Palette = true,
 
     // Do we allow other players to add/remove weed and interact with our seedlab entity?
-    SeedLab = false,
+    SeedLab = true,
 
     // Do we allow other players to interact with the generator?
-    Generator = false,
+    Generator = true,
 
     // Do we allow other players to interact with the lamps?
-    Lamps = false,
+    Lamps = true,
 
     // Do we allow other players to interact with the fans?
-    Fans = false,
+    Fans = true,
 
     // Do we allow other players to interact with your Watertank?
-    WaterTank = false,
+    WaterTank = true,
 }
 
 zwf.config.ShopTablet = {
