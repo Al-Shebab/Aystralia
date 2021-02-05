@@ -1422,6 +1422,29 @@ TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
     end,
     CustomCheckFailMsg = "This job is for Rick Castle only.",
 })
+TEAM_KEN_KANEKI = DarkRP.createJob("Ken Kaneki", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/player/kaneki.mdl"},
+    description = [[Just your friendly neighbourhood ghoul]],
+    weapons = {"pro_lockpick", "guitar_western", "m9k_m16a4_acog"},
+    command = "TEAM_KEN_KANEKI",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Gwacko only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
