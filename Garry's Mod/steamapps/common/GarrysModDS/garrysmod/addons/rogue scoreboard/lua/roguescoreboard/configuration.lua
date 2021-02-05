@@ -160,7 +160,7 @@ Configuration.RankDisplay["senior-moderator"] 			= { DisplayName = "Senior Moder
 Configuration.RankDisplay["admin"] 			= { DisplayName = "Admin", TagName = "", DisplayColor = Color(226, 255, 68), TagColor = Color( 121,122,123 ) }
 Configuration.RankDisplay["senior-admin"] 			= { DisplayName = "Senior Admin", TagName = "", DisplayColor = Color(255, 180, 0), TagColor = Color( 121,122,123 ) }
 Configuration.RankDisplay["staff-manager"] 			= { DisplayName = "Staff Manager", TagName = "", DisplayColor = Color(255, 101, 101), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["superadmin"] 			= { DisplayName = "User", TagName = "", DisplayColor = Color(93, 24, 255), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["superadmin"] 			= { DisplayName = "Sydney", TagName = "", DisplayColor = Color(61, 255, 154), TagColor = Color( 121,122,123 ) }
 Configuration.RankDisplay["donator-trial-moderator"] 			= { DisplayName = "Trial Moderator", TagName = "", DisplayColor = Color(24, 249, 255), TagColor = Color( 121,122,123 ) }
 Configuration.RankDisplay["donator-moderator"] 			= { DisplayName = "Moderator", TagName = "", DisplayColor = Color(74, 255, 121), TagColor = Color( 121,122,123 ) }
 Configuration.RankDisplay["donator-senior-moderator"] 			= { DisplayName = "Senior Moderator", TagName = "", DisplayColor = Color(148, 255, 87), TagColor = Color( 121,122,123 ) }
@@ -201,26 +201,26 @@ Configuration.CommandBanTime        = 120
 // U N D E R  C O V E R  M O D E
 
 -- Who has access to go incognito?
-Configuration.IncognitoAccess       = { "superadmin" }
+Configuration.IncognitoAccess       = { "staff-manager", "superadmin" }
 -- Who can see who is incognito mode?
-Configuration.IncognitoVision       = { "superadmin" }
+Configuration.IncognitoVision       = { "staff-manager", "superadmin" }
 -- Use the custom icon for profile picture, if false will use players original profile picture
 Configuration.UseCustomIcon         = true
 
 -- Lowest money selected
 Configuration.LowestMoney           = 127320
 -- Highest money selected
-Configuration.HighestMoney          = 673240
+Configuration.HighestMoney          = 6732940
 
 -- Lowest kills selected
-Configuration.LowestKills           = 0
+Configuration.LowestKills           = 3
 -- Highest kills selected
-Configuration.HighestKills          = 5
+Configuration.HighestKills          = 15
 
 -- Lowest deaths selected
-Configuration.LowestDeaths          = 0
+Configuration.LowestDeaths          = 5
 -- Highest deaths selected
-Configuration.HighestDeaths         = 12
+Configuration.HighestDeaths         = 18
 
 -- List of names randomly selected for incognito
 Configuration.UndercoverNames       = { 
