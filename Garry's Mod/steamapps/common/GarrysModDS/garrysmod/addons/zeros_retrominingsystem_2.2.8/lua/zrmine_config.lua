@@ -465,10 +465,10 @@ zrmine.config.Melter_Coal_Capacity = 1000
 zrmine.config.Melter_UnloadTime = 10
 
 zrmine.config.Melter_Vars = {}
-zrmine.config.Melter_Vars["Iron"] = {OreAmount = 25, MeltDuration = 5,CoalAmount = 5,CoolingTime = 3}
-zrmine.config.Melter_Vars["Bronze"] = {OreAmount = 15, MeltDuration = 10,CoalAmount = 10,CoolingTime = 5}
-zrmine.config.Melter_Vars["Silver"] = {OreAmount = 10, MeltDuration = 15,CoalAmount = 15,CoolingTime = 7}
-zrmine.config.Melter_Vars["Gold"] = {OreAmount = 5, MeltDuration = 15,CoalAmount = 20,CoolingTime = 7}
+zrmine.config.Melter_Vars["Iron"] = {OreAmount = 50, MeltDuration = 5,CoalAmount = 5,CoolingTime = 3}
+zrmine.config.Melter_Vars["Bronze"] = {OreAmount = 30, MeltDuration = 10,CoalAmount = 10,CoolingTime = 5}
+zrmine.config.Melter_Vars["Silver"] = {OreAmount = 20, MeltDuration = 15,CoalAmount = 15,CoolingTime = 7}
+zrmine.config.Melter_Vars["Gold"] = {OreAmount = 10, MeltDuration = 15,CoalAmount = 20,CoolingTime = 7}
 ///////////////////////
 
 

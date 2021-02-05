@@ -564,7 +564,7 @@ DarkRP.createEntity("Melter", {
 	ent = "zrms_melter",
 	model = "models/zerochain/props_mining/zrms_melter.mdl",
 	price = 7500,
-	max = 2,
+	max = 1,
 	cmd = "buyzrms_melter",
 	allowed = TEAM_MINER,
 	category = "Mining"
