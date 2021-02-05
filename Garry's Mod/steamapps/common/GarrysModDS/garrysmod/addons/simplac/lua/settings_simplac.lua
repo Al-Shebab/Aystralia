@@ -10,8 +10,8 @@ Simplac.settings.banreason = "Cheating"
 Simplac.settings.telleveryoneaboutcheaters = 1 -- tell everyone who cheated 0/false = tell no one, 2 = everyone, 1 = admins only
 
 
-Simplac.settings.testmode = true -- test mode (disable bans)
-Simplac.settings.testmode2 = true -- full test mode (no kicks)
+Simplac.settings.testmode = false -- test mode (disable bans)
+Simplac.settings.testmode2 = false -- full test mode (no kicks)
 
 
 Simplac.settings.readdetectiondisclaimer = true -- Did you read the detection disclaimer?
@@ -30,15 +30,15 @@ Simplac.settings.Aimbot_MCheck = false -- AM = "DAMN THIS BOT IS SO ANNOYING LOL
 Simplac.settings.MouseCheck2 = true -- MC = Mouse Check ( against aimbots etc. )
 
 Simplac.settings.SeedCheck = true -- SC = Seed check ( against nospreads )
-Simplac.settings.AutofireCheck1 =  true -- AF = Autofire toggle check
-Simplac.settings.AutofireCheck2 =  true -- AF2 = Autofire toggle check 2
-Simplac.settings.BhopCheck = true --BH = Bunnyhop check
+Simplac.settings.AutofireCheck1 =  false -- AF = Autofire toggle check
+Simplac.settings.AutofireCheck2 =  false -- AF2 = Autofire toggle check 2
+Simplac.settings.BhopCheck = false --BH = Bunnyhop check
 Simplac.settings.Aimbot_NCheck = true -- AN = Aimbot check (also against aimbots etc. )
 Simplac.settings.MoveCheck = false -- MV check (against C++ cheats etc.)
 
 
 --these are disabled by default
-Simplac.settings.FlashlightCheck = false -- FL = Anti flashlight spam ( Sebastian wanted this lol )
+Simplac.settings.FlashlightCheck = true -- FL = Anti flashlight spam ( Sebastian wanted this lol )
 
 
 
