@@ -34,7 +34,8 @@ CH_ArmoryRobbery.Config.RequiredTeams = { -- These are the names of the jobs tha
 	"Swat Heavy",
 	"Swat Leader",
 	"Swat Medic",
-	"Swat Marksman"
+	"Swat Marksman",
+	"AUTOBOT"
 }
 
 CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs that counts with the option above, the police required. The amount of players on these teams are calculated together in the count.
@@ -44,7 +45,8 @@ CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs t
 	"Swat Heavy",
 	"Swat Leader",
 	"Swat Medic",
-	"Swat Marksman"
+	"Swat Marksman",
+	"AUTOBOT"
 }
 
 CH_ArmoryRobbery.Config.AllowedTeams = {}

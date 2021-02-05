@@ -1445,6 +1445,29 @@ TEAM_KEN_KANEKI = DarkRP.createJob("Ken Kaneki", {
     end,
     CustomCheckFailMsg = "This job is for Gwacko only.",
 })
+TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/cybertronautobot/g2_optimus.mdl"},
+    description = [[AUTOBOT]],
+    weapons = {"m9k_m16a4_acog", "weapon_cuff_police", "arrest_stick", "stungun", "door_ram", "unarrest_stick", "stunstick", "weaponchecker"},
+    command = "TEAM_AUTOBOT",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:174848051"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
@@ -1457,4 +1480,5 @@ GAMEMODE.CivilProtection = {
     [TEAM_SWAT_MARKSMAN] = true,
     [TEAM_SWAT_MEDIC] = true,
     [TEAM_SWAT_LEADER] = true,
+    [TEAM_AUTOBOT] = true,
 }
