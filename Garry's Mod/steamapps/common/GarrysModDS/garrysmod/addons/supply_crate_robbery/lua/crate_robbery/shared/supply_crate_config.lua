@@ -35,7 +35,7 @@ CH_SupplyCrate.Config.GovernmentTeams = {
 
 CH_SupplyCrate.Config.AllowedTeams = {
 	"Thief",
-	"Chicken Dicken",
+	"Dr Mario",
 	"1337 Counter",
 	"Kommissar",
 	"Picolas Cage",
