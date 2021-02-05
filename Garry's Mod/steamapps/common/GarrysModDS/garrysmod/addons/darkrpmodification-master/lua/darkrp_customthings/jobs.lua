@@ -147,7 +147,7 @@ TEAM_RAPIST = DarkRP.createJob("Predator", {
         "models/player/Group01/male_08.mdl",
         "models/player/Group01/male_04.mdl"
     },
-    description = [[Commit some *crimes* on civilians. MAY ONLY *** ONCE EVERY 15 MINUTES, MUST ADVERT!]],
+    description = [[Commit some *crimes* on civilians. MAY ONLY *** ONCE EVERY 5 MINUTES, MUST ADVERT!]],
     weapons = {"weapon_rape"},
     command = "TEAM_RAPIST",
     max = 1,
