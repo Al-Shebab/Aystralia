@@ -43,7 +43,7 @@ hook.Add( "PostPlayerDraw", "drawChatOverheadRay", function( ply )
 	if ( disabled_slash_noview ) then
 		local str = string.Left( ply.real_chat, 1 )
 		
-		if ( str == "/" or str == "!" or str == "@" ) then
+		if ( str == "/" or str == "!" or str == "$" or str == "@" ) then
 			return
 		end	
 	end
