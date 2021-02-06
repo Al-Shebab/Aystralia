@@ -235,10 +235,11 @@ zrmine.config.Pickaxe_HarvestMul["Gold"] = {Amount = 0.25, Speed = 1.5,XP = 3}
 
 /*
 // Real Metal Price (This is for Reference only and does not change anything inGame)
-local Gold_1kg = 48000  //$
-local Silver_1kg = 630  //$
-local Bronze_1kg = 18   //$
-local Iron_1kg = 0.80   //$
+
+local Gold_1kg = 3000 //$
+local Silver_1kg = 1400 //$
+local Bronze_1kg = 700 //$
+local Iron_1kg = 550 //$
 */
 
 local Gold_1kg = 3000 //$
