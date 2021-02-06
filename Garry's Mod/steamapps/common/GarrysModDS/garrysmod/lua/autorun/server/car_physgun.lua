@@ -8,12 +8,6 @@ local DenyGroups =
 	"perth",
 	"trial-moderator",
 	"donator-trial-moderator",
-}
-
--- ALLOWED GROUPS GO HERE
-local AllowGroups = {
-	"superadmin",
-	"staff-manager",
 	"senior-admin",
 	"admin",
 	"donator-admin",
@@ -21,7 +15,12 @@ local AllowGroups = {
 	"donator-senior-moderator",
 	"moderator",
 	"donator-moderator",
+}
 
+-- ALLOWED GROUPS GO HERE
+local AllowGroups = {
+	"superadmin",
+	"staff-manager",
 }
 
 local function VehPickup(ply, ent)
