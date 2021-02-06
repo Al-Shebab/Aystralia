@@ -8,7 +8,7 @@ CH_BankVault.CurrentRobbers = CH_BankVault.CurrentRobbers or { "NONE" }
 CH_BankVault.Config.StartMoney = 750000 -- Amount of money the bank will have from server startup. [Default = 1500]
 CH_BankVault.Config.MoneyTimer = 60 -- This is the time that defines when money is added to the bank. In seconds! [Default = 60]
 CH_BankVault.Config.MoneyOnTime = 10000 -- This is the amount of money to be added to the bank every x minutes/seconds. Defined by the setting above. [Default = 1000]
-CH_BankVault.Config.Max = 1500000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
+CH_BankVault.Config.Max = 750000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
 
 CH_BankVault.Config.AliveTime = 60 -- The amount of SECONDS the player must stay alive before he will receive what the bank has. [Default = 60 seconds]
 -- If you own the transport dlc this is also the time the robbers needs to complete the heist/transport of the money in. If not, the mission will fail.
