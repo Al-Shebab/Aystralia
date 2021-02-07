@@ -83,7 +83,7 @@ CH_SupplyCrate.Config.MoneyOnTime = 10000 -- This is the amount of money to be a
 CH_SupplyCrate.Config.MaxMoney = 1500000 -- The maximum amount of money the supply crate can have. Set to 0 for no limit. [Default = 150000]
 
 -- Section two. Handles the ammonition part.
-CH_SupplyCrate.Config.EnableAmmoLoot = true -- Should the ammo element be enabled?
+CH_SupplyCrate.Config.EnableAmmoLoot = false -- Should the ammo element be enabled?
 CH_SupplyCrate.Config.AmmoTimer = 240 -- This is the time that defines when ammo is added to the supply crate. In seconds! [Default = 240 (4 Minutes)]
 CH_SupplyCrate.Config.AmmoOnTime = 8 -- This is the amount of ammo to be added to the supply crate every x minutes/seconds. Defined by the setting above. [Default = 8]
 CH_SupplyCrate.Config.MaxAmmo = 100 -- The maximum amount of ammo the supply crate can have. Set to 0 for no limit. [Default = 100]
@@ -93,7 +93,7 @@ CH_SupplyCrate.Config.EnableShipmentLoot = true -- Should the shipment element b
 CH_SupplyCrate.Config.ShipmentsTimer = 360 -- This is the time that defines when shipments are added to the supply crate. In seconds! [Default = 360 (6 Minutes)]
 CH_SupplyCrate.Config.ShipmentsOnTime = 1 -- This is the amount of shipments to be added to the supply crate every x minutes/seconds. Defined by the setting above. [Default = 1]
 CH_SupplyCrate.Config.MaxShipments = 5 -- The maximum amount of shipments the supply crate can have. Set to 0 for no limit. [Default = 5]
-CH_SupplyCrate.Config.ShipmentsWepAmount = 10 -- Amount of weapons inside of one shipment. [Default = 10]
+CH_SupplyCrate.Config.ShipmentsWepAmount = 3 -- Amount of weapons inside of one shipment. [Default = 10]
 
 CH_SupplyCrate.Config.ShipmentAutoRemove = 180 -- TO AVOID SPAM: if you want shipments to be deleted after x seconds of spawning after robbery, you can use this config. Setting it to 0 will disable it and not delete anything. [Default = 180]
 CH_SupplyCrate.Config.OverwriteModel = true -- Do you want to overwrite the default shipment model with the one that comes with the script, even when users buys them through the F4 menu? [Default = true]
