@@ -13,7 +13,7 @@ local Ar_fill_rate = 5
 local Ar_plyfill_rate = 0.2
 
 local Ar_printer_health = 100
-local Ar_printer_storage = 300
+local Ar_printer_storage = 100
 
 local overheatchance = 1000
 
