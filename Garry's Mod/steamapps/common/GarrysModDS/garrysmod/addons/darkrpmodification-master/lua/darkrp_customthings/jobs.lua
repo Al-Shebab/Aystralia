@@ -30,7 +30,7 @@ JOB_CASINO_SECURITY = DarkRP.createJob("Casino Security", {
     category = "Citizens"
 })
 JOB_CASINO_MANAGER = DarkRP.createJob("Casino Manager", {
-    color = Color(34, 85, 85, 255),
+    color = Color(74, 255, 69, 255),
     model = {"models/player/kleiner.mdl"},
     description = [[Make sure the casino isn't earning too much money.]],
     weapons = {"weapon_cigarette_camel"},
@@ -142,7 +142,7 @@ TEAM_GAMBLING_ADDICT = DarkRP.createJob("Gambling Addict", {
     category = "Citizens"
 })
 TEAM_RAPIST = DarkRP.createJob("Predator", {
-    color = Color(34, 85, 85, 255),
+    color = Color(74, 255, 69, 255),
     model = {
         "models/player/Group01/male_08.mdl",
         "models/player/Group01/male_04.mdl"
@@ -168,7 +168,7 @@ TEAM_RAPIST = DarkRP.createJob("Predator", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_PROSTITUTE = DarkRP.createJob("Prostitute", {
-    color = Color(34, 85, 85, 255),
+    color = Color(74, 255, 69, 255),
     model = {"models/konnie/tifff13/tifff13_s.mdl"},
     description = [[Pleasure the inner truck drivers of the server.]],
     weapons = {"weapon_cigarette_camel"},
@@ -182,7 +182,7 @@ TEAM_PROSTITUTE = DarkRP.createJob("Prostitute", {
     category = "Citizens"
 })
 TEAM_MECHANIC = DarkRP.createJob("Mechanic", {
-    color = Color(34, 85, 85, 255),
+    color = Color(74, 255, 69, 255),
     model = {"models/player/Group03/male_03.mdl"},
     description = [[Fix cars and get greasy.]],
     weapons = {"weapon_cigarette_camel", "vc_wrench"},
@@ -1513,6 +1513,29 @@ TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:86866846"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Jim Dallace only.",
+})
+TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/kuma96/gta5_specops/gta5_specops_pm.mdl"},
+    description = [[Raiding and mug these hoes]],
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m249lmg", "weapon_armorkit"},
+    command = "TEAM_SPECIALIST_THIEF",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:12334480"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jordan only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
