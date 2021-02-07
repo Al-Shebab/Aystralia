@@ -377,15 +377,6 @@ DarkRP.createEntity("Armour Station", {
     category = "Supplies"
 })    
 
-DarkRP.createEntity("Vehicle Repair Kit", {
-    ent = "vc_pickup_healthkit_25",
-    model = "models/vcmod/vcmod_toolbox.mdl",
-    price = 5000,
-    max = 1,
-    cmd = "repair_kit",
-    category = "Vehicle Supplies"
-})
-
 DarkRP.createEntity("BuildKit", {
     ent = "zrush_machinecrate",
     model = "models/zerochain/props_oilrush/zor_machinecrate.mdl",
@@ -518,15 +509,13 @@ DarkRP.createEntity("Apples", {
 	category = "Fruit Slicer"
 })
 
-
-
 DarkRP.createEntity("Gravel - Crate", {
 	ent = "zrms_gravelcrate",
 	model = "models/zerochain/props_mining/zrms_refiner_basket.mdl",
 	price = 250,
 	max = 5,
 	cmd = "buyzrms_gravelcrate",
-	allowed = TEAM_MINER,
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })
 
@@ -536,7 +525,7 @@ DarkRP.createEntity("Refiner - Crate", {
 	price = 250,
 	max = 2,
 	cmd = "buyzrms_basket",
-	allowed = TEAM_MINER,
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })
 
@@ -546,7 +535,7 @@ DarkRP.createEntity("Storage Crate", {
 	price = 25,
 	max = 5,
 	cmd = "buyzrms_storagecrate",
-	allowed = TEAM_MINER,
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })
 
@@ -556,7 +545,7 @@ DarkRP.createEntity("Mine", {
 	price = 150000,
 	max = 3,
 	cmd = "buyzrms_mineentrance_base",
-	allowed = TEAM_MINER,
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })
 
@@ -566,6 +555,6 @@ DarkRP.createEntity("Melter", {
 	price = 7500,
 	max = 1,
 	cmd = "buyzrms_melter",
-	allowed = TEAM_MINER,
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })

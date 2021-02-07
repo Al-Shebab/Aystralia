@@ -112,7 +112,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 11,
 }
 DarkRP.createCategory{
@@ -120,7 +120,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 12,
 }
 DarkRP.createCategory{
@@ -128,7 +128,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 13,
 }
 DarkRP.createCategory{
@@ -136,7 +136,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_GUN_DEALER, TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 14,
 }
 DarkRP.createCategory{
@@ -144,7 +144,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 15,
 }
 DarkRP.createCategory{
@@ -152,7 +152,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 16,
 }
 DarkRP.createCategory{
@@ -160,7 +160,7 @@ DarkRP.createCategory{
     categorises = "shipments",
     startExpanded = true,
     color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}, ply:Team()) end,
     sortOrder = 17,
 }
 DarkRP.createCategory{
@@ -247,7 +247,7 @@ DarkRP.createCategory{
 	categorises = "entities",
 	startExpanded = true,
 	color = Color(0, 107, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_MINER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_MINER,TEAM_FELIX_ARGYLE}, ply:Team()) end,
 	sortOrder = 11
 }
 
