@@ -1491,6 +1491,29 @@ TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
     end,
     CustomCheckFailMsg = "This job is for Jay Z only.",
 })
+TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
+    color = Color(34, 85, 85, 255),
+    model = {"models/jessev92/player/misc/saddam.mdl"},
+    description = [[The ultimate weapons dealer, he has everything and anything, just ask. | Doubles as a Thief/Gun Dealer]],
+    weapons = {"m9k_dragunov", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "med_kit"},
+    command = "TEAM_SADDAM_HUSSEIN",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:86866846"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jim Dallace only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 

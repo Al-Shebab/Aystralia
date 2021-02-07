@@ -83,6 +83,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Papa Yoda",
 	"Sonic",
 	"2B",
+	"Saddam Hussein",
 	"Pickle Rick",
 	"Noot-Noot",
 	"Pro Thief",

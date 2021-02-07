@@ -273,7 +273,7 @@ DarkRP.createShipment("M416", {
     noship = false,
     separate = true,
     category = "Rifles",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("G36C", {
     model = "models/weapons/w_hk_g36c.mdl",
@@ -285,7 +285,7 @@ DarkRP.createShipment("G36C", {
     noship = false,
     separate = true,
     category = "Rifles",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("SCAR", {
     model = "models/weapons/w_fn_scar_h.mdl",
@@ -297,7 +297,7 @@ DarkRP.createShipment("SCAR", {
     noship = false,
     separate = true,
     category = "Rifles",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("F2000", {
     model = "models/weapons/w_fn_f2000.mdl",
@@ -309,7 +309,7 @@ DarkRP.createShipment("F2000", {
     noship = false,
     separate = true,
     category = "Rifles",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 
 -- Machine Guns --
@@ -324,7 +324,7 @@ DarkRP.createShipment("FG42", {
     noship = false,
     separate = true,
     category = "Machine Guns",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("M60", {
     model = "models/weapons/w_m60_machine_gun.mdl",
@@ -336,7 +336,7 @@ DarkRP.createShipment("M60", {
     noship = false,
     separate = true,
     category = "Machine Guns",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("M249", {
     model = "models/weapons/w_m249_machine_gun.mdl",
@@ -348,7 +348,7 @@ DarkRP.createShipment("M249", {
     noship = false,
     separate = true,
     category = "Machine Guns",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 
 -- Snipers --
@@ -363,7 +363,7 @@ DarkRP.createShipment("M24", {
     noship = false,
     separate = true,
     category = "Snipers",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("Barrett M98B", {
     model = "models/weapons/w_barrett_m98b.mdl",
@@ -375,7 +375,7 @@ DarkRP.createShipment("Barrett M98B", {
     noship = false,
     separate = true,
     category = "Snipers",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("Remington 7615P", {
     model = "models/weapons/w_remington_7615p.mdl",
@@ -387,7 +387,7 @@ DarkRP.createShipment("Remington 7615P", {
     noship = false,
     separate = true,
     category = "Snipers",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("AW50", {
     model = "models/weapons/w_acc_int_aw50.mdl",
@@ -399,7 +399,7 @@ DarkRP.createShipment("AW50", {
     noship = false,
     separate = true,
     category = "Snipers",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 
 -- Explosives --
@@ -413,7 +413,7 @@ DarkRP.createShipment("Frag Grenade", {
     pricesep = 0,
     noship = false,
     category = "Explosives",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("Sticky Grenade", {
     model = "models/weapons/w_sticky_grenade.mdl",
@@ -424,7 +424,7 @@ DarkRP.createShipment("Sticky Grenade", {
     pricesep = 0,
     noship = false,
     category = "Explosives",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("Timed C4", {
     model = "models/weapons/w_sb.mdl",
@@ -435,7 +435,7 @@ DarkRP.createShipment("Timed C4", {
     pricesep = 0,
     noship = false,
     category = "Explosives",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("M79 Grenade Launcher.", {
     model = "models/weapons/w_m79_grenadelauncher.mdl",
@@ -446,7 +446,7 @@ DarkRP.createShipment("M79 Grenade Launcher.", {
     pricesep = 0,
     noship = false,
     category = "Explosives",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("Matador", {
     model = "models/weapons/w_GDCW_MATADOR_RL.mdl",
@@ -457,7 +457,7 @@ DarkRP.createShipment("Matador", {
     pricesep = 0,
     noship = false,
     category = "Explosives",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 DarkRP.createShipment("RPG", {
     model = "models/weapons/w_rl7.mdl",
@@ -468,7 +468,7 @@ DarkRP.createShipment("RPG", {
     pricesep = 0,
     noship = false,
     category = "Explosives",
-    allowed = {TEAM_BLACK_MARKET_DEALER}
+    allowed = {TEAM_BLACK_MARKET_DEALER,TEAM_SADDAM_HUSSEIN}
 })
 
 -- Drugs --
