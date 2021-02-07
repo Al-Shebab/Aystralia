@@ -1468,6 +1468,29 @@ TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
+TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
+    color = Color(255, 0, 0, 255),
+    model = {"models/nikout/AC3/Connor_playermodel.mdl"},
+    description = [[We work in the dark, to serve the light.]],
+    weapons = {"m9k_dragunov", "weapon_thehiddenblade", "pro_lockpick"},
+    command = "TEAM_CONNOR_KENWAY",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:68387277"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Jay Z only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 

@@ -37,6 +37,7 @@
         [ 'John Wick' ] = true,
         [ 'Decepticon' ] = true,
         [ 'Ken Kaneki' ] = true,
+        [ 'Connor Kenway' ] = true,
         [ 'Assassin' ] = true
     }
 
@@ -52,6 +53,7 @@
         [ 'Swat Marksman' ] = true,
         [ 'Swat Medic' ] = true,
         [ 'Swat Leader' ] = true,
+        [ 'AUTOBOT' ] = true,
         [ 'Mayor' ] = true
     }
 
