@@ -876,8 +876,8 @@ TEAM_WEED_DEALER = DarkRP.createJob("Weed Grower", {
 })
 TEAM_METH_DEALER = DarkRP.createJob("Meth Cook", {
     color = Color(196, 115, 0, 255),
-    model = {"models/bloocobalt/splinter cell/chemsuit_cod.mdl"},
-    description = [[Become a gosford local. Can base.]],
+    model = {"models/Agent_47/agent_47.mdl"},
+    description = [[Become a bankstown local. Can base.]],
     weapons = {"zmlab_extractor"},
     command = "TEAM_METH_DEALER",
     max = 4,
