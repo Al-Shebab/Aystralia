@@ -1191,7 +1191,7 @@ TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
     color = Color(255, 0, 0, 255),
     model = {"models/player/shi/Felix_Argyle.mdl"},
     description = [["Don't be Tricked by this cute neko girl since there is a trap under it's skirts"]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_scar", "climb_swep2"},
+    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_scar", "climb_swep2","zrms_pickaxe","zrms_builder"},
     command = "TEAM_FELIX_ARGYLE",
     max = 1,
     salary = 15000,
@@ -1484,7 +1484,7 @@ TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:86866846"}, ply:SteamID())
     end,
-    CustomCheckFailMsg = "This job is for Jim Dallace only.",
+    CustomCheckFailMsg = "This job is for Jim only.",
 })
 TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
     color = Color(255, 0, 0, 255),
@@ -1505,7 +1505,7 @@ TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
         ply:SetArmor(100)
     end,
     customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:12334480"}, ply:SteamID())
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:123344808"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Jordan only.",
 })
