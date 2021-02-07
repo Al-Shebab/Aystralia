@@ -191,14 +191,6 @@ DarkRP.createCategory{
     sortOrder = 2
 }
 DarkRP.createCategory{
-    name = "Lean Materials",
-    categorises = "entities",
-    startExpanded = true,
-    color = Color(0, 0, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team()) end,
-    sortOrder = 3
-}
-DarkRP.createCategory{
     name = "Weed Materials",
     categorises = "entities",
     startExpanded = true,

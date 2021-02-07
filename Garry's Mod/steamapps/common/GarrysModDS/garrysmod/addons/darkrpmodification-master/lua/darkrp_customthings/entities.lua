@@ -141,45 +141,6 @@ DarkRP.createEntity( "Advanced Printer", {
     end,
     CustomCheckFailMsg = "",
 })
-DarkRP.createEntity("Lean Barrel", {
-    ent = "lean_barrel",
-    model = "models/freeman/codeine_barrel.mdl",
-    price = 1500,
-    max = 2,
-    cmd = "lean_barrel",
-    category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
-DarkRP.createEntity("Lean Crate", {
-    ent = "lean_crate",
-    model = "models/freeman/codeine_crate.mdl",
-    price = 5000,
-    max = 1,
-    cmd = "lean_crate",
-    category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
-DarkRP.createEntity("Lean Cup", {
-    ent = "lean_cup",
-    model = "models/freeman/codeine_cup.mdl",
-    price = 20,
-    max = 5,
-    cmd = "lean_cup",
-    category = "Lean Materials",
-    allowed = {TEAM_LEAN_MANUFACTURER},
-    customCheck = function(ply) return
-        table.HasValue({TEAM_LEAN_MANUFACTURER}, ply:Team())
-    end,
-    CustomCheckFailMsg = "",
-})
 DarkRP.createEntity("Combiner", {
 	ent = "zmlab_combiner",
 	model = "models/zerochain/zmlab/zmlab_combiner.mdl",
