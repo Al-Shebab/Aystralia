@@ -1492,7 +1492,7 @@ TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
     CustomCheckFailMsg = "This job is for Jay Z only.",
 })
 TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
-    color = Color(34, 85, 85, 255),
+    color = Color(196, 115, 0, 255),
     model = {"models/jessev92/player/misc/saddam.mdl"},
     description = [[The ultimate weapons dealer, he has everything and anything, just ask. | Doubles as a Thief/Gun Dealer]],
     weapons = {"m9k_dragunov", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "med_kit"},
