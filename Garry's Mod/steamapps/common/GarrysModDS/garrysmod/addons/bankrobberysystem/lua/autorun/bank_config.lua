@@ -47,6 +47,7 @@ AllowedTeams = {
 	"Papa Yoda",
 	"Sonic",
 	"2B",
+	"Specialist Thief",
 	"Saddam Hussein",
 	"Pickle Rick",
 	"Noot-Noot",
