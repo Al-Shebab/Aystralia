@@ -71,7 +71,7 @@ CH_BankVault.Config.GovernmentTeams = {
 
 CH_BankVault.Config.AllowedTeams = {
 	"Thief",
-	"Dr Mario",
+	"Dr Shadow",
 	"1337 Counter",
 	"Picolas Cage",
 	"Kommissar",

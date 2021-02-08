@@ -1123,9 +1123,9 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
     end,
     CustomCheckFailMsg = "This job is for Gwacko only.",
 })
-TEAM_KERMIT = DarkRP.createJob("Dr Mario", {
+TEAM_KERMIT = DarkRP.createJob("Dr Shadow", {
     color = Color(255, 0, 0, 255),
-    model = {"models/player/assasinge/doctormario.mdl"},
+    model = {"models/shadow_ssb4.mdl"},
     description = [[Ill help ya anytime ;)]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m3", "weapon_armorkit"},
     command = "TEAM_KERMIT",

@@ -35,7 +35,7 @@ GovernmentTeams = {
 
 AllowedTeams = {
 	"Thief",
-	"Dr Mario",
+	"Dr Shadow",
 	"Kommissar",
 	"1337 Counter",
 	"Picolas Cage",
