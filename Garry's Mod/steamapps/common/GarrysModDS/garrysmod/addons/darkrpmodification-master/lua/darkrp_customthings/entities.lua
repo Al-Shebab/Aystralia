@@ -476,7 +476,7 @@ DarkRP.createEntity("Gravel - Crate", {
 	price = 250,
 	max = 5,
 	cmd = "buyzrms_gravelcrate",
-	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE,TEAM_SOWAKA},
 	category = "Mining"
 })
 
@@ -486,7 +486,7 @@ DarkRP.createEntity("Refiner - Crate", {
 	price = 250,
 	max = 2,
 	cmd = "buyzrms_basket",
-	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE,TEAM_SOWAKA},
 	category = "Mining"
 })
 
@@ -496,7 +496,7 @@ DarkRP.createEntity("Storage Crate", {
 	price = 25,
 	max = 5,
 	cmd = "buyzrms_storagecrate",
-	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE,TEAM_SOWAKA},
 	category = "Mining"
 })
 
@@ -506,7 +506,7 @@ DarkRP.createEntity("Mine", {
 	price = 150000,
 	max = 3,
 	cmd = "buyzrms_mineentrance_base",
-	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE,TEAM_SOWAKA},
 	category = "Mining"
 })
 
@@ -516,6 +516,6 @@ DarkRP.createEntity("Melter", {
 	price = 7500,
 	max = 1,
 	cmd = "buyzrms_melter",
-	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
+	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE,TEAM_SOWAKA},
 	category = "Mining"
 })
