@@ -559,11 +559,6 @@ Discord.Config = {
             ['Discord Rank'] = { 'Discord Associated Rank 1', 'Discord Associated Rank 2' },
         ]]
         AssociatedRanks = {
-            ['Senior Administrator'] = {'Garry's Mod Staff'},
-            ['Administrator'] = {'Garry's Mod Staff'},
-            ['Senior Moderator'] = {'Garry's Mod Staff'},
-            ['Moderator'] = {'Garry's Mod Staff'},
-            ['Trial Moderator'] = {'Garry's Mod Staff'},
         },
     },
 
