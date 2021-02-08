@@ -292,6 +292,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(25)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
@@ -331,6 +332,7 @@ TEAM_POLICE_OFFICER = DarkRP.createJob("Police Officer", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
@@ -355,6 +357,7 @@ TEAM_POLICE_CHIEF = DarkRP.createJob("Police Chief", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(25)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_MAYOR = DarkRP.createJob("Mayor", {
@@ -375,6 +378,7 @@ TEAM_MAYOR = DarkRP.createJob("Mayor", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end,
     PlayerDeath = function(ply, weapon, killer)
         ply:teamBan()
@@ -402,6 +406,7 @@ TEAM_SWAT = DarkRP.createJob("SWAT", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(50)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -428,6 +433,7 @@ TEAM_SWAT_HEAVY = DarkRP.createJob("Swat Heavy", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(50)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -454,6 +460,7 @@ TEAM_SWAT_MARKSMAN = DarkRP.createJob("Swat Marksman", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -481,6 +488,7 @@ TEAM_SWAT_MEDIC = DarkRP.createJob("Swat Medic", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(50)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -507,6 +515,7 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(50)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -533,6 +542,7 @@ TEAM_HACKER = DarkRP.createJob("Hacker", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_THIEF = DarkRP.createJob("Thief", {
@@ -552,6 +562,7 @@ TEAM_THIEF = DarkRP.createJob("Thief", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_HITMAN = DarkRP.createJob("Hitman", {
@@ -571,6 +582,7 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_BLOOD = DarkRP.createJob("Blood", {
@@ -590,6 +602,7 @@ TEAM_BLOOD = DarkRP.createJob("Blood", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
@@ -609,6 +622,7 @@ TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_CRIP = DarkRP.createJob("Crip", {
@@ -628,6 +642,7 @@ TEAM_CRIP = DarkRP.createJob("Crip", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
@@ -647,6 +662,7 @@ TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
@@ -666,6 +682,7 @@ TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_MAFIA = DarkRP.createJob("Mafia", {
@@ -685,6 +702,7 @@ TEAM_MAFIA = DarkRP.createJob("Mafia", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
@@ -704,6 +722,7 @@ TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
@@ -723,6 +742,7 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return CLIENT or
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -746,6 +766,7 @@ TEAM_PRO_HACKER = DarkRP.createJob("Pro Hacker", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return CLIENT or
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -769,6 +790,7 @@ TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     PlayerDeath = function(ply, weapon, killer)
         ply:teamBan()
@@ -797,6 +819,7 @@ TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return CLIENT or
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -823,6 +846,7 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return CLIENT or
         table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
@@ -910,6 +934,7 @@ TEAM_MUTANT = DarkRP.createJob("Mutant", {
         ply:SetHealth(100)
         ply:SetRunSpeed(340)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_HOBO = DarkRP.createJob("Hobo", {
@@ -930,6 +955,7 @@ TEAM_HOBO = DarkRP.createJob("Hobo", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(0)
+        ply:SetMaxArmor(100)
     end
 })
 TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
@@ -951,6 +977,7 @@ TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
         ply:SetRunSpeed(340)
     end
 })
@@ -1045,6 +1072,7 @@ If you like Al Shebab, then you will most likely love Kebabs.]],
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:1:53337546", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1068,6 +1096,7 @@ TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:197708528"}, ply:SteamID())
@@ -1091,6 +1120,7 @@ TEAM_SONIC = DarkRP.createJob("Sonic", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:86866846", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1114,6 +1144,7 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     PlayerSpawn = function(ply)
         ply:SetBodygroup(1, 0)
@@ -1140,6 +1171,7 @@ TEAM_KERMIT = DarkRP.createJob("Dr Shadow", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:579690494"}, ply:SteamID())
@@ -1163,6 +1195,7 @@ TEAM_2B = DarkRP.createJob("2B", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:68387277"}, ply:SteamID())
@@ -1186,6 +1219,7 @@ TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:579690494", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1209,6 +1243,7 @@ TEAM_RAT_KING = DarkRP.createJob("Ark Knight", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:492844137", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1232,6 +1267,7 @@ TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:25949007"}, ply:SteamID())
@@ -1255,6 +1291,7 @@ TEAM_HITLER = DarkRP.createJob("Hitler", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:33953368"}, ply:SteamID())
@@ -1278,6 +1315,7 @@ TEAM_MARCUS = DarkRP.createJob("Marcus", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:186632053", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1301,6 +1339,7 @@ TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:1:107335883", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1324,6 +1363,7 @@ TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:98102011", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1347,6 +1387,7 @@ TEAM_JOHN_WICK = DarkRP.createJob("John Wick", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:123344808", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1370,6 +1411,7 @@ TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:174848051", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1393,6 +1435,7 @@ TEAM_DRIP = DarkRP.createJob("Drip", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981","STEAM_0:0:437291733"}, ply:SteamID())
@@ -1416,6 +1459,7 @@ TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:32893562"}, ply:SteamID())
@@ -1439,6 +1483,7 @@ TEAM_KEN_KANEKI = DarkRP.createJob("Ken Kaneki", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())
@@ -1462,6 +1507,7 @@ TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:174848051"}, ply:SteamID())
@@ -1485,6 +1531,7 @@ TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:68387277"}, ply:SteamID())
@@ -1508,6 +1555,7 @@ TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:86866846"}, ply:SteamID())
@@ -1531,6 +1579,7 @@ TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
         ply:SetArmor(100)
+        ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:123344808"}, ply:SteamID())
