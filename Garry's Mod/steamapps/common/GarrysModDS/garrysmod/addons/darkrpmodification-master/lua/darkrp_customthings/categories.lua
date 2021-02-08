@@ -221,7 +221,7 @@ DarkRP.createCategory{
     categorises = "entities",
     startExpanded = true,
     color = Color(255, 107, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_OIL_REFINER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_OIL_REFINER,TEAM_KOMMISSAR}, ply:Team()) end,
     sortOrder = 9
 }
 
