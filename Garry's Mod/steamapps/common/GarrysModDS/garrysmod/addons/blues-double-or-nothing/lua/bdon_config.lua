@@ -22,16 +22,16 @@ Read me first!
 BDON_CONFIG = {}
 
 --This is the base bet amount. Change this how you please, the winnings scale with it (except for jackpot)
-BDON_CONFIG.bet = 20000 
+BDON_CONFIG.bet = 1000 
 
 --This is the minimum the jackpot can be (its random)
-BDON_CONFIG.minJackpot = 10000000
+BDON_CONFIG.minJackpot = 7500000
  
 --This is the maximum the jackpot can be (its random between min-max)
-BDON_CONFIG.maxJackpot = 19500000
+BDON_CONFIG.maxJackpot = 14500000
 
 --This is the chance that the next double is either a double or nothing. the highter the number the higher the chance (% between 0 and 100)
-BDON_CONFIG.doubleChance = 47 --(50 is recommened, but if you think there winning jackpot to much then lower this number, or raise it its your server :)
+BDON_CONFIG.doubleChance = 48 --(50 is recommened, but if you think there winning jackpot to much then lower this number, or raise it its your server :)
 
 --This is a list of usergroups that can save/edit the machines (!saveslots)
 BDON_CONFIG.AdminRanks = {
