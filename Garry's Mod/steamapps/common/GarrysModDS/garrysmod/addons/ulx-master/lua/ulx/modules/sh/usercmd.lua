@@ -8,7 +8,8 @@ donateurl = "https://aystralia-network.tebex.io/"
 rulesurl = "https://bit.ly/3mQVodO"
 groupurl = "https://steamcommunity.com/groups/Aystralia"
 bugsurl = "https://bit.ly/2WKFtDB"
-applyurl = "https://forms.gle/xugZ5v1Xqy4m2tpr9"
+applyurl = "https://forums.aystralia.com.au/forum/6-staff-applications/"
+forumurl = "https://forums.aystralia.com.au"
 
 addoncommand = "!addons"
 workshopcommand = "!workshop"
@@ -19,6 +20,7 @@ rulescommand = "!rules"
 groupcommand = "!group"
 bugscommand = "!bugs"
 applycommand = "!apply"
+forumcommand = "!forums"
 
 
 local CATEGORY_NAME = "Chat"
@@ -78,6 +80,13 @@ end
 local apply = ulx.command( CATEGORY_NAME, "ulx apply", ulx.apply, applycommand )
 apply:defaultAccess( ULib.ACCESS_ALL )
 apply:help( "Apply for staff!" )
+
+function ulx.forum( calling_ply )
+	calling_ply:SendLua([[gui.OpenURL(forumurl)]])
+end
+local forum = ulx.command( CATEGORY_NAME, "ulx forum", ulx.forum, forumcommand )
+forum:defaultAccess( ULib.ACCESS_ALL )
+forum:help( "Join the server forums!" )
 
 function ulx.group( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(groupurl)]])

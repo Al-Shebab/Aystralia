@@ -293,7 +293,7 @@ cfg:SetXeninBattlePass({
 -- If you have Xenin Coinflips you can set enabled to true
 -- At least version 1.0.8b
 cfg:SetXeninCoinflips({
-	enabled = true,
+	enabled = false,
 	name = "Coinflips",
 	desc = "Flip a coin",
 	icon = "C3MyKJE"
@@ -329,6 +329,12 @@ cfg:AddURL({
 	tabName = "Join the Aystralia Network Discord!",
 	url = "https://discord.gg/hWN7zXtbQP",
 	icon = "vHESvbx"
+})
+cfg:AddWebsite({
+	name = "Forums",
+	desc = "Check it out",
+	url = "https://forums.aystralia.com.au/",
+	icon = "tYdAvKN"
 })
 cfg:AddWebsite({
 	name = "Steam Group",
