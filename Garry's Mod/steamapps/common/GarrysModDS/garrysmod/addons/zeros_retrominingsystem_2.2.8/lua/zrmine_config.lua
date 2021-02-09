@@ -244,8 +244,8 @@ local Bronze_1kg = 700 //$
 local Iron_1kg = 550 //$
 */
 
-local Gold_1kg = 2700 //$
-local Silver_1kg = 1200 //$
+local Gold_1kg = 2800 //$
+local Silver_1kg = 1400 //$
 local Bronze_1kg = 700 //$
 local Iron_1kg = 550 //$
 
