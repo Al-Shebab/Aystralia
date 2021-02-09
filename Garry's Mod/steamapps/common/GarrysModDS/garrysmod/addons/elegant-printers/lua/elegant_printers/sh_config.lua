@@ -238,7 +238,7 @@ elegant_printers.config = {
         Ayssie = {
             PrintName = "Ayssie Grade Printer",
             price = 260000,
-            cmd = "buyprinter_sydney",
+            cmd = "buyprinter_ayssie",
 
             PrintAmount = 180000,
             MaxMoney = 2000000,

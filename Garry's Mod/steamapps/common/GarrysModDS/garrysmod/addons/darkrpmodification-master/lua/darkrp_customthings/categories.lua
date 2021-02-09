@@ -82,7 +82,7 @@ DarkRP.createCategory{
     categorises = "jobs",
     startExpanded = true,
     color = Color(106,95,255,255),
-    canSee = function(ply) return table.HasValue({"sydney", "ayssie" "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup")) end,
+    canSee = function(ply) return table.HasValue({"sydney", "ayssie", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup")) end,
     sortOrder = 8,
 }
 DarkRP.createCategory{

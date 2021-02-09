@@ -519,16 +519,3 @@ DarkRP.createEntity("Melter", {
 	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })
-
-DarkRP.createEntity("Portable Media Player", {
-	ent = "mediaplayer_tv",
-	model = "models/props_phx/rt_screen.mdl",
-	price = 1000,
-	max = 1,
-	cmd = "buymediaplayer",,
-    customCheck = function(ply) return
-        table.HasValue({"sydney", "ayssie melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
-    end,
-    CustomCheckFailMsg = "This is for Ayssie Rank+",
-	category = "Supplies"
-})
