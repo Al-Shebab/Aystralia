@@ -209,20 +209,6 @@ TEAM_PROSTITUTE = DarkRP.createJob("Prostitute", {
     candemote = true,
     category = "Citizens"
 })
-TEAM_MECHANIC = DarkRP.createJob("Mechanic", {
-    color = Color(74, 255, 69, 255),
-    model = {"models/player/Group03/male_03.mdl"},
-    description = [[Fix cars and get greasy.]],
-    weapons = {"weapon_cigarette_camel", "vc_wrench"},
-    command = "TEAM_MECHANIC",
-    max = 2,
-    salary = 35000,
-    admin = 0,
-    vote = false,
-    hasLicense = false,
-    candemote = true,
-    category = "Citizens"
-})
 
 -- Services --
 
@@ -1145,9 +1131,6 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
         ply:SetHealth(100)
         ply:SetArmor(100)
         ply:SetMaxArmor(100)
-    end,
-    PlayerSpawn = function(ply)
-        ply:SetBodygroup(1, 0)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())

@@ -242,12 +242,3 @@ DarkRP.createCategory{
     canSee = function(ply) return table.HasValue({TEAM_MINER,TEAM_FELIX_ARGYLE,TEAM_SOWAKA}, ply:Team()) end,
 	sortOrder = 11
 }
-
-DarkRP.createCategory{
-	name = "Vehicle Supplies",
-	categorises = "entities",
-	startExpanded = true,
-	color = Color(0, 107, 0, 255),
-    canSee = function(ply) return table.HasValue({TEAM_MECHANIC}, ply:Team()) end,
-	sortOrder = 12
-}
