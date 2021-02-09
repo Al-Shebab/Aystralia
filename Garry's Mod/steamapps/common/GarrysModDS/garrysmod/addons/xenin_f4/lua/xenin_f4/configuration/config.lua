@@ -313,15 +313,15 @@ cfg:AddURL({
 	name = "Donate",
 	desc = "Buy a rank or something.",
 	tabName = "Donation Shop",
-	url = "https://aystralia-network.tebex.io/",
-	icon = "s7gkOSZ"
+	url = "https://store.aystralia.com.au",
+	icon = "4CfaYH3"
 })
 cfg:AddURL({
 	name = "Rules",
 	desc = "Who reads this?",
 	tabName = "Rules",
 	url = "https://bit.ly/3mQVodO",
-	icon = "XeUxpeD"
+	icon = "PDCBjID"
 })
 cfg:AddURL({
 	name = "Discord",
