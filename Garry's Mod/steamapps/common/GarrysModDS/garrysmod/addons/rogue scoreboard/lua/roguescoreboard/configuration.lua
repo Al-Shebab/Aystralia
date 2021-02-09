@@ -148,23 +148,25 @@ Configuration.CustomUserTag["STEAM_0:0:29761241"]       = { Tag = "THE MAN, THE 
 -- Configuration.RankDisplay["rank"]         = { DisplayName = "Display name you want to see", TagName = "This is the tag name that will show if the player does not have a custom tag", DisplayColor = Color( R,G,B ), TagColor = Color( R,G,B ) }
 
 Configuration.RankDisplay = {}
-Configuration.RankDisplay["user"] 			= { DisplayName = "User", TagName = "", DisplayColor = Color(93, 24, 255), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["trusted"] 			= { DisplayName = "Trusted", TagName = "", DisplayColor = Color(132, 81, 252), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["perth"] 			= { DisplayName = "Perth", TagName = "", DisplayColor = Color(0, 183, 212), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["brisbane"] 			= { DisplayName = "Brisbane", TagName = "", DisplayColor = Color(61, 229, 255), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["melbourne"] 			= { DisplayName = "Melbourne", TagName = "", DisplayColor = Color(61, 255, 213), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["sydney"] 			= { DisplayName = "Sydney", TagName = "", DisplayColor = Color(61, 255, 154), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["trial-moderator"] 			= { DisplayName = "Trial Moderator", TagName = "", DisplayColor = Color(24, 249, 255), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["moderator"] 			= { DisplayName = "Moderator", TagName = "", DisplayColor = Color(74, 255, 121), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["senior-moderator"] 			= { DisplayName = "Senior Moderator", TagName = "", DisplayColor = Color(148, 255, 87), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["admin"] 			= { DisplayName = "Admin", TagName = "", DisplayColor = Color(226, 255, 68), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["senior-admin"] 			= { DisplayName = "Senior Admin", TagName = "", DisplayColor = Color(255, 180, 0), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["staff-manager"] 			= { DisplayName = "Staff Manager", TagName = "", DisplayColor = Color(255, 101, 101), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["superadmin"] 			= { DisplayName = "Sydney", TagName = "", DisplayColor = Color(61, 255, 154), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["donator-trial-moderator"] 			= { DisplayName = "Trial Moderator", TagName = "", DisplayColor = Color(24, 249, 255), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["donator-moderator"] 			= { DisplayName = "Moderator", TagName = "", DisplayColor = Color(74, 255, 121), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["donator-senior-moderator"] 			= { DisplayName = "Senior Moderator", TagName = "", DisplayColor = Color(148, 255, 87), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["donator-admin"] 			= { DisplayName = "Admin", TagName = "", DisplayColor = Color(226, 255, 68), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["user"] 			= { DisplayName = "User", TagName = "User", DisplayColor = Color(93, 24, 255), TagColor = Color( 93, 24, 255 ) }
+Configuration.RankDisplay["trusted"] 			= { DisplayName = "Trusted", TagName = "Trusted", DisplayColor = Color(132, 81, 252), TagColor = Color( 132, 81, 252 ) }
+Configuration.RankDisplay["member"] 			= { DisplayName = "Member", TagName = "Member", DisplayColor = Color(152, 105, 255), TagColor = Color( 152, 105, 255 ) }
+Configuration.RankDisplay["ayssie"] 			= { DisplayName = "Ayssie", TagName = "Ayssie", DisplayColor = Color(255, 187, 86), TagColor = Color( 255, 187, 86 ) }
+Configuration.RankDisplay["perth"] 			= { DisplayName = "Perth", TagName = "Perth", DisplayColor = Color(0, 183, 212), TagColor = Color( 0, 183, 212 ) }
+Configuration.RankDisplay["brisbane"] 			= { DisplayName = "Brisbane", TagName = "Brisbane", DisplayColor = Color(61, 229, 255), TagColor = Color( 61, 229, 255 ) }
+Configuration.RankDisplay["melbourne"] 			= { DisplayName = "Melbourne", TagName = "Melbourne", DisplayColor = Color(61, 255, 213), TagColor = Color( 61, 255, 213 ) }
+Configuration.RankDisplay["sydney"] 			= { DisplayName = "Sydney", TagName = "Sydney", DisplayColor = Color(61, 255, 154), TagColor = Color( 61, 255, 154 ) }
+Configuration.RankDisplay["trial-moderator"] 			= { DisplayName = "Trial Moderator", TagName = "Trial Moderator", DisplayColor = Color(24, 249, 255), TagColor = Color( 24, 249, 255 ) }
+Configuration.RankDisplay["moderator"] 			= { DisplayName = "Moderator", TagName = "Moderator", DisplayColor = Color(74, 255, 121), TagColor = Color( 74, 255, 121 ) }
+Configuration.RankDisplay["senior-moderator"] 			= { DisplayName = "Senior Moderator", TagName = "Senior Moderator", DisplayColor = Color(148, 255, 87), TagColor = Color( 148, 255, 87 ) }
+Configuration.RankDisplay["admin"] 			= { DisplayName = "Admin", TagName = "Admin", DisplayColor = Color(226, 255, 68), TagColor = Color( 226, 255, 68 ) }
+Configuration.RankDisplay["senior-admin"] 			= { DisplayName = "Senior Admin", TagName = "Senior Admin", DisplayColor = Color(255, 180, 0), TagColor = Color( 255, 180, 0 ) }
+Configuration.RankDisplay["staff-manager"] 			= { DisplayName = "Staff Manager", TagName = "Staff Manager", DisplayColor = Color(255, 101, 101), TagColor = Color( 255, 101, 101 ) }
+Configuration.RankDisplay["superadmin"] 			= { DisplayName = "Sydney", TagName = "Sydney", DisplayColor = Color(61, 255, 154), TagColor = Color( 61, 255, 154 ) }
+Configuration.RankDisplay["donator-trial-moderator"] 			= { DisplayName = "Trial Moderator", TagName = "Trial Moderator", DisplayColor = Color(24, 249, 255), TagColor = Color( 24, 249, 255 ) }
+Configuration.RankDisplay["donator-moderator"] 			= { DisplayName = "Moderator", TagName = "Moderator", DisplayColor = Color(74, 255, 121), TagColor = Color( 74, 255, 121 ) }
+Configuration.RankDisplay["donator-senior-moderator"] 			= { DisplayName = "Senior Moderator", TagName = "Senior Moderator", DisplayColor = Color(148, 255, 87), TagColor = Color( 148, 255, 87 ) }
+Configuration.RankDisplay["donator-admin"] 			= { DisplayName = "Admin", TagName = "Admin", DisplayColor = Color(226, 255, 68), TagColor = Color( 226, 255, 68 ) }
 
 
 

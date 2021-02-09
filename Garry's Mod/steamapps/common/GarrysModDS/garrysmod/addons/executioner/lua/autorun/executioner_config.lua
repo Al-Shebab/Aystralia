@@ -63,7 +63,7 @@
     }
 
     Executioner.Config.Clean_Ranks = { -- Translates a usergroup into a nicer string for the first interface.
-        [ 'superadmin' ] = 'Superadmin', [ 'staff-manager' ] = 'Staff Manager', [ 'senior-admin' ] = 'Senior Admin', [ 'donator-admin' ] = 'Administrator', [ 'admin' ] = 'Administrator', [ 'donator-senior-moderator' ] = 'Senior Moderator', [ 'senior-moderator' ] = 'Senior Moderator', [ 'donator-moderator' ] = 'Moderator', [ 'moderator' ] = 'Moderator', [ 'trial-moderator' ] = 'Trial Moderator', [ 'donator-trial-moderator' ] = 'Trial Moderator', [ 'sydney' ] = 'Sydney', [ 'melbourne' ] = 'Melbourne', [ 'risbane' ] = 'Brisbane', [ 'perth' ] = 'Perth', [ 'trusted' ] = 'Trusted', [ 'user' ] = 'User'
+        [ 'superadmin' ] = 'Superadmin', [ 'staff-manager' ] = 'Staff Manager', [ 'member' ] = 'Member', [ 'ayssie' ] = 'Ayssie', [ 'senior-admin' ] = 'Senior Admin', [ 'donator-admin' ] = 'Administrator', [ 'admin' ] = 'Administrator', [ 'donator-senior-moderator' ] = 'Senior Moderator', [ 'senior-moderator' ] = 'Senior Moderator', [ 'donator-moderator' ] = 'Moderator', [ 'moderator' ] = 'Moderator', [ 'trial-moderator' ] = 'Trial Moderator', [ 'donator-trial-moderator' ] = 'Trial Moderator', [ 'sydney' ] = 'Sydney', [ 'melbourne' ] = 'Melbourne', [ 'brisbane' ] = 'Brisbane', [ 'perth' ] = 'Perth', [ 'trusted' ] = 'Trusted', [ 'user' ] = 'User'
     }
 
     --[[
@@ -131,6 +131,8 @@
     Executioner.Config.GroupConfiguration = { -- Rank colors in the menu.
         [ 'user' ] = Color( 93, 24, 255),
         [ 'trusted' ] = Color( 132, 81, 252),
+        [ 'ayssie' ] = Color( 255, 187, 86),
+        [ 'member' ] = Color( 152, 105, 255),
         [ 'perth' ] = Color( 0, 183, 212),
         [ 'brisbane' ] = Color( 61, 229, 255),
         [ 'melbourne' ] = Color( 61, 255, 213),

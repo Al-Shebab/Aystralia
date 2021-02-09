@@ -105,6 +105,7 @@ itemstore.config.InventorySizes = {
 	melbourne = { 8, 4, 1 },
 	brisbane = { 8, 4, 1 },
 	perth = { 8, 4, 1 },
+	ayssie = { 8, 4, 1 },
 	superadmin = { 8, 4, 1 },
 }
 
@@ -115,6 +116,7 @@ itemstore.config.BankSizes = {
 	melbourne = { 8, 8, 1 },
 	brisbane = { 8, 8, 1 },
 	perth = { 8, 8, 1 },
+	ayssie = { 8, 8, 1 },
 	superadmin = { 8, 8, 1 },
 }
 
