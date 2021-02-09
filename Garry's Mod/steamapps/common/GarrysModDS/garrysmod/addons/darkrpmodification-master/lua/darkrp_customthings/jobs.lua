@@ -213,7 +213,7 @@ TEAM_PROSTITUTE = DarkRP.createJob("Prostitute", {
 -- Services --
 
 TEAM_SECURITY_GUARD = DarkRP.createJob("Security Guard", {
-    color = Color(80, 221, 204, 255),
+    color = Color(204,128,255, 255),
     model = {"models/player/odessa.mdl"},
     description = [[Hired security for any business or person. Can not raid/mug.]],
     weapons = {"weapon_cigarette_camel","m9k_m92beretta"},
@@ -227,7 +227,7 @@ TEAM_SECURITY_GUARD = DarkRP.createJob("Security Guard", {
     category = "Services"
 })
 TEAM_DOCTER = DarkRP.createJob("Medic", {
-    color = Color(80, 221, 204, 255),
+    color = Color(204,128,255, 255),
     model = {"models/player/Group03m/male_01.mdl"},
     description = [[Paid good money to help out others in need. Can not raid/mug. Can not use weapons.]],
     weapons = {"med_kit"},
@@ -245,7 +245,7 @@ TEAM_DOCTER = DarkRP.createJob("Medic", {
 -- Dealers --
 
 TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
-    color = Color(37, 110, 201, 255),
+    color = Color(204,0,255, 255),
     model = {"models/player/monk.mdl"},
     description = [[Deliver small arms to the city. Can not raid/mug.]],
     weapons = {},
@@ -259,7 +259,7 @@ TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
     category = "Dealers",
 })
 TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
-    color = Color(37, 110, 201, 255),
+    color = Color(204,0,255, 255),
     model = {"models/player/gru.mdl"},
     description = [[Deliver large arms and explosives to the city. Can not raid/mug]],
     weapons = {},
@@ -282,7 +282,7 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
     end
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
-    color = Color(37, 110, 201, 255),
+    color = Color(204,0,255, 255),
     model = {"models/GrandTheftAuto5/Trevor.mdl"},
     description = [[Sell prescription drugs to those in need. Can not raid/mug.]],
     weapons = {},
@@ -512,7 +512,7 @@ TEAM_SWAT_LEADER = DarkRP.createJob("Swat Leader", {
 -- Illegal --
 
 TEAM_HACKER = DarkRP.createJob("Hacker", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/aiden_pearce.mdl"},
     description = [[Hack into bases using the keypad cracker. Can base, raid and mug.]],
     weapons = {"keypad_cracker","lockpick", "unarrest_stick", "pickpocket"},
@@ -532,7 +532,7 @@ TEAM_HACKER = DarkRP.createJob("Hacker", {
     end
 })
 TEAM_THIEF = DarkRP.createJob("Thief", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/arctic.mdl"},
     description = [[Lockpick into bases. Can base, raid and mug.]],
     weapons = {"keypad_cracker","lockpick", "unarrest_stick", "pickpocket"},
@@ -552,7 +552,7 @@ TEAM_THIEF = DarkRP.createJob("Thief", {
     end
 })
 TEAM_HITMAN = DarkRP.createJob("Hitman", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/gman_high.mdl"},
     description = [[Take our your targets for a fee. Can base and raid.]],
     weapons = {"lockpick", "unarrest_stick", "m9k_usp"},
@@ -572,7 +572,7 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     end
 })
 TEAM_BLOOD = DarkRP.createJob("Blood", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/bloodz/slow_3.mdl"},
     description = [[Gang member rival against crips. Can base, raid and mug.]],
     weapons = {"unarrest_stick"},
@@ -592,7 +592,7 @@ TEAM_BLOOD = DarkRP.createJob("Blood", {
     end
 })
 TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/bloodz/slow_1.mdl"},
     description = [[Gang member rival against crips. Can base, raid and mug.]],
     weapons = {"lockpick", "unarrest_stick"},
@@ -612,7 +612,7 @@ TEAM_BLOOD_LEADER = DarkRP.createJob("Blood Leader", {
     end
 })
 TEAM_CRIP = DarkRP.createJob("Crip", {
-    color = Color(0, 0, 255, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/cripz/slow_2.mdl"},
     description = [[Gang member rival against bloods. Can base, raid and mug.]],
     weapons = {"unarrest_stick"},
@@ -632,7 +632,7 @@ TEAM_CRIP = DarkRP.createJob("Crip", {
     end
 })
 TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
-    color = Color(0, 0, 255, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/cripz/slow_1.mdl"},
     description = [[Gang member rival against bloods. Can base, raid and mug.]],
     weapons = {"lockpick", "unarrest_stick"},
@@ -652,7 +652,7 @@ TEAM_CRIP_LEADER = DarkRP.createJob("Crip Leader", {
     end
 })
 TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/LaNoire_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
     weapons = {"lockpick", "unarrest_stick"},
@@ -672,7 +672,7 @@ TEAM_MAFIA_LEADER = DarkRP.createJob("Mafia Leader", {
     end
 })
 TEAM_MAFIA = DarkRP.createJob("Mafia", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/LaNoire_Gray_Detective.mdl"},
     description = [[Tax evading in chicago. Can base, raid and mug.]],
     weapons = {"unarrest_stick"},
@@ -692,7 +692,7 @@ TEAM_MAFIA = DarkRP.createJob("Mafia", {
     end
 })
 TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/plague_doktor/PLAYER_Plague_Doktor.mdl"},
     description = [[Heal up your comrades in a brawl. Can base, raid and mug.]],
     weapons = {"med_kit"},
@@ -712,7 +712,7 @@ TEAM_BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
     end
 })
 TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/pd2_hoxton_p.mdl"},
     description = [[Raid houses at rapid speed. Can base, raid and mug. Donator ONLY]],
     weapons = {"prokeypadcracker", "pickpocket","pro_lockpick"},
@@ -736,7 +736,7 @@ TEAM_PRO_THIEF = DarkRP.createJob("Pro Thief", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_PRO_HACKER = DarkRP.createJob("Pro Hacker", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/anonymous_hacktivist.mdl"},
     description = [[Get into fading doors at rapid speed. Can base, raid and mug. Donator ONLY]],
     weapons = {"prokeypadcracker", "pickpocket","pro_lockpick"},
@@ -760,7 +760,7 @@ TEAM_PRO_HACKER = DarkRP.createJob("Pro Hacker", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/kuma/taliban_rpg.mdl"},
     description = [[Can blow up an entire city, but only once. May only advert terror once every hour. Donator ONLY]],
     weapons = {"m9k_suicide_bomb"},
@@ -789,7 +789,7 @@ TEAM_TERRORIST = DarkRP.createJob("Terrorist", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/csgo/tr/professional/professional_varient_i.mdl"},
     description = [[Can kidnap anyone. May only advert kidnap once every 15 minutes. Donator ONLY]],
     weapons = {"weapon_leash_elastic"},
@@ -813,7 +813,7 @@ TEAM_KIDNAPPER = DarkRP.createJob("Kidnapper", {
     CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
-    color = Color(255, 0, 0, 255),
+    color = Color(255,255,163, 255),
     model = {"models/player/agent_47.mdl"},
     description = [[Most dangerous person in any room. Can base and raid. Donator ONLY]],
     weapons = {"m9k_intervention", "pro_lockpick"},
@@ -843,7 +843,7 @@ TEAM_ASSASSIN = DarkRP.createJob("Assassin", {
 -- Manufacturing --
 
 TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
-    color = Color(196, 115, 0, 255),
+    color = Color(255,0,0, 255),
     model = {"models/obese_male.mdl"},
     description = [[Mine bitcoins before it was cool. Can base.]],
     weapons = {},
@@ -857,7 +857,7 @@ TEAM_BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     category = "Manufacturing"
 })
 TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
-    color = Color(196, 115, 0, 255),
+    color = Color(255,0,96, 255),
     model = {"models/player/hostage/hostage_01.mdl"},
     description = [[Make fake money. Can base.]],
     weapons = {},
@@ -871,7 +871,7 @@ TEAM_MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     category = "Manufacturing"
 })
 TEAM_WEED_DEALER = DarkRP.createJob("Weed Grower", {
-    color = Color(196, 115, 0, 255),
+    color = Color(255,0,160, 255),
     model = {"models/snoopdogg.mdl"},
     description = [[Sell some green at bankstown station. Can base.]],
     weapons = {"zwf_cable","zwf_shoptablet","zwf_wateringcan"},
@@ -885,7 +885,7 @@ TEAM_WEED_DEALER = DarkRP.createJob("Weed Grower", {
     category = "Manufacturing"
 })
 TEAM_METH_DEALER = DarkRP.createJob("Meth Cook", {
-    color = Color(196, 115, 0, 255),
+    color = Color(255,0,32, 255),
     model = {"models/Agent_47/agent_47.mdl"},
     description = [[Become a bankstown local. Can base.]],
     weapons = {"zmlab_extractor"},
@@ -996,7 +996,7 @@ TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
 })
 
 TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
-    color = Color(196, 115, 0, 255),
+    color = Color(255,0,128, 255),
     model = {"models/hazmat/bmhaztechs.mdl"},
     description = [[You are making Petrol!]],
     weapons = {},
@@ -1024,7 +1024,7 @@ TEAM_FRUIT_SLICER = DarkRP.createJob("Fruit Slicer", {
 })
 
 TEAM_MINER = DarkRP.createJob("Miner", {
-	color = Color(196, 115, 0, 255),
+	color = Color(255,0,64, 255),
 	model = {"models/player/blockdude.mdl"},
 	description = [[Find Diamonds]],
 	weapons = {"zrms_pickaxe","zrms_builder"},
@@ -1038,7 +1038,7 @@ TEAM_MINER = DarkRP.createJob("Miner", {
 })
 
 TEAM_CHELL = DarkRP.createJob("Papa Yoda", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/player/b4p/b4p_yoda.mdl"},
     description = [[As you know it is a very bright summer day today and we will be celebrating it with this class.
 This class is a fine class, the finest class you will soon to understand why it is a fine class.
@@ -1066,7 +1066,7 @@ If you like Al Shebab, then you will most likely love Kebabs.]],
     CustomCheckFailMsg = "This job is for Joey only.",
 })
 TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/kerry/killa_suka_blat/killa_blat.mdl"},
     description = [[One bad motherfucker, Never failed a hit.]],
     weapons = {"m9k_m249lmg", "climb_swep2", "pro_lockpick"},
@@ -1090,7 +1090,7 @@ TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
     CustomCheckFailMsg = "This job is for Kaotic only.",
 })
 TEAM_SONIC = DarkRP.createJob("Sonic", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/kaesar/moviesonic/moviesonic.mdl"},
     description = [[It Sonic, enough said. Can do everything.]],
     weapons = {"m9k_dragunov", "pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "invisibility_cloak"},
@@ -1114,7 +1114,7 @@ TEAM_SONIC = DarkRP.createJob("Sonic", {
     CustomCheckFailMsg = "This job is for Jim only.",
 })
 TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/pacagma/houkai_impact_3rd/gyakushinn_miko/gyakushinn_miko_player.mdl"},
     description = [[Just your average healslut]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m98b", "med_kit", "m9k_l85", "weapon_armorkit","zrms_pickaxe","zrms_builder"},
@@ -1138,7 +1138,7 @@ TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
     CustomCheckFailMsg = "This job is for Gwacko only.",
 })
 TEAM_KERMIT = DarkRP.createJob("Dr Shadow", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/shadow_ssb4.mdl"},
     description = [[Ill help ya anytime ;)]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m3", "weapon_armorkit"},
@@ -1162,7 +1162,7 @@ TEAM_KERMIT = DarkRP.createJob("Dr Shadow", {
     CustomCheckFailMsg = "This job is for Jaspereeno only.",
 })
 TEAM_2B = DarkRP.createJob("2B", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/kuma96/2b/2b_pm.mdl"},
     description = [[For the Glory of Mankind]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_dragunov", "climb_swep2"},
@@ -1186,7 +1186,7 @@ TEAM_2B = DarkRP.createJob("2B", {
     CustomCheckFailMsg = "This job is for Jay Z only.",
 })
 TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/oldbill/Weird_Pickle.mdl"},
     description = [[Come down my ends you'll get sheffed up you hear me]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "invisibility_cloak", "m9k_browningauto5"},
@@ -1210,7 +1210,7 @@ TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
     CustomCheckFailMsg = "This job is for Jaspereeno only.",
 })
 TEAM_RAT_KING = DarkRP.createJob("Ark Knight", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/Platinum/Arknights/rstar/Platinum/Platinum.mdl"},
     description = [[the night is coming]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "invisibility_cloak", "m9k_honeybadger"},
@@ -1234,7 +1234,7 @@ TEAM_RAT_KING = DarkRP.createJob("Ark Knight", {
     CustomCheckFailMsg = "This job is for Widepeeked only.",
 })
 TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/player/shi/Felix_Argyle.mdl"},
     description = [["Don't be Tricked by this cute neko girl since there is a trap under it's skirts"]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_scar", "climb_swep2","zrms_pickaxe","zrms_builder"},
@@ -1258,7 +1258,7 @@ TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
     CustomCheckFailMsg = "This job is for Dog only.",
 })
 TEAM_HITLER = DarkRP.createJob("Hitler", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/minson97/hitler/hitler.mdl"},
     description = [[Jew mad bro?]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_fg42", "sieghail"},
@@ -1282,7 +1282,7 @@ TEAM_HITLER = DarkRP.createJob("Hitler", {
     CustomCheckFailMsg = "This job is for Majoron only.",
 })
 TEAM_MARCUS = DarkRP.createJob("Marcus", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/characters/gallaha.mdl"},
     description = [[This job is only for the best, most skilled player.]],
     weapons = {"m9k_dragunov", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "weapon_cigarette_camel"},
@@ -1306,7 +1306,7 @@ TEAM_MARCUS = DarkRP.createJob("Marcus", {
     CustomCheckFailMsg = "This job is for Johhny only.",
 })
 TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/jessev92/player/military/cod4_sniper.mdl"},
     description = [[1337 counter lua]],
     weapons = {"m9k_m98b", "climb_swep2", "prokeypadcracker", "pickpocket", "pro_lockpick"},
@@ -1330,7 +1330,7 @@ TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
     CustomCheckFailMsg = "This job is for Moa only.",
 })
 TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/aap15/foldername/Picolas_Cage_pm/picolas_cage_reference.mdl"},
     description = [[I'm a pickle but better than Rick]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_browningauto5", "weapon_idubbbz"},
@@ -1354,7 +1354,7 @@ TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
     CustomCheckFailMsg = "This job is for Moist_Sausage only.",
 })
 TEAM_JOHN_WICK = DarkRP.createJob("John Wick", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/player/korka007/wick.mdl"},
     description = [[The man with a dog]],
     weapons = {"m9k_m98b", "w_hammer", "pro_lockpick"},
@@ -1378,7 +1378,7 @@ TEAM_JOHN_WICK = DarkRP.createJob("John Wick", {
     CustomCheckFailMsg = "This job is for Jordan only.",
 })
 TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/devastation/kingblueyoshi/soundwave_pm.mdl"},
     description = [[Decepticon]],
     weapons = {"m9k_scar", "climb_swep2", "pro_lockpick"},
@@ -1402,7 +1402,7 @@ TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
 TEAM_DRIP = DarkRP.createJob("Drip", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/player/Taiga_Aisaka.mdl"},
     description = [[im back on my drip]],
     weapons = {"m9k_honeybadger", "invisibility_cloak", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
@@ -1426,7 +1426,7 @@ TEAM_DRIP = DarkRP.createJob("Drip", {
     CustomCheckFailMsg = "This job is for binchicken only.",
 })
 TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/cakez/wolfenstein/blackguard_p.mdl"},
     description = [[A good soldier follows orders.]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "climb_swep2", "m9k_an94"},
@@ -1450,7 +1450,7 @@ TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
     CustomCheckFailMsg = "This job is for Rick Castle only.",
 })
 TEAM_KEN_KANEKI = DarkRP.createJob("Ken Kaneki", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/player/kaneki.mdl"},
     description = [[Just your friendly neighbourhood ghoul]],
     weapons = {"pro_lockpick", "guitar_western", "m9k_m16a4_acog"},
@@ -1474,7 +1474,7 @@ TEAM_KEN_KANEKI = DarkRP.createJob("Ken Kaneki", {
     CustomCheckFailMsg = "This job is for Gwacko only.",
 })
 TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/cybertronautobot/g2_optimus.mdl"},
     description = [[AUTOBOT]],
     weapons = {"m9k_m16a4_acog", "weapon_cuff_police", "arrest_stick", "stungun", "door_ram", "unarrest_stick", "stunstick", "weaponchecker", "climb_swep2"},
@@ -1498,7 +1498,7 @@ TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
 TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/nikout/AC3/Connor_playermodel.mdl"},
     description = [[We work in the dark, to serve the light.]],
     weapons = {"m9k_dragunov", "weapon_thehiddenblade", "pro_lockpick"},
@@ -1522,7 +1522,7 @@ TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
     CustomCheckFailMsg = "This job is for Jay Z only.",
 })
 TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
-    color = Color(196, 115, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/jessev92/player/misc/saddam.mdl"},
     description = [[The ultimate weapons dealer, he has everything and anything, just ask. | Doubles as a Thief/Gun Dealer]],
     weapons = {"m9k_dragunov", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "med_kit"},
@@ -1546,7 +1546,7 @@ TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
     CustomCheckFailMsg = "This job is for Jim only.",
 })
 TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/kuma96/gta5_specops/gta5_specops_pm.mdl"},
     description = [[Raiding and mug these hoes]],
     weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m249lmg", "weapon_armorkit"},

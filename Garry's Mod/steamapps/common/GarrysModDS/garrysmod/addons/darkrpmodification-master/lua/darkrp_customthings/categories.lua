@@ -25,7 +25,7 @@ DarkRP.createCategory{
     name = "Citizens",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(74, 255, 69,255),
     canSee = function(ply) return true end,
     sortOrder = 1,
 }
@@ -33,7 +33,7 @@ DarkRP.createCategory{
     name = "Services",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(204,128,255,255),
     canSee = function(ply) return true end,
     sortOrder = 2,
 }
@@ -41,7 +41,7 @@ DarkRP.createCategory{
     name = "Dealers",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(204,0,255,255),
     canSee = function(ply) return true end,
     sortOrder = 3,
 }
@@ -49,7 +49,7 @@ DarkRP.createCategory{
     name = "Government",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(0,0,255,255),
     canSee = function(ply) return true end,
     sortOrder = 4,
 }
@@ -57,7 +57,7 @@ DarkRP.createCategory{
     name = "Illegal",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(106,95,255,255),
     canSee = function(ply) return true end,
     sortOrder = 5,
 }
@@ -65,7 +65,7 @@ DarkRP.createCategory{
     name = "Homeless",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(112, 112, 112,255),
     canSee = function(ply) return true end,
     sortOrder = 6,
 }
@@ -73,7 +73,7 @@ DarkRP.createCategory{
     name = "Manufacturing",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(255,0,0,255),
     canSee = function(ply) return true end,
     sortOrder = 7,
 }
@@ -81,15 +81,15 @@ DarkRP.createCategory{
     name = "Donator Classes",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
-    canSee = function(ply) return table.HasValue({"sydney", "melbourne", "brisbane", "perth", "adelaide", "hobart", "darwin", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup")) end,
+    color = Color(106,95,255,255),
+    canSee = function(ply) return table.HasValue({"sydney", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup")) end,
     sortOrder = 8,
 }
 DarkRP.createCategory{
     name = "Staff",
     categorises = "jobs",
     startExpanded = true,
-    color = Color(0,255,255,255),
+    color = Color(255,255,255,255),
     canSee = function(ply) return table.HasValue({"superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator", "admin", "senior-moderator", "moderator", "trial-moderator"}, ply:GetNWString("usergroup")) end,
     sortOrder = 9,
 }
@@ -100,7 +100,7 @@ DarkRP.createCategory{
     name = "Ammo",
     categorises = "ammo",
     startExpanded = true,
-    color = Color(255, 0, 0, 255),
+    color = Color(255, 255, 255, 255),
     canSee = function(ply) return true end,
     sortOrder = 10,
 }
