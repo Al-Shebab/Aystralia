@@ -38,6 +38,7 @@ AllowedTeams = {
 	"Dr Shadow",
 	"Kommissar",
 	"1337 Counter",
+	"Solaire Astora",
 	"Picolas Cage",
 	"Drip",
 	"Marcus",

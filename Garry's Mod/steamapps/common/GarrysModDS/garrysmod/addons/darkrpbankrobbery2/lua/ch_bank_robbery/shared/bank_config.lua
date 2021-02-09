@@ -76,6 +76,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Picolas Cage",
 	"Kommissar",
 	"Drip",
+	"Solaire Astora",
 	"Marcus",
 	"Hitler",
 	"Felix Argyle",

@@ -1577,6 +1577,29 @@ TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
     end,
     CustomCheckFailMsg = "This job is for Jordan only.",
 })
+TEAM_SOLAIRE_ASTORA = DarkRP.createJob("Solaire Astora", {
+    color = Color(0, 0, 0, 255),
+    model = {"models/player_solaire.mdl"},
+    description = [[Praise the Sun &amp; fuck bitches]],
+    weapons = {"m9k_scar", "climb_swep2", "pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket"},
+    command = "TEAM_SOLAIRE_ASTORA",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:74022863"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Adrenaline only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
