@@ -1405,7 +1405,7 @@ TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
         ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:174848051", "STEAM_0:0:103364981"}, ply:SteamID())
+        table.HasValue({"STEAM_0:0:174848051", "STEAM_0:0:103364981", "STEAM_0:1:53337546"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
