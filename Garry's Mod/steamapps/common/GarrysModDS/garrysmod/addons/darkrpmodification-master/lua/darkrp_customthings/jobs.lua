@@ -1600,6 +1600,29 @@ TEAM_SOLAIRE_ASTORA = DarkRP.createJob("Solaire Astora", {
     end,
     CustomCheckFailMsg = "This job is for Adrenaline only.",
 })
+TEAM_LOCUS = DarkRP.createJob("LOCUS", {
+    color = Color(25,68,25, 255),
+    model = {"models/redvsblue/halo/locus_pm.mdl"},
+    description = [[Mercenary/Pirate/Soldier]],
+    weapons = {"climb_swep2", "pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "m9k_m98b", "m9k_m3", "invisibility_cloak"},
+    command = "TEAM_LOCUS",
+    max = 2,
+    salary = 15000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:174848051", "STEAM_0:1:53337546"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for SOUNDWAVE &amp; Joey only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 

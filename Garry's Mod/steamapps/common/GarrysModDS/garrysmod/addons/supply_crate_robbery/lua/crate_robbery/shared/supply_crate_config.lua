@@ -46,6 +46,7 @@ CH_SupplyCrate.Config.AllowedTeams = {
 	"Hitler",
 	"Felix Argyle",
 	"Solaire Astora",
+	"LOCUS",
 	"Ark Knight",
 	"Papa Yoda",
 	"Sonic",

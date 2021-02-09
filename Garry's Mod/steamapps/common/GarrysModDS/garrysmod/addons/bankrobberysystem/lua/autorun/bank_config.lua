@@ -40,6 +40,7 @@ AllowedTeams = {
 	"1337 Counter",
 	"Solaire Astora",
 	"Picolas Cage",
+	"LOCUS",
 	"Drip",
 	"Marcus",
 	"Hitler",

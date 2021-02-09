@@ -74,6 +74,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Dr Shadow",
 	"1337 Counter",
 	"Picolas Cage",
+	"LOCUS",
 	"Kommissar",
 	"Drip",
 	"Solaire Astora",

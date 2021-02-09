@@ -39,6 +39,7 @@
         [ 'Ken Kaneki' ] = true,
         [ 'Noot-Noot' ] = true,
         [ 'Connor Kenway' ] = true,
+        [ 'LOCUS' ] = true,
         [ 'Assassin' ] = true
     }
 
