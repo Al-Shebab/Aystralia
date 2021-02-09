@@ -1578,7 +1578,7 @@ TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
     CustomCheckFailMsg = "This job is for Jordan only.",
 })
 TEAM_SOLAIRE_ASTORA = DarkRP.createJob("Solaire Astora", {
-    color = Color(0, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/player_solaire.mdl"},
     description = [[Praise the Sun &amp; fuck bitches]],
     weapons = {"m9k_scar", "climb_swep2", "pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket"},
