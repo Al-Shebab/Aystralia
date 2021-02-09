@@ -37,6 +37,7 @@
         [ 'John Wick' ] = true,
         [ 'Decepticon' ] = true,
         [ 'Ken Kaneki' ] = true,
+        [ 'Noot-Noot' ] = true,
         [ 'Connor Kenway' ] = true,
         [ 'Assassin' ] = true
     }
