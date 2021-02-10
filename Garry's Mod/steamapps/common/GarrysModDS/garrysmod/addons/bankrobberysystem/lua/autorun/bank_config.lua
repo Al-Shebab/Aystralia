@@ -17,6 +17,7 @@ RequiredTeams = {
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
+	"Deadsnot",
 	"AUTOBOT",
 	"Mayor"
 }
@@ -29,6 +30,7 @@ GovernmentTeams = {
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
+	"Deadsnot",
 	"AUTOBOT",
 	"Mayor"
 }

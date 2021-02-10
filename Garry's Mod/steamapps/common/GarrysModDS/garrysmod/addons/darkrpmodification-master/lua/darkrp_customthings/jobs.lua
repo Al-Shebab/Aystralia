@@ -1457,11 +1457,11 @@ TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
     end,
     CustomCheckFailMsg = "This job is for Rick Castle only.",
 })
-TEAM_KEN_KANEKI = DarkRP.createJob("Ken Kaneki", {
-    color = Color(106,95,255, 255),
-    model = {"models/player/kaneki.mdl"},
-    description = [[Just your friendly neighbourhood ghoul]],
-    weapons = {"pro_lockpick", "guitar_western", "m9k_m16a4_acog"},
+TEAM_KEN_KANEKI = DarkRP.createJob("Deadsnot", {
+    color = Color(0,0,0, 255),
+    model = {"models/kryptonite/inj2_ios_deadshot/inj2_ios_deadshot.mdl"},
+    description = [[Just your friendly neighborhood vigilante *sniff*]],
+    weapons = {"pro_lockpick", "guitar_western", "m9k_m98b"},
     command = "TEAM_KEN_KANEKI",
     max = 1,
     salary = 8000,

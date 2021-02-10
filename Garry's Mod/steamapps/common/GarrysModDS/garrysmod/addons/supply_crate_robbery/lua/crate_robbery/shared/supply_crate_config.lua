@@ -16,6 +16,7 @@ CH_SupplyCrate.Config.RequiredTeams = {
 	"Police Chief",
 	"SWAT",
 	"Swat Heavy",
+	"Deadsnot",
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
@@ -30,6 +31,7 @@ CH_SupplyCrate.Config.GovernmentTeams = {
 	"Swat Heavy",
 	"Swat Leader",
 	"Swat Medic",
+	"Deadsnot",
 	"Swat Marksman",
 	"AUTOBOT",
 	"Mayor"

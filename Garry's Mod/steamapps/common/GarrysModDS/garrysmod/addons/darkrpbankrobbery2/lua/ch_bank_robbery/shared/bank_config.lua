@@ -53,6 +53,7 @@ CH_BankVault.Config.RequiredTeams = {
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
+	"Deadsnot",
 	"AUTOBOT",
 	"Mayor"
 }
@@ -65,6 +66,7 @@ CH_BankVault.Config.GovernmentTeams = {
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
+	"Deadsnot",
 	"AUTOBOT",
 	"Mayor"
 }

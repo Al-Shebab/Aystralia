@@ -36,7 +36,6 @@
         [ 'Mercenary' ] = true,
         [ 'John Wick' ] = true,
         [ 'Decepticon' ] = true,
-        [ 'Ken Kaneki' ] = true,
         [ 'Noot-Noot' ] = true,
         [ 'Connor Kenway' ] = true,
         [ 'LOCUS' ] = true,
@@ -56,6 +55,7 @@
         [ 'Swat Medic' ] = true,
         [ 'Swat Leader' ] = true,
         [ 'AUTOBOT' ] = true,
+        [ 'Deadsnot' ] = true,
         [ 'Mayor' ] = true
     }
 

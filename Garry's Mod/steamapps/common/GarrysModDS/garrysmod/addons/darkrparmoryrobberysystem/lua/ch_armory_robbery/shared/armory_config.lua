@@ -35,6 +35,7 @@ CH_ArmoryRobbery.Config.RequiredTeams = { -- These are the names of the jobs tha
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
+	"Deadsnot",
 	"AUTOBOT"
 }
 
@@ -46,6 +47,7 @@ CH_ArmoryRobbery.Config.GovernmentTeams = { -- These are the names of the jobs t
 	"Swat Leader",
 	"Swat Medic",
 	"Swat Marksman",
+	"Deadsnot",
 	"AUTOBOT"
 }
 
