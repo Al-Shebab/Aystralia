@@ -1,0 +1,1 @@
+sgm_ignore_warnings 1
