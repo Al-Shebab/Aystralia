@@ -1628,7 +1628,7 @@ TEAM_LOCUS = DarkRP.createJob("LOCUS", {
     CustomCheckFailMsg = "This job is for SOUNDWAVE &amp; Joey only.",
 })
 TEAM_DUTCH_COOK = DarkRP.createJob("Dutch Cook", {
-    color = Color(0, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/postal3/Dude.mdl"},
     description = [[He only speaks dutch | Meth Cook]],
     weapons = {"weapon_cigarette_camel", "m9k_deagle", "zmlab_extractor"},
@@ -1651,7 +1651,7 @@ TEAM_DUTCH_COOK = DarkRP.createJob("Dutch Cook", {
     CustomCheckFailMsg = "This job is for Don only.",
 })
 TEAM_DEATHSTROKE = DarkRP.createJob("Deathstroke", {
-    color = Color(0, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/norpo/ArkhamOrigins/Assassins/Deathstroke_ValveBiped.mdl"},
     description = [[can raid mug and base | Thief]],
     weapons = {"pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "invisibility_cloak", "m9k_an94"},
