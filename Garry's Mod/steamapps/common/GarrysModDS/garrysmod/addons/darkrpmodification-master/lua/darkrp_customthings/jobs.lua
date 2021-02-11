@@ -577,7 +577,11 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
         ply:SetHealth(100)
         ply:SetArmor(0)
         ply:SetMaxArmor(100)
-    end
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"trusted", "member", "sydney", "ayssie", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for members with over 2 hours.",
 })
 TEAM_BLOOD = DarkRP.createJob("Blood", {
     color = Color(255,255,163, 255),
