@@ -1643,12 +1643,35 @@ TEAM_DUTCH_COOK = DarkRP.createJob("Dutch Cook", {
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(100)
         ply:SetHealth(100)
-        ply:SetArmor(99)
+        ply:SetArmor(100)
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:1:45141952", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Don only.",
+})
+TEAM_DEATHSTROKE = DarkRP.createJob("Deathstroke", {
+    color = Color(0, 0, 0, 255),
+    model = {"models/norpo/ArkhamOrigins/Assassins/Deathstroke_ValveBiped.mdl"},
+    description = [[can raid mug and base | Thief]],
+    weapons = {"pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "invisibility_cloak", "m9k_an94"},
+    command = "TEAM_DEATHSTROKE",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:117246347"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Mike Pence only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
