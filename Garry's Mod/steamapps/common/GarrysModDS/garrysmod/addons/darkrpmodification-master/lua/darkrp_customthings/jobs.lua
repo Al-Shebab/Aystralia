@@ -1627,6 +1627,29 @@ TEAM_LOCUS = DarkRP.createJob("LOCUS", {
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE &amp; Joey only.",
 })
+TEAM_DUTCH_COOK = DarkRP.createJob("Dutch Cook", {
+    color = Color(0, 0, 0, 255),
+    model = {"models/postal3/Dude.mdl"},
+    description = [[He only speaks dutch | Meth Cook]],
+    weapons = {"weapon_cigarette_camel", "m9k_deagle", "zmlab_extractor"},
+    command = "TEAM_DUTCH_COOK",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(99)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:1:45141952", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Don only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 

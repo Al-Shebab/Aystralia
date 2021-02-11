@@ -44,6 +44,7 @@ zmlab.config.AdminRanks = {
 // Here you can add all the Jobs that can sell Meth, Leave empty the table to allow everyone to sell meth
 zmlab.config.Jobs = {
 	[TEAM_METH_DEALER] = true,
+	[TEAM_DUTCH_COOK] = true,
 }
 
 // Currency

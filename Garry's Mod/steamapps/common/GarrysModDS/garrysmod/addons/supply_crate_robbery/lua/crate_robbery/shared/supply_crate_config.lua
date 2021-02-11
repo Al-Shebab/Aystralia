@@ -43,6 +43,7 @@ CH_SupplyCrate.Config.AllowedTeams = {
 	"1337 Counter",
 	"Kommissar",
 	"Picolas Cage",
+	"Deathstroke",
 	"Drip",
 	"Marcus",
 	"Hitler",

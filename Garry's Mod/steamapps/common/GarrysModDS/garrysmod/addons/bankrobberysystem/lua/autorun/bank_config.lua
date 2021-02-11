@@ -44,6 +44,7 @@ AllowedTeams = {
 	"Picolas Cage",
 	"LOCUS",
 	"Drip",
+	"Deathstroke",
 	"Marcus",
 	"Hitler",
 	"Felix Argyle",
