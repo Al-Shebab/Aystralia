@@ -519,3 +519,12 @@ DarkRP.createEntity("Melter", {
 	allowed = {TEAM_MINER,TEAM_FELIX_ARGYLE},
 	category = "Mining"
 })
+
+DarkRP.createEntity("Vehicle Repair Kit", {
+    ent = "vc_pickup_healthkit_25",
+    model = "models/vcmod/vcmod_toolbox.mdl",
+    price = 25000,
+    max = 1,
+    cmd = "repair_kit",
+    category = "Supplies"
+})
