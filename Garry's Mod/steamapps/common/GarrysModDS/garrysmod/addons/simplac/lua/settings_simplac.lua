@@ -30,11 +30,11 @@ Simplac.settings.Aimbot_MCheck = false -- AM = "DAMN THIS BOT IS SO ANNOYING LOL
 Simplac.settings.MouseCheck2 = true -- MC = Mouse Check ( against aimbots etc. )
 
 Simplac.settings.SeedCheck = true -- SC = Seed check ( against nospreads )
-Simplac.settings.AutofireCheck1 =  false -- AF = Autofire toggle check
-Simplac.settings.AutofireCheck2 =  false -- AF2 = Autofire toggle check 2
+Simplac.settings.AutofireCheck1 =  true -- AF = Autofire toggle check
+Simplac.settings.AutofireCheck2 =  true -- AF2 = Autofire toggle check 2
 Simplac.settings.BhopCheck = false --BH = Bunnyhop check
 Simplac.settings.Aimbot_NCheck = true -- AN = Aimbot check (also against aimbots etc. )
-Simplac.settings.MoveCheck = false -- MV check (against C++ cheats etc.)
+Simplac.settings.MoveCheck = true -- MV check (against C++ cheats etc.)
 
 
 --these are disabled by default
