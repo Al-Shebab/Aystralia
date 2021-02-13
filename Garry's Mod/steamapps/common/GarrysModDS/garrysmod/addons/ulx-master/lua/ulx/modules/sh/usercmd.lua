@@ -5,7 +5,7 @@
 addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
 discordurl = "https://discord.gg/hWN7zXtbQP"
 donateurl = "https://aystralia-network.tebex.io/"
-rulesurl = "https://bit.ly/3mQVodO"
+rulesurl = "https://forums.aystralia.com.au/topic/16-server-rules/"
 groupurl = "https://steamcommunity.com/groups/Aystralia"
 bugsurl = "https://bit.ly/2WKFtDB"
 applyurl = "https://forums.aystralia.com.au/forum/6-staff-applications/"
