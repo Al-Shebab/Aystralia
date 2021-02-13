@@ -131,7 +131,7 @@ Discord.Config = {
 
             Displayed as the bot's status. Max 32 characters.
         ]]
-        BotStatus = 'on a cool gmod server!',
+        BotStatus = 'RDMing Ruleplayers',
 
         --[[
             NamePrefix
