@@ -269,7 +269,7 @@ GM.Config.startinghealth                = 100
 -- startingmoney - your wallet when you join for the first time.
 GM.Config.startingmoney                 = 350000
 -- vehiclecost - Sets the cost of a vehicle (To own it).
-GM.Config.vehiclecost                   = 125000
+GM.Config.vehiclecost                   = 1
 -- wallettaxmax - Maximum percentage of tax to be paid.
 GM.Config.wallettaxmax                  = 5
 -- wallettaxmin - Minimum percentage of tax to be paid.
