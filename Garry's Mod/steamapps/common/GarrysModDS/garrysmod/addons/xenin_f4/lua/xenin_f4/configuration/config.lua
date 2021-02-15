@@ -320,7 +320,7 @@ cfg:AddURL({
 	name = "Rules",
 	desc = "Who reads this?",
 	tabName = "Rules",
-	url = "https://bit.ly/3mQVodO",
+	url = "https://forums.aystralia.com.au/topic/16-server-rules/",
 	icon = "PDCBjID"
 })
 cfg:AddURL({
