@@ -316,7 +316,7 @@ GM.Config.lockdownsound = "npc/overwatch/cityvoice/f_confirmcivilstatus_1_spkr.w
 GM.Config.DarkRPSkin = "DarkRP"
 GM.Config.currency = "$"
 GM.Config.chatCommandPrefix = "/"
-GM.Config.F1MenuHelpPage = "https://docs.google.com/document/d/1OZhhxUqUu3PamauyZS5qQuqNvY1IocxGMct-H2F_I68/edit"
+GM.Config.F1MenuHelpPage = "https://forums.aystralia.com.au/topic/16-server-rules/"
 GM.Config.F1MenuHelpPageTitle = "Aystralia Network - Garry's Mod Rules"
 
 -- Put Steam ID's and ranks in this list, and the players will have that rank when they join.
