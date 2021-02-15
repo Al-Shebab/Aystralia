@@ -22,7 +22,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Production Boost",
 	type = "production",
-	amount = 0.75,
+	amount = 1.0,
 	desc = "Increases the production amount of the machine a bit.",
 	price = 17500,
 	ranks = {},
@@ -33,7 +33,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "AntiJam Boost",
 	type = "antijam",
-	amount = 0.5,
+	amount = 0.75,
 	desc = "Reduces the chance of jamming the machine a bit.",
 	price = 17500,
 	ranks = {},
@@ -44,7 +44,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Cooling Boost",
 	type = "cooling",
-	amount = 0.5,
+	amount = 0.75,
 	desc = "Reduces the chance of OverHeating the machine a bit.",
 	price = 17500,
 	ranks = {},
@@ -66,7 +66,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Refining Boost",
 	type = "refining",
-	amount = 0.15,
+	amount = 0.3,
 	desc = "Increases the refined Fuel amount a bit.",
 	price = 17500,
 	ranks = {},
@@ -78,7 +78,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Extreme Speed Boost",
 	type = "speed",
-	amount = 0.5,
+	amount = 0.75,
 	desc = "Increases the Speed of the Machine alot.",
 	price = 40000,
 	ranks = {},
@@ -89,7 +89,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Extreme Production Boost",
 	type = "production",
-	amount = 1.75,
+	amount = 2.1,
 	desc = "Increases the production amount of the machine alot.",
 	price = 40000,
 	ranks = {},
@@ -100,7 +100,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Extreme AntiJam Boost",
 	type = "antijam",
-	amount = 0.85,
+	amount = 1.1,
 	desc = "Reduces the chance of jamming the machine alot.",
 	price = 40000,
 	ranks = {},
@@ -111,7 +111,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Extreme Cooling Boost",
 	type = "cooling",
-	amount = 0.85,
+	amount = 1.1,
 	desc = "Reduces the chance of OverHeating the machine alot.",
 	price = 40000,
 	ranks = {},
@@ -133,7 +133,7 @@ zrush.f.CreateAbilityModule({
 zrush.f.CreateAbilityModule({
 	name = "Extreme Refining Boost",
 	type = "refining",
-	amount = 0.4,
+	amount = 0.6,
 	desc = "Increases the refined Fuel amount alot.",
 	price = 40000,
 	ranks = {},
