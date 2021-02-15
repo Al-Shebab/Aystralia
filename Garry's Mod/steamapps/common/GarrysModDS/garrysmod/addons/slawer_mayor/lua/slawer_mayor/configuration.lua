@@ -19,7 +19,7 @@ cfg.DisabledModules = {
 }
 
 -- Does everything reset when there is no mayor? (funds, upgrades, taxes)
-cfg.AllResetWhenNoMayor = false
+cfg.AllResetWhenNoMayor = true
 
 -- City funds when the server starts
 cfg.DefaultFunds = 250000
