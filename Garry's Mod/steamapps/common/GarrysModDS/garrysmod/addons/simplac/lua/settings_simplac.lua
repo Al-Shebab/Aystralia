@@ -38,7 +38,7 @@ Simplac.settings.MoveCheck = true -- MV check (against C++ cheats etc.)
 
 
 --these are disabled by default
-Simplac.settings.FlashlightCheck = true -- FL = Anti flashlight spam ( Sebastian wanted this lol )
+Simplac.settings.FlashlightCheck = false -- FL = Anti flashlight spam ( Sebastian wanted this lol )
 
 
 
