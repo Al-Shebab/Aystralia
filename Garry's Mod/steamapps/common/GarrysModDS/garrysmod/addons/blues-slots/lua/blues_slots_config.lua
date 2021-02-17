@@ -28,10 +28,10 @@ WOL_CONFIG.jackpotIncreasePerSpin = 250
 //between the minimum and maximum jackpot numbers. 
 //Set them both to zero if you want to jackpot to start at 0
 WOL_CONFIG.jackpotResetMin = 200000
-WOL_CONFIG.jackpotResetMax = 1900000 //2 mill is reasonable consider the rarity the jackpot should be.
+WOL_CONFIG.jackpotResetMax = 1700000 //2 mill is reasonable consider the rarity the jackpot should be.
 
 //The amount it charges the user to per spin (It does not charge for the bonus spins as they are free)
-WOL_CONFIG.pricePerSpin = 1500 
+WOL_CONFIG.pricePerSpin = 1750 
 
 //This is the icon used before displaying money, you can change this but its recomened to keep its leghnth to 1.
 //You can use anything like "P" for point shop or these common one ($, €, £)
