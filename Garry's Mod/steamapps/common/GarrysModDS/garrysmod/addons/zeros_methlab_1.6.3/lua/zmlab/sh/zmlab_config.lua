@@ -171,11 +171,19 @@ zmlab.config.MethExtractorSWEP = {
 zmlab.config.Police = {
 
 	// Should the player get wanted once he sells meth?
-	WantedOnMethSell = false,
+	WantedOnMethSell = true,
 
 	// These jobs can get extra money if they destroy TransportCrates filled with meth and also get a Wanted notification once a player sells meth
 	Jobs = {
-		["SWAT"] = false,
+		["Police Officer"] = false,
+		["Police Chief"] = false,
+		["Mayor"] = false,
+		["Swat Heavy"] = false,
+		["Swat Marksman"] = false,
+		["Swat Medic"] = false,
+		["Swat Leader"] = false,
+		["AUTOBOT"] = false,
+		["Deadsnot"] = false,
 	},
 
 	// The money the police player receives (for destroying the TransportCrate) is the same amount the meth producer receives times this value
