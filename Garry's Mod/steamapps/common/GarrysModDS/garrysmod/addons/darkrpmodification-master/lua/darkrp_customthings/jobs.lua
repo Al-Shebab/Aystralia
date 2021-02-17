@@ -1677,6 +1677,29 @@ TEAM_DEATHSTROKE = DarkRP.createJob("Deathstroke", {
     end,
     CustomCheckFailMsg = "This job is for Mike Pence only.",
 })
+TEAM_TIME_TRAVELLER = DarkRP.createJob("Time Traveller", {
+    color = Color(106,95,255, 255),
+    model = {"models/player/assasinge/db.mdl"},
+    description = [[A time traveller that went back in time to mine Bitcoin after finding out it booms in price. He has brought an old gun back from the future to protect himself from anyone who might find out he travels time, and a invisibility module to walk around un-noticed. | Bitcoin Miner]],
+    weapons = {"invisibility_cloak", "m9k_winchester73"},
+    command = "TEAM_TIME_TRAVELLER",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:1:32981097", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for UE only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 
