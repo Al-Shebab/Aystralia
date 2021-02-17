@@ -254,7 +254,7 @@ TEAM_GUN_DEALER = DarkRP.createJob("Gun Dealer", {
     salary = 7500,
     admin = 0,
     vote = false,
-    hasLicense = false,
+    hasLicense = true,
     candemote = true,
     category = "Dealers",
 })
@@ -279,7 +279,11 @@ TEAM_BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
         ply:SetHealth(100)
         ply:SetArmor(25)
         ply:SetMaxArmor(100)
-    end
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"sydney", "ayssie", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
+    end,
+    CustomCheckFailMsg = "This job is for donators only.",
 })
 TEAM_DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
     color = Color(204,0,255, 255),
