@@ -38,6 +38,7 @@
         [ 'Decepticon' ] = true,
         [ 'Noot-Noot' ] = true,
         [ 'Connor Kenway' ] = true,
+        [ 'Clay Face' ] = true,
         [ 'LOCUS' ] = true,
         [ 'Assassin' ] = true
     }

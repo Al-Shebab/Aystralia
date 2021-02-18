@@ -1702,7 +1702,7 @@ TEAM_TIME_TRAVELLER = DarkRP.createJob("Time Traveller", {
 })
 
 TEAM_THE_ROCK = DarkRP.createJob("The Rock", {
-    color = Color(34, 85, 85, 255),
+    color = Color(106,95,255, 255),
     model = {"models/models/konnie/rock/therock.mdl"},
     description = [[Fight Club Manager]],
     weapons = {"m9k_g36"},
@@ -1723,6 +1723,29 @@ TEAM_THE_ROCK = DarkRP.createJob("The Rock", {
         table.HasValue({"STEAM_0:0:55650188", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Lemonetoe only.",
+})
+TEAM_CLAY_FACE = DarkRP.createJob("Clay Face", {
+    color = Color(106,95,255, 255),
+    model = {"models/player/bobert/ACClayface.mdl"},
+    description = [[BIG FUCKY WUCK BOI]],
+    weapons = {"pro_lockpick", "invisibility_cloak", "m9k_m98b"},
+    command = "TEAM_CLAY_FACE",
+    max = 1,
+    salary = 8000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:463427717"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Tyler49765 only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
