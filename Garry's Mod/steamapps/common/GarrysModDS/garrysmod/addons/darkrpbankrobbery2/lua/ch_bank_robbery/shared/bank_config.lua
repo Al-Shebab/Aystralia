@@ -78,6 +78,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Picolas Cage",
 	"LOCUS",
 	"Kommissar",
+	"Lester Crest",
 	"Drip",
 	"Deathstroke",
 	"Solaire Astora",

@@ -46,6 +46,7 @@ CH_SupplyCrate.Config.AllowedTeams = {
 	"Deathstroke",
 	"Drip",
 	"Marcus",
+	"Lester Crest",
 	"Hitler",
 	"Felix Argyle",
 	"Solaire Astora",

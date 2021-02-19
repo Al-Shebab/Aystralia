@@ -1724,11 +1724,11 @@ TEAM_THE_ROCK = DarkRP.createJob("The Rock", {
     end,
     CustomCheckFailMsg = "This job is for Lemonetoe only.",
 })
-TEAM_CLAY_FACE = DarkRP.createJob("Clay Face", {
+TEAM_CLAY_FACE = DarkRP.createJob("Lester Crest", {
     color = Color(106,95,255, 255),
-    model = {"models/player/bobert/ACClayface.mdl"},
-    description = [[BIG FUCKY WUCK BOI]],
-    weapons = {"pro_lockpick", "invisibility_cloak", "m9k_m98b"},
+    model = {"models/player/spike/LesterCrest.mdl"},
+    description = [[BIG FUCKY WUCK BOI | Thief]],
+    weapons = {"pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "invisibility_cloak", "m9k_m249lmg"},
     command = "TEAM_CLAY_FACE",
     max = 1,
     salary = 8000,
