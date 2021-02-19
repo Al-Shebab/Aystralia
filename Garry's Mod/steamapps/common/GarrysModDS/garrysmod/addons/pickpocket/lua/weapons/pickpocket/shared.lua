@@ -2,10 +2,10 @@
 local PPConfig_Duration = 15
 
 -- Minimum money that can be stolen from the player (default: 400)
-local PPConfig_MoneyFrom = 10000
+local PPConfig_MoneyFrom = 1000
 
 -- Maximumum money that can be stolen from the player (default: 700)
-local PPConfig_MoneyTo = 50000
+local PPConfig_MoneyTo = 25000
 
 -- Seconds to wait until next Pickpocketing (default: 60)
 local PPConfig_Wait = 300

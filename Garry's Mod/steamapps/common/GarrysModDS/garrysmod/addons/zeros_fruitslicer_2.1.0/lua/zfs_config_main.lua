@@ -82,7 +82,7 @@ zfs.config.Price = {
 	Minimum = 1000,
 
 	// This is the maximum Custom Price the players can set it to
-	Maximum = 1000000,
+	Maximum = 100000,
 
 	// This is the percentage of what the Smoothie will cost more when using multiple fruit types
 	// *Note Only works if zfs.config.Price.Custom is set to false

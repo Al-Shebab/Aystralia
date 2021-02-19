@@ -16,7 +16,7 @@ elegant_printers.config = {
     PrintName = "General Money Printer",
 --  The name of the money printer that will be displayed in messages and the F4 menu
 
-    price = 10000,
+    price = 1000,
 --  The price of a default printer.
 
     max = 1,
@@ -26,13 +26,13 @@ elegant_printers.config = {
     GlobalMax = 2,
 --  Maximum amounts of printers you can have at once, regardless of their tier.
 
-    SeizeReward = 10000,
+    SeizeReward = 1000,
 --  The amount of money a cop will receive upon seizing a printer. (When attacked with a Stun Stick)
 
 --[[
     The printer entity's values
 ]]
-    PrintAmount = 2000,
+    PrintAmount = 200,
 --  The amount of money printed per "ink usage".
 
     PrintTime = 60 * 1,
@@ -43,7 +43,7 @@ elegant_printers.config = {
 --  Everytime the printer heats up, it will take one damage to durability. Once it reaches 0, it will explode!
 --  You can prevent this using High Quality Cooling.
 
-    MaxMoney = 100000,
+    MaxMoney = 10000,
 --  The maximum amount of money the money printer can store until it stops printing.
 --  TIP: You can pass math.huge as a value to make it infinite.
 
@@ -144,11 +144,11 @@ elegant_printers.config = {
     Tiers = {
         Generic = {
             PrintName = "Generic Grade Printer",
-            price = 10000,
+            price = 1000,
             cmd = "buyprinter_generic",
 
-            PrintAmount = 12000,
-            MaxMoney = 150000,
+            PrintAmount = 1200,
+            MaxMoney = 15000,
             Gradient1 = Color(0, 99, 115),
             Gradient2 = Color(0, 151, 176),
             AllowedVIPs = {
@@ -176,11 +176,11 @@ elegant_printers.config = {
         },
         Perth = {
             PrintName = "Perth Grade Printer",
-            price = 25000,
+            price = 2500,
             cmd = "buyprinter_perth",
 
-            PrintAmount = 24000,
-            MaxMoney = 250000,
+            PrintAmount = 2400,
+            MaxMoney = 25000,
             Gradient1 = Color(0, 183, 212),
             Gradient2 = Color(36, 225, 255),
             AllowedVIPs = {
@@ -192,11 +192,11 @@ elegant_printers.config = {
         },
         Brisbane = {
             PrintName = "Brisbane Grade Printer",
-            price = 50000,
+            price = 5000,
             cmd = "buyprinter_brisbane",
 
-            PrintAmount = 36000,
-            MaxMoney = 400000,
+            PrintAmount = 3600,
+            MaxMoney = 40000,
             Gradient1 = Color(61, 229, 255),
             Gradient2 = Color(130, 238, 255),
             AllowedVIPs = {
@@ -207,11 +207,11 @@ elegant_printers.config = {
         },
         Melbourne = {
             PrintName = "Melbourne Grade Printer",
-            price = 75000,
+            price = 7500,
             cmd = "buyprinter_melbourne",
 
-            PrintAmount = 48000,
-            MaxMoney = 500000,
+            PrintAmount = 4800,
+            MaxMoney = 50000,
             Gradient1 = Color(61, 255, 213),
             Gradient2 = Color(130, 255, 228),
             AllowedVIPs = {
@@ -222,11 +222,11 @@ elegant_printers.config = {
         },
         Sydney = {
             PrintName = "Sydney Grade Printer",
-            price = 100000,
+            price = 10000,
             cmd = "buyprinter_sydney",
 
-            PrintAmount = 60000,
-            MaxMoney = 750000,
+            PrintAmount = 6000,
+            MaxMoney = 75000,
             Gradient1 = Color(61, 255, 154),
             Gradient2 = Color(130, 255, 190),
             AllowedVIPs = {
@@ -237,11 +237,11 @@ elegant_printers.config = {
         },
         Ayssie = {
             PrintName = "Ayssie Grade Printer",
-            price = 260000,
+            price = 26000,
             cmd = "buyprinter_ayssie",
 
-            PrintAmount = 180000,
-            MaxMoney = 2000000,
+            PrintAmount = 18000,
+            MaxMoney = 200000,
             Gradient1 = Color(61, 255, 154),
             Gradient2 = Color(130, 255, 190),
             AllowedVIPs = {
@@ -271,7 +271,7 @@ elegant_printers.config = {
     },
     InkSlot = {
         PrintName = "Xenon Ink Cartridge Upgrade",
-        price = 10000,
+        price = 1000,
         model = "models/Items/car_battery01.mdl",
         cmd = "buyprinterslot",
 
@@ -279,7 +279,7 @@ elegant_printers.config = {
     },
     RepairPart = {
         PrintName = "Xenon Repair Part",
-        price = 10000,
+        price = 1000,
         model = "models/props_lab/reciever01d.mdl",
         cmd = "buyprinterrepair",
 
@@ -287,7 +287,7 @@ elegant_printers.config = {
     },
     HQCooling = {
         PrintName = "Xenon Quality Cooling",
-        price = 25000,
+        price = 2500,
         model = "models/props_phx/gears/spur12.mdl",
         cmd = "buyprintercooling",
 

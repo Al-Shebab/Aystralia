@@ -258,7 +258,7 @@ zwf.config.Nutrition = {
 
 zwf.config.Plague = {
     // Do we want to enable the Plague System which infects plants overtime
-    Enabled = true,
+    Enabled = false,
 
     // The interval at which we roll a dice if the plant should get infected
     infect_interval = 75, // in seconds
@@ -280,7 +280,7 @@ zwf.config.Plants = {
 
         // The sell value per full weed block
         // *Note: A full weedblock is made out of 4 Full Jars of weed so if the weedblock got made out of 4 half jars of weed then this sell value will be half aswell
-        sellvalue = 40000,
+        sellvalue = 4000,
 
         // The default THC level in %
         thc_level = 10,
@@ -312,7 +312,7 @@ zwf.config.Plants = {
     [2] = {
         name = "Bubba Kush",
         skin = 2,
-        sellvalue = 95000,
+        sellvalue = 9500,
         thc_level = 12,
         high_effect = 2,
         high_music = nil,
@@ -329,7 +329,7 @@ zwf.config.Plants = {
     [3] = {
         name = "Sour Diesel",
         skin = 3,
-        sellvalue = 132500,
+        sellvalue = 13250,
         thc_level = 14,
         high_effect = 3,
         high_music = nil,
@@ -346,7 +346,7 @@ zwf.config.Plants = {
     [4] = {
         name = "AK-47",
         skin = 4,
-        sellvalue = 140000,
+        sellvalue = 14000,
         thc_level = 16,
         high_effect = 4,
         high_music = nil,
@@ -363,7 +363,7 @@ zwf.config.Plants = {
     [5] = {
         name = "Super Lemon Haze",
         skin = 5,
-        sellvalue = 170000,
+        sellvalue = 17000,
         thc_level = 20,
         high_effect = 5,
         high_music = nil,
@@ -380,7 +380,7 @@ zwf.config.Plants = {
     [6] = {
         name = "Strawberry Cough",
         skin = 6,
-        sellvalue = 200000,
+        sellvalue = 20000,
         thc_level = 25,
         high_effect = 6,
         high_music = nil,
@@ -397,7 +397,7 @@ zwf.config.Plants = {
     [7] = {
         name = "Dark Devil",
         skin = 1,
-        sellvalue = 220000,
+        sellvalue = 22000,
         thc_level = 30,
         high_effect = 7,
         high_music = nil,

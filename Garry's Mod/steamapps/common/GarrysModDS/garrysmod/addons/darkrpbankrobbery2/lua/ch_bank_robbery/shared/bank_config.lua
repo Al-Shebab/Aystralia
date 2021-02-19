@@ -5,10 +5,10 @@ CH_BankVault.Design = CH_BankVault.Design or {}
 CH_BankVault.CurrentRobbers = CH_BankVault.CurrentRobbers or { "NONE" }
 
 -- General config options.
-CH_BankVault.Config.StartMoney = 1750000 -- Amount of money the bank will have from server startup. [Default = 1500]
+CH_BankVault.Config.StartMoney = 175000 -- Amount of money the bank will have from server startup. [Default = 1500]
 CH_BankVault.Config.MoneyTimer = 60 -- This is the time that defines when money is added to the bank. In seconds! [Default = 60]
-CH_BankVault.Config.MoneyOnTime = 10000 -- This is the amount of money to be added to the bank every x minutes/seconds. Defined by the setting above. [Default = 1000]
-CH_BankVault.Config.Max = 1750000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
+CH_BankVault.Config.MoneyOnTime = 1000 -- This is the amount of money to be added to the bank every x minutes/seconds. Defined by the setting above. [Default = 1000]
+CH_BankVault.Config.Max = 175000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
 
 CH_BankVault.Config.AliveTime = 60 -- The amount of SECONDS the player must stay alive before he will receive what the bank has. [Default = 60 seconds]
 -- If you own the transport dlc this is also the time the robbers needs to complete the heist/transport of the money in. If not, the mission will fail.
@@ -20,7 +20,7 @@ CH_BankVault.Config.PoliceRequired = 3 -- The amount of police officers there mu
 CH_BankVault.Config.RobberyDistance = 300000 -- The amount of space the player can move away from the armory entity, before the robbery fails. [Default = 300000]
 CH_BankVault.Config.DropMoneyOnSucces = false -- Should money drop from the bank when a robbery is successful? true/false option. [Default = false]
 
-CH_BankVault.Config.KillReward = 125000 -- The amount of money a person is rewarded for killing the bank robber. [Default = 1750]
+CH_BankVault.Config.KillReward = 12500 -- The amount of money a person is rewarded for killing the bank robber. [Default = 1750]
 CH_BankVault.Config.RobbersCanJoin = 15 -- Amount of seconds before robbers are no longer able to join a robbery after it has first been started. [Default = 120 (2 minutes)]
 
 -- Alarm Sound Configs

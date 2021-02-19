@@ -22,10 +22,10 @@ cfg.DisabledModules = {
 cfg.AllResetWhenNoMayor = true
 
 -- City funds when the server starts
-cfg.DefaultFunds = 250000
+cfg.DefaultFunds = 25000
 
 -- Max city funds when the server starts
-cfg.DefaultMaxFunds = 250000
+cfg.DefaultMaxFunds = 25000
 
 -- Is the mayor able to withdraw from the safe?
 cfg.CanMayorWithdrawFromSafe = false
@@ -34,13 +34,13 @@ cfg.CanMayorWithdrawFromSafe = false
 cfg.MinMaxBonus = {100, 10000}
 
 -- Max tax that a mayor can set (never set it greater than 100!)
-cfg.MaxTax = 75
+cfg.MaxTax = 50
 
 -- delay between each bonus (seconds)
 cfg.BonusDelay = 300
 
 -- Delay between each firing (seconds)
-cfg.KickDelay = 1
+cfg.KickDelay = 120
 
 -- Laws scrolling delay (seconds)
 cfg.LawsScrollingDelay = 2
@@ -94,12 +94,12 @@ cfg.Upgrades[2] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 5000,
-			SalaryBonus = 2500
+			Price = 500,
+			SalaryBonus = 250
 		},
 		[2] = {
-			Price = 50000,
-			SalaryBonus = 12000
+			Price = 5000,
+			SalaryBonus = 2500
 		},
 	}
 }
@@ -112,7 +112,7 @@ cfg.Upgrades[3] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 25000,
+			Price = 2500,
 			DefaultArmor = 100
 		},
 	}
@@ -125,24 +125,24 @@ cfg.Upgrades[5] = {
 	Levels = {
 		[0] = {},
 		[1] = {
-			Price = 50000,
-			MaxFunds = 500000
+			Price = 5000,
+			MaxFunds = 50000
 		},
 		[2] = {
-			Price = 125000,
-			MaxFunds = 1000000
+			Price = 12500,
+			MaxFunds = 100000
 		},
 		[3] = {
-			Price = 200000,
-			MaxFunds = 2000000
+			Price = 20000,
+			MaxFunds = 200000
 		},
 		[4] = {
-			Price = 300000,
-			MaxFunds = 2500000
+			Price = 30000,
+			MaxFunds = 250000
 		},
 		[5] = {
-			Price = 500000,
-			MaxFunds = 5000000
+			Price = 50000,
+			MaxFunds = 500000
 		},
 	},
 	OnUpgrade = function(intID, intLevel)

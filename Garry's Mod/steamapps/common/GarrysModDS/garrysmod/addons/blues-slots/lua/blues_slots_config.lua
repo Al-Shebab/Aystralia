@@ -27,11 +27,11 @@ WOL_CONFIG.jackpotIncreasePerSpin = 250
 //The jackpot gets reset after someone wins it and it then set to a random number
 //between the minimum and maximum jackpot numbers. 
 //Set them both to zero if you want to jackpot to start at 0
-WOL_CONFIG.jackpotResetMin = 200000
-WOL_CONFIG.jackpotResetMax = 1700000 //2 mill is reasonable consider the rarity the jackpot should be.
+WOL_CONFIG.jackpotResetMin = 100
+WOL_CONFIG.jackpotResetMax = 2000000 //2 mill is reasonable consider the rarity the jackpot should be.
 
 //The amount it charges the user to per spin (It does not charge for the bonus spins as they are free)
-WOL_CONFIG.pricePerSpin = 1750 
+WOL_CONFIG.pricePerSpin = 1000 
 
 //This is the icon used before displaying money, you can change this but its recomened to keep its leghnth to 1.
 //You can use anything like "P" for point shop or these common one ($, €, £)
@@ -55,66 +55,67 @@ WOL_ITEM_CHANCE[8] = 65  //Nothing
 WOL_CONFIG.winning = {}
 
 //Getting three bonus in a row (This includes 3 bonus spins too)
-WOL_CONFIG.winning.threeBonus = 50000
+WOL_CONFIG.winning.threeBonus = 25000
 
 //Getting two bonus in a any position(This includes 3 bonus spins too)
-WOL_CONFIG.winning.twoBonus = 20000
+WOL_CONFIG.winning.twoBonus = 10000
 
 //Getting one bonus in a any position(This includes 3 bonus spins too)
-WOL_CONFIG.winning.oneBonus = 10000
+WOL_CONFIG.winning.oneBonus = 5000
 
 //Getting threE raspberrys in a row.
-WOL_CONFIG.winning.threeRaspberry = 5000
+WOL_CONFIG.winning.threeRaspberry = 2500
 
 //Getting three coins in a row
-WOL_CONFIG.winning.threeCoins = 20000
+WOL_CONFIG.winning.threeCoins = 10000
 
 //Getting two coins in a row
-WOL_CONFIG.winning.twoCoins = 10000
+WOL_CONFIG.winning.twoCoins = 5000
 
 //Getting three diamonds in a row
-WOL_CONFIG.winning.threeDiamonds = 40000 
+WOL_CONFIG.winning.threeDiamonds = 20000 
 
 //Getting two diamons in any place
-WOL_CONFIG.winning.twoDiamonds = 15000
+WOL_CONFIG.winning.twoDiamonds = 7500
 
 //Getting one diamond in any place
-WOL_CONFIG.winning.oneDiamonds = 2000  
+WOL_CONFIG.winning.oneDiamonds = 1000  
 
-//Getting three BAR2's in a row
-WOL_CONFIG.winning.threeBar2 = 3500
+//Getting three BAR2s in a row
+WOL_CONFIG.winning.threeBar2 = 1750
 
-//Getting three BAR'S in a row
-WOL_CONFIG.winning.threeBar = 2000
+//Getting three BARS in a row
+WOL_CONFIG.winning.threeBar = 1000
 
-//Getting three 7's in a row
-WOL_CONFIG.winning.threeSeven = 7000
+//Getting three 7s in a row
+WOL_CONFIG.winning.threeSeven = 3500
 
 //These are the items on the bonus wheel, DO NOT ADD OR REMOVE ANY
 //Only change the numbers.
+WOL_AddBonusItem(100)
 WOL_AddBonusItem(200)
 WOL_AddBonusItem(400)
-WOL_AddBonusItem(800)
-WOL_AddBonusItem(2000)
+WOL_AddBonusItem(1000)
+WOL_AddBonusItem(2500)
 WOL_AddBonusItem(5000)
+WOL_AddBonusItem(7500)
 WOL_AddBonusItem(10000)
 WOL_AddBonusItem(15000)
 WOL_AddBonusItem(20000)
 WOL_AddBonusItem(30000)
 WOL_AddBonusItem(40000)
 WOL_AddBonusItem(60000)
-WOL_AddBonusItem(80000)
-WOL_AddBonusItem(120000)
+WOL_AddBonusItem(75000)
+WOL_AddBonusItem(100000)
 WOL_AddBonusItem(150000)
+WOL_AddBonusItem(175000)
 WOL_AddBonusItem(200000)
 WOL_AddBonusItem(300000)
-WOL_AddBonusItem(350000)
-WOL_AddBonusItem(400000)
-WOL_AddBonusItem(600000)
 
 //This is a list of ranks that can save machine places, using !saveslots
 WOL_CONFIG.allowedRanks = {
 	"superadmin",
+	"owner"
 }
 
 

@@ -24,7 +24,7 @@ CH_ArmoryRobbery.Config.AliveTime = 2 -- The amount of MINUTES the player must s
 CH_ArmoryRobbery.Config.CooldownTime = 15 -- The amount of MINUTES the armory is on a cooldown after a robbery! (Doesn't matter if the robbery failed or not) [Default = 20]
 CH_ArmoryRobbery.Config.RobberyDistance = 700 -- The amount of space the player can move away from the armory entity, before the robbery fails. [Default = 500]
 CH_ArmoryRobbery.Config.PlayerLimit = 6 -- The amount of players there must be on the server before you can rob the armory. [Default = 5]
-CH_ArmoryRobbery.Config.KillReward = 150000 -- The amount of money a person is rewarded for killing the armory robber. [Default = 2500]
+CH_ArmoryRobbery.Config.KillReward = 15000 -- The amount of money a person is rewarded for killing the armory robber. [Default = 2500]
 CH_ArmoryRobbery.Config.PoliceRequired = 2 -- The amount of police officers there must be before a person can rob the armory. [Default = 3]
 
 CH_ArmoryRobbery.Config.RequiredTeams = { -- These are the names of the jobs that counts with the option above, the police required. The amount of players on these teams are calculated together in the count.

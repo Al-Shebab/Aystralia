@@ -185,7 +185,7 @@ zrush.f.CreateMachineShopItem({
 	class = "zrush_drilltower",
 	model = "models/zerochain/props_oilrush/zor_drilltower.mdl",
 	limit = 2,
-	price = 2500,
+	price = 250,
 	machineID = "Drill"
 })
 
@@ -193,8 +193,8 @@ zrush.f.CreateMachineShopItem({
 	name = "Burner",
 	class = "zrush_burner",
 	model = "models/zerochain/props_oilrush/zor_drillburner.mdl",
-	limit = 2,
-	price = 1000,
+	limit = 1,
+	price = 1,
 	machineID = "Burner"
 })
 
@@ -203,7 +203,7 @@ zrush.f.CreateMachineShopItem({
 	class = "zrush_pump",
 	model = "models/zerochain/props_oilrush/zor_oilpump.mdl",
 	limit = 2,
-	price = 5000,
+	price = 500,
 	machineID = "Pump"
 })
 
@@ -212,7 +212,7 @@ zrush.f.CreateMachineShopItem({
 	class = "zrush_refinery",
 	model = "models/zerochain/props_oilrush/zor_refinery.mdl",
 	limit = 1,
-	price = 10000,
+	price = 1000,
 	machineID = "Refinery"
 })
 ///////////////////////

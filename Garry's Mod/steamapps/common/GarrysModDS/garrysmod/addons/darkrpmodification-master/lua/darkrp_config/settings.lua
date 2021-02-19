@@ -197,19 +197,19 @@ GM.Config.decaltimer                    = 120
 -- demotetime - Number of seconds before a player can rejoin a team after demotion from that team.
 GM.Config.demotetime                    = 3600
 -- doorcost - Sets the cost of a door.
-GM.Config.doorcost                      = 500
+GM.Config.doorcost                      = 100
 -- entremovedelay - how long to wait before removing a bought entity after disconnect.
-GM.Config.entremovedelay                = 90
+GM.Config.entremovedelay                = 60
 -- gunlabweapon - The weapon that the gunlab spawns.
 GM.Config.gunlabweapon                  = "m9k_ak47"
 -- jailtimer - Sets the jailtimer (in seconds).
-GM.Config.jailtimer                     = 180
+GM.Config.jailtimer                     = 300
 -- lockdowndelay - The amount of time a mayor must wait before starting the next lockdown.
 GM.Config.lockdowndelay                 = 600
 -- maxadvertbillboards - The maximum number of /advert billboards a player can place.
-GM.Config.maxadvertbillboards           = 3
+GM.Config.maxadvertbillboards           = 1
 -- maxCheques - The maximum number of cheques someone can write
-GM.Config.maxCheques                    = 5
+GM.Config.maxCheques                    = 1
 -- maxdoors - Sets the max amount of doors one can own.
 GM.Config.maxdoors                      = 20
 -- maxdrugs - Sets max drugs.
@@ -219,13 +219,13 @@ GM.Config.maxfoods                      = 2
 -- maxfooditems - Sets the max amount of food items a player can buy from the F4 menu.
 GM.Config.maxfooditems                  = 20
 -- maxlawboards - The maximum number of law boards the mayor can place.
-GM.Config.maxlawboards                  = 1
+GM.Config.maxlawboards                  = 0
 -- maxletters - Sets max letters.
-GM.Config.maxletters                    = 16
+GM.Config.maxletters                    = 0
 -- maxlotterycost - Maximum payment the mayor can set to join a lottery.
 GM.Config.maxlotterycost                = 25000
 -- maxvehicles - Sets how many vehicles one can buy.
-GM.Config.maxvehicles                   = 5
+GM.Config.maxvehicles                   = 1
 -- microwavefoodcost - Sets the sale price of Microwave Food.
 GM.Config.microwavefoodcost             = 30
 -- minlotterycost - Minimum payment the mayor can set to join a lottery.
@@ -267,7 +267,7 @@ GM.Config.shipmentspawntime             = 5
 -- startinghealth - the health when you spawn.
 GM.Config.startinghealth                = 100
 -- startingmoney - your wallet when you join for the first time.
-GM.Config.startingmoney                 = 350000
+GM.Config.startingmoney                 = 50000
 -- vehiclecost - Sets the cost of a vehicle (To own it).
 GM.Config.vehiclecost                   = 1
 -- wallettaxmax - Maximum percentage of tax to be paid.
@@ -297,7 +297,7 @@ GM.Config.talkDistance    = 450
 GM.Config.whisperDistance = 150
 GM.Config.yellDistance    = 750
 GM.Config.meDistance      = 350
-GM.Config.voiceDistance   = 850
+GM.Config.voiceDistance   = 750
 
 --[[---------------------------------------------------------------------------
 Other settings
@@ -604,7 +604,7 @@ GM.Config.AFKDelay = 300
 Hitmenu module
 ---------------------------------------------------------------------------]]
 -- The minimum price for a hit.
-GM.Config.minHitPrice = 100000
+GM.Config.minHitPrice = 10000
 -- The maximum price for a hit.
 GM.Config.maxHitPrice = 500000
 -- The minimum distance between a hitman and his customer when they make the deal.
