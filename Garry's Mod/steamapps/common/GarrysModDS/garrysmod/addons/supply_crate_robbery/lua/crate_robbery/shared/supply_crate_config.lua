@@ -44,6 +44,7 @@ CH_SupplyCrate.Config.AllowedTeams = {
 	"Kommissar",
 	"Picolas Cage",
 	"Deathstroke",
+	"Jason Statham",
 	"Drip",
 	"Marcus",
 	"Lester Crest",

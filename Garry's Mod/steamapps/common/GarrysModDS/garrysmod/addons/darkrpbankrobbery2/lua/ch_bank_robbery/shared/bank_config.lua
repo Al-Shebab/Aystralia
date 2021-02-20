@@ -87,6 +87,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Felix Argyle",
 	"Ark Knight",
 	"Papa Yoda",
+	"Jason Statham",
 	"Sonic",
 	"2B",
 	"Specialist Thief",
