@@ -1677,11 +1677,11 @@ TEAM_DEATHSTROKE = DarkRP.createJob("Deathstroke", {
     end,
     CustomCheckFailMsg = "This job is for Mike Pence only.",
 })
-TEAM_TIME_TRAVELLER = DarkRP.createJob("Time Traveller", {
+TEAM_TIME_TRAVELLER = DarkRP.createJob("The Doctor", {
     color = Color(106,95,255, 255),
-    model = {"models/player/assasinge/db.mdl"},
-    description = [[A time traveller that went back in time to mine Bitcoin after finding out it booms in price. He has brought an old gun back from the future to protect himself from anyone who might find out he travels time, and a invisibility module to walk around un-noticed. | Bitcoin Miner]],
-    weapons = {"invisibility_cloak", "m9k_winchester73"},
+    model = {"models/11thDoctor/thedoctor.mdl"},
+    description = [[It's all about the Wibbily Wobbily Timey Whimey Stuff. | Bitcoin Miner]],
+    weapons = {"invisibility_cloak", "med_kit", "m9k_browningauto5"},
     command = "TEAM_TIME_TRAVELLER",
     max = 1,
     salary = 2000,
