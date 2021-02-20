@@ -82,6 +82,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Drip",
 	"Deathstroke",
 	"Solaire Astora",
+	"Kiwi",
 	"Marcus",
 	"Hitler",
 	"Felix Argyle",

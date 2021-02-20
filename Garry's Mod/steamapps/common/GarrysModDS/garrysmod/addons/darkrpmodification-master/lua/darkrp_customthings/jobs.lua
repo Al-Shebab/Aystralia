@@ -1748,7 +1748,7 @@ TEAM_CLAY_FACE = DarkRP.createJob("Lester Crest", {
     CustomCheckFailMsg = "This job is for Tyler49765 only.",
 })
 TEAM_JASON_STATHAM = DarkRP.createJob("Jason Statham", {
-    color = Color(255, 0, 0, 255),
+    color = Color(106,95,255, 255),
     model = {"models/jasonstatham/Playermodels/jasonstatham1.mdl"},
     description = [[I'm here to fill my pockets and fuck up your taxes. #TradiesAreLazy | Thief]],
     weapons = {"m9k_browningauto5", "invisibility_cloak", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
@@ -1769,6 +1769,29 @@ TEAM_JASON_STATHAM = DarkRP.createJob("Jason Statham", {
         table.HasValue({"STEAM_0:0:189217395", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Scomo only.",
+})
+TEAM_KIWI = DarkRP.createJob("Kiwi", {
+    color = Color(106,95,255, 255),
+    model = {"models/Hu_Tao/genshin_impact/rstar/Hu_Tao/Hu_Tao.mdl"},
+    description = [[You Are Precious To Me]],
+    weapons = {"m9k_an94", "med_kit", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
+    command = "TEAM_KIWI",
+    max = 1,
+    salary = 2000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:237754247", "STEAM_0:0:103364981"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Kiwi only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
