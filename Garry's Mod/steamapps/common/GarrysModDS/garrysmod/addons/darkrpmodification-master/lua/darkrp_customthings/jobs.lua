@@ -1793,6 +1793,29 @@ TEAM_KIWI = DarkRP.createJob("Kiwi", {
     end,
     CustomCheckFailMsg = "This job is for Kiwi only.",
 })
+TEAM_SATOSHI_NAKAMOTO = DarkRP.createJob("Satoshi Nakamoto", {
+    color = Color(106,95,255, 255),
+    model = {"models/player/bo2/cia/cia_pm.mdl"},
+    description = [[The original, OG digital currency creator. Noone knows his name, but he knows his way around bitcoin]],
+    weapons = {"m9k_aw50", "weapon_armorkit"},
+    command = "TEAM_SATOSHI_NAKAMOTO",
+    max = 1,
+    salary = 2000,
+    admin = 0,
+    vote = false,
+    hasLicense = true,
+    candemote = false,
+    category = "Donator Classes",
+    PlayerSpawn = function(ply)
+        ply:SetMaxHealth(100)
+        ply:SetHealth(100)
+        ply:SetArmor(100)
+    end,
+    customCheck = function(ply) return
+        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:47977664"}, ply:SteamID())
+    end,
+    CustomCheckFailMsg = "This job is for Richard Nixon only.",
+})
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
 

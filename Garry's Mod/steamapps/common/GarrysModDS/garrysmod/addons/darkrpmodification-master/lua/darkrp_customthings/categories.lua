@@ -179,7 +179,7 @@ DarkRP.createCategory{
     categorises = "entities",
     startExpanded = true,
     color = Color(0,255,255,255),
-    canSee = function(ply) return table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team()) end,
+    canSee = function(ply) return table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team()) end,
     sortOrder = 1
 }
 DarkRP.createCategory{
