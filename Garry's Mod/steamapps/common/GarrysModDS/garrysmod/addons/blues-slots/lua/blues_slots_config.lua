@@ -27,8 +27,8 @@ WOL_CONFIG.jackpotIncreasePerSpin = 250
 //The jackpot gets reset after someone wins it and it then set to a random number
 //between the minimum and maximum jackpot numbers. 
 //Set them both to zero if you want to jackpot to start at 0
-WOL_CONFIG.jackpotResetMin = 100
-WOL_CONFIG.jackpotResetMax = 2000000 //2 mill is reasonable consider the rarity the jackpot should be.
+WOL_CONFIG.jackpotResetMin = 200000
+WOL_CONFIG.jackpotResetMax = 1800000 //2 mill is reasonable consider the rarity the jackpot should be.
 
 //The amount it charges the user to per spin (It does not charge for the bonus spins as they are free)
 WOL_CONFIG.pricePerSpin = 1000 

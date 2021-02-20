@@ -1,16 +1,16 @@
 CM = {}
 
 //Increase this if the menu shows on map change.
-CM.DelayTime = 30
+CM.DelayTime = 0
 
 //What's the title?
 CM.Title = "Fuck Sake"
 
 //What message do you want to display when the server has crashed?
-CM.Message = "Looks like the server has crashed or been restarted, auto reconnecting in 75 seconds"
+CM.Message = "Looks like the server has crashed or been restarted, auto reconnecting in 90 seconds"
 
 //What is the estimated time in seconds it takes for the server to restart after a crash?
-CM.ServerRestartTime = 75
+CM.ServerRestartTime = 90
 
 CM.BackgroundColor = Color(52, 152, 219)
 
