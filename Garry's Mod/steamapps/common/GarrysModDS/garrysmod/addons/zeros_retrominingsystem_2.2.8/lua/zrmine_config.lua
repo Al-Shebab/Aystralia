@@ -243,10 +243,10 @@ local Bronze_1kg = 700 //$
 local Iron_1kg = 550 //$
 */
 
-local Gold_1kg = 280 //$
-local Silver_1kg = 140 //$
-local Bronze_1kg = 70 //$
-local Iron_1kg = 55 //$
+local Gold_1kg = 310 //$
+local Silver_1kg = 170 //$
+local Bronze_1kg = 95 //$
+local Iron_1kg = 65 //$
 
 local Mass_per_Bar = 10
 
