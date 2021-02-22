@@ -1,5 +1,5 @@
 AddCSLuaFile()
-TOOL.Category = "Zeros OilRush"
+TOOL.Category = "Superadmin Only"
 TOOL.Name = "#OilSpot Spawner"
 TOOL.Command = nil
 TOOL.ConfigName = nil

@@ -6,7 +6,7 @@ local font = KVS.GetFont
 local config = KVS.GetConfig
 local tCubes = {}
 
-TOOL.Category = "Advanced Car Dealer"
+TOOL.Category = "Superadmin Only"
 TOOL.Name = "Advanced Car Dealer Tool"
 
 if CLIENT then

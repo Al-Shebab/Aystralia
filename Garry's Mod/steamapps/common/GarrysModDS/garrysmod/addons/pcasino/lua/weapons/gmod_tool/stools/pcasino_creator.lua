@@ -1,5 +1,5 @@
-TOOL.Category = "pCasino"
-TOOL.Name = "#tool.pcasino_creator.name"
+TOOL.Category = "Superadmin Only"
+TOOL.Name = "Casino Placement"
 TOOL.Command = nil
 TOOL.Information = {
 	{name = "left"},

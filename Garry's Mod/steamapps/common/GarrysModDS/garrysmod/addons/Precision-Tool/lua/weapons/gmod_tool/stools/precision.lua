@@ -1113,7 +1113,7 @@ if CLIENT then
 		Panel:AddControl( "Slider",  { Label	= "Push/Pull Amount",
 					Type	= "Float",
 					Min		= 1,
-					Max		= 100,
+					Max		= 10,
 					Command = "precision_nudge",
 					Description = "Distance to push/pull props with altfire/reload"}	 ):SetDecimals( 4 )
 
@@ -1181,11 +1181,6 @@ if CLIENT then
 				list:AddLine(" 7 ->Adv Ballsocket<-")
 			else
 				list:AddLine(" 7   Adv Ballsocket")
-			end
-			if ( mode == 8 ) then
-				list:AddLine(" 8 ->Slider<-")
-			else
-				list:AddLine(" 8   Slider")
 			end
 		end
 		if ( user >= 3 ) then

@@ -2,7 +2,7 @@ AddCSLuaFile()
 include("zrmine_config.lua")
 AddCSLuaFile("zrmine_config.lua")
 
-TOOL.Category = "Zeros RetroMiningSystem"
+TOOL.Category = "Superadmin Only"
 TOOL.Name = "#OreSpawner"
 TOOL.Command = nil
 TOOL.ConfigName = nil
