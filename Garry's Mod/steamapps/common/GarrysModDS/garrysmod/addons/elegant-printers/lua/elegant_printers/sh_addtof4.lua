@@ -34,7 +34,7 @@ for class, data in next, elegant_printers.Upgrades do
             ent = class
         }
         table.Inherit(itemData, data)
-        if not itemData.max then itemData.max = math.huge end
+        if not itemData.max then itemData.max = 2 end
         if not itemData.category then itemData.category = config.CommunityName end
         DarkRP.createEntity(itemData.PrintName, itemData)
     end
