@@ -24,9 +24,9 @@ DarkRP.createEntity("Bitminer S1", {
     max = 1,
     cmd = "buybitminers1",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 }) 
@@ -38,9 +38,9 @@ DarkRP.createEntity("Bitminer S2", {
     max = 1,
     cmd = "buybitminers2",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -52,9 +52,9 @@ DarkRP.createEntity("Bitminer Server", {
     max = 8,
     cmd = "buybitminerserver",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -66,9 +66,9 @@ DarkRP.createEntity("Bitminer Rack", {
     max = 1,
     cmd = "buybitminerrack",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -80,9 +80,9 @@ DarkRP.createEntity("Extension Lead", {
     max = 1,
     cmd = "buybitminerextension",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -94,9 +94,9 @@ DarkRP.createEntity("Power Lead", {
     max = 5,
     cmd = "buybitminerpowerlead",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -108,9 +108,9 @@ DarkRP.createEntity("Generator", {
     max = 1,
     cmd = "buybitminergenerator",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -122,9 +122,9 @@ DarkRP.createEntity("Fuel", {
     max = 2,
     cmd = "buybitminerfuel",
     category = "Bitcoin",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     customCheck = function(ply) return
-        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO}, ply:Team())
+        table.HasValue({TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER}, ply:Team())
     end,
     CustomCheckFailMsg = "",
 })
@@ -275,7 +275,7 @@ DarkRP.createEntity("Fuel Line", {
     price = 150,
     max = 1,
     cmd = "buyfuelline",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     category = "Bitcoin"
 }) 
 
@@ -285,7 +285,7 @@ DarkRP.createEntity("Large Fuel", {
     price = 400,
     max = 2,
     cmd = "buylargefuel",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     category = "Bitcoin"
 })
 
@@ -295,7 +295,7 @@ DarkRP.createEntity("Fuel Tank", {
     price = 1000,
     max = 1,
     cmd = "buyfueltank",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     category = "Bitcoin"
 })
 
@@ -305,7 +305,7 @@ DarkRP.createEntity("Solar Cable", {
     price = 50,
     max = 5,
     cmd = "buysolarcable",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     category = "Bitcoin"
 })
 
@@ -315,7 +315,7 @@ DarkRP.createEntity("Solar Converter", {
     price = 3000,
     max = 1,
     cmd = "buysolarconverter",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     category = "Bitcoin"
 })
 
@@ -325,7 +325,7 @@ DarkRP.createEntity("Solar Panel", {
     price = 1500,
     max = 5,
     cmd = "buysolarpanel",
-    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER,TEAM_SATOSHI_NAKAMOTO},
+    allowed = {TEAM_BITCOIN_MINER,TEAM_TIME_TRAVELLER},
     category = "Bitcoin"
 })
     

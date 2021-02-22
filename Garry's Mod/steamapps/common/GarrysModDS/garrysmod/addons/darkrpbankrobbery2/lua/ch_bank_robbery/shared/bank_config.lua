@@ -90,6 +90,7 @@ CH_BankVault.Config.AllowedTeams = {
 	"Papa Yoda",
 	"Jason Statham",
 	"Sonic",
+	"Satoshi Nakamoto",
 	"2B",
 	"Specialist Thief",
 	"Saddam Hussein",
