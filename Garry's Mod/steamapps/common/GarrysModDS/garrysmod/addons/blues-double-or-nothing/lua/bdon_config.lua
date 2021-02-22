@@ -22,7 +22,7 @@ Read me first!
 BDON_CONFIG = {}
 
 --This is the base bet amount. Change this how you please, the winnings scale with it (except for jackpot)
-BDON_CONFIG.bet = 2000 
+BDON_CONFIG.bet = 1000 
 
 --This is the minimum the jackpot can be (its random)
 BDON_CONFIG.minJackpot = 1000000
