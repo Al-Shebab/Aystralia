@@ -23,7 +23,7 @@ applycommand = "!apply"
 forumcommand = "!forums"
 
 
-local CATEGORY_NAME = "Chat"
+local CATEGORY_NAME = "Custom Commands"
 
 function ulx.addons( calling_ply )
 	calling_ply:SendLua([[gui.OpenURL(addonurl)]])

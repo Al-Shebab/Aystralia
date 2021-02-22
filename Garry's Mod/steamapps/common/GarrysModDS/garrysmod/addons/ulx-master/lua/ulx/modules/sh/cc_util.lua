@@ -573,7 +573,9 @@ function ulx.administrate( calling_ply, should_revoke )
 
 end
 local administrate = ulx.command( "Custom", "ulx administrate", ulx.administrate, { "!admin", "!administrate"}, true )
-administrate:addParam{ type=ULib.cmds.BoolArg, invisible=true }
+cloak:addParam{ type=ULib.cmds.PlayersArg, ULib.cmds.optional }
+cloak:addParam{ type=ULib.cmds.NumArg, min=0, max=255, default=255, hint="amount", ULib.cmds.round, ULib.cmds.optional }
+cloak:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 administrate:defaultAccess( ULib.ACCESS_SUPERADMIN )
 administrate:help( "Cloak yourself, noclip yourself, and god yourself." )
 administrate:setOpposite( "ulx unadministrate", { _, true }, "!unadministrate", true )
