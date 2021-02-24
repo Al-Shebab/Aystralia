@@ -35,7 +35,7 @@ hook.Add("PopulateToolMenu", "VC_Menu", function()
 	local Lbl = vgui.Create("DLabel") Lbl:SetTall(40) Lbl:SetColor(VC.Color.Accent) Lbl:SetText("        "..Info_EverThought) Pnl:AddItem(Lbl) Lbl:SetWrap(true)
 	local Lbl = vgui.Create("DLabel") Lbl:SetTall(30) Lbl:SetColor(VC.Color.Accent) Lbl:SetText("        "..Info_VCModIsDesigned) Pnl:AddItem(Lbl) Lbl:SetWrap(true)
 
-	local Btn = vgui.Create("DButton") Btn:SetText(VC.Lng and VC.Lng("OpenMenu") or "Open menu") Btn:SetToolTip('You can also open this menu by:\nConsole command: "vcmod"\nIn chat: "!vcmod"\nUsing the "C" menu') Pnl:AddItem(Btn) Btn.DoClick = VC.OpenMenu
+	local Btn = vgui.Create("DButton") Btn:SetText(VC.Lng and VC.Lng("OpenMenu") or "Open menu") Pnl:AddItem(Btn) Btn.DoClick = VC.OpenMenu
 		Btn.Paint = function(Obj, Sx, Sy) draw.RoundedBox(4, 0, 0, Sx, Sy, VC.Color.Accent_Light) draw.RoundedBox(4, 2, 2, Sx-4, Sy-4, VC.Color.Base) end
 	end)
 end)
