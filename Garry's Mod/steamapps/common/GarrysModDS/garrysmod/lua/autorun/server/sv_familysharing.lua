@@ -53,7 +53,7 @@ SteamFamilySharing.extra_ban_checks = true
 
 --Makes the default ULX banned message more informative and pretty.
 --Set true to enable | false to disable.
-SteamFamilySharing.informative_ban_message = true
+SteamFamilySharing.informative_ban_message = false
 
 --The custom banned message to display to those who are banned.
 --\n is for a new line.
