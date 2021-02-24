@@ -1,31 +1,29 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
--- if (FlatHUD != nil) then error("Some addon uses the same global table name ('FlatHUD')") end
+RayHUD = RayHUD or {}
+RayHUD.FlatPanels = RayHUD.FlatPanels or {}
 
-FlatHUD = FlatHUD or {}
-FlatHUD.FlatPanels = FlatHUD.FlatPanels or {}
-
-include( "fh_config.lua" )
-AddCSLuaFile( "fh_config.lua" )
+include( "rh_config.lua" )
+AddCSLuaFile( "rh_config.lua" )
 
 if CLIENT then
-	local scale = CreateClientConVar("flathud_scale", FlatHUD.Cfg.Scale, true, false)
-	FlatHUD.Scale = ScrH() * 0.00085 * (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.Scale or scale:GetInt()) * 0.05
+	local scale = CreateClientConVar("rayhud_scale", RayHUD.Cfg.Scale, true, false)
+	RayHUD.Scale = ScrH() * 0.00085 * (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.Scale or scale:GetInt()) * 0.05
 
-	local round = CreateClientConVar("flathud_rounding", FlatHUD.Cfg.Rounding, true, false)
-	FlatHUD.Rounding = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.Rounding or round:GetInt()) * FlatHUD.Scale
+	local round = CreateClientConVar("rayhud_rounding", RayHUD.Cfg.Rounding, true, false)
+	RayHUD.Rounding = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.Rounding or round:GetInt()) * RayHUD.Scale
 
-	local opacity = CreateClientConVar("flathud_opacity", FlatHUD.Cfg.Opacity, true, false)
-	FlatHUD.Opacity = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.Opacity or opacity:GetInt())
+	local opacity = CreateClientConVar("rayhud_opacity", RayHUD.Cfg.Opacity, true, false)
+	RayHUD.Opacity = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.Opacity or opacity:GetInt())
 
 	local PANEL = {}
 
 	function PANEL:Init()
-		table.insert( FlatHUD.FlatPanels, self )
+		table.insert( RayHUD.FlatPanels, self )
 	end
 
-	vgui.Register( "FlatHUD:DPanel", PANEL, "DPanel" )
+	vgui.Register( "RayHUD:DPanel", PANEL, "DPanel" )
 else
 	resource.AddWorkshop( "2239141042" )
 end
@@ -58,22 +56,22 @@ local function LoadShared(path)
 	LoadServer(path)
 end
 
-local function LoadFlatHUD()
-	LoadShared("flathud/shared")
-	LoadShared("flathud/shared/lang")
+local function LoadRayHUD()
+	LoadShared("rayhud/shared")
+	LoadShared("rayhud/shared/lang")
 
-	LoadServer("flathud/server")
+	LoadServer("rayhud/server")
 
-	LoadClient("flathud/client/vgui")
-	LoadClient("flathud/client")
+	LoadClient("rayhud/client/vgui")
+	LoadClient("rayhud/client")
 end
 
-hook.Add(CLIENT and "InitPostEntity" or "OnGamemodeLoaded", "FlatHUD:LoadAddon", function()
-	LoadFlatHUD()
+hook.Add(CLIENT and "InitPostEntity" or "OnGamemodeLoaded", "RayHUD:LoadAddon", function()
+	LoadRayHUD()
 end)
 
 if GAMEMODE then
-	LoadFlatHUD()
+	LoadRayHUD()
 end
 
 local HideHUD = {
@@ -100,6 +98,6 @@ local HideHUD = {
 	["VCMod_Name"] = true,
 }
 
-hook.Add("HUDShouldDraw", "FlatHUD:HideHUD", function( name )
+hook.Add("HUDShouldDraw", "RayHUD:HideHUD", function( name )
 	if HideHUD[name] then return false end
 end)

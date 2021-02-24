@@ -1,21 +1,21 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
 local HeightTbl = {}
 local PanelsTbl = {}
 
-local width = 410 * FlatHUD.Scale
+local width = 410 * RayHUD.Scale
 
-local x = 12 * FlatHUD.Scale
+local x = 12 * RayHUD.Scale
 local y = x
 
 local ply = LocalPlayer()
 
-CreateClientConVar("flathud_laws_mode", FlatHUD.Cfg.LawsPanel, true, false)
-CreateClientConVar("flathud_wantedlist_mode", FlatHUD.Cfg.WantedList, true, false)
+CreateClientConVar("rayhud_laws_mode", RayHUD.Cfg.LawsPanel, true, false)
+CreateClientConVar("rayhud_wantedlist_mode", RayHUD.Cfg.WantedList, true, false)
 
-FlatHUD.LawsPanel = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.LawsPanel or GetConVar( "flathud_laws_mode" ):GetInt())
-FlatHUD.WantedList = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.WantedList or GetConVar( "flathud_wantedlist_mode" ):GetInt())
+RayHUD.LawsPanel = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.LawsPanel or GetConVar( "rayhud_laws_mode" ):GetInt())
+RayHUD.WantedList = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.WantedList or GetConVar( "rayhud_wantedlist_mode" ):GetInt())
 
 local TopRightPanels = {
 	{
@@ -25,13 +25,13 @@ local TopRightPanels = {
 		Show = function() return ply:getAgendaTable() and ply:getDarkRPVar("agenda") and ply:getDarkRPVar("agenda") != "" end
 	},
 	{
-		Name = function() return FlatHUD.GetPhrase("lockdown") end,
+		Name = function() return RayHUD.GetPhrase("lockdown") end,
 		Icon = FlatUI.Icons.House,
-		Text = function() return FlatHUD.GetPhrase("lockdown_init") end,
+		Text = function() return RayHUD.GetPhrase("lockdown_init") end,
 		Show = function() return GetGlobalBool("DarkRP_LockDown") end
 	},
 	{
-		Name = function() return FlatHUD.GetPhrase("laws") end,
+		Name = function() return RayHUD.GetPhrase("laws") end,
 		Icon = FlatUI.Icons.Law,
 		Text = function()
 			local laws = ""
@@ -47,7 +47,7 @@ local TopRightPanels = {
 			return laws
 		end,
 		Show = function()
-			return (DarkRP.getLaws() and DarkRP.getLaws() != "") and (FlatHUD.LawsPanel == 1 or (FlatHUD.LawsPanel == 2 and ply:KeyDown( IN_SCORE )))
+			return (DarkRP.getLaws() and DarkRP.getLaws() != "") and (RayHUD.LawsPanel == 1 or (RayHUD.LawsPanel == 2 and ply:KeyDown( IN_SCORE )))
 		end
 	},
 	{
@@ -68,7 +68,7 @@ local TopRightPanels = {
 		Show = function()
 			for k, v in ipairs(player.GetAll()) do
 				if v:getDarkRPVar("wanted") == true then
-					return (FlatHUD.WantedList == 1 or (FlatHUD.WantedList == 2 and ply:KeyDown( IN_SCORE )))
+					return (RayHUD.WantedList == 1 or (RayHUD.WantedList == 2 and ply:KeyDown( IN_SCORE )))
 				end
 			end
 		end
@@ -79,7 +79,7 @@ local function UpdatePos(SetSize)
 	timer.Simple(0, function()
 		for k, v in ipairs(PanelsTbl) do
 
-			if !SetSize then v:SizeTo(width, 55 * FlatHUD.Scale + v:GetChild(0):GetTall(), 0.25) end
+			if !SetSize then v:SizeTo(width, 55 * RayHUD.Scale + v:GetChild(0):GetTall(), 0.25) end
 
 			if HeightTbl[k] then table.remove( HeightTbl, k ) end
 
@@ -91,9 +91,9 @@ local function UpdatePos(SetSize)
 				end
 			else
 				if !HeightTbl[k - 1] then
-					table.insert( HeightTbl, k, 55 * FlatHUD.Scale + v:GetChild(0):GetTall() + y )
+					table.insert( HeightTbl, k, 55 * RayHUD.Scale + v:GetChild(0):GetTall() + y )
 				else
-					table.insert( HeightTbl, k, (55 * FlatHUD.Scale + v:GetChild(0):GetTall()) +  HeightTbl[k - 1] + y )
+					table.insert( HeightTbl, k, (55 * RayHUD.Scale + v:GetChild(0):GetTall()) +  HeightTbl[k - 1] + y )
 				end
 			end
 
@@ -106,7 +106,7 @@ for i = 1, #TopRightPanels do
 
 	local ActivePanel = TopRightPanels[i]
 
-	local Panel = vgui.Create("FlatHUD:DPanel")
+	local Panel = vgui.Create("RayHUD:DPanel")
 	Panel:SetPos(ScrW() - width - x, y )
 	Panel:ParentToHUD()
 	Panel:SetAlpha(0)
@@ -116,17 +116,17 @@ for i = 1, #TopRightPanels do
 	end
 
 	local TextPanel = vgui.Create("DLabel", Panel)
-	TextPanel:SetFont("FlatHUD:TopRight")
+	TextPanel:SetFont("RayHUD:TopRight")
 	TextPanel:SetText(DarkRP.deLocalise(ActivePanel.Text()))
-	TextPanel:SetPos(10 * FlatHUD.Scale, 48 * FlatHUD.Scale)
-	TextPanel:SetWide(width - 20 * FlatHUD.Scale)
+	TextPanel:SetPos(10 * RayHUD.Scale, 48 * RayHUD.Scale)
+	TextPanel:SetWide(width - 20 * RayHUD.Scale)
 	TextPanel:SetAutoStretchVertical( true )
 	TextPanel:SetWrap(true)
 
-	timer.Simple(0, function() if !Panel:IsValid() then return end; Panel:SetSize( width, 55 * FlatHUD.Scale + TextPanel:GetTall() ) end)
+	timer.Simple(0, function() if !Panel:IsValid() then return end; Panel:SetSize( width, 55 * RayHUD.Scale + TextPanel:GetTall() ) end)
 	table.insert( PanelsTbl, i, Panel )
 
-	timer.Create("FlatHUD:UpdateTopRight_" .. i, 1, 0, function()
+	timer.Create("RayHUD:UpdateTopRight_" .. i, 1, 0, function()
 		local Text = ActivePanel.Text()
 			
 		if TextPanel:GetText() != Text then
@@ -139,7 +139,7 @@ for i = 1, #TopRightPanels do
 			if Panel:IsVisible() then return end
 
 			Panel:SetVisible(true)
-			Panel:SizeTo(-1, Panel:GetChildren()[1]:GetTall() + 55 * FlatHUD.Scale, 0.25, 0, -1)
+			Panel:SizeTo(-1, Panel:GetChildren()[1]:GetTall() + 55 * RayHUD.Scale, 0.25, 0, -1)
 			Panel:AlphaTo(255, 0.25)
 			UpdatePos()
 		else

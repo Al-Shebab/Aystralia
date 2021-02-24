@@ -1,5 +1,5 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
 local ply = LocalPlayer()
 
@@ -22,11 +22,11 @@ local function ShowPopup( Clr, Title, Message, Important )
 		popupQueue[1] = nil
 		popupQueue = table.ClearKeys(popupQueue)
 
-		surface.SetFont("FlatHUD.Main:Medium")
+		surface.SetFont("RayHUD.Main:Medium")
 		local PanelWidth = select(1, surface.GetTextSize(curPopup.Message))
 		PanelWidth = math.Clamp( PanelWidth, 0, ScrW() / 4 )
 
-		local PopupPanel = vgui.Create("FlatHUD:DPanel")
+		local PopupPanel = vgui.Create("RayHUD:DPanel")
 		PopupPanel:SetAlpha(0)
 		PopupPanel:AlphaTo(255, 0.5)
 		PopupPanel:SetSize(0, 0)
@@ -42,16 +42,16 @@ local function ShowPopup( Clr, Title, Message, Important )
 		activePopup = PopupPanel
 
 		local PopupLabel = vgui.Create("DLabel", PopupPanel)
-		PopupLabel:SetPos(12, 48 * FlatHUD.Scale)
-		PopupLabel:SetFont("FlatHUD.Main:Medium")
+		PopupLabel:SetPos(12, 48 * RayHUD.Scale)
+		PopupLabel:SetFont("RayHUD.Main:Medium")
 		PopupLabel:SetText(DarkRP.deLocalise(curPopup.Message))
 		PopupLabel:SetWide(PanelWidth)
 		PopupLabel:SetAutoStretchVertical( true )
 		PopupLabel:SetWrap(true)
 
 		timer.Simple(0.01, function()
-			PopupPanel:SetTall(55 * FlatHUD.Scale + PopupLabel:GetTall())
-			PopupPanel:SizeTo(PopupLabel:GetWide() + 24 * FlatHUD.Scale, -1, 0.5)
+			PopupPanel:SetTall(55 * RayHUD.Scale + PopupLabel:GetTall())
+			PopupPanel:SizeTo(PopupLabel:GetWide() + 24 * RayHUD.Scale, -1, 0.5)
 		end)
 
 		timer.Simple(6,function(  )
@@ -71,7 +71,7 @@ local function ShowPopup( Clr, Title, Message, Important )
 	end
 end
 
-net.Receive("FlatHUD:SendHUDPopup",function(  )
+net.Receive("RayHUD:SendHUDPopup",function(  )
 	ShowPopup(net.ReadColor(), net.ReadString(), net.ReadString(), net.ReadBool())
 end)
 
@@ -87,37 +87,37 @@ local curVote
 local function startVote( id, question, time, isVote )
 	local queue
 
-	local QueuePanel = vgui.Create("FlatHUD:DPanel")
-	QueuePanel:SetSize(290 * FlatHUD.Scale, 180 * FlatHUD.Scale)
-	QueuePanel:SetPos(12 * FlatHUD.Scale, ScrH() / 2 - (180 * FlatHUD.Scale) / 2 - 180 * FlatHUD.Scale)
+	local QueuePanel = vgui.Create("RayHUD:DPanel")
+	QueuePanel:SetSize(290 * RayHUD.Scale, 180 * RayHUD.Scale)
+	QueuePanel:SetPos(12 * RayHUD.Scale, ScrH() / 2 - (180 * RayHUD.Scale) / 2 - 180 * RayHUD.Scale)
 	QueuePanel.Paint = function (self, w, h)
 		draw.RoundedBox(8, 0, 0, w, h, FlatUI.Colors.DarkGray3)
 
 		local text123 = "There are " .. #voteQueue .. " votes in queue"
-		surface.SetFont("FlatHUD.Main:Small")
+		surface.SetFont("RayHUD.Main:Small")
 		local textw, texth = select(1, surface.GetTextSize( text123 ))
 
-	draw.SimpleText(text123, "FlatHUD.Main:Small",  w / 2 - textw / 2, h - (80 * FlatHUD.Scale / 2 - texth / 2), color_white)
+	draw.SimpleText(text123, "RayHUD.Main:Small",  w / 2 - textw / 2, h - (80 * RayHUD.Scale / 2 - texth / 2), color_white)
 	end
 	QueuePanel.Think = function (self, w, h)
 		if #voteQueue > 0 and !queue then
-			self:SetSize(290 * FlatHUD.Scale, 220 * FlatHUD.Scale)
+			self:SetSize(290 * RayHUD.Scale, 220 * RayHUD.Scale)
 			queue = true
 		end
 	end
 
-	local Window = vgui.Create("FlatHUD:DPanel", QueuePanel)
-	Window:SetSize(290 * FlatHUD.Scale, 180 * FlatHUD.Scale)
+	local Window = vgui.Create("RayHUD:DPanel", QueuePanel)
+	Window:SetSize(290 * RayHUD.Scale, 180 * RayHUD.Scale)
 	Window:SetPos(0, 0)
 	Window.Paint = function (self, w, h)
 		FlatUI.DrawMaterialBox("Job Voting", 0, 0, w, h, FlatUI.Icons.Vote)
 	end
 
 	local VoteText = vgui.Create("DLabel", Window)
-	VoteText:SetFont("FlatHUD:TopRight")
+	VoteText:SetFont("RayHUD:TopRight")
 	VoteText:SetText(string.Replace( DarkRP.deLocalise(question), "\n", " " ))
-	VoteText:SetPos(10 * FlatHUD.Scale, 47 * FlatHUD.Scale)
-	VoteText:SetWide(280 * FlatHUD.Scale)
+	VoteText:SetPos(10 * RayHUD.Scale, 47 * RayHUD.Scale)
+	VoteText:SetWide(280 * RayHUD.Scale)
 	VoteText:SetAutoStretchVertical( true )
 	VoteText:SetWrap(true)
 
@@ -125,9 +125,9 @@ local function startVote( id, question, time, isVote )
 		local Button = FlatUI.CreateFlatButton(Window, i == 1 and "Yes" or "No", FlatUI.Colors.Gray2, i == 1 and FlatUI.Colors.Green or FlatUI.Colors.HP, function()
 			Main:Remove()
 		end)
-		Button:SetSize(120 * FlatHUD.Scale, 30 * FlatHUD.Scale)
-		Button:SetPos(i == 1 and 12 * FlatHUD.Scale or (290 - 120 - 12) * FlatHUD.Scale, Window:GetTall() - 12 - 30 * FlatHUD.Scale)
-		Button:SetFont("FlatHUD.Main:Small")
+		Button:SetSize(120 * RayHUD.Scale, 30 * RayHUD.Scale)
+		Button:SetPos(i == 1 and 12 * RayHUD.Scale or (290 - 120 - 12) * RayHUD.Scale, Window:GetTall() - 12 - 30 * RayHUD.Scale)
+		Button:SetFont("RayHUD.Main:Small")
 		Button.DoClick = function()
 			QueuePanel:Remove()
 
@@ -142,9 +142,9 @@ local function startVote( id, question, time, isVote )
 	local voteStarted = CurTime()
 
 	local TimerText = vgui.Create("DLabel", Window)
-	TimerText:SetFont("FlatHUD.Main:Small")
+	TimerText:SetFont("RayHUD.Main:Small")
 	TimerText:SizeToContents()
-	TimerText:SetPos(Window:GetWide() / 2 - TimerText:GetWide() / 2, Window:GetTall() - 66 * FlatHUD.Scale)
+	TimerText:SetPos(Window:GetWide() / 2 - TimerText:GetWide() / 2, Window:GetTall() - 66 * RayHUD.Scale)
 	TimerText.Think = function()
 		if !time then return end
 
@@ -153,7 +153,7 @@ local function startVote( id, question, time, isVote )
 		if TimerText:GetValue() != tostring(calcTime) then
 			TimerText:SetText("Vote expires in " .. calcTime .. " seconds")
 			TimerText:SizeToContents()
-			TimerText:SetPos(Window:GetWide() / 2 - TimerText:GetWide() / 2, Window:GetTall() - 66 * FlatHUD.Scale)
+			TimerText:SetPos(Window:GetWide() / 2 - TimerText:GetWide() / 2, Window:GetTall() - 66 * RayHUD.Scale)
 		end
 	end
 
@@ -182,9 +182,9 @@ local function startVote( id, question, time, isVote )
 	end
 end
 -- 76561198166995699
-net.Receive("FlatHUD:DarkRP_Vote",function()
+net.Receive("RayHUD:DarkRP_Vote",function()
 	if visibility == false then
-		notification.AddLegacy(FlatHUD.GetPhrase("VOTE_PENDING"),NOTIFY_HINT,5)
+		notification.AddLegacy(RayHUD.GetPhrase("VOTE_PENDING"),NOTIFY_HINT,5)
 	end
 
 	local id = net.ReadUInt(10)

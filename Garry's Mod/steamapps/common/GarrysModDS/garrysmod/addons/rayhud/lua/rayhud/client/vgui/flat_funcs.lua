@@ -1,5 +1,5 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
 --if (FlatUI != nil) then return end
 
@@ -113,18 +113,18 @@ FlatUI.Colors = {
 	DetectiveCol = Color(25, 118, 210),
 }
 
-CreateClientConVar("flatui_col_r", FlatHUD.Cfg.CustomColor.r, true, false)
-CreateClientConVar("flatui_col_g", FlatHUD.Cfg.CustomColor.g, true, false)
-CreateClientConVar("flatui_col_b",FlatHUD.Cfg.CustomColor.b, true, false)
+CreateClientConVar("flatui_col_r", RayHUD.Cfg.CustomColor.r, true, false)
+CreateClientConVar("flatui_col_g", RayHUD.Cfg.CustomColor.g, true, false)
+CreateClientConVar("flatui_col_b",RayHUD.Cfg.CustomColor.b, true, false)
 
-FlatHUD.ColorR = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.CustomColor.r or GetConVar( "flatui_col_r" ):GetInt())
-FlatHUD.ColorG = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.CustomColor.g or GetConVar( "flatui_col_g" ):GetInt())
-FlatHUD.ColorB = (!FlatHUD.Cfg.EditableForPlayers and FlatHUD.Cfg.CustomColor.b or GetConVar( "flatui_col_b" ):GetInt())
+RayHUD.ColorR = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.CustomColor.r or GetConVar( "flatui_col_r" ):GetInt())
+RayHUD.ColorG = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.CustomColor.g or GetConVar( "flatui_col_g" ):GetInt())
+RayHUD.ColorB = (!RayHUD.Cfg.EditableForPlayers and RayHUD.Cfg.CustomColor.b or GetConVar( "flatui_col_b" ):GetInt())
 
 function FlatUI.GetPlayerCol()
 	local PlyCol
 
-	if FlatHUD.TeamCol == 1 then
+	if RayHUD.TeamCol == 1 then
 		if engine.ActiveGamemode() == "terrortown" then
 			if SpecDM and ply:IsGhost() or GAMEMODE.round_state != ROUND_ACTIVE then
 				PlyCol = FlatUI.Colors.Gray3
@@ -139,7 +139,7 @@ function FlatUI.GetPlayerCol()
 			PlyCol = team.GetColor( ply:Team() )
 		end
 	else
-		PlyCol = Color(FlatHUD.ColorR, FlatHUD.ColorG, FlatHUD.ColorB)
+		PlyCol = Color(RayHUD.ColorR, RayHUD.ColorG, RayHUD.ColorB)
 	end
 
 	return PlyCol
@@ -150,14 +150,14 @@ function FlatUI.DrawMaterialBox(text, x, y, w, h, col, icon)
 	local color = IsColor( col ) and col or FlatUI.GetPlayerCol()
 	if col and !IsColor( col ) then Icon = col end
 
-	draw.RoundedBox(FlatHUD.Rounding, x, y, w, h, Color(FlatUI.Colors.Gray.r, FlatUI.Colors.Gray.g, FlatUI.Colors.Gray.b, FlatHUD.Opacity)) -- Main Panel
-	draw.RoundedBoxEx(FlatHUD.Rounding, x, y, w, 41 * FlatHUD.Scale, color, true, true, false, false) -- Upper Bar
+	draw.RoundedBox(RayHUD.Rounding, x, y, w, h, Color(FlatUI.Colors.Gray.r, FlatUI.Colors.Gray.g, FlatUI.Colors.Gray.b, RayHUD.Opacity)) -- Main Panel
+	draw.RoundedBoxEx(RayHUD.Rounding, x, y, w, 41 * RayHUD.Scale, color, true, true, false, false) -- Upper Bar
 
 	surface.SetMaterial( Icon )
 	surface.SetDrawColor( FlatUI.Colors.White )
-	surface.DrawTexturedRect(x + 8 * FlatHUD.Scale, y + 4 * FlatHUD.Scale, 33 * FlatHUD.Scale, 33 * FlatHUD.Scale)
+	surface.DrawTexturedRect(x + 8 * RayHUD.Scale, y + 4 * RayHUD.Scale, 33 * RayHUD.Scale, 33 * RayHUD.Scale)
 
-	draw.SimpleText( text, "FlatHUD.Main:Big", x + 48 * FlatHUD.Scale, y + 6 * FlatHUD.Scale, FlatUI.Colors.White )
+	draw.SimpleText( text, "RayHUD.Main:Big", x + 48 * RayHUD.Scale, y + 6 * RayHUD.Scale, FlatUI.Colors.White )
 end
 
 local blur = Material("pp/blurscreen")
@@ -168,7 +168,7 @@ function FlatUI.DrawBlur(panel, amount)
 	surface.SetDrawColor(255, 255, 255)
 	surface.SetMaterial(blur)
 	for i = 1, 3 do
-		blur:SetFloat("$blur", (i / 3) * (FlatHUD.Blur and amount or 0))
+		blur:SetFloat("$blur", (i / 3) * (RayHUD.Blur and amount or 0))
 		blur:Recompute()
 		render.UpdateScreenEffectTexture()
 		surface.DrawTexturedRect(x * -1, y * -1, scrW, scrH)
@@ -182,7 +182,7 @@ function FlatUI.CreateBar(x, y, w, h, BackgroundCol, TopCol, func, text, icon)
 	if icon then
 		surface.SetMaterial( icon )
 		surface.SetDrawColor( TopCol )
-		surface.DrawTexturedRect((x - 32) * FlatHUD.Scale, (y - 10) * FlatHUD.Scale, 27 * FlatHUD.Scale, 27 * FlatHUD.Scale)
+		surface.DrawTexturedRect((x - 32) * RayHUD.Scale, (y - 10) * RayHUD.Scale, 27 * RayHUD.Scale, 27 * RayHUD.Scale)
 	end
 
 	local FillWidth = BarWidth * func
@@ -191,13 +191,13 @@ function FlatUI.CreateBar(x, y, w, h, BackgroundCol, TopCol, func, text, icon)
 		FillWidth = 0
 	end
 
-	surface.SetFont( "FlatHUD.Main:Small" )
+	surface.SetFont( "RayHUD.Main:Small" )
 	local TextW = select( 1, surface.GetTextSize( text ) )
 
-	draw.RoundedBox( math.Clamp(FlatHUD.Rounding / 2, 0, 10), x * FlatHUD.Scale, y * FlatHUD.Scale, BarWidth, BarHeight * FlatHUD.Scale, BackgroundCol ) -- Background
-	draw.RoundedBox( math.Clamp(FlatHUD.Rounding / 2, 0, 10), x * FlatHUD.Scale, y * FlatHUD.Scale, FillWidth, BarHeight * FlatHUD.Scale, TopCol ) -- Fill	
+	draw.RoundedBox( math.Clamp(RayHUD.Rounding / 2, 0, 10), x * RayHUD.Scale, y * RayHUD.Scale, BarWidth, BarHeight * RayHUD.Scale, BackgroundCol ) -- Background
+	draw.RoundedBox( math.Clamp(RayHUD.Rounding / 2, 0, 10), x * RayHUD.Scale, y * RayHUD.Scale, FillWidth, BarHeight * RayHUD.Scale, TopCol ) -- Fill	
 
-	draw.SimpleText( text, "FlatHUD.Main:Small", x * FlatHUD.Scale + BarWidth / 2 - TextW / 2, (y - 18) * FlatHUD.Scale, FlatUI.Colors.White )
+	draw.SimpleText( text, "RayHUD.Main:Small", x * RayHUD.Scale + BarWidth / 2 - TextW / 2, (y - 18) * RayHUD.Scale, FlatUI.Colors.White )
 end
 
 function FlatUI.MakeLabel(text, font, color, parent)
@@ -212,7 +212,7 @@ end
 
 function FlatUI.MakePanel(w, h, header, sidebar)
 	local Main = vgui.Create("EditablePanel")
-	Main:SetSize(w * FlatHUD.Scale, h * FlatHUD.Scale)
+	Main:SetSize(w * RayHUD.Scale, h * RayHUD.Scale)
 	Main:Center()
 	Main:SetVisible(true)
 	Main:MakePopup()
@@ -220,38 +220,38 @@ function FlatUI.MakePanel(w, h, header, sidebar)
 	Main:MoveToFront()
 	Main:SetDrawOnTop(true)
 	Main.Paint = function(self, w, h)
-		if GetConVar( "flathud_blur" ):GetBool() then FlatUI.DrawBlur(self, 6) end
+		if GetConVar( "rayhud_blur" ):GetBool() then FlatUI.DrawBlur(self, 6) end
 		FlatUI.DrawMaterialBox(header, 0, 0, w, h)
 	end
-	Main:DockPadding( 0, 41 * FlatHUD.Scale, 0, 0 )
+	Main:DockPadding( 0, 41 * RayHUD.Scale, 0, 0 )
 
 	local CloseBut = vgui.Create("DButton", Main)
 	CloseBut:SetText( "" )
-	CloseBut:SetSize(41 * FlatHUD.Scale, 41 * FlatHUD.Scale)
-	CloseBut:SetPos((550 - 41) * FlatHUD.Scale, 0)
-	CloseBut:DockMargin(0, 0, 10 * FlatHUD.Scale, 0)
+	CloseBut:SetSize(41 * RayHUD.Scale, 41 * RayHUD.Scale)
+	CloseBut:SetPos((550 - 41) * RayHUD.Scale, 0)
+	CloseBut:DockMargin(0, 0, 10 * RayHUD.Scale, 0)
 	CloseBut.DoClick = function()
 		Main:Remove()
 	end
 	CloseBut.Paint = function( self, w, h )
 		surface.SetMaterial( FlatUI.Icons.Close )
 		surface.SetDrawColor( FlatUI.Colors.White )
-		surface.DrawTexturedRect(8 * FlatHUD.Scale, 8 * FlatHUD.Scale, 24 * FlatHUD.Scale, 24 * FlatHUD.Scale)
+		surface.DrawTexturedRect(8 * RayHUD.Scale, 8 * RayHUD.Scale, 24 * RayHUD.Scale, 24 * RayHUD.Scale)
 	end
 
 	if sidebar then
 		local LeftPanelBut = vgui.Create("DButton", Main)
 		LeftPanelBut:SetText("")
-		LeftPanelBut:SetSize(41 * FlatHUD.Scale, 52 * FlatHUD.Scale)
+		LeftPanelBut:SetSize(41 * RayHUD.Scale, 52 * RayHUD.Scale)
 		LeftPanelBut:SetPos(0, 0)
 		LeftPanelBut.Paint = function() end
 
 		local SideBar = vgui.Create("DPanel", Main)
 		SideBar:Dock(LEFT)
-		SideBar:SetWide(44 * FlatHUD.Scale)
+		SideBar:SetWide(44 * RayHUD.Scale)
 		SideBar.Paint = function( self, w, h )
 
-			draw.RoundedBoxEx(FlatHUD.Rounding, 0, 0, w, h, FlatUI.Colors.DarkGray3, false, false, true, false)
+			draw.RoundedBoxEx(RayHUD.Rounding, 0, 0, w, h, FlatUI.Colors.DarkGray3, false, false, true, false)
 		end
 	end
 
@@ -261,8 +261,8 @@ end
 function FlatUI.MakeSlider(parent, convar, text, min, max, dec)
 	local Main = vgui.Create("DPanel", parent)
 	Main:Dock(TOP)
-	Main:DockMargin(12 * FlatHUD.Scale, 6 * FlatHUD.Scale, 12 * FlatHUD.Scale, 0)
-	Main:SetTall(40 * FlatHUD.Scale)
+	Main:DockMargin(12 * RayHUD.Scale, 6 * RayHUD.Scale, 12 * RayHUD.Scale, 0)
+	Main:SetTall(40 * RayHUD.Scale)
 	Main.Paint = function( s, w, h )
 		draw.RoundedBox(8, 0, 0, w, h, FlatUI.Colors.DarkGray3)
 	end
@@ -275,33 +275,33 @@ function FlatUI.MakeSlider(parent, convar, text, min, max, dec)
 	Slider:SetDecimals( dec )
 	Slider:SetConVar( convar )
 
-	Slider.TextArea:SetFont("FlatHUD.Settings:Small")
+	Slider.TextArea:SetFont("RayHUD.Settings:Small")
 	Slider.TextArea:SetTextColor(FlatUI.Colors.White)
 
-	Slider.Label:SetFont("FlatHUD.Settings:Small")
+	Slider.Label:SetFont("RayHUD.Settings:Small")
 	Slider.Label:SetTextColor(FlatUI.Colors.White)
 	Slider.Label:DockMargin(12, 0, 0, 0)
 
-	Slider.Slider.Knob:SetSize(14 * FlatHUD.Scale, 14 * FlatHUD.Scale)
+	Slider.Slider.Knob:SetSize(14 * RayHUD.Scale, 14 * RayHUD.Scale)
 	Slider.Slider.Knob.Paint = function( self, w, h )
 		if self:IsHovered() then
-			draw.RoundedBox(11 * FlatHUD.Scale, w / 2 - (22 * FlatHUD.Scale) / 2, h / 2 - (22 * FlatHUD.Scale) / 2 + (1 * FlatHUD.Scale), 22 * FlatHUD.Scale, 22 * FlatHUD.Scale, FlatUI.Colors.SliderAlpha)
+			draw.RoundedBox(11 * RayHUD.Scale, w / 2 - (22 * RayHUD.Scale) / 2, h / 2 - (22 * RayHUD.Scale) / 2 + (1 * RayHUD.Scale), 22 * RayHUD.Scale, 22 * RayHUD.Scale, FlatUI.Colors.SliderAlpha)
 		end
 
-		draw.RoundedBox(7 * FlatHUD.Scale, w / 2 - (14 * FlatHUD.Scale) / 2, h / 2 - (14 * FlatHUD.Scale) / 2 + (1 * FlatHUD.Scale), w, h, FlatUI.Colors.SliderCol)
+		draw.RoundedBox(7 * RayHUD.Scale, w / 2 - (14 * RayHUD.Scale) / 2, h / 2 - (14 * RayHUD.Scale) / 2 + (1 * RayHUD.Scale), w, h, FlatUI.Colors.SliderCol)
 	end
 
 	Slider.Slider.Paint = function(self, w, h)
-		draw.RoundedBox(0, 8, h / 2, select(1, Slider.Slider.Knob:GetPos()), 2 * FlatHUD.Scale, FlatUI.Colors.SliderCol)
-		draw.RoundedBox(0, select(1, Slider.Slider.Knob:GetPos()), h / 2, w - 13 - select(1, Slider.Slider.Knob:GetPos()), 2 * FlatHUD.Scale, FlatUI.Colors.LightGray)
+		draw.RoundedBox(0, 8, h / 2, select(1, Slider.Slider.Knob:GetPos()), 2 * RayHUD.Scale, FlatUI.Colors.SliderCol)
+		draw.RoundedBox(0, select(1, Slider.Slider.Knob:GetPos()), h / 2, w - 13 - select(1, Slider.Slider.Knob:GetPos()), 2 * RayHUD.Scale, FlatUI.Colors.LightGray)
 	end
 end
 
 function FlatUI.MakeCheckbox(parent, convar, text)
 	local Main = vgui.Create("DPanel", parent)
 	Main:Dock(TOP)
-	Main:DockMargin(12 * FlatHUD.Scale, 6 * FlatHUD.Scale, 12 * FlatHUD.Scale, 0)
-	Main:SetTall(40 * FlatHUD.Scale)
+	Main:DockMargin(12 * RayHUD.Scale, 6 * RayHUD.Scale, 12 * RayHUD.Scale, 0)
+	Main:SetTall(40 * RayHUD.Scale)
 	Main.Paint = function( s, w, h )
 		draw.RoundedBox(8, 0, 0, w, h, FlatUI.Colors.DarkGray3)
 	end
@@ -309,27 +309,27 @@ function FlatUI.MakeCheckbox(parent, convar, text)
 	local CheckBoxCol = FlatUI.Colors.Green
 
 	local CheckBox = vgui.Create("DCheckBox", Main)
-	CheckBox:SetSize(20 * FlatHUD.Scale, 20 * FlatHUD.Scale)
-	CheckBox:SetPos(12 * FlatHUD.Scale, (40 * FlatHUD.Scale) / 2 - (20 * FlatHUD.Scale) / 2)
+	CheckBox:SetSize(20 * RayHUD.Scale, 20 * RayHUD.Scale)
+	CheckBox:SetPos(12 * RayHUD.Scale, (40 * RayHUD.Scale) / 2 - (20 * RayHUD.Scale) / 2)
 	CheckBox:SetConVar(convar)
 	CheckBox.Paint = function( self, w, h )
 		draw.RoundedBox(5, 0, 0, w, h, CheckBoxCol)
 		draw.RoundedBox(1, 4, 4, w - 8, h - 8, FlatUI.Colors.Gray)
 
 		if CheckBox:GetChecked() then
-			surface.SetFont("FlatHUD.Settings:Small")
+			surface.SetFont("RayHUD.Settings:Small")
 
 			draw.RoundedBox(5, 0, 0, w, h, CheckBoxCol)
-			draw.SimpleText( "✓", "FlatHUD.Settings:Small", w / 2 - select(1, surface.GetTextSize( "✓" )) / 2, h / 2 - select(2, surface.GetTextSize( "✓" )) / 2, color_white )
+			draw.SimpleText( "✓", "RayHUD.Settings:Small", w / 2 - select(1, surface.GetTextSize( "✓" )) / 2, h / 2 - select(2, surface.GetTextSize( "✓" )) / 2, color_white )
 		end
 	end
 
 	local CheckBoxLabel = vgui.Create("DLabel", Main)
 	CheckBoxLabel:SetText(text)
-	CheckBoxLabel:SetFont("FlatHUD.Settings:Small")
+	CheckBoxLabel:SetFont("RayHUD.Settings:Small")
 	CheckBoxLabel:SetColor(FlatUI.Colors.White)
 	CheckBoxLabel:SizeToContents()
-	CheckBoxLabel:SetPos( 42 * FlatHUD.Scale, (42 * FlatHUD.Scale) / 2 - CheckBoxLabel:GetTall() / 2 )
+	CheckBoxLabel:SetPos( 42 * RayHUD.Scale, (42 * RayHUD.Scale) / 2 - CheckBoxLabel:GetTall() / 2 )
 
 	return CheckBox
 end
@@ -337,15 +337,15 @@ end
 function FlatUI.MakeColorPanel(parent, r, g, b)
 	local Main = vgui.Create("DPanel", parent)
 	Main:Dock(TOP)
-	Main:DockMargin(12 * FlatHUD.Scale, 6 * FlatHUD.Scale, 12 * FlatHUD.Scale, 0)
-	Main:SetTall(200 * FlatHUD.Scale)
+	Main:DockMargin(12 * RayHUD.Scale, 6 * RayHUD.Scale, 12 * RayHUD.Scale, 0)
+	Main:SetTall(200 * RayHUD.Scale)
 	Main.Paint = function( s, w, h )
 		draw.RoundedBox(8, 0, 0, w, h, FlatUI.Colors.DarkGray3)
 	end
 
-	local Label = FlatUI.MakeLabel(FlatHUD.GetPhrase("custom_header_color"), "FlatHUD.Settings:Smaller", color_white, Main)
+	local Label = FlatUI.MakeLabel(RayHUD.GetPhrase("custom_header_color"), "RayHUD.Settings:Smaller", color_white, Main)
 	Label:Dock(TOP)
-	Label:DockMargin(12 * FlatHUD.Scale, 10 * FlatHUD.Scale, 0, 0)
+	Label:DockMargin(12 * RayHUD.Scale, 10 * RayHUD.Scale, 0, 0)
 
 	local ColorPanel = vgui.Create("DColorMixer", Main)
 	ColorPanel:Dock(TOP)
@@ -362,13 +362,13 @@ end
 function FlatUI.MakeComboBox(parent, text)
 	local Main = vgui.Create("DPanel", parent)
 	Main:Dock(TOP)
-	Main:DockMargin(12 * FlatHUD.Scale, 6 * FlatHUD.Scale, 12 * FlatHUD.Scale, 0)
-	Main:SetTall(40 * FlatHUD.Scale)
+	Main:DockMargin(12 * RayHUD.Scale, 6 * RayHUD.Scale, 12 * RayHUD.Scale, 0)
+	Main:SetTall(40 * RayHUD.Scale)
 	Main.Paint = function( s, w, h )
 		draw.RoundedBox(8, 0, 0, w, h, FlatUI.Colors.DarkGray3)
 	end
 
-	local Label = FlatUI.MakeLabel(text, "FlatHUD.Settings:Small", color_white, Main)
+	local Label = FlatUI.MakeLabel(text, "RayHUD.Settings:Small", color_white, Main)
 	Label:Dock(LEFT)
 	Label:DockMargin(10, 0, 0, 0)
 
@@ -376,7 +376,7 @@ function FlatUI.MakeComboBox(parent, text)
 	ComboBox:Dock(RIGHT)
 	ComboBox:DockMargin(0, 6, 10, 6)
 	ComboBox:SetWide(160)
-	ComboBox:SetFont("FlatHUD.Settings:Smaller")
+	ComboBox:SetFont("RayHUD.Settings:Smaller")
 	ComboBox:SetTextColor(FlatUI.Colors.White)
 	ComboBox.Paint = function( self, w, h )
 		draw.RoundedBox( 6, 0, 0, w, h, FlatUI.Colors.ComboBox2 )
@@ -396,7 +396,7 @@ function FlatUI.MakeComboBox(parent, text)
 		if !ComboBox.Menu then return end
 
 		for k,v in ipairs(ComboBox.Menu:GetCanvas():GetChildren()) do
-			v:SetFont("FlatHUD.Settings:Smaller")
+			v:SetFont("RayHUD.Settings:Smaller")
 			v:SetTextColor(FlatUI.Colors.White)
 
 			v.Paint = function(self, w, h)
@@ -416,7 +416,7 @@ function FlatUI.CreateFlatButton(parent, text, col, hovercol, callback)
 	local FlatBut = vgui.Create("DButton", parent)
 	FlatBut:SetText(text)
 	FlatBut:SetTextColor(FlatUI.Colors.White)
-	FlatBut:SetFont("FlatHUD.Main:Small")
+	FlatBut:SetFont("RayHUD.Main:Small")
 
 	local FavColorR = col.r
 	local FavColorG = col.g
@@ -442,7 +442,7 @@ function FlatUI.CreateFlatButton(parent, text, col, hovercol, callback)
 			FavColorB = Lerp( FrameTime() * 12, FavColorB, 120 )
 			FavColorA = Lerp( FrameTime() * 12, FavColorA, 255 )
 		end
-		draw.RoundedBox( 8 * FlatHUD.Scale, 0, 0, w, h, Color( FavColorR, FavColorG, FavColorB, FavColorA) )
+		draw.RoundedBox( 8 * RayHUD.Scale, 0, 0, w, h, Color( FavColorR, FavColorG, FavColorB, FavColorA) )
 	end
 	FlatBut:CircleClick(col, 1 )
 	FlatBut.DoClick = function()

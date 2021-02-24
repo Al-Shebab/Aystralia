@@ -1,7 +1,7 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
-local ScreenPos = ScrH() - 300 * FlatHUD.Scale
+local ScreenPos = ScrH() - 300 * RayHUD.Scale
 
 local Colors = {}
 Colors[ NOTIFY_GENERIC ] = FlatUI.Colors.Yellow
@@ -22,10 +22,10 @@ local LoadingIcon = FlatUI.Icons.Loading
 local Notifications = {}
 
 function notification.AddLegacy( text, type, time )
-	surface.SetFont( "FlatHUD:Notification" )
+	surface.SetFont( "RayHUD:Notification" )
 
-	local w = surface.GetTextSize( text ) + 64 * FlatHUD.Scale
-	local h = 43 * FlatHUD.Scale
+	local w = surface.GetTextSize( text ) + 64 * RayHUD.Scale
+	local h = 43 * RayHUD.Scale
 	local x = ScrW()
 	local y = ScreenPos
 
@@ -53,10 +53,10 @@ notification.AddProgress = function( id, text, frac )
 		end
 	end
 
-	surface.SetFont( "FlatHUD:Notification" )
+	surface.SetFont( "RayHUD:Notification" )
 
-	local w = surface.GetTextSize( text ) + 64 * FlatHUD.Scale
-	local h = 43 * FlatHUD.Scale
+	local w = surface.GetTextSize( text ) + 64 * RayHUD.Scale
+	local h = 43 * RayHUD.Scale
 	local x = ScrW()
 	local y = ScreenPos
 
@@ -83,22 +83,22 @@ notification.Kill = function( id )
 end
 
 local function DrawNotification( x, y, w, h, text, icon, col, progress )
-	draw.RoundedBox( 8, x, y, w, h, Color(FlatUI.Colors.DarkGray.r, FlatUI.Colors.Gray.g, FlatUI.Colors.Gray.b, FlatHUD.Opacity))
+	draw.RoundedBox( 8, x, y, w, h, Color(FlatUI.Colors.DarkGray.r, FlatUI.Colors.Gray.g, FlatUI.Colors.Gray.b, RayHUD.Opacity))
 	draw.RoundedBox( 8, x, y, h, h, FlatUI.Colors.DarkGray3)
 
-	draw.SimpleText( text, "FlatHUD:Notification", x + 52 * FlatHUD.Scale, y + h / 2, FlatUI.Colors.White, TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER )
+	draw.SimpleText( text, "RayHUD:Notification", x + 52 * RayHUD.Scale, y + h / 2, FlatUI.Colors.White, TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER )
 
 	surface.SetDrawColor( col )
 	surface.SetMaterial( icon )
 
 	if progress then
-		surface.DrawTexturedRectRotated( x + 21 * FlatHUD.Scale, y + h / 2, 26 * FlatHUD.Scale, 26 * FlatHUD.Scale, -CurTime() * 360 % 360 )
+		surface.DrawTexturedRectRotated( x + 21 * RayHUD.Scale, y + h / 2, 26 * RayHUD.Scale, 26 * RayHUD.Scale, -CurTime() * 360 % 360 )
 	else
-		surface.DrawTexturedRect( x + 8 * FlatHUD.Scale, y + 8 * FlatHUD.Scale, 26 * FlatHUD.Scale, 26 * FlatHUD.Scale )
+		surface.DrawTexturedRect( x + 8 * RayHUD.Scale, y + 8 * RayHUD.Scale, 26 * RayHUD.Scale, 26 * RayHUD.Scale )
 	end
 end
 
-hook.Add( "HUDPaint", "FlatHUD:DrawNotify", function()
+hook.Add( "HUDPaint", "RayHUD:DrawNotify", function()
 	for k, v in ipairs( Notifications ) do
 		DrawNotification( math.floor( v.x ), math.floor( v.y ), v.w, v.h, v.text, v.icon, v.col, v.progress )
 

@@ -1,4 +1,4 @@
-FlatHUD.Lang.polish = {
+RayHUD.Lang.polish = {
 
 --[[------------------------------
     Main Panel
@@ -38,7 +38,7 @@ FlatHUD.Lang.polish = {
 	reset_settings = "Przywróć ustawienia domyślne",
 
 	preview = " - Podgląd",
-	clipboard_info = "Twoje ustawienia FlatHUD zostały skopiowane, teraz wklej je do ",
+	clipboard_info = "Twoje ustawienia RayHUD zostały skopiowane, teraz wklej je do ",
 
 --[[------------------------------
     Events

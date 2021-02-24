@@ -1,4 +1,4 @@
-FlatHUD.Lang.english = {
+RayHUD.Lang.english = {
 
 --[[------------------------------
     Main Panel
@@ -38,7 +38,7 @@ FlatHUD.Lang.english = {
 	reset_settings = "Reset all settings to default",
 
 	preview = " - Preview Only",
-	clipboard_info = "Your FlatHUD settings have been copied to the clipboard, now paste it into ",
+	clipboard_info = "Your RayHUD settings have been copied to the clipboard, now paste it into ",
 
 --[[------------------------------
     Events

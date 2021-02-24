@@ -1,5 +1,5 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
 local cos, sin, rad = math.cos, math.sin, math.rad
 local PANEL = {}

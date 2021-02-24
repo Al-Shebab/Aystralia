@@ -1,5 +1,5 @@
--- FlatHUD Owner: 76561198166995690
--- FlatHUD Version: 1.1.1
+-- RayHUD Owner: 76561198166995690
+-- RayHUD Version: 1.1.3
 
 local ply = LocalPlayer()
 
@@ -19,7 +19,7 @@ hook.Remove("PostPlayerDraw", "DarkRP_ChatIndicator")
 
 local playersToRender = {}
 
-timer.Create("FlatHUD:PlayerOverhead", 0.15, 0, function(  )
+timer.Create("RayHUD:PlayerOverhead", 0.15, 0, function(  )
 	playersToRender = {}
 	local players = player.GetAll()
 
@@ -32,7 +32,7 @@ timer.Create("FlatHUD:PlayerOverhead", 0.15, 0, function(  )
 	end
 end)
 
-hook.Add("PostDrawTranslucentRenderables", "FlatHUD:PostDrawTranslucentRenderables",function(  )
+hook.Add("PostDrawTranslucentRenderables", "RayHUD:PostDrawTranslucentRenderables",function(  )
 	for k,v in ipairs(playersToRender) do
 
 		if !IsValid(v) or !v:Alive() or v:IsDormant() or (v:GetColor().a < 100 or v:GetNoDraw()) then continue end
@@ -52,18 +52,18 @@ hook.Add("PostDrawTranslucentRenderables", "FlatHUD:PostDrawTranslucentRenderabl
 		jobname = v:getDarkRPVar("job") or "Unknown"
 		jobcolor = team.GetColor(v:Team())
 
-		surface.SetFont("FlatHUD.2D3D:Name")
+		surface.SetFont("RayHUD.2D3D:Name")
 		local nameTextWidth = select(1, surface.GetTextSize(name))
 
-		surface.SetFont("FlatHUD.2D3D:Job")
+		surface.SetFont("RayHUD.2D3D:Job")
 		local jobTextWidth = select(1, surface.GetTextSize(jobname))
 
-		cam.Start3D2D(Vector(eyePos.x, eyePos.y, v:GetPos().z) + (inVehicle and Vector(0,0,60) or Vector(0, 0, math.max(eyePos.z - v:GetPos().z + 27 * FlatHUD.Scale, 55))), ply:InVehicle() and Angle(0,ply:GetVehicle():GetAngles().y + eyeAngs.y - 90,90) or Angle(0,eyeAngs.y - 90,90), 0.1)
+		cam.Start3D2D(Vector(eyePos.x, eyePos.y, v:GetPos().z) + (inVehicle and Vector(0,0,60) or Vector(0, 0, math.max(eyePos.z - v:GetPos().z + 27 * RayHUD.Scale, 55))), ply:InVehicle() and Angle(0,ply:GetVehicle():GetAngles().y + eyeAngs.y - 90,90) or Angle(0,eyeAngs.y - 90,90), 0.1)
 			if !inVehicle then
 				local ArmorMargin = -60
 
-				local BarW = 180 * FlatHUD.Scale
-				local BarH = 16 * FlatHUD.Scale
+				local BarW = 180 * RayHUD.Scale
+				local BarH = 16 * RayHUD.Scale
 
 				local ArmorY = 166
 
@@ -73,18 +73,18 @@ hook.Add("PostDrawTranslucentRenderables", "FlatHUD:PostDrawTranslucentRenderabl
 
 					surface.SetMaterial( FlatUI.Icons.Shield )
 					surface.SetDrawColor( FlatUI.Colors.Armor )
-					surface.DrawTexturedRect(-BarW / 2 - 42 * FlatHUD.Scale / 2 - 3 * FlatHUD.Scale, (ArmorY - 12) * FlatHUD.Scale, 42 * FlatHUD.Scale, 42 * FlatHUD.Scale)
+					surface.DrawTexturedRect(-BarW / 2 - 42 * RayHUD.Scale / 2 - 3 * RayHUD.Scale, (ArmorY - 12) * RayHUD.Scale, 42 * RayHUD.Scale, 42 * RayHUD.Scale)
 
-					draw.RoundedBox( 8, (-BarW + 42 * FlatHUD.Scale) / 2, ArmorY * FlatHUD.Scale, BarW, BarH, FlatUI.Colors.LightArmor )
-					draw.RoundedBox( 8, (-BarW + 42 * FlatHUD.Scale) / 2, ArmorY * FlatHUD.Scale, BarW * ArmorVal, BarH, FlatUI.Colors.Armor )
+					draw.RoundedBox( 8, (-BarW + 42 * RayHUD.Scale) / 2, ArmorY * RayHUD.Scale, BarW, BarH, FlatUI.Colors.LightArmor )
+					draw.RoundedBox( 8, (-BarW + 42 * RayHUD.Scale) / 2, ArmorY * RayHUD.Scale, BarW * ArmorVal, BarH, FlatUI.Colors.Armor )
 				end
 
 				surface.SetDrawColor(v:getDarkRPVar("Arrested") == true and FlatUI.Colors.HP or color_white)
 				surface.SetMaterial(v:IsSpeaking() and !v:IsMuted() and FlatUI.Icons.Sound or v:IsTyping() and FlatUI.Icons.Message or (v:getDarkRPVar("wanted") == true or v:getDarkRPVar("Arrested") == true) and FlatUI.Icons.Handcuffs or hasLicense and FlatUI.Icons.Pistol or FlatUI.Icons.User)	
-				surface.DrawTexturedRect(-nameTextWidth / 2 - 64 * FlatHUD.Scale / 2 - 4 * FlatHUD.Scale, -ArmorMargin - 5 * FlatHUD.Scale, 64 * FlatHUD.Scale, 64 * FlatHUD.Scale)
+				surface.DrawTexturedRect(-nameTextWidth / 2 - 64 * RayHUD.Scale / 2 - 4 * RayHUD.Scale, -ArmorMargin - 5 * RayHUD.Scale, 64 * RayHUD.Scale, 64 * RayHUD.Scale)
 
-				draw.SimpleText(name, "FlatHUD.2D3D:Name", -nameTextWidth / 2 + 64 * FlatHUD.Scale / 2 + 4, -ArmorMargin, color_white)
-				draw.SimpleText(jobname , "FlatHUD.2D3D:Job", -jobTextWidth / 2, 60 * FlatHUD.Scale - ArmorMargin, jobcolor)
+				draw.SimpleText(name, "RayHUD.2D3D:Name", -nameTextWidth / 2 + 64 * RayHUD.Scale / 2 + 4, -ArmorMargin, color_white)
+				draw.SimpleText(jobname , "RayHUD.2D3D:Job", -jobTextWidth / 2, 60 * RayHUD.Scale - ArmorMargin, jobcolor)
 
 				local HealthY = 116 - ArmorMargin
 				local hl = math.Clamp(health, 1, maxHealth) / maxHealth
@@ -96,10 +96,10 @@ hook.Add("PostDrawTranslucentRenderables", "FlatHUD:PostDrawTranslucentRenderabl
 
 				surface.SetMaterial( FlatUI.Icons.Heart )
 				surface.SetDrawColor( HPColor )
-				surface.DrawTexturedRect(-BarW / 2 - 42 * FlatHUD.Scale / 2 - 3 * FlatHUD.Scale, (HealthY - 12) * FlatHUD.Scale, 42 * FlatHUD.Scale, 42 * FlatHUD.Scale)
+				surface.DrawTexturedRect(-BarW / 2 - 42 * RayHUD.Scale / 2 - 3 * RayHUD.Scale, (HealthY - 12) * RayHUD.Scale, 42 * RayHUD.Scale, 42 * RayHUD.Scale)
 
-				draw.RoundedBox( 8, (-BarW + 42 * FlatHUD.Scale) / 2, HealthY * FlatHUD.Scale, BarW, BarH, FlatUI.Colors.LightHP )
-				draw.RoundedBox( 8, (-BarW + 42 * FlatHUD.Scale) / 2, HealthY * FlatHUD.Scale, BarW * hl, BarH, HPColor )
+				draw.RoundedBox( 8, (-BarW + 42 * RayHUD.Scale) / 2, HealthY * RayHUD.Scale, BarW, BarH, FlatUI.Colors.LightHP )
+				draw.RoundedBox( 8, (-BarW + 42 * RayHUD.Scale) / 2, HealthY * RayHUD.Scale, BarW * hl, BarH, HPColor )
 			end
 		cam.End3D2D()
 	end
@@ -191,8 +191,8 @@ local function Draw2D3DDoor( door )
 
 		if doorData.groupOwn then
 
-			doorHeader = doorData.title or FlatHUD.GetPhrase("group_door")
-			doorSubHeader = string.Replace(FlatHUD.GetPhrase("group_door_access"), "%G", doorData.groupOwn)
+			doorHeader = doorData.title or RayHUD.GetPhrase("group_door")
+			doorSubHeader = string.Replace(RayHUD.GetPhrase("group_door_access"), "%G", doorData.groupOwn)
 
 		elseif doorData.nonOwnable then
 
@@ -200,8 +200,8 @@ local function Draw2D3DDoor( door )
 
 		elseif doorData.teamOwn then
 
-			doorHeader = doorData.title or FlatHUD.GetPhrase("team_door")
-			doorSubHeader = string.Replace(FlatHUD.GetPhrase("team_door_access"), "%J", table.Count(doorData.teamOwn))
+			doorHeader = doorData.title or RayHUD.GetPhrase("team_door")
+			doorSubHeader = string.Replace(RayHUD.GetPhrase("team_door_access"), "%J", table.Count(doorData.teamOwn))
 
 			for k,_ in ipairs(doorData.teamOwn) do
 				table.insert(extraText, team.GetName(k))
@@ -214,7 +214,7 @@ local function Draw2D3DDoor( door )
 			if IsValid(doorOwner) then
 				doorSubHeader = string.Replace("Owner: %N", "%N", doorOwner:Name())
 			else
-				doorSubHeader = FlatHUD.GetPhrase("owner_unknown")
+				doorSubHeader = RayHUD.GetPhrase("owner_unknown")
 			end
 
 			if doorData.allowedToOwn then
@@ -229,7 +229,7 @@ local function Draw2D3DDoor( door )
 
 				if table.Count(doorData.allowedToOwn) > 0 then
 
-					table.insert(extraText, FlatHUD.GetPhrase("allowed_coowners"))
+					table.insert(extraText, RayHUD.GetPhrase("allowed_coowners"))
 
 					for k,v in ipairs(doorData.allowedToOwn) do
 						table.insert(extraText, v:Name())
@@ -251,7 +251,7 @@ local function Draw2D3DDoor( door )
 				end
 
 				if table.Count(doorData.extraOwners) > 0 then
-					table.insert(extraText, FlatHUD.GetPhrase("door_coowners"))
+					table.insert(extraText, RayHUD.GetPhrase("door_coowners"))
 
 					for k,v in ipairs(doorData.extraOwners) do
 						table.insert(extraText,v:Name())
@@ -260,8 +260,8 @@ local function Draw2D3DDoor( door )
 			end
 		end
 	else
-		doorHeader = FlatHUD.GetPhrase("for_sale")
-		doorSubHeader = FlatHUD.GetPhrase("purchase_door")
+		doorHeader = RayHUD.GetPhrase("for_sale")
+		doorSubHeader = RayHUD.GetPhrase("purchase_door")
 	end
 
 	doorHeader = string.Left(doorHeader, 26)
@@ -269,16 +269,16 @@ local function Draw2D3DDoor( door )
 
 	local function drawDoor( )
 		-- Header
-		draw.SimpleText(doorHeader, "FlatHUD.2D3D:DoorHeader", DoorData.canvasWidth / 2, 0, FlatUI.Colors.White, TEXT_ALIGN_CENTER)
+		draw.SimpleText(doorHeader, "RayHUD.2D3D:DoorHeader", DoorData.canvasWidth / 2, 0, FlatUI.Colors.White, TEXT_ALIGN_CENTER)
 
 		-- Sub-Header
-		draw.SimpleText(doorSubHeader, "FlatHUD.2D3D:DoorSubHeader", DoorData.canvasWidth / 2, 50 * FlatHUD.Scale, FlatUI.Colors.White, TEXT_ALIGN_CENTER)
+		draw.SimpleText(doorSubHeader, "RayHUD.2D3D:DoorSubHeader", DoorData.canvasWidth / 2, 50 * RayHUD.Scale, FlatUI.Colors.White, TEXT_ALIGN_CENTER)
 
 		for i = 1,#extraText do
 			local text = extraText[i]
 
 			-- Additional info
-			draw.SimpleText(text,"FlatHUD.2D3D:DoorSubHeader", DoorData.canvasWidth / 2, 90 * FlatHUD.Scale + i * 20 * FlatHUD.Scale, FlatUI.Colors.White, TEXT_ALIGN_CENTER)
+			draw.SimpleText(text,"RayHUD.2D3D:DoorSubHeader", DoorData.canvasWidth / 2, 90 * RayHUD.Scale + i * 20 * RayHUD.Scale, FlatUI.Colors.White, TEXT_ALIGN_CENTER)
 		end
 	end
 
@@ -293,7 +293,7 @@ local function Draw2D3DDoor( door )
 	cam.End3D()
 end
 
-hook.Add("RenderScreenspaceEffects", "FlatHUD:Draw2D3DDoor",function(  )
+hook.Add("RenderScreenspaceEffects", "RayHUD:Draw2D3DDoor",function(  )
 	local entities = ents.FindInSphere(ply:EyePos(), 280)
 
 	for i = 1,#entities do
