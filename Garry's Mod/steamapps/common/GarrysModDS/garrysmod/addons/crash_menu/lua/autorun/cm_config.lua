@@ -12,14 +12,14 @@ CM.Message = "Looks like the server has crashed or been restarted, auto reconnec
 //What is the estimated time in seconds it takes for the server to restart after a crash?
 CM.ServerRestartTime = 90
 
-CM.BackgroundColor = Color(52, 152, 219)
+CM.BackgroundColor = Color(84, 84, 84)
 
-CM.ButtonColor = Color(236, 240, 241)
-CM.ButtonHoverColor = Color(41, 128, 185)
+CM.ButtonColor = Color(97, 97, 97)
+CM.ButtonHoverColor = Color(135, 135, 135)
 
-CM.TitleTextColor = Color(236, 240, 241)
-CM.MessageTextColor = Color(236, 240, 241)
-CM.ButtonTextColor = Color(52, 152, 219)
+CM.TitleTextColor = Color(255, 255, 255)
+CM.MessageTextColor = Color(89, 227, 255)
+CM.ButtonTextColor = Color(255, 255, 255)
 
 //Server buttons(Limit 3).
 CM.ServerNameButtons = {
