@@ -214,7 +214,6 @@ hook.Add("player_disconnect", "atlaschat.DisconnectMessage", function(data)
 	local filtered = atlaschat.filterJoinDisconnect:GetBool()
 
 	if (!filtered) then
-		chat.AddText(color_white, ":offline: Player ", color_red, data.name, color_grey, " (" .. data.networkid	.. ") ", color_white, "has left the server: " .. data.reason)
 	end
 end)
 
@@ -224,7 +223,6 @@ net.Receive("atlaschat.plcnt", function(bits)
 	local filtered = atlaschat.filterJoinDisconnect:GetBool()
 
 	if (!filtered) then
-		chat.AddText(color_white, ":online: Player ", color_limegreen, name, color_grey, " (" .. steamID .. ") ", color_white, "has joined the game.")
 	end
 end)
 
