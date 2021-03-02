@@ -93,26 +93,26 @@ zrmine.config.BuilderSWEP = {
 
 	// The entity price
 	entity_price = {
-		["zrms_conveyorbelt_n"] = 15,
-		["zrms_conveyorbelt_s"] = 10,
-		["zrms_conveyorbelt_c_left"] = 25,
-		["zrms_conveyorbelt_c_right"] = 25,
+		["zrms_conveyorbelt_n"] = 150,
+		["zrms_conveyorbelt_s"] = 100,
+		["zrms_conveyorbelt_c_left"] = 250,
+		["zrms_conveyorbelt_c_right"] = 250,
 
-		["zrms_crusher"] = 100,
-		["zrms_splitter"] = 150,
-		["zrms_inserter"] = 150,
+		["zrms_crusher"] = 1000,
+		["zrms_splitter"] = 1500,
+		["zrms_inserter"] = 1500,
 
-		["zrms_refiner_coal"] = 150,
-		["zrms_refiner_iron"] = 200,
-		["zrms_refiner_bronze"] = 300,
-		["zrms_refiner_silver"] = 400,
+		["zrms_refiner_coal"] = 1500,
+		["zrms_refiner_iron"] = 2000,
+		["zrms_refiner_bronze"] = 3000,
+		["zrms_refiner_silver"] = 4000,
 		["zrms_refiner_gold"] = 5000,
 
-		["zrms_sorter_coal"] = 150,
-		["zrms_sorter_iron"] = 200,
-		["zrms_sorter_bronze"] = 300,
-		["zrms_sorter_silver"] = 400,
-		["zrms_sorter_gold"] = 500
+		["zrms_sorter_coal"] = 1500,
+		["zrms_sorter_iron"] = 2000,
+		["zrms_sorter_bronze"] = 3000,
+		["zrms_sorter_silver"] = 4000,
+		["zrms_sorter_gold"] = 5000
 	},
 
 	// How many entites is the player allowed to spawn/buy
@@ -243,10 +243,10 @@ local Bronze_1kg = 700 //$
 local Iron_1kg = 550 //$
 */
 
-local Gold_1kg = 310 //$
-local Silver_1kg = 170 //$
-local Bronze_1kg = 95 //$
-local Iron_1kg = 65 //$
+local Gold_1kg = 2800 //$
+local Silver_1kg = 1400 //$
+local Bronze_1kg = 700 //$
+local Iron_1kg = 550 //$
 
 local Mass_per_Bar = 10
 

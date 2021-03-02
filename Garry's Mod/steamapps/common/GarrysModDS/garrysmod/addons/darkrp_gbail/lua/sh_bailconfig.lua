@@ -64,7 +64,7 @@ bailNPC.bailNotAllowedMessage       = "Sorry, but you are not allowed to bail pe
 --
 
 bailNPC.priceCalculator = function(client, arrestedClient, prisonTime)
-    return (prisonTime * 25)
+    return (prisonTime * 250)
 end
 
 --#####################################################################################################################

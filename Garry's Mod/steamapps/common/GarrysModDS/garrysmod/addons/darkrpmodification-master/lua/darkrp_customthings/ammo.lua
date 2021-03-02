@@ -4,41 +4,41 @@
 DarkRP.createAmmoType("pistol", {
 	name = "Pistol Ammo",
 	model = "models/Items/BoxSRounds.mdl",
-	price = 20,
-	amountGiven = 600
+	price = 200,
+	amountGiven = 60
 })
 
 DarkRP.createAmmoType("357", {
 	name = "Heavy Pistol Ammo",
 	model = "models/Items/357ammobox.mdl",
-	price = 30,
-	amountGiven = 600
+	price = 300,
+	amountGiven = 60
 })
 
 DarkRP.createAmmoType("buckshot", {
 	name = "Shotgun Ammo",
 	model = "models/Items/BoxBuckshot.mdl",
-	price = 40,
-	amountGiven = 240
+	price = 400,
+	amountGiven = 24
 })
 
 DarkRP.createAmmoType("smg1", {
 	name = "SMG Ammo",
 	model = "models/Items/BoxMRounds.mdl",
-	price = 50,
-	amountGiven = 900
+	price = 500,
+	amountGiven = 90
 })
 
 DarkRP.createAmmoType("ar2", {
 	name = "Rifle Ammo",
 	model = "models/Items/BoxMRounds.mdl",
-	price = 150,
-	amountGiven = 1200
+	price = 1500,
+	amountGiven = 120
 })
 
 DarkRP.createAmmoType("SniperPenetratedRound", {
 	name = "Sniper Ammo",
 	model = "models/Items/BoxMRounds.mdl",
-	price = 250,
-	amountGiven = 300
+	price = 2500,
+	amountGiven = 30
 })
