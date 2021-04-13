@@ -2,16 +2,19 @@
 {
 	"appid"		"4020"
 	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\admin\\Desktop\\FTP\\Garry's Mod\\steamcmd.exe"
 	"name"		"Garry's Mod Dedicated Server"
 	"StateFlags"		"4"
 	"installdir"		"GarrysModDS"
-	"LastUpdated"		"1612076261"
+	"LastUpdated"		"1618278848"
 	"UpdateResult"		"0"
-	"SizeOnDisk"		"3928934072"
-	"buildid"		"6141563"
-	"LastOwner"		"76561198507619534"
-	"BytesToDownload"		"35330832"
-	"BytesDownloaded"		"35330832"
+	"SizeOnDisk"		"3929669367"
+	"buildid"		"6481168"
+	"LastOwner"		"76561200809150473"
+	"BytesToDownload"		"24267152"
+	"BytesDownloaded"		"24267152"
+	"BytesToStage"		"784040188"
+	"BytesStaged"		"784040188"
 	"AutoUpdateBehavior"		"0"
 	"AllowOtherDownloadsWhileRunning"		"0"
 	"ScheduledAutoUpdate"		"0"
@@ -19,13 +22,13 @@
 	{
 		"4021"
 		{
-			"manifest"		"3099759884808582262"
-			"size"		"3703162899"
+			"manifest"		"4241971653466231439"
+			"size"		"3703781942"
 		}
 		"4022"
 		{
-			"manifest"		"6935518560276613570"
-			"size"		"225771173"
+			"manifest"		"194666807039304907"
+			"size"		"225887425"
 		}
 	}
 	"UserConfig"

@@ -11,17 +11,7 @@
 				"ipv6check_udp_state"		"bad"
 				"CMWebSocket"
 				{
-					"cm6-sto1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"1610070098"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-fra1.cm.steampowered.com:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -29,15 +19,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm4-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-dfw1.cm.steampowered.com:27028"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -47,15 +29,7 @@
 						"LastPingValue"		"100000"
 						"LastLoadValue"		"0"
 					}
-					"cm6-sto1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm4-sgp1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-fra1.cm.steampowered.com:27034"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -63,15 +37,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm6-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm5-lax1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-dfw1.cm.steampowered.com:27033"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -81,15 +47,7 @@
 						"LastPingValue"		"49"
 						"LastLoadValue"		"48"
 					}
-					"cm5-lax1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm5-lax1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -97,15 +55,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm5-lax1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm5-lax1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-dfw1.cm.steampowered.com:27032"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -113,15 +63,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-dfw1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm1-ord1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27035"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -131,17 +73,7 @@
 						"LastPingValue"		"100000"
 						"LastLoadValue"		"0"
 					}
-					"cm1-syd1.cm.steampowered.com:27022"
-					{
-						"LastPingTimestamp"		"1612076344"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
 					"cm1-syd1.cm.steampowered.com:27026"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-syd1.cm.steampowered.com:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -149,15 +81,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-syd1.cm.steampowered.com:27024"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:27036"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27039"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -165,15 +89,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm2-lax1.cm.steampowered.com:27020"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:27020"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -181,15 +97,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-dfw1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm1-dfw1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-dfw1.cm.steampowered.com:27031"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -197,15 +105,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-ord1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm1-ord1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27038"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -215,17 +115,7 @@
 						"LastPingValue"		"249"
 						"LastLoadValue"		"19"
 					}
-					"cm5-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"1612076334"
-						"LastPingValue"		"100000"
-						"LastLoadValue"		"0"
-					}
 					"cm1-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27029"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -233,15 +123,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm5-lax1.cm.steampowered.com:27029"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm2-syd1.cm.steampowered.com:27025"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-syd1.cm.steampowered.com:27023"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -249,15 +131,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm5-lax1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:27032"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27035"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -265,15 +139,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm3-lax1.cm.steampowered.com:27021"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:27034"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm6-lax1.cm.steampowered.com:27037"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -281,15 +147,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-lax1.cm.steampowered.com:443"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm5-lax1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm3-lax1.cm.steampowered.com:443"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -297,15 +155,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm6-lax1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm6-lax1.cm.steampowered.com:27031"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm5-lax1.cm.steampowered.com:27036"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -313,15 +163,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm1-dfw1.cm.steampowered.com:27028"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm2-dfw1.cm.steampowered.com:27038"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-dfw1.cm.steampowered.com:27034"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -329,15 +171,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-dfw1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm1-dfw1.cm.steampowered.com:27035"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27035"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -345,15 +179,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-ord1.cm.steampowered.com:27030"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm2-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-dfw1.cm.steampowered.com:27036"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -361,15 +187,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-dfw1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm1-ord1.cm.steampowered.com:27037"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm2-ord1.cm.steampowered.com:27032"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -377,15 +195,7 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
-					"cm2-ord1.cm.steampowered.com:27039"
-					{
-						"LastPingTimestamp"		"0"
-					}
 					"cm2-ord1.cm.steampowered.com:27033"
-					{
-						"LastPingTimestamp"		"0"
-					}
-					"cm1-ord1.cm.steampowered.com:27032"
 					{
 						"LastPingTimestamp"		"0"
 					}
@@ -393,9 +203,193 @@
 					{
 						"LastPingTimestamp"		"0"
 					}
+					"cm4-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27037"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-dfw1.cm.steampowered.com:27032"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27029"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27035"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:27022"
+					{
+						"LastPingTimestamp"		"1612076344"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"cm2-syd1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:27024"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27039"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-lax1.cm.steampowered.com:27020"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27031"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27031"
+					{
+						"LastPingTimestamp"		"1612076334"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27029"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27029"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-syd1.cm.steampowered.com:27023"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27035"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-lax1.cm.steampowered.com:27021"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27037"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm3-lax1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm6-lax1.cm.steampowered.com:27039"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm5-lax1.cm.steampowered.com:27036"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-dfw1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27034"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-dfw1.cm.steampowered.com:27036"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27033"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27032"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:27036"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27028"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-ord1.cm.steampowered.com:443"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27034"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27032"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-dfw1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-dfw1.cm.steampowered.com:27038"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm2-dfw1.cm.steampowered.com:27036"
+					{
+						"LastPingTimestamp"		"0"
+					}
+					"cm1-ord1.cm.steampowered.com:27030"
+					{
+						"LastPingTimestamp"		"0"
+					}
 				}
 				"CellIDServerOverride"		"52"
-				"CM"		"103.10.125.165:27017;103.10.125.165:27020;103.10.125.164:27019;103.10.125.164:27017;103.10.125.165:27019;103.10.125.164:27018;103.10.125.165:27018;103.10.125.164:27021;103.10.125.164:27020;103.10.125.165:27021;162.254.195.71:27023;162.254.195.87:27027;162.254.195.71:27017;162.254.195.87:27022;162.254.195.71:27018;162.254.195.82:27018;162.254.195.71:27025;162.254.195.83:27018;162.254.195.83:27019;162.254.195.87:27023;162.254.195.71:27022;162.254.195.71:27020;162.254.195.87:27020;162.254.195.87:27024;162.254.195.83:27017;162.254.195.82:27019;162.254.195.71:27027;162.254.195.87:27021;162.254.195.71:27024;162.254.195.82:27017;162.254.195.71:27026;162.254.195.67:27017;162.254.195.66:27018;162.254.195.66:27017;162.254.195.87:27017;162.254.195.67:27019;162.254.195.87:27025;162.254.195.66:27019;162.254.195.87:27026;162.254.195.71:27021;162.254.195.67:27018;162.254.195.71:27019;162.254.195.87:27019;162.254.195.87:27018;162.254.193.102:27026;162.254.193.102:27017;155.133.253.34:27020;155.133.253.34:27024;155.133.253.50:27020;155.133.253.34:27025;162.254.193.74:27022;162.254.193.102:27019;155.133.253.50:27024;155.133.253.34:27023;155.133.253.34:27018;162.254.193.74:27024;162.254.193.74:27025;162.254.193.102:27025;162.254.193.102:27020;155.133.253.50:27018;155.133.253.50:27022;155.133.253.34:27021;155.133.253.34:27019;155.133.253.34:27017;155.133.253.50:27025;155.133.253.34:27022;155.133.253.50:27019;162.254.193.102:27024;162.254.193.74:27020;162.254.193.74:27023;162.254.193.102:27022;162.254.193.74:27026;162.254.193.74:27019;155.133.253.50:27017;155.133.253.50:27021;155.133.253.50:27023;162.254.193.102:27018;162.254.193.74:27027;162.254.193.74:27021;162.254.193.102:27021"
+				"CM"		"103.10.125.164:27019;103.10.125.164:27021;103.10.125.164:27018;103.10.125.165:27017;103.10.125.164:27017;103.10.125.165:27019;103.10.125.164:27020;103.10.125.165:27020;103.10.125.165:27021;103.10.125.165:27018;162.254.195.66:27018;162.254.195.87:27018;162.254.195.87:27027;162.254.195.87:27020;162.254.195.87:27026;162.254.195.66:27019;162.254.195.87:27023;162.254.195.87:27025;162.254.195.87:27017;162.254.195.71:27020;162.254.195.82:27019;162.254.195.71:27025;162.254.195.67:27018;162.254.195.71:27018;162.254.195.87:27021;162.254.195.71:27019;162.254.195.71:27017;162.254.195.82:27018;162.254.195.83:27017;162.254.195.71:27022;162.254.195.71:27023;162.254.195.71:27021;162.254.195.87:27024;162.254.195.66:27017;162.254.195.71:27024;162.254.195.83:27019;162.254.195.71:27026;162.254.195.82:27017;162.254.195.67:27017;162.254.195.87:27019;162.254.195.71:27027;162.254.195.83:27018;162.254.195.87:27022;162.254.195.67:27019;162.254.193.74:27024;155.133.253.34:27025;155.133.253.50:27018;155.133.253.34:27020;162.254.193.74:27025;162.254.193.102:27025;162.254.193.74:27027;162.254.193.102:27017;162.254.193.74:27022;162.254.193.102:27024;155.133.253.34:27022;155.133.253.34:27024;155.133.253.50:27021;155.133.253.34:27018;155.133.253.50:27025;155.133.253.50:27022;155.133.253.50:27019;155.133.253.50:27024;155.133.253.34:27021;155.133.253.34:27017;162.254.193.102:27027;162.254.193.74:27018;162.254.193.102:27021;162.254.193.102:27023;162.254.193.74:27017;162.254.193.102:27022;162.254.193.74:27023;162.254.193.102:27026;162.254.193.102:27019;162.254.193.102:27020;155.133.253.50:27017;155.133.253.34:27023;155.133.253.34:27019;162.254.193.74:27019;155.133.253.50:27023;162.254.193.74:27020"
 				"PercentDefaultWebSockets"		"50"
 				"depots"
 				{
