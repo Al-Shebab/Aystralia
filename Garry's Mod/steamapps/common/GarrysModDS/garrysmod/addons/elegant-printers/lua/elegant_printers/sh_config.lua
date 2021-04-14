@@ -147,7 +147,7 @@ elegant_printers.config = {
             price = 10000,
             cmd = "buyprinter_generic",
 
-            PrintAmount = 12000,
+            PrintAmount = 6000,
             MaxMoney = 150000,
             Gradient1 = Color(0, 99, 115),
             Gradient2 = Color(0, 151, 176),
@@ -179,7 +179,7 @@ elegant_printers.config = {
             price = 25000,
             cmd = "buyprinter_perth",
 
-            PrintAmount = 24000,
+            PrintAmount = 12000,
             MaxMoney = 250000,
             Gradient1 = Color(0, 183, 212),
             Gradient2 = Color(36, 225, 255),
@@ -195,7 +195,7 @@ elegant_printers.config = {
             price = 50000,
             cmd = "buyprinter_brisbane",
 
-            PrintAmount = 36000,
+            PrintAmount = 18000,
             MaxMoney = 400000,
             Gradient1 = Color(61, 229, 255),
             Gradient2 = Color(130, 238, 255),
@@ -210,7 +210,7 @@ elegant_printers.config = {
             price = 75000,
             cmd = "buyprinter_melbourne",
 
-            PrintAmount = 48000,
+            PrintAmount = 24000,
             MaxMoney = 500000,
             Gradient1 = Color(61, 255, 213),
             Gradient2 = Color(130, 255, 228),
@@ -225,7 +225,7 @@ elegant_printers.config = {
             price = 100000,
             cmd = "buyprinter_sydney",
 
-            PrintAmount = 60000,
+            PrintAmount = 30000,
             MaxMoney = 750000,
             Gradient1 = Color(61, 255, 154),
             Gradient2 = Color(130, 255, 190),
