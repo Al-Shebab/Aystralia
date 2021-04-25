@@ -29,8 +29,7 @@ zrmine.config.AdminRanks = {
 
 // This tells the script who can mine ore / sell bars (Leave empty to allow everyone)
 zrmine.config.Jobs = {
-	[TEAM_MINER] = true,
-	[TEAM_FELIX_ARGYLE] = true
+	[TEAM_MINER] = true
 }
 
 
