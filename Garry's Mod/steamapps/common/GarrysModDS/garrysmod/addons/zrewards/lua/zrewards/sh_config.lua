@@ -153,10 +153,10 @@ zrewards.config.disabledMethods = {
 zrewards.config.rewards["DarkRP.Cash"] = {
     Icon = "icon16/money.png",
     RewardFor = {
-        ["discordserver"] = 100000,
-        ["discordboost"] = 3000000,
+        ["discordserver"] = 10000,
+        ["discordboost"] = 200000,
         ["steamgroup"] = 50000,
-        ["referral"] = 100000,
+        ["referral"] = 10000,
         ["dailylogin"] = 25000,
         ["nametag"] = 1,
     },

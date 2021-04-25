@@ -78,11 +78,11 @@
     }
 
     Executioner.Config.BonusChance = 5 -- The chance 1 - 100% that a Hitman is offered a bonus.
-    Executioner.Config.BonusMoney = 250000 -- How much money is given on a bonus hit? From a bonus weapon
+    Executioner.Config.BonusMoney = 25000 -- How much money is given on a bonus hit? From a bonus weapon
     Executioner.Config.TaxOnKill = 0 -- What percentage is taken when a hit is completed? 0 to disable.
 
-    Executioner.Config.Max_Hit_Price = 1000000 -- The maximum price the customer can place
-    Executioner.Config.Min_Hit_Price = 25000 -- The minimum price the customer can place
+    Executioner.Config.Max_Hit_Price = 100000 -- The maximum price the customer can place
+    Executioner.Config.Min_Hit_Price = 2500 -- The minimum price the customer can place
 
     Executioner.Config.PhoneEnabled = false -- If this enabled, you may only place hits via the phone.
     Executioner.Config.Enable_Face_To_Face = true -- Can people place hits on a Hitman by pressing 'E'?

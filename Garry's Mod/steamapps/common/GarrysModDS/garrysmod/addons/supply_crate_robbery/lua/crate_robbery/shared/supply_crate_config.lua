@@ -79,7 +79,7 @@ CH_SupplyCrate.Config.RobberyAliveTime = 3 -- The amount of MINUTES the player m
 CH_SupplyCrate.Config.RobberyCooldownTime = 15 -- The amount of MINUTES the supply crate is on a cooldown after a robbery! (Doesn't matter if the robbery failed or not) [Default = 15]
 CH_SupplyCrate.Config.RobberyDistance = 300000 -- The amount of space the player can move away from the supply crate entity, before the robbery fails. [Default = 300000]
 CH_SupplyCrate.Config.PlayerLimit = 6 -- The amount of players there must be on the server before you can rob the supply crate. [Default = 5]
-CH_SupplyCrate.Config.KillReward = 125000 -- The amount of money a person is rewarded for killing the supply crate robber. [Default = 2500]
+CH_SupplyCrate.Config.KillReward = 12500 -- The amount of money a person is rewarded for killing the supply crate robber. [Default = 2500]
 CH_SupplyCrate.Config.PoliceRequired = 3 -- The amount of police officers there must be before a person can rob the supply crate. [Default = 3]
 
 CH_SupplyCrate.Config.EmitSoundOnRob = true -- Should an alarm go off when the bank vault gets robbed. [Default = true]
@@ -91,7 +91,7 @@ CH_SupplyCrate.Config.SoundVolume = 100 -- The sound volume for the alarm sound.
 CH_SupplyCrate.Config.EnableMoneyLoot = true -- Should the money element be enabled?
 CH_SupplyCrate.Config.MoneyTimer = 60 -- This is the time that defines when money is added to the supply crate. In seconds! [Default = 60 (1 Minute)]
 CH_SupplyCrate.Config.MoneyOnTime = 10000 -- This is the amount of money to be added to the supply crate every x minutes/seconds. Defined by the setting above. [Default = 1250]
-CH_SupplyCrate.Config.MaxMoney = 1500000 -- The maximum amount of money the supply crate can have. Set to 0 for no limit. [Default = 150000]
+CH_SupplyCrate.Config.MaxMoney = 150000 -- The maximum amount of money the supply crate can have. Set to 0 for no limit. [Default = 150000]
 
 -- Section two. Handles the ammonition part.
 CH_SupplyCrate.Config.EnableAmmoLoot = false -- Should the ammo element be enabled?

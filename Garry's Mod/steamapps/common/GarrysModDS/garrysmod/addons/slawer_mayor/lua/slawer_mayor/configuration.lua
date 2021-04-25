@@ -22,7 +22,7 @@ cfg.DisabledModules = {
 cfg.AllResetWhenNoMayor = true
 
 -- City funds when the server starts
-cfg.DefaultFunds = 250000
+cfg.DefaultFunds = 25000
 
 -- Max city funds when the server starts
 cfg.DefaultMaxFunds = 250000

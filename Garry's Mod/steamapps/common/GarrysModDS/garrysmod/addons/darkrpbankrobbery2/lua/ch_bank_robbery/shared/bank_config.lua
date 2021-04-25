@@ -5,7 +5,7 @@ CH_BankVault.Design = CH_BankVault.Design or {}
 CH_BankVault.CurrentRobbers = CH_BankVault.CurrentRobbers or { "NONE" }
 
 -- General config options.
-CH_BankVault.Config.StartMoney = 1750000 -- Amount of money the bank will have from server startup. [Default = 1500]
+CH_BankVault.Config.StartMoney = 17500 -- Amount of money the bank will have from server startup. [Default = 1500]
 CH_BankVault.Config.MoneyTimer = 60 -- This is the time that defines when money is added to the bank. In seconds! [Default = 60]
 CH_BankVault.Config.MoneyOnTime = 10000 -- This is the amount of money to be added to the bank every x minutes/seconds. Defined by the setting above. [Default = 1000]
 CH_BankVault.Config.Max = 1750000 -- The maximum the bank can have. Set to 0 for no limit. [Default = 30000]
