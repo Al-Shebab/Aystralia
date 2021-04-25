@@ -169,32 +169,6 @@ TEAM_GAMBLING_ADDICT = DarkRP.createJob("Gambling Addict", {
     candemote = false,
     category = "Citizens"
 })
-TEAM_RAPIST = DarkRP.createJob("Predator", {
-    color = Color(74, 255, 69, 255),
-    model = {
-        "models/player/Group01/male_08.mdl",
-        "models/player/Group01/male_04.mdl"
-    },
-    description = [[Commit some *crimes* on civilians. MAY ONLY *** ONCE EVERY 5 MINUTES, MUST ADVERT!]],
-    weapons = {"weapon_rape"},
-    command = "TEAM_RAPIST",
-    max = 1,
-    salary = 1,
-    admin = 0,
-    vote = false,
-    hasLicense = false,
-    candemote = true,
-    category = "Citizens",
-    PlayerDeath = function(ply, weapon, killer)
-        ply:teamBan()
-        ply:changeTeam(GAMEMODE.DefaultTeam, true)
-        DarkRP.notifyAll(0, 4, "The predator has died.")
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"sydney", "ayssie", "melbourne", "brisbane", "perth", "superadmin", "senior-admin", "staff-manager", "donator-admin", "donator-senior-moderator", "donator-moderator", "donator-trial-moderator"}, ply:GetNWString("usergroup"))
-    end,
-    CustomCheckFailMsg = "This job is for donators only.",
-})
 TEAM_PROSTITUTE = DarkRP.createJob("Prostitute", {
     color = Color(74, 255, 69, 255),
     model = {"models/konnie/tifff13/tifff13_s.mdl"},
@@ -984,9 +958,6 @@ TEAM_MUTANT_KING = DarkRP.createJob("Mutant King", {
     end
 })
 
-
-
-
 TEAM_STAFF_ON_DUTY = DarkRP.createJob("Staff On Duty", {
     color = Color(255, 255, 255, 255),
     model = {"models/player/combine_super_soldier.mdl"},
@@ -1025,20 +996,6 @@ TEAM_OIL_REFINER = DarkRP.createJob("Oil Refiner", {
     hasLicense = false
 })
 
-TEAM_FRUIT_SLICER = DarkRP.createJob("Fruit Slicer", {
-	color = Color(74, 255, 69, 255),
-	model = {"models/fortnite/female/dj_bop.mdl"},
-	description = [[You sell Smoothies!]],
-	weapons = {"zfs_knife"},
-	command = "TEAM_FRUIT_SLICER",
-	max = 2,
-	salary = 5000,
-	admin = 0,
-	vote = false,
-	category = "Citizens",
-	hasLicense = false
-})
-
 TEAM_MINER = DarkRP.createJob("Miner", {
 	color = Color(255,0,64, 255),
 	model = {"models/player/blockdude.mdl"},
@@ -1052,7 +1009,6 @@ TEAM_MINER = DarkRP.createJob("Miner", {
 	category = "Manufacturing",
 	hasLicense = false
 })
-
 TEAM_CHELL = DarkRP.createJob("Papa Yoda", {
     color = Color(106,95,255, 255),
     model = {"models/player/b4p/b4p_yoda.mdl"},
@@ -1081,78 +1037,6 @@ If you like Al Shebab, then you will most likely love Kebabs. | Thief]],
     end,
     CustomCheckFailMsg = "This job is for Joey only.",
 })
-TEAM_MERCENARY = DarkRP.createJob("Mercenary", {
-    color = Color(106,95,255, 255),
-    model = {"models/kerry/killa_suka_blat/killa_blat.mdl"},
-    description = [[One bad motherfucker, Never failed a hit. | Hitman]],
-    weapons = {"m9k_m249lmg", "climb_swep2", "pro_lockpick"},
-    command = "TEAM_MERCENARY",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:197708528"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Kaotic only.",
-})
-TEAM_SONIC = DarkRP.createJob("Sonic", {
-    color = Color(106,95,255, 255),
-    model = {"models/kaesar/moviesonic/moviesonic.mdl"},
-    description = [[It Sonic, enough said. Can do everything. | Thief]],
-    weapons = {"m9k_dragunov", "pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "invisibility_cloak"},
-    command = "TEAM_SONIC",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:86866846", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Jim only.",
-})
-TEAM_SOWAKA = DarkRP.createJob("Noot-Noot", {
-    color = Color(106,95,255, 255),
-    model = {"models/pacagma/houkai_impact_3rd/gyakushinn_miko/gyakushinn_miko_player.mdl"},
-    description = [[Just your average healslut | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m98b", "med_kit", "m9k_l85", "weapon_armorkit"},
-    command = "TEAM_SOWAKA",
-    max = 1,
-    salary = 2000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Gwacko only.",
-})
 TEAM_KERMIT = DarkRP.createJob("Zoidberg", {
     color = Color(255,162,255, 255),
     model = {"models/zoidberg/zoidberg.mdl"},
@@ -1174,54 +1058,6 @@ TEAM_KERMIT = DarkRP.createJob("Zoidberg", {
     end,
     customCheck = function(ply) return
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:579690494"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Jaspereeno only.",
-})
-TEAM_2B = DarkRP.createJob("2B", {
-    color = Color(106,95,255, 255),
-    model = {"models/kuma96/2b/2b_pm.mdl"},
-    description = [[For the Glory of Mankind | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_dragunov", "climb_swep2"},
-    command = "TEAM_2B",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:68387277"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Jay Z only.",
-})
-TEAM_PICKLE_RICK = DarkRP.createJob("Pickle Rick", {
-    color = Color(106,95,255, 255),
-    model = {"models/oldbill/Weird_Pickle.mdl"},
-    description = [[Come down my ends you'll get sheffed up you hear me | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "invisibility_cloak", "m9k_browningauto5"},
-    command = "TEAM_PICKLE_RICK",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:579690494", "STEAM_0:0:103364981"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Jaspereeno only.",
 })
@@ -1249,174 +1085,6 @@ TEAM_RAT_KING = DarkRP.createJob("Ark Knight", {
     end,
     CustomCheckFailMsg = "This job is for Widepeeked only.",
 })
-TEAM_FELIX_ARGYLE = DarkRP.createJob("Felix Argyle", {
-    color = Color(106,95,255, 255),
-    model = {"models/player/shi/Felix_Argyle.mdl"},
-    description = [["Don't be Tricked by this cute neko girl since there is a trap under it's skirts | Thief/Miner"]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_scar", "climb_swep2","zrms_pickaxe","zrms_builder"},
-    command = "TEAM_FELIX_ARGYLE",
-    max = 1,
-    salary = 2000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:25949007"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Dog only.",
-})
-TEAM_HITLER = DarkRP.createJob("Hitler", {
-    color = Color(106,95,255, 255),
-    model = {"models/minson97/hitler/hitler.mdl"},
-    description = [[Jew mad bro? | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_fg42", "sieghail"},
-    command = "TEAM_HITLER",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:33953368"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Majoron only.",
-})
-TEAM_MARCUS = DarkRP.createJob("Marcus", {
-    color = Color(106,95,255, 255),
-    model = {"models/characters/gallaha.mdl"},
-    description = [[This job is only for the best, most skilled player. | Thief]],
-    weapons = {"m9k_dragunov", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "weapon_cigarette_camel"},
-    command = "TEAM_MARCUS",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:186632053", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Johhny only.",
-})
-TEAM_1337_COUNTER = DarkRP.createJob("1337 Counter", {
-    color = Color(106,95,255, 255),
-    model = {"models/jessev92/player/military/cod4_sniper.mdl"},
-    description = [[1337 counter lua | Thief]],
-    weapons = {"m9k_m98b", "climb_swep2", "pickpocket", "prokeypadcracker", "pickpocket", "pro_lockpick"},
-    command = "TEAM_1337_COUNTER",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:1:107335883", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Moa only.",
-})
-TEAM_PICOLAS_CAGE = DarkRP.createJob("Picolas Cage", {
-    color = Color(106,95,255, 255),
-    model = {"models/aap15/foldername/Picolas_Cage_pm/picolas_cage_reference.mdl"},
-    description = [[I'm a pickle but better than Rick | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_browningauto5", "weapon_idubbbz"},
-    command = "TEAM_PICOLAS_CAGE",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:98102011", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Moist_Sausage only.",
-})
-TEAM_JOHN_WICK = DarkRP.createJob("John Wick", {
-    color = Color(106,95,255, 255),
-    model = {"models/player/korka007/wick.mdl"},
-    description = [[The man with a dog | Hitman]],
-    weapons = {"m9k_m98b", "w_hammer", "pro_lockpick"},
-    command = "TEAM_JOHN_WICK",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:123344808", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Jordan only.",
-})
-TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
-    color = Color(106,95,255, 255),
-    model = {"models/devastation/kingblueyoshi/soundwave_pm.mdl"},
-    description = [[Decepticon | Hitman]],
-    weapons = {"m9k_scar", "climb_swep2", "pro_lockpick"},
-    command = "TEAM_DECEPTICON",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:174848051", "STEAM_0:0:103364981", "STEAM_0:1:53337546"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
-})
 TEAM_DRIP = DarkRP.createJob("Drip", {
     color = Color(106,95,255, 255),
     model = {"models/player/Taiga_Aisaka.mdl"},
@@ -1440,54 +1108,6 @@ TEAM_DRIP = DarkRP.createJob("Drip", {
         table.HasValue({"STEAM_0:0:103364981","STEAM_0:0:437291733"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for binchicken only.",
-})
-TEAM_KOMMISSAR = DarkRP.createJob("Kommissar", {
-    color = Color(106,95,255, 255),
-    model = {"models/cakez/wolfenstein/blackguard_p.mdl"},
-    description = [[A good soldier follows orders. | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "climb_swep2", "m9k_an94"},
-    command = "TEAM_KOMMISSAR",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:32893562"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Rick Castle only.",
-})
-TEAM_KEN_KANEKI = DarkRP.createJob("Deadsnot", {
-    color = Color(0,0,0, 255),
-    model = {"models/kryptonite/inj2_ios_deadshot/inj2_ios_deadshot.mdl"},
-    description = [[Just your friendly neighborhood vigilante *sniff* | Government]],
-    weapons = {"weapon_cuff_police", "arrest_stick", "stungun", "door_ram", "unarrest_stick", "stunstick", "weaponchecker", "weapon_armorkit", "m9k_m98b", "med_kit"},
-    command = "TEAM_KEN_KANEKI",
-    max = 1,
-    salary = 2000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:55954273", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Gwacko only.",
 })
 TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
     color = Color(106,95,255, 255),
@@ -1513,12 +1133,12 @@ TEAM_AUTOBOT = DarkRP.createJob("AUTOBOT", {
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
-TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
+TEAM_DECEPTICON = DarkRP.createJob("Decepticon", {
     color = Color(106,95,255, 255),
-    model = {"models/nikout/AC3/Connor_playermodel.mdl"},
-    description = [[We work in the dark, to serve the light. | Hitman]],
-    weapons = {"m9k_dragunov", "weapon_thehiddenblade", "pro_lockpick"},
-    command = "TEAM_CONNOR_KENWAY",
+    model = {"models/devastation/kingblueyoshi/soundwave_pm.mdl"},
+    description = [[Decepticon | Hitman]],
+    weapons = {"m9k_scar", "climb_swep2", "pro_lockpick"},
+    command = "TEAM_DECEPTICON",
     max = 1,
     salary = 8000,
     admin = 0,
@@ -1533,80 +1153,9 @@ TEAM_CONNOR_KENWAY = DarkRP.createJob("Connor Kenway", {
         ply:SetMaxArmor(100)
     end,
     customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:68387277"}, ply:SteamID())
+        table.HasValue({"STEAM_0:0:174848051", "STEAM_0:0:103364981", "STEAM_0:1:53337546"}, ply:SteamID())
     end,
-    CustomCheckFailMsg = "This job is for Jay Z only.",
-})
-TEAM_SADDAM_HUSSEIN = DarkRP.createJob("Saddam Hussein", {
-    color = Color(106,95,255, 255),
-    model = {"models/jessev92/player/misc/saddam.mdl"},
-    description = [[The ultimate weapons dealer, he has everything and anything, just ask. | Doubles as a Thief/Gun Dealer]],
-    weapons = {"m9k_dragunov", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "med_kit"},
-    command = "TEAM_SADDAM_HUSSEIN",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:86866846"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Jim only.",
-})
-TEAM_SPECIALIST_THIEF = DarkRP.createJob("Specialist Thief", {
-    color = Color(106,95,255, 255),
-    model = {"models/kuma96/gta5_specops/gta5_specops_pm.mdl"},
-    description = [[Raiding and mug these hoes | Thief]],
-    weapons = {"prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick", "m9k_m249lmg", "weapon_armorkit"},
-    command = "TEAM_SPECIALIST_THIEF",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-        ply:SetMaxArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:123344808"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Jordan only.",
-})
-TEAM_SOLAIRE_ASTORA = DarkRP.createJob("Solaire Astora", {
-    color = Color(106,95,255, 255),
-    model = {"models/player_solaire.mdl"},
-    description = [[Praise the Sun &amp; fuck bitches | Thief]],
-    weapons = {"m9k_scar", "climb_swep2", "pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket"},
-    command = "TEAM_SOLAIRE_ASTORA",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:74022863"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Adrenaline only.",
+    CustomCheckFailMsg = "This job is for SOUNDWAVE only.",
 })
 TEAM_LOCUS = DarkRP.createJob("LOCUS", {
     color = Color(25,68,25, 255),
@@ -1631,99 +1180,6 @@ TEAM_LOCUS = DarkRP.createJob("LOCUS", {
     end,
     CustomCheckFailMsg = "This job is for SOUNDWAVE &amp; Joey only.",
 })
-TEAM_DUTCH_COOK = DarkRP.createJob("Dutch Cook", {
-    color = Color(106,95,255, 255),
-    model = {"models/postal3/Dude.mdl"},
-    description = [[He only speaks dutch | Meth Cook]],
-    weapons = {"weapon_cigarette_camel", "m9k_deagle", "zmlab_extractor"},
-    command = "TEAM_DUTCH_COOK",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:1:45141952", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Don only.",
-})
-TEAM_DEATHSTROKE = DarkRP.createJob("Deathstroke", {
-    color = Color(106,95,255, 255),
-    model = {"models/norpo/ArkhamOrigins/Assassins/Deathstroke_ValveBiped.mdl"},
-    description = [[can raid mug and base | Thief]],
-    weapons = {"pro_lockpick", "unarrest_stick", "prokeypadcracker", "pickpocket", "invisibility_cloak", "m9k_an94"},
-    command = "TEAM_DEATHSTROKE",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:0:117246347"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Mike Pence only.",
-})
-TEAM_TIME_TRAVELLER = DarkRP.createJob("The Doctor", {
-    color = Color(106,95,255, 255),
-    model = {"models/11thDoctor/thedoctor.mdl"},
-    description = [[It's all about the Wibbily Wobbily Timey Whimey Stuff. | Bitcoin Miner]],
-    weapons = {"invisibility_cloak", "med_kit", "m9k_browningauto5"},
-    command = "TEAM_TIME_TRAVELLER",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:1:32981097", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for UE only.",
-})
-
-TEAM_THE_ROCK = DarkRP.createJob("The Rock", {
-    color = Color(106,95,255, 255),
-    model = {"models/models/konnie/rock/therock.mdl"},
-    description = [[Fight Club Manager]],
-    weapons = {"m9k_g36"},
-    command = "TEAM_THE_ROCK",
-    max = 1,
-    salary = 8000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:55650188", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Lemonetoe only.",
-})
 TEAM_CLAY_FACE = DarkRP.createJob("Lester Crest", {
     color = Color(106,95,255, 255),
     model = {"models/player/spike/LesterCrest.mdl"},
@@ -1746,75 +1202,6 @@ TEAM_CLAY_FACE = DarkRP.createJob("Lester Crest", {
         table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:463427717"}, ply:SteamID())
     end,
     CustomCheckFailMsg = "This job is for Tyler49765 only.",
-})
-TEAM_JASON_STATHAM = DarkRP.createJob("Jason Statham", {
-    color = Color(106,95,255, 255),
-    model = {"models/jasonstatham/Playermodels/jasonstatham1.mdl"},
-    description = [[I'm here to fill my pockets and fuck up your taxes. #TradiesAreLazy | Thief]],
-    weapons = {"m9k_browningauto5", "invisibility_cloak", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
-    command = "TEAM_JASON_STATHAM",
-    max = 1,
-    salary = 2000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:189217395", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Scomo only.",
-})
-TEAM_KIWI = DarkRP.createJob("Kiwi", {
-    color = Color(106,95,255, 255),
-    model = {"models/Hu_Tao/genshin_impact/rstar/Hu_Tao/Hu_Tao.mdl"},
-    description = [[You Are Precious To Me]],
-    weapons = {"m9k_an94", "med_kit", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
-    command = "TEAM_KIWI",
-    max = 1,
-    salary = 2000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:237754247", "STEAM_0:0:103364981"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Kiwi only.",
-})
-TEAM_SATOSHI_NAKAMOTO = DarkRP.createJob("Satoshi Nakamoto", {
-    color = Color(106,95,255, 255),
-    model = {"models/player/bo2/cia/cia_pm.mdl"},
-    description = [[The original, OG digital currency creator. Noone knows his name, but he knows his way around bitcoin]],
-    weapons = {"m9k_aw50", "weapon_armorkit", "prokeypadcracker", "pickpocket", "pro_lockpick", "unarrest_stick"},
-    command = "TEAM_SATOSHI_NAKAMOTO",
-    max = 1,
-    salary = 2000,
-    admin = 0,
-    vote = false,
-    hasLicense = true,
-    candemote = false,
-    category = "Donator Classes",
-    PlayerSpawn = function(ply)
-        ply:SetMaxHealth(100)
-        ply:SetHealth(100)
-        ply:SetArmor(100)
-    end,
-    customCheck = function(ply) return
-        table.HasValue({"STEAM_0:0:103364981", "STEAM_0:1:47977664"}, ply:SteamID())
-    end,
-    CustomCheckFailMsg = "This job is for Richard Nixon only.",
 })
 
 GAMEMODE.DefaultTeam = TEAM_CITIZEN
