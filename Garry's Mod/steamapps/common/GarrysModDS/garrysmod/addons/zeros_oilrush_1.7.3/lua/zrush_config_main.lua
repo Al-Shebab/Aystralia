@@ -43,8 +43,7 @@ zrush.config.AdminRanks = {
 
 // These Jobs are allowed to sell fuel, Leave empty to allow everyone to sell fuel
 zrush.config.Jobs = {
-	[TEAM_OIL_REFINER] = true,
-	[TEAM_KOMMISSAR] = true
+	[TEAM_OIL_REFINER] = true
 }
 
 // The Palette entity can be used if zrush.config.FuelBuyer.SellMode is set to 2
