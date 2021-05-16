@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-    $basetexture "models/stim/venatuss/car_dealer/stand"
-    $envmap "env_cubemap"
-    $envmaptint "[0.3 0.3 0.3]""
-}

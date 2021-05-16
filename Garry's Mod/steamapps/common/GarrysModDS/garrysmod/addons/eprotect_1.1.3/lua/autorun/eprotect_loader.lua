@@ -1,1 +1,0 @@
-hook.Add("slib:loadedUtils", "eP:Initialize", function() slib.loadFolder("e_protect/", true) end)
