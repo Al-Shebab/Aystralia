@@ -1,0 +1,147 @@
+
+
+[2022-07-09 11:17:04] Loaded 0 apps from install folder "C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steamapps\appmanifest_*.acf".
+[2022-07-09 11:17:28] AppID 4020 state changed : Update Required,
+[2022-07-09 11:17:28] AppID 4020 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2022-07-09 11:17:28] AppID 4020 state changed : Update Required,Update Queued,
+[2022-07-09 11:17:28] AppID 4020 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2022-07-09 11:17:28] AppID 4020 state changed : Update Required,Update Queued,Update Running,
+[2022-07-09 11:17:28] AppID 4020 update changed : Running,
+[2022-07-09 11:17:28] AppID 4020 update changed : Running,Reconfiguring,
+[2022-07-09 11:17:29] Got 3 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 52 / Launcher 3)
+[2022-07-09 11:17:29] Created download interface of type 'SteamCache' (7) to host cache4-syd1.steamcontent.com (cache4-syd1.steamcontent.com)
+[2022-07-09 11:17:29] Created download interface of type 'SteamCache' (7) to host cache3-syd1.steamcontent.com (cache3-syd1.steamcontent.com)
+[2022-07-09 11:17:29] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2022-07-09 11:17:29] Created ipv4-only http client
+[2022-07-09 11:17:30] HTTP (SteamCache,6) - cache4-syd1.steamcontent.com (103.10.125.2:443 / 103.10.125.2:443, host: cache4-syd1.steamcontent.com): cache4-syd1.steamcontent.com/depot/1004/manifest/5329354416203291021/5/9356369465473501758 - received 200 (OK) HTTP response
+[2022-07-09 11:17:31] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): cache3-syd1.steamcontent.com/depot/4022/manifest/4396787182808070063/5/13760332529216007690 - received 200 (OK) HTTP response
+[2022-07-09 11:17:32] HTTP (SteamCache,6) - cache4-syd1.steamcontent.com (103.10.125.2:443 / 103.10.125.2:443, host: cache4-syd1.steamcontent.com): cache4-syd1.steamcontent.com/depot/4021/manifest/8724455253204613083/5/11721290731237251743 - received 200 (OK) HTTP response
+[2022-07-09 11:17:32] AppID 4020 update changed : Running,
+[2022-07-09 11:17:32] AppID 4020 update changed : Running,Validating,
+[2022-07-09 11:17:33] AppID 4020 update changed : Running,
+[2022-07-09 11:17:33] AppID 4020 update changed : Running,Preallocating,
+[2022-07-09 11:17:33] AppID 4020 update changed : Running,
+[2022-07-09 11:17:33] AppID 4020 update started : download 0/2213553504, store 0/0, reuse 0/0, delta 0/0, stage 0/3960384405 
+[2022-07-09 11:17:33] AppID 4020 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-07-09 11:17:33] AppID 4020 update changed : Running,Downloading,Staging,
+[2022-07-09 11:17:33] Downloading 43 chunks from depot 1004
+[2022-07-09 11:17:34] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (1004) - Success!
+[2022-07-09 11:18:00] Downloading 5725 chunks from depot 4021
+[2022-07-09 11:18:00] HTTP (CDN,11) - steampipe.akamaized.net (203.87.122.113:443 / 203.87.122.113:443, host: steampipe.akamaized.net): AuthenticateDepotID (4021) - Success!
+[2022-07-09 11:18:43] Current download rate: 52.605 Mbps
+[2022-07-09 11:19:44] Current download rate: 53.382 Mbps
+[2022-07-09 11:20:45] Current download rate: 51.036 Mbps
+[2022-07-09 11:21:46] Current download rate: 53.284 Mbps
+[2022-07-09 11:22:47] Current download rate: 47.558 Mbps
+[2022-07-09 11:23:49] Current download rate: 10.046 Mbps
+[2022-07-09 11:23:50] IPv6 Connectivity state has changed, downgrading to ipv4-only
+[2022-07-09 11:23:50] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4021
+[2022-07-09 11:23:50] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): Disabling dual-stack for this connection
+[2022-07-09 11:24:26] Got 5 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 52 / Launcher 3)
+[2022-07-09 11:24:26] Downloading 276 chunks from depot 4022
+[2022-07-09 11:24:26] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): Closing connection
+[2022-07-09 11:24:26] Created download interface of type 'SteamCache' (7) to host cache1-syd1.steamcontent.com (cache1-syd1.steamcontent.com)
+[2022-07-09 11:24:26] HTTP (CDN,11) - steampipe.akamaized.net (203.87.122.122:443 / 203.87.122.122:443, host: steampipe.akamaized.net): AuthenticateDepotID (4022) - Success!
+[2022-07-09 11:24:28] Increasing target number of download connections to 4 (rate was 0.000, now 6.607)
+[2022-07-09 11:24:28] Created download interface of type 'SteamCache' (7) to host cache2-syd1.steamcontent.com (cache2-syd1.steamcontent.com)
+[2022-07-09 11:24:50] Current download rate: 11.275 Mbps
+[2022-07-09 11:25:38] HTTP (SteamCache,179) - cache1-syd1.steamcontent.com (103.10.125.18:443 / 103.10.125.18:443, host: cache1-syd1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4022
+[2022-07-09 11:25:38] HTTP (SteamCache,179) - cache1-syd1.steamcontent.com (103.10.125.18:443 / 103.10.125.18:443, host: cache1-syd1.steamcontent.com): Disabling dual-stack for this connection
+[2022-07-09 11:25:51] Current download rate: 0.057 Mbps
+[2022-07-09 11:26:08] HTTP (SteamCache,85) - cache2-syd1.steamcontent.com (103.10.125.19:443 / 103.10.125.19:443, host: cache2-syd1.steamcontent.com): Received 0 (Invalid) HTTP response for depot 4022
+[2022-07-09 11:26:08] HTTP (SteamCache,85) - cache2-syd1.steamcontent.com (103.10.125.19:443 / 103.10.125.19:443, host: cache2-syd1.steamcontent.com): Disabling dual-stack for this connection
+[2022-07-09 11:26:40] HTTP (CDN,11) - steampipe.akamaized.net (203.87.122.113:443 / 203.87.122.113:443, host: steampipe.akamaized.net): Closing connection
+[2022-07-09 11:26:40] AppID 4020 update changed : Running,
+[2022-07-09 11:26:40] AppID 4020 update changed : Running,Verifying,
+[2022-07-09 11:26:53] Current download rate: 0.000 Mbps
+[2022-07-09 11:27:02] Verified 3776 MB in 'C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod', clean bytes tally is now 3776 MB
+[2022-07-09 11:27:02] AppID 4020 update changed : Running,
+[2022-07-09 11:27:02] AppID 4020 update changed : Running,Committing,
+[2022-07-09 11:27:02] AppID 4020 starting commit from "C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steamapps\downloading\4020" to "C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steamapps\common\GarrysModDS" : 2505 updated, 0 moved, 0 deleted files
+[2022-07-09 11:27:04] AppID 4020 state changed : Fully Installed,Update Queued,Update Running,
+[2022-07-09 11:27:04] AppID 4020 finished update, 3 mounted depots (BuildID 8912326) : 1004 (5329354416203291021),4021 (8724455253204613083),4022 (4396787182808070063),
+[2022-07-09 11:27:04] AppID 4020 update changed : Running,
+[2022-07-09 11:27:04] AppID 4020 update changed : None
+[2022-07-09 11:27:04] AppID 4020 state changed : Fully Installed,Update Queued,
+[2022-07-09 11:27:04] AppID 4020 state changed : Fully Installed,
+[2022-07-09 11:27:04] AppID 4020 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-07-09 11:27:09] HTTP (SteamCache,85) - cache2-syd1.steamcontent.com (103.10.125.19:443 / 103.10.125.19:443, host: cache2-syd1.steamcontent.com): Closing connection
+[2022-07-09 11:27:21] HTTP (SteamCache,6) - cache4-syd1.steamcontent.com (103.10.125.2:443 / 103.10.125.2:443, host: cache4-syd1.steamcontent.com): Closing connection
+[2022-07-09 11:27:41] HTTP (SteamCache,179) - cache1-syd1.steamcontent.com (103.10.125.18:443 / 103.10.125.18:443, host: cache1-syd1.steamcontent.com): Closing connection
+
+
+[2022-07-09 19:30:38] Loaded 1 apps from install folder "C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steamapps\appmanifest_*.acf".
+[2022-07-09 19:31:17] AppID 240 state changed : Update Required,
+[2022-07-09 19:31:17] AppID 240 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2022-07-09 19:31:17] AppID 240 state changed : Update Required,Update Queued,
+[2022-07-09 19:31:17] AppID 240 scheduler update : Priority First, not played for 4294967295 seconds, update disabled for 0 seconds
+[2022-07-09 19:31:18] AppID 240 state changed : Update Required,Update Queued,Update Running,
+[2022-07-09 19:31:18] AppID 240 update changed : Running,
+[2022-07-09 19:31:18] AppID 240 update changed : Running,Reconfiguring,
+[2022-07-09 19:31:18] Download system icon for AppID 240 to C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steam\games/554f4efec40d7f0fef58961d9a3c1da16fe38984.ico
+[2022-07-09 19:31:18] Got 5 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 52 / Launcher 3)
+[2022-07-09 19:31:18] Created download interface of type 'SteamCache' (7) to host cache3-syd1.steamcontent.com (cache3-syd1.steamcontent.com)
+[2022-07-09 19:31:18] Created download interface of type 'SteamCache' (7) to host cache4-syd1.steamcontent.com (cache4-syd1.steamcontent.com)
+[2022-07-09 19:31:18] Created download interface of type 'SteamCache' (7) to host cache5-syd1.steamcontent.com (cache5-syd1.steamcontent.com)
+[2022-07-09 19:31:18] Created ipv4-only http client
+[2022-07-09 19:31:19] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): cache3-syd1.steamcontent.com/depot/240/manifest/8533645887610833256/5/9164636786936703249 - received 200 (OK) HTTP response
+[2022-07-09 19:31:19] HTTP (SteamCache,25) - cache5-syd1.steamcontent.com (103.10.125.20:443 / 103.10.125.20:443, host: cache5-syd1.steamcontent.com): cache5-syd1.steamcontent.com/depot/232331/manifest/7751288232347950736/5/13545888494123343130 - received 502 (Bad Gateway) HTTP response
+[2022-07-09 19:31:19] HTTP (SteamCache,25) - cache5-syd1.steamcontent.com (103.10.125.20:443 / 103.10.125.20:443, host: cache5-syd1.steamcontent.com): Received 502 (Bad Gateway) HTTP response for depot 232331
+[2022-07-09 19:31:19] HTTP (SteamCache,25) - cache5-syd1.steamcontent.com (103.10.125.20:443 / 103.10.125.20:443, host: cache5-syd1.steamcontent.com): Closing connection
+[2022-07-09 19:31:19] Created download interface of type 'CDN' (2) to host google.cdn.steampipe.steamcontent.com (google.cdn.steampipe.steamcontent.com)
+[2022-07-09 19:31:20] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): cache3-syd1.steamcontent.com/depot/241/manifest/3261854995366250836/5/642404602231640641 - received 502 (Bad Gateway) HTTP response
+[2022-07-09 19:31:20] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): Received 502 (Bad Gateway) HTTP response for depot 241
+[2022-07-09 19:31:20] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): Closing connection
+[2022-07-09 19:31:20] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2022-07-09 19:31:20] HTTP (CDN,35) - google.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: google.cdn.steampipe.steamcontent.com): AuthenticateDepotID (232331) - Success!
+[2022-07-09 19:31:20] HTTP (SteamCache,6) - cache4-syd1.steamcontent.com (103.10.125.2:443 / 103.10.125.2:443, host: cache4-syd1.steamcontent.com): cache4-syd1.steamcontent.com/depot/241/manifest/3261854995366250836/5/642404602231640641 - received 502 (Bad Gateway) HTTP response
+[2022-07-09 19:31:20] HTTP (SteamCache,6) - cache4-syd1.steamcontent.com (103.10.125.2:443 / 103.10.125.2:443, host: cache4-syd1.steamcontent.com): Received 502 (Bad Gateway) HTTP response for depot 241
+[2022-07-09 19:31:20] HTTP (SteamCache,6) - cache4-syd1.steamcontent.com (103.10.125.2:443 / 103.10.125.2:443, host: cache4-syd1.steamcontent.com): Closing connection
+[2022-07-09 19:31:20] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (241) - Success!
+[2022-07-09 19:31:21] HTTP (CDN,35) - google.cdn.steampipe.steamcontent.com (34.102.245.185:443 / 34.102.245.185:443, host: google.cdn.steampipe.steamcontent.com): google.cdn.steampipe.steamcontent.com/depot/232331/manifest/7751288232347950736/5/13545888494123343130 - received 200 (OK) HTTP response
+[2022-07-09 19:31:21] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.187:443 / 202.7.177.187:443, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/241/manifest/3261854995366250836/5/642404602231640641 - received 200 (OK) HTTP response
+[2022-07-09 19:31:21] AppID 240 update changed : Running,
+[2022-07-09 19:31:21] AppID 240 update changed : Running,Validating,
+[2022-07-09 19:31:21] AppID 240 update changed : Running,
+[2022-07-09 19:31:21] AppID 240 update changed : Running,Preallocating,
+[2022-07-09 19:31:21] AppID 240 update changed : Running,
+[2022-07-09 19:31:22] AppID 240 update started : download 0/2622287104, store 0/0, reuse 0/0, delta 0/0, stage 0/4628887753 
+[2022-07-09 19:31:22] AppID 240 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-07-09 19:31:22] AppID 240 update verify : forcing auto update validation (random 1 out of 10 chance)
+[2022-07-09 19:31:22] AppID 240 update changed : Running,Downloading,Staging,
+[2022-07-09 19:31:22] Downloading 5269 chunks from depot 241
+[2022-07-09 19:31:22] HTTP (CDN,35) - google.cdn.steampipe.steamcontent.com (34.102.245.185:443 / 34.102.245.185:443, host: google.cdn.steampipe.steamcontent.com): AuthenticateDepotID (241) - Success!
+[2022-07-09 19:32:33] Current download rate: 52.582 Mbps
+[2022-07-09 19:33:34] Current download rate: 52.543 Mbps
+[2022-07-09 19:34:35] Current download rate: 53.243 Mbps
+[2022-07-09 19:35:36] Current download rate: 53.238 Mbps
+[2022-07-09 19:36:37] Current download rate: 52.621 Mbps
+[2022-07-09 19:37:38] Current download rate: 52.984 Mbps
+[2022-07-09 19:37:59] Got 4 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 52 / Launcher 3)
+[2022-07-09 19:37:59] Created download interface of type 'SteamCache' (7) to host cache2-syd1.steamcontent.com (cache2-syd1.steamcontent.com)
+[2022-07-09 19:37:59] Downloading 7 chunks from depot 240
+[2022-07-09 19:37:59] HTTP (CDN,35) - google.cdn.steampipe.steamcontent.com (34.102.245.185:443 / 34.102.245.185:443, host: google.cdn.steampipe.steamcontent.com): AuthenticateDepotID (240) - Success!
+[2022-07-09 19:37:59] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.187:443 / 202.7.177.187:443, host: steampipe.akamaized.net): AuthenticateDepotID (240) - Success!
+[2022-07-09 19:37:59] Downloading 239 chunks from depot 232331
+[2022-07-09 19:38:00] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.187:443 / 202.7.177.187:443, host: steampipe.akamaized.net): AuthenticateDepotID (232331) - Success!
+[2022-07-09 19:38:01] Increasing target number of download connections to 4 (rate was 0.000, now 33.925)
+[2022-07-09 19:38:01] Created download interface of type 'SteamCache' (7) to host cache5-syd1.steamcontent.com (cache5-syd1.steamcontent.com)
+[2022-07-09 19:38:40] Current download rate: 1.782 Mbps
+[2022-07-09 19:39:14] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.187:443 / 202.7.177.187:443, host: steampipe.akamaized.net): Closing connection
+[2022-07-09 19:39:14] HTTP (CDN,35) - google.cdn.steampipe.steamcontent.com (34.102.245.185:443 / 34.102.245.185:443, host: google.cdn.steampipe.steamcontent.com): Closing connection
+[2022-07-09 19:39:15] AppID 240 update changed : Running,
+[2022-07-09 19:39:15] AppID 240 update changed : Running,Verifying,
+[2022-07-09 19:39:30] HTTP (SteamCache,85) - cache2-syd1.steamcontent.com (103.10.125.19:443 / 103.10.125.19:443, host: cache2-syd1.steamcontent.com): Closing connection
+[2022-07-09 19:39:41] Current download rate: 0.000 Mbps
+[2022-07-09 19:39:53] Verified 4414 MB in 'C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod', clean bytes tally is now 8191 MB
+[2022-07-09 19:39:53] AppID 240 update changed : Running,
+[2022-07-09 19:39:53] AppID 240 update changed : Running,Committing,
+[2022-07-09 19:39:53] AppID 240 starting commit from "C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steamapps\downloading\240" to "C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\steamapps\common\Counter-Strike Source" : 1235 updated, 0 moved, 0 deleted files
+[2022-07-09 19:39:54] AppID 240 state changed : Fully Installed,Update Queued,Update Running,
+[2022-07-09 19:39:54] AppID 240 finished update, 3 mounted depots (BuildID 6946501) : 241 (3261854995366250836),240 (8533645887610833256),232331 (7751288232347950736),
+[2022-07-09 19:39:54] AppID 240 update changed : Running,
+[2022-07-09 19:39:54] AppID 240 update changed : None
+[2022-07-09 19:39:54] AppID 240 state changed : Fully Installed,Update Queued,
+[2022-07-09 19:39:54] AppID 240 state changed : Fully Installed,
+[2022-07-09 19:39:54] AppID 240 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-07-09 19:40:15] HTTP (SteamCache,25) - cache5-syd1.steamcontent.com (103.10.125.20:443 / 103.10.125.20:443, host: cache5-syd1.steamcontent.com): Closing connection

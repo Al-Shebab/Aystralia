@@ -1,0 +1,230 @@
+
+
+[2022-07-09 11:32:36] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:32:36] Connectivity test: OK!
+[2022-07-09 11:32:36] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:32:42] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:32:42] Connectivity test: OK!
+[2022-07-09 11:32:42] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:36:07] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:36:08] Connectivity test: OK!
+[2022-07-09 11:36:08] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:36:36] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:36:36] Connectivity test: OK!
+[2022-07-09 11:36:36] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:37:56] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:37:56] Connectivity test: OK!
+[2022-07-09 11:37:56] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:43:37] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:43:37] Connectivity test: OK!
+[2022-07-09 11:43:37] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:43:48] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:43:48] Connectivity test: OK!
+[2022-07-09 11:43:48] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:44:44] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:44:44] Connectivity test: OK!
+[2022-07-09 11:44:44] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:44:52] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:44:52] Connectivity test: OK!
+[2022-07-09 11:44:52] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:45:01] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:45:01] Connectivity test: OK!
+[2022-07-09 11:45:01] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:49:51] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:49:51] Connectivity test: OK!
+[2022-07-09 11:49:51] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 11:50:04] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 11:50:04] Connectivity test: OK!
+[2022-07-09 11:50:04] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:02:27] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:02:27] Connectivity test: OK!
+[2022-07-09 12:02:27] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:02:49] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:02:49] Connectivity test: OK!
+[2022-07-09 12:02:49] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:06:33] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:06:33] Connectivity test: OK!
+[2022-07-09 12:06:33] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:06:49] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:06:49] Connectivity test: OK!
+[2022-07-09 12:06:49] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:12:42] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:12:42] Connectivity test: OK!
+[2022-07-09 12:12:42] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:12:58] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:12:58] Connectivity test: OK!
+[2022-07-09 12:12:58] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:20:08] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:20:08] Connectivity test: OK!
+[2022-07-09 12:20:08] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:20:25] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:20:25] Connectivity test: OK!
+[2022-07-09 12:20:25] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:24:25] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:24:25] Connectivity test: OK!
+[2022-07-09 12:24:25] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:24:41] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:24:41] Connectivity test: OK!
+[2022-07-09 12:24:41] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:26:12] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:26:12] Connectivity test: OK!
+[2022-07-09 12:26:12] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:26:28] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:26:29] Connectivity test: OK!
+[2022-07-09 12:26:29] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:29:07] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:29:07] Connectivity test: OK!
+[2022-07-09 12:29:07] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:29:24] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:29:24] Connectivity test: OK!
+[2022-07-09 12:29:24] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:40:16] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:40:16] Connectivity test: OK!
+[2022-07-09 12:40:16] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:40:34] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:40:34] Connectivity test: OK!
+[2022-07-09 12:40:34] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:43:50] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:43:50] Connectivity test: OK!
+[2022-07-09 12:43:50] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 12:44:09] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 12:44:09] Connectivity test: OK!
+[2022-07-09 12:44:09] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 19:29:41] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 19:29:42] Connectivity test: OK!
+[2022-07-09 19:29:42] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 19:30:03] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 19:30:03] Connectivity test: OK!
+[2022-07-09 19:30:03] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:29:35] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:29:35] Connectivity test: OK!
+[2022-07-09 20:29:35] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:29:52] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:29:52] Connectivity test: OK!
+[2022-07-09 20:29:52] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:31:38] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:31:38] Connectivity test: OK!
+[2022-07-09 20:31:38] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:31:57] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:31:57] Connectivity test: OK!
+[2022-07-09 20:31:57] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:35:52] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:35:52] Connectivity test: OK!
+[2022-07-09 20:35:52] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:36:12] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:36:12] Connectivity test: OK!
+[2022-07-09 20:36:12] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:36:37] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:36:37] Connectivity test: OK!
+[2022-07-09 20:36:37] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:36:57] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:36:57] Connectivity test: OK!
+[2022-07-09 20:36:57] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:40:54] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:40:54] Connectivity test: OK!
+[2022-07-09 20:40:54] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:41:13] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:41:13] Connectivity test: OK!
+[2022-07-09 20:41:13] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:45:20] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:45:20] Connectivity test: OK!
+[2022-07-09 20:45:20] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:45:38] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:45:38] Connectivity test: OK!
+[2022-07-09 20:45:38] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:50:41] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:50:41] Connectivity test: OK!
+[2022-07-09 20:50:41] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2022-07-09 20:51:01] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-09 20:51:01] Connectivity test: OK!
+[2022-07-09 20:51:01] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

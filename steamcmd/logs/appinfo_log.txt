@@ -1,0 +1,58 @@
+
+
+[2022-07-09 11:17:04] RequestAppInfoUpdate: AppIDs 7
+[2022-07-09 11:17:05] Change number 0->15367858, apps: 0/0, packages: 0/0
+[2022-07-09 11:17:05] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2022-07-09 11:17:06] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2022-07-09 11:17:06] Requesting 0 apps, 1 packages (full data, 1024 prev attempts)
+[2022-07-09 11:17:06] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 1 (25 KB)
+[2022-07-09 11:17:06] Requesting 910 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-07-09 11:17:07] Requested 98 app access tokens, 48 received, 50 denied
+[2022-07-09 11:17:07] Updated SHAs with 48 new access tokens
+[2022-07-09 11:17:09] Downloaded 110 apps via HTTP, 2634 KB (661 KB compressed)
+[2022-07-09 11:17:09] Requesting 800 apps, 0 packages (full data, 1024 prev attempts)
+[2022-07-09 11:17:11] UpdatesJob: finished OK, apps updated 910 (5068 KB), packages updated 0 (0 KB)
+[2022-07-09 11:17:26] Starting async write C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod/appcache/appinfo.vdf (3761837 bytes)
+[2022-07-09 11:17:28] RequestAppInfoUpdate: AppIDs 4020
+[2022-07-09 11:17:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-07-09 11:17:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-07-09 19:30:38] RequestAppInfoUpdate: AppIDs 7
+[2022-07-09 19:30:38] Change number 0->15369964, apps: 0/0, packages: 0/0
+[2022-07-09 19:30:39] Requesting 911 apps, 471 packages (meta data, 1024 prev attempts)
+[2022-07-09 19:30:39] Requested 98 app access tokens, 14 received, 84 denied
+[2022-07-09 19:30:39] Updated SHAs with 14 new access tokens
+[2022-07-09 19:30:39] Downloaded 15 apps via HTTP, 409 KB (113 KB compressed)
+[2022-07-09 19:30:39] Requesting 16 apps, 470 packages (full data, 1024 prev attempts)
+[2022-07-09 19:30:40] UpdatesJob: finished OK, apps updated 31 (477 KB), packages updated 470 (96 KB)
+[2022-07-09 19:30:40] Requesting 853 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-07-09 19:30:40] Requested 89 app access tokens, 73 received, 16 denied
+[2022-07-09 19:30:40] Updated SHAs with 73 new access tokens
+[2022-07-09 19:30:41] Downloaded 103 apps via HTTP, 2507 KB (657 KB compressed)
+[2022-07-09 19:30:41] Requesting 748 apps, 0 packages (full data, 1024 prev attempts)
+[2022-07-09 19:30:42] UpdatesJob: finished OK, apps updated 851 (4374 KB), packages updated 0 (0 KB)
+[2022-07-09 19:30:57] Starting async write C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod/appcache/appinfo.vdf (7011454 bytes)
+[2022-07-09 19:31:17] RequestAppInfoUpdate: AppIDs 240
+[2022-07-09 19:31:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-07-09 19:31:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-07-09 19:44:13] Packages changed: 
+[2022-07-09 19:44:13] Apps changed: 
+[2022-07-09 19:44:13] Change number 15369964->15370005, apps: 0/33, packages: 0/3
+[2022-07-09 19:59:25] Apps changed: 728470=15370030,
+[2022-07-09 19:59:25] Change number 15370005->15370031, apps: 1/24, packages: 0/0
+[2022-07-09 19:59:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-07-09 19:59:25] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2022-07-09 19:59:25] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-07-09 19:59:40] Starting async write C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod/appcache/appinfo.vdf (7011453 bytes)
+[2022-07-09 20:15:55] Packages changed: 
+[2022-07-09 20:15:55] Apps changed: 439660=15370126,1281930=15370123,1380950=15370050,
+[2022-07-09 20:15:55] Change number 15370031->15370143, apps: 3/97, packages: 0/7
+[2022-07-09 20:15:55] Requesting 3 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-07-09 20:15:55] Downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2022-07-09 20:15:55] Requesting 2 apps, 0 packages (full data, 1024 prev attempts)
+[2022-07-09 20:15:55] UpdatesJob: finished OK, apps updated 3 (13 KB), packages updated 0 (0 KB)
+[2022-07-09 20:16:10] Starting async write C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod/appcache/appinfo.vdf (7011451 bytes)
+[2022-07-09 20:30:40] Packages changed: 
+[2022-07-09 20:30:40] Apps changed: 
+[2022-07-09 20:30:40] Change number 15370143->15370180, apps: 0/30, packages: 0/3

@@ -1,0 +1,29 @@
+
+
+[2022-07-09 19:30:38] Setting parental settings for 206729962, account flags are 10284085
+[2022-07-09 19:30:38] Settings dump:
+[2022-07-09 19:30:38] 	Account ID: 206729962
+[2022-07-09 19:30:38] 	Enabled: false
+[2022-07-09 19:30:38] 	Base list: 0 (Allow all games)
+[2022-07-09 19:30:38] 	No custom list
+[2022-07-09 19:30:38] 	Enabled features (181e):
+[2022-07-09 19:30:38] 		Store
+[2022-07-09 19:30:38] 		Community
+[2022-07-09 19:30:38] 		Profile
+[2022-07-09 19:30:38] 		Friends
+[2022-07-09 19:30:38] 		Library
+[2022-07-09 19:30:38] 		Test
+[2022-07-09 19:30:38] Disabling parental settings for 206729962, account flags are 10284085
+[2022-07-09 19:30:38] Validating parental settings
+[2022-07-09 19:30:38] Settings dump:
+[2022-07-09 19:30:38] 	Account ID: 206729962
+[2022-07-09 19:30:38] 	Enabled: false
+[2022-07-09 19:30:38] 	Base list: 0 (Allow all games)
+[2022-07-09 19:30:38] 	No custom list
+[2022-07-09 19:30:38] 	Enabled features (181e):
+[2022-07-09 19:30:38] 		Store
+[2022-07-09 19:30:38] 		Community
+[2022-07-09 19:30:38] 		Profile
+[2022-07-09 19:30:38] 		Friends
+[2022-07-09 19:30:38] 		Library
+[2022-07-09 19:30:38] 		Test

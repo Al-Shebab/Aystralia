@@ -1,0 +1,219 @@
+[12:06:49] New map: rp_downtown_tits_v2
+
+
+
+[12:12:58] New map: rp_downtown_tits_v2
+[12:13:23] Client "Al Shebab" connected.
+[12:13:32] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+[12:13:33] Client "Skii" connected.
+[12:13:50] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:53] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:53] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:53] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:13:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[12:14:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:01] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[12:14:26] (Console) added Al Shebab to group superadmin
+[12:15:27] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 114 seconds).
+[12:16:23] Al Shebab added Skii to group superadmin
+[12:16:37] Al Shebab brought Skii
+[12:16:40] (SILENT) Al Shebab began spectating Skii
+[12:16:41] (SILENT) Al Shebab stopped spectating Skii
+[12:16:41] Skii brought Al Shebab
+[12:16:45] Al Shebab kicked Skii (You have been kicked)
+[12:16:45] Dropped "Skii" from server<STEAM_0:0:579690494>
+[12:16:53] Client "Skii" connected.
+[12:17:14] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 21 seconds).
+[12:18:31] Al Shebab killed Skii using player
+[12:18:44] Skii killed Al Shebab using player
+[12:19:00] Skii killed Al Shebab using m9k_thrown_harpoon
+[12:19:29] Skii: !menu
+[12:19:42] (SILENT) Skii began spectating Al Shebab
+[12:19:47] (SILENT) Skii stopped spectating Al Shebab
+
+
+
+[12:20:25] New map: rp_downtown_tits_v2
+[12:20:25] Client "Skii" connected.
+[12:20:25] Client "Skii" connected.
+[12:20:31] Client "Al Shebab" connected.
+[12:20:42] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 11 seconds).
+[12:20:45] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 20 seconds).
+[12:21:24] Skii<STEAM_0:0:579690494> spawned model models/props_c17/furnituresink001a.mdl
+[12:21:31] Skii suicided!
+[12:23:11] Skii: !menu
+[12:23:34] Skii ragdolled Themself
+[12:23:45] Skii: !menu
+[12:23:47] Skii unragdolled Themself
+
+
+
+[12:24:41] New map: rp_downtown_tits_v2
+[12:24:59] Client "Al Shebab" connected.
+[12:25:09] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 10 seconds).
+[12:26:00] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+
+
+
+[12:26:29] New map: rp_downtown_tits_v2
+
+
+
+[12:29:24] New map: rp_downtown_tits_v2
+[12:29:35] Client "Al Shebab" connected.
+[12:29:44] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+[12:31:07] Client "Skii" connected.
+[12:31:28] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 21 seconds).
+[12:31:52] Skii<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:33:32] Al Shebab: /advert a
+[12:33:53] Skii: /advert nigga
+[12:34:24] Skii: /advert mug drop 10k
+[12:34:28] Al Shebab: /advert mug drop 10k
+[12:34:34] Al Shebab killed Skii using player
+[12:35:31] Skii suicided!
+[12:35:48] Skii: /advert mug
+[12:36:05] Skii: !mennu
+[12:36:09] Skii: /menu
+[12:36:13] Skii: !menu
+[12:36:53] Skii blinded Al Shebab by amount 255
+[12:36:55] Skii unblinded Al Shebab
+[12:37:01] Skii granted god mode upon Themself
+[12:37:11] Skii killed Al Shebab using m9k_launched_ex41
+[12:38:26] Skii: !menu
+[12:38:29] Skii revoked god mode from Themself
+[12:38:35] Skii suicided!
+[12:38:35] Skii killed Al Shebab using m9k_suicide_bomb
+[12:38:56] Skii: /rpname DJ Bread
+[12:38:57] Skii<STEAM_0:0:579690494> changed their name to DJ Bread
+
+
+
+[12:40:34] New map: rp_downtown_tits_v2
+[12:40:37] Client "Al Shebab" connected.
+[12:40:47] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 10 seconds).
+[12:40:47] Client "Skii" connected.
+[12:41:03] Al Shebab: /advert at
+[12:41:09] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 22 seconds).
+[12:41:59] DJ Bread: /advert hi
+[12:42:44] DJ Bread<STEAM_0:0:579690494> spawned model models/props_junk/cinderblock01a.mdl
+[12:42:50] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gravestone_coffinpiece002a.mdl
+[12:43:03] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[12:43:14] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furnituretoilet001a.mdl
+[12:43:34] DJ Bread suicided!
+[12:43:43] DJ Bread suicided!
+[12:43:43] DJ Bread killed Al Shebab using prop_physics
+
+
+
+[12:44:09] New map: rp_downtown_tits_v2
+[12:44:09] Client "Al Shebab" connected.
+[12:44:09] Client "Skii" connected.
+[12:44:20] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 11 seconds).
+[12:44:31] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 22 seconds).
+[12:54:46] DJ Bread: /givemoney Skii 100000
+[12:54:56] DJ Bread: /getmoney skii 10000
+[12:55:42] DJ Bread: !menu
+[12:55:56] DJ Bread mauled Al Shebab
+[12:56:01] Al Shebab was killed by npc_fastzombie
+[12:56:23] DJ Bread: !menu
+[12:56:27] DJ Bread granted god mode upon Themself
+[12:56:30] DJ Bread mauled Themself
+[12:56:40] DJ Bread was killed by npc_fastzombie
+[12:56:49] DJ Bread: !menu
+[12:56:50] DJ Bread mauled Themself
+[12:56:52] DJ Bread suicided!
+[12:57:10] DJ Bread suicided!
+[12:57:22] DJ Bread: !menu
+[12:57:23] DJ Bread mauled Themself
+[12:57:26] DJ Bread suicided!
+[12:57:33] DJ Bread suicided!
+[12:57:43] DJ Bread suicided!
+[12:57:48] DJ Bread: !menu
+[12:57:49] DJ Bread mauled Themself
+[12:57:55] DJ Bread suicided!
+[12:58:09] DJ Bread suicided!
+[14:18:14] (SILENT) DJ Bread began spectating Al Shebab
+[14:18:16] (SILENT) DJ Bread stopped spectating Al Shebab
+[14:18:26] (SILENT) DJ Bread began spectating Al Shebab
+[14:18:29] (SILENT) DJ Bread stopped spectating Al Shebab
+[14:19:11] DJ Bread suicided!
+[14:19:15] DJ Bread suicided!
+[14:22:13] Client "PoisonBreak302" connected.
+[14:23:11] Client "PoisonBreak302" spawned in server <STEAM_0:1:436021409> (took 58 seconds).
+[14:24:19] Dropped "DJ Bread" from server<STEAM_0:0:579690494>
+[14:25:58] Dropped "PoisonBreak302" from server<STEAM_0:1:436021409>
+[14:43:00] Client "cohenbray02" connected.
+[14:44:01] Client "cohenbray02" spawned in server <STEAM_0:1:529450716> (took 61 seconds).
+[14:44:58] Dropped "cohenbray02" from server<STEAM_0:1:529450716>
+
+
+
+[19:30:03] New map: rp_downtown_tits_v2
+[20:18:02] Client "Al Shebab" connected.
+[20:18:24] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 22 seconds).
+[20:19:32] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[20:21:01] Client "Al Shebab" connected.
+[20:21:17] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 16 seconds).
+[20:22:32] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[20:22:38] Client "Al Shebab" connected.
+[20:22:47] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+[20:24:08] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+
+
+
+[20:29:52] New map: rp_downtown_tits_v2
+
+
+
+[20:31:57] New map: rp_downtown_tits_v2
+[20:33:14] Client "Al Shebab" connected.
+[20:33:31] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 17 seconds).
+
+
+
+[20:36:12] New map: rp_downtown_tits_v2
+
+
+
+[20:36:57] New map: rp_downtown_tits_v2
+[20:37:06] Client "Al Shebab" connected.
+[20:37:15] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+
+
+
+[20:41:13] New map: rp_downtown_tits_v2
+[20:41:21] Client "Al Shebab" connected.
+[20:41:30] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+
+
+
+[20:45:38] New map: rp_downtown_tits_v2
+[20:45:49] Client "Al Shebab" connected.
+[20:45:58] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+[20:47:53] Al Shebab: /dropmoney 10
+
+
+
+[20:51:01] New map: rp_downtown_tits_v2
+[20:51:07] Client "Al Shebab" connected.
+[20:51:16] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).

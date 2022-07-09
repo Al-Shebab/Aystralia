@@ -1,0 +1,16 @@
+Sat Jul  9 12:13:32 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sat Jul  9 12:13:32 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 12:15:27 2022	Skii (STEAM_0:0:579690494) has joined the game
+Sat Jul  9 12:15:27 2022	Skii (STEAM_0:0:579690494) spawned
+Sat Jul  9 12:16:41 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 12:16:45 2022	Skii (STEAM_0:0:579690494) disconnected
+Sat Jul  9 12:17:14 2022	Skii (STEAM_0:0:579690494) has joined the game
+Sat Jul  9 12:17:14 2022	Skii (STEAM_0:0:579690494) spawned
+Sat Jul  9 12:18:31 2022	Skii was killed by Al Shebab with a m9k_aw50
+Sat Jul  9 12:18:34 2022	Skii (STEAM_0:0:579690494) spawned
+Sat Jul  9 12:18:44 2022	Al Shebab was killed by Skii with a m9k_winchester73
+Sat Jul  9 12:18:46 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 12:19:00 2022	Al Shebab was killed by Skii with a m9k_thrown_harpoon
+Sat Jul  9 12:19:01 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 12:19:29 2022	Skii (STEAM_0:0:579690494): !menu
+Sat Jul  9 12:19:47 2022	Skii (STEAM_0:0:579690494) spawned

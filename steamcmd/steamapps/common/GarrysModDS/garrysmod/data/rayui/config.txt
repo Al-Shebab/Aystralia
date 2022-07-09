@@ -1,0 +1,32 @@
+{
+	"DoorMenu": true,
+	"HeaderColor": {
+		"r": 86.0,
+		"b": 86.0,
+		"a": 255.0,
+		"g": 86.0
+	},
+	"LevelSystem": "None",
+	"BlurMode": true,
+	"JobColor": false,
+	"OffsetX": 12.0,
+	"DisableKillfeed": false,
+	"OverheadHUD": "Hide HP and Armor",
+	"VehicleInfo": true,
+	"VehicleHUD": true,
+	"Rounding": 16.0,
+	"LawsPanel": "Hide",
+	"OffsetY": 12.0,
+	"Scale": 20.0,
+	"DoorHUD": true,
+	"Opacity": 255.0,
+	"CrashScreen": true,
+	"WantedList": "Hide",
+	"HideOnSpawnMenu": true,
+	"OverheadHUDNum": true,
+	"EnableBatteryAlert": false,
+	"LevelPanel": "Hide",
+	"ConfigAccess": "superadmin",
+	"MiniMode": false,
+	"Language": "english"
+}

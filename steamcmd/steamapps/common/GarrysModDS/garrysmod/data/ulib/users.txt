@@ -1,0 +1,22 @@
+"STEAM_0:0:103364981"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Al Shebab"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:579690494"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Skii"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
