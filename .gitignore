@@ -1,14 +1,3 @@
-ARK/*
-Rust/*
-Minecraft/*
-FiveM/*
-Rust - SoloDuoTrio/*
-Rust - Monthly/*
-Dayz/*
-
-FiveM Loading Screen/*
-Garry's Mod Loading Screen/*
-
 Garry's Mod/steamapps/common/GarrysModDS/sourceengine/*
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/garrysmod_000.vpk
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/garrysmod_001.vpk
@@ -17,8 +6,6 @@ Garry's Mod/logs/*
 Garry's Mod/steamapps/common/GarrysModDS/start.bat
 Garry's Mod/steamapps/common/GarrysModDS/cstrike/*
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/cache/*
-FiveM/
-Minecraft/
 
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/data/*
 Garry's Mod/steamapps/common/GarrysModDS/steam_cache/*
@@ -29,29 +16,7 @@ Garry's Mod/steamapps/common/GarrysModDS/garrysmod/sv.db
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/lua_errors_server.txt
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/logs/*
 
-
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/sourceengine/*
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/garrysmod_000.vpk
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/garrysmod_001.vpk
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/garrysmod_002.vpk
-Garry's Mod - Brazil RP/logs/*
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/start.bat
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/cstrike/*
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/cache/*
-FiveM/
-Minecraft/
-
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/data/*
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/steam_cache/*
 *.gma
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/maps/rp_downtown_tits_v1.bsp
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/maps/graphs/rp_downtown_tits_v1.ain
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/sv.db
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/lua_errors_server.txt
-Garry's Mod - Brazil RP/steamapps/common/GarrysModDS/garrysmod/logs/*
 Garry's Mod/steamapps/common/GarrysModDS/bin/*
 Garry's Mod/appcache/*
 Garry's Mod/steamapps/common/GarrysModDS/garrysmod/maps/rp_downtown_tits_v2.bsp
-Aystralia-Website/
-Garry's Mod/steamapps/common/GarrysModDS/garrysmod/clientside_errors.txt
-Garry's Mod/steamapps/common/GarrysModDS/garrysmod/modelsounds.cache
