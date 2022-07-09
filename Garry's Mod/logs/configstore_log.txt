@@ -1,0 +1,6 @@
+
+
+[2022-07-09 11:15:43] Failed to read store 'install' from 'C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\config\config.vdf.tmp'
+[2022-07-09 11:15:43] Failed to read store 'install' from 'C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\config\config.vdf.tmp'
+[2022-07-09 11:15:43] Failed to read store 'install' from 'C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\config\config.vdf.tmp'
+[2022-07-09 11:15:44] Flushed store 'install' to 'C:\Users\kazza\Desktop\Garry's Mod\Garry's Mod\config\config.vdf'
