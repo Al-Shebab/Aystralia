@@ -37,7 +37,7 @@ function ulx.give( calling_ply, target_plys, entity, should_silent )
 	end
 
 end
-local give = ulx.command( "Utility", "ulx give", ulx.give, "!give" )
+local give = ulx.command( "Custom", "ulx give", ulx.give, "!give" )
 give:addParam{ type=ULib.cmds.PlayersArg }
 give:addParam{ type=ULib.cmds.StringArg, hint="entity" }
 give:addParam{ type=ULib.cmds.BoolArg, invisible=true }
@@ -56,7 +56,7 @@ function ulx.maprestart( calling_ply )
     ulx.fancyLogAdmin( calling_ply, "#A forced a mapchange" )
 	
 end
-local maprestart = ulx.command( "Utility", "ulx maprestart", ulx.maprestart, "!maprestart" )
+local maprestart = ulx.command( "Custom", "ulx maprestart", ulx.maprestart, "!maprestart" )
 maprestart:defaultAccess( ULib.ACCESS_SUPERADMIN )
 maprestart:help( "Forces a mapchange to the current map." )
 
@@ -71,7 +71,7 @@ function ulx.stopsounds( calling_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A stopped sounds" )
 	
 end
-local stopsounds = ulx.command("Utility", "ulx stopsounds", ulx.stopsounds, {"!ss", "!stopsounds"} )
+local stopsounds = ulx.command("Custom", "ulx stopsounds", ulx.stopsounds, {"!ss", "!stopsounds"} )
 stopsounds:defaultAccess( ULib.ACCESS_SUPERADMIN )
 stopsounds:help( "Stops sounds/music of everyone in the server." )
 
@@ -109,7 +109,7 @@ function ulx.multiban( calling_ply, target_ply, minutes, reason )
 	
 	
 end
-local multiban = ulx.command( "Utility", "ulx multiban", ulx.multiban )
+local multiban = ulx.command( "Custom", "ulx multiban", ulx.multiban )
 multiban:addParam{ type=ULib.cmds.PlayersArg }
 multiban:addParam{ type=ULib.cmds.NumArg, hint="minutes, 0 for perma", ULib.cmds.optional, ULib.cmds.allowTimeString, min=0 }
 multiban:addParam{ type=ULib.cmds.StringArg, hint="reason", ULib.cmds.optional, ULib.cmds.takeRestOfLine, completes=ulx.common_kick_reasons }
@@ -167,7 +167,7 @@ hook.Add( "CalcView", "ThirdPersonView", function( ply, pos, angles, fov )
 
 end )
 net.Receive("cc_thirdperson_toggle", function(len, ply)
-		toggle()	
+	toggle()	
 	end)
 end
 
@@ -176,10 +176,10 @@ util.AddNetworkString("cc_thirdperson_toggle")
 function ulx.thirdperson( calling_ply )
 
 	net.Start("cc_thirdperson_toggle")
-	net.Send(calling_ply)
+ 	net.Send(calling_ply)	
 
 end
-local thirdperson = ulx.command( "Utility", "ulx thirdperson", ulx.thirdperson, {"!thirdperson", "!3p"}, true )
+local thirdperson = ulx.command( "Custom", "ulx thirdperson", ulx.thirdperson, {"!thirdperson", "!3p"}, true )
 thirdperson:defaultAccess( ULib.ACCESS_ALL )
 thirdperson:help( "Toggles third person mode" )
 
@@ -202,7 +202,7 @@ function ulx.timedcmd( calling_ply, command, seconds, should_cancel )
 	end)	
 	
 end
-local timedcmd = ulx.command( "Utility", "ulx timedcmd", ulx.timedcmd, "!timedcmd", true )
+local timedcmd = ulx.command( "Custom", "ulx timedcmd", ulx.timedcmd, "!timedcmd", true )
 timedcmd:addParam{ type=ULib.cmds.StringArg, hint="command" }
 timedcmd:addParam{ type=ULib.cmds.NumArg, min=1, hint="seconds", ULib.cmds.round }
 timedcmd:addParam{ type=ULib.cmds.BoolArg, invisible=true }
@@ -219,7 +219,7 @@ function ulx.cancelcmd( calling_ply )
 	ulx.fancyLogAdmin( calling_ply, true, "#A cancelled the timed command" )
 	
 end
-local cancelcmd = ulx.command( "Utility", "ulx cancelcmd", ulx.cancelcmd, "!cancelcmd", true )
+local cancelcmd = ulx.command( "Custom", "ulx cancelcmd", ulx.cancelcmd, "!cancelcmd", true )
 cancelcmd:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 cancelcmd:defaultAccess( ULib.ACCESS_ADMIN )
 cancelcmd:help( "Runs the specified command after a number of seconds." )
@@ -235,7 +235,7 @@ function ulx.cleardecals( calling_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A cleared decals" )
 	
 end
-local cleardecals = ulx.command( "Utility", "ulx cleardecals", ulx.cleardecals, "!cleardecals" )
+local cleardecals = ulx.command( "Custom", "ulx cleardecals", ulx.cleardecals, "!cleardecals" )
 cleardecals:defaultAccess( ULib.ACCESS_ADMIN )
 cleardecals:help( "Clear decals for all players." )
 
@@ -246,7 +246,7 @@ function ulx.resetmap( calling_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A reset the map to its original state" )
 	
 end
-local resetmap = ulx.command( "Utility", "ulx resetmap", ulx.resetmap, "!resetmap" )
+local resetmap = ulx.command( "Custom", "ulx resetmap", ulx.resetmap, "!resetmap" )
 resetmap:defaultAccess( ULib.ACCESS_SUPERADMIN )
 resetmap:help( "Resets the map to its original state." )
 
@@ -303,7 +303,7 @@ function ulx.bot( calling_ply, number, should_kick )
 	end
 	
 end
-local bot = ulx.command( "Utility", "ulx bot", ulx.bot, "!bot" )
+local bot = ulx.command( "Custom", "ulx bot", ulx.bot, "!bot" )
 bot:addParam{ type=ULib.cmds.NumArg, default=0, hint="number", ULib.cmds.optional }
 bot:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 bot:defaultAccess( ULib.ACCESS_ADMIN )
@@ -344,7 +344,7 @@ function ulx.banip( calling_ply, minutes, ip )
 	end
 	
 end
-local banip = ulx.command( "Utility", "ulx banip", ulx.banip )
+local banip = ulx.command( "Custom", "ulx banip", ulx.banip )
 banip:addParam{ type=ULib.cmds.NumArg, hint="minutes, 0 for perma", ULib.cmds.allowTimeString, min=0 }
 banip:addParam{ type=ULib.cmds.StringArg, hint="address" }
 banip:defaultAccess( ULib.ACCESS_SUPERADMIN )
@@ -372,7 +372,7 @@ function ulx.unbanip( calling_ply, ip )
 	ulx.fancyLogAdmin( calling_ply, true, "#A unbanned ip address #s", ip )
 	
 end
-local unbanip = ulx.command( "Utility", "ulx unbanip", ulx.unbanip )
+local unbanip = ulx.command( "Custom", "ulx unbanip", ulx.unbanip )
 unbanip:addParam{ type=ULib.cmds.StringArg, hint="address" }
 unbanip:defaultAccess( ULib.ACCESS_SUPERADMIN )
 unbanip:help( "Unbans ip address." )
@@ -384,7 +384,7 @@ function ulx.ip( calling_ply, target_ply )
 	ulx.fancyLog( {calling_ply}, "Copied IP Address of #T", target_ply )
 	
 end
-local ip = ulx.command( "Utility", "ulx ip", ulx.ip, "!copyip", true )
+local ip = ulx.command( "Custom", "ulx ip", ulx.ip, "!copyip", true )
 ip:addParam{ type=ULib.cmds.PlayerArg }
 ip:defaultAccess( ULib.ACCESS_SUPERADMIN )
 ip:help( "Copies a player's IP address." )
@@ -411,7 +411,7 @@ function ulx.sban( calling_ply, target_ply, minutes, reason )
 	ulx.fancyLogAdmin( calling_ply, true, str, target_ply, minutes ~= 0 and minutes or reason, reason )
 	
 end
-local sban = ulx.command( "Utility", "ulx sban", ulx.sban, "!sban" )
+local sban = ulx.command( "Custom", "ulx sban", ulx.sban, "!sban" )
 sban:addParam{ type=ULib.cmds.PlayerArg }
 sban:addParam{ type=ULib.cmds.NumArg, hint="minutes, 0 for perma", ULib.cmds.optional, ULib.cmds.allowTimeString, min=0 }
 sban:addParam{ type=ULib.cmds.StringArg, hint="reason", ULib.cmds.optional, ULib.cmds.takeRestOfLine, completes=ulx.common_kick_reasons }
@@ -437,7 +437,7 @@ function ulx.fakeban( calling_ply, target_ply, minutes, reason )
 	ulx.fancyLogAdmin( calling_ply, str, target_ply, minutes ~= 0 and minutes or reason, reason )
 	
 end
-local fakeban = ulx.command( "Fun", "ulx fakeban", ulx.fakeban, "!fakeban", true )
+local fakeban = ulx.command( "Custom", "ulx fakeban", ulx.fakeban, "!fakeban", true )
 fakeban:addParam{ type=ULib.cmds.PlayerArg }
 fakeban:addParam{ type=ULib.cmds.NumArg, hint="minutes, 0 for perma", ULib.cmds.optional, ULib.cmds.allowTimeString, min=0 }
 fakeban:addParam{ type=ULib.cmds.StringArg, hint="reason", ULib.cmds.optional, ULib.cmds.takeRestOfLine, completes=ulx.common_kick_reasons }
@@ -451,7 +451,7 @@ function ulx.profile( calling_ply, target_ply )
     ulx.fancyLogAdmin( calling_ply, true, "#A opened the profile of #T", target_ply )
 	
 end
-local profile = ulx.command( "Utility", "ulx profile", ulx.profile, "!profile", true )
+local profile = ulx.command( "Custom", "ulx profile", ulx.profile, "!profile", true )
 profile:addParam{ type=ULib.cmds.PlayerArg }
 profile:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 profile:defaultAccess( ULib.ACCESS_ALL )
@@ -461,9 +461,24 @@ function ulx.dban( calling_ply )
 	calling_ply:ConCommand( "xgui hide" )
 	calling_ply:ConCommand( "menu_disc" )
 end
-local dban = ulx.command( "Utility", "ulx dban", ulx.dban, "!dban" )
+local dban = ulx.command( "Custom", "ulx dban", ulx.dban, "!dban" )
 dban:defaultAccess( ULib.ACCESS_ADMIN )
 dban:help( "Open the disconnected players menu" )
+
+function ulx.skick( calling_ply, target_ply, reason )
+	if reason and reason ~= "" then
+		ulx.fancyLogAdmin( calling_ply, true, "#A kicked #T (#s)", target_ply, reason )
+	else
+		reason = nil
+		ulx.fancyLogAdmin( calling_ply, true, "#A kicked #T", target_ply )
+	end
+	ULib.kick( target_ply, reason, calling_ply )
+end
+local skick = ulx.command( "Custom", "ulx skick", ulx.skick, "!skick" )
+skick:addParam{ type=ULib.cmds.PlayerArg }
+skick:addParam{ type=ULib.cmds.StringArg, hint="reason", ULib.cmds.optional, ULib.cmds.takeRestOfLine, completes=ulx.common_kick_reasons }
+skick:defaultAccess( ULib.ACCESS_ADMIN )
+skick:help( "Kicks target." )
 
 CreateConVar( "ulx_hide_notify_superadmins", 0 )
 
@@ -525,7 +540,7 @@ function ulx.hide( calling_ply, command )
 	end
 	
 end
-local hide = ulx.command( "Utility", "ulx hide", ulx.hide, "!hide", true )
+local hide = ulx.command( "Custom", "ulx hide", ulx.hide, "!hide", true )
 hide:addParam{ type=ULib.cmds.StringArg, hint="command", ULib.cmds.takeRestOfLine }
 hide:defaultAccess( ULib.ACCESS_SUPERADMIN )
 hide:help( "Run a command without it displaying the log echo." )
@@ -539,9 +554,9 @@ function ulx.administrate( calling_ply, should_revoke )
 	end
 	
 	if not should_revoke then
-		ULib.invisible( calling_ply, true, 0 )
+		ULib.invisible( calling_ply, true, 255 )
 	else
-		ULib.invisible( calling_ply, false, 0 )
+		ULib.invisible( calling_ply, false, 255 )
 	end
 	
 	if not should_revoke then
@@ -557,7 +572,7 @@ function ulx.administrate( calling_ply, should_revoke )
 	end
 
 end
-local administrate = ulx.command( "Utility", "ulx administrate", ulx.administrate, { "!admin", "!administrate"}, true )
+local administrate = ulx.command( "Custom", "ulx administrate", ulx.administrate, { "!admin", "!administrate"}, true )
 administrate:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 administrate:defaultAccess( ULib.ACCESS_SUPERADMIN )
 administrate:help( "Cloak yourself, noclip yourself, and god yourself." )
@@ -577,7 +592,7 @@ function ulx.enter( calling_ply, target_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A forced #T into a vehicle", target_ply )
 	
 end
-local enter = ulx.command( "Utility", "ulx enter", ulx.enter, "!enter")
+local enter = ulx.command( "Custom", "ulx enter", ulx.enter, "!enter")
 enter:addParam{ type=ULib.cmds.PlayerArg }
 enter:defaultAccess( ULib.ACCESS_ADMIN )
 enter:help( "Force a player into a vehicle." )
@@ -594,7 +609,7 @@ function ulx.exit( calling_ply, target_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A forced #T out of a vehicle", target_ply )
 	
 end
-local exit = ulx.command( "Utility", "ulx exit", ulx.exit, "!exit")
+local exit = ulx.command( "Custom", "ulx exit", ulx.exit, "!exit")
 exit:addParam{ type=ULib.cmds.PlayerArg }
 exit:defaultAccess( ULib.ACCESS_ADMIN )
 exit:help( "Force a player out of a vehicle." )
@@ -624,7 +639,7 @@ function ulx.forcerespawn( calling_ply, target_plys )
 	ulx.fancyLogAdmin( calling_ply, "#A respawned #T", target_plys )
 	
 end
-local forcerespawn = ulx.command( "Utility", "ulx forcerespawn", ulx.forcerespawn, { "!forcerespawn", "!frespawn"} )
+local forcerespawn = ulx.command( "Custom", "ulx forcerespawn", ulx.forcerespawn, { "!forcerespawn", "!frespawn"} )
 forcerespawn:addParam{ type=ULib.cmds.PlayersArg }
 forcerespawn:defaultAccess( ULib.ACCESS_ADMIN )
 forcerespawn:help( "Force-respawn a player." )
@@ -707,14 +722,14 @@ function ulx.serverinfo( calling_ply )
 	end
 	
 end
-local serverinfo = ulx.command( "Utility", "ulx serverinfo", ulx.serverinfo, { "!serverinfo", "!info" } )
+local serverinfo = ulx.command( "Custom", "ulx serverinfo", ulx.serverinfo, { "!serverinfo", "!info" } )
 serverinfo:defaultAccess( ULib.ACCESS_ADMIN )
 serverinfo:help( "Print server information." )
 
 function ulx.timescale( calling_ply, number, should_reset )
 
 	if not should_reset then
-
+	
 		if number <= 0.1 then
 			ULib.tsayError( calling_ply, "Cannot set the timescale at or below 0.1, doing so will cause instability." )
 			return
@@ -738,7 +753,7 @@ function ulx.timescale( calling_ply, number, should_reset )
 	end
 	
 end
-local timescale = ulx.command( "Utility", "ulx timescale", ulx.timescale, "!timescale" )
+local timescale = ulx.command( "Custom", "ulx timescale", ulx.timescale, "!timescale" )
 timescale:addParam{ type=ULib.cmds.NumArg, default=1, hint="multiplier" }
 timescale:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 timescale:defaultAccess( ULib.ACCESS_SUPERADMIN )
@@ -764,7 +779,7 @@ function ulx.removeragdolls( calling_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A removed ragdolls" )
 	
 end
-local removeragdolls = ulx.command( "Utility", "ulx removeragdolls", ulx.removeragdolls, "!removeragdolls" )
+local removeragdolls = ulx.command( "Custom", "ulx removeragdolls", ulx.removeragdolls, "!removeragdolls" )
 removeragdolls:defaultAccess( ULib.ACCESS_ADMIN )
 removeragdolls:help( "Remove all ragdolls." )
 
@@ -818,7 +833,7 @@ function ulx.bancheck( calling_ply, steamid )
 	end
 	
 end
-local bancheck = ulx.command( "Utility", "ulx bancheck", ulx.bancheck, "!bancheck" )
+local bancheck = ulx.command( "Custom", "ulx bancheck", ulx.bancheck, "!bancheck" )
 bancheck:addParam{ type=ULib.cmds.StringArg, hint="string" }
 bancheck:defaultAccess( ULib.ACCESS_ADMIN )
 bancheck:help( "Checks if a steamid or ip address is banned." )
@@ -853,16 +868,15 @@ if ( CLIENT ) then
 	end )
 	
 end
-
 local requests = {}
 function ulx.friends( calling_ply, target_ply )
-	requests[calling_ply:SteamID() .. target_ply:SteamID()] = true
+	requests[ calling_ply:SteamID() .. target_ply:SteamID() ] = true
 	umsg.Start( "getfriends", target_ply )
 		umsg.Entity( calling_ply )
 	umsg.End()
 	
 end
-local friends = ulx.command( "Utility", "ulx friends", ulx.friends, { "!friends", "!listfriends" }, true )
+local friends = ulx.command( "Custom", "ulx friends", ulx.friends, { "!friends", "!listfriends" }, true )
 friends:addParam{ type=ULib.cmds.PlayerArg }
 friends:defaultAccess( ULib.ACCESS_ADMIN )
 friends:help( "Print a player's connected steam friends." )
@@ -898,8 +912,10 @@ if ( SERVER ) then
 	
 		local calling, tabl = net.ReadEntity(), net.ReadTable() 
 		local tab = table.concat( tabl, ", " )
-		if not IsValid(calling) or not calling:IsPlayer() or not requests[calling:SteamID() .. ply:SteamID()] then return end
+		if not IsValid(calling) or not calling:IsPlayer() then return end
 
+		if not requests[calling:SteamID() .. ply:SteamID()] then return end
+		
 		if ( string.len( tab ) == 0 and table.Count( tabl ) == 0 ) then			
 			ulx.fancyLog( {calling}, "#T is not friends with anyone on the server", ply )
 		else
@@ -941,21 +957,6 @@ if ( SERVER ) then
 
 		IsPlayerOnWatchlist = function(steamID)
 			return file.Exists(WatchlistData.GetFilePath(steamID), "DATA")
-		end,
-
-		GetPlayerWatchlistInfo = function(steamID)
-			if(not WatchlistData.IsPlayerOnWatchlist(steamID)) then return nil end
-
-			local watchInfoRaw = file.Read(WatchlistData.GetFilePath(steamID), "DATA")
-			local watchInfo = string.Explode("\n", watchInfoRaw)
-
-			return {
-				SteamID = steamID:upper(),
-				PlayerName = watchInfo[1],
-				AdminName = watchInfo[2],
-				Reason = watchInfo[3],
-				DateTime = watchInfo[4]
-			}
 		end,
 
 		RemovePlayer = function(steamID)
@@ -1015,13 +1016,11 @@ if ( SERVER ) then
 	end)
 	
 	hook.Add("PlayerInitialSpawn", "CheckWatchedPlayers", function(ply)
-		local watchlistInfo = WatchlistData.GetPlayerWatchlistInfo(ply:SteamID())
-		if(watchlistInfo == nil) then return end
+		if(WatchlistData.IsPlayerOnWatchlist(ply:SteamID()) == false) then return end
 
 		for k, otherPlayer in pairs( player.GetHumans()) do
 			if otherPlayer:IsAdmin() then
 				ULib.tsayError(otherPlayer, ply:Nick() .. " (" .. ply:SteamID() .. ") has joined the server and is on the watchlist!" )
-				ULib.tsayColor(otherPlayer, "", Color(255, 141, 34), "Reason: ", Color(255, 0, 0), watchlistInfo.Reason)
 			end
 		end
 	end)
@@ -1037,65 +1036,30 @@ if ( SERVER ) then
 	end)
 end
 
-function ulx.watch( calling_ply, target_ply, reason )
+function ulx.watch( calling_ply, target_ply, reason, should_unwatch )
 	local targetSteamID = target_ply:SteamID()
 	local targetPlayerName = target_ply:Nick()
 
-	WatchlistData.AddPlayer(targetSteamID, targetPlayerName, calling_ply:Nick(), reason)
-	ulx.fancyLogAdmin(calling_ply, true, "#A added #T to the watchlist (#s)", target_ply, reason)
+	if should_unwatch then
+		if WatchlistData.IsPlayerOnWatchlist(targetSteamID) then
+			WatchlistData.RemovePlayer(targetSteamID)
+			ulx.fancyLogAdmin(calling_ply, true, "#A removed #T from the watchlist", target_ply)
+		else
+			ULib.tsayError(calling_ply, targetPlayerName .. " is not on the watchlist.")
+		end
+	else
+		WatchlistData.AddPlayer(targetSteamID, targetPlayerName, calling_ply:Nick(), reason)
+		ulx.fancyLogAdmin(calling_ply, true, "#A added #T to the watchlist (#s)", target_ply, reason)
+	end
 end
 
-local watch = ulx.command( "Utility", "ulx watch", ulx.watch, "!watch", true )
+local watch = ulx.command( "Custom", "ulx watch", ulx.watch, "!watch", true )
 watch:addParam{ type=ULib.cmds.PlayerArg }
 watch:addParam{ type=ULib.cmds.StringArg, hint="reason", ULib.cmds.takeRestOfLine }
+watch:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 watch:defaultAccess( ULib.ACCESS_ADMIN )
-watch:help( "Watch a player" )
-
-
-function ulx.unwatch( calling_ply, target_ply)
-	local targetSteamID = target_ply:SteamID()
-
-	if WatchlistData.IsPlayerOnWatchlist(targetSteamID) then
-		WatchlistData.RemovePlayer(targetSteamID)
-		ulx.fancyLogAdmin(calling_ply, true, "#A removed #T from the watchlist", target_ply)
-	else
-		ULib.tsayError(calling_ply, targetPlayerName .. " is not on the watchlist.")
-	end
-end
-
-local unwatch = ulx.command( "Utility", "ulx unwatch", ulx.unwatch, "!unwatch", true )
-unwatch:addParam{ type=ULib.cmds.PlayerArg }
-unwatch:defaultAccess( ULib.ACCESS_ADMIN )
-unwatch:help( "Unwatch a player" )
-
-
-
-function ulx.watchid( calling_ply, targetSteamID, reason)
-	WatchlistData.AddPlayer(targetSteamID, "", calling_ply:Nick(), reason)
-	ulx.fancyLogAdmin(calling_ply, true, "#A added #s to the watchlist (#s)", targetSteamID, reason)
-end
-
-local watchid = ulx.command( "Utility", "ulx watchid", ulx.watchid, "!watchid", true )
-watchid:addParam{ type=ULib.cmds.StringArg, hint="Steam ID" }
-watchid:addParam{ type=ULib.cmds.StringArg, hint="reason", ULib.cmds.takeRestOfLine }
-watchid:defaultAccess( ULib.ACCESS_ADMIN )
-watchid:help( "Watch a player by their Steam ID" )
-
-
-function ulx.unwatchid( calling_ply, targetSteamID )
-	if WatchlistData.IsPlayerOnWatchlist(targetSteamID) then
-		WatchlistData.RemovePlayer(targetSteamID)
-		ulx.fancyLogAdmin(calling_ply, true, "#A removed #s from the watchlist", targetSteamID)
-	else
-		ULib.tsayError(calling_ply, targetSteamID .. " is not on the watchlist.")
-	end
-end
-
-local unwatchid = ulx.command( "Utility", "ulx unwatchid", ulx.unwatchid, "!unwatchid", true )
-unwatchid:addParam{ type=ULib.cmds.StringArg, hint="Steam ID" }
-unwatchid:defaultAccess( ULib.ACCESS_ADMIN )
-unwatchid:help( "Unwatch a player by their Steam ID" )
-
+watch:help( "Watch or unwatch a player" )
+watch:setOpposite( "ulx unwatch", { _, _, false, true }, "!unwatch", true )
 
 
 
@@ -1106,56 +1070,36 @@ function ulx.watchlist( calling_ply )
 		net.Send(calling_ply)
 	end
 end
-local watchlist = ulx.command( "Utility", "ulx watchlist", ulx.watchlist, "!watchlist", true )
+local watchlist = ulx.command( "Custom", "ulx watchlist", ulx.watchlist, "!watchlist", true )
 watchlist:defaultAccess( ULib.ACCESS_ADMIN )
 watchlist:help( "View the watchlist" )
 
 
 
 if ( CLIENT ) then
-	function debounce(func, wait)
-		local timerName
-
-		return function(...)
-			local args = ...
-			local later = function()
-				timerName = nil
-				func(args)
-			end
-
-			if(timerName != nil) then timer.Remove(timerName) end
-			timerName = tostring(func) .. tostring(math.random(1, 9999999))
-			timer.Create(timerName, wait, 1, later)
-		end
-	end
-
 
 	local WatchlistUIList = nil
-	local WatchlistData = {}
-
-	local function UpdateWatchlistUIList(watchedPlayersList)
-		if(WatchlistUIList == nil) then return end
-
-		WatchlistUIList:Clear()
-
-		for k, watchedPlayer in pairs(watchedPlayersList) do
-			WatchlistUIList:AddLine(watchedPlayer.SteamID, watchedPlayer.PlayerName, watchedPlayer.AdminName, watchedPlayer.Reason, watchedPlayer.DateTime)
-		end
-	end
 	
 	net.Receive("Watchlist_RequestWatchedPlayersCallback", function()
 		local length = net.ReadUInt(32)
 		local dataCompressed = net.ReadData(length)
 
-		WatchlistData = util.JSONToTable(util.Decompress(dataCompressed))
-		UpdateWatchlistUIList(WatchlistData)
+		local watchedPlayers = util.JSONToTable(util.Decompress(dataCompressed))
+
+		if(WatchlistUIList != nil) then
+			WatchlistUIList:Clear()
+
+			for k, watchedPlayer in pairs(watchedPlayers) do
+				WatchlistUIList:AddLine(watchedPlayer.SteamID, watchedPlayer.PlayerName, watchedPlayer.AdminName, watchedPlayer.Reason, watchedPlayer.DateTime)
+			end
+		end
 	end)
 
 
 	local function RenderWatchlist()
 		local main = vgui.Create( "DFrame" )	
 			main:SetPos( 50,50 )
-			main:SetSize( 700, 425 )
+			main:SetSize( 700, 400 )
 			main:SetTitle( "Watchlist" )
 			main:SetVisible( true )
 			main:SetDraggable( true )
@@ -1167,42 +1111,8 @@ if ( CLIENT ) then
 			WatchlistUIList = nil
 		end
 
-
-		local searchBox = vgui.Create("DTextEntry", main)
-		searchBox:SetPos(4, 27)
-		searchBox:SetSize(300, 25)
-		searchBox:SetPlaceholderText("Search...")
-		searchBox:SetValue("")
-
-		searchBox:SetUpdateOnType(true)
-		searchBox.OnValueChange = debounce(function(self)
-			local searchTerm = string.lower(string.sub(self:GetValue(), 1, 200))
-
-			if(searchTerm == "") then
-				UpdateWatchlistUIList(WatchlistData)
-				return
-			end
-
-
-			local searchResults = {}
-			for k, watchedPlayer in pairs(WatchlistData) do
-				if(string.find(watchedPlayer.SteamID:lower(), searchTerm) != nil) then
-					table.insert(searchResults, watchedPlayer)
-				elseif(string.find(watchedPlayer.PlayerName:lower(), searchTerm) != nil) then
-					table.insert(searchResults, watchedPlayer)
-				elseif(string.find(watchedPlayer.Reason:lower(), searchTerm) != nil) then
-					table.insert(searchResults, watchedPlayer)
-				elseif(string.find(watchedPlayer.AdminName:lower(), searchTerm) != nil) then
-					table.insert(searchResults, watchedPlayer)
-				end
-			end
-
-			UpdateWatchlistUIList(searchResults)
-		end, 0.5)
-
-
 		WatchlistUIList = vgui.Create( "DListView", main )
-			WatchlistUIList:SetPos( 4, 52 )
+			WatchlistUIList:SetPos( 4, 27 )
 			WatchlistUIList:SetSize( 692, 369 )
 			WatchlistUIList:SetMultiSelect( false )
 			WatchlistUIList:AddColumn( "SteamID" )
@@ -1244,7 +1154,7 @@ if ( CLIENT ) then
 						-- Refresh list of watched players
 						net.Start("Watchlist_RequestWatchedPlayers")
 						net.SendToServer()
-						
+
 					end):SetIcon( "icon16/table_row_delete.png" )
 
 					menu:AddOption( "Ban by SteamID", function()

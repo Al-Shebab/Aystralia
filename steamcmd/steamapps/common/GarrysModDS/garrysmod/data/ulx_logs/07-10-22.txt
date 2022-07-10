@@ -273,3 +273,21 @@
 [13:01:41] Al Shebab suicided!
 [13:02:14] DJ Bread suicided!
 [13:02:44] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl
+[13:04:55] DJ Bread: /drop
+
+
+
+[13:07:23] New map: rp_downtown_tits_v2
+[13:07:33] Client "Al Shebab" connected.
+[13:07:43] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 10 seconds).
+[13:08:35] Client "Skii" connected.
+[13:08:59] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 24 seconds).
+[13:09:00] Al Shebab granted access "ulx jobban" to group superadmin
+[13:09:00] Al Shebab granted access "ulx jobunban" to group superadmin
+[13:09:01] Al Shebab granted access "ulx resetlaws" to group superadmin
+[13:09:01] Al Shebab granted access "ulx setjob" to group superadmin
+[13:09:02] Al Shebab granted access "ulx unarrest" to group superadmin
+[13:09:02] Al Shebab granted access "ulx setname" to group superadmin
+[13:09:03] Al Shebab granted access "ulx unflockdown" to group superadmin
+[13:09:14] Al Shebab removed group noaccess
+[13:09:20] Al Shebab removed group admin

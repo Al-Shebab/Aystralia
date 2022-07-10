@@ -152,7 +152,7 @@ function ulx.fbring( calling_ply, target_ply )
 	ulx.fancyLogAdmin( calling_ply, "#A brought and froze #T", target_ply )
 
 end
-local fbring = ulx.command( "Teleport", "ulx fbring", ulx.fbring, "!fbring" )
+local fbring = ulx.command( "Custom", "ulx fbring", ulx.fbring, "!fbring" )
 fbring:addParam{ type=ULib.cmds.PlayerArg, target="!^" }
 fbring:defaultAccess( ULib.ACCESS_ADMIN )
 fbring:help( "Brings target to you and freezes them." )
@@ -234,7 +234,7 @@ function ulx.fteleport( calling_ply, target_ply )
 	
 	
 end
-local fteleport = ulx.command( "Teleport", "ulx fteleport", ulx.fteleport, {"!ftp", "!fteleport"} )
+local fteleport = ulx.command( "Custom", "ulx fteleport", ulx.fteleport, {"!ftp", "!fteleport"} )
 fteleport:addParam{ type=ULib.cmds.PlayerArg }
 fteleport:defaultAccess( ULib.ACCESS_ADMIN )
 fteleport:help( "Teleports target and freezes them." )
@@ -268,7 +268,7 @@ function ulx.setwarp( calling_ply, name )
 	ulx.fancyLogAdmin( calling_ply, true, "#A set warp position #s", name )
 
 end
-local setwarp = ulx.command( "Teleport", "ulx setwarp", ulx.setwarp, "!setwarp" )
+local setwarp = ulx.command( "Custom", "ulx setwarp", ulx.setwarp, "!setwarp" )
 setwarp:addParam{ type=ULib.cmds.StringArg, hint="name" }
 setwarp:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 setwarp:defaultAccess( ULib.ACCESS_ADMIN )
@@ -292,7 +292,7 @@ if ( not name[1] ) then return end
 	ulx.fancyLogAdmin( calling_ply, "#A warped to #s", name )
 	
 end
-local warp = ulx.command( "Teleport", "ulx warp", ulx.warp, "!warp" )
+local warp = ulx.command( "Custom", "ulx warp", ulx.warp, "!warp" )
 warp:addParam{ type=ULib.cmds.StringArg, hint="name" }
 warp:defaultAccess( ULib.ACCESS_ADMIN )
 warp:help( "Warps to a set position" )

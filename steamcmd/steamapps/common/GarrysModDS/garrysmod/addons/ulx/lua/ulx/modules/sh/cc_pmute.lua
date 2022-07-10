@@ -23,7 +23,7 @@ function ulx.pmute(calling_ply, target_plys, should_unmute)
 end
 
 
-local pmute = ulx.command("Chat", "ulx pmute", ulx.pmute, "!pmute")
+local pmute = ulx.command("Custom", "ulx pmute", ulx.pmute, "!pmute")
 pmute:addParam{ type=ULib.cmds.PlayersArg }
 pmute:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 pmute:defaultAccess(ULib.ACCESS_ADMIN)
@@ -57,7 +57,7 @@ function ulx.pmuteid(calling_ply, steamID, should_unmute)
 	end
 end
 
-local pmuteid = ulx.command("Chat", "ulx pmuteid", ulx.pmuteid, "!pmuteid")
+local pmuteid = ulx.command("Custom", "ulx pmuteid", ulx.pmuteid, "!pmuteid")
 pmuteid:addParam{ type=ULib.cmds.StringArg, hint="steamid" }
 pmuteid:addParam{ type=ULib.cmds.BoolArg, invisible=true }
 pmuteid:defaultAccess( ULib.ACCESS_ADMIN )
@@ -130,6 +130,6 @@ function ulx.printpmutes(calling_ply)
 	ulx.fancyLog({calling_ply}, "PMuted: #s", message)
 end
 
-local printpmutes = ulx.command("Chat", "ulx printpmutes", ulx.printpmutes, "!printpmutes", true)
+local printpmutes = ulx.command("Custom", "ulx printpmutes", ulx.printpmutes, "!printpmutes", true)
 printpmutes:defaultAccess( ULib.ACCESS_ADMIN )
 printpmutes:help("Lists any players connected to the server who are permanently muted.")

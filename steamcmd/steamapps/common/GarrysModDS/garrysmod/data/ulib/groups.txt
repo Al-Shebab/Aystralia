@@ -1,13 +1,14 @@
 "sydney"	
 {
-	"can_target"	"!%ayssie"
 	"allow"	
 	{
 	}
+	"can_target"	"!%ayssie"
 	"inherit_from"	"melbourne"
 }
 "moderator"	
 {
+	"can_target"	"!%senior-moderator"
 	"allow"	
 	{
 		"ulx ban"
@@ -16,27 +17,29 @@
 		"ulx unfreeze"
 		"ulx unjail"
 	}
-	"can_target"	"!%senior-moderator"
 	"inherit_from"	"trial-moderator"
 }
 "regular"	
 {
-	"can_target"	"!%trusted"
 	"allow"	
 	{
 	}
+	"can_target"	"!%trusted"
 	"inherit_from"	"user"
 }
-"perth"	
+"administrator"	
 {
-	"can_target"	"!%brisbane"
+	"can_target"	"!%senior-administrator"
 	"allow"	
 	{
+		"ulx armor"
+		"ulx hp"
 	}
-	"inherit_from"	"legend"
+	"inherit_from"	"senior-moderator"
 }
 "staff-manager"	
 {
+	"can_target"	"!%superadmin"
 	"allow"	
 	{
 		"darkrp_admincommands"
@@ -171,40 +174,117 @@
 		"xgui_managegroups"
 		"xgui_svsettings"
 	}
-	"can_target"	"!%superadmin"
 	"inherit_from"	"senior-administrator"
 }
 "melbourne"	
 {
-	"can_target"	"!%sydney"
 	"allow"	
 	{
 	}
+	"can_target"	"!%sydney"
 	"inherit_from"	"brisbane"
 }
 "trusted"	
 {
-	"can_target"	"!%legend"
 	"allow"	
 	{
 	}
+	"can_target"	"!%legend"
 	"inherit_from"	"regular"
 }
 "brisbane"	
 {
-	"can_target"	"!%melbourne"
 	"allow"	
 	{
 	}
+	"can_target"	"!%melbourne"
 	"inherit_from"	"perth"
 }
 "senior-administrator"	
 {
+	"can_target"	"!%staff-manager"
 	"allow"	
 	{
 	}
-	"can_target"	"!%staff-manager"
 	"inherit_from"	"administrator"
+}
+"user"	
+{
+	"allow"	
+	{
+		"ulx addons"
+		"ulx apply"
+		"ulx asay"
+		"ulx bugs"
+		"ulx content"
+		"ulx deletespawn"
+		"ulx discord"
+		"ulx donate"
+		"ulx forum"
+		"ulx group"
+		"ulx profile"
+		"ulx rules"
+		"ulx setspawn"
+		"ulx soundlist"
+		"ulx thetime"
+		"ulx thirdperson"
+		"ulx votegag"
+		"ulx votemute"
+		"ulx workshop"
+	}
+}
+"senior-moderator"	
+{
+	"can_target"	"!%administrator"
+	"allow"	
+	{
+		"ulx god"
+		"ulx strip"
+		"ulx ungod"
+	}
+	"inherit_from"	"moderator"
+}
+"legend"	
+{
+	"allow"	
+	{
+	}
+	"can_target"	"!%perth"
+	"inherit_from"	"trusted"
+}
+"trial-moderator"	
+{
+	"can_target"	"!%moderator"
+	"allow"	
+	{
+		"ulx bring"
+		"ulx freeze"
+		"ulx gag"
+		"ulx goto"
+		"ulx jail"
+		"ulx kick"
+		"ulx noclip"
+		"ulx return"
+		"ulx teleport"
+		"ulx ungag"
+	}
+	"inherit_from"	"user"
+}
+"ayssie"	
+{
+	"allow"	
+	{
+	}
+	"can_target"	"!%trial-moderator"
+	"inherit_from"	"sydney"
+}
+"perth"	
+{
+	"allow"	
+	{
+	}
+	"can_target"	"!%brisbane"
+	"inherit_from"	"legend"
 }
 "superadmin"	
 {
@@ -231,6 +311,7 @@
 		"ulx csaycolor"
 		"ulx dban"
 		"ulx deaths"
+		"ulx deleteglobalspawn"
 		"ulx ent"
 		"ulx enter"
 		"ulx exec"
@@ -256,6 +337,8 @@
 		"ulx hide"
 		"ulx hook"
 		"ulx ip"
+		"ulx jobban"
+		"ulx jobunban"
 		"ulx jumppower"
 		"ulx kickbots"
 		"ulx launch"
@@ -276,6 +359,7 @@
 		"ulx logspawns"
 		"ulx logspawnsecho"
 		"ulx luarun"
+		"ulx managedarkrpspawns"
 		"ulx maprestart"
 		"ulx material"
 		"ulx maul"
@@ -302,6 +386,7 @@
 		"ulx removeuserid"
 		"ulx renamegroup"
 		"ulx resetcolor"
+		"ulx resetlaws"
 		"ulx resetmap"
 		"ulx resetmaterial"
 		"ulx resettimescale"
@@ -315,8 +400,11 @@
 		"ulx sendlua"
 		"ulx serverinfo"
 		"ulx setammo"
+		"ulx setglobalspawn"
 		"ulx setgroupcantarget"
+		"ulx setjob"
 		"ulx setmoney"
+		"ulx setname"
 		"ulx setwarp"
 		"ulx sgive"
 		"ulx shock"
@@ -333,7 +421,9 @@
 		"ulx trail"
 		"ulx tsaycolor"
 		"ulx unadministrate"
+		"ulx unarrest"
 		"ulx unbanip"
+		"ulx unflockdown"
 		"ulx unpgag"
 		"ulx unpgagid"
 		"ulx unpmute"
@@ -366,157 +456,4 @@
 		"xgui_svsettings"
 	}
 	"inherit_from"	"staff-manager"
-}
-"senior-moderator"	
-{
-	"allow"	
-	{
-		"ulx god"
-		"ulx strip"
-		"ulx ungod"
-	}
-	"can_target"	"!%administrator"
-	"inherit_from"	"moderator"
-}
-"user"	
-{
-	"allow"	
-	{
-		"ulx asay"
-		"ulx donate"
-		"ulx profile"
-		"ulx soundlist"
-		"ulx thetime"
-		"ulx thirdperson"
-		"ulx votegag"
-		"ulx votemute"
-	}
-}
-"administrator"	
-{
-	"allow"	
-	{
-		"ulx armor"
-		"ulx hp"
-	}
-	"can_target"	"!%senior-administrator"
-	"inherit_from"	"senior-moderator"
-}
-"admin"	
-{
-	"allow"	
-	{
-		"ulx bancheck"
-		"ulx bot"
-		"ulx cancelcmd"
-		"ulx cleardecals"
-		"ulx color"
-		"ulx csaycolor"
-		"ulx dban"
-		"ulx deaths"
-		"ulx enter"
-		"ulx exit"
-		"ulx explode"
-		"ulx fbring"
-		"ulx forcerespawn"
-		"ulx frags"
-		"ulx friends"
-		"ulx fteleport"
-		"ulx getmoney"
-		"ulx give"
-		"ulx giveammo"
-		"ulx jobban"
-		"ulx jobunban"
-		"ulx jumppower"
-		"ulx kickbots"
-		"ulx launch"
-		"ulx material"
-		"ulx model"
-		"ulx multiban"
-		"ulx notepad"
-		"ulx notifications"
-		"ulx pgag"
-		"ulx pgagid"
-		"ulx pmute"
-		"ulx pmuteid"
-		"ulx printpgags"
-		"ulx printpmutes"
-		"ulx removeragdolls"
-		"ulx removetrail"
-		"ulx resetcolor"
-		"ulx resetlaws"
-		"ulx resetmaterial"
-		"ulx sban"
-		"ulx scale"
-		"ulx serverinfo"
-		"ulx setammo"
-		"ulx setjob"
-		"ulx setname"
-		"ulx setwarp"
-		"ulx sgive"
-		"ulx shock"
-		"ulx timedcmd"
-		"ulx trail"
-		"ulx tsaycolor"
-		"ulx unarrest"
-		"ulx unflockdown"
-		"ulx unpgag"
-		"ulx unpgagid"
-		"ulx unpmute"
-		"ulx unpmuteid"
-		"ulx unvotegag"
-		"ulx unvotemute"
-		"ulx unwatch"
-		"ulx unwatchid"
-		"ulx votegagminvotes"
-		"ulx votegagsuccessratio"
-		"ulx votemuteminvotes"
-		"ulx votemutesuccessratio"
-		"ulx warp"
-		"ulx watch"
-		"ulx watchid"
-		"ulx watchlist"
-	}
-	"inherit_from"	"user"
-}
-"trial-moderator"	
-{
-	"allow"	
-	{
-		"ulx bring"
-		"ulx freeze"
-		"ulx gag"
-		"ulx goto"
-		"ulx jail"
-		"ulx kick"
-		"ulx noclip"
-		"ulx return"
-		"ulx teleport"
-		"ulx ungag"
-	}
-	"can_target"	"!%moderator"
-	"inherit_from"	"user"
-}
-"ayssie"	
-{
-	"can_target"	"!%trial-moderator"
-	"allow"	
-	{
-	}
-	"inherit_from"	"sydney"
-}
-"noaccess"	
-{
-	"allow"	
-	{
-	}
-	"inherit_from"	"user"
-}
-"legend"	
-{
-	"can_target"	"!%perth"
-	"allow"	
-	{
-	}
-	"inherit_from"	"trusted"
 }

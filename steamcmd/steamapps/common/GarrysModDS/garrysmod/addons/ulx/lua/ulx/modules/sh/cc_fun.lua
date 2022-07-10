@@ -1,69 +1,62 @@
 ------------------------------------
 --  This file holds fun commands  --
 ------------------------------------
-
 function ulx.explode( calling_ply, target_plys )
-	local explodenum = 0
+
 	for k, v in pairs( target_plys ) do	
-		local playerspec = v:IsSpec()
-		local playeralive = v:Alive()
 	
-		if playerspec or not playeralive then
-			ULib.tsayError( calling_ply, v:Nick() .. " is dead!", true )
-		else	
-			local playerpos = v:GetPos()	
-			
-			local waterlevel = v:WaterLevel()	
-			
-			timer.Simple( 0.1, function()				
-				local traceworld = {}				
-					traceworld.start = playerpos					
-					traceworld.endpos = traceworld.start + ( Vector( 0,0,-1 ) * 250 )					
-					local trw = util.TraceLine( traceworld )					
-					local worldpos1 = trw.HitPos + trw.HitNormal					
-					local worldpos2 = trw.HitPos - trw.HitNormal				
-				util.Decal( "Scorch",worldpos1,worldpos2 )				
-			end )		
-			
-			if GetConVarNumber( "explode_ragdolls" ) == 1 then						
-				v:SetVelocity( Vector( 0, 0, 10 ) * math.random( 75, 150 ) )			
-				timer.Simple( 0.05, function() v:Kill() end )				
-			elseif GetConVarNumber( "explode_ragdolls" ) == 0 then			
-				v:Kill()				
-			end		
-			
-			util.ScreenShake( playerpos, 5, 5, 1.5, 200 )
-			
-			if ( waterlevel > 1 ) then		
-				local vPoint = playerpos + Vector(0,0,10)				
-					local effectdata = EffectData()					
-					effectdata:SetStart( vPoint )					
-					effectdata:SetOrigin( vPoint )					
-					effectdata:SetScale( 1 )					
-				util.Effect( "WaterSurfaceExplosion", effectdata )				
-				local vPoint = playerpos + Vector(0,0,10)				
-					local effectdata = EffectData()					
-					effectdata:SetStart( vPoint )					
-					effectdata:SetOrigin( vPoint )					
-					effectdata:SetScale( 1 )					
-				util.Effect( "HelicopterMegaBomb", effectdata ) 				
-			else			
-				local vPoint = playerpos + Vector( 0,0,10 )				
-					local effectdata = EffectData()					
-					effectdata:SetStart( vPoint )					
-					effectdata:SetOrigin( vPoint )					
-					effectdata:SetScale( 1 )					
-				util.Effect( "HelicopterMegaBomb", effectdata )				
-				v:EmitSound( Sound ("ambient/explosions/explode_4.wav") )				
-			end
-			explodenum = explodenum + 1
-		end
-	end
-	if explodenum ~= 0 then
-		ulx.fancyLogAdmin( calling_ply, "#A exploded #T", target_plys )
-	end
+		local playerpos = v:GetPos()	
+		
+		local waterlevel = v:WaterLevel()	
+		
+		timer.Simple( 0.1, function()				
+			local traceworld = {}				
+				traceworld.start = playerpos					
+				traceworld.endpos = traceworld.start + ( Vector( 0,0,-1 ) * 250 )					
+				local trw = util.TraceLine( traceworld )					
+				local worldpos1 = trw.HitPos + trw.HitNormal					
+				local worldpos2 = trw.HitPos - trw.HitNormal				
+			util.Decal( "Scorch",worldpos1,worldpos2 )				
+		end )		
+		
+		if GetConVarNumber( "explode_ragdolls" ) == 1 then						
+			v:SetVelocity( Vector( 0, 0, 10 ) * math.random( 75, 150 ) )			
+			timer.Simple( 0.05, function() v:Kill() end )				
+		elseif GetConVarNumber( "explode_ragdolls" ) == 0 then			
+			v:Kill()				
+		end		
+		
+		util.ScreenShake( playerpos, 5, 5, 1.5, 200 )
+		
+		if ( waterlevel > 1 ) then		
+			local vPoint = playerpos + Vector(0,0,10)				
+				local effectdata = EffectData()					
+				effectdata:SetStart( vPoint )					
+				effectdata:SetOrigin( vPoint )					
+				effectdata:SetScale( 1 )					
+			util.Effect( "WaterSurfaceExplosion", effectdata )				
+			local vPoint = playerpos + Vector(0,0,10)				
+				local effectdata = EffectData()					
+				effectdata:SetStart( vPoint )					
+				effectdata:SetOrigin( vPoint )					
+				effectdata:SetScale( 1 )					
+			util.Effect( "HelicopterMegaBomb", effectdata ) 				
+		else			
+			local vPoint = playerpos + Vector( 0,0,10 )				
+				local effectdata = EffectData()					
+				effectdata:SetStart( vPoint )					
+				effectdata:SetOrigin( vPoint )					
+				effectdata:SetScale( 1 )					
+			util.Effect( "HelicopterMegaBomb", effectdata )				
+			v:EmitSound( Sound ("ambient/explosions/explode_4.wav") )				
+		end		
+		
+	end	
+	
+	ulx.fancyLogAdmin( calling_ply, "#A exploded #T", target_plys )	
+	
 end
-local explode = ulx.command( "Fun", "ulx explode", ulx.explode, "!explode" )
+local explode = ulx.command( "Custom", "ulx explode", ulx.explode, "!explode" )
 explode:addParam{ type=ULib.cmds.PlayersArg }
 explode:defaultAccess( ULib.ACCESS_ADMIN )
 explode:help( "Explode a player" )
@@ -80,7 +73,7 @@ function ulx.launch( calling_ply, target_plys )
 	ulx.fancyLogAdmin( calling_ply, "#A Launched #T", target_plys )
 
 end
-local launch = ulx.command( "Fun", "ulx launch", ulx.launch, "!launch" )
+local launch = ulx.command( "Custom", "ulx launch", ulx.launch, "!launch" )
 launch:addParam{ type=ULib.cmds.PlayersArg }
 launch:defaultAccess( ULib.ACCESS_ADMIN )
 launch:help( "Launch players into the air." )
@@ -105,7 +98,7 @@ function ulx.gravity( calling_ply, target_plys, gravnumber )
 	ulx.fancyLogAdmin( calling_ply, "#A set the gravity for #T to #s", target_plys, gravnumber )
 
 end
-local gravity = ulx.command( "Fun", "ulx gravity", ulx.gravity, "!gravity" )
+local gravity = ulx.command( "Custom", "ulx gravity", ulx.gravity, "!gravity" )
 gravity:addParam{ type=ULib.cmds.PlayersArg }
 gravity:addParam{ type=ULib.cmds.StringArg, hint="gravity" }
 gravity:defaultAccess( ULib.ACCESS_SUPERADMIN )
@@ -161,7 +154,7 @@ function ulx.speed( calling_ply, target_plys, walk, run )
 	end
 
 end
-local speed = ulx.command( "Fun", "ulx speed", ulx.speed, "!speed" )
+local speed = ulx.command( "Custom", "ulx speed", ulx.speed, "!speed" )
 speed:addParam{ type=ULib.cmds.PlayersArg }
 speed:addParam{ type=ULib.cmds.NumArg, default=0, hint="walk speed", min=0, max=20000 }
 speed:addParam{ type=ULib.cmds.NumArg, default=0, hint="run speed", min=0, max=20000 }
@@ -187,7 +180,7 @@ function ulx.model( calling_ply, target_plys, model )
 	ulx.fancyLogAdmin( calling_ply, "#A set the model for #T to #s", target_plys, model )
 	
 end
-local model = ulx.command( "Fun", "ulx model", ulx.model, "!model" )
+local model = ulx.command( "Custom", "ulx model", ulx.model, "!model" )
 model:addParam{ type=ULib.cmds.PlayersArg }
 model:addParam{ type=ULib.cmds.StringArg, hint="model" }
 model:defaultAccess( ULib.ACCESS_ADMIN )
@@ -212,7 +205,7 @@ function ulx.jumppower( calling_ply, target_plys, power )
 	ulx.fancyLogAdmin( calling_ply, "#A set the jump power for #T to #s", target_plys, power )
 	
 end
-local jumppower = ulx.command( "Fun", "ulx jumppower", ulx.jumppower, "!jumppower" )
+local jumppower = ulx.command( "Custom", "ulx jumppower", ulx.jumppower, "!jumppower" )
 jumppower:addParam{ type=ULib.cmds.PlayersArg }
 jumppower:addParam{ type=ULib.cmds.NumArg, default=200, hint="power", ULib.cmds.optional }
 jumppower:defaultAccess( ULib.ACCESS_ADMIN )
@@ -243,7 +236,7 @@ function ulx.frags_deaths( calling_ply, target_plys, number, should_deaths )
 	end
 	
 end
-local frags_deaths = ulx.command( "Fun", "ulx frags", ulx.frags_deaths, "!frags" )
+local frags_deaths = ulx.command( "Custom", "ulx frags_deaths", ulx.frags_deaths, "!frags" )
 frags_deaths:addParam{ type=ULib.cmds.PlayersArg }
 frags_deaths:addParam{ type=ULib.cmds.NumArg, hint="number" }
 frags_deaths:addParam{ type=ULib.cmds.BoolArg, invisible=true }
@@ -276,7 +269,7 @@ function ulx.ammo( calling_ply, target_plys, amount, should_setammo )
 	end
 	
 end
-local ammo = ulx.command( "Fun", "ulx giveammo", ulx.ammo, "!giveammo" )
+local ammo = ulx.command( "Custom", "ulx giveammo", ulx.ammo, "!giveammo" )
 ammo:addParam{ type=ULib.cmds.PlayersArg }
 ammo:addParam{ type=ULib.cmds.NumArg, min=0, hint="amount" }
 ammo:addParam{ type=ULib.cmds.BoolArg, invisible=true }
@@ -295,7 +288,7 @@ function ulx.scale( calling_ply, target_plys, scale )
 	ulx.fancyLogAdmin( calling_ply, "#A set the scale for #T to #i", target_plys, scale )
 	
 end
-local scale = ulx.command( "Fun", "ulx scale", ulx.scale, "!scale" )
+local scale = ulx.command( "Custom", "ulx scale", ulx.scale, "!scale" )
 scale:addParam{ type=ULib.cmds.PlayersArg }
 scale:addParam{ type=ULib.cmds.NumArg, default=1, min=0, hint="multiplier" }
 scale:defaultAccess( ULib.ACCESS_ADMIN )
@@ -347,7 +340,7 @@ function ulx.shock( calling_ply, target_plys, damage )
 		ulx.fancyLogAdmin( calling_ply, "#A shocked #T", target_plys )
 	end
 end
-local shock = ulx.command( "Fun", "ulx shock", ulx.shock, "!shock" )
+local shock = ulx.command( "Custom", "ulx shock", ulx.shock, "!shock" )
 shock:addParam{ type=ULib.cmds.PlayersArg }
 shock:addParam{ type=ULib.cmds.NumArg, min=0, hint="damage", ULib.cmds.optional }
 shock:defaultAccess( ULib.ACCESS_ADMIN )
@@ -568,8 +561,6 @@ function ulx.resetdata( calling_ply, target_ply )
 	ulx.fancyLogAdmin( calling_ply, true, "#A reset data for #T", target_ply )
 	
 end
-local resetdata = ulx.command( "Utility", "ulx resetdata", ulx.resetdata )
+local resetdata = ulx.command( "Custom", "ulx resetdata", ulx.resetdata )
 resetdata:addParam{ type=ULib.cmds.PlayerArg }
 resetdata:help( "Reset easter egg data." )
-
-

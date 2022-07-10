@@ -90,7 +90,7 @@ function ulx.votegag( calling_ply, target_ply, minutes )
 	ulx.fancyLogAdmin( calling_ply, "#A started a votegag of #i minute(s) against #T", minutes, target_ply )
 	
 end
-local votegag = ulx.command( "Voting", "ulx votegag", ulx.votegag, "!votegag" )
+local votegag = ulx.command( "Custom", "ulx votegag", ulx.votegag, "!votegag" )
 votegag:addParam{ type=ULib.cmds.PlayerArg }
 votegag:addParam{ type=ULib.cmds.NumArg, min=0, default=3, hint="minutes", ULib.cmds.allowTimeString, ULib.cmds.optional }
 votegag:defaultAccess( ULib.ACCESS_ALL )
@@ -102,7 +102,7 @@ timer.Create( "votegagtimer", 60, 0, function()
 
 	for k,v in pairs( player.GetAll() ) do
 		
-		local gag =v:GetPData( "votegagged" ) 
+		local gag = v:GetPData( "votegagged" )
 
 		if ( gag and gag != "0") then
 			
@@ -150,7 +150,7 @@ function ulx.unvotegag( calling_ply, target_plys )
 	end
 	
 end
-local unvotegag = ulx.command( "Voting", "ulx unvotegag", ulx.unvotegag, "!unvotegag" )
+local unvotegag = ulx.command( "Custom", "ulx unvotegag", ulx.unvotegag, "!unvotegag" )
 unvotegag:addParam{ type=ULib.cmds.PlayersArg }
 unvotegag:defaultAccess( ULib.ACCESS_ADMIN )
 unvotegag:help( "Ungag the player" )
@@ -259,7 +259,7 @@ function ulx.votemute( calling_ply, target_ply, minutes )
 	ulx.fancyLogAdmin( calling_ply, "#A started a vote mute of #i minute(s) against #T", minutes, target_ply )
 	
 end
-local votemute = ulx.command( "Voting", "ulx votemute", ulx.votemute, "!votemute" )
+local votemute = ulx.command( "Custom", "ulx votemute", ulx.votemute, "!votemute" )
 votemute:addParam{ type=ULib.cmds.PlayerArg }
 votemute:addParam{ type=ULib.cmds.NumArg, min=0, default=3, hint="minutes", ULib.cmds.allowTimeString, ULib.cmds.optional }
 votemute:defaultAccess( ULib.ACCESS_ALL )
@@ -313,7 +313,7 @@ function ulx.unvotemute( calling_ply, target_plys )
 	end
 	
 end
-local unvotemute = ulx.command( "Voting", "ulx unvotemute", ulx.unvotemute, "!unvotemute" )
+local unvotemute = ulx.command( "Custom", "ulx unvotemute", ulx.unvotemute, "!unvotemute" )
 unvotemute:addParam{ type=ULib.cmds.PlayersArg }
 unvotemute:defaultAccess( ULib.ACCESS_ADMIN )
 unvotemute:help( "Unmute the player" )

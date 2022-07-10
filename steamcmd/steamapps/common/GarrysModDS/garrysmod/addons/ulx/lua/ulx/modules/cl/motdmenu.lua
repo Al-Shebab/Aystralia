@@ -1,4 +1,4 @@
-ulx.motdmenu_exists = true
+ulx.motdmenu_exists = false
 
 local mode
 local url

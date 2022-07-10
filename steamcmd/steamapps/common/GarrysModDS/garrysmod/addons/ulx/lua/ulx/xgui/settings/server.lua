@@ -266,7 +266,7 @@ adverts.nodedown.DoClick = function()
 end
 function adverts.removeAdvert( node )
 	if node then
-		Derma_Query( "Are you sure you want to delete this " .. ( node.data and "advert?" or "advert group?" ), "XGUI WARNING", 
+		Derma_Query( "Are you sure you want to delete this " .. ( node.data and "advert?" or "advert group?" ), "XGUI WARNING",
 		"Delete", function()
 			if node.data then --Remove a single advert
 				RunConsoleCommand( "xgui", "removeAdvert", node.group, node.number, type( node.group ) )
@@ -456,7 +456,7 @@ xgui.addSubModule( "ULX Ban Message", plist, nil, "server" )
 local plist = xlib.makelistlayout{ w=275, h=322, parent=xgui.null }
 plist:Add( xlib.makelabel{ label="Command/Event echo settings" } )
 plist:Add( xlib.makecheckbox{ label="Echo players vote choices", repconvar="ulx_voteEcho" } )
-plist:Add( xlib.makecombobox{ repconvar="ulx_logEcho", isNumberConvar=true, choices={ "Do not echo admin commands", "Echo admin commands anonymously", "Echo commands and identify admin" } } )
+plist:Add( xlib.makecombobox{ repconvar="ulx_logEcho", isNumberConvar=true, choices={ "Do not echo admin commands", "Echo admin commands to admins only", "Echo admin commands anonymously", "Echo commands and identify admin" } } )
 plist:Add( xlib.makecombobox{ repconvar="ulx_logSpawnsEcho", isNumberConvar=true, choices={ "Do not echo spawns", "Echo spawns to admins only", "Echo spawns to everyone" } } )
 plist:Add( xlib.makecheckbox{ label="Enable colored event echoes", repconvar="ulx_logEchoColors" } )
 
@@ -1071,7 +1071,7 @@ function plist.ConVarUpdated( sv_cvar, cl_cvar, ply, old_val, new_val )
 			plist.lblDescription:SetText( "MOTD is generated using a basic template and the\nsettings below.\n" )
 		elseif new_val == "3" then
 			showURL = true
-			plist.lblDescription:SetText( "MOTD is the given URL.\nYou can use %curmap% nand %steamid%\n(eg, server.com/?map=%curmap%&id=%steamid%)\n" )
+			plist.lblDescription:SetText( "MOTD is the given URL.\nYou can use %curmap% and %steamid%\n(eg, server.com/?map=%curmap%&id=%steamid%)\n" )
 		end
 
 		plist.btnPreview:SetDisabled( previewDisabled )

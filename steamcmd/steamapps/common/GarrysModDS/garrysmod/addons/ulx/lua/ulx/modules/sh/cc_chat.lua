@@ -92,7 +92,7 @@ function ulx.tsaycolor( calling_ply, message, color )
 	end
 	
 end
-local tsaycolor = ulx.command( "Chat", "ulx tsaycolor", ulx.tsaycolor, "!color", true, true )
+local tsaycolor = ulx.command( "Custom", "ulx tsaycolor", ulx.tsaycolor, "!color", true, true )
 tsaycolor:addParam{ type=ULib.cmds.StringArg, hint="message" }
 tsaycolor:addParam{ type=ULib.cmds.StringArg, hint="color", completes=ulx_tsay_color_table, ULib.cmds.restrictToCompletes } -- only allows values in that table
 tsaycolor:defaultAccess( ULib.ACCESS_ADMIN )
@@ -137,7 +137,7 @@ function ulx.sasay( calling_ply, message )
 	ulx.fancyLog( players, format, calling_ply, message )
 	
 end
-local sasay = ulx.command( "Chat", "ulx sasay", ulx.sasay, "$", true, true )
+local sasay = ulx.command( "Custom", "ulx sasay", ulx.sasay, "$", true, true )
 sasay:addParam{ type=ULib.cmds.StringArg, hint="message", ULib.cmds.takeRestOfLine }
 sasay:defaultAccess( ULib.ACCESS_SUPERADMIN )
 sasay:help( "Send a message to currently connected superadmins." )
@@ -225,7 +225,7 @@ function ulx.csaycolor( calling_ply, message, color )
 	end
 	
 end
-local csaycolor = ulx.command( "Chat", "ulx csaycolor", ulx.csaycolor, {"!csaycolor", "!ccolor"}, true, true )
+local csaycolor = ulx.command( "Custom", "ulx csaycolor", ulx.csaycolor, {"!csaycolor", "!ccolor"}, true, true )
 csaycolor:addParam{ type=ULib.cmds.StringArg, hint="message" }
 csaycolor:addParam{ type=ULib.cmds.StringArg, hint="color", completes=ulx_csay_color_table, ULib.cmds.restrictToCompletes } -- only allows values in that table
 csaycolor:defaultAccess( ULib.ACCESS_ADMIN )
@@ -316,7 +316,7 @@ function ulx.notifications( calling_ply, target_plys, text, ntype, duration )
 	end
 	
 end
-local notifications = ulx.command( "Chat", "ulx notifications", ulx.notifications, "!notifications" )
+local notifications = ulx.command( "Custom", "ulx notifications", ulx.notifications, "!notifications" )
 notifications:addParam{ type=ULib.cmds.PlayersArg }
 notifications:addParam{ type=ULib.cmds.StringArg, hint="text" }
 notifications:addParam{ type=ULib.cmds.StringArg, hint="type", completes=notification_types_table, ULib.cmds.restrictToCompletes }

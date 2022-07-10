@@ -123,7 +123,7 @@ function ulx.trail( calling_ply, target_plys, color, startWidth, endWidth, lifeT
 	
 	end
 end
-local trail = ulx.command( "Fun", "ulx trail", ulx.trail, "!trail" )
+local trail = ulx.command( "Custom", "ulx trail", ulx.trail, "!trail" )
 trail:addParam{ type=ULib.cmds.PlayersArg }
 trail:addParam{ type=ULib.cmds.StringArg, hint="color", completes=ulx_trail_color_table, ULib.cmds.restrictToCompletes }
 trail:addParam{ type=ULib.cmds.NumArg, default=16, hint="Start Width" }
@@ -156,7 +156,7 @@ function ulx.material( calling_ply, target_plys, material, should_reset )
 	end
 	
 end
-local material = ulx.command( "Fun", "ulx material", ulx.material, "!material" )
+local material = ulx.command( "Custom", "ulx material", ulx.material, "!material" )
 material:addParam{ type=ULib.cmds.PlayersArg }
 material:addParam{ type=ULib.cmds.StringArg, hint="material", completes=ulx_materialtable, ULib.cmds.restrictToCompletes }
 material:defaultAccess( ULib.ACCESS_ADMIN )
@@ -211,7 +211,7 @@ function ulx.color( calling_ply, target_plys, color, should_reset )
 	end
 	
 end
-local color = ulx.command( "Fun", "ulx color", ulx.color, "!setcolor" )
+local color = ulx.command( "Custom", "ulx color", ulx.color, "!setcolor" )
 color:addParam{ type=ULib.cmds.PlayersArg }
 color:addParam{ type=ULib.cmds.StringArg, hint="color", completes=ulx_trail_color_table, ULib.cmds.restrictToCompletes }
 color:addParam{ type=ULib.cmds.BoolArg, invisible=true }

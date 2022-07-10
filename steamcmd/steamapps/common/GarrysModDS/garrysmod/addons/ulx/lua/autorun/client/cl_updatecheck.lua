@@ -1,4 +1,4 @@
-local version = "4.16.19" -- m.d.yy
+local version = "4.16.19"
 http.Fetch("http://raw.githubusercontent.com/cobalt77/Custom-ULX-Commands/master/version.txt", function( body, len, headers, code)
   local nversion = body:Trim()
   if nversion != version then

@@ -170,4 +170,4 @@ function ulx.resetlaws( calling_ply )
 end
 local resetlaws = ulx.command( CATEGORY_NAME, "ulx resetlaws", ulx.resetlaws, "!resetlaws" )
 resetlaws:defaultAccess( ULib.ACCESS_ADMIN )
-resetlaws:help( "Reset the current laws." ) 
+resetlaws:help( "Reset the current laws." )
