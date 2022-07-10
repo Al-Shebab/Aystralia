@@ -381,3 +381,11 @@
 
 [2022-07-10 16:32:46] Loaded store 'install' from 'C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\config\config.vdf' successfully
 [2022-07-10 16:32:48] Flushed store 'install' to 'C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\config\config.vdf'
+
+
+[2022-07-10 16:44:31] Loaded store 'install' from 'C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\config\config.vdf' successfully
+[2022-07-10 16:44:33] Flushed store 'install' to 'C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\config\config.vdf'
+
+
+[2022-07-10 16:45:16] Loaded store 'install' from 'C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\config\config.vdf' successfully
+[2022-07-10 16:45:18] Flushed store 'install' to 'C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\config\config.vdf'

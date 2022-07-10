@@ -1836,3 +1836,268 @@
 [16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gravestone_cross001b.mdl
 [16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
 [16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/plates/plate7x7.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/plates/plate5x7.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/plates/plate3x5.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/plates/plate1x5.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/plates/plate5x7.mdl
+[16:44:17] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/plates/plate075x5.mdl
+[16:44:18] Dropped "widepeeked" from server<STEAM_0:0:492844137>
+
+
+
+[16:45:16] New map: rp_downtown_tits_v2
+[16:45:20] Client "Skii" connected.
+[16:45:40] Client "Al Shebab" connected.
+[16:45:45] Client "Frazer" connected.
+[16:45:59] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 39 seconds).
+[16:46:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 21 seconds).
+[16:46:09] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 24 seconds).
+[16:47:12] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/bmwl.mdl
+[16:47:14] Frazer<STEAM_0:0:120840551> spawned model models/nateswheel/nateswheel.mdl
+[16:47:15] Frazer<STEAM_0:0:120840551> spawned model models/nateswheel/nateswheelwide.mdl
+[16:47:16] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:47:17] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_36s.mdl
+[16:47:18] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_36.mdl
+[16:47:18] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_race.mdl
+[16:47:19] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_extruded_48.mdl
+[16:47:19] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_2l.mdl
+[16:47:20] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_2.mdl
+[16:47:20] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/tractor.mdl
+[16:47:20] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/bmwl.mdl
+[16:47:21] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/magnetic_large_base.mdl
+[16:47:21] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/magnetic_med_base.mdl
+[16:47:21] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/magnetic_medium.mdl
+[16:47:23] Client "widepeeked" connected.
+[16:47:25] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_race.mdl
+[16:47:26] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_36.mdl
+[16:47:28] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_36.mdl
+[16:47:30] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_36s.mdl
+[16:47:30] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:47:39] Al Shebab<STEAM_0:0:103364981> spawned model models/holograms/hq_hdome_thin.mdl
+[16:47:43] Al Shebab<STEAM_0:0:103364981> spawned model models/holograms/hq_dome.mdl
+[16:47:44] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 21 seconds).
+[16:47:48] Al Shebab<STEAM_0:0:103364981> spawned model models/props_phx/construct/metal_dome360.mdl
+[16:47:49] Al Shebab<STEAM_0:0:103364981> spawned model models/props_phx/construct/metal_dome360.mdl
+[16:48:14] Al Shebab<STEAM_0:0:103364981> spawned model models/props_phx/construct/metal_dome360.mdl
+[16:48:16] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:48:21] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:48:21] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:48:37] Al Shebab<STEAM_0:0:103364981> spawned model models/props_phx/construct/wood/wood_dome360.mdl
+[16:48:40] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:48:46] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:48:52] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:48:58] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:00] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:01] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:03] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:04] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:05] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:13] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:15] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:16] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:18] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:19] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:20] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:22] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:23] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:24] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:26] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:27] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:28] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rounded_72.mdl
+[16:49:54] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/monster_truck.mdl
+[16:49:55] Frazer<STEAM_0:0:120840551> spawned model models/xeon133/racewheelskinny/race-wheel-35_s.mdl
+[16:50:04] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/bmw.mdl
+[16:50:06] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/bmwl.mdl
+[16:50:07] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/rim_1.mdl
+[16:50:07] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/tractor.mdl
+[16:50:07] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/tractors.mdl
+[16:50:08] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_2.mdl
+[16:50:08] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_2l.mdl
+[16:50:09] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_extruded_48.mdl
+[16:50:09] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_race.mdl
+[16:50:11] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rugged_24.mdl
+[16:50:11] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rugged_24w.mdl
+[16:50:12] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rugged_48.mdl
+[16:50:12] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_rugged_48w.mdl
+[16:50:13] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_smooth2.mdl
+[16:50:13] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_smooth_18r.mdl
+[16:50:13] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_smooth_24.mdl
+[16:50:14] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[16:50:14] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_spike_24.mdl
+[16:50:15] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_smooth_72w.mdl
+[16:50:15] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_spike_24.mdl
+[16:50:15] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_spike_24.mdl
+[16:50:16] Frazer<STEAM_0:0:120840551> spawned model models/mechanics/wheels/wheel_spike_48.mdl
+[16:50:16] Frazer<STEAM_0:0:120840551> spawned model models/props/de_inferno/cart_wheel.mdl
+[16:50:16] Frazer<STEAM_0:0:120840551> spawned model models/props/de_tides/vending_cart_wheell.mdl
+[16:50:16] Frazer<STEAM_0:0:120840551> spawned model models/props/de_tides/vending_cart_wheell.mdl
+[16:50:16] Frazer<STEAM_0:0:120840551> spawned model models/props/de_tides/vending_cart_wheelr.mdl
+[16:50:19] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/magnetic_large.mdl
+[16:50:21] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/monster_truck.mdl
+[16:50:22] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/magnetic_small.mdl
+[16:50:23] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/wheels/magnetic_medium.mdl
+[16:50:24] Frazer<STEAM_0:0:120840551> spawned model models/xeon133/racewheel/race-wheel-45.mdl
+[16:50:24] Frazer<STEAM_0:0:120840551> spawned model models/xeon133/racewheel/race-wheel-50.mdl
+[16:50:38] Frazer<STEAM_0:0:120840551> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[16:50:41] DJ Bread<STEAM_0:0:579690494> spawned sent item_ammo_ar2_large
+[16:50:46] DJ Bread<STEAM_0:0:579690494> spawned sent item_ammo_ar2_altfire
+[16:50:51] Al Shebab<STEAM_0:0:103364981> spawned model models/items/ammocrate_smg1.mdl
+[16:50:52] DJ Bread<STEAM_0:0:579690494> spawned sent item_ammo_ar2_altfire
+[16:50:52] DJ Bread<STEAM_0:0:579690494> spawned sent item_ammo_ar2_altfire
+[16:50:52] DJ Bread<STEAM_0:0:579690494> spawned sent item_ammo_ar2_altfire
+[16:50:52] DJ Bread<STEAM_0:0:579690494> spawned sent item_ammo_ar2_altfire
+[16:50:56] DJ Bread killed widepeeked using prop_combine_ball
+[16:50:56] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:50:58] DJ Bread killed Al Shebab using prop_combine_ball
+[16:51:00] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:51:05] Al Shebab<STEAM_0:0:103364981> spawned model models/items/item_item_crate_chunk09.mdl
+[16:51:14] DJ Bread<STEAM_0:0:579690494> spawned sent grenade_helicopter
+[16:51:29] DJ Bread<STEAM_0:0:579690494> spawned sent item_suit
+[16:51:34] Al Shebab killed DJ Bread using player
+[16:51:41] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:51:46] Al Shebab killed DJ Bread using player
+[16:51:53] Frazer killed widepeeked using player
+[16:52:00] Al Shebab killed DJ Bread using player
+[16:52:06] DJ Bread killed widepeeked using player
+[16:52:10] DJ Bread killed Al Shebab using player
+[16:52:22] Frazer killed DJ Bread using player
+[16:52:31] Frazer killed Al Shebab using player
+[16:52:31] DJ Bread killed Frazer using player
+[16:52:36] DJ Bread killed widepeeked using player
+[16:52:41] DJ Bread killed Frazer using player
+[16:52:57] Al Shebab granted god mode upon Themself
+[16:53:03] widepeeked killed DJ Bread using player
+[16:53:11] Al Shebab granted god mode upon Themself
+[16:53:11] Al Shebab: !god
+[16:53:13] Frazer was killed by npc_rollermine
+[16:53:16] Al Shebab revoked god mode from Themself
+[16:53:16] Al Shebab: !ungod
+[16:53:21] DJ Bread killed widepeeked using player
+[16:53:25] Al Shebab suicided!
+[16:53:33] DJ Bread killed widepeeked using player
+[16:53:39] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:39] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:40] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:40] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:40] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:41] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:41] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:42] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:42] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:42] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:43] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:43] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:43] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:44] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:44] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:45] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:45] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:48] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:48] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:48] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:49] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:49] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:49] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:49] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:49] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:50] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:50] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:50] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:50] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:51] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:51] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:51] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:51] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[16:53:59] DJ Bread killed Al Shebab using m9k_gdcwa_rpg_heat
+[16:53:59] DJ Bread killed widepeeked using m9k_gdcwa_rpg_heat
+[16:54:05] DJ Bread was killed by npc_manhack
+[16:54:14] DJ Bread suicided!
+[16:54:15] widepeeked suicided!
+[16:54:50] DJ Bread: !menu
+[16:54:59] DJ Bread granted god mode upon Themself
+[16:55:44] widepeeked was killed by npc_manhack
+[16:55:58] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_nuke
+[16:55:58] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_orbitalstrike
+[16:55:58] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_orbitalstrike
+[16:55:58] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_orbitalstrike
+[16:56:03] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_orbitalstrike
+[16:56:04] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_orbitalstrike
+[16:56:10] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_rockets
+[16:56:14] widepeeked was killed by npc_manhack
+[16:56:25] DJ Bread killed Frazer using player
+[16:56:43] widepeeked killed Al Shebab using m9k_m202_rocket
+[16:56:53] widepeeked: w
+[16:56:56] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:56:56] DJ Bread killed widepeeked using m9k_ammo_proxmines
+[16:57:02] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:02] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:03] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:03] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:04] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:05] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:05] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:18] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_proxmines
+[16:57:37] DJ Bread killed widepeeked using m9k_proxy
+[16:57:50] widepeeked suicided!
+[16:58:16] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_nervegas
+[16:58:32] Al Shebab: /setspawn CIVILIAN
+[16:58:56] DJ Bread teleported to Al Shebab
+[16:59:18] Al Shebab: /setspawn CIVILIAN
+[16:59:23] DJ Bread<STEAM_0:0:579690494> spawned sent zwf_weedblock
+[16:59:28] DJ Bread<STEAM_0:0:579690494> spawned sent zwf_buyer_npc
+[16:59:29] Al Shebab: /setspawn civilian
+[16:59:38] Al Shebab: /addspawn civilian
+[16:59:42] Al Shebab: /addspawn civilian
+[16:59:44] Al Shebab: /addspawn civilian
+[16:59:46] Al Shebab: /addspawn civilian
+[16:59:48] Al Shebab: /addspawn civilian
+[16:59:49] DJ Bread<STEAM_0:0:579690494> spawned sent prop_thumper
+[16:59:49] Al Shebab: /addspawn civilian
+[16:59:50] DJ Bread<STEAM_0:0:579690494> spawned sent prop_thumper
+[16:59:51] Al Shebab: /addspawn civilian
+[16:59:53] Al Shebab: /addspawn civilian
+[16:59:59] widepeeked suicided!
+[17:00:00] DJ Bread suicided!
+[17:00:07] Al Shebab suicided!
+[17:00:10] DJ Bread<STEAM_0:0:579690494> spawned sent npc_grenade_frag
+[17:00:18] DJ Bread<STEAM_0:0:579690494> spawned sent npc_grenade_frag
+[17:00:23] DJ Bread suicided!
+[17:00:24] Al Shebab granted god mode upon Themself
+[17:00:24] Al Shebab: !god
+[17:01:15] DJ Bread<STEAM_0:0:579690494> spawned sent combine_mine
+[17:01:18] DJ Bread<STEAM_0:0:579690494> spawned sent combine_mine
+[17:01:26] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_40mm_single
+[17:01:57] DJ Bread killed widepeeked using player
+[17:02:36] Al Shebab killed widepeeked using m9k_mad_c4
+[17:02:36] Al Shebab killed DJ Bread using m9k_mad_c4
+[17:04:09] DJ Bread: !menu
+[17:04:21] DJ Bread spawned 1 bot
+[17:04:21] Client "Bot01" connected.
+[17:04:21] Client "Bot01" spawned in server <BOT> (took 1175 seconds).
+[17:04:49] Al Shebab killed Bot01 using m9k_machete
+[17:04:56] DJ Bread killed Bot01 using player
+[17:04:56] Al Shebab killed widepeeked using m9k_thrown_knife
+[17:05:04] DJ Bread: !menu
+[17:05:05] DJ Bread spawned 1 bot
+[17:05:05] Client "Bot02" connected.
+[17:05:05] Client "Bot02" spawned in server <BOT> (took 1219 seconds).
+[17:05:06] DJ Bread spawned 1 bot
+[17:05:06] Client "Bot03" connected.
+[17:05:06] Client "Bot03" spawned in server <BOT> (took 1220 seconds).
+[17:05:06] DJ Bread spawned 1 bot
+[17:05:06] Client "Bot04" connected.
+[17:05:06] Client "Bot04" spawned in server <BOT> (took 1220 seconds).
+[17:05:14] DJ Bread killed Bot03 using player
+[17:05:16] DJ Bread killed Bot04 using player
+[17:05:35] DJ Bread: !menu
+[17:05:37] DJ Bread kicked all bots from the server
+[17:05:37] Dropped "Bot01" from server<BOT>
+[17:05:37] Dropped "Bot02" from server<BOT>
+[17:05:37] Dropped "Bot03" from server<BOT>
+[17:05:37] Dropped "Bot04" from server<BOT>
+[17:05:38] DJ Bread kicked all bots from the server
