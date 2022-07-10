@@ -1433,3 +1433,62 @@ Skii|8|STEAM_0:0:579690494
 
 
 
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. SetTab - addons/oneprint/lua/entities/oneprint/cl_init.lua:73
+       6. v - addons/oneprint/lua/entities/oneprint/cl_init.lua:61
+        7. CallProxies - lua/includes/extensions/entity.lua:308
+         8. CallDTVarProxies - lua/includes/extensions/entity.lua:316
+          9. unknown - lua/includes/extensions/entity.lua:214
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+

@@ -4213,3 +4213,51 @@
 [18:42:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 21 seconds).
 [18:42:03] Client "jaywalking0d" spawned in server <STEAM_0:1:212383203> (took 39 seconds).
 [18:43:48] Frazer killed Al Shebab using oneprint
+[18:43:55] Frazer killed jaywalking0d using oneprint
+[18:44:43] Dropped "Frazer" from server<STEAM_0:0:120840551>
+[18:44:44] Client "Frazer" connected.
+[18:45:29] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 45 seconds).
+[18:46:16] Frazer was killed by oneprint
+[18:46:29] Al Shebab gave Everyone lockpick
+[18:46:29] Al Shebab: !give * lockpick
+[18:49:35] Frazer killed jaywalking0d using oneprint
+[18:49:58] Frazer killed jaywalking0d using oneprint
+[18:50:12] jaywalking0d granted god mode upon Themself
+[18:50:12] jaywalking0d: !god
+[18:52:00] jaywalking0d teleported to Al Shebab
+[18:52:00] jaywalking0d: !GOTO SHEBAB
+[18:52:10] jaywalking0d killed Al Shebab using weapon_fists
+[18:52:31] jaywalking0d killed Frazer using oneprint
+[18:53:03] jaywalking0d killed Frazer using oneprint
+[18:54:37] jaywalking0d killed Al Shebab using oneprint
+[18:55:33] jaywalking0d killed Frazer using oneprint
+[18:55:57] jaywalking0d: !clo9ak
+[18:56:42] jaywalking0d: !KILL FRAZER
+[18:56:45] jaywalking0d: !MENU
+[18:57:03] jaywalking0d to admins: IM A FAG
+[18:57:04] jaywalking0d to admins: IM A FAG
+[18:57:21] jaywalking0d: !menu
+[18:57:36] Al Shebab: /admintellall gay
+[18:57:37] Frazer was killed by oneprint
+[18:57:50] jaywalking0d set the hp for Frazer to 1
+[18:57:57] jaywalking0d jailed Frazer for 1 seconds
+[18:58:16] jaywalking0d revoked god mode from Frazer
+[18:58:16] jaywalking0d: !ungod frazer
+[18:58:24] jaywalking0d: !unnoclip frazer
+[18:58:54] Al Shebab stopped sounds
+[18:58:54] Al Shebab: !ss
+[18:59:32] Al Shebab: /dropmoney 200000
+[18:59:36] jaywalking0d killed Frazer using player
+[19:00:01] jaywalking0d: /GIVEMONEY 5000000
+[19:01:25] Frazer: /DROP
+[19:01:33] Al Shebab killed Frazer using m9k_gdcwa_matador_90mm
+[19:01:46] jaywalking0d killed Al Shebab using m9k_davy_crockett_explo
+[19:01:46] jaywalking0d killed Frazer using m9k_davy_crockett_explo
+[19:01:53] jaywalking0d killed Frazer using m9k_davy_crockett_explo
+[19:02:40] jaywalking0d killed Frazer using player
+[19:03:30] jaywalking0d killed Frazer using player
+[19:04:04] jaywalking0d: !MENU
+[19:04:05] Frazer: !menu
+[19:04:16] jaywalking0d gagged Frazer
+[19:04:18] jaywalking0d ungagged Frazer
+[19:04:18] Frazer: d
