@@ -1,0 +1,1526 @@
+L 07/10/2022 - 16:01:27: Log file started (file "logs\L0710014.log") (game "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\garrysmod") (version "8607")
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_noclip" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxprops" "80"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxragdolls" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxnpcs" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxballoons" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxeffects" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxdynamite" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxlamps" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxthrusters" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxwheels" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxhoverballs" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxvehicles" "1"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxbuttons" "6"
+L 07/10/2022 - 16:01:27: server_cvar: "sbox_maxemitters" "0"
+L 07/10/2022 - 16:01:27: server_cvar: "sv_airaccelerate" "1000"
+L 07/10/2022 - 16:01:31: Connection to Steam servers successful.
+L 07/10/2022 - 16:01:31:    Public IP is 60.241.142.139.
+L 07/10/2022 - 16:01:31: Assigned persistent gameserver Steam ID [G-1:3987399].
+L 07/10/2022 - 16:01:31: VAC secure mode is activated.
+L 07/10/2022 - 16:01:31: "Frazer<2><STEAM_0:0:120840551><>" connected, address "101.190.51.71:27005"
+L 07/10/2022 - 16:01:31: "Frazer<2><STEAM_0:0:120840551><>" STEAM USERID validated
+L 07/10/2022 - 16:01:34: "Al Shebab<3><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 16:01:34: "Al Shebab<3><STEAM_0:0:103364981><>" STEAM USERID validated
+L 07/10/2022 - 16:01:36: "Binchicken<4><STEAM_0:0:437291733><>" connected, address "149.167.60.156:21373"
+L 07/10/2022 - 16:01:37: "Binchicken<4><STEAM_0:0:437291733><>" STEAM USERID validated
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) is Authed
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned for the first time
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 16:01:55: "Al Shebab<3><STEAM_0:0:103364981><>" entered the game
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:01:55: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:01:56: [FAdmin] Binchicken (STEAM_0:0:437291733) is Authed
+L 07/10/2022 - 16:01:56: [FAdmin] Binchicken (STEAM_0:0:437291733) Spawned for the first time
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 16:01:56: "Binchicken<4><STEAM_0:0:437291733><>" entered the game
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:01:56: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) is Authed
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned for the first time
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:01:57: "Frazer<2><STEAM_0:0:120840551><>" entered the game
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:01:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:02:02: Lua Error: 
+[tebexgmod] addons/tebexgmod/lua/tebex/client/apiclient.lua:36: attempt to call upvalue 'failure' (a nil value)
+  1. unknown - addons/tebexgmod/lua/tebex/client/apiclient.lua:36
+
+
+L 07/10/2022 - 16:02:09: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_c17/gravestone_statue001a.mdl
+L 07/10/2022 - 16:02:09: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+L 07/10/2022 - 16:02:14: "Skii<5><STEAM_0:0:579690494><>" connected, address "172.195.123.72:27005"
+L 07/10/2022 - 16:02:14: "Skii<5><STEAM_0:0:579690494><>" STEAM USERID validated
+L 07/10/2022 - 16:02:15: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_borealis/bluebarrel001.mdl
+L 07/10/2022 - 16:02:15: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_borealis/bluebarrel001.mdl
+L 07/10/2022 - 16:02:16: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/gate_door02a.mdl
+L 07/10/2022 - 16:02:16: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/gate_door02a.mdl
+L 07/10/2022 - 16:02:25: [FAdmin] prop_physics(models/props_c17/gate_door02a.mdl) Got removed
+L 07/10/2022 - 16:02:32: [FAdmin] prop_physics(models/props_borealis/bluebarrel001.mdl) Got removed
+L 07/10/2022 - 16:02:38: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!gprotect"
+
+L 07/10/2022 - 16:02:44: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:44: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:44: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:02:48: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:48: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:48: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:02:52: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_junk/cardboard_box004a.mdl
+L 07/10/2022 - 16:02:52: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/cardboard_box004a.mdl
+L 07/10/2022 - 16:02:53: [FAdmin] prop_physics(models/props_junk/cardboard_box004a.mdl) Got removed
+L 07/10/2022 - 16:02:59: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:02:59: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:02:59: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:59: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:59: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:02:59: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:59: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:02:59: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:00: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:00: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:00: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:01: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:01: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:01: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:01: [FAdmin] Skii (STEAM_0:0:579690494) is Authed
+L 07/10/2022 - 16:03:01: [FAdmin] Skii (STEAM_0:0:579690494) Spawned for the first time
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:03:01: "Skii<5><STEAM_0:0:579690494><>" entered the game
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:03:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:03:01: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:11: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!gprotect"
+
+L 07/10/2022 - 16:03:19: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:19: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:19: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:19: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:19: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:19: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:19: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:19: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:19: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:20: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:20: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:20: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:20: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:20: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 16:03:20: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_cap.mdl) Got removed
+L 07/10/2022 - 16:03:23: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_chamber.mdl
+L 07/10/2022 - 16:03:23: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_chamber.mdl
+L 07/10/2022 - 16:03:23: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher_chamber.mdl) Got removed
+L 07/10/2022 - 16:03:24: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:03:24: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:24: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:03:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:31: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:31: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:32: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:32: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:32: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:32: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:33: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_interiors/pot02a.mdl
+L 07/10/2022 - 16:03:33: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/pot02a.mdl
+L 07/10/2022 - 16:03:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:35: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:35: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:35: [FAdmin] prop_physics(models/props_interiors/pot02a.mdl) Got removed
+L 07/10/2022 - 16:03:37: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:39: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:39: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:42: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:42: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:42: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:42: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:42: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:42: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:42: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:42: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:42: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:42: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!gprotect"
+
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:42: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:42: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:42: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:43: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:43: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:43: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:43: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:43: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:43: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:43: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:43: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:43: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:43: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:44: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:44: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:44: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:44: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:45: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:46: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:46: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:46: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:46: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:46: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:46: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:46: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:46: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:46: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:46: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:46: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:46: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:47: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:47: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:47: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:47: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:47: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:47: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:03:47: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_c17/FurnitureFireplace001a.mdl
+L 07/10/2022 - 16:03:47: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+L 07/10/2022 - 16:03:47: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:48: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:48: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:48: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:49: [FAdmin] prop_physics(models/props_c17/furniturefireplace001a.mdl) Got removed
+L 07/10/2022 - 16:03:49: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_interiors/VendingMachineSoda01a.mdl
+L 07/10/2022 - 16:03:49: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+L 07/10/2022 - 16:03:52: [FAdmin] prop_physics(models/props_interiors/vendingmachinesoda01a.mdl) Got removed
+L 07/10/2022 - 16:03:53: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 16:03:53: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:53: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+L 07/10/2022 - 16:03:54: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:54: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:54: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:54: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:55: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:55: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:55: [FAdmin] prop_physics(models/props_phx/misc/potato_launcher.mdl) Got removed
+L 07/10/2022 - 16:03:58: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_wasteland/horizontalcoolingtank04.mdl
+L 07/10/2022 - 16:03:58: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+L 07/10/2022 - 16:04:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a prop_vehicle_jeep
+L 07/10/2022 - 16:04:03: [ULX] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+L 07/10/2022 - 16:04:04: [FAdmin] DJ Bread (STEAM_0:0:579690494) Entered prop_vehicle_jeep
+L 07/10/2022 - 16:04:04: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!gprotect"
+
+L 07/10/2022 - 16:04:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by prop_vehicle_jeep with a prop_vehicle_jeep
+L 07/10/2022 - 16:04:27: [FAdmin] prop_physics(models/props_wasteland/horizontalcoolingtank04.mdl) Got removed
+L 07/10/2022 - 16:04:39: "widepeeked<6><STEAM_0:0:492844137><>" connected, address "124.188.129.208:27005"
+L 07/10/2022 - 16:04:40: "widepeeked<6><STEAM_0:0:492844137><>" STEAM USERID validated
+L 07/10/2022 - 16:04:44: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:04:44: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:04:45: [FAdmin] prop_physics(models/props_lab/blastdoor001c.mdl) Got removed
+L 07/10/2022 - 16:04:49: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to use tool creator
+L 07/10/2022 - 16:04:49: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:04:49: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:04:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) exited a prop_vehicle_jeep
+L 07/10/2022 - 16:04:52: [FAdmin] prop_physics(models/props_lab/blastdoor001c.mdl) Got removed
+L 07/10/2022 - 16:04:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) is Authed
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned for the first time
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:05:01: "widepeeked<6><STEAM_0:0:492844137><>" entered the game
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:05:01: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:05:05: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:05:06: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:05:06: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:05:16: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:05:24: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:05:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:05:35: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:05:43: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_junk/cardboard_box004a.mdl
+L 07/10/2022 - 16:05:43: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_junk/cardboard_box004a.mdl
+L 07/10/2022 - 16:05:43: [FAdmin] prop_physics(models/props_junk/cardboard_box004a.mdl) Got removed
+L 07/10/2022 - 16:05:46: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_lab/blastdoor001b.mdl
+L 07/10/2022 - 16:05:46: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_lab/blastdoor001b.mdl
+L 07/10/2022 - 16:05:54: [FAdmin] prop_physics(models/props_lab/blastdoor001b.mdl) Got removed
+L 07/10/2022 - 16:05:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 16:05:56: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 16:06:02: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a prop_vehicle_prisoner_pod
+L 07/10/2022 - 16:06:02: [ULX] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+L 07/10/2022 - 16:06:05: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 16:06:09: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 16:06:09: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 16:06:10: [FAdmin] binchicken (STEAM_0:0:437291733) Entered prop_vehicle_prisoner_pod
+L 07/10/2022 - 16:06:10: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 16:06:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by N/A with a N/A
+L 07/10/2022 - 16:06:23: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/gate_door01a.mdl
+L 07/10/2022 - 16:06:23: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/gate_door01a.mdl
+L 07/10/2022 - 16:06:24: [FAdmin] binchicken (STEAM_0:0:437291733) exited a prop_vehicle_prisoner_pod
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:06:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:06:27: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:06:28: [FAdmin] prop_physics(models/props_c17/gate_door01a.mdl) Got removed
+L 07/10/2022 - 16:06:30: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:06:35: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!gprotect"
+
+L 07/10/2022 - 16:07:08: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_lab/blastdoor001b.mdl
+L 07/10/2022 - 16:07:08: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_lab/blastdoor001b.mdl
+L 07/10/2022 - 16:07:11: [FAdmin] prop_physics(models/props_lab/blastdoor001b.mdl) Got removed
+L 07/10/2022 - 16:07:12: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 16:07:12: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 16:07:47: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:07:52: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 16:07:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:08:04: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 16:08:04: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 16:08:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_deagle2
+L 07/10/2022 - 16:08:16: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 16:08:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 16:08:18: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 16:08:19: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:08:22: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 16:08:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_p2282
+L 07/10/2022 - 16:08:32: [FAdmin] binchicken (STEAM_0:0:437291733) Got killed by widepeeked with a player
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:08:35: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:08:36: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_deagle2
+L 07/10/2022 - 16:08:44: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fiveseven2
+L 07/10/2022 - 16:08:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:08:45: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:08:45: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:08:46: [ULX] widepeeked teleported to Frazer
+L 07/10/2022 - 16:08:51: [ULX] binchicken teleported to Frazer
+L 07/10/2022 - 16:08:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:08:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by binchicken with a player
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:08:59: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:09:03: [ULX] DJ Bread teleported to binchicken
+L 07/10/2022 - 16:09:04: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:09:18: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_davy_crockett
+L 07/10/2022 - 16:09:18: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_davy_crockett
+L 07/10/2022 - 16:09:31: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_machete
+L 07/10/2022 - 16:09:31: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_machete
+L 07/10/2022 - 16:09:33: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by DJ Bread with a m9k_thrown_knife
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:09:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:09:37: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:09:46: [ULX] binchicken teleported to widepeeked
+L 07/10/2022 - 16:09:53: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:09:56: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:09:57: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:09:58: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:09:59: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:09:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:09:59: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:10:00: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:10:09: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by N/A with a N/A
+L 07/10/2022 - 16:10:14: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:10:25: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:10:27: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:10:34: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:10:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:10:37: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:10:38: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by Frazer with a player
+L 07/10/2022 - 16:10:38: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:10:38: [ULX] DJ Bread respawned Frazer
+L 07/10/2022 - 16:10:40: [ULX] binchicken brought Frazer
+L 07/10/2022 - 16:11:11: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:11: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_nerve_gas
+L 07/10/2022 - 16:11:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_nerve_gas
+L 07/10/2022 - 16:11:13: [FAdmin] prop_physics(models/props_lab/blastdoor001c.mdl) Got removed
+L 07/10/2022 - 16:11:15: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by DJ Bread with a m9k_released_poison
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:11:18: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:11:19: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:21: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:21: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:23: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by Frazer with a player
+L 07/10/2022 - 16:11:23: [ULX] widepeeked teleported to binchicken
+L 07/10/2022 - 16:11:25: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by DJ Bread with a m9k_released_poison
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:11:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:11:28: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:11:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a m9k_released_poison
+L 07/10/2022 - 16:11:31: [ULX] binchicken brought Frazer
+L 07/10/2022 - 16:11:34: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:34: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:34: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by Frazer with a player
+L 07/10/2022 - 16:11:35: [FAdmin] prop_physics(models/props_lab/blastdoor001c.mdl) Got removed
+L 07/10/2022 - 16:11:38: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned a models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:38: [ULX] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:11:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:52: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:55: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:55: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:55: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:11:58: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:12:00: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:12:02: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:12:02: [ULX] DJ Bread respawned Frazer
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:12:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:12:02: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:12:07: [ULX] binchicken brought Frazer
+L 07/10/2022 - 16:12:09: [FAdmin] prop_physics(models/props_lab/blastdoor001c.mdl) Got removed
+L 07/10/2022 - 16:12:10: [FAdmin] prop_physics(models/props_lab/blastdoor001c.mdl) Got removed
+L 07/10/2022 - 16:12:13: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by widepeeked with a player
+L 07/10/2022 - 16:12:13: [ULX] DJ Bread exploded widepeeked
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:12:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:12:19: [ULX] widepeeked teleported to binchicken
+L 07/10/2022 - 16:12:24: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:12:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:12:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:12:33: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:12:38: [FAdmin] Frazer (STEAM_0:0:120840551) changed from Civilian to Meth Cook
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a zmlab_extractor
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:12:39: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:12:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a zmlab_combiner
+L 07/10/2022 - 16:12:54: [ULX] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_combiner
+L 07/10/2022 - 16:13:07: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:13:24: Lua Error: 
+[ulx] addons/ulx/lua/ulx/log.lua:493: bad argument #2 to 'format' (number expected, got userdata)
+  1. format - [C]:-1
+   2. unknown - addons/ulx/lua/ulx/log.lua:493
+    3. gsub - [C]:-1
+     4. fancyLogAdmin - addons/ulx/lua/ulx/log.lua:463
+      5. call - addons/ulx/lua/ulx/modules/sh/money.lua:44
+       6. __fn - addons/ulib/lua/ulib/shared/commands.lua:943
+        7. execute - addons/ulib/lua/ulib/shared/commands.lua:1323
+         8. unknown - addons/ulib/lua/ulib/shared/commands.lua:1351
+          9. Run - lua/includes/modules/concommand.lua:54
+           10. unknown - addons/ulib/lua/ulib/shared/commands.lua:1365
+            11. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 07/10/2022 - 16:13:41: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_knife
+L 07/10/2022 - 16:13:41: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_knife
+L 07/10/2022 - 16:13:46: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_p2282
+L 07/10/2022 - 16:13:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_m92beretta
+L 07/10/2022 - 16:13:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_m92beretta
+L 07/10/2022 - 16:14:02: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_glock2
+L 07/10/2022 - 16:14:24: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_mossberg590
+L 07/10/2022 - 16:14:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_mossberg590
+L 07/10/2022 - 16:14:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_glock2
+L 07/10/2022 - 16:14:29: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "/drop"
+
+L 07/10/2022 - 16:14:58: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:15:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:15:05: [FAdmin] binchicken (STEAM_0:0:437291733) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:15:08: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:15:10: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_p2282
+L 07/10/2022 - 16:15:15: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by Frazer with a player
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:15:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:15:21: [ULX] widepeeked teleported to Frazer
+L 07/10/2022 - 16:15:39: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:15:42: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:15:45: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_glock2
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a zmlab_extractor
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:15:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:15:46: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:15:48: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a m9k_mossberg590
+L 07/10/2022 - 16:15:49: [ULX] binchicken set the armor for Themself to 255
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:15:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:15:52: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_deagle2
+L 07/10/2022 - 16:15:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:15:55: [ULX] binchicken set the hp for Themself to 2147483647
+L 07/10/2022 - 16:16:00: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:16:11: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by Frazer with a player
+L 07/10/2022 - 16:16:19: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by widepeeked with a player
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:16:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:16:21: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:16:21: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_deagle2
+L 07/10/2022 - 16:16:23: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:16:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by binchicken with a player
+L 07/10/2022 - 16:16:31: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a m9k_mossberg590
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:16:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a zmlab_extractor
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:16:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:16:35: [ULX] DJ Bread slapped binchicken with 100 damage
+L 07/10/2022 - 16:16:40: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:16:45: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:16:53: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!invis"
+
+L 07/10/2022 - 16:16:57: "binchicken<4><STEAM_0:0:437291733><Civilian>" say ".drop"
+
+L 07/10/2022 - 16:16:58: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:17:00: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:17:00: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "/drop"
+
+L 07/10/2022 - 16:17:00: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:17:02: [ULX] DJ Bread ignited Frazer for 300 seconds
+L 07/10/2022 - 16:17:04: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:17:06: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:17:12: Lua Error: 
+[tebexgmod] addons/tebexgmod/lua/tebex/client/apiclient.lua:36: attempt to call upvalue 'failure' (a nil value)
+  1. unknown - addons/tebexgmod/lua/tebex/client/apiclient.lua:36
+
+
+L 07/10/2022 - 16:17:21: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by entityflame with a entityflame
+L 07/10/2022 - 16:17:24: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_mossberg590
+L 07/10/2022 - 16:17:36: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by widepeeked with a weapon_fists
+L 07/10/2022 - 16:17:37: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a m9k_mossberg590
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:17:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:17:41: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_davy_crockett
+L 07/10/2022 - 16:17:41: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_davy_crockett
+L 07/10/2022 - 16:17:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:17:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:17:46: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a m9k_davy_crockett_explo
+L 07/10/2022 - 16:17:46: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by DJ Bread with a m9k_davy_crockett_explo
+L 07/10/2022 - 16:17:46: [FAdmin] binchicken (STEAM_0:0:437291733) Got killed by DJ Bread with a m9k_davy_crockett_explo
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:17:50: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:17:51: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:17:52: [ULX] binchicken set the hp for Themself to 2147483647
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:17:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:17:54: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:18:03: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a zmlab_extractor
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:18:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:18:07: [ULX] DJ Bread granted god mode upon Themself
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) changed from Meth Cook to Gun Dealer
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:18:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:18:25: [ULX] DJ Bread whipped Frazer 31 times with 0 damage
+L 07/10/2022 - 16:18:31: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:18:36: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:18:38: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by N/A with a N/A
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:18:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:18:43: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:18:47: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:18:50: [ULX] binchicken revoked access "ulx kick" to group trial-moderator
+L 07/10/2022 - 16:18:53: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by Frazer with a player
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:18:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:19:07: [FAdmin] prop_physics(models/weapons/w_shot_m3super90.mdl) Got removed
+L 07/10/2022 - 16:19:09: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to switch noclip
+L 07/10/2022 - 16:19:11: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "/y Warning 1/2/3Leave the area"
+
+L 07/10/2022 - 16:19:16: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_knife
+L 07/10/2022 - 16:19:16: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_knife
+L 07/10/2022 - 16:19:16: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!menu"
+
+L 07/10/2022 - 16:19:18: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:20: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:25: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!goto wide"
+
+L 07/10/2022 - 16:19:31: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:36: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by Frazer with a player
+L 07/10/2022 - 16:19:38: [ULX] binchicken added Frazer to group trial-moderator
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:19:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:19:42: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to switch noclip
+L 07/10/2022 - 16:19:43: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "/y Warning 1/2/3Leave the area"
+
+L 07/10/2022 - 16:19:45: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:51: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:52: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:53: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:19:53: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!menu"
+
+L 07/10/2022 - 16:19:58: [ULX] widepeeked jailed Frazer
+L 07/10/2022 - 16:20:14: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!unjail frazer"
+
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:20:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:20:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:21: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:20:22: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:20:23: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:20:30: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:20:35: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:20:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:20:59: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:20:59: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:21:07: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:21:10: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:21:12: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:21:19: [ULX] DJ Bread set the model for Themself to https://steamcommunity.com/sharedfiles/filedetails/?id=2574848934&searchtext=weed
+L 07/10/2022 - 16:21:22: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:21:23: [ULX] binchicken unjailed Frazer
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:23: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:21:24: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to switch noclip
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:21:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:21:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to switch noclip
+L 07/10/2022 - 16:21:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to switch noclip
+L 07/10/2022 - 16:21:26: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to switch noclip
+L 07/10/2022 - 16:21:58: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:21:59: [ULX] DJ Bread set the model for Themself to https://steamcommunity.com/sharedfiles/filedetails/?id=2574848934&searchtext=weed
+L 07/10/2022 - 16:22:01: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:22:03: [ULX] widepeeked jailed Frazer
+L 07/10/2022 - 16:22:03: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:22:04: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:22:07: [ULX] widepeeked unjailed Frazer
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:22:07: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:22:09: [ULX] DJ Bread set the scale for Themself to 5
+L 07/10/2022 - 16:22:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:22:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:22:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:22:14: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!menyu"
+
+L 07/10/2022 - 16:22:14: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:22:19: [ULX] Frazer teleported to widepeeked
+L 07/10/2022 - 16:22:19: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!goto wide"
+
+L 07/10/2022 - 16:22:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:22:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:22:27: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:22:31: [ULX] DJ Bread shocked Themself
+L 07/10/2022 - 16:22:33: [ULX] widepeeked brought Frazer
+L 07/10/2022 - 16:22:33: [ULX] widepeeked froze Frazer
+L 07/10/2022 - 16:22:36: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!bring wide"
+
+L 07/10/2022 - 16:22:37: [ULX] widepeeked unfroze Frazer
+L 07/10/2022 - 16:22:37: [ULX] widepeeked returned Frazer to their original position
+L 07/10/2022 - 16:22:41: [ULX] DJ Bread set the scale for Themself to 0
+L 07/10/2022 - 16:22:45: [ULX] DJ Bread set the scale for Themself to 1
+L 07/10/2022 - 16:22:50: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!menu"
+
+L 07/10/2022 - 16:22:50: [ULX] DJ Bread set the scale for Themself to 1
+L 07/10/2022 - 16:22:53: [ULX] DJ Bread set the scale for Themself to 0
+L 07/10/2022 - 16:22:58: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_matador
+L 07/10/2022 - 16:23:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_matador
+L 07/10/2022 - 16:23:08: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:09: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_m202
+L 07/10/2022 - 16:23:09: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_m202
+L 07/10/2022 - 16:23:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_orbital_strike
+L 07/10/2022 - 16:23:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_orbital_strike
+L 07/10/2022 - 16:23:14: [ULX] Frazer jailed Themself for 6 seconds
+L 07/10/2022 - 16:23:16: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:17: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:20: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 16:23:24: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:24: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by DJ Bread with a m9k_oribital_cannon
+L 07/10/2022 - 16:23:24: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a m9k_oribital_cannon
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:23:28: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:23:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:23:36: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:36: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:23:37: [ULX] binchicken gimped Frazer
+L 07/10/2022 - 16:23:41: [ULX] DJ Bread set the scale for Themself to 1
+L 07/10/2022 - 16:23:45: [ULX] DJ Bread set the scale for Themself to 0
+L 07/10/2022 - 16:23:58: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_colt1911
+L 07/10/2022 - 16:23:58: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_colt1911
+L 07/10/2022 - 16:24:02: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:24:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:24:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:24:06: [ULX] binchicken teleported to widepeeked
+L 07/10/2022 - 16:24:07: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by Frazer with a player
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:24:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:24:10: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:24:11: [ULX] DJ Bread teleported to Frazer
+L 07/10/2022 - 16:24:14: [ULX] widepeeked teleported to Frazer
+L 07/10/2022 - 16:24:18: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:24:21: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:24:27: [FAdmin] prop_physics(models/weapons/w_shot_m3super90.mdl) Got removed
+L 07/10/2022 - 16:24:31: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by Frazer with a player
+L 07/10/2022 - 16:24:32: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by binchicken with a player
+L 07/10/2022 - 16:24:33: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:24:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:24:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:24:44: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:24:47: [ULX] DJ Bread set the scale for Themself to 3
+L 07/10/2022 - 16:24:50: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:24:50: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:24:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:24:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:24:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:24:57: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!color * black"
+
+L 07/10/2022 - 16:25:04: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!god"
+
+L 07/10/2022 - 16:25:06: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by Frazer with a player
+L 07/10/2022 - 16:25:07: [ULX] widepeeked teleported to Frazer
+L 07/10/2022 - 16:25:09: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:25:10: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:25:11: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:25:12: [FAdmin] Frazer (STEAM_0:0:120840551) Got killed by binchicken with a player
+L 07/10/2022 - 16:25:13: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:25:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:25:31: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:25:50: [ULX] DJ Bread set the run speed for Themself to 909
+L 07/10/2022 - 16:25:54: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:25:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:25:59: [ULX] Al Shebab started a votemap for de_aztec
+L 07/10/2022 - 16:26:04: [ULX] (SILENT) binchicken began spectating Frazer
+L 07/10/2022 - 16:26:06: [ULX] (SILENT) widepeeked began spectating Frazer
+L 07/10/2022 - 16:26:06: [ULX] DJ Bread brought Frazer
+L 07/10/2022 - 16:26:06: [ULX] DJ Bread froze Frazer
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:26:10: [ULX] (SILENT) widepeeked stopped spectating Frazer
+L 07/10/2022 - 16:26:10: [ULX] (SILENT) widepeeked began spectating Frazer
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:26:10: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:26:11: [ULX] (SILENT) widepeeked stopped spectating Frazer
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:26:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:26:17: [ULX] DJ Bread unfroze Frazer
+L 07/10/2022 - 16:26:17: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!unfreeze @"
+
+L 07/10/2022 - 16:26:22: [ULX] (SILENT) widepeeked began spectating Frazer
+L 07/10/2022 - 16:26:31: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!spectate wide"
+
+L 07/10/2022 - 16:26:38: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:26:43: [ULX] DJ Bread shocked Al Shebab
+L 07/10/2022 - 16:26:45: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!menu"
+
+L 07/10/2022 - 16:26:45: [ULX] DJ Bread shocked Al Shebab
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 16:26:47: [ULX] (SILENT) binchicken stopped spectating Frazer
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_pumpshotgun2
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:26:47: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:26:51: [ULX] Al Shebab gimped binchicken
+L 07/10/2022 - 16:26:51: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!gimp bin"
+
+L 07/10/2022 - 16:26:55: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:26:55: [ULX] DJ Bread shocked binchicken
+L 07/10/2022 - 16:26:57: [ULX] DJ Bread shocked binchicken,widepeeked
+L 07/10/2022 - 16:26:58: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:01: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "a"
+
+L 07/10/2022 - 16:27:09: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:27:11: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!unspectate *"
+
+L 07/10/2022 - 16:27:12: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:12: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:13: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:13: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:13: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:14: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:14: [ULX] binchicken ungimped Themself
+L 07/10/2022 - 16:27:15: [ULX] DJ Bread applied trails on Themself
+L 07/10/2022 - 16:27:18: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:27:18: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!gimp"
+
+L 07/10/2022 - 16:27:24: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:27:26: [ULX] (SILENT) widepeeked stopped spectating Frazer
+L 07/10/2022 - 16:27:26: [ULX] (SILENT) widepeeked began spectating Frazer
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:27:26: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:27:29: [ULX] (SILENT) widepeeked stopped spectating Frazer
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:27:29: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:27:29: [ULX] Al Shebab took $1000 from widepeeked
+L 07/10/2022 - 16:27:30: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:27:30: [ULX] Al Shebab took $1000 from binchicken
+L 07/10/2022 - 16:27:31: [ULX] Al Shebab took $1000 from Frazer
+L 07/10/2022 - 16:27:32: [ULX] DJ Bread removed trails from Themself
+L 07/10/2022 - 16:27:32: [ULX] Al Shebab took $1000 from DJ Bread
+L 07/10/2022 - 16:27:32: [ULX] Al Shebab took $1000 from Themself
+L 07/10/2022 - 16:27:35: [ULX] DJ Bread applied trails on Themself
+L 07/10/2022 - 16:27:40: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:27:45: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:27:49: [ULX] DJ Bread removed trails from Themself
+L 07/10/2022 - 16:27:59: "Frazer<2><STEAM_0:0:120840551><Gun Dealer>" say "!menu"
+
+L 07/10/2022 - 16:28:04: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:28:06: [ULX] DJ Bread set the material for Themself to Models/effects/vol_light001
+L 07/10/2022 - 16:28:10: [ULX] DJ Bread set the material for Themself to Models/effects/comball_sphere
+L 07/10/2022 - 16:28:13: [ULX] binchicken whipped Frazer 2 times with 8 damage
+L 07/10/2022 - 16:28:17: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:28:18: [ULX] binchicken whipped Frazer 2 times with 8 damage
+L 07/10/2022 - 16:28:22: [ULX] DJ Bread set the material for Themself to models/props_foliage/tree_deciduous_01a_trunk
+L 07/10/2022 - 16:28:28: [ULX] widepeeked started a votegag of 9 minute(s) against Frazer
+L 07/10/2022 - 16:28:36: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:28:40: [ULX] DJ Bread set the material for Themself to models/flesh
+L 07/10/2022 - 16:28:45: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:28:47: [ULX] Al Shebab kicked Themself (join back when you arent black)
+L 07/10/2022 - 16:28:47: "Al Shebab<3><STEAM_0:0:103364981><Civilian>" say "!kick sheba join back when you arent black"
+
+L 07/10/2022 - 16:28:47: "Al Shebab<3><STEAM_0:0:103364981><>" disconnected (reason "Kicked by Al Shebab(STEAM_0:0:103364981) - join back when you arent black")
+L 07/10/2022 - 16:28:47: [FAdmin] Al Shebab (STEAM_0:0:103364981) Disconnected
+L 07/10/2022 - 16:28:50: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fiveseven2
+L 07/10/2022 - 16:28:50: [ULX] binchicken cloaked Themself by amount 0
+L 07/10/2022 - 16:28:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by widepeeked with a player
+L 07/10/2022 - 16:28:54: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:28:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:28:58: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:28:58: [ULX] binchicken cloaked Themself by amount 0
+L 07/10/2022 - 16:29:03: [FAdmin] binchicken (STEAM_0:0:437291733) Got killed by binchicken with a player
+L 07/10/2022 - 16:29:03: [ULX] DJ Bread exploded binchicken
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:29:06: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:29:08: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by widepeeked with a player
+L 07/10/2022 - 16:29:08: [ULX] DJ Bread exploded widepeeked
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:29:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:29:19: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:29:30: [ULX] DJ Bread set the material for widepeeked to models/flesh
+L 07/10/2022 - 16:29:36: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:29:48: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fiveseven2
+L 07/10/2022 - 16:30:06: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!cloak"
+
+L 07/10/2022 - 16:30:07: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:30:09: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:30:15: "Al Shebab<7><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 16:30:16: "Al Shebab<7><STEAM_0:0:103364981><>" STEAM USERID validated
+L 07/10/2022 - 16:30:16: [ULX] DJ Bread set the material for Themself to models/wireframe
+L 07/10/2022 - 16:30:17: [ULX] DJ Bread reset the material for Themself
+L 07/10/2022 - 16:30:18: [ULX] DJ Bread reset the material for Themself
+L 07/10/2022 - 16:30:27: [ULX] DJ Bread set the color for Themself to white
+L 07/10/2022 - 16:30:34: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) is Authed
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned for the first time
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 16:30:35: "Al Shebab<7><STEAM_0:0:103364981><>" entered the game
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_fists
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 16:30:35: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 16:30:37: [ULX] DJ Bread set the color for Themself to orange
+L 07/10/2022 - 16:30:40: [ULX] DJ Bread set the color for Themself to maroon
+L 07/10/2022 - 16:30:44: [ULX] DJ Bread set the color for Themself to black
+L 07/10/2022 - 16:30:49: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/FurnitureBathtub001a.mdl
+L 07/10/2022 - 16:30:49: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:30:53: [ULX] Al Shebab reseted the laws.
+L 07/10/2022 - 16:31:00: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:03: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:03: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:06: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:06: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:06: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:07: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:07: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:07: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:07: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:07: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:07: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:08: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:08: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:08: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:08: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:08: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:08: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:08: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:09: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:09: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:09: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:09: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:09: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:09: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:10: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:10: [ULX] Al Shebab teleported DJ Bread
+L 07/10/2022 - 16:31:11: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:11: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:11: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:12: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:12: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:12: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:13: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:13: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:13: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:13: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:13: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:13: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:14: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:14: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:14: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:15: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:15: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:15: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:16: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:16: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:16: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:17: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:17: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:17: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:18: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:31:23: "binchicken<4><STEAM_0:0:437291733><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:31:24: [ULX] DJ Bread set the color for Themself to green
+L 07/10/2022 - 16:31:28: [ULX] binchicken uncloaked Themself
+L 07/10/2022 - 16:31:31: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:31: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:31: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:32: "DJ Bread<5><STEAM_0:0:579690494><Civilian>" say "!menu"
+
+L 07/10/2022 - 16:31:33: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:33: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:33: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:34: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:34: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:34: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:35: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:35: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:35: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:35: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:35: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:36: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:36: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:36: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:37: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool stacker_improved
+L 07/10/2022 - 16:31:37: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:37: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+L 07/10/2022 - 16:31:38: [ULX] DJ Bread filled the server with bots
+L 07/10/2022 - 16:31:38: "Bot01<8><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot01 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot01 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot01<8><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot02<9><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot02 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot02 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot02<9><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot03<10><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot03 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot03 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot03<10><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot04<11><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot04 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot04 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot04<11><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot05<12><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot05 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot05 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot05<12><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot06<13><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot06 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot06 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot06<13><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot07<14><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot07 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot07 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot07<14><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot08<15><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot08 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot08 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot08<15><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot09<16><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot09 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot09 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot09<16><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot10<17><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot10 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot10 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot10<17><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot11<18><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot11 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot11 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot11<18><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot12<19><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot12 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot12 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot12<19><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot13<20><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot13 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot13 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot13<20><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot14<21><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot14 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot14 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot14<21><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot15<22><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot15 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot15 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot15<22><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot16<23><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot16 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot16 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot16<23><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot17<24><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot17 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot17 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot17<24><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot18<25><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot18 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot18 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot18<25><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot19<26><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot19 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot19 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot19<26><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot20<27><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot20 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot20 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot20<27><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot21<28><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot21 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot21 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot21<28><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot22<29><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot22 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot22 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot22<29><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot23<30><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot23 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot23 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot23<30><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot24<31><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot24 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot24 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot24<31><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot25<32><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot25 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot25 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot25<32><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot26<33><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot26 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot26 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot26<33><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot27<34><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot27 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot27 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot27<34><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot28<35><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot28 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot28 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot28<35><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot29<36><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot29 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot29 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot29<36><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot30<37><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot30 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot30 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot30<37><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot31<38><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot31 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot31 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot31<38><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot32<39><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot32 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot32 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot32<39><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot33<40><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot33 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot33 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot33<40><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot34<41><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot34 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot34 (BOT) Spawned
+L 07/10/2022 - 16:31:38: "Bot34<41><BOT><>" entered the game
+L 07/10/2022 - 16:31:38: "Bot35<42><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:38: [FAdmin] Bot35 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:38: [FAdmin] Bot09 (BOT) Got killed by Bot09 with a player
+L 07/10/2022 - 16:31:39: [FAdmin] Bot35 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot35<42><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot36<43><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot36 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot36 (BOT) Spawned
+L 07/10/2022 - 16:31:39: [FAdmin] Bot32 (BOT) Got killed by Bot32 with a player
+L 07/10/2022 - 16:31:39: "Bot36<43><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot37<44><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot37 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot37 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot37<44><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot38<45><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot38 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot38 (BOT) Spawned
+L 07/10/2022 - 16:31:39: [FAdmin] Bot08 (BOT) Got killed by Bot08 with a player
+L 07/10/2022 - 16:31:39: "Bot38<45><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot39<46><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot39 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot39 (BOT) Spawned
+L 07/10/2022 - 16:31:39: [FAdmin] Bot21 (BOT) Got killed by Bot21 with a player
+L 07/10/2022 - 16:31:39: "Bot39<46><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot40<47><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot40 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot40 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot40<47><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot41<48><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot41 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot41 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot41<48><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot42<49><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot42 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot42 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot42<49><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot43<50><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot43 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot43 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot43<50><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot44<51><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot44 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Bot44 (BOT) Spawned
+L 07/10/2022 - 16:31:39: "Bot44<51><BOT><>" entered the game
+L 07/10/2022 - 16:31:39: "Bot45<52><BOT><>" connected, address "none"
+L 07/10/2022 - 16:31:39: [FAdmin] Bot45 (BOT) Spawned for the first time
+L 07/10/2022 - 16:31:39: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by Al Shebab with a player
+L 07/10/2022 - 16:31:39:

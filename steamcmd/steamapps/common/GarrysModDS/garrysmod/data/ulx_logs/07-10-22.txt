@@ -695,3 +695,1101 @@
 [15:43:49] Client "Frazer" connected.
 [15:43:54] Client "Al Shebab" connected.
 [15:44:04] Client "widepeeked" connected.
+
+
+
+[15:46:19] New map: rp_downtown_tits_v2
+[15:46:23] Client "Al Shebab" connected.
+[15:46:23] Client "widepeeked" connected.
+[15:46:23] Client "widepeeked" connected.
+[15:46:23] Client "widepeeked" connected.
+[15:46:23] Client "widepeeked" connected.
+[15:46:44] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 21 seconds).
+[15:46:52] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 29 seconds).
+[15:47:12] Client "Frazer" connected.
+[15:47:34] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 22 seconds).
+[15:47:46] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:47] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:47] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:49] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:50] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:51] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:52] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:53] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:54] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:55] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:57] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:58] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:47:59] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:48:00] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:48:01] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/lockers001a.mdl
+[15:49:16] Al Shebab: !DISCORD
+[15:49:20] Al Shebab: https://discord.gg/hWN7zXtbQP
+[15:49:28] Al Shebab was killed by prop_physics
+[15:49:39] Al Shebab suicided!
+[15:49:47] Frazer was killed by prop_physics
+[15:49:47] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/lockers001a.mdl
+[15:49:55] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/lockers001a.mdl
+[15:49:57] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/lockers001a.mdl
+[15:49:58] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/lockers001a.mdl
+[15:50:03] Al Shebab was killed by prop_physics
+[15:50:11] Al Shebab was killed by prop_physics
+[15:51:06] widepeeked suicided!
+[15:51:11] Al Shebab was killed by prop_physics
+[15:51:22] Frazer was killed by prop_physics
+[15:51:36] Frazer was killed by prop_physics
+[15:51:56] Al Shebab granted access "ulx seeadminonlyechoes" to group trial-moderator
+[15:51:58] Al Shebab granted access "ulx physgunplayer" to group trial-moderator
+[15:52:01] Al Shebab granted access "ulx seeasay" to group trial-moderator
+[15:52:02] Al Shebab granted access "ulx seesasay" to group trial-moderator
+[15:52:02] Al Shebab revoked access "ulx seesasay" to group trial-moderator
+[15:52:27] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:32] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:33] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:33] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:34] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:34] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:35] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:37] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:37] Al Shebab granted access "ulx spectate" to group trial-moderator
+[15:52:38] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:38] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:39] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:39] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:39] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:40] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:41] (SILENT) widepeeked began spectating Frazer
+[15:52:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:54] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:52:54] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:53:14] (SILENT) widepeeked stopped spectating Frazer
+[15:53:14] (SILENT) widepeeked began spectating Frazer
+[15:53:16] (SILENT) widepeeked stopped spectating Frazer
+[15:53:27] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[15:53:34] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_cross001b.mdl
+[15:53:37] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:53:44] Frazer killed Al Shebab using prop_physics
+[15:54:02] Client "Binchicken" connected.
+[15:54:20] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 18 seconds).
+[15:54:23] Al Shebab killed widepeeked using m9k_thrown_knife
+[15:54:34] binchicken teleported to Frazer
+[15:56:32] binchicken: !menu
+[15:56:34] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:56:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:03] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:06] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:12] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:13] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:19] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:20] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:25] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:31] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:32] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:35] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:36] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:38] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:38] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:39] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:40] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:40] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:40] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:41] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:43] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:51] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:57:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:58:26] Dropped "widepeeked" from server<STEAM_0:0:492844137>
+[15:58:26] Client "widepeeked" connected.
+[15:58:46] Dropped "Frazer" from server<STEAM_0:0:120840551>
+[15:58:47] Dropped "binchicken" from server<STEAM_0:0:437291733>
+[15:58:47] Client "Frazer" connected.
+[15:58:47] Client "Binchicken" connected.
+
+
+
+[15:59:45] New map: rp_downtown_tits_v2
+[15:59:50] Client "Skii" connected.
+[15:59:50] Client "Skii" connected.
+[15:59:50] Client "Al Shebab" connected.
+[15:59:50] Client "Binchicken" connected.
+[16:00:07] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 17 seconds).
+[16:00:09] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 19 seconds).
+[16:00:11] Client "Frazer" connected.
+[16:00:20] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[16:00:32] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 21 seconds).
+
+
+
+[16:01:27] New map: rp_downtown_tits_v2
+[16:01:31] Client "Frazer" connected.
+[16:01:34] Client "Al Shebab" connected.
+[16:01:36] Client "Binchicken" connected.
+[16:01:55] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 21 seconds).
+[16:01:56] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 20 seconds).
+[16:01:57] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 26 seconds).
+[16:02:09] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/gravestone_statue001a.mdl
+[16:02:14] Client "Skii" connected.
+[16:02:15] Frazer<STEAM_0:0:120840551> spawned model models/props_borealis/bluebarrel001.mdl
+[16:02:16] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/gate_door02a.mdl
+[16:02:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:02:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:02:52] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/cardboard_box004a.mdl
+[16:02:59] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:02:59] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:02:59] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:01] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 47 seconds).
+[16:03:19] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:19] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:19] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:20] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:20] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:20] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[16:03:23] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_chamber.mdl
+[16:03:24] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:31] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:33] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/pot02a.mdl
+[16:03:35] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:39] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:42] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:42] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:42] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:42] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:42] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:42] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:43] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:43] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:43] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:46] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:46] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:46] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:46] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:46] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:47] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:47] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:47] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:47] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:47] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furniturefireplace001a.mdl
+[16:03:49] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[16:03:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher.mdl
+[16:03:58] binchicken<STEAM_0:0:437291733> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[16:04:03] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[16:04:21] Al Shebab was killed by prop_vehicle_jeep
+[16:04:39] Client "widepeeked" connected.
+[16:04:44] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[16:04:49] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[16:05:01] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 22 seconds).
+[16:05:16] DJ Bread: !menu
+[16:05:35] Al Shebab<STEAM_0:0:103364981> spawned model models/props_lab/blastdoor001c.mdl
+[16:05:43] widepeeked<STEAM_0:0:492844137> spawned model models/props_junk/cardboard_box004a.mdl
+[16:05:46] widepeeked<STEAM_0:0:492844137> spawned model models/props_lab/blastdoor001b.mdl
+[16:05:56] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:06:02] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[16:06:09] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:06:23] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/gate_door01a.mdl
+[16:07:08] widepeeked<STEAM_0:0:492844137> spawned model models/props_lab/blastdoor001b.mdl
+[16:07:12] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:08:04] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:08:18] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:08:32] widepeeked killed binchicken using player
+[16:08:46] widepeeked teleported to Frazer
+[16:08:51] binchicken teleported to Frazer
+[16:08:56] binchicken killed widepeeked using player
+[16:09:03] DJ Bread teleported to binchicken
+[16:09:33] DJ Bread killed Frazer using m9k_thrown_knife
+[16:09:37] DJ Bread suicided!
+[16:09:46] binchicken teleported to widepeeked
+[16:09:53] widepeeked brought Frazer
+[16:09:56] widepeeked brought Frazer
+[16:09:57] widepeeked brought Frazer
+[16:09:58] widepeeked brought Frazer
+[16:09:59] widepeeked brought Frazer
+[16:09:59] widepeeked brought Frazer
+[16:10:25] DJ Bread: !menu
+[16:10:27] widepeeked: !menu
+[16:10:34] widepeeked: !menu
+[16:10:37] widepeeked brought Frazer
+[16:10:38] Frazer suicided!
+[16:10:38] DJ Bread respawned Frazer
+[16:10:40] binchicken brought Frazer
+[16:11:11] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[16:11:15] DJ Bread killed widepeeked using m9k_released_poison
+[16:11:21] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[16:11:23] Frazer suicided!
+[16:11:23] widepeeked teleported to binchicken
+[16:11:25] DJ Bread killed widepeeked using m9k_released_poison
+[16:11:29] DJ Bread suicided!
+[16:11:31] binchicken brought Frazer
+[16:11:34] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[16:11:34] Frazer suicided!
+[16:11:38] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[16:12:00] DJ Bread: !menu
+[16:12:02] widepeeked: !menu
+[16:12:02] DJ Bread respawned Frazer
+[16:12:02] widepeeked: !menu
+[16:12:07] binchicken brought Frazer
+[16:12:13] widepeeked suicided!
+[16:12:13] DJ Bread exploded widepeeked
+[16:12:19] widepeeked teleported to binchicken
+[16:12:54] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_combiner
+[16:13:07] DJ Bread: !menu
+[16:14:29] binchicken: /drop
+[16:15:05] DJ Bread killed binchicken using player
+[16:15:15] Frazer killed widepeeked using player
+[16:15:21] widepeeked teleported to Frazer
+[16:15:39] binchicken: !menu
+[16:15:42] DJ Bread killed Frazer using player
+[16:15:46] DJ Bread suicided!
+[16:15:49] binchicken set the armor for Themself to 255
+[16:15:55] binchicken set the hp for Themself to 2147483647
+[16:16:00] DJ Bread: !menu
+[16:16:11] Frazer killed DJ Bread using player
+[16:16:19] widepeeked killed Frazer using player
+[16:16:23] DJ Bread: !menu
+[16:16:29] binchicken killed widepeeked using player
+[16:16:35] DJ Bread slapped binchicken with 100 damage
+[16:16:45] DJ Bread: !menu
+[16:16:53] widepeeked: !invis
+[16:16:57] binchicken: .drop
+[16:16:58] widepeeked: !menu
+[16:17:00] widepeeked: !menu
+[16:17:00] binchicken: /drop
+[16:17:00] widepeeked: !menu
+[16:17:02] DJ Bread ignited Frazer for 300 seconds
+[16:17:21] Frazer was killed by entityflame
+[16:17:36] widepeeked killed DJ Bread using weapon_fists
+[16:17:46] DJ Bread suicided!
+[16:17:46] DJ Bread killed widepeeked using m9k_davy_crockett_explo
+[16:17:46] DJ Bread killed binchicken using m9k_davy_crockett_explo
+[16:17:51] binchicken: !menu
+[16:17:52] binchicken set the hp for Themself to 2147483647
+[16:18:03] DJ Bread: !menu
+[16:18:07] DJ Bread granted god mode upon Themself
+[16:18:25] DJ Bread whipped Frazer 31 times with 0 damage
+[16:18:31] binchicken: !menu
+[16:18:43] DJ Bread: !menu
+[16:18:50] binchicken revoked access "ulx kick" to group trial-moderator
+[16:18:53] Frazer killed widepeeked using player
+[16:19:11] Frazer: /y Warning 1/2/3Leave the area
+[16:19:16] Frazer: !menu
+[16:19:18] binchicken: !menu
+[16:19:20] DJ Bread: !menu
+[16:19:31] binchicken: !menu
+[16:19:36] Frazer killed widepeeked using player
+[16:19:38] binchicken added Frazer to group trial-moderator
+[16:19:39] widepeeked: !menu
+[16:19:40] widepeeked: !menu
+[16:19:43] Frazer: /y Warning 1/2/3Leave the area
+[16:19:45] DJ Bread: !menu
+[16:19:51] widepeeked: !menu
+[16:19:52] widepeeked: !menu
+[16:19:53] widepeeked: !menu
+[16:19:53] Frazer: !menu
+[16:19:58] widepeeked jailed Frazer
+[16:20:15] binchicken killed Frazer using weapon_fists
+[16:20:20] binchicken killed Frazer using weapon_fists
+[16:20:30] binchicken killed Frazer using player
+[16:20:35] binchicken killed Frazer using player
+[16:20:59] binchicken killed Frazer using player
+[16:21:07] widepeeked: !menu
+[16:21:10] widepeeked: !menu
+[16:21:12] binchicken: !menu
+[16:21:19] DJ Bread set the model for Themself to https://steamcommunity.com/sharedfiles/filedetails/?id=2574848934&searchtext=weed
+[16:21:22] DJ Bread suicided!
+[16:21:23] binchicken unjailed Frazer
+[16:21:58] DJ Bread: !menu
+[16:21:59] DJ Bread set the model for Themself to https://steamcommunity.com/sharedfiles/filedetails/?id=2574848934&searchtext=weed
+[16:22:01] widepeeked: !menu
+[16:22:03] widepeeked jailed Frazer
+[16:22:03] widepeeked: !menu
+[16:22:04] widepeeked: !menu
+[16:22:07] widepeeked unjailed Frazer
+[16:22:07] widepeeked: !menu
+[16:22:09] DJ Bread set the scale for Themself to 5
+[16:22:14] Frazer: !menyu
+[16:22:19] Frazer teleported to widepeeked
+[16:22:19] Frazer: !goto wide
+[16:22:20] DJ Bread suicided!
+[16:22:27] DJ Bread: !menu
+[16:22:31] DJ Bread shocked Themself
+[16:22:33] widepeeked brought Frazer
+[16:22:33] widepeeked froze Frazer
+[16:22:36] Frazer: !bring wide
+[16:22:37] widepeeked unfroze Frazer
+[16:22:37] widepeeked returned Frazer to their original position
+[16:22:41] DJ Bread set the scale for Themself to 0
+[16:22:45] DJ Bread set the scale for Themself to 1
+[16:22:50] Frazer: !menu
+[16:22:50] DJ Bread set the scale for Themself to 1
+[16:22:53] DJ Bread set the scale for Themself to 0
+[16:22:58] binchicken: !menu
+[16:23:08] widepeeked: !menu
+[16:23:14] Frazer jailed Themself for 6 seconds
+[16:23:16] widepeeked: !menu
+[16:23:17] widepeeked: !menu
+[16:23:24] widepeeked: !menu
+[16:23:24] DJ Bread killed Frazer using m9k_oribital_cannon
+[16:23:24] DJ Bread suicided!
+[16:23:36] DJ Bread: !menu
+[16:23:36] widepeeked: !menu
+[16:23:37] binchicken gimped Frazer
+[16:23:41] DJ Bread set the scale for Themself to 1
+[16:23:45] DJ Bread set the scale for Themself to 0
+[16:24:06] binchicken teleported to widepeeked
+[16:24:07] Frazer killed widepeeked using player
+[16:24:10] widepeeked: !menu
+[16:24:11] DJ Bread teleported to Frazer
+[16:24:14] widepeeked teleported to Frazer
+[16:24:31] Frazer killed widepeeked using player
+[16:24:32] binchicken killed Frazer using player
+[16:24:44] DJ Bread: !menu
+[16:24:47] DJ Bread set the scale for Themself to 3
+[16:24:57] (tsay from Al Shebab) *
+[16:25:06] Frazer killed Al Shebab using player
+[16:25:07] widepeeked teleported to Frazer
+[16:25:12] binchicken killed Frazer using player
+[16:25:31] DJ Bread: !menu
+[16:25:50] DJ Bread set the run speed for Themself to 909
+[16:25:54] DJ Bread suicided!
+[16:25:59] Al Shebab started a votemap for de_aztec
+[16:26:02] Frazer voted for: No
+[16:26:03] DJ Bread voted for: No
+[16:26:03] Al Shebab voted for: Yes
+[16:26:03] widepeeked voted for: No
+[16:26:04] (SILENT) binchicken began spectating Frazer
+[16:26:06] binchicken voted for: No
+[16:26:06] Vote results: Vote was unsuccessful.
+[16:26:06] (SILENT) widepeeked began spectating Frazer
+[16:26:06] DJ Bread brought Frazer
+[16:26:06] DJ Bread froze Frazer
+[16:26:10] (SILENT) widepeeked stopped spectating Frazer
+[16:26:10] (SILENT) widepeeked began spectating Frazer
+[16:26:11] (SILENT) widepeeked stopped spectating Frazer
+[16:26:17] DJ Bread unfroze Frazer
+[16:26:17] DJ Bread: !unfreeze @
+[16:26:22] (SILENT) widepeeked began spectating Frazer
+[16:26:38] DJ Bread: !menu
+[16:26:43] DJ Bread shocked Al Shebab
+[16:26:45] DJ Bread shocked Al Shebab
+[16:26:47] (SILENT) binchicken stopped spectating Frazer
+[16:26:51] Al Shebab gimped binchicken
+[16:26:51] Al Shebab: !gimp bin
+[16:26:55] DJ Bread shocked binchicken
+[16:26:57] DJ Bread shocked binchicken,widepeeked
+[16:26:58] binchicken ungimped Themself
+[16:27:01] binchicken: a
+[16:27:09] binchicken: !menu
+[16:27:11] (TEAM) Al Shebab: !unspectate *
+[16:27:12] binchicken ungimped Themself
+[16:27:12] binchicken ungimped Themself
+[16:27:13] binchicken ungimped Themself
+[16:27:13] binchicken ungimped Themself
+[16:27:13] binchicken ungimped Themself
+[16:27:14] binchicken ungimped Themself
+[16:27:14] binchicken ungimped Themself
+[16:27:15] DJ Bread applied trails on Themself
+[16:27:18] Al Shebab: !gimp
+[16:27:26] (SILENT) widepeeked stopped spectating Frazer
+[16:27:26] (SILENT) widepeeked began spectating Frazer
+[16:27:29] (SILENT) widepeeked stopped spectating Frazer
+[16:27:29] Al Shebab took $1000 from widepeeked
+[16:27:30] DJ Bread: !menu
+[16:27:30] Al Shebab took $1000 from binchicken
+[16:27:31] Al Shebab took $1000 from Frazer
+[16:27:32] DJ Bread removed trails from Themself
+[16:27:32] Al Shebab took $1000 from DJ Bread
+[16:27:32] Al Shebab took $1000 from Themself
+[16:27:35] DJ Bread applied trails on Themself
+[16:27:40] binchicken: !menu
+[16:27:45] DJ Bread: !menu
+[16:27:49] DJ Bread removed trails from Themself
+[16:28:04] widepeeked: !menu
+[16:28:06] DJ Bread set the material for Themself to Models/effects/vol_light001
+[16:28:10] DJ Bread set the material for Themself to Models/effects/comball_sphere
+[16:28:13] binchicken whipped Frazer 2 times with 8 damage
+[16:28:17] DJ Bread: !menu
+[16:28:18] binchicken whipped Frazer 2 times with 8 damage
+[16:28:22] DJ Bread set the material for Themself to models/props_foliage/tree_deciduous_01a_trunk
+[16:28:28] widepeeked started a votegag of 9 minute(s) against Frazer
+[16:28:31] DJ Bread voted for: Yes
+[16:28:31] widepeeked voted for: Yes
+[16:28:33] binchicken voted for: No
+[16:28:34] Al Shebab voted for: No
+[16:28:36] DJ Bread: !menu
+[16:28:40] DJ Bread set the material for Themself to models/flesh
+[16:28:45] binchicken: !menu
+[16:28:47] Al Shebab kicked Themself (join back when you arent black)
+[16:28:47] Al Shebab: !kick sheba join back when you arent black
+[16:28:47] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[16:28:48] Vote results: User will not be gagged. (2/5)
+[16:28:50] binchicken cloaked Themself by amount 0
+[16:28:53] widepeeked killed DJ Bread using player
+[16:28:54] binchicken: !menu
+[16:28:58] DJ Bread: !menu
+[16:28:58] binchicken cloaked Themself by amount 0
+[16:29:03] binchicken suicided!
+[16:29:03] DJ Bread exploded binchicken
+[16:29:08] widepeeked suicided!
+[16:29:08] DJ Bread exploded widepeeked
+[16:29:19] DJ Bread: !menu
+[16:29:30] DJ Bread set the material for widepeeked to models/flesh
+[16:29:36] DJ Bread: !menu
+[16:30:07] binchicken: !menu
+[16:30:09] widepeeked: !menu
+[16:30:15] Client "Al Shebab" connected.
+[16:30:16] DJ Bread set the material for Themself to models/wireframe
+[16:30:17] DJ Bread reset the material for Themself
+[16:30:18] DJ Bread reset the material for Themself
+[16:30:27] DJ Bread set the color for Themself to white
+[16:30:34] DJ Bread: !menu
+[16:30:35] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 20 seconds).
+[16:30:37] DJ Bread set the color for Themself to orange
+[16:30:40] DJ Bread set the color for Themself to maroon
+[16:30:44] DJ Bread set the color for Themself to black
+[16:30:49] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:30:53] Al Shebab reseted the laws.
+[16:31:00] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:03] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:06] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:06] Al Shebab teleported DJ Bread
+[16:31:07] Al Shebab teleported DJ Bread
+[16:31:07] Al Shebab teleported DJ Bread
+[16:31:07] Al Shebab teleported DJ Bread
+[16:31:07] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:08] Al Shebab teleported DJ Bread
+[16:31:08] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:08] Al Shebab teleported DJ Bread
+[16:31:08] Al Shebab teleported DJ Bread
+[16:31:09] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:09] Al Shebab teleported DJ Bread
+[16:31:09] Al Shebab teleported DJ Bread
+[16:31:09] Al Shebab teleported DJ Bread
+[16:31:10] Al Shebab teleported DJ Bread
+[16:31:10] Al Shebab teleported DJ Bread
+[16:31:11] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:12] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:13] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:13] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:14] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:15] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:16] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:17] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:18] DJ Bread: !menu
+[16:31:23] binchicken: !menu
+[16:31:24] DJ Bread set the color for Themself to green
+[16:31:28] binchicken uncloaked Themself
+[16:31:31] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:32] DJ Bread: !menu
+[16:31:33] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:34] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:35] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:35] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:36] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:37] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:31:38] DJ Bread filled the server with bots
+[16:31:38] Client "Bot01" connected.
+[16:31:38] Client "Bot01" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot02" connected.
+[16:31:38] Client "Bot02" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot03" connected.
+[16:31:38] Client "Bot03" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot04" connected.
+[16:31:38] Client "Bot04" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot05" connected.
+[16:31:38] Client "Bot05" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot06" connected.
+[16:31:38] Client "Bot06" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot07" connected.
+[16:31:38] Client "Bot07" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot08" connected.
+[16:31:38] Client "Bot08" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot09" connected.
+[16:31:38] Client "Bot09" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot10" connected.
+[16:31:38] Client "Bot10" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot11" connected.
+[16:31:38] Client "Bot11" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot12" connected.
+[16:31:38] Client "Bot12" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot13" connected.
+[16:31:38] Client "Bot13" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot14" connected.
+[16:31:38] Client "Bot14" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot15" connected.
+[16:31:38] Client "Bot15" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot16" connected.
+[16:31:38] Client "Bot16" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot17" connected.
+[16:31:38] Client "Bot17" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot18" connected.
+[16:31:38] Client "Bot18" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot19" connected.
+[16:31:38] Client "Bot19" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot20" connected.
+[16:31:38] Client "Bot20" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot21" connected.
+[16:31:38] Client "Bot21" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot22" connected.
+[16:31:38] Client "Bot22" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot23" connected.
+[16:31:38] Client "Bot23" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot24" connected.
+[16:31:38] Client "Bot24" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot25" connected.
+[16:31:38] Client "Bot25" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot26" connected.
+[16:31:38] Client "Bot26" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot27" connected.
+[16:31:38] Client "Bot27" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot28" connected.
+[16:31:38] Client "Bot28" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot29" connected.
+[16:31:38] Client "Bot29" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot30" connected.
+[16:31:38] Client "Bot30" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot31" connected.
+[16:31:38] Client "Bot31" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot32" connected.
+[16:31:38] Client "Bot32" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot33" connected.
+[16:31:38] Client "Bot33" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot34" connected.
+[16:31:38] Client "Bot34" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Client "Bot35" connected.
+[16:31:38] Client "Bot35" spawned in server <BOT> (took 1837 seconds).
+[16:31:38] Bot09 suicided!
+[16:31:39] Client "Bot36" connected.
+[16:31:39] Client "Bot36" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Bot32 suicided!
+[16:31:39] Client "Bot37" connected.
+[16:31:39] Client "Bot37" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot38" connected.
+[16:31:39] Client "Bot38" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Bot08 suicided!
+[16:31:39] Client "Bot39" connected.
+[16:31:39] Client "Bot39" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Bot21 suicided!
+[16:31:39] Client "Bot40" connected.
+[16:31:39] Client "Bot40" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot41" connected.
+[16:31:39] Client "Bot41" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot42" connected.
+[16:31:39] Client "Bot42" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot43" connected.
+[16:31:39] Client "Bot43" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot44" connected.
+[16:31:39] Client "Bot44" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot45" connected.
+[16:31:39] Client "Bot45" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Al Shebab suicided!
+[16:31:39] Client "Bot46" connected.
+[16:31:39] Client "Bot46" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot47" connected.
+[16:31:39] Client "Bot47" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot48" connected.
+[16:31:39] Client "Bot48" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot49" connected.
+[16:31:39] Client "Bot49" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot50" connected.
+[16:31:39] Client "Bot50" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot51" connected.
+[16:31:39] Client "Bot51" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot52" connected.
+[16:31:39] Client "Bot52" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Bot11 suicided!
+[16:31:39] Client "Bot53" connected.
+[16:31:39] Client "Bot53" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot54" connected.
+[16:31:39] Client "Bot54" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot55" connected.
+[16:31:39] Client "Bot55" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot56" connected.
+[16:31:39] Client "Bot56" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot57" connected.
+[16:31:39] Client "Bot57" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot58" connected.
+[16:31:39] Client "Bot58" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot59" connected.
+[16:31:39] Client "Bot59" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot60" connected.
+[16:31:39] Client "Bot60" spawned in server <BOT> (took 1838 seconds).
+[16:31:39] Client "Bot61" connected.
+[16:31:39] Client "Bot61" spawned in server <BOT> (took 1838 seconds).
+[16:31:40] Client "Bot62" connected.
+[16:31:40] Client "Bot62" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot63" connected.
+[16:31:40] Client "Bot63" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot64" connected.
+[16:31:40] Client "Bot64" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot65" connected.
+[16:31:40] Client "Bot65" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot66" connected.
+[16:31:40] Client "Bot66" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot67" connected.
+[16:31:40] Client "Bot67" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot68" connected.
+[16:31:40] Client "Bot68" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot69" connected.
+[16:31:40] Client "Bot69" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot70" connected.
+[16:31:40] Client "Bot70" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot71" connected.
+[16:31:40] Client "Bot71" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot72" connected.
+[16:31:40] Client "Bot72" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot73" connected.
+[16:31:40] Client "Bot73" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Bot29 suicided!
+[16:31:40] Client "Bot74" connected.
+[16:31:40] Client "Bot74" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot75" connected.
+[16:31:40] Client "Bot75" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot76" connected.
+[16:31:40] Client "Bot76" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot77" connected.
+[16:31:40] Client "Bot77" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Bot68 suicided!
+[16:31:40] Client "Bot78" connected.
+[16:31:40] Client "Bot78" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot79" connected.
+[16:31:40] Client "Bot79" spawned in server <BOT> (took 1839 seconds).
+[16:31:40] Client "Bot80" connected.
+[16:31:40] Client "Bot80" spawned in server <BOT> (took 1839 seconds).
+[16:31:41] Client "Bot81" connected.
+[16:31:41] Client "Bot81" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Bot04 suicided!
+[16:31:41] Client "Bot82" connected.
+[16:31:41] Client "Bot82" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot83" connected.
+[16:31:41] Client "Bot83" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot84" connected.
+[16:31:41] Client "Bot84" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot85" connected.
+[16:31:41] Client "Bot85" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot86" connected.
+[16:31:41] Client "Bot86" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot87" connected.
+[16:31:41] Client "Bot87" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot88" connected.
+[16:31:41] Client "Bot88" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot89" connected.
+[16:31:41] Client "Bot89" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Bot13 suicided!
+[16:31:41] Client "Bot90" connected.
+[16:31:41] Client "Bot90" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot91" connected.
+[16:31:41] Client "Bot91" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot92" connected.
+[16:31:41] Client "Bot92" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot93" connected.
+[16:31:41] Client "Bot93" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot94" connected.
+[16:31:41] Client "Bot94" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot95" connected.
+[16:31:41] Client "Bot95" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot96" connected.
+[16:31:41] Client "Bot96" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot97" connected.
+[16:31:41] Client "Bot97" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot98" connected.
+[16:31:41] Client "Bot98" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot99" connected.
+[16:31:41] Client "Bot99" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot100" connected.
+[16:31:41] Client "Bot100" spawned in server <BOT> (took 1840 seconds).
+[16:31:41] Client "Bot101" connected.
+[16:31:41] Client "Bot101" spawned in server <BOT> (took 1840 seconds).
+[16:31:42] Client "Bot102" connected.
+[16:31:42] Client "Bot102" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot103" connected.
+[16:31:42] Client "Bot103" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot104" connected.
+[16:31:42] Client "Bot104" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot105" connected.
+[16:31:42] Client "Bot105" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot106" connected.
+[16:31:42] Client "Bot106" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot107" connected.
+[16:31:42] Client "Bot107" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot108" connected.
+[16:31:42] Client "Bot108" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot109" connected.
+[16:31:42] Client "Bot109" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot110" connected.
+[16:31:42] Client "Bot110" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot111" connected.
+[16:31:42] Client "Bot111" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot112" connected.
+[16:31:42] Client "Bot112" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot113" connected.
+[16:31:42] Client "Bot113" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot114" connected.
+[16:31:42] Client "Bot114" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot115" connected.
+[16:31:42] Client "Bot115" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot116" connected.
+[16:31:42] Client "Bot116" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot117" connected.
+[16:31:42] Client "Bot117" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot118" connected.
+[16:31:42] Client "Bot118" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot119" connected.
+[16:31:42] Client "Bot119" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Bot20 suicided!
+[16:31:42] Client "Bot120" connected.
+[16:31:42] Client "Bot120" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot121" connected.
+[16:31:42] Client "Bot121" spawned in server <BOT> (took 1841 seconds).
+[16:31:42] Client "Bot122" connected.
+[16:31:42] Client "Bot122" spawned in server <BOT> (took 1841 seconds).
+[16:31:43] Client "Bot123" connected.
+[16:31:43] Client "Bot123" spawned in server <BOT> (took 1842 seconds).
+[16:31:43] DJ Bread spawned 1 bot
+[16:31:43] Dropped "Frazer" from server<STEAM_0:0:120840551>
+[16:31:43] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[16:31:43] Dropped "binchicken" from server<STEAM_0:0:437291733>
+[16:31:43] Dropped "DJ Bread" from server<STEAM_0:0:579690494>
+[16:31:44] Dropped "widepeeked" from server<STEAM_0:0:492844137>
+[16:31:44] Dropped "Bot01" from server<BOT>
+[16:31:44] Dropped "Bot02" from server<BOT>
+[16:31:45] Dropped "Bot03" from server<BOT>
+[16:31:45] Dropped "Bot04" from server<BOT>
+[16:31:45] Dropped "Bot05" from server<BOT>
+[16:31:45] Dropped "Bot06" from server<BOT>
+[16:31:45] Dropped "Bot07" from server<BOT>
+[16:31:46] Dropped "Bot08" from server<BOT>
+[16:31:46] Dropped "Bot09" from server<BOT>
+[16:31:46] Dropped "Bot10" from server<BOT>
+[16:31:46] Dropped "Bot11" from server<BOT>
+
+
+
+[16:32:46] New map: rp_downtown_tits_v2
+[16:32:50] Client "Frazer" connected.
+[16:32:50] Client "Frazer" connected.
+[16:32:50] Client "Frazer" connected.
+[16:32:50] Client "Frazer" connected.
+[16:32:50] Client "Frazer" connected.
+[16:32:50] Client "Skii" connected.
+[16:32:50] Client "Skii" connected.
+[16:32:50] Client "Skii" connected.
+[16:32:50] Client "Skii" connected.
+[16:32:50] Client "Skii" connected.
+[16:32:50] Client "Skii" connected.
+[16:32:50] Client "Al Shebab" connected.
+[16:32:50] Client "Al Shebab" connected.
+[16:32:50] Client "Al Shebab" connected.
+[16:33:10] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 20 seconds).
+[16:33:11] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 21 seconds).
+[16:33:27] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 37 seconds).
+[16:34:00] DJ Bread: !menu
+[16:34:06] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:09] DJ Bread set the color for Al Shebab to black
+[16:34:12] DJ Bread: ew
+[16:34:16] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:19] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:19] DJ Bread: a black person
+[16:34:22] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:25] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:26] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:27] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:28] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:29] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:30] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:31] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:31] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:32] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:33] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:34] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:36] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:36] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:37] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:38] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:39] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:40] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:41] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:42] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:43] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:43] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:44] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:45] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:46] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:47] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:48] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:48] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:49] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:55] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:56] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:57] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:57] Client "widepeeked" connected.
+[16:34:58] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:58] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:34:59] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:00] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:01] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:05] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:06] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:07] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:08] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:08] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:09] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:10] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:11] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:12] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:12] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:13] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:14] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:15] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:16] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:20] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:21] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:22] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:22] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:24] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 27 seconds).
+[16:35:24] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:25] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:27] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:28] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:28] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:29] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:30] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:31] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:31] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:32] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:33] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:34] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:34] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:35:35] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturebathtub001a.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/cone2x2.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/balloons/balloon_star.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/blocks/cube025x05x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:08] DJ Bread<STEAM_0:0:579690494> spawned model models/hunter/misc/sphere025x025.mdl
+[16:36:16] Frazer<STEAM_0:0:120840551> spawned model models/hunter/plates/plate1x1.mdl
+[16:36:24] Frazer<STEAM_0:0:120840551> spawned model models/hunter/plates/plate1x1.mdl
+[16:36:37] Frazer<STEAM_0:0:120840551> spawned model models/hunter/plates/plate1x1.mdl
+[16:38:25] Frazer suicided!
+[16:38:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_dome360.mdl
+[16:38:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_dome360.mdl
+[16:38:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_curve360x2.mdl
+[16:38:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_angle360.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_curve360x2.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_curve360x2.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_curve360x2.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/airboat_seat.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_dome360.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_dome360.mdl
+[16:38:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_dome360.mdl
+[16:39:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:39:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:17] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:17] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:17] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:17] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:17] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:17] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:18] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:18] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:18] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:18] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:18] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:18] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:40:34] Frazer<STEAM_0:0:120840551> spawned model models/chairs/armchair.mdl
