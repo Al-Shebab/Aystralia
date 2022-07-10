@@ -39,8 +39,8 @@ OnePrint.Cfg.NotifyAllUsers = false         -- true: Notify all printer users on
 
 -- Health/Damage
 OnePrint.Cfg.MaxHealth = 100                -- Base HP of a printer (without defense upgrades)
-OnePrint.Cfg.RepairPrice = 2000             -- Max repair price (if the printer is almost fully destroyed)
-OnePrint.Cfg.DamageChance = 80              -- Percentage of chance to take damage if the temperature is too high [min = 0, max = 100]
+OnePrint.Cfg.RepairPrice = 35000             -- Max repair price (if the printer is almost fully destroyed)
+OnePrint.Cfg.DamageChance = 75              -- Percentage of chance to take damage if the temperature is too high [min = 0, max = 100]
 OnePrint.Cfg.DamageTemperature = 80         -- Temperature on which the printer will start take damage
 OnePrint.Cfg.DamageMultiplier = 4           -- The higher this value is, the more damage will be inflicted to the printer in case of overheating
 OnePrint.Cfg.TemperatureMultiplier = 2      -- The higher this value is, the faster temperature will increase/decrease
@@ -48,7 +48,7 @@ OnePrint.Cfg.CrititalCondition = 50         -- Under this percentage of health, 
 
 -- DarkRP Fire System (ignore if this script isn't installed)
 OnePrint.Cfg.FireOnExplosion = true         -- If this is set to true, the printer explosion will create a fire
-OnePrint.Cfg.FireChance = 50               -- Percentage of chance that an explosion creates a fire
+OnePrint.Cfg.FireChance = 100               -- Percentage of chance that an explosion creates a fire
 
 -- Logs
 OnePrint.Cfg.MaxActionsHistory = 10         -- Max entries saved in the actions history [min = 1, max = 10]
