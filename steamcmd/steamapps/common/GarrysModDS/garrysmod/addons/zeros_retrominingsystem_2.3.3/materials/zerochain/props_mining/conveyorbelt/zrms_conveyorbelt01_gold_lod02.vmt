@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/conveyorbelt/zrms_conveyorbelt01_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

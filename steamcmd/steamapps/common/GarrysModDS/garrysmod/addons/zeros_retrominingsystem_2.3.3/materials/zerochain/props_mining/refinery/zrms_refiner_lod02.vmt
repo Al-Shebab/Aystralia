@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/refinery/zrms_refiner_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+}

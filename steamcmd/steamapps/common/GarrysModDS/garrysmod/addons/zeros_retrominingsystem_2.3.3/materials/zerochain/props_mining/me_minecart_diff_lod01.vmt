@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/me_minecart_diff"
+	"$bumpMap"				"zerochain/props_mining/me_minecart_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+
+}

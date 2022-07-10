@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/me_rope"
+
+	"$bumpMap"				"zerochain/props_mining/me_rope_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+		
+		 "Proxies"
+        {
+                "TextureScroll"
+                {
+                        "texturescrollvar" "$baseTextureTransform"
+                        "texturescrollrate" 0.8
+                        "texturescrollangle" 90
+                }
+
+        }
+}

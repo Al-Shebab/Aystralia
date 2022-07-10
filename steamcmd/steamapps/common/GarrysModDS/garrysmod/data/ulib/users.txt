@@ -31,17 +31,6 @@
 	"name"	"Volcun"
 	"group"	"trial-moderator"
 }
-"STEAM_0:0:579690494"	
-{
-	"name"	"Skii"
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"group"	"superadmin"
-}
 "STEAM_0:0:437291733"	
 {
 	"deny"	
@@ -52,4 +41,15 @@
 	}
 	"name"	"Binchicken"
 	"group"	"staff-manager"
+}
+"STEAM_0:0:579690494"	
+{
+	"name"	"Skii"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
 }

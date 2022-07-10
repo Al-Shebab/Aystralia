@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	//$color2 "[0.8 0.4 0.1]"
+	//$blendTintByBaseAlpha 1
+	//$blendTintColorOverBase 0.01
+	
+	"$baseTexture"			"zerochain/props_mining/refinery/zrms_refiner_diff"
+	"$bumpMap"				"zerochain/props_mining/refinery/zrms_refiner_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_mining/melter/zrms_melter_coalpit_diff"
+	"$bumpMap"				"zerochain/props_mining/melter/zrms_melter_coalpit_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+
+}

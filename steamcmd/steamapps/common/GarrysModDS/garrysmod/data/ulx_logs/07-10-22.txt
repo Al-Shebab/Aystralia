@@ -504,3 +504,78 @@
 [14:09:34] DJ Bread killed Al Shebab using m9k_m202_rocket
 [14:09:44] widepeeked killed DJ Bread using m9k_m202_rocket
 [14:10:40] Al Shebab killed widepeeked using player
+
+
+
+[14:19:50] New map: rp_downtown_tits_v2
+[14:19:51] Client "widepeeked" connected.
+[14:19:51] Client "widepeeked" connected.
+[14:19:51] Client "widepeeked" connected.
+[14:19:51] Client "widepeeked" connected.
+[14:19:51] Client "widepeeked" connected.
+[14:19:51] Client "widepeeked" connected.
+[14:19:51] Client "Al Shebab" connected.
+[14:19:51] Client "Al Shebab" connected.
+[14:19:51] Client "Al Shebab" connected.
+[14:19:51] Client "Al Shebab" connected.
+[14:19:51] Client "Al Shebab" connected.
+[14:19:51] Client "Al Shebab" connected.
+[14:19:51] Client "Skii" connected.
+[14:19:51] Client "Skii" connected.
+[14:19:51] Client "Skii" connected.
+[14:19:51] Client "Skii" connected.
+[14:19:51] Client "Skii" connected.
+[14:19:51] Client "Skii" connected.
+[14:20:09] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 18 seconds).
+[14:20:15] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+[14:20:46] Al Shebab<STEAM_0:0:103364981> spawned sent oneprint
+[14:20:55] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 64 seconds).
+[14:23:33] Al Shebab killed widepeeked using player
+[14:23:36] Al Shebab killed DJ Bread using player
+
+
+
+[14:25:22] New map: rp_downtown_tits_v2
+[14:25:22] Client "Al Shebab" connected.
+[14:25:22] Client "widepeeked" connected.
+[14:25:22] Client "widepeeked" connected.
+[14:25:22] Client "widepeeked" connected.
+[14:25:22] Client "widepeeked" connected.
+[14:25:22] Client "Skii" connected.
+[14:25:22] Client "Skii" connected.
+[14:25:22] Client "Skii" connected.
+[14:25:22] Client "Skii" connected.
+[14:25:39] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 17 seconds).
+[14:25:40] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 18 seconds).
+[14:25:53] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 31 seconds).
+[14:28:06] Client "Frazer" connected.
+[14:28:11] Al Shebab: go frazer
+[14:28:26] widepeeked: Safe to say ive made my money back
+[14:28:39] DJ Bread: !reset
+[14:28:45] DJ Bread: !restart
+[14:28:48] DJ Bread: !menu
+
+
+
+[14:29:23] New map: rp_downtown_tits_v2
+[14:29:24] Client "Skii" connected.
+[14:29:24] Client "Skii" connected.
+[14:29:24] Client "Skii" connected.
+[14:29:24] Client "Skii" connected.
+[14:29:24] Client "Skii" connected.
+[14:29:53] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 29 seconds).
+[14:32:10] Client "Binchicken" connected.
+[14:32:44] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 34 seconds).
+[14:33:15] Client "widepeeked" connected.
+[14:33:32] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 17 seconds).
+[14:33:41] binchicken: !menu
+[14:33:46] binchicken: !menu
+[14:33:58] binchicken teleported to DJ Bread
+[14:34:09] widepeeked teleported to DJ Bread
+[14:34:13] binchicken: !menu
+[14:40:28] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[14:40:31] binchicken killed widepeeked using prop_physics
+[14:40:38] widepeeked teleported to DJ Bread
+[14:40:49] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[14:41:00] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[14:41:05] binchicken suicided!

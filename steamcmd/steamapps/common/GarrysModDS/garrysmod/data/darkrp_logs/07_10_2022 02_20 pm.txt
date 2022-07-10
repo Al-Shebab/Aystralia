@@ -1,0 +1,11 @@
+Sun Jul 10 14:20:09 2022	widepeeked (STEAM_0:0:492844137) has joined the game
+Sun Jul 10 14:20:09 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:20:15 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Jul 10 14:20:15 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:20:46 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT oneprint
+Sun Jul 10 14:20:55 2022	Skii (STEAM_0:0:579690494) has joined the game
+Sun Jul 10 14:20:55 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:23:33 2022	widepeeked was killed by Al Shebab with a m9k_aw50
+Sun Jul 10 14:23:36 2022	DJ Bread was killed by Al Shebab with a m9k_aw50
+Sun Jul 10 14:23:36 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:23:39 2022	DJ Bread (STEAM_0:0:579690494) spawned
