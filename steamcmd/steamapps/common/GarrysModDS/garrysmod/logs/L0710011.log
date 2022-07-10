@@ -1,0 +1,322 @@
+L 07/10/2022 - 15:33:54: Log file started (file "logs\L0710011.log") (game "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\garrysmod") (version "8607")
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_noclip" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxprops" "80"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxragdolls" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxnpcs" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxballoons" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxeffects" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxdynamite" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxlamps" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxthrusters" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxwheels" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxhoverballs" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxvehicles" "1"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxbuttons" "6"
+L 07/10/2022 - 15:33:54: server_cvar: "sbox_maxemitters" "0"
+L 07/10/2022 - 15:33:54: server_cvar: "sv_airaccelerate" "1000"
+L 07/10/2022 - 15:33:58: Connection to Steam servers successful.
+L 07/10/2022 - 15:33:58:    Public IP is 60.241.142.139.
+L 07/10/2022 - 15:33:58: Assigned persistent gameserver Steam ID [G-1:3987399].
+L 07/10/2022 - 15:33:58: VAC secure mode is activated.
+L 07/10/2022 - 15:33:58: "Al Shebab<2><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 15:33:58: "Al Shebab<2><STEAM_0:0:103364981><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Al Shebab<3><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 15:33:58: "Al Shebab<3><STEAM_0:0:103364981><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Al Shebab<4><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 15:33:58: "Al Shebab<4><STEAM_0:0:103364981><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Al Shebab<5><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 15:33:58: "Al Shebab<5><STEAM_0:0:103364981><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Al Shebab<6><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 15:33:58: "Binchicken<7><STEAM_0:0:437291733><>" connected, address "149.167.60.156:21373"
+L 07/10/2022 - 15:33:58: "Binchicken<7><STEAM_0:0:437291733><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Binchicken<8><STEAM_0:0:437291733><>" connected, address "149.167.60.156:21373"
+L 07/10/2022 - 15:33:58: "Binchicken<8><STEAM_0:0:437291733><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Binchicken<9><STEAM_0:0:437291733><>" connected, address "149.167.60.156:21373"
+L 07/10/2022 - 15:33:58: "Binchicken<9><STEAM_0:0:437291733><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 15:33:58: "Binchicken<10><STEAM_0:0:437291733><>" connected, address "149.167.60.156:21373"
+L 07/10/2022 - 15:33:58: "Frazer<11><STEAM_0:0:120840551><>" connected, address "101.190.51.71:27005"
+L 07/10/2022 - 15:33:58: "Al Shebab<6><STEAM_0:0:103364981><>" STEAM USERID validated
+L 07/10/2022 - 15:33:58: "Binchicken<10><STEAM_0:0:437291733><>" STEAM USERID validated
+L 07/10/2022 - 15:33:58: "Frazer<11><STEAM_0:0:120840551><>" STEAM USERID validated
+L 07/10/2022 - 15:34:15: [FAdmin] Binchicken (STEAM_0:0:437291733) is Authed
+L 07/10/2022 - 15:34:15: [FAdmin] Binchicken (STEAM_0:0:437291733) Spawned for the first time
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Spawned
+L 07/10/2022 - 15:34:15: "Binchicken<10><STEAM_0:0:437291733><>" entered the game
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a keys
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_fists
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_camera
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a gmod_tool
+L 07/10/2022 - 15:34:15: [FAdmin] binchicken (STEAM_0:0:437291733) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) is Authed
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned for the first time
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 15:34:19: "Al Shebab<6><STEAM_0:0:103364981><>" entered the game
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_fists
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 15:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) is Authed
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned for the first time
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned
+L 07/10/2022 - 15:34:20: "Frazer<11><STEAM_0:0:120840551><>" entered the game
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a keys
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_fists
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_camera
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a gmod_tool
+L 07/10/2022 - 15:34:20: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 15:34:21: "Skii<12><STEAM_0:0:579690494><>" connected, address "172.195.123.72:27005"
+L 07/10/2022 - 15:34:22: "Skii<12><STEAM_0:0:579690494><>" STEAM USERID validated
+L 07/10/2022 - 15:34:39: Lua Error: 
+[tebexgmod] addons/tebexgmod/lua/tebex/client/apiclient.lua:36: attempt to call upvalue 'failure' (a nil value)
+  1. unknown - addons/tebexgmod/lua/tebex/client/apiclient.lua:36
+
+
+L 07/10/2022 - 15:35:03: [FAdmin] Skii (STEAM_0:0:579690494) is Authed
+L 07/10/2022 - 15:35:03: [FAdmin] Skii (STEAM_0:0:579690494) Spawned for the first time
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 15:35:03: "Skii<12><STEAM_0:0:579690494><>" entered the game
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_fists
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 15:35:03: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 15:35:28: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/metalladder001.mdl
+L 07/10/2022 - 15:35:28: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/metalladder001.mdl
+L 07/10/2022 - 15:35:32: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 15:35:33: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 15:35:38: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_c17/gate_door01a.mdl
+L 07/10/2022 - 15:35:38: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/gate_door01a.mdl
+L 07/10/2022 - 15:35:47: [FAdmin] prop_physics(models/props_c17/gate_door01a.mdl) Got removed
+L 07/10/2022 - 15:35:47: [FAdmin] prop_physics(models/props_c17/metalladder001.mdl) Got removed
+L 07/10/2022 - 15:38:15: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:15: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:15: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:16: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_c17/metalladder001.mdl
+L 07/10/2022 - 15:38:16: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
+L 07/10/2022 - 15:38:16: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:16: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:16: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:17: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to use tool colour
+L 07/10/2022 - 15:38:18: [FAdmin] prop_physics(models/props_c17/metalladder001.mdl) Got removed
+L 07/10/2022 - 15:38:20: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_c17/metalladder002b.mdl
+L 07/10/2022 - 15:38:20: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder002b.mdl
+L 07/10/2022 - 15:38:20: [FAdmin] prop_physics(models/props_c17/metalladder002b.mdl) Got removed
+L 07/10/2022 - 15:38:21: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_c17/metalladder002.mdl
+L 07/10/2022 - 15:38:21: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder002.mdl
+L 07/10/2022 - 15:38:22: [FAdmin] prop_physics(models/props_c17/metalladder002.mdl) Got removed
+L 07/10/2022 - 15:38:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_c17/metalladder003.mdl
+L 07/10/2022 - 15:38:26: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder003.mdl
+L 07/10/2022 - 15:38:28: [FAdmin] prop_physics(models/props_c17/metalladder003.mdl) Got removed
+L 07/10/2022 - 15:38:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_c17/metalladder003.mdl
+L 07/10/2022 - 15:38:29: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder003.mdl
+L 07/10/2022 - 15:38:30: [FAdmin] prop_physics(models/props_c17/metalladder003.mdl) Got removed
+L 07/10/2022 - 15:38:31: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_c17/metalladder003.mdl
+L 07/10/2022 - 15:38:31: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder003.mdl
+L 07/10/2022 - 15:38:39: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 15:38:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 15:39:23: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a prop_vehicle_jeep
+L 07/10/2022 - 15:39:23: [ULX] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+L 07/10/2022 - 15:39:26: [FAdmin] prop_physics(models/props_c17/metalladder003.mdl) Got removed
+L 07/10/2022 - 15:39:27: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 15:39:27: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 15:39:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a prop_vehicle_jeep
+L 07/10/2022 - 15:39:29: [ULX] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+L 07/10/2022 - 15:39:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Entered prop_vehicle_jeep
+L 07/10/2022 - 15:39:35: [FAdmin] DJ Bread (STEAM_0:0:579690494) exited a prop_vehicle_jeep
+L 07/10/2022 - 15:39:37: [FAdmin] DJ Bread (STEAM_0:0:579690494) Entered prop_vehicle_jeep
+L 07/10/2022 - 15:39:42: [FAdmin] binchicken (STEAM_0:0:437291733) Got killed by prop_vehicle_jeep with a prop_vehicle_jeep
+L 07/10/2022 - 15:39:55: [FAdmin] DJ Bread (STEAM_0:0:579690494) exited a prop_vehicle_jeep
+L 07/10/2022 - 15:40:01: "Al Shebab<6><STEAM_0:0:103364981><>" disconnected (reason "Disconnect by user.")
+L 07/10/2022 - 15:40:01: [FAdmin] Al Shebab (STEAM_0:0:103364981) Disconnected
+L 07/10/2022 - 15:40:07: STEAMAUTH: Client Skii received failure code 1
+L 07/10/2022 - 15:40:07: "Skii<12><STEAM_0:0:579690494><>" disconnected (reason "Client not connected to Steam
+")
+L 07/10/2022 - 15:40:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Disconnected
+L 07/10/2022 - 15:41:23: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:41:23: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:41: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:44: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:44: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:44: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:45: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:45: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:45: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:46: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:46: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:46: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:47: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:47: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:47: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:48: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:48: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:48: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:48: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:48: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:48: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:49: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:49: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:49: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:50: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:50: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:50: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:52: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:52: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:52: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:52: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:52: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:52: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:53: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:53: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:53: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:54: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:54: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:54: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:55: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:55: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:55: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:56: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:56: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:56: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:57: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:57: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:57: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:58: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:58: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:58: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:59: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:59: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:59: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:59: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:42:59: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:42:59: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:00: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:00: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:01: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:01: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:02: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:02: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:03: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:04: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:04: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:05: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:05: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:06: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Attempted to use tool advdupe2
+L 07/10/2022 - 15:43:07: [FAdmin] Frazer (STEAM_0:0:120840551) Spawned a models/props_phx/misc/potato_launcher_cap.mdl
+L 07/10/2022 - 15:43:07: [ULX] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_la

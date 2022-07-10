@@ -224,3 +224,38 @@
 [2022-07-10 13:18:13] AppID 4000 update changed : None
 [2022-07-10 13:18:14] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (8.246.0.252:443 / 8.246.0.252:443, host: level3.cdn.steampipe.steamcontent.com): Closing connection
 [2022-07-10 13:18:14] HTTP (SteamCache,86) - cache3-syd1.steamcontent.com (103.10.125.3:443 / 103.10.125.3:443, host: cache3-syd1.steamcontent.com): Closing connection
+
+
+[2022-07-10 15:32:20] AppID 4000 update changed : Running,
+[2022-07-10 15:32:20] AppID 4000 update changed : Running,Reconfiguring,
+[2022-07-10 15:32:21] Got 1 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 52 / Launcher 9)
+[2022-07-10 15:32:21] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2022-07-10 15:32:21] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (4000) - Success!
+[2022-07-10 15:32:21] Created ipv4-only http client
+[2022-07-10 15:32:22] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.176:443 / 202.7.177.176:443, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/4000/manifest/1550688521127926079/5/13253068607062617130 - received 200 (OK) HTTP response
+[2022-07-10 15:32:22] AppID 4000 update changed : Running,
+[2022-07-10 15:32:22] AppID 4000 update changed : Running,Preallocating,
+[2022-07-10 15:32:22] AppID 4000 update changed : Running,
+[2022-07-10 15:32:22] AppID 4000 update started : download 0/2571888, store 0/0, reuse 0/0, delta 0/0, stage 0/6205124 
+[2022-07-10 15:32:22] AppID 4000 update changed : Running,Downloading,Staging,
+[2022-07-10 15:32:22] Downloading 6 chunks from depot 4000
+[2022-07-10 15:32:23] AppID 4000 update changed : Running,
+[2022-07-10 15:32:23] AppID 4000 update changed : Running,Committing,
+[2022-07-10 15:32:23] AppID 4000 starting commit from "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache/downloads/4000" to "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache/content/4000" : 2 updated, 0 moved, 0 deleted files
+[2022-07-10 15:32:23] AppID 4000 update changed : Running,
+[2022-07-10 15:32:23] AppID 4000 update changed : None
+[2022-07-10 15:32:24] AppID 4000 update changed : Running,
+[2022-07-10 15:32:24] AppID 4000 update changed : Running,Reconfiguring,
+[2022-07-10 15:32:25] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.176:443 / 202.7.177.176:443, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/4000/manifest/2031096933318424670/5/13677513032747561430 - received 200 (OK) HTTP response
+[2022-07-10 15:32:25] AppID 4000 update changed : Running,
+[2022-07-10 15:32:25] AppID 4000 update changed : Running,Preallocating,
+[2022-07-10 15:32:25] AppID 4000 update changed : Running,
+[2022-07-10 15:32:25] AppID 4000 update started : download 0/114729328, store 0/0, reuse 0/0, delta 0/0, stage 0/911961077 
+[2022-07-10 15:32:25] AppID 4000 update changed : Running,Downloading,Staging,
+[2022-07-10 15:32:25] Downloading 786 chunks from depot 4000
+[2022-07-10 15:33:15] AppID 4000 update changed : Running,
+[2022-07-10 15:33:15] AppID 4000 update changed : Running,Committing,
+[2022-07-10 15:33:15] AppID 4000 starting commit from "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache/downloads/4000" to "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache/content/4000" : 2 updated, 0 moved, 0 deleted files
+[2022-07-10 15:33:15] AppID 4000 update changed : Running,
+[2022-07-10 15:33:15] AppID 4000 update changed : None
+[2022-07-10 15:33:18] HTTP (CDN,11) - steampipe.akamaized.net (202.7.177.187:443 / 202.7.177.187:443, host: steampipe.akamaized.net): Closing connection

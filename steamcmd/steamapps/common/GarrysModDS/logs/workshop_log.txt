@@ -256,3 +256,19 @@
 
 [2022-07-10 14:28:52] [AppID 4000] Loaded workshop items in "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache" (15 installed, 15 needed)
 [2022-07-10 14:28:53] [AppID 4000] Updating workshop item details failed with Access Denied
+
+
+[2022-07-10 15:32:20] [AppID 4000] Loaded workshop items in "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache" (15 installed, 15 needed)
+[2022-07-10 15:32:20] [AppID 4000] Download item 2532060111 requested by app
+[2022-07-10 15:32:20] [AppID 4000] Starting Workshop download job (requested item 2532060111 )
+[2022-07-10 15:32:21] [AppID 4000] Detected workshop change : changed cached item 2532060111, new manifest 1550688521127926079
+[2022-07-10 15:32:21] [AppID 4000] Workshop update job started while app is running, commit : yes
+[2022-07-10 15:32:23] [AppID 4000] Download item 2532060111 result : OK
+[2022-07-10 15:32:23] [AppID 4000] Finished Workshop download job : No Error
+[2022-07-10 15:32:24] [AppID 4000] Updating workshop item details failed with Access Denied
+[2022-07-10 15:32:24] [AppID 4000] Download item 2794342708 requested by app
+[2022-07-10 15:32:24] [AppID 4000] Starting Workshop download job (requested item 2794342708 )
+[2022-07-10 15:32:25] [AppID 4000] Detected workshop change : changed cached item 2794342708, new manifest 2031096933318424670
+[2022-07-10 15:32:25] [AppID 4000] Workshop update job started while app is running, commit : yes
+[2022-07-10 15:33:15] [AppID 4000] Download item 2794342708 result : OK
+[2022-07-10 15:33:15] [AppID 4000] Finished Workshop download job : No Error

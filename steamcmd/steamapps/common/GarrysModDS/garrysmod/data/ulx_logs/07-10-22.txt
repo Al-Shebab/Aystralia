@@ -579,3 +579,119 @@
 [14:40:49] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
 [14:41:00] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
 [14:41:05] binchicken suicided!
+
+
+
+[15:33:54] New map: rp_downtown_tits_v2
+[15:33:58] Client "Al Shebab" connected.
+[15:33:58] Client "Al Shebab" connected.
+[15:33:58] Client "Al Shebab" connected.
+[15:33:58] Client "Al Shebab" connected.
+[15:33:58] Client "Al Shebab" connected.
+[15:33:58] Client "Binchicken" connected.
+[15:33:58] Client "Binchicken" connected.
+[15:33:58] Client "Binchicken" connected.
+[15:33:58] Client "Binchicken" connected.
+[15:33:58] Client "Frazer" connected.
+[15:34:15] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 17 seconds).
+[15:34:19] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 21 seconds).
+[15:34:20] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 22 seconds).
+[15:34:21] Client "Skii" connected.
+[15:35:03] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 42 seconds).
+[15:35:28] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/metalladder001.mdl
+[15:35:38] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/gate_door01a.mdl
+[15:38:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
+[15:38:20] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder002b.mdl
+[15:38:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder002.mdl
+[15:38:26] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder003.mdl
+[15:38:29] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder003.mdl
+[15:38:31] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder003.mdl
+[15:39:23] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[15:39:29] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[15:39:42] binchicken was killed by prop_vehicle_jeep
+[15:40:01] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[15:40:07] Dropped "DJ Bread" from server<STEAM_0:0:579690494>
+[15:41:23] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:44] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:45] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:46] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:47] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:48] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:49] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:50] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:52] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:53] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:54] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:55] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:56] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:57] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:58] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:59] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:42:59] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:00] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:01] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:02] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:03] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:03] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:03] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:03] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:03] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:04] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:05] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:06] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:06] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:06] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:06] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:06] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:07] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:07] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:07] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:07] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:07] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:08] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:09] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:10] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:11] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:11] Frazer<STEAM_0:0:120840551> spawned model models/props_phx/misc/potato_launcher_cap.mdl
+[15:43:48] Dropped "Frazer" from server<STEAM_0:0:120840551>
+[15:43:49] Client "Frazer" connected.
+[15:43:54] Client "Al Shebab" connected.
+[15:44:04] Client "widepeeked" connected.
