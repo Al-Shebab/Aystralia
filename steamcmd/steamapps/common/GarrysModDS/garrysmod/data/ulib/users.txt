@@ -1,44 +1,55 @@
-"STEAM_0:0:497589869"	
-{
-	"name"	"Volcun"
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"group"	"trial-moderator"
-}
 "STEAM_0:0:103364981"	
 {
-	"allow"	
-	{
-	}
 	"name"	"Al Shebab"
 	"deny"	
 	{
 	}
-	"group"	"superadmin"
-}
-"STEAM_0:0:579690494"	
-{
 	"allow"	
 	{
 	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:492844137"	
+{
+	"name"	"widepeeked"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"moderator"
+}
+"STEAM_0:0:497589869"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Volcun"
+	"group"	"trial-moderator"
+}
+"STEAM_0:0:579690494"	
+{
 	"name"	"Skii"
 	"deny"	
+	{
+	}
+	"allow"	
 	{
 	}
 	"group"	"superadmin"
 }
 "STEAM_0:0:437291733"	
 {
-	"name"	"Binchicken"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Binchicken"
 	"group"	"staff-manager"
 }

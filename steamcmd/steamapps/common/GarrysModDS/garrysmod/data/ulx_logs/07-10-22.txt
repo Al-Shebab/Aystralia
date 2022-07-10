@@ -291,3 +291,216 @@
 [13:09:03] Al Shebab granted access "ulx unflockdown" to group superadmin
 [13:09:14] Al Shebab removed group noaccess
 [13:09:20] Al Shebab removed group admin
+[13:11:38] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:11:40] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:11:42] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:11:44] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:11:51] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01b.mdl
+[13:11:52] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:12:06] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:12:15] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/fence01a.mdl
+[13:12:36] DJ Bread<STEAM_0:0:579690494> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:12:52] DJ Bread<STEAM_0:0:579690494> spawned model models/props_borealis/bluebarrel001.mdl
+[13:12:54] DJ Bread<STEAM_0:0:579690494> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:13:25] DJ Bread killed Al Shebab using player
+[13:13:48] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/airboat_seat.mdl
+[13:14:09] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/chair_office02.mdl
+[13:14:47] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/chair_office02.mdl
+[13:16:08] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/chair_wood01.mdl
+[13:16:14] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/chair_wood01.mdl
+[13:16:25] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/chair_wood01.mdl
+[13:16:41] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/chair_wood01.mdl
+
+
+
+[13:18:44] New map: rp_downtown_tits_v2
+[13:19:09] Client "Al Shebab" connected.
+[13:19:30] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 21 seconds).
+[13:19:49] Client "Skii" connected.
+[13:20:07] Al Shebab<STEAM_0:0:103364981> spawned sent oneprint
+[13:20:29] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 40 seconds).
+[13:21:16] Al Shebab killed DJ Bread using player
+[13:21:34] Al Shebab killed DJ Bread using npc_satchel
+[13:22:01] DJ Bread killed Al Shebab using player
+[13:22:06] Al Shebab killed DJ Bread using rpg_missile
+[13:22:55] DJ Bread killed Al Shebab using player
+[13:23:10] Al Shebab killed DJ Bread using player
+[13:23:22] Al Shebab killed DJ Bread using player
+[13:24:25] DJ Bread killed Al Shebab using player
+[13:24:33] Al Shebab killed DJ Bread using player
+[13:25:13] Al Shebab killed DJ Bread using player
+[13:25:24] Al Shebab killed DJ Bread using player
+[13:25:39] Al Shebab killed DJ Bread using player
+[13:25:49] Al Shebab killed DJ Bread using player
+[13:26:20] DJ Bread killed Al Shebab using player
+[13:26:33] Al Shebab killed DJ Bread using player
+[13:26:48] Al Shebab killed DJ Bread using player
+[13:27:01] Al Shebab killed DJ Bread using player
+[13:27:11] DJ Bread killed Al Shebab using player
+[13:27:16] Al Shebab killed DJ Bread using player
+[13:27:23] DJ Bread killed Al Shebab using player
+[13:27:38] DJ Bread killed Al Shebab using player
+[13:27:50] DJ Bread killed Al Shebab using player
+[13:28:07] Al Shebab killed DJ Bread using player
+[13:28:44] DJ Bread killed Al Shebab using player
+[13:28:52] Al Shebab killed DJ Bread using player
+[13:29:08] Al Shebab killed DJ Bread using player
+[13:29:50] Al Shebab killed DJ Bread using player
+[13:30:07] Al Shebab killed DJ Bread using player
+[13:30:26] DJ Bread killed Al Shebab using player
+[13:30:30] DJ Bread suicided!
+[13:31:10] Al Shebab killed DJ Bread using player
+[13:31:28] Al Shebab killed DJ Bread using player
+[13:31:41] Al Shebab killed DJ Bread using player
+[13:31:54] DJ Bread killed Al Shebab using crossbow_bolt
+[13:32:03] DJ Bread killed Al Shebab using crossbow_bolt
+[13:33:36] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[13:34:56] DJ Bread: !menu
+[13:35:37] Client "widepeeked" connected.
+[13:36:44] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 67 seconds).
+[13:37:06] widepeeked suicided!
+[13:41:41] DJ Bread teleported to widepeeked
+[13:41:45] widepeeked killed DJ Bread using player
+[13:43:03] DJ Bread teleported to widepeeked
+[13:43:35] DJ Bread: /dropmoney 500000
+[13:47:38] widepeeked suicided!
+[13:47:44] widepeeked suicided!
+[13:47:45] Client "Al Shebab" connected.
+[13:48:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 16 seconds).
+[13:52:09] widepeeked killed Al Shebab using weapon_fists
+[13:52:25] widepeeked<STEAM_0:0:492844137> spawned model models/props_phx/construct/metal_plate1.mdl
+[13:52:47] (SILENT) DJ Bread began spectating widepeeked
+[13:53:17] (SILENT) DJ Bread stopped spectating widepeeked
+[13:53:25] DJ Bread suicided!
+[13:53:34] DJ Bread killed widepeeked using player
+[13:53:45] DJ Bread killed widepeeked using player
+[13:54:00] Al Shebab killed widepeeked using player
+[13:54:01] Al Shebab killed DJ Bread using player
+[13:54:21] Al Shebab killed widepeeked using player
+[13:54:28] DJ Bread killed Al Shebab using player
+[13:54:30] DJ Bread killed widepeeked using player
+[13:54:37] DJ Bread killed Al Shebab using player
+[13:54:45] Al Shebab killed widepeeked using player
+[13:54:53] Al Shebab killed widepeeked using player
+[13:55:03] DJ Bread killed widepeeked using player
+[13:55:09] DJ Bread killed Al Shebab using player
+[13:55:19] Al Shebab added widepeeked to group moderator
+[13:55:32] widepeeked killed DJ Bread using player
+[13:55:45] DJ Bread killed widepeeked using player
+[13:55:47] Al Shebab killed DJ Bread using player
+[13:56:11] DJ Bread killed widepeeked using player
+[13:56:14] Al Shebab killed DJ Bread using player
+[13:56:36] widepeeked killed DJ Bread using player
+[13:56:45] Al Shebab killed DJ Bread using player
+[13:56:49] Al Shebab killed widepeeked using player
+[13:56:54] Al Shebab killed DJ Bread using player
+[13:57:03] DJ Bread killed Al Shebab using player
+[13:57:07] DJ Bread killed widepeeked using player
+[13:57:11] DJ Bread killed Al Shebab using player
+[13:57:14] DJ Bread killed widepeeked using player
+[13:57:19] Al Shebab killed DJ Bread using player
+[13:57:21] widepeeked killed Al Shebab using player
+[13:57:28] Al Shebab killed widepeeked using player
+[13:57:31] DJ Bread killed Al Shebab using player
+[13:57:49] DJ Bread killed Al Shebab using player
+[13:57:50] DJ Bread killed widepeeked using player
+[13:57:57] DJ Bread killed Al Shebab using player
+[13:58:01] widepeeked killed DJ Bread using player
+[13:58:03] Al Shebab killed widepeeked using player
+[13:58:45] DJ Bread suicided!
+[13:58:48] DJ Bread killed widepeeked using m9k_released_poison
+[13:58:55] DJ Bread killed widepeeked using m9k_launched_ex41
+[13:59:00] DJ Bread killed Al Shebab using m9k_launched_ex41
+[13:59:08] DJ Bread killed Al Shebab using player
+[13:59:16] DJ Bread killed Al Shebab using player
+[13:59:22] DJ Bread killed widepeeked using player
+[13:59:26] DJ Bread killed Al Shebab using player
+[13:59:33] DJ Bread killed Al Shebab using player
+[13:59:36] widepeeked killed DJ Bread using player
+[13:59:43] DJ Bread killed Al Shebab using player
+[13:59:54] DJ Bread killed widepeeked using player
+[13:59:57] DJ Bread killed Al Shebab using player
+[14:00:03] widepeeked killed DJ Bread using player
+[14:00:09] DJ Bread killed Al Shebab using player
+[14:00:16] Al Shebab killed widepeeked using player
+[14:00:27] widepeeked killed DJ Bread using player
+[14:00:36] DJ Bread killed widepeeked using player
+[14:00:40] Al Shebab killed DJ Bread using player
+[14:00:42] Al Shebab killed widepeeked using player
+[14:00:51] DJ Bread killed Al Shebab using player
+[14:00:56] Al Shebab killed widepeeked using player
+[14:01:10] Al Shebab killed widepeeked using player
+[14:01:14] Al Shebab killed DJ Bread using player
+[14:01:19] widepeeked killed Al Shebab using player
+[14:01:26] Al Shebab killed widepeeked using player
+[14:01:33] widepeeked killed Al Shebab using player
+[14:01:40] DJ Bread killed Al Shebab using player
+[14:01:47] Al Shebab killed widepeeked using player
+[14:01:59] DJ Bread killed widepeeked using m9k_thrown_sticky_grenade
+[14:02:00] Al Shebab killed DJ Bread using player
+[14:02:13] DJ Bread killed widepeeked using player
+[14:02:15] Al Shebab killed DJ Bread using player
+[14:02:19] DJ Bread killed Al Shebab using player
+[14:02:22] DJ Bread killed widepeeked using player
+[14:02:25] Al Shebab killed DJ Bread using player
+[14:02:35] DJ Bread killed widepeeked using player
+[14:02:47] widepeeked killed DJ Bread using player
+[14:02:53] widepeeked killed Al Shebab using player
+[14:03:01] DJ Bread killed widepeeked using player
+[14:03:16] Al Shebab killed widepeeked using player
+[14:03:17] DJ Bread killed Al Shebab using player
+[14:03:22] Al Shebab killed DJ Bread using player
+[14:03:25] Al Shebab killed widepeeked using player
+[14:03:33] widepeeked killed DJ Bread using player
+[14:03:37] Al Shebab killed widepeeked using player
+[14:03:53] widepeeked killed DJ Bread using player
+[14:03:59] DJ Bread killed widepeeked using player
+[14:04:03] DJ Bread killed Al Shebab using player
+[14:04:08] Al Shebab killed widepeeked using player
+[14:04:18] Al Shebab killed DJ Bread using weapon_fists
+[14:04:29] DJ Bread killed widepeeked using m9k_thrown_harpoon
+[14:04:37] widepeeked killed Al Shebab using m9k_thrown_harpoon
+[14:04:49] Al Shebab killed widepeeked using player
+[14:04:55] widepeeked killed DJ Bread using player
+[14:05:04] DJ Bread killed widepeeked using player
+[14:05:14] DJ Bread killed widepeeked using player
+[14:05:24] Al Shebab killed widepeeked using player
+[14:05:32] DJ Bread killed widepeeked using player
+[14:05:49] widepeeked killed DJ Bread using player
+[14:05:56] widepeeked killed Al Shebab using player
+[14:05:56] Al Shebab killed widepeeked using m9k_launched_m79
+[14:06:05] DJ Bread killed widepeeked using player
+[14:06:12] DJ Bread killed Al Shebab using player
+[14:06:18] DJ Bread killed widepeeked using player
+[14:06:26] DJ Bread killed Al Shebab using player
+[14:06:31] widepeeked killed DJ Bread using player
+[14:06:38] Al Shebab killed widepeeked using player
+[14:06:45] DJ Bread killed widepeeked using player
+[14:06:52] DJ Bread killed Al Shebab using player
+[14:06:54] DJ Bread killed widepeeked using player
+[14:07:03] Al Shebab killed DJ Bread using m9k_davy_crockett_explo
+[14:07:03] Al Shebab killed widepeeked using m9k_davy_crockett_explo
+[14:07:03] Al Shebab suicided!
+[14:07:10] DJ Bread killed Al Shebab using player
+[14:07:10] widepeeked killed DJ Bread using player
+[14:07:11] widepeeked was killed by spawned_weapon
+[14:07:17] DJ Bread killed widepeeked using player
+[14:07:35] Al Shebab killed DJ Bread using player
+[14:07:40] Al Shebab killed widepeeked using player
+[14:08:04] widepeeked killed DJ Bread using player
+[14:08:15] DJ Bread killed widepeeked using player
+[14:08:28] widepeeked killed DJ Bread using player
+[14:08:35] widepeeked<STEAM_0:0:492844137> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[14:08:40] widepeeked<STEAM_0:0:492844137> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[14:08:48] Al Shebab killed widepeeked using m9k_milkor_nade
+[14:08:56] Al Shebab killed widepeeked using player
+[14:09:00] Al Shebab killed DJ Bread using player
+[14:09:04] Al Shebab killed widepeeked using player
+[14:09:12] DJ Bread killed Al Shebab using m9k_milkor_nade
+[14:09:17] DJ Bread killed widepeeked using m9k_gdcwa_matador_90mm
+[14:09:17] DJ Bread suicided!
+[14:09:24] Al Shebab killed DJ Bread using player
+[14:09:34] DJ Bread suicided!
+[14:09:34] DJ Bread killed Al Shebab using m9k_m202_rocket
+[14:09:44] widepeeked killed DJ Bread using m9k_m202_rocket
+[14:10:40] Al Shebab killed widepeeked using player

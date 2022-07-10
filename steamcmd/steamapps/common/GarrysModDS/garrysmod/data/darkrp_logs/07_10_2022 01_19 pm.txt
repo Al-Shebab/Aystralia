@@ -1,0 +1,358 @@
+Sun Jul 10 13:19:30 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Jul 10 13:19:30 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:20:07 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT oneprint
+Sun Jul 10 13:20:29 2022	Skii (STEAM_0:0:579690494) has joined the game
+Sun Jul 10 13:20:29 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:21:16 2022	DJ Bread was killed by Al Shebab with a weapon_357
+Sun Jul 10 13:21:20 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:21:34 2022	DJ Bread was killed by Al Shebab with a npc_satchel
+Sun Jul 10 13:21:37 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:22:01 2022	Al Shebab was killed by DJ Bread with a m9k_winchester73
+Sun Jul 10 13:22:04 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:22:06 2022	DJ Bread was killed by Al Shebab with a rpg_missile
+Sun Jul 10 13:22:09 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:22:55 2022	Al Shebab was killed by DJ Bread with a m9k_an94
+Sun Jul 10 13:22:58 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:23:10 2022	DJ Bread was killed by Al Shebab with a m9k_an94
+Sun Jul 10 13:23:14 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:23:22 2022	DJ Bread was killed by Al Shebab with a m9k_an94
+Sun Jul 10 13:23:25 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:24:25 2022	Al Shebab was killed by DJ Bread with a m9k_minigun
+Sun Jul 10 13:24:28 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:24:33 2022	DJ Bread was killed by Al Shebab with a m9k_ak74
+Sun Jul 10 13:24:37 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:25:13 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:25:17 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:25:24 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:25:27 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:25:39 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:25:43 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:25:49 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:25:52 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:26:20 2022	Al Shebab was killed by DJ Bread with a m9k_contender
+Sun Jul 10 13:26:23 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:26:33 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:26:38 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:26:48 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:26:52 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:27:01 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:27:05 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:27:11 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:27:14 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:27:16 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:27:20 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:27:23 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:27:26 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:27:38 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:27:42 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:27:50 2022	Al Shebab was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 13:27:53 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:28:07 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:28:12 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:28:44 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:28:47 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:28:52 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:28:55 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:29:08 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:29:11 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:29:50 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:29:54 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:30:07 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:30:10 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:30:26 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:30:29 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:30:30 2022	DJ Bread was killed by Himself with a suicide trick
+Sun Jul 10 13:30:34 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:31:10 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:31:13 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:31:28 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:31:31 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:31:41 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 13:31:50 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:31:54 2022	Al Shebab was killed by DJ Bread with a crossbow_bolt
+Sun Jul 10 13:31:57 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:32:03 2022	Al Shebab was killed by DJ Bread with a crossbow_bolt
+Sun Jul 10 13:33:36 2022	Al Shebab (STEAM_0:0:103364981) disconnected
+Sun Jul 10 13:34:56 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sun Jul 10 13:36:44 2022	widepeeked (STEAM_0:0:492844137) has joined the game
+Sun Jul 10 13:36:45 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:37:06 2022	widepeeked was killed by Himself with a suicide trick
+Sun Jul 10 13:37:09 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:41:45 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 13:41:48 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:43:35 2022	DJ Bread (STEAM_0:0:579690494): /dropmoney 500000
+Sun Jul 10 13:43:36 2022	DJ Bread (STEAM_0:0:579690494) has dropped $500,000
+Sun Jul 10 13:47:38 2022	widepeeked was killed by Himself with a suicide trick
+Sun Jul 10 13:47:38 2022	widepeeked (STEAM_0:0:492844137): 
+Sun Jul 10 13:47:41 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:47:44 2022	widepeeked was killed by Himself with a suicide trick
+Sun Jul 10 13:47:46 2022	widepeeked (STEAM_0:0:492844137): 
+Sun Jul 10 13:47:47 2022	widepeeked (STEAM_0:0:492844137): 
+Sun Jul 10 13:47:47 2022	widepeeked (STEAM_0:0:492844137): 
+Sun Jul 10 13:47:48 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:48:01 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Jul 10 13:48:01 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:52:09 2022	Al Shebab was killed by widepeeked with a weapon_fists
+Sun Jul 10 13:53:17 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:53:25 2022	DJ Bread was killed by Himself with a suicide trick
+Sun Jul 10 13:53:28 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:53:34 2022	widepeeked was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:53:37 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:53:45 2022	widepeeked was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:53:48 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:53:52 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:54:00 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:54:01 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:54:03 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:54:04 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:54:21 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:54:24 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:54:28 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:54:30 2022	widepeeked was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:54:31 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:54:33 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:54:37 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:54:40 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:54:45 2022	widepeeked was killed by Al Shebab with a m9k_svu
+Sun Jul 10 13:54:48 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:54:53 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:54:56 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:55:03 2022	widepeeked was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:55:06 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:55:09 2022	Al Shebab was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:55:30 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:55:32 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 13:55:35 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:55:45 2022	widepeeked was killed by DJ Bread with a m9k_m98b
+Sun Jul 10 13:55:47 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:55:52 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:56:04 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:56:11 2022	widepeeked was killed by DJ Bread with a m9k_contender
+Sun Jul 10 13:56:14 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:56:19 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:56:22 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:56:36 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 13:56:40 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:56:45 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:56:48 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:56:49 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:56:52 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:56:54 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:56:58 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:57:03 2022	Al Shebab was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:06 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:57:07 2022	widepeeked was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:10 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:57:11 2022	Al Shebab was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:14 2022	widepeeked was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:14 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:57:17 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:57:19 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:57:21 2022	Al Shebab was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 13:57:22 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:57:24 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:57:28 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 13:57:31 2022	Al Shebab was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:31 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:57:34 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:57:49 2022	Al Shebab was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:50 2022	widepeeked was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:57:52 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:57:53 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:57:57 2022	Al Shebab was killed by DJ Bread with a m9k_barret_m82
+Sun Jul 10 13:58:00 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:58:01 2022	DJ Bread was killed by widepeeked with a m9k_m98b
+Sun Jul 10 13:58:03 2022	widepeeked was killed by Al Shebab with a m9k_dbarrel
+Sun Jul 10 13:58:04 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:58:06 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:58:45 2022	DJ Bread was killed by Himself with a suicide trick
+Sun Jul 10 13:58:48 2022	widepeeked was killed by DJ Bread with a m9k_released_poison
+Sun Jul 10 13:58:48 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:58:51 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:58:55 2022	widepeeked was killed by DJ Bread with a m9k_launched_ex41
+Sun Jul 10 13:59:00 2022	Al Shebab was killed by DJ Bread with a m9k_launched_ex41
+Sun Jul 10 13:59:03 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:59:04 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:59:08 2022	Al Shebab was killed by DJ Bread with a m9k_spas12
+Sun Jul 10 13:59:11 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:59:16 2022	Al Shebab was killed by DJ Bread with a m9k_spas12
+Sun Jul 10 13:59:19 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:59:22 2022	widepeeked was killed by DJ Bread with a m9k_spas12
+Sun Jul 10 13:59:25 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:59:26 2022	Al Shebab was killed by DJ Bread with a m9k_spas12
+Sun Jul 10 13:59:30 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:59:33 2022	Al Shebab was killed by DJ Bread with a m9k_jackhammer
+Sun Jul 10 13:59:36 2022	DJ Bread was killed by widepeeked with a m9k_1897winchester
+Sun Jul 10 13:59:37 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:59:39 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 13:59:43 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 13:59:46 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 13:59:54 2022	widepeeked was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 13:59:57 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 13:59:57 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 14:00:00 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:00:03 2022	DJ Bread was killed by widepeeked with a m9k_jackhammer
+Sun Jul 10 14:00:07 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:00:09 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 14:00:12 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:00:16 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:00:19 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:00:27 2022	DJ Bread was killed by widepeeked with a m9k_dbarrel
+Sun Jul 10 14:00:30 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:00:36 2022	widepeeked was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 14:00:39 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:00:40 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:00:42 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:00:43 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:00:45 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:00:51 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 14:00:54 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:00:56 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:01:00 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:01:10 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:01:13 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:01:14 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:01:19 2022	Al Shebab was killed by widepeeked with a m9k_dbarrel
+Sun Jul 10 14:01:22 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:01:26 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:01:29 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:01:33 2022	Al Shebab was killed by widepeeked with a m9k_browningauto5
+Sun Jul 10 14:01:36 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:01:38 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:01:40 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Sun Jul 10 14:01:43 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:01:47 2022	widepeeked was killed by Al Shebab with a m9k_svu
+Sun Jul 10 14:01:50 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:01:59 2022	widepeeked was killed by DJ Bread with a m9k_thrown_sticky_grenade
+Sun Jul 10 14:02:00 2022	DJ Bread was killed by Al Shebab with a m9k_svu
+Sun Jul 10 14:02:02 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:02:03 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:02:13 2022	widepeeked was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:02:15 2022	DJ Bread was killed by Al Shebab with a m9k_svu
+Sun Jul 10 14:02:17 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:02:18 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:02:19 2022	Al Shebab was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:02:22 2022	widepeeked was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:02:23 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:02:26 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:02:28 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:02:32 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:02:35 2022	widepeeked was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:02:38 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:02:47 2022	DJ Bread was killed by widepeeked with a m9k_mossberg590
+Sun Jul 10 14:02:52 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:02:53 2022	Al Shebab was killed by widepeeked with a m9k_mossberg590
+Sun Jul 10 14:02:57 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:03:01 2022	widepeeked was killed by DJ Bread with a m9k_m3
+Sun Jul 10 14:03:05 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:03:16 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:03:17 2022	Al Shebab was killed by DJ Bread with a m9k_browningauto5
+Sun Jul 10 14:03:19 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:03:21 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:03:22 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:03:25 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:03:26 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:03:29 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:03:33 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 14:03:36 2022	widepeeked (STEAM_0:0:492844137): 
+Sun Jul 10 14:03:36 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:03:37 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:03:41 2022	widepeeked (STEAM_0:0:492844137): 
+Sun Jul 10 14:03:42 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:03:43 2022	Al Shebab (STEAM_0:0:103364981): 
+Sun Jul 10 14:03:53 2022	DJ Bread was killed by widepeeked with a m9k_mossberg590
+Sun Jul 10 14:03:56 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:03:59 2022	widepeeked was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:04:02 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:04:03 2022	Al Shebab was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:04:06 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:04:08 2022	widepeeked was killed by Al Shebab with a m9k_svu
+Sun Jul 10 14:04:11 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:04:18 2022	DJ Bread was killed by Al Shebab with a weapon_fists
+Sun Jul 10 14:04:23 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:04:29 2022	widepeeked was killed by DJ Bread with a m9k_thrown_harpoon
+Sun Jul 10 14:04:32 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:04:37 2022	Al Shebab was killed by widepeeked with a m9k_thrown_harpoon
+Sun Jul 10 14:04:41 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:04:49 2022	widepeeked was killed by Al Shebab with a m9k_svu
+Sun Jul 10 14:04:52 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:04:55 2022	DJ Bread was killed by widepeeked with a m9k_dbarrel
+Sun Jul 10 14:04:58 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:05:04 2022	widepeeked was killed by DJ Bread with a m9k_browningauto5
+Sun Jul 10 14:05:07 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:05:14 2022	widepeeked was killed by DJ Bread with a m9k_browningauto5
+Sun Jul 10 14:05:17 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:05:24 2022	widepeeked was killed by Al Shebab with a m9k_smgp90
+Sun Jul 10 14:05:27 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:05:32 2022	widepeeked was killed by DJ Bread with a m9k_an94
+Sun Jul 10 14:05:37 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:05:49 2022	DJ Bread was killed by widepeeked with a m9k_contender
+Sun Jul 10 14:05:56 2022	Al Shebab was killed by widepeeked with a m9k_contender
+Sun Jul 10 14:05:56 2022	widepeeked was killed by Al Shebab with a m9k_launched_m79
+Sun Jul 10 14:05:59 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:05:59 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:06:02 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:06:05 2022	widepeeked was killed by DJ Bread with a m9k_minigun
+Sun Jul 10 14:06:08 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:06:12 2022	Al Shebab was killed by DJ Bread with a m9k_minigun
+Sun Jul 10 14:06:15 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:06:18 2022	widepeeked was killed by DJ Bread with a m9k_fg42
+Sun Jul 10 14:06:21 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:06:26 2022	Al Shebab was killed by DJ Bread with a m9k_fg42
+Sun Jul 10 14:06:31 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 14:06:33 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:06:35 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:06:38 2022	widepeeked was killed by Al Shebab with a m9k_striker12
+Sun Jul 10 14:06:41 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:06:45 2022	widepeeked was killed by DJ Bread with a m9k_m249lmg
+Sun Jul 10 14:06:48 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:06:52 2022	Al Shebab was killed by DJ Bread with a m9k_m249lmg
+Sun Jul 10 14:06:54 2022	widepeeked was killed by DJ Bread with a m9k_m249lmg
+Sun Jul 10 14:06:58 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:06:59 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:07:03 2022	DJ Bread was killed by Al Shebab with a m9k_davy_crockett_explo
+Sun Jul 10 14:07:03 2022	widepeeked was killed by Al Shebab with a m9k_davy_crockett_explo
+Sun Jul 10 14:07:03 2022	Al Shebab was killed by Himself with a suicide trick
+Sun Jul 10 14:07:06 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:07:06 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:07:07 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:07:10 2022	Al Shebab was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:07:10 2022	DJ Bread was killed by widepeeked with a m9k_ithacam37
+Sun Jul 10 14:07:11 2022	widepeeked was killed by Entity [1391][spawned_weapon] with a spawned_weapon
+Sun Jul 10 14:07:14 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:07:14 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:07:14 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:07:17 2022	widepeeked was killed by DJ Bread with a m9k_mossberg590
+Sun Jul 10 14:07:20 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:07:35 2022	DJ Bread was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 14:07:38 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:07:40 2022	widepeeked was killed by Al Shebab with a m9k_m98b
+Sun Jul 10 14:07:44 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:08:04 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 14:08:07 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:08:15 2022	widepeeked was killed by DJ Bread with a m9k_browningauto5
+Sun Jul 10 14:08:18 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:08:28 2022	DJ Bread was killed by widepeeked with a m9k_barret_m82
+Sun Jul 10 14:08:31 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:08:48 2022	widepeeked was killed by Al Shebab with a m9k_milkor_nade
+Sun Jul 10 14:08:51 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:08:56 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:08:59 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:09:00 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:09:03 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:09:04 2022	widepeeked was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:09:07 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:09:12 2022	Al Shebab was killed by DJ Bread with a m9k_milkor_nade
+Sun Jul 10 14:09:15 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:09:17 2022	widepeeked was killed by DJ Bread with a m9k_gdcwa_matador_90mm
+Sun Jul 10 14:09:17 2022	DJ Bread was killed by Himself with a suicide trick
+Sun Jul 10 14:09:20 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:09:24 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Sun Jul 10 14:09:27 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:09:30 2022	widepeeked (STEAM_0:0:492844137) spawned
+Sun Jul 10 14:09:34 2022	DJ Bread was killed by Himself with a suicide trick
+Sun Jul 10 14:09:34 2022	Al Shebab was killed by DJ Bread with a m9k_m202_rocket
+Sun Jul 10 14:09:37 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sun Jul 10 14:09:44 2022	DJ Bread was killed by widepeeked with a m9k_m202_rocket
+Sun Jul 10 14:10:36 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 14:10:40 2022	widepeeked was killed by Al Shebab with a m9k_aw50
