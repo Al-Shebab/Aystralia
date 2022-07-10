@@ -190,3 +190,1305 @@ widepeeked|5|STEAM_0:0:492844137
 
 
 
+jaywalking0d|10|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+jaywalking0d|10|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+jaywalking0d|10|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+
+
+
+jaywalking0d|10|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+jaywalking0d|10|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|11|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|11|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|11|STEAM_0:0:437291733
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+
+
+
+Binchicken|11|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+Binchicken|11|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. Create3DUI - addons/oneprint/lua/oneprint/client/init.lua:77
+       6. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:36
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+
+
+
+Binchicken|16|STEAM_0:0:437291733
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:178: attempt to call method 'GetServers' (a nil value)
+  1. iCur - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:178
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+Frazer|5|STEAM_0:0:120840551
+
+[oneprint] addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:183: attempt to call method 'GetDefense' (a nil value)
+  1. iCur - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:183
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+
+
+
+Frazer|4|STEAM_0:0:120840551
+Erroring opening file: generic
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua" on line 21.
+The best help I can give you is this:
+
+Corrupt entity: OP Printer!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua on line 21
+	2. function 'doInclude'
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 138
+	4. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 149
+	5. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. unknown - addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:21
+      5. doInclude - [C]:-1
+       6. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+        7. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+         8. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. SetTab - addons/oneprint/lua/entities/oneprint/cl_init.lua:73
+       6. v - addons/oneprint/lua/entities/oneprint/cl_init.lua:61
+        7. CallProxies - lua/includes/extensions/entity.lua:308
+         8. CallDTVarProxies - lua/includes/extensions/entity.lua:316
+          9. unknown - lua/includes/extensions/entity.lua:214
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. SetTab - addons/oneprint/lua/entities/oneprint/cl_init.lua:73
+       6. v - addons/oneprint/lua/entities/oneprint/cl_init.lua:61
+        7. CallProxies - lua/includes/extensions/entity.lua:308
+         8. CallDTVarProxies - lua/includes/extensions/entity.lua:316
+          9. unknown - lua/includes/extensions/entity.lua:214
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|5|STEAM_0:0:437291733
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|6|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+jaywalking0d|9|STEAM_0:1:212383203
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Frazer|4|STEAM_0:0:120840551
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|8|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/entities.lua:28: '}' expected (to close '{' at line 21) near 'category'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. ShowDetails - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:302
+    3. Run - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:507
+     4. SetTab - addons/oneprint/lua/oneprint/client/init.lua:105
+      5. SetTab - addons/oneprint/lua/entities/oneprint/cl_init.lua:73
+       6. v - addons/oneprint/lua/entities/oneprint/cl_init.lua:61
+        7. CallProxies - lua/includes/extensions/entity.lua:308
+         8. CallDTVarProxies - lua/includes/extensions/entity.lua:316
+          9. unknown - lua/includes/extensions/entity.lua:214
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] lua/includes/util.lua:265: attempt to perform arithmetic on local 'from' (a nil value)
+  1. Lerp - lua/includes/util.lua:265
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:275
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+
+jaywalking0d|3|STEAM_0:1:212383203
+
+[oneprint] addons/oneprint/lua/entities/oneprint/shared.lua:177: attempt to call method 'GetUserGroup' (a nil value)
+  1. iMax - addons/oneprint/lua/entities/oneprint/shared.lua:177
+   2. unknown - addons/oneprint/lua/oneprint/client/vgui/tabs/shop.lua:489
+    3. PaintManual - [C]:-1
+     4. Paint3D2D - addons/oneprint/lua/oneprint/client/vgui/3d2dvgui.lua:275
+      5. unknown - addons/oneprint/lua/entities/oneprint/cl_init.lua:49
+
+
+

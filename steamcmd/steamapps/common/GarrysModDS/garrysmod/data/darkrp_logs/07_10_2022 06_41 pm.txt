@@ -1,0 +1,68 @@
+Sun Jul 10 18:41:46 2022	Frazer (STEAM_0:0:120840551) has joined the game
+Sun Jul 10 18:41:46 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:42:01 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sun Jul 10 18:42:01 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 18:42:03 2022	jaywalking0d (STEAM_0:1:212383203) has joined the game
+Sun Jul 10 18:42:03 2022	jaywalking0d (STEAM_0:1:212383203) spawned
+Sun Jul 10 18:43:48 2022	Al Shebab was killed by Frazer with a oneprint
+Sun Jul 10 18:43:55 2022	jaywalking0d was killed by Frazer with a oneprint
+Sun Jul 10 18:43:58 2022	jaywalking0d (STEAM_0:1:212383203) spawned
+Sun Jul 10 18:44:00 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 18:44:43 2022	Frazer (STEAM_0:0:120840551) disconnected
+Sun Jul 10 18:45:29 2022	Frazer (STEAM_0:0:120840551) has joined the game
+Sun Jul 10 18:45:29 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:46:16 2022	Frazer was killed by Entity [1334][oneprint] with a oneprint
+Sun Jul 10 18:46:20 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:46:29 2022	Al Shebab (STEAM_0:0:103364981): !give * lockpick
+Sun Jul 10 18:49:35 2022	jaywalking0d was killed by Frazer with a oneprint
+Sun Jul 10 18:49:38 2022	jaywalking0d (STEAM_0:1:212383203) spawned
+Sun Jul 10 18:49:58 2022	jaywalking0d was killed by Frazer with a oneprint
+Sun Jul 10 18:50:01 2022	jaywalking0d (STEAM_0:1:212383203) spawned
+Sun Jul 10 18:50:12 2022	jaywalking0d (STEAM_0:1:212383203): !god
+Sun Jul 10 18:52:00 2022	jaywalking0d (STEAM_0:1:212383203): !GOTO SHEBAB
+Sun Jul 10 18:52:10 2022	Al Shebab was killed by jaywalking0d with a weapon_fists
+Sun Jul 10 18:52:31 2022	Frazer was killed by jaywalking0d with a oneprint
+Sun Jul 10 18:52:34 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:53:03 2022	Frazer was killed by jaywalking0d with a oneprint
+Sun Jul 10 18:53:07 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:53:37 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 18:54:03 2022	Al Shebab was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 10 18:54:06 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 18:54:37 2022	Al Shebab was killed by jaywalking0d with a oneprint
+Sun Jul 10 18:55:33 2022	Frazer was killed by jaywalking0d with a oneprint
+Sun Jul 10 18:55:36 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:55:57 2022	jaywalking0d (STEAM_0:1:212383203): !clo9ak
+Sun Jul 10 18:56:00 2022	jaywalking0d (STEAM_0:1:212383203): 
+Sun Jul 10 18:56:08 2022	Frazer (STEAM_0:0:120840551): 
+Sun Jul 10 18:56:42 2022	jaywalking0d (STEAM_0:1:212383203): !KILL FRAZER
+Sun Jul 10 18:56:45 2022	jaywalking0d (STEAM_0:1:212383203): !MENU
+Sun Jul 10 18:57:10 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sun Jul 10 18:57:21 2022	jaywalking0d (STEAM_0:1:212383203): !menu
+Sun Jul 10 18:57:36 2022	Al Shebab (STEAM_0:0:103364981): /admintellall gay
+Sun Jul 10 18:57:36 2022	Al Shebab (STEAM_0:0:103364981) did admintellall "gay"
+Sun Jul 10 18:57:37 2022	Frazer was killed by Entity [1340][oneprint] with a oneprint
+Sun Jul 10 18:57:40 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 18:58:16 2022	jaywalking0d (STEAM_0:1:212383203): !ungod frazer
+Sun Jul 10 18:58:24 2022	jaywalking0d (STEAM_0:1:212383203): !unnoclip frazer
+Sun Jul 10 18:58:54 2022	Al Shebab (STEAM_0:0:103364981): !ss
+Sun Jul 10 18:59:32 2022	Al Shebab (STEAM_0:0:103364981): /dropmoney 200000
+Sun Jul 10 18:59:33 2022	Al Shebab (STEAM_0:0:103364981) has dropped $200,000
+Sun Jul 10 18:59:36 2022	Frazer was killed by jaywalking0d with a m9k_coltpython
+Sun Jul 10 18:59:39 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 19:00:01 2022	jaywalking0d (STEAM_0:1:212383203): /GIVEMONEY 5000000
+Sun Jul 10 19:00:06 2022	jaywalking0d (STEAM_0:1:212383203): 
+Sun Jul 10 19:01:25 2022	Frazer (STEAM_0:0:120840551): /DROP
+Sun Jul 10 19:01:33 2022	Frazer was killed by Al Shebab with a m9k_gdcwa_matador_90mm
+Sun Jul 10 19:01:37 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 19:01:46 2022	Al Shebab was killed by jaywalking0d with a m9k_davy_crockett_explo
+Sun Jul 10 19:01:46 2022	Frazer was killed by jaywalking0d with a m9k_davy_crockett_explo
+Sun Jul 10 19:01:48 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 19:01:53 2022	Frazer was killed by jaywalking0d with a m9k_davy_crockett_explo
+Sun Jul 10 19:02:05 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 19:02:40 2022	Frazer was killed by jaywalking0d with a m9k_coltpython
+Sun Jul 10 19:02:43 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 19:03:31 2022	Frazer was killed by jaywalking0d with a m9k_coltpython
+Sun Jul 10 19:03:34 2022	Frazer (STEAM_0:0:120840551) spawned
+Sun Jul 10 19:04:04 2022	jaywalking0d (STEAM_0:1:212383203): !MENU
+Sun Jul 10 19:04:05 2022	Frazer (STEAM_0:0:120840551): !menu
+Sun Jul 10 19:04:18 2022	Frazer (STEAM_0:0:120840551): d

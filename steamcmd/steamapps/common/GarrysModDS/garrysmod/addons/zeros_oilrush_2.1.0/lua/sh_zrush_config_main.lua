@@ -51,7 +51,7 @@ zrush.config.UoM = "L" // liter
 
 // These Jobs are allowed to sell fuel, Leave empty to allow everyone to sell fuel
 zrush.config.Jobs = {}
-if TEAM_ZRUSH_FUELPRODUCER then zrush.config.Jobs[TEAM_ZRUSH_FUELPRODUCER] = true end
+if OIL_REFINER then zrush.config.Jobs[OIL_REFINER] = true end
 
 // How should the drilling work?
 // 0 = The DrillTower dont needs a oilspots and can be placed everywhere
