@@ -14,7 +14,7 @@ OnePrint.Cfg.ServerLimit = {                -- Max servers per printer (dependin
 ]]--
 
 -- Money
-OnePrint.Cfg.MoneyDelay = 5                 -- Cooldown before the printer generates money
+OnePrint.Cfg.MoneyDelay = 10                 -- Cooldown before the printer generates money
 OnePrint.Cfg.ServerIncome = 100                -- Income per server (for 1 server and without any upgrade)
 OnePrint.Cfg.OverclockingIncome = 10        -- % of income added per level of overclocking
 OnePrint.Cfg.ServerStorage = 200000           -- Max storage per server
@@ -23,16 +23,16 @@ OnePrint.Cfg.CPDestroyReward = 1000         -- Reward a CP for destroying a prin
 OnePrint.Cfg.CPRewardSelf = false           -- true: CPs are rewarded if they destroy their own printer
 
 -- Upgrades/Shop
-OnePrint.Cfg.ServerPrice = 2000             -- Server price
-OnePrint.Cfg.WatercoolingPrice = 700        -- Watercooling price
-OnePrint.Cfg.PowerPrice = 160               -- Power price
-OnePrint.Cfg.OverclockingPrice = 600        -- Overclocking price
-OnePrint.Cfg.SecurityPrice = 500            -- Security price (against hacking)
-OnePrint.Cfg.DefensePrice = 300             -- Defense boost price
+OnePrint.Cfg.ServerPrice = 5000             -- Server price
+OnePrint.Cfg.WatercoolingPrice = 1500       -- Watercooling price
+OnePrint.Cfg.PowerPrice = 2500                  -- Power price
+OnePrint.Cfg.OverclockingPrice = 950        -- Overclocking price
+OnePrint.Cfg.SecurityPrice = 1300            -- Security price (against hacking)
+OnePrint.Cfg.DefensePrice = 600             -- Defense boost price
 OnePrint.Cfg.DefenseBoost = 50              -- Max HP added for each boost upgrade bought
 OnePrint.Cfg.DefenseMax = 8                 -- Max boosts buyables [min = 1, max = 32]
-OnePrint.Cfg.SilencerPrice = 200            -- Silencer price
-OnePrint.Cfg.HackNotifyPrice = 2500         -- Hack notification price
+OnePrint.Cfg.SilencerPrice = 10000            -- Silencer price
+OnePrint.Cfg.HackNotifyPrice = 1000000         -- Hack notification price
 OnePrint.Cfg.LowHPNotifyPrice = 1000        -- Low HP notification price
 
 OnePrint.Cfg.NotifyAllUsers = false         -- true: Notify all printer users on printer hack/low hp, false: Only notify owner on printer hack/low hp
