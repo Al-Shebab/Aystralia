@@ -1,22 +1,44 @@
+"STEAM_0:0:497589869"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Volcun"
+	"deny"	
+	{
+	}
+	"group"	"trial-moderator"
+}
 "STEAM_0:0:103364981"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"Al Shebab"
-	"deny"	
-	{
-	}
 	"group"	"superadmin"
 }
-"STEAM_0:0:579690494"	
+"STEAM_0:0:437291733"	
 {
 	"allow"	
 	{
 	}
-	"name"	"Skii"
+	"name"	"Binchicken"
 	"deny"	
 	{
 	}
+	"group"	"staff-manager"
+}
+"STEAM_0:0:579690494"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Skii"
 	"group"	"superadmin"
 }

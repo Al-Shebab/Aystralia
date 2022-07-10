@@ -217,3 +217,825 @@
 [20:51:01] New map: rp_downtown_tits_v2
 [20:51:07] Client "Al Shebab" connected.
 [20:51:16] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+[20:59:39] Client "Binchicken" connected.
+[21:01:20] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 101 seconds).
+[21:02:45] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[21:03:05] Binchicken<STEAM_0:0:437291733> spawned model models/props_combine/combine_window001.mdl
+[21:06:19] Al Shebab created group staff-manager which inherits rights from group admin
+[21:06:23] Al Shebab removed group noaccess
+[21:06:26] Al Shebab removed group admin
+[21:06:27] Al Shebab removed group operator
+[21:06:38] Al Shebab added Binchicken to group staff-manager
+[21:07:03] Al Shebab created group trial-moderator which inherits rights from group user
+[21:07:36] Client "Volcun" connected.
+[21:08:42] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 66 seconds).
+[21:09:05] Al Shebab added Volcun to group trial-moderator
+[21:09:18] Al Shebab granted access "fspectate" to group staff-manager
+[21:09:18] Al Shebab granted access "fspectateteleport" to group staff-manager
+[21:09:19] Al Shebab granted access "fpp_touchotherplayersprops" to group staff-manager
+[21:09:19] Al Shebab granted access "fpp_settings" to group staff-manager
+[21:09:19] Al Shebab granted access "fpp_cleanup" to group staff-manager
+[21:09:20] Al Shebab granted access "darkrp_setmoney" to group staff-manager
+[21:09:20] Al Shebab granted access "darkrp_setlicense" to group staff-manager
+[21:09:20] Al Shebab granted access "darkrp_setdoorowner" to group staff-manager
+[21:09:21] Al Shebab granted access "darkrp_seeevents" to group staff-manager
+[21:09:21] Al Shebab granted access "darkrp_getjob_mayor" to group staff-manager
+[21:09:21] Al Shebab granted access "darkrp_getjob_cp" to group staff-manager
+[21:09:22] Al Shebab granted access "darkrp_getadminweapons" to group staff-manager
+[21:09:22] Al Shebab granted access "darkrp_changedoorsettings" to group staff-manager
+[21:09:22] Al Shebab granted access "darkrp_admincommands" to group staff-manager
+[21:09:25] Al Shebab granted access "ulx csay" to group staff-manager
+[21:09:25] Al Shebab granted access "ulx gag" to group staff-manager
+[21:09:26] Al Shebab granted access "ulx gimp" to group staff-manager
+[21:09:26] Al Shebab granted access "ulx mute" to group staff-manager
+[21:09:27] Al Shebab granted access "ulx tsay" to group staff-manager
+[21:09:27] Al Shebab granted access "ulx ungag" to group staff-manager
+[21:09:28] Al Shebab granted access "ulx ungimp" to group staff-manager
+[21:09:28] Al Shebab granted access "ulx unmute" to group staff-manager
+[21:09:29] Al Shebab granted access "ulx armor" to group staff-manager
+[21:09:29] Al Shebab granted access "ulx blind" to group staff-manager
+[21:09:30] Al Shebab granted access "ulx cloak" to group staff-manager
+[21:09:30] Al Shebab granted access "ulx hp" to group staff-manager
+[21:09:31] Al Shebab revoked access "ulx cloak" to group staff-manager
+[21:09:31] Al Shebab granted access "ulx god" to group staff-manager
+[21:09:31] Al Shebab granted access "ulx freeze" to group staff-manager
+[21:09:32] Al Shebab granted access "ulx cloak" to group staff-manager
+[21:09:33] Al Shebab granted access "ulx ignite" to group staff-manager
+[21:09:33] Al Shebab granted access "ulx jail" to group staff-manager
+[21:09:33] Al Shebab granted access "ulx jailtp" to group staff-manager
+[21:09:34] Al Shebab granted access "ulx maul" to group staff-manager
+[21:09:34] Al Shebab granted access "ulx playsound" to group staff-manager
+[21:09:34] Al Shebab granted access "ulx ragdoll" to group staff-manager
+[21:09:34] Al Shebab granted access "ulx slap" to group staff-manager
+[21:09:34] Al Shebab granted access "ulx slay" to group staff-manager
+[21:09:35] Al Shebab granted access "ulx sslay" to group staff-manager
+[21:09:35] Al Shebab granted access "ulx strip" to group staff-manager
+[21:09:36] Al Shebab revoked access "ulx strip" to group staff-manager
+[21:09:37] Al Shebab granted access "ulx unblind" to group staff-manager
+[21:09:37] Al Shebab granted access "ulx strip" to group staff-manager
+[21:09:38] Al Shebab granted access "ulx uncloak" to group staff-manager
+[21:09:39] Al Shebab granted access "ulx unfreeze" to group staff-manager
+[21:09:39] Al Shebab granted access "ulx ungod" to group staff-manager
+[21:09:39] Al Shebab granted access "ulx unignite" to group staff-manager
+[21:09:40] Al Shebab granted access "ulx unigniteall" to group staff-manager
+[21:09:40] Al Shebab granted access "ulx unjail" to group staff-manager
+[21:09:40] Al Shebab granted access "ulx unragdoll" to group staff-manager
+[21:09:41] Al Shebab granted access "ulx whip" to group staff-manager
+[21:09:43] Al Shebab granted access "ulx cexec" to group staff-manager
+[21:09:43] Al Shebab granted access "ulx ent" to group staff-manager
+[21:09:44] Al Shebab granted access "ulx exec" to group staff-manager
+[21:09:44] Al Shebab granted access "ulx luarun" to group staff-manager
+[21:09:45] Al Shebab granted access "ulx rcon" to group staff-manager
+[21:09:45] Al Shebab revoked access "ulx rcon" to group staff-manager
+[21:09:45] Al Shebab revoked access "ulx luarun" to group staff-manager
+[21:09:46] Al Shebab revoked access "ulx exec" to group staff-manager
+[21:09:46] Al Shebab revoked access "ulx ent" to group staff-manager
+[21:09:47] Al Shebab revoked access "ulx cexec" to group staff-manager
+[21:09:48] Al Shebab granted access "ulx bring" to group staff-manager
+[21:09:48] Al Shebab granted access "ulx goto" to group staff-manager
+[21:09:48] Al Shebab granted access "ulx return" to group staff-manager
+[21:09:49] Al Shebab granted access "ulx send" to group staff-manager
+[21:09:50] Al Shebab granted access "ulx teleport" to group staff-manager
+[21:09:51] Al Shebab granted access "ulx addgroup" to group staff-manager
+[21:09:51] Al Shebab granted access "ulx adduser" to group staff-manager
+[21:09:51] Al Shebab granted access "ulx adduserid" to group staff-manager
+[21:09:52] Al Shebab granted access "ulx groupallow" to group staff-manager
+[21:09:52] Al Shebab granted access "ulx groupdeny" to group staff-manager
+[21:09:53] Al Shebab granted access "ulx removegroup" to group staff-manager
+[21:09:54] Al Shebab granted access "ulx removeuser" to group staff-manager
+[21:09:54] Al Shebab granted access "ulx removeuserid" to group staff-manager
+[21:09:54] Al Shebab granted access "ulx renamegroup" to group staff-manager
+[21:09:55] Al Shebab granted access "ulx setgroupcantarget" to group staff-manager
+[21:09:55] Al Shebab granted access "ulx userallow" to group staff-manager
+[21:09:56] Al Shebab granted access "ulx userallowid" to group staff-manager
+[21:09:57] Al Shebab granted access "ulx userdenyid" to group staff-manager
+[21:09:57] Al Shebab granted access "ulx userdeny" to group staff-manager
+[21:09:59] Al Shebab granted access "ulx unban" to group staff-manager
+[21:09:59] Al Shebab granted access "ulx spectate" to group staff-manager
+[21:10:00] Al Shebab granted access "ulx noclip" to group staff-manager
+[21:10:00] Al Shebab granted access "ulx map" to group staff-manager
+[21:10:01] Al Shebab granted access "ulx kick" to group staff-manager
+[21:10:01] Al Shebab granted access "ulx banid" to group staff-manager
+[21:10:01] Al Shebab granted access "ulx ban" to group staff-manager
+[21:10:03] Al Shebab granted access "ulx votekick" to group staff-manager
+[21:10:03] Al Shebab granted access "ulx voteban" to group staff-manager
+[21:10:04] Al Shebab granted access "ulx veto" to group staff-manager
+[21:10:04] Al Shebab granted access "ulx vote" to group staff-manager
+[21:10:05] Al Shebab granted access "ulx stopvote" to group staff-manager
+[21:10:05] Al Shebab granted access "ulx votemap2" to group staff-manager
+[21:10:06] Al Shebab granted access "ulx kickafternamechangeswarning" to group staff-manager
+[21:10:07] Al Shebab granted access "ulx kickafternamechangescooldown" to group staff-manager
+[21:10:07] Al Shebab granted access "ulx kickafternamechanges" to group staff-manager
+[21:10:07] Al Shebab granted access "ulx chattime" to group staff-manager
+[21:10:09] Al Shebab granted access "ulx logchat" to group staff-manager
+[21:10:09] Al Shebab granted access "ulx logdir" to group staff-manager
+[21:10:09] Al Shebab granted access "ulx logecho" to group staff-manager
+[21:10:09] Al Shebab granted access "ulx logechocolorconsole" to group staff-manager
+[21:10:10] Al Shebab granted access "ulx logechocolordefault" to group staff-manager
+[21:10:11] Al Shebab granted access "ulx logechocoloreveryone" to group staff-manager
+[21:10:11] Al Shebab granted access "ulx logechocolormisc" to group staff-manager
+[21:10:11] Al Shebab granted access "ulx logechocolorplayer" to group staff-manager
+[21:10:12] Al Shebab granted access "ulx logechocolorplayerasgroup" to group staff-manager
+[21:10:13] Al Shebab granted access "ulx logechocolors" to group staff-manager
+[21:10:13] Al Shebab granted access "ulx logechocolorself" to group staff-manager
+[21:10:14] Al Shebab granted access "ulx logevents" to group staff-manager
+[21:10:15] Al Shebab granted access "ulx logfile" to group staff-manager
+[21:10:15] Al Shebab granted access "ulx logjoinleaveecho" to group staff-manager
+[21:10:15] Al Shebab granted access "ulx logspawns" to group staff-manager
+[21:10:16] Al Shebab granted access "ulx logspawnsecho" to group staff-manager
+[21:10:16] Al Shebab granted access "ulx mechatenabled" to group staff-manager
+[21:10:16] Al Shebab revoked access "ulx mechatenabled" to group staff-manager
+[21:10:17] Al Shebab granted access "ulx mechatenabled" to group staff-manager
+[21:10:17] Al Shebab granted access "ulx motdfile" to group staff-manager
+[21:10:18] Al Shebab granted access "ulx motdurl" to group staff-manager
+[21:10:18] Al Shebab granted access "ulx rslots" to group staff-manager
+[21:10:18] Al Shebab granted access "ulx rslotsmode" to group staff-manager
+[21:10:19] Al Shebab granted access "ulx rslotsvisible" to group staff-manager
+[21:10:19] Al Shebab granted access "ulx showmotd" to group staff-manager
+[21:10:20] Al Shebab granted access "ulx votebanminvotes" to group staff-manager
+[21:10:20] Al Shebab granted access "ulx votebansuccessratio" to group staff-manager
+[21:10:21] Al Shebab granted access "ulx voteecho" to group staff-manager
+[21:10:21] Al Shebab revoked access "ulx voteecho" to group staff-manager
+[21:10:22] Al Shebab granted access "ulx votekicksuccessratio" to group staff-manager
+[21:10:22] Al Shebab granted access "ulx votekickminvotes" to group staff-manager
+[21:10:22] Al Shebab granted access "ulx voteecho" to group staff-manager
+[21:10:23] Al Shebab granted access "ulx votemap2minvotes" to group staff-manager
+[21:10:23] Al Shebab granted access "ulx votemap2successratio" to group staff-manager
+[21:10:24] Al Shebab granted access "ulx votemapenabled" to group staff-manager
+[21:10:24] Al Shebab granted access "ulx votemapmapmode" to group staff-manager
+[21:10:24] Al Shebab granted access "ulx votemapmintime" to group staff-manager
+[21:10:24] Al Shebab granted access "ulx votemapminvotes" to group staff-manager
+[21:10:25] Al Shebab granted access "ulx votemapsuccessratio" to group staff-manager
+[21:10:25] Al Shebab revoked access "ulx votemapsuccessratio" to group staff-manager
+[21:10:26] Al Shebab granted access "ulx votemapvetotime" to group staff-manager
+[21:10:26] Al Shebab granted access "ulx votemapsuccessratio" to group staff-manager
+[21:10:28] Al Shebab granted access "ulx votemapwaittime" to group staff-manager
+[21:10:28] Al Shebab granted access "ulx welcomemessage" to group staff-manager
+[21:10:30] Al Shebab granted access "ulx hiddenecho" to group staff-manager
+[21:10:30] Al Shebab granted access "ulx physgunplayer" to group staff-manager
+[21:10:30] Al Shebab granted access "ulx reservedslots" to group staff-manager
+[21:10:31] Al Shebab granted access "ulx seeanonymousechoes" to group staff-manager
+[21:10:31] Al Shebab granted access "ulx seeasay" to group staff-manager
+[21:10:31] Al Shebab granted access "ulx spawnecho" to group staff-manager
+[21:10:33] Al Shebab granted access "xgui_gmsettings" to group staff-manager
+[21:10:33] Al Shebab granted access "xgui_managebans" to group staff-manager
+[21:10:33] Al Shebab granted access "xgui_managegroups" to group staff-manager
+[21:10:34] Al Shebab granted access "xgui_svsettings" to group staff-manager
+[21:10:59] (TEAM) Binchicken: !menu
+[21:11:10] Volcun: !menu
+[21:11:29] Al Shebab revoked access "ulx motd" to group user
+[21:11:33] Al Shebab revoked access "ulx psay" to group user
+[21:11:47] Al Shebab revoked access "ulx votemap" to group user
+[21:11:47] Binchicken: !noc;ip
+[21:11:51] Al Shebab revoked access "ulx help" to group user
+[21:11:52] Al Shebab revoked access "ulx version" to group user
+[21:11:53] Al Shebab revoked access "ulx who" to group user
+[21:11:54] Binchicken: !menu
+[21:12:03] Al Shebab revoked access "ulx usermanagementhelp" to group user
+[21:12:45] Al Shebab created group moderator which inherits rights from group trial-moderator
+[21:12:57] Al Shebab created group senior-moderator which inherits rights from group trial-moderator
+[21:13:05] Al Shebab created group administrator which inherits rights from group senior-moderator
+[21:13:21] Binchicken granted access "ulx noclip" to group trial-moderator
+[21:13:33] Binchicken granted access "ulx kick" to group trial-moderator
+[21:13:43] Al Shebab created group senior-administrator which inherits rights from group trial-moderator
+[21:14:38] Binchicken granted access "ulx ungag" to group trial-moderator
+[21:14:40] Binchicken granted access "ulx gag" to group trial-moderator
+[21:14:53] Al Shebab changed group staff-manager to only be able to target !%superadmin
+[21:14:55] Binchicken granted access "ulx bring" to group trial-moderator
+[21:14:57] Binchicken granted access "ulx goto" to group trial-moderator
+[21:14:58] Binchicken granted access "ulx return" to group trial-moderator
+[21:15:00] Binchicken granted access "ulx teleport" to group trial-moderator
+[21:15:18] Al Shebab changed group senior-administrator to only be able to target !%senior-administrator
+[21:15:32] Al Shebab changed group senior-administrator to only be able to target !%staff-manager
+[21:16:04] Al Shebab changed group administrator to only be able to target !%senior-administrator
+[21:16:21] Binchicken<STEAM_0:0:437291733> spawned model models/props_c17/oildrum001.mdl
+[21:16:35] Binchicken suicided!
+[21:16:46] Binchicken<STEAM_0:0:437291733> spawned model models/props_c17/oildrum001.mdl
+[21:17:03] Volcun<STEAM_0:0:497589869> spawned model models/props_borealis/bluebarrel001.mdl
+[21:17:05] Al Shebab changed group moderator to only be able to target !%senior-moderator
+[21:17:27] Al Shebab killed Volcun using prop_physics
+[21:17:27] Volcun killed Al Shebab using prop_physics
+[21:17:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:33] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:36] Binchicken was killed by prop_physics
+[21:17:38] Volcun was killed by prop_physics
+[21:17:47] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:48] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:48] Volcun<STEAM_0:0:497589869> spawned model models/props_c17/furnituredrawer001a.mdl
+[21:17:48] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:48] Volcun<STEAM_0:0:497589869> spawned model models/props_c17/furniturecupboard001a.mdl
+[21:17:48] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:49] Volcun<STEAM_0:0:497589869> spawned model models/props_c17/furnituredrawer001a.mdl
+[21:17:49] Volcun<STEAM_0:0:497589869> spawned model models/props_c17/furniturecupboard001a.mdl
+[21:17:49] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:17:49] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breendesk.mdl
+[21:18:10] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:10] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:10] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:10] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:10] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:11] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:12] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:12] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:12] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:13] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:14] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:14] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:14] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:14] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:15] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:15] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:15] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:16] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:16] Volcun<STEAM_0:0:497589869> spawned model models/props_lab/blastdoor001c.mdl
+[21:18:16] Al Shebab killed Volcun using prop_physics
+[21:18:18] Binchicken was killed by prop_physics
+[21:18:46] Volcun was killed by prop_physics
+[21:19:20] Al Shebab was killed by prop_physics
+[21:19:41] Al Shebab changed group trial-moderator to only be able to target !%moderator
+[21:19:52] Al Shebab changed group senior-moderator to only be able to target !%administrator
+[21:20:14] Volcun<STEAM_0:0:497589869> spawned model models/props_combine/headcrabcannister01a.mdl
+[21:24:21] Binchicken: !menu
+[21:24:39] Binchicken teleported to Volcun
+[21:25:31] Volcun<STEAM_0:0:497589869> spawned model models/props_borealis/mooring_cleat01.mdl
+[21:25:42] Binchicken: !menu
+[21:25:45] Client "pvp04539f" connected.
+[21:25:47] Binchicken brought Volcun
+[21:25:52] Binchicken: !menu
+[21:25:53] Binchicken brought Volcun
+[21:25:53] Binchicken: !menu
+[21:27:40] Binchicken: !menu
+[21:27:56] Binchicken jailed Volcun for 100 seconds
+[21:27:57] Binchicken unjailed Volcun
+[21:28:05] Binchicken: !menu
+[21:28:06] Binchicken jailed Volcun for 100 seconds
+[21:28:10] Binchicken: !menu
+[21:28:12] Binchicken unjailed Volcun
+[21:28:12] Volcun killed Binchicken using player
+[21:28:17] Binchicken: !menu
+[21:28:18] Binchicken jailed Volcun for 100 seconds
+[21:28:19] Binchicken unjailed Volcun
+[21:28:21] Al Shebab killed Binchicken using player
+[21:29:44] Binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furnituredrawer001a_chunk06.mdl
+[21:29:50] Binchicken<STEAM_0:0:437291733> spawned model models/props_c17/furnituredrawer001a_chunk06.mdl
+[21:29:53] Binchicken killed Volcun using prop_physics
+[21:30:03] Binchicken<STEAM_0:0:437291733> spawned model models/props_c17/lockers001a.mdl
+[21:30:05] Binchicken killed Volcun using prop_physics
+[21:30:12] Binchicken<STEAM_0:0:437291733> spawned model models/props_c17/lockers001a.mdl
+[21:30:40] Binchicken: !menu
+[21:30:51] Binchicken granted access "ulx jail" to group trial-moderator
+[21:30:55] Binchicken: !menu
+[21:31:15] Binchicken: !menu
+[21:31:23] Binchicken mauled Volcun
+[21:31:33] Volcun was killed by npc_fastzombie
+[21:31:38] Binchicken: !menu
+[21:31:49] Al Shebab gimped Everyone
+[21:32:11] Binchicken whipped Volcun 10 times with 2 damage
+[21:32:35] Binchicken unfroze Volcun
+[21:32:35] Binchicken froze Volcun
+[21:32:37] Binchicken unfroze Volcun
+[21:32:56] Volcun suicided!
+[21:32:56] Binchicken slayed Volcun
+[21:33:03] Binchicken silently slayed Volcun
+[21:33:18] Binchicken blinded Volcun by amount 255
+[21:33:19] Volcun killed Al Shebab using prop_physics
+[21:33:24] Binchicken blinded Volcun by amount 255
+[21:33:24] Binchicken unblinded Volcun
+[21:33:25] Binchicken unblinded Volcun
+[21:33:34] Binchicken set the armor for Volcun to 255
+[21:33:42] Al Shebab ungimped Everyone
+[21:33:42] Al Shebab: !ungimp *
+[21:33:46] Al Shebab gimped Themself
+[21:34:31] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence01b.mdl
+[21:34:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence01b.mdl
+[21:34:32] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence01b.mdl
+[21:34:33] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence01b.mdl
+[21:34:33] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence01b.mdl
+[21:34:34] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence01b.mdl
+[21:34:46] Binchicken granted access "ulx freeze" to group trial-moderator
+[21:35:11] Volcun<STEAM_0:0:497589869> spawned model models/props_combine/combine_fence01b.mdl
+[21:35:17] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:18] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:19] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:19] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:31] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:32] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:33] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:33] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:34] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:34] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:34] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:35] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:35] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:36] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:45] Al Shebab was killed by prop_physics
+[21:35:53] Volcun<STEAM_0:0:497589869> spawned model models/props_combine/combinethumper001a.mdl
+[21:35:53] Volcun<STEAM_0:0:497589869> spawned model models/props_combine/combinethumper002.mdl
+[21:35:54] Volcun<STEAM_0:0:497589869> spawned model models/props_combine/combinethumper001a.mdl
+[21:35:54] Volcun<STEAM_0:0:497589869> spawned model models/props_combine/combinethumper002.mdl
+[21:35:59] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:59] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:59] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:35:59] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:00] Al Shebab<STEAM_0:0:103364981> spawned sent prop_thumper
+[21:36:14] Binchicken: !menu
+[21:36:47] Volcun suicided!
+[21:36:50] Binchicken granted access "ulx ban" to group moderator
+[21:36:52] Binchicken granted access "ulx banid" to group moderator
+[21:36:55] Binchicken granted access "ulx unban" to group moderator
+[21:38:09] Binchicken granted access "ulx unjail" to group moderator
+[21:38:23] Binchicken granted access "ulx unfreeze" to group moderator
+[21:38:26] Binchicken granted access "ulx ungod" to group moderator
+
+
+
+[21:39:07] New map: rp_downtown_tits_v2
+[21:39:07] Client "Binchicken" connected.
+[21:39:07] Client "Binchicken" connected.
+[21:39:13] Client "Al Shebab" connected.
+[21:39:13] Client "Volcun" connected.
+[21:39:16] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 9 seconds).
+[21:39:22] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 9 seconds).
+[21:39:42] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 29 seconds).
+[21:40:11] Binchicken brought Volcun
+[21:40:21] Volcun: /rpname jfeiwo
+[21:40:22] Volcun<STEAM_0:0:497589869> changed their name to jfeiwo
+[21:40:28] jfeiwo: /rpname ewiq
+[21:40:28] jfeiwo<STEAM_0:0:497589869> changed their name to ewiq
+[21:40:28] Dropped "ewiq" from server<STEAM_0:0:497589869>
+[21:40:36] Client "Volcun" connected.
+[21:40:47] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 11 seconds).
+[21:41:05] ewiq: /rpname balls
+[21:41:05] ewiq<STEAM_0:0:497589869> changed their name to balls
+[21:41:05] Dropped "balls" from server<STEAM_0:0:497589869>
+[21:41:10] Client "Volcun" connected.
+[21:41:10] Al Shebab: /rpname cock
+[21:41:11] Al Shebab<STEAM_0:0:103364981> changed their name to cock
+[21:41:22] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 12 seconds).
+[21:43:20] cock created group trusted which inherits rights from group user
+[21:43:20] cock changed group trusted to only be able to target !%moderator
+[21:43:20] balls killed Binchicken using player
+[21:43:28] cock created group legend which inherits rights from group user
+[21:43:28] cock changed group legend to only be able to target !%moderator
+[21:43:32] Binchicken brought balls
+[21:43:35] Binchicken brought balls
+[21:43:35] Binchicken brought balls
+[21:43:35] Binchicken brought balls
+[21:43:36] Binchicken brought balls
+[21:43:36] Binchicken froze balls
+[21:43:41] cock renamed group trusted to regular
+[21:43:45] cock created group trusted which inherits rights from group user
+[21:43:50] Binchicken unfroze balls
+[21:43:50] Binchicken returned balls to their original position
+[21:44:15] cock removed group noaccess
+[21:44:31] cock changed group regular to only be able to target !%user
+[21:44:47] cock changed group regular to only be able to target !%trusted
+[21:44:59] cock changed group trusted to only be able to target !%legend
+[21:45:06] cock changed group legend to only be able to target !%trial-moderator
+[21:45:26] cock created group perth which inherits rights from group trusted
+[21:45:26] cock changed group perth to only be able to target !%trial-moderator
+[21:45:35] cock created group brisbane which inherits rights from group trusted
+[21:45:35] cock changed group brisbane to only be able to target !%trial-moderator
+[21:45:39] cock created group melbourne which inherits rights from group trusted
+[21:45:39] cock changed group melbourne to only be able to target !%trial-moderator
+[21:45:43] cock created group sydney which inherits rights from group trusted
+[21:45:43] cock changed group sydney to only be able to target !%trial-moderator
+[21:45:49] cock created group ayssie which inherits rights from group trusted
+[21:45:49] cock changed group ayssie to only be able to target !%trial-moderator
+[21:45:57] cock changed group legend to only be able to target !%perth
+[21:46:10] cock changed group perth to only be able to target !%brisbane
+[21:46:20] Binchicken: !LOGSS
+[21:46:34] Binchicken: !logs
+[21:46:35] cock changed group brisbane to only be able to target !%melbourne
+[21:47:18] cock changed group sydney to only be able to target !%ayssie
+[21:47:24] cock changed group melbourne to only be able to target !%sydney
+[21:49:32] balls<STEAM_0:0:497589869> spawned model models/props_interiors/radiator01a.mdl
+[21:49:41] Binchicken killed cock using prop_physics
+[21:49:49] Client "Wiselyd" connected.
+
+
+
+[21:50:31] New map: rp_downtown_tits_v2
+[21:50:49] Client "Binchicken" connected.
+[21:50:59] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 10 seconds).
+[21:51:22] Binchicken: !menu
+
+
+
+[21:51:58] New map: rp_downtown_tits_v2
+[21:52:16] Client "Al Shebab" connected.
+[21:52:29] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 13 seconds).
+
+
+
+[21:53:42] New map: rp_downtown_tits_v2
+[21:53:47] Client "Al Shebab" connected.
+[21:53:57] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 10 seconds).
+[21:53:58] Client "Binchicken" connected.
+[21:54:08] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 10 seconds).
+[21:54:44] Binchicken: !menu
+[21:55:17] Binchicken revoked access "ulx ungod" to group moderator
+[21:58:05] Binchicken: !menu
+[21:58:15] Binchicken granted access "ulx god" to group senior-moderator
+[21:58:30] Binchicken granted access "ulx ungod" to group senior-moderator
+[21:58:33] Binchicken granted access "ulx strip" to group senior-moderator
+[21:59:03] Client "Volcun" connected.
+[21:59:20] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 17 seconds).
+[22:00:32] cock: !blogs
+[22:00:40] cock: !logs
+[22:00:50] Binchicken granted access "ulx hp" to group administrator
+[22:01:00] Binchicken granted access "ulx armor" to group administrator
+
+
+
+[22:02:07] New map: rp_downtown_tits_v2
+[22:02:12] Client "Volcun" connected.
+[22:02:26] Client "Al Shebab" connected.
+[22:02:28] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 16 seconds).
+[22:02:37] Client "Binchicken" connected.
+[22:02:38] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 12 seconds).
+[22:02:47] balls: /rpname scott froml
+[22:02:48] balls<STEAM_0:0:497589869> changed their name to scott froml
+[22:02:52] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 15 seconds).
+[22:03:09] Dropped "cock" from server<STEAM_0:0:103364981>
+[22:03:17] Dropped "Binchicken" from server<STEAM_0:0:437291733>
+[22:03:27] Dropped "scott froml" from server<STEAM_0:0:497589869>
+[22:03:40] Client "Binchicken" connected.
+[22:03:53] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 13 seconds).
+[22:04:41] Client "Volcun" connected.
+[22:05:06] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 25 seconds).
+[22:06:55] Client "Al Shebab" connected.
+[22:07:11] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 16 seconds).
+[22:09:28] Server is shutting down/changing levels.
+
+
+
+[22:09:38] New map: rp_downtown_tits_v2
+[22:09:48] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 17 seconds).
+[22:09:48] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 17 seconds).
+[22:09:51] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 20 seconds).
+[22:10:18] cock: !logs
+[22:10:26] Binchicken: !loga
+[22:10:31] cock killed Binchicken using player
+[22:10:33] Binchicken: logs
+[22:10:42] Binchicken: !logs
+[22:10:51] Binchicken: !logs
+[22:11:18] scott froml: !logs
+[22:11:19] Binchicken: !logs
+[22:11:22] Binchicken: !menu
+[22:12:10] Binchicken: /rpname tri
+[22:12:10] Binchicken<STEAM_0:0:437291733> changed their name to tri
+[22:12:29] cock killed scott froml using player
+[22:12:32] scott froml<STEAM_0:0:497589869> spawned model models/props_c17/lampshade001a.mdl
+[22:12:38] tri: !logs
+[22:12:52] scott froml<STEAM_0:0:497589869> spawned model models/props_wasteland/laundry_basket001.mdl
+[22:13:30] cock killed scott froml using prop_physics
+[22:13:30] tri: !logs
+[22:13:32] scott froml: !logs
+[22:13:50] cock suicided!
+[22:14:16] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:16] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:16] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:16] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:16] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:17] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_stickynades
+[22:14:22] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[22:14:22] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[22:14:23] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[22:14:23] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_nervegas
+[22:14:24] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[22:14:24] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[22:14:24] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[22:14:25] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_ieds
+[22:14:26] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_frags
+[22:14:26] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_c4
+[22:14:26] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_c4
+[22:14:27] cock<STEAM_0:0:103364981> spawned sent m9k_ammo_c4
+[22:14:32] cock killed scott froml using m9k_ammo_ieds
+[22:14:32] cock killed tri using m9k_ammo_ieds
+[22:14:39] cock killed tri using m9k_released_poison
+[22:14:39] cock killed scott froml using m9k_released_poison
+[22:14:54] cock killed scott froml using m9k_released_poison
+[22:17:13] cock: /rpname Al Shebab
+[22:17:13] cock<STEAM_0:0:103364981> changed their name to Al Shebab
+[22:19:08] scott froml: /rpname binchicken
+[22:19:08] scott froml<STEAM_0:0:497589869> changed their name to binchicken
+[22:19:33] Al Shebab killed binchicken using m9k_m202_rocket
+[22:19:33] Al Shebab suicided!
+[22:20:21] tri killed binchicken using player
+[22:20:37] tri killed binchicken using player
+[22:20:45] tri killed binchicken using m9k_m202_rocket
+[22:21:13] binchicken killed tri using m9k_m202_rocket
+[22:21:23] tri killed binchicken using m9k_m202_rocket
+[22:21:40] tri killed binchicken using m9k_oribital_cannon
+[22:21:40] tri killed Al Shebab using m9k_oribital_cannon
+[22:21:50] tri suicided!
+[22:21:58] tri killed binchicken using m9k_davy_crockett_explo
+[22:21:58] tri suicided!
+[22:22:10] tri: !menu
+[22:22:17] binchicken suicided!
+[22:22:17] binchicken killed tri using m9k_davy_crockett_explo
+[22:22:17] tri granted god mode upon binchicken
+[22:22:24] binchicken killed tri using m9k_davy_crockett_explo
+[22:22:26] binchicken suicided!
+[22:22:35] tri: !menu
+[22:22:37] tri revoked god mode from binchicken
+[22:22:38] tri granted god mode upon Themself
+[22:23:07] binchicken suicided!
+[22:23:16] binchicken suicided!
+[22:24:26] binchicken: /rpname Volcia
+[22:24:26] binchicken<STEAM_0:0:497589869> changed their name to Volcia
+[22:24:26] Dropped "Volcia" from server<STEAM_0:0:497589869>
+[22:24:31] Client "Volcun" connected.
+[22:24:44] Client "Volcun" spawned in server <STEAM_0:0:497589869> (took 13 seconds).
+[22:25:52] tri killed Volcia using player
+[22:26:06] tri killed Volcia using player
+[22:26:14] tri killed Volcia using player
+[22:26:28] tri brought Volcia
+[22:26:28] tri froze Volcia
+[22:26:31] tri unfroze Volcia
+[22:26:31] tri returned Volcia to their original position
+[22:26:50] tri brought Volcia
+[22:26:50] tri froze Volcia
+[22:26:58] Dropped "Volcia" from server<STEAM_0:0:497589869>
+
+
+
+[22:37:19] New map: rp_downtown_tits_v2
+[22:37:20] Client "Binchicken" connected.
+[22:37:20] Client "Binchicken" connected.
+[22:37:20] Client "Binchicken" connected.
+[22:37:32] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 12 seconds).
+
+
+
+[22:42:44] New map: rp_downtown_tits_v2
+[22:42:45] Client "Binchicken" connected.
+[22:42:45] Client "Binchicken" connected.
+[22:42:45] Client "Binchicken" connected.
+[22:42:45] Client "Binchicken" connected.
+[22:42:51] Client "Al Shebab" connected.
+[22:42:55] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 10 seconds).
+[22:43:02] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 11 seconds).
+[22:43:40] Al Shebab gave $100000 to tri
+[22:43:40] Al Shebab: !givemoney tri 100000
+[22:44:15] Al Shebab was killed by zmlab_combiner
+[22:44:37] Al Shebab gave $100000 to Themself
+[22:44:37] Al Shebab: !givemoney ^ 100000
+[22:50:01] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:02] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:02] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:02] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:12] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth_baggy
+[22:50:13] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth_baggy
+[22:50:14] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth_baggy
+[22:50:14] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth_baggy
+[22:50:14] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth_baggy
+[22:50:21] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:21] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:22] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:22] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:22] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:23] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:23] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:24] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:50:38] tri suicided!
+[22:51:44] Al Shebab suicided!
+[22:51:54] tri killed Al Shebab using zmlab_collectcrate
+[22:52:22] tri killed Al Shebab using zmlab_meth
+[22:52:28] Al Shebab killed tri using zmlab_combiner
+[22:52:42] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_methbuyer
+[22:52:59] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_methdropoff
+[22:53:24] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_collectcrate
+[22:53:26] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:27] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:27] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:27] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:28] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:28] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:29] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:29] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:30] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:53:34] Al Shebab<STEAM_0:0:103364981> spawned sent zmlab_meth
+[22:54:14] tri killed Al Shebab using zmlab_meth
+[22:57:50] Client "Skii" connected.
+[22:59:35] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 105 seconds).
+[23:00:22] DJ Bread was killed by zmlab_combiner
+[23:01:02] DJ Bread suicided!
+[23:01:11] DJ Bread killed Al Shebab using zmlab_combiner
+[23:02:51] tri: /rpname binchicken
+[23:02:51] tri<STEAM_0:0:437291733> changed their name to binchicken
+[23:03:04] DJ Bread killed binchicken using m9k_launched_m79
+[23:03:04] DJ Bread suicided!
+[23:04:14] DJ Bread suicided!
+[23:04:22] DJ Bread suicided!
+[23:04:28] DJ Bread suicided!
+[23:04:43] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:04:48] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_methbuyer
+[23:04:52] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_meth
+[23:04:55] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_collectcrate
+[23:04:59] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_meth
+[23:05:01] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_meth
+[23:05:03] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_meth
+[23:05:04] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_meth
+[23:05:04] DJ Bread<STEAM_0:0:579690494> spawned sent zmlab_meth
+[23:05:04] binchicken killed DJ Bread using zmlab_meth
+[23:05:18] binchicken: !menu
+[23:05:27] binchicken revoked god mode from Themself
+[23:05:39] DJ Bread killed binchicken using m9k_gdcwa_rpg_heat
+[23:05:45] DJ Bread suicided!
+[23:05:59] DJ Bread killed binchicken using m9k_thrown_knife
+[23:07:44] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:07:47] DJ Bread killed binchicken using player
+[23:07:51] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:08:19] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[23:08:39] binchicken killed DJ Bread using prop_physics
+[23:08:55] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[23:09:02] DJ Bread killed binchicken using prop_physics
+[23:09:09] DJ Bread suicided!
+[23:09:38] DJ Bread killed binchicken using prop_physics
+[23:10:42] DJ Bread killed binchicken using player
+[23:11:28] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:28] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:29] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:29] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:29] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:29] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:29] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:30] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:30] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:30] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:11:38] DJ Bread killed binchicken using player
+[23:12:07] DJ Bread killed binchicken using player
+[23:12:22] binchicken killed DJ Bread using player
+[23:12:33] binchicken killed DJ Bread using player
+[23:12:36] DJ Bread killed binchicken using player
+[23:12:51] DJ Bread killed binchicken using player
+[23:13:08] binchicken killed DJ Bread using player
+[23:13:22] DJ Bread killed binchicken using rpg_missile
+[23:13:25] DJ Bread suicided!
+[23:13:34] DJ Bread killed binchicken using player
+[23:13:58] DJ Bread killed binchicken using player
+[23:14:09] DJ Bread killed binchicken using player
+[23:14:22] DJ Bread killed binchicken using player
+[23:14:29] DJ Bread killed binchicken using m9k_davy_crockett_explo
+[23:14:29] DJ Bread suicided!
+[23:14:29] DJ Bread killed Al Shebab using m9k_davy_crockett_explo
+[23:14:33] binchicken: !menu
+[23:14:36] binchicken granted god mode upon Themself
+[23:14:44] DJ Bread killed binchicken using m9k_gdcwa_rpg_heat
+[23:14:52] DJ Bread suicided!
+[23:14:52] DJ Bread killed binchicken using m9k_released_poison
+[23:15:00] DJ Bread suicided!
+[23:15:00] DJ Bread killed binchicken using m9k_released_poison
+[23:15:24] DJ Bread killed binchicken using m9k_improvised_explosive
+[23:15:24] DJ Bread suicided!
+[23:16:08] DJ Bread killed binchicken using crossbow_bolt
+[23:16:09] DJ Bread was killed by npc_manhack
+[23:17:11] DJ Bread killed binchicken using stunstick
+[23:17:33] DJ Bread suicided!
+[23:17:33] DJ Bread killed binchicken using npc_grenade_frag
+[23:17:57] DJ Bread<STEAM_0:0:579690494> spawned sent m9k_ammo_nuke
+[23:17:59] DJ Bread suicided!
+[23:18:08] DJ Bread killed binchicken using m9k_davy_crockett_explo
+[23:18:17] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:17] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:17] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:17] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:17] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:18] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:18] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:18] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:18] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:18] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:19] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:19] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:19] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:19] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:24] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:25] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:25] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:25] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:25] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:26] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:27] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:27] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:29] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:18:30] DJ Bread<STEAM_0:0:579690494> spawned sent sent_ball
+[23:19:11] DJ Bread<STEAM_0:0:579690494> spawned model models/props_vehicles/van001a_physics.mdl
+[23:19:23] DJ Bread<STEAM_0:0:579690494> spawned model models/combine_helicopter.mdl
+[23:19:28] DJ Bread suicided!
+[23:19:42] DJ Bread: !menu
+[23:19:54] DJ Bread ragdolled binchicken
+[23:20:01] binchicken: !menu
+[23:20:18] binchicken: !menu
+[23:20:18] DJ Bread: !menu
+[23:20:20] DJ Bread unragdolled binchicken
+[23:20:23] binchicken cloaked Themself by amount 0
+[23:20:30] binchicken: !menu
+[23:20:34] binchicken uncloaked Themself
+[23:20:36] DJ Bread whipped binchicken 22 times with 0 damage
+[23:20:51] binchicken: !menu
+[23:20:53] DJ Bread: !menu
+[23:20:56] binchicken ignited Themself for 300 seconds
+[23:20:57] binchicken was killed by entityflame
+[23:21:01] binchicken: !menu
+[23:21:01] DJ Bread gave $10000 to binchicken
+[23:21:03] DJ Bread gave $10000 to binchicken
+[23:21:03] DJ Bread gave $10000 to binchicken
+[23:21:04] DJ Bread gave $10000 to binchicken
+[23:21:04] DJ Bread gave $10000 to binchicken
+[23:21:04] DJ Bread gave $10000 to binchicken
+[23:21:07] DJ Bread gave $10000 to Themself
+[23:21:07] DJ Bread gave $10000 to Themself
+[23:21:08] DJ Bread gave $10000 to Themself
+[23:21:08] DJ Bread gave $10000 to Themself
+[23:21:08] DJ Bread gave $10000 to Themself
+[23:21:09] DJ Bread gave $10000 to Themself
+[23:21:09] DJ Bread gave $10000 to Themself
+[23:21:09] DJ Bread gave $10000 to Themself
+[23:21:10] DJ Bread gave $10000 to Themself
+[23:21:11] DJ Bread gave $10000 to Themself
+[23:21:27] binchicken killed DJ Bread using prop_physics
+[23:21:28] binchicken suicided!
+[23:21:29] DJ Bread took $100000 from binchicken
+[23:21:32] DJ Bread took $916 from binchicken
+[23:21:32] DJ Bread took $916 from binchicken
+[23:21:32] DJ Bread took $916 from binchicken
+[23:21:37] DJ Bread teleported to binchicken
+[23:21:41] DJ Bread killed binchicken using prop_physics
+[23:21:52] DJ Bread: !menu
+[23:21:59] DJ Bread gave $100000 to binchicken
+[23:22:00] DJ Bread gave $100000 to binchicken
+[23:22:00] DJ Bread gave $100000 to binchicken
+[23:22:00] DJ Bread gave $100000 to binchicken
+[23:22:01] DJ Bread gave $100000 to binchicken
+[23:22:01] DJ Bread gave $100000 to binchicken
+[23:22:01] DJ Bread gave $100000 to binchicken
+[23:22:02] DJ Bread gave $100000 to binchicken
+[23:22:15] DJ Bread: !menu
+[23:22:31] DJ Bread: !menu
+[23:22:44] Copied IP Address of binchicken
+[23:23:11] DJ Bread set the walk speed for binchicken to 4026
+[23:23:15] DJ Bread set the walk speed for binchicken to 4026 and the run speed to 14416
+[23:23:17] DJ Bread set the walk speed for binchicken to 4026
+[23:23:19] DJ Bread reset the walk and run speed for binchicken
+[23:23:25] DJ Bread: !menu
+[23:23:28] DJ Bread set the run speed for binchicken to 5584
+[23:23:30] DJ Bread set the run speed for Themself to 8961
+[23:23:39] DJ Bread: !menu
+[23:23:41] DJ Bread reset the walk and run speed for Themself
+[23:23:46] DJ Bread reset the walk and run speed for binchicken
+[23:23:50] DJ Bread stripped weapons from binchicken
+[23:23:56] DJ Bread mauled Themself
+[23:24:02] DJ Bread suicided!
+[23:24:03] binchicken suicided!
+[23:24:15] DJ Bread suicided!
+[23:24:18] binchicken: !menu
+[23:24:26] binchicken mauled Themself
+[23:24:36] DJ Bread killed binchicken using rpg_missile
+[23:24:46] binchicken killed DJ Bread using prop_physics
+[23:25:02] binchicken suicided!
+[23:25:13] DJ Bread killed binchicken using prop_physics
+[23:25:33] binchicken<STEAM_0:0:437291733> spawned model models/props_combine/breenchair.mdl
+[23:25:45] binchicken killed DJ Bread using prop_physics
+[23:26:29] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/wheels/monster_truck.mdl
+[23:26:29] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/fence03a.mdl
+[23:26:36] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/fence03a.mdl
+[23:26:45] DJ Bread suicided!
+[23:26:55] binchicken killed DJ Bread using prop_physics
+[23:27:02] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/wheels/trucktire.mdl
+[23:27:09] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3_s2.mdl
+[23:27:14] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3.mdl
+[23:27:16] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3_s3.mdl
+[23:27:17] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3_s4.mdl
+[23:27:18] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3_s5.mdl
+[23:27:25] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/trains/fsd-overrun.mdl
+[23:27:41] binchicken killed DJ Bread using prop_physics
+[23:27:53] DJ Bread<STEAM_0:0:579690494> spawned model models/balloons/balloon_dog.mdl
+[23:28:01] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/furniture_couch01a.mdl
+[23:28:10] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/furniture_couch01a.mdl
+[23:28:12] DJ Bread killed binchicken using prop_physics
+[23:28:18] Dropped "DJ Bread" from server<STEAM_0:0:579690494>
+[23:28:28] Dropped "binchicken" from server<STEAM_0:0:437291733>
+<Logging continued in "data/ulx_logs/07-10-22.txt">

@@ -1,0 +1,275 @@
+Sat Jul  9 22:42:55 2022	Binchicken (STEAM_0:0:437291733) has joined the game
+Sat Jul  9 22:42:55 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:43:02 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sat Jul  9 22:43:02 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:43:40 2022	Al Shebab (STEAM_0:0:103364981): !givemoney tri 100000
+Sat Jul  9 22:44:15 2022	Al Shebab was killed by Entity [1351][zmlab_combiner] with a zmlab_combiner
+Sat Jul  9 22:44:17 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:44:37 2022	Al Shebab (STEAM_0:0:103364981): !givemoney ^ 100000
+Sat Jul  9 22:50:01 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:02 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:02 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:02 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:12 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth_baggy
+Sat Jul  9 22:50:13 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth_baggy
+Sat Jul  9 22:50:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth_baggy
+Sat Jul  9 22:50:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth_baggy
+Sat Jul  9 22:50:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth_baggy
+Sat Jul  9 22:50:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:50:38 2022	tri was killed by Himself with a suicide trick
+Sat Jul  9 22:50:40 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:51:44 2022	Al Shebab was killed by Himself with a suicide trick
+Sat Jul  9 22:51:45 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:51:54 2022	Al Shebab was killed by tri with a zmlab_collectcrate
+Sat Jul  9 22:51:55 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:52:22 2022	Al Shebab was killed by tri with a zmlab_meth
+Sat Jul  9 22:52:23 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:52:28 2022	tri was killed by Al Shebab with a zmlab_combiner
+Sat Jul  9 22:52:29 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:52:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_methbuyer
+Sat Jul  9 22:52:59 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_methdropoff
+Sat Jul  9 22:53:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_collectcrate
+Sat Jul  9 22:53:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:29 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:29 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:30 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:53:34 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT zmlab_meth
+Sat Jul  9 22:54:14 2022	Al Shebab was killed by tri with a zmlab_meth
+Sat Jul  9 22:54:15 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:59:35 2022	Skii (STEAM_0:0:579690494) has joined the game
+Sat Jul  9 22:59:35 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:00:22 2022	DJ Bread was killed by Entity [1351][zmlab_combiner] with a zmlab_combiner
+Sat Jul  9 23:00:24 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:01:02 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:01:03 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:01:11 2022	Al Shebab was killed by DJ Bread with a zmlab_combiner
+Sat Jul  9 23:02:00 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 23:02:13 2022	Al Shebab (STEAM_0:0:103364981): 
+Sat Jul  9 23:02:18 2022	Al Shebab (STEAM_0:0:103364981): 
+Sat Jul  9 23:02:21 2022	DJ Bread (STEAM_0:0:579690494): 
+Sat Jul  9 23:02:29 2022	tri (STEAM_0:0:437291733): 
+Sat Jul  9 23:02:51 2022	tri (STEAM_0:0:437291733): /rpname binchicken
+Sat Jul  9 23:03:04 2022	binchicken was killed by DJ Bread with a m9k_launched_m79
+Sat Jul  9 23:03:04 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:03:06 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:03:58 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:04:14 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:04:17 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:04:22 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:04:23 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:04:28 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:04:30 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:04:43 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:04:48 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_methbuyer
+Sat Jul  9 23:04:52 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_meth
+Sat Jul  9 23:04:55 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_collectcrate
+Sat Jul  9 23:04:59 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_meth
+Sat Jul  9 23:05:01 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_meth
+Sat Jul  9 23:05:03 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_meth
+Sat Jul  9 23:05:04 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_meth
+Sat Jul  9 23:05:04 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT zmlab_meth
+Sat Jul  9 23:05:04 2022	DJ Bread was killed by binchicken with a zmlab_meth
+Sat Jul  9 23:05:06 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:05:18 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:05:39 2022	binchicken was killed by DJ Bread with a m9k_gdcwa_rpg_heat
+Sat Jul  9 23:05:42 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:05:45 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:05:53 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:05:59 2022	binchicken was killed by DJ Bread with a m9k_thrown_knife
+Sat Jul  9 23:06:03 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:07:47 2022	binchicken was killed by DJ Bread with a m9k_remington7615p
+Sat Jul  9 23:07:48 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:08:39 2022	DJ Bread was killed by binchicken with a prop_physics
+Sat Jul  9 23:08:42 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:09:02 2022	binchicken was killed by DJ Bread with a prop_physics
+Sat Jul  9 23:09:04 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:09:09 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:09:11 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:09:38 2022	binchicken was killed by DJ Bread with a prop_physics
+Sat Jul  9 23:09:39 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:10:42 2022	binchicken was killed by DJ Bread with a m9k_mossberg590
+Sat Jul  9 23:10:43 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:11:38 2022	binchicken was killed by DJ Bread with a m9k_winchester73
+Sat Jul  9 23:11:39 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:12:07 2022	binchicken was killed by DJ Bread with a m9k_winchester73
+Sat Jul  9 23:12:08 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:12:22 2022	DJ Bread was killed by binchicken with a m9k_tar21
+Sat Jul  9 23:12:24 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:12:33 2022	DJ Bread was killed by binchicken with a m9k_tar21
+Sat Jul  9 23:12:34 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:12:36 2022	binchicken was killed by DJ Bread with a m9k_val
+Sat Jul  9 23:12:37 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:12:51 2022	binchicken was killed by DJ Bread with a m9k_deagle
+Sat Jul  9 23:12:52 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:13:08 2022	DJ Bread was killed by binchicken with a m9k_glock
+Sat Jul  9 23:13:15 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:13:22 2022	binchicken was killed by DJ Bread with a rpg_missile
+Sat Jul  9 23:13:23 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:13:25 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:13:31 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:13:34 2022	binchicken was killed by DJ Bread with a m9k_1897winchester
+Sat Jul  9 23:13:35 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:13:58 2022	binchicken was killed by DJ Bread with a m9k_1897winchester
+Sat Jul  9 23:14:00 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:14:09 2022	binchicken was killed by DJ Bread with a m9k_1897winchester
+Sat Jul  9 23:14:10 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:14:22 2022	binchicken was killed by DJ Bread with a m9k_ithacam37
+Sat Jul  9 23:14:23 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:14:29 2022	binchicken was killed by DJ Bread with a m9k_davy_crockett_explo
+Sat Jul  9 23:14:29 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:14:29 2022	Al Shebab was killed by DJ Bread with a m9k_davy_crockett_explo
+Sat Jul  9 23:14:32 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:14:33 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:14:36 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:14:44 2022	binchicken was killed by DJ Bread with a m9k_gdcwa_rpg_heat
+Sat Jul  9 23:14:45 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:14:52 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:14:52 2022	binchicken was killed by DJ Bread with a m9k_released_poison
+Sat Jul  9 23:14:53 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:14:55 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:15:00 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:15:00 2022	binchicken was killed by DJ Bread with a m9k_released_poison
+Sat Jul  9 23:15:01 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:15:02 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:15:24 2022	binchicken was killed by DJ Bread with a m9k_improvised_explosive
+Sat Jul  9 23:15:24 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:15:25 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:15:27 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:16:08 2022	binchicken was killed by DJ Bread with a crossbow_bolt
+Sat Jul  9 23:16:09 2022	DJ Bread was killed by NPC [300][npc_manhack] with a npc_manhack
+Sat Jul  9 23:16:09 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:16:10 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:17:11 2022	binchicken was killed by DJ Bread with a stunstick
+Sat Jul  9 23:17:13 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:17:33 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:17:33 2022	binchicken was killed by DJ Bread with a npc_grenade_frag
+Sat Jul  9 23:17:34 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:17:35 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:17:57 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nuke
+Sat Jul  9 23:17:59 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:18:08 2022	binchicken was killed by DJ Bread with a m9k_davy_crockett_explo
+Sat Jul  9 23:18:08 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:18:17 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:17 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:17 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:17 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:17 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:24 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:25 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:25 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:25 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:25 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:26 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:27 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:27 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:28 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:18:29 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:18:30 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT sent_ball
+Sat Jul  9 23:19:28 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:19:29 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:19:39 2022	binchicken was killed by Entity [0][worldspawn] with a unknown
+Sat Jul  9 23:19:40 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:19:42 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:20:01 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:20:18 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:20:18 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:20:20 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:20:30 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:20:51 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:20:53 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:20:57 2022	binchicken was killed by Entity [170][entityflame] with a entityflame
+Sat Jul  9 23:21:00 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:21:01 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:21:27 2022	DJ Bread was killed by binchicken with a prop_physics
+Sat Jul  9 23:21:28 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 23:21:30 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:21:34 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:21:41 2022	binchicken was killed by DJ Bread with a prop_physics
+Sat Jul  9 23:21:42 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:21:52 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:22:15 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:22:31 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:23:25 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:23:39 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sat Jul  9 23:24:02 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:24:03 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 23:24:05 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:24:15 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:24:18 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:24:18 2022	binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 23:24:36 2022	binchicken was killed by DJ Bread with a rpg_missile
+Sat Jul  9 23:24:38 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:24:46 2022	DJ Bread was killed by binchicken with a prop_physics
+Sat Jul  9 23:25:02 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 23:25:03 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:25:04 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:25:13 2022	binchicken was killed by DJ Bread with a prop_physics
+Sat Jul  9 23:25:15 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:25:45 2022	DJ Bread was killed by binchicken with a prop_physics
+Sat Jul  9 23:25:48 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:26:45 2022	DJ Bread was killed by Himself with a suicide trick
+Sat Jul  9 23:26:48 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:26:55 2022	DJ Bread was killed by binchicken with a prop_physics
+Sat Jul  9 23:27:07 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:27:29 2022	DJ Bread was killed by Entity [0][worldspawn] with a unknown
+Sat Jul  9 23:27:30 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:27:41 2022	DJ Bread was killed by binchicken with a prop_physics
+Sat Jul  9 23:27:44 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Sat Jul  9 23:28:12 2022	binchicken was killed by DJ Bread with a prop_physics
+Sat Jul  9 23:28:13 2022	binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 23:28:18 2022	DJ Bread (STEAM_0:0:579690494) disconnected
+Sat Jul  9 23:28:28 2022	binchicken (STEAM_0:0:437291733) disconnected
+Sun Jul 10 00:22:29 2022	bazinga (STEAM_0:1:184663403) has joined the game
+Sun Jul 10 00:22:29 2022	bazinga (STEAM_0:1:184663403) spawned
+Sun Jul 10 00:24:20 2022	bazinga (STEAM_0:1:184663403) disconnected
+Sun Jul 10 00:32:26 2022	Binchicken (STEAM_0:0:437291733) has joined the game
+Sun Jul 10 00:32:26 2022	binchicken (STEAM_0:0:437291733) spawned
+Sun Jul 10 00:35:04 2022	binchicken was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 10 00:35:05 2022	binchicken (STEAM_0:0:437291733) spawned
+Sun Jul 10 00:49:05 2022	binchicken (STEAM_0:0:437291733) disconnected
+Sun Jul 10 02:24:08 2022	Binchicken (STEAM_0:0:437291733) has joined the game
+Sun Jul 10 02:24:08 2022	binchicken (STEAM_0:0:437291733) spawned
+Sun Jul 10 02:24:31 2022	binchicken (STEAM_0:0:437291733): !menu
+Sun Jul 10 03:07:07 2022	binchicken (STEAM_0:0:437291733): /drop
+Sun Jul 10 03:10:40 2022	binchicken (STEAM_0:0:437291733) disconnected
+Sun Jul 10 06:03:43 2022	itaypanda (STEAM_0:0:523288071) has joined the game
+Sun Jul 10 06:03:43 2022	itaypanda (STEAM_0:0:523288071) spawned
+Sun Jul 10 06:05:34 2022	itaypanda (STEAM_0:0:523288071) disconnected
+Sun Jul 10 11:05:06 2022	Sanco (STEAM_0:1:513554718) has joined the game
+Sun Jul 10 11:05:06 2022	Sanco (STEAM_0:1:513554718) spawned
+Sun Jul 10 11:06:11 2022	Sanco (STEAM_0:1:513554718): sir 
+Sun Jul 10 11:06:18 2022	Sanco (STEAM_0:1:513554718): are you the owner
+Sun Jul 10 11:07:55 2022	Sanco (STEAM_0:1:513554718): SIR
+Sun Jul 10 11:07:58 2022	Sanco (STEAM_0:1:513554718): SIRRRRRRRRRRRRRRRR
+Sun Jul 10 11:08:02 2022	Sanco (STEAM_0:1:513554718): TP ME TO YOZU
+Sun Jul 10 11:08:07 2022	Sanco (STEAM_0:1:513554718): I HAVE QUESTIONS
+Sun Jul 10 11:12:31 2022	Sanco (STEAM_0:1:513554718) disconnected
+Sun Jul 10 11:57:26 2022	Al Shebab (STEAM_0:0:103364981) spawned

@@ -16,12 +16,50 @@ https://darkrp.miraheze.org/wiki/DarkRP:CustomJobFields
 Add your custom jobs under the following line:
 ---------------------------------------------------------------------------]]
 
+CIVILIAN = DarkRP.createJob("Civilian", {
+    color = Color(255, 82, 82),
+    model = {
+        "models/player/Group01/male_03.mdl",
+        "models/player/Group01/female_03.mdl",
+        "models/player/Group01/female_05.mdl",
+        "models/player/Group01/male_01.mdl"
+    },
+    description = [[  ]],
+    weapons = {},
+    command = "civilian",
+    max = 0,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Civilians",
+    canDemote = false,
+})
+
+METH_COOK = DarkRP.createJob("Meth Cook", {
+    color = Color(255, 82, 82),
+    model = "models/fearless/chef1.mdl",
+    description = [[
+        Meth Cook?
+    ]],
+    weapons = {
+        "zmlab_extractor"
+    },
+    command = "methcook",
+    max = 4,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Manufacturing",
+    canDemote = false,
+})
 
 
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
-GAMEMODE.DefaultTeam = TEAM_CITIZEN
+GAMEMODE.DefaultTeam = CIVILIAN
 --[[---------------------------------------------------------------------------
 Define which teams belong to civil protection
 Civil protection can set warrants, make people wanted and do some other police related things

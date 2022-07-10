@@ -1,0 +1,22 @@
+"UserLocalConfigStore"
+{
+	"Depots"
+	{
+		"4000"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1657972296"
+				}
+				"f3b7q2p3.ssl.hwcdn.net"
+				{
+					"token"		""
+					"Expires"		"1658025402"
+				}
+			}
+		}
+	}
+}

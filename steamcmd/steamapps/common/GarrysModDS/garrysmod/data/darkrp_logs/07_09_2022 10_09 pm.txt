@@ -1,0 +1,118 @@
+Sat Jul  9 22:09:48 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Sat Jul  9 22:09:48 2022	cock (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:09:48 2022	Binchicken (STEAM_0:0:437291733) has joined the game
+Sat Jul  9 22:09:48 2022	Binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:09:51 2022	Volcun (STEAM_0:0:497589869) has joined the game
+Sat Jul  9 22:09:51 2022	scott froml (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:10:18 2022	cock (STEAM_0:0:103364981): !logs
+Sat Jul  9 22:10:19 2022	cock (STEAM_0:0:103364981): 
+Sat Jul  9 22:10:26 2022	Binchicken (STEAM_0:0:437291733): !loga
+Sat Jul  9 22:10:31 2022	Binchicken was killed by cock with a m9k_winchester73
+Sat Jul  9 22:10:33 2022	Binchicken (STEAM_0:0:437291733): logs
+Sat Jul  9 22:10:42 2022	Binchicken (STEAM_0:0:437291733): !logs
+Sat Jul  9 22:10:51 2022	Binchicken (STEAM_0:0:437291733): !logs
+Sat Jul  9 22:10:53 2022	cock (STEAM_0:0:103364981): 
+Sat Jul  9 22:11:14 2022	Binchicken (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:11:18 2022	scott froml (STEAM_0:0:497589869): !logs
+Sat Jul  9 22:11:19 2022	Binchicken (STEAM_0:0:437291733): !logs
+Sat Jul  9 22:11:22 2022	Binchicken (STEAM_0:0:437291733): !menu
+Sat Jul  9 22:12:07 2022	scott froml (STEAM_0:0:497589869): 
+Sat Jul  9 22:12:10 2022	Binchicken (STEAM_0:0:437291733): /rpname tri
+Sat Jul  9 22:12:29 2022	scott froml was killed by cock with a m9k_winchester73
+Sat Jul  9 22:12:30 2022	scott froml (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:12:33 2022	cock (STEAM_0:0:103364981): 
+Sat Jul  9 22:12:38 2022	tri (STEAM_0:0:437291733): !logs
+Sat Jul  9 22:13:30 2022	scott froml was killed by cock with a prop_physics
+Sat Jul  9 22:13:30 2022	tri (STEAM_0:0:437291733): !logs
+Sat Jul  9 22:13:32 2022	scott froml (STEAM_0:0:497589869): !logs
+Sat Jul  9 22:13:34 2022	scott froml (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:13:40 2022	tri (STEAM_0:0:437291733): 
+Sat Jul  9 22:13:43 2022	scott froml (STEAM_0:0:497589869): 
+Sat Jul  9 22:13:50 2022	cock was killed by Himself with a suicide trick
+Sat Jul  9 22:13:56 2022	cock (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:14:16 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:16 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:16 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:16 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:16 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:17 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Sat Jul  9 22:14:22 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_nervegas
+Sat Jul  9 22:14:22 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_nervegas
+Sat Jul  9 22:14:23 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_nervegas
+Sat Jul  9 22:14:23 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_nervegas
+Sat Jul  9 22:14:24 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_ieds
+Sat Jul  9 22:14:24 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_ieds
+Sat Jul  9 22:14:25 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_ieds
+Sat Jul  9 22:14:25 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_ieds
+Sat Jul  9 22:14:26 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_frags
+Sat Jul  9 22:14:26 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Sat Jul  9 22:14:26 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Sat Jul  9 22:14:27 2022	cock (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Sat Jul  9 22:14:32 2022	scott froml was killed by cock with a m9k_ammo_ieds
+Sat Jul  9 22:14:32 2022	tri was killed by cock with a m9k_ammo_ieds
+Sat Jul  9 22:14:34 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:14:34 2022	scott froml (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:14:39 2022	tri was killed by cock with a m9k_released_poison
+Sat Jul  9 22:14:39 2022	scott froml was killed by cock with a m9k_released_poison
+Sat Jul  9 22:14:40 2022	scott froml (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:14:54 2022	scott froml was killed by cock with a m9k_released_poison
+Sat Jul  9 22:14:56 2022	scott froml (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:16:25 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:17:13 2022	cock (STEAM_0:0:103364981): /rpname Al Shebab
+Sat Jul  9 22:17:14 2022	tri (STEAM_0:0:437291733): 
+Sat Jul  9 22:19:08 2022	scott froml (STEAM_0:0:497589869): /rpname binchicken
+Sat Jul  9 22:19:33 2022	binchicken was killed by Al Shebab with a m9k_m202_rocket
+Sat Jul  9 22:19:33 2022	Al Shebab was killed by Himself with a suicide trick
+Sat Jul  9 22:19:34 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:19:36 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:20:21 2022	binchicken was killed by tri with a m9k_ak47
+Sat Jul  9 22:20:22 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:20:37 2022	binchicken was killed by tri with a m9k_ak47
+Sat Jul  9 22:20:38 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:20:45 2022	binchicken was killed by tri with a m9k_m202_rocket
+Sat Jul  9 22:20:46 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:21:13 2022	tri was killed by binchicken with a m9k_m202_rocket
+Sat Jul  9 22:21:15 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:21:23 2022	binchicken was killed by tri with a m9k_m202_rocket
+Sat Jul  9 22:21:24 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:21:40 2022	binchicken was killed by tri with a m9k_oribital_cannon
+Sat Jul  9 22:21:40 2022	Al Shebab was killed by tri with a m9k_oribital_cannon
+Sat Jul  9 22:21:42 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:21:46 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Sat Jul  9 22:21:50 2022	tri was killed by Himself with a suicide trick
+Sat Jul  9 22:21:51 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:21:58 2022	binchicken was killed by tri with a m9k_davy_crockett_explo
+Sat Jul  9 22:21:58 2022	tri was killed by Himself with a suicide trick
+Sat Jul  9 22:22:01 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:22:02 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:22:10 2022	tri (STEAM_0:0:437291733): !menu
+Sat Jul  9 22:22:17 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 22:22:17 2022	tri was killed by binchicken with a m9k_davy_crockett_explo
+Sat Jul  9 22:22:19 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:22:21 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:22:24 2022	tri was killed by binchicken with a m9k_davy_crockett_explo
+Sat Jul  9 22:22:26 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 22:22:28 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:22:28 2022	tri (STEAM_0:0:437291733) spawned
+Sat Jul  9 22:22:35 2022	tri (STEAM_0:0:437291733): !menu
+Sat Jul  9 22:23:07 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 22:23:11 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:23:16 2022	binchicken was killed by Himself with a suicide trick
+Sat Jul  9 22:23:18 2022	binchicken (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:24:26 2022	binchicken (STEAM_0:0:497589869): /rpname Volcia
+Sat Jul  9 22:24:26 2022	Volcia (STEAM_0:0:497589869) disconnected
+Sat Jul  9 22:24:44 2022	Volcun (STEAM_0:0:497589869) has joined the game
+Sat Jul  9 22:24:44 2022	Volcia (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:25:52 2022	Volcia was killed by tri with a weapon_glock2
+Sat Jul  9 22:25:54 2022	Volcia (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:26:06 2022	Volcia was killed by tri with a weapon_glock2
+Sat Jul  9 22:26:07 2022	Volcia (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:26:14 2022	Volcia was killed by tri with a weapon_glock2
+Sat Jul  9 22:26:16 2022	Volcia (STEAM_0:0:497589869) spawned
+Sat Jul  9 22:26:58 2022	Volcia (STEAM_0:0:497589869) disconnected

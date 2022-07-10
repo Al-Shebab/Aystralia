@@ -153,8 +153,14 @@ Configuration.CustomUserTag["STEAM_0:0:1"]       = { Tag = "Custom Input", TagCo
 -- Configuration.RankDisplay["rank"]         = { DisplayName = "Display name you want to see", TagName = "This is the tag name that will show if the player does not have a custom tag", DisplayColor = Color( R,G,B ), TagColor = Color( R,G,B ) }
 
 Configuration.RankDisplay = {}
-Configuration.RankDisplay["user"]           = { DisplayName = "Member", TagName = "", DisplayColor = Color( 93,24,255 ), TagColor = Color( 121,122,123 ) }
-Configuration.RankDisplay["superadmin"]     = { DisplayName = "Community Manager", TagName = "", DisplayColor = Color( 0,0,0 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["user"]           = { DisplayName = "Member", TagName = "User", DisplayColor = Color( 93,24,255 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["trial-moderator"]     = { DisplayName = "Trial Moderator", TagName = "Staff Member", DisplayColor = Color( 212,255,87 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["moderator"]     = { DisplayName = "Moderator", TagName = "Staff Member", DisplayColor = Color( 246,255,31 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["senior-moderator"]     = { DisplayName = "Senior Moderator", TagName = "Staff Member", DisplayColor = Color( 255,151,59 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["administrator"]     = { DisplayName = "Administrator", TagName = "Staff Member", DisplayColor = Color( 255,65,65 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["senior-administrator"]     = { DisplayName = "Senior Administrator", TagName = "Staff Member", DisplayColor = Color( 255,79,79 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["staff-manager"]     = { DisplayName = "Staff Manager", TagName = "Staff Member", DisplayColor = Color( 255,174,174 ), TagColor = Color( 121,122,123 ) }
+Configuration.RankDisplay["superadmin"]     = { DisplayName = "Community Manager", TagName = "Staff Member", DisplayColor = Color( 255,255,255 ), TagColor = Color( 121,122,123 ) }
 
 
 
@@ -164,7 +170,7 @@ Configuration.RankDisplay["superadmin"]     = { DisplayName = "Community Manager
 Configuration.PropAccess            = {"superadmin"}
 
 -- Who can see the administrative buttons
-Configuration.MenuAccess            = { "Moderator", "admin", "superadmin", "Owner" }
+Configuration.MenuAccess            = { "trial-moderator", "moderator", "senior-moderator", "administrator", "senior-administrator", "staff-manager", "superadmin" }
 
 -- Allow precise control for commands, if true then set the tables below to what ranks have access otherwise Configuration.MenuAccess determines allowed ranks.
 Configuration.SeperateAccess        = false

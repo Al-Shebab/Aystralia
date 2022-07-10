@@ -1,0 +1,275 @@
+<Logging continued from "data/ulx_logs/07-09-22.txt">
+[00:20:25] Client "bazinga" connected.
+[00:22:29] Client "bazinga" spawned in server <STEAM_0:1:184663403> (took 124 seconds).
+[00:24:20] Dropped "bazinga" from server<STEAM_0:1:184663403>
+[00:32:12] Client "Binchicken" connected.
+[00:32:26] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 14 seconds).
+[00:49:05] Dropped "binchicken" from server<STEAM_0:0:437291733>
+[02:23:54] Client "Binchicken" connected.
+[02:24:08] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 14 seconds).
+[02:24:31] binchicken: !menu
+[02:40:34] binchicken<STEAM_0:0:437291733> spawned model models/props_c17/metalladder003.mdl
+[02:41:14] binchicken<STEAM_0:0:437291733> spawned model models/hunter/plates/plate.mdl
+[03:07:07] binchicken: /drop
+[03:10:40] Dropped "binchicken" from server<STEAM_0:0:437291733>
+[06:03:07] Client "itaypanda" connected.
+[06:03:43] Client "itaypanda" spawned in server <STEAM_0:0:523288071> (took 36 seconds).
+[06:05:34] Dropped "itaypanda" from server<STEAM_0:0:523288071>
+[11:04:32] Client "Sanco" connected.
+[11:05:06] Client "Sanco" spawned in server <STEAM_0:1:513554718> (took 34 seconds).
+[11:06:11] Sanco: sir 
+[11:06:18] Sanco: are you the owner
+[11:07:55] (TEAM) Sanco: SIR
+[11:07:58] Sanco: SIRRRRRRRRRRRRRRRR
+[11:08:02] Sanco: TP ME TO YOZU
+[11:08:07] Sanco: I HAVE QUESTIONS
+[11:12:31] Dropped "Sanco" from server<STEAM_0:1:513554718>
+
+
+
+[12:11:22] New map: rp_downtown_tits_v2
+[12:14:50] Client "Skii" connected.
+[12:16:37] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 107 seconds).
+
+
+
+[12:23:48] New map: rp_downtown_tits_v2
+[12:23:48] Client "Skii" connected.
+[12:23:48] Client "Skii" connected.
+[12:23:48] Client "Skii" connected.
+[12:24:11] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 23 seconds).
+[12:24:31] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furniturewashingmachine001a.mdl
+
+
+
+[12:25:01] New map: rp_downtown_tits_v2
+[12:25:02] Client "Skii" connected.
+[12:25:02] Client "Skii" connected.
+[12:25:02] Client "Skii" connected.
+[12:25:06] Client "Al Shebab" connected.
+[12:25:20] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 14 seconds).
+[12:25:25] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 23 seconds).
+[12:26:49] DJ Bread: nigward
+[12:28:29] Client "widepeeked" connected.
+[12:29:37] Al Shebab killed DJ Bread using player
+[12:29:44] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 75 seconds).
+[12:30:44] DJ Bread suicided!
+[12:30:59] widepeeked: !workshop
+[12:31:00] DJ Bread: n word
+[12:33:19] widepeeked suicided!
+[12:33:26] DJ Bread suicided!
+[12:33:26] Al Shebab suicided!
+[12:33:38] Al Shebab killed widepeeked using player
+[12:33:51] widepeeked<STEAM_0:0:492844137> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:33:56] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:33:58] widepeeked killed DJ Bread using prop_physics
+[12:34:02] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:34:06] widepeeked killed Al Shebab using prop_physics
+[12:34:10] DJ Bread suicided!
+[12:34:11] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:34:19] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[12:34:20] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/pulleywheels_large01.mdl
+[12:34:21] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/pulleywheels_large01.mdl
+[12:34:21] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/shelfunit01a.mdl
+[12:34:22] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/pulleywheels_large01.mdl
+[12:34:44] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[12:34:50] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:34:52] DJ Bread killed Al Shebab using prop_physics
+[12:34:53] widepeeked killed DJ Bread using prop_physics
+[12:35:03] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:35:05] widepeeked killed Al Shebab using prop_physics
+[12:35:22] widepeeked killed Al Shebab using player
+[12:35:30] DJ Bread killed widepeeked using m9k_gdcwa_matador_90mm
+[12:35:38] DJ Bread killed Al Shebab using player
+[12:35:47] widepeeked killed Al Shebab using m9k_davy_crockett_explo
+[12:35:47] widepeeked killed DJ Bread using m9k_davy_crockett_explo
+[12:35:47] widepeeked suicided!
+[12:35:53] DJ Bread suicided!
+[12:36:04] Al Shebab killed DJ Bread using prop_physics
+[12:36:08] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:36:09] widepeeked killed Al Shebab using prop_physics
+[12:36:12] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/wheels/monster_truck.mdl
+[12:36:14] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:36:17] Al Shebab suicided!
+[12:36:23] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:36:26] widepeeked killed Al Shebab using prop_physics
+
+
+
+[12:37:08] New map: rp_downtown_tits_v2
+[12:37:08] Client "Al Shebab" connected.
+[12:37:08] Client "Al Shebab" connected.
+[12:37:08] Client "Al Shebab" connected.
+[12:37:08] Client "Skii" connected.
+[12:37:08] Client "Skii" connected.
+[12:37:08] Client "Skii" connected.
+[12:37:08] Client "Skii" connected.
+[12:37:21] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 13 seconds).
+[12:37:29] Client "widepeeked" connected.
+[12:37:35] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 27 seconds).
+[12:37:49] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 20 seconds).
+[12:38:07] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:38:13] widepeeked killed DJ Bread using prop_physics
+[12:38:22] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:38:35] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:38:36] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:38:37] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:38:39] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:38:40] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:38:41] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:38:45] widepeeked killed DJ Bread using prop_physics
+[12:38:57] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:38:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:39:01] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:39:05] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/blastdoor001c.mdl
+[12:39:19] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:39:27] Al Shebab granted access "ulx csaycolor" to group superadmin
+[12:39:28] Al Shebab granted access "ulx notifications" to group superadmin
+[12:39:28] Al Shebab granted access "ulx pgag" to group superadmin
+[12:39:29] Al Shebab granted access "ulx pgagid" to group superadmin
+[12:39:29] Al Shebab granted access "ulx pmute" to group superadmin
+[12:39:29] Al Shebab granted access "ulx pmuteid" to group superadmin
+[12:39:30] Al Shebab granted access "ulx printpgags" to group superadmin
+[12:39:30] Al Shebab granted access "ulx printpmutes" to group superadmin
+[12:39:31] Al Shebab granted access "ulx psay" to group superadmin
+[12:39:32] Al Shebab granted access "ulx tsaycolor" to group superadmin
+[12:39:32] Al Shebab granted access "ulx unpmuteid" to group superadmin
+[12:39:33] Al Shebab granted access "ulx unpmute" to group superadmin
+[12:39:33] Al Shebab granted access "ulx unpgagid" to group superadmin
+[12:39:33] Al Shebab granted access "ulx unpgag" to group superadmin
+[12:39:36] Al Shebab granted access "ulx color" to group superadmin
+[12:39:36] Al Shebab granted access "ulx deaths" to group superadmin
+[12:39:37] Al Shebab granted access "ulx explode" to group superadmin
+[12:39:37] DJ Bread: !menu
+[12:39:38] Al Shebab granted access "ulx frags" to group superadmin
+[12:39:39] Al Shebab granted access "ulx giveammo" to group superadmin
+[12:39:41] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:39:41] Al Shebab granted access "ulx jumppower" to group superadmin
+[12:39:41] Al Shebab granted access "ulx launch" to group superadmin
+[12:39:42] Al Shebab granted access "ulx material" to group superadmin
+[12:39:43] Al Shebab granted access "ulx model" to group superadmin
+[12:39:43] Al Shebab granted access "ulx notepad" to group superadmin
+[12:39:45] Al Shebab granted access "ulx removetrail" to group superadmin
+[12:39:45] Al Shebab granted access "ulx resetcolor" to group superadmin
+[12:39:46] Al Shebab granted access "ulx resetmaterial" to group superadmin
+[12:39:46] Al Shebab granted access "ulx scale" to group superadmin
+[12:39:46] Al Shebab granted access "ulx setammo" to group superadmin
+[12:39:47] Al Shebab granted access "ulx shock" to group superadmin
+[12:39:47] widepeeked killed DJ Bread using prop_physics
+[12:39:48] Al Shebab granted access "ulx trail" to group superadmin
+[12:39:51] Al Shebab granted access "ulx motd" to group superadmin
+[12:39:52] Al Shebab granted access "ulx getmoney" to group superadmin
+[12:39:55] Al Shebab granted access "ulx fbring" to group superadmin
+[12:39:56] Al Shebab granted access "ulx fteleport" to group superadmin
+[12:39:57] Al Shebab granted access "ulx setwarp" to group superadmin
+[12:39:57] Al Shebab granted access "ulx warp" to group superadmin
+[12:39:59] Al Shebab granted access "ulx usermanagementhelp" to group superadmin
+[12:40:00] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/gravestone001a.mdl
+[12:40:01] Al Shebab granted access "ulx friends" to group superadmin
+[12:40:01] Al Shebab granted access "ulx forcerespawn" to group superadmin
+[12:40:02] Al Shebab granted access "ulx exit" to group superadmin
+[12:40:02] Al Shebab granted access "ulx enter" to group superadmin
+[12:40:03] Al Shebab granted access "ulx dban" to group superadmin
+[12:40:03] Al Shebab granted access "ulx cleardecals" to group superadmin
+[12:40:03] Al Shebab granted access "ulx cancelcmd" to group superadmin
+[12:40:04] DJ Bread<STEAM_0:0:579690494> spawned model models/combine_helicopter.mdl
+[12:40:04] Al Shebab granted access "ulx bot" to group superadmin
+[12:40:05] Al Shebab granted access "ulx bancheck" to group superadmin
+[12:40:07] Al Shebab granted access "ulx give" to group superadmin
+[12:40:07] Al Shebab granted access "ulx help" to group superadmin
+[12:40:08] Al Shebab granted access "ulx kickbots" to group superadmin
+[12:40:10] Al Shebab granted access "ulx multiban" to group superadmin
+[12:40:11] Al Shebab granted access "ulx sban" to group superadmin
+[12:40:12] Al Shebab granted access "ulx serverinfo" to group superadmin
+[12:40:12] Al Shebab granted access "ulx sgive" to group superadmin
+[12:40:14] Al Shebab granted access "ulx removeragdolls" to group superadmin
+[12:40:15] Al Shebab granted access "ulx timedcmd" to group superadmin
+[12:40:16] Al Shebab granted access "ulx unwatchid" to group superadmin
+[12:40:17] Al Shebab granted access "ulx unwatch" to group superadmin
+[12:40:18] widepeeked<STEAM_0:0:492844137> spawned model models/props/cs_militia/van.mdl
+[12:40:19] Al Shebab granted access "ulx version" to group superadmin
+[12:40:19] Al Shebab granted access "ulx watch" to group superadmin
+[12:40:20] Al Shebab granted access "ulx watchid" to group superadmin
+[12:40:20] Al Shebab granted access "ulx watchlist" to group superadmin
+[12:40:21] Al Shebab granted access "ulx who" to group superadmin
+[12:40:22] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3.mdl
+[12:40:23] Al Shebab granted access "ulx unvotegag" to group superadmin
+[12:40:23] Al Shebab granted access "ulx unvotemute" to group superadmin
+[12:40:24] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3.mdl
+[12:40:24] Al Shebab granted access "ulx votemap" to group superadmin
+[12:40:25] DJ Bread<STEAM_0:0:579690494> spawned model models/xqm/jetbody3_s2.mdl
+[12:40:27] Al Shebab granted access "ulx votegagminvotes" to group superadmin
+[12:40:27] Al Shebab granted access "ulx votegagsuccessratio" to group superadmin
+[12:40:28] Al Shebab granted access "ulx votemuteminvotes" to group superadmin
+[12:40:28] DJ Bread killed widepeeked using prop_physics
+[12:40:29] Al Shebab granted access "ulx votemutesuccessratio" to group superadmin
+[12:40:36] widepeeked<STEAM_0:0:492844137> spawned model models/airboat.mdl
+[12:40:44] Al Shebab<STEAM_0:0:103364981> spawned model models/props_phx/huge/road_curve.mdl
+[12:40:49] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[12:40:50] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[12:40:51] widepeeked<STEAM_0:0:492844137> spawned model models/combine_helicopter.mdl
+[12:40:57] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/airboat.mdl
+[12:41:13] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[12:41:21] widepeeked<STEAM_0:0:492844137> spawned model models/combine_helicopter.mdl
+[12:41:43] Al Shebab killed widepeeked using prop_vehicle_jeep
+[12:41:43] Al Shebab suicided!
+[12:42:11] Al Shebab killed widepeeked using weapon_fists
+[12:42:32] widepeeked killed Al Shebab using weapon_fists
+[12:42:46] widepeeked<STEAM_0:0:492844137> spawned model models/props_phx/trains/fsd-overrun.mdl
+[12:43:12] Al Shebab killed widepeeked using m9k_gdcwa_matador_90mm
+[12:43:20] widepeeked<STEAM_0:0:492844137> spawned model models/xqm/coastertrain1.mdl
+[12:43:27] widepeeked killed Al Shebab using prop_physics
+[12:43:27] widepeeked killed DJ Bread using prop_physics
+[12:43:37] DJ Bread suicided!
+[12:43:37] DJ Bread killed Al Shebab using m9k_released_poison
+[12:43:51] Al Shebab killed widepeeked using m9k_milkor_nade
+[12:43:53] DJ Bread killed Al Shebab using m9k_released_poison
+[12:44:13] Al Shebab killed widepeeked using m9k_gdcwa_rpg_heat
+[12:44:13] Al Shebab killed DJ Bread using m9k_gdcwa_rpg_heat
+[12:44:27] DJ Bread killed Al Shebab using m9k_improvised_explosive
+[12:45:02] widepeeked killed DJ Bread using m9k_gdcwa_rpg_heat
+[12:45:09] widepeeked killed DJ Bread using m9k_gdcwa_rpg_heat
+[12:45:15] DJ Bread killed widepeeked using m9k_launched_ex41
+[12:45:24] DJ Bread killed widepeeked using m9k_launched_ex41
+[12:45:31] widepeeked<STEAM_0:0:492844137> spawned model models/xqm/coastertrain1.mdl
+[12:45:35] DJ Bread killed widepeeked using m9k_launched_ex41
+[12:45:37] DJ Bread suicided!
+[12:46:35] Al Shebab: /addlaw no nigga
+[12:46:48] Al Shebab killed widepeeked using m9k_launched_m79
+[12:46:48] Al Shebab killed DJ Bread using m9k_launched_m79
+[12:47:02] DJ Bread killed widepeeked using m9k_gdcwa_rpg_heat
+[12:47:02] DJ Bread suicided!
+[12:47:18] Al Shebab: !atags
+[12:47:25] DJ Bread: !menu
+[12:47:25] Al Shebab: aa
+[12:47:31] DJ Bread ragdolled widepeeked
+[12:47:40] Al Shebab gimped Everyone
+[12:47:57] DJ Bread unragdolled widepeeked
+[12:48:06] widepeeked suicided!
+[12:48:17] DJ Bread whipped Al Shebab 10 times with 0 damage
+[12:48:23] widepeeked suicided!
+[12:48:39] widepeeked<STEAM_0:0:492844137> spawned model models/xqm/coastertrain2seat.mdl
+[12:48:41] widepeeked killed Al Shebab using prop_physics
+[12:49:06] DJ Bread gimped Al Shebab
+[12:49:22] DJ Bread ungimped Themself
+[12:49:24] DJ Bread: bruh
+[12:50:31] Dropped "widepeeked" from server<STEAM_0:0:492844137>
+
+
+
+[12:51:35] New map: rp_downtown_tits_v2
+[12:53:51] Client "Al Shebab" connected.
+[12:54:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 10 seconds).
+
+
+
+[12:58:24] New map: rp_downtown_tits_v2
+[12:58:24] Client "Al Shebab" connected.
+[12:58:34] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 10 seconds).
+[12:59:04] Client "Skii" connected.
+[12:59:25] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 21 seconds).
+[13:01:40] Al Shebab<STEAM_0:0:103364981> spawned model models/props_combine/breenglobe.mdl
+[13:01:41] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/oildrum001.mdl
+[13:01:41] Al Shebab suicided!
+[13:02:14] DJ Bread suicided!
+[13:02:44] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/fence02a.mdl

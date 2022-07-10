@@ -1,0 +1,344 @@
+L 07/10/2022 - 12:25:01: Log file started (file "logs\L0710002.log") (game "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\garrysmod") (version "8607")
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_noclip" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxprops" "80"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxragdolls" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxnpcs" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxballoons" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxeffects" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxdynamite" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxlamps" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxthrusters" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxwheels" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxhoverballs" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxvehicles" "1"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxbuttons" "6"
+L 07/10/2022 - 12:25:01: server_cvar: "sbox_maxemitters" "0"
+L 07/10/2022 - 12:25:01: server_cvar: "sv_airaccelerate" "1000"
+L 07/10/2022 - 12:25:02: "Skii<2><STEAM_0:0:579690494><>" connected, address "172.195.123.72:27005"
+L 07/10/2022 - 12:25:02: "Skii<2><STEAM_0:0:579690494><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 12:25:02: "Skii<3><STEAM_0:0:579690494><>" connected, address "172.195.123.72:27005"
+L 07/10/2022 - 12:25:02: "Skii<3><STEAM_0:0:579690494><>" disconnected (reason "Connection closing")
+L 07/10/2022 - 12:25:02: "Skii<4><STEAM_0:0:579690494><>" connected, address "172.195.123.72:27005"
+L 07/10/2022 - 12:25:03: Connection to Steam servers successful.
+L 07/10/2022 - 12:25:03:    Public IP is 60.241.142.139.
+L 07/10/2022 - 12:25:03: Assigned persistent gameserver Steam ID [G-1:3987399].
+L 07/10/2022 - 12:25:03: VAC secure mode is activated.
+L 07/10/2022 - 12:25:03: "Skii<4><STEAM_0:0:579690494><>" STEAM USERID validated
+L 07/10/2022 - 12:25:06: "Al Shebab<5><STEAM_0:0:103364981><>" connected, address "60.241.142.139:27006"
+L 07/10/2022 - 12:25:06: "Al Shebab<5><STEAM_0:0:103364981><>" STEAM USERID validated
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) is Authed
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned for the first time
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:25:20: "Al Shebab<5><STEAM_0:0:103364981><>" entered the game
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:25:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:25:25: [FAdmin] Skii (STEAM_0:0:579690494) is Authed
+L 07/10/2022 - 12:25:25: [FAdmin] Skii (STEAM_0:0:579690494) Spawned for the first time
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:25:25: "Skii<4><STEAM_0:0:579690494><>" entered the game
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:25:25: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:25:53: Lua Error: 
+[tebexgmod] addons/tebexgmod/lua/tebex/client/apiclient.lua:36: attempt to call upvalue 'failure' (a nil value)
+  1. unknown - addons/tebexgmod/lua/tebex/client/apiclient.lua:36
+
+
+L 07/10/2022 - 12:26:49: "DJ Bread<4><STEAM_0:0:579690494><Civilian>" say "nigward"
+
+L 07/10/2022 - 12:26:54: "DJ Bread<4><STEAM_0:0:579690494><Civilian>" say "// nigward"
+
+L 07/10/2022 - 12:28:29: "widepeeked<6><STEAM_0:0:492844137><>" connected, address "124.188.129.208:27005"
+L 07/10/2022 - 12:28:29: "widepeeked<6><STEAM_0:0:492844137><>" STEAM USERID validated
+L 07/10/2022 - 12:29:33: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_aw50
+L 07/10/2022 - 12:29:34: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_aw50
+L 07/10/2022 - 12:29:37: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by Al Shebab with a player
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) is Authed
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned for the first time
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 12:29:44: "widepeeked<6><STEAM_0:0:492844137><>" entered the game
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a pocket
+L 07/10/2022 - 12:29:44: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:30:12: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:30:15: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to switch noclip
+L 07/10/2022 - 12:30:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to switch noclip
+L 07/10/2022 - 12:30:16: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to switch noclip
+L 07/10/2022 - 12:30:36: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_davy_crockett
+L 07/10/2022 - 12:30:36: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_davy_crockett
+L 07/10/2022 - 12:30:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:30:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:30:59: "widepeeked<6><STEAM_0:0:492844137><Civilian>" say "!workshop"
+
+L 07/10/2022 - 12:31:00: "DJ Bread<4><STEAM_0:0:579690494><Civilian>" say "n word"
+
+L 07/10/2022 - 12:31:47: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to switch noclip
+L 07/10/2022 - 12:31:57: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to switch noclip
+L 07/10/2022 - 12:33:05: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to switch noclip
+L 07/10/2022 - 12:33:19: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by widepeeked with a player
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a pocket
+L 07/10/2022 - 12:33:22: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:33:26: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 12:33:26: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by Al Shebab with a player
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:33:29: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:33:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:33:30: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:33:36: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_winchester73
+L 07/10/2022 - 12:33:36: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_winchester73
+L 07/10/2022 - 12:33:38: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by Al Shebab with a player
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a pocket
+L 07/10/2022 - 12:33:41: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:33:46: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 12:33:48: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 12:33:51: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_building_details/Storefront_Template001a_Bars.mdl
+L 07/10/2022 - 12:33:51: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_building_details/storefront_template001a_bars.mdl
+L 07/10/2022 - 12:33:54: [FAdmin] prop_physics(models/props_building_details/storefront_template001a_bars.mdl) Got removed
+L 07/10/2022 - 12:33:56: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 12:33:56: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 12:33:58: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by widepeeked with a prop_physics
+L 07/10/2022 - 12:33:59: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:34:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:34:02: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 12:34:02: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 12:34:06: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by widepeeked with a prop_physics
+L 07/10/2022 - 12:34:07: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 12:34:10: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 12:34:11: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 12:34:11: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:34:13: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:34:13: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:34:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_junk/PlasticCrate01a.mdl
+L 07/10/2022 - 12:34:19: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+L 07/10/2022 - 12:34:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_c17/pulleywheels_large01.mdl
+L 07/10/2022 - 12:34:20: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/pulleywheels_large01.mdl
+L 07/10/2022 - 12:34:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_c17/pulleywheels_large01.mdl
+L 07/10/2022 - 12:34:21: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/pulleywheels_large01.mdl
+L 07/10/2022 - 12:34:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_c17/shelfunit01a.mdl
+L 07/10/2022 - 12:34:21: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/shelfunit01a.mdl
+L 07/10/2022 - 12:34:22: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned a models/props_c17/pulleywheels_large01.mdl
+L 07/10/2022 - 12:34:22: [ULX] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/pulleywheels_large01.mdl
+L 07/10/2022 - 12:34:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:26: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:27: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:27: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:28: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:28: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:29: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to use tool weld
+L 07/10/2022 - 12:34:31: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 12:34:36: [FAdmin] prop_physics(models/props_c17/shelfunit01a.mdl) Got removed
+L 07/10/2022 - 12:34:44: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned a models/props_interiors/VendingMachineSoda01a.mdl
+L 07/10/2022 - 12:34:44: [ULX] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+L 07/10/2022 - 12:34:50: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 12:34:50: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 12:34:52: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by DJ Bread with a prop_physics
+L 07/10/2022 - 12:34:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by widepeeked with a prop_physics
+L 07/10/2022 - 12:34:55: [FAdmin] prop_physics(models/props_c17/furniturewashingmachine001a.mdl) Got removed
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:34:56: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:34:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:34:58: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:34:59: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 12:35:00: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 12:35:01: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to switch noclip
+L 07/10/2022 - 12:35:03: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_acr
+L 07/10/2022 - 12:35:03: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_acr
+L 07/10/2022 - 12:35:03: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned a models/props_c17/FurnitureWashingmachine001a.mdl
+L 07/10/2022 - 12:35:03: [ULX] widepeeked<STEAM_0:0:492844137> spawned model models/props_c17/furniturewashingmachine001a.mdl
+L 07/10/2022 - 12:35:05: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by widepeeked with a prop_physics
+L 07/10/2022 - 12:35:07: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a m9k_acr
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:08: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:35:17: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_vikhr
+L 07/10/2022 - 12:35:17: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_vikhr
+L 07/10/2022 - 12:35:17: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_auga3
+L 07/10/2022 - 12:35:17: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_auga3
+L 07/10/2022 - 12:35:17: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_m416
+L 07/10/2022 - 12:35:18: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_m416
+L 07/10/2022 - 12:35:18: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_l85
+L 07/10/2022 - 12:35:18: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_l85
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_f2000
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_f2000
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_f2000
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_val
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_val
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_ak74
+L 07/10/2022 - 12:35:19: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_ak74
+L 07/10/2022 - 12:35:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_acr
+L 07/10/2022 - 12:35:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_acr
+L 07/10/2022 - 12:35:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_winchester73
+L 07/10/2022 - 12:35:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_winchester73
+L 07/10/2022 - 12:35:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_famas
+L 07/10/2022 - 12:35:20: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_famas
+L 07/10/2022 - 12:35:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_m4a1
+L 07/10/2022 - 12:35:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_m4a1
+L 07/10/2022 - 12:35:21: [FAdmin] DJ Bread (STEAM_0:0:579690494) Gave himself a m9k_matador
+L 07/10/2022 - 12:35:21: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_matador
+L 07/10/2022 - 12:35:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_tar21
+L 07/10/2022 - 12:35:21: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_tar21
+L 07/10/2022 - 12:35:22: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by widepeeked with a player
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:25: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:35:30: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by DJ Bread with a m9k_gdcwa_matador_90mm
+L 07/10/2022 - 12:35:32: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_davy_crockett
+L 07/10/2022 - 12:35:32: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_davy_crockett
+L 07/10/2022 - 12:35:33: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 12:35:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 12:35:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:34: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:35: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a m9k_acr
+L 07/10/2022 - 12:35:38: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by DJ Bread with a player
+L 07/10/2022 - 12:35:40: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a m9k_davy_crockett
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:41: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:35:45: [FAdmin] Al Shebab (STEAM_0:0:103364981) Gave himself a m9k_machete
+L 07/10/2022 - 12:35:45: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a m9k_machete
+L 07/10/2022 - 12:35:47: [FAdmin] Al Shebab (STEAM_0:0:103364981) Got killed by widepeeked with a m9k_davy_crockett_explo
+L 07/10/2022 - 12:35:47: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by widepeeked with a m9k_davy_crockett_explo
+L 07/10/2022 - 12:35:47: [FAdmin] widepeeked (STEAM_0:0:492844137) Got killed by widepeeked with a m9k_davy_crockett_explo
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Spawned
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a keys
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:50: [FAdmin] Al Shebab (STEAM_0:0:103364981) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:51: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Spawned
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a keys
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:52: [FAdmin] widepeeked (STEAM_0:0:492844137) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:53: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by DJ Bread with a player
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:35:57: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:36:04: [FAdmin] DJ Bread (STEAM_0:0:579690494) Got killed by Al Shebab with a prop_physics
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Spawned
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a keys
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physcannon
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_camera
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a gmod_tool
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a pocket
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_physgun
+L 07/10/2022 - 12:36:07: [FAdmin] DJ Bread (STEAM_0:0:579690494) Attempted to pick up a weapon_keypadchecker
+L 07/10/2022 - 12:36:08:
