@@ -100,3 +100,93 @@ widepeeked|9|STEAM_0:0:492844137
 
 
 
+Skii|2|STEAM_0:0:579690494
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+widepeeked|5|STEAM_0:0:492844137
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+widepeeked|5|STEAM_0:0:492844137
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+widepeeked|5|STEAM_0:0:492844137
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+widepeeked|5|STEAM_0:0:492844137
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
+widepeeked|5|STEAM_0:0:492844137
+
+[rogue scoreboard v1.0.12] lua/includes/modules/draw.lua:139: bad argument #1 to 'gmatch' (string expected, got nil)
+  1. gmatch - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:139
+    3. unknown - addons/rogue scoreboard v1.0.12/lua/roguescoreboard/cl_rogue.lua:275
+
+
+
