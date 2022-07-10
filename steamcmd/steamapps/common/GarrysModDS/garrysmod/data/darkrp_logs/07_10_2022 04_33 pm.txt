@@ -12,3 +12,6 @@ Sun Jul 10 16:35:24 2022	widepeeked (STEAM_0:0:492844137) spawned
 Sun Jul 10 16:38:25 2022	Frazer was killed by Himself with a suicide trick
 Sun Jul 10 16:38:28 2022	Frazer (STEAM_0:0:120840551) spawned
 Sun Jul 10 16:38:58 2022	DJ Bread (STEAM_0:0:579690494) spawned Vehicle prop_vehicle_prisoner_pod (Seat_Airboat)
+Sun Jul 10 16:41:20 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sun Jul 10 16:42:17 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Sun Jul 10 16:44:00 2022	DJ Bread (STEAM_0:0:579690494) spawned Vehicle prop_vehicle_prisoner_pod (Seat_Airboat)

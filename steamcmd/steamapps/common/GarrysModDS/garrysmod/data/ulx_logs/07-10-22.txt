@@ -1793,3 +1793,46 @@
 [16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
 [16:40:21] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
 [16:40:34] Frazer<STEAM_0:0:120840551> spawned model models/chairs/armchair.mdl
+[16:40:49] Frazer<STEAM_0:0:120840551> spawned model models/nova/chair_wood01.mdl
+[16:40:52] Frazer<STEAM_0:0:120840551> spawned model models/nova/chair_plastic01.mdl
+[16:40:53] Frazer<STEAM_0:0:120840551> spawned model models/nova/chair_office02.mdl
+[16:41:09] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/chair_office01a.mdl
+[16:41:09] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturearmchair001a.mdl
+[16:41:09] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturechair001a.mdl
+[16:41:10] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturechair001a_chunk02.mdl
+[16:41:13] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:41:13] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:41:13] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:41:13] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:41:13] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:41:13] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/doll01.mdl
+[16:41:20] DJ Bread: !menu
+[16:41:37] DJ Bread set the material for Frazer to models/props_c17/frostedglass_01a
+[16:41:43] DJ Bread set the material for Frazer to Models/effects/vol_light001
+[16:41:46] DJ Bread set the material for Frazer to models/props_c17/FurnitureMetal001a
+[16:41:48] DJ Bread set the material for Frazer to models/flesh
+[16:41:49] Frazer<STEAM_0:0:120840551> spawned model models/props_c17/furniturearmchair001a.mdl
+[16:42:17] DJ Bread: !menu
+[16:42:24] DJ Bread set the material for Frazer to phoenix_storms/cube
+[16:42:26] DJ Bread set the material for Frazer to phoenix_storms/wire/pcb_green
+[16:42:30] DJ Bread set the material for Frazer to hunter/myplastic
+[16:42:34] DJ Bread reset the material for Frazer
+[16:42:46] DJ Bread set the color for Frazer to purple
+[16:42:49] DJ Bread set the color for Frazer to yellow
+[16:42:53] DJ Bread set the color for Frazer to black
+[16:42:54] DJ Bread set the color for Frazer to white
+[16:42:56] DJ Bread set the color for Frazer to red
+[16:42:58] DJ Bread set the color for Frazer to black
+[16:43:24] DJ Bread<STEAM_0:0:579690494> spawned model models/props_junk/pushcart01a.mdl
+[16:43:24] DJ Bread<STEAM_0:0:579690494> spawned model models/props_junk/popcan01a.mdl
+[16:43:24] DJ Bread<STEAM_0:0:579690494> spawned model models/props_junk/popcan01a.mdl
+[16:43:24] DJ Bread<STEAM_0:0:579690494> spawned model models/props_wasteland/laundry_washer003.mdl
+[16:43:24] DJ Bread<STEAM_0:0:579690494> spawned model models/props_wasteland/laundry_washer001a.mdl
+[16:43:24] DJ Bread<STEAM_0:0:579690494> spawned model models/props_wasteland/laundry_washer003.mdl
+[16:43:57] Frazer<STEAM_0:0:120840551> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[16:44:00] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/nova/airboat_seat.mdl
+[16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
+[16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
+[16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gravestone_cross001b.mdl
+[16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
+[16:44:00] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/metalladder001.mdl
