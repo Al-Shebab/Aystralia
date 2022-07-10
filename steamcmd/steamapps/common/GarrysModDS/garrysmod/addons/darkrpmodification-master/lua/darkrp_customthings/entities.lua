@@ -16,8 +16,112 @@ https://darkrp.miraheze.org/wiki/DarkRP:CustomEntityFields
 
 Add entities under the following line:
 ---------------------------------------------------------------------------]]
+-- Money Printer Job --
 
--- Meth --
+DarkRP.createEntity( "OP Printer", {
+    ent = "oneprint",
+    model = "models/ogl/ogl_oneprint.mdl",
+    price = 10000,
+    max = 3,
+	allowed = MONEY_PRINTER,
+    cmd = "oneprint",
+	category = "Money Printer"
+})
+-- Oil Refiner Job --
+
+DarkRP.createEntity("Build Kit", {
+    ent = "zrush_machinecrate",
+    model = "models/zerochain/props_oilrush/zor_machinecrate.mdl",
+    price = 250,
+    max = 8,
+    cmd = "buyzrushmachinecrate",
+    allowed = OIL_REFINER,
+    category = "Oil Refiner"
+})
+
+DarkRP.createEntity("Barrel", {
+    ent = "zrush_barrel",
+    model = "models/zerochain/props_oilrush/zor_barrel.mdl",
+    price = 100,
+    max = 10,
+    cmd = "buyzrushbarrel",
+    allowed = OIL_REFINER,
+    category = "Oil Refiner"
+})
+
+DarkRP.createEntity("10x Pipes", {
+    ent = "zrush_drillpipe_holder",
+    model = "models/zerochain/props_oilrush/zor_drillpipe_holder.mdl",
+    price = 100,
+    max = 10,
+    cmd = "buyzrushdrillpipeholder",
+    allowed = OIL_REFINER,
+    category = "Oil Refiner"
+})
+
+DarkRP.createEntity("Palette", {
+    ent = "zrush_palette",
+    model = "models/props_junk/wood_pallet001a.mdl",
+    price = 100,
+    max = 2,
+    cmd = "buyzrush_palette",
+    allowed = OIL_REFINER,
+    category = "Oil Refiner"
+})
+
+-- Mining Job --
+
+DarkRP.createEntity("Gravel - Crate", {
+	ent = "zrms_gravelcrate",
+	model = "models/zerochain/props_mining/zrms_refiner_basket.mdl",
+	price = 250,
+	max = 6,
+	cmd = "buyzrms_gravelcrate",
+	allowed = MINER,
+	category = "Mining Gear"
+})
+
+DarkRP.createEntity("Refiner - Crate", {
+	ent = "zrms_basket",
+	model = "models/zerochain/props_mining/zrms_refiner_basket.mdl",
+	price = 250,
+	max = 12,
+	cmd = "buyzrms_basket",
+	allowed = MINER,
+	category = "Mining Gear"
+})
+
+DarkRP.createEntity("Storage Crate", {
+	ent = "zrms_storagecrate",
+	model = "models/zerochain/props_mining/zrms_storagecrate.mdl",
+	price = 25,
+	max = 6,
+	cmd = "buyzrms_storagecrate",
+	allowed = MINER,
+	category = "Mining Gear"
+})
+
+DarkRP.createEntity("Mine Entrance", {
+	ent = "zrms_mineentrance_base",
+	model = "models/zerochain/props_mining/mining_entrance.mdl",
+	price = 150000,
+	max = 3,
+	cmd = "buyzrms_mineentrance_base",
+	allowed = MINER,
+	category = "Mining Gear"
+})
+
+DarkRP.createEntity("Melter", {
+	ent = "zrms_melter",
+	model = "models/zerochain/props_mining/zrms_melter.mdl",
+	price = 7500,
+	max = 2,
+	cmd = "buyzrms_melter",
+	allowed = MINER,
+	category = "Mining Gear"
+})
+
+-- Meth Job --
 
 DarkRP.createEntity("Combiner", {
 	ent = "zmlab_combiner",

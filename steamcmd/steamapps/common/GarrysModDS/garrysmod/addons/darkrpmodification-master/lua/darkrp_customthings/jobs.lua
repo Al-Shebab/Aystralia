@@ -24,7 +24,7 @@ CIVILIAN = DarkRP.createJob("Civilian", {
         "models/player/Group01/female_05.mdl",
         "models/player/Group01/male_01.mdl"
     },
-    description = [[  ]],
+    description = [[ ]],
     weapons = {},
     command = "civilian",
     max = 0,
@@ -35,23 +35,97 @@ CIVILIAN = DarkRP.createJob("Civilian", {
     category = "Civilians",
     canDemote = false,
 })
+-- Printing --
+
+BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
+    color = Color(225, 75, 75, 255),
+    model = {"models/player/group03/male_04.mdl"},
+    description = [[ ]],
+    weapons = {},
+    command = "bitcoin_miner",
+    max = 4,
+    salary = 600,
+    admin = 0,
+    vote = false,
+    category = "Printing",
+    hasLicense = false
+})
+
+MONEY_PRINTER = DarkRP.createJob("Money Printer", {
+    color = Color(225, 75, 75, 255),
+    model = {"models/player/group03/male_04.mdl"},
+    description = [[ ]],
+    weapons = {},
+    command = "money_printer",
+    max = 4,
+    salary = 600,
+    admin = 0,
+    vote = false,
+    category = "Printing",
+    hasLicense = false
+})
+
+-- Manufacturing --
+
+OIL_REFINER = DarkRP.createJob("Oil Refiner", {
+    color = Color(225, 75, 75, 255),
+    model = {"models/player/group03/male_04.mdl"},
+    description = [[ ]],
+    weapons = {},
+    command = "oil_refiner",
+    max = 4,
+    salary = 700,
+    admin = 0,
+    vote = false,
+    category = "Manufacturing",
+    hasLicense = false
+})
+
+MINER = DarkRP.createJob("Miner", {
+    color = Color(225, 75, 75, 255),
+    model = {"models/player/group03/male_04.mdl"},
+    description = [[ ]],
+    weapons = {},
+    command = "miner",
+    max = 4,
+    salary = 800,
+    admin = 0,
+    vote = false,
+    category = "Manufacturing",
+    hasLicense = false
+})
+
+-- Illegal --
 
 METH_COOK = DarkRP.createJob("Meth Cook", {
     color = Color(255, 82, 82),
     model = "models/fearless/chef1.mdl",
-    description = [[
-        Meth Cook?
-    ]],
+    description = [[ ]],
     weapons = {
         "zmlab_extractor"
     },
-    command = "methcook",
+    command = "meth_cook",
     max = 4,
     salary = 0,
     admin = 0,
     vote = false,
     hasLicense = false,
-    category = "Manufacturing",
+    category = "Illegal Manufacturing",
+    canDemote = false,
+})
+
+WEED_GROWER = DarkRP.createJob("Weed Grower", {
+    color = Color(255, 82, 82),
+    model = "models/fearless/chef1.mdl",
+    description = [[ ]],
+    weapons = {},
+    command = "weed_grower",
+    max = 4,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Illegal Manufacturing",
     canDemote = false,
 })
 

@@ -21,6 +21,11 @@
 					"token"		""
 					"Expires"		"1658027881"
 				}
+				"google.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1658045717"
+				}
 			}
 		}
 	}

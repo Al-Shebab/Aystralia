@@ -25,12 +25,11 @@ zrmine.config.EnableResourceAddfile = false
 // These Ranks are allowed do use the Chat and Console Commands
 zrmine.config.AdminRanks = {
 	["superadmin"] = true,
-	["owner"] = true,
 }
 
 // This tells the script who can mine ore / sell bars (Leave empty to allow everyone)
 zrmine.config.Jobs = {
-	[TEAM_ZRMINE_MINER] = true
+	[MINER] = true
 }
 
 
