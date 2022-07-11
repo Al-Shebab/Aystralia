@@ -1,0 +1,23 @@
+[17:58:04] New map: rp_downtown_tits_v2
+[18:01:34] Client "Binchicken" connected.
+[18:02:01] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 27 seconds).
+[18:04:57] Client "Al Shebab" connected.
+[18:06:08] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 71 seconds).
+[18:06:37] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:06] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:12] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:12] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:13] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:14] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:14] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:16] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:16] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:17] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:17] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:07:28] Al Shebab<STEAM_0:0:103364981> spawned sent bm2_bitminer_1
+[18:08:39] binchicken: !workshop
+[18:09:13] Dropped "binchicken" from server<STEAM_0:0:437291733>
+
+
+
+[18:10:59] New map: rp_downtown_tits_v2
