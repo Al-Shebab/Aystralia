@@ -21,3 +21,36 @@
 
 
 [18:10:59] New map: rp_downtown_tits_v2
+
+
+
+[18:12:25] New map: rp_downtown_tits_v2
+[18:12:31] Client "Al Shebab" connected.
+[18:12:31] Client "Al Shebab" connected.
+[18:12:31] Client "Al Shebab" connected.
+[18:13:10] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 39 seconds).
+[18:14:51] Client "Binchicken" connected.
+[18:15:42] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 51 seconds).
+[18:16:32] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:16:58] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:16:59] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:00] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:01] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:05] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:05] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:06] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:06] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:17:07] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:20:28] binchicken: !remotebitminers
+[18:27:31] binchicken: !remotebitminers
+[18:29:55] Client "widepeeked" connected.
+[18:31:09] Client "widepeeked" spawned in server <STEAM_0:0:492844137> (took 74 seconds).
+[18:33:35] Al Shebab stopped sounds
+[18:33:35] Al Shebab: !ss
+[18:33:39] widepeeked: papa
+[18:33:58] binchicken: !menu
+[18:34:04] binchicken added widepeeked to group moderator
+[18:35:42] binchicken teleported to widepeeked
+[18:37:52] <Admin> widepeeked~[STEAM_0:0:492844137]: pp
+[18:38:08] <Admin> binchicken~[STEAM_0:0:437291733]: digger
+[18:38:38] Dropped "Al Shebab" from server<STEAM_0:0:103364981>

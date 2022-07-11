@@ -1,0 +1,12 @@
+Mon Jul 11 18:13:10 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Mon Jul 11 18:13:11 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Jul 11 18:15:42 2022	Binchicken (STEAM_0:0:437291733) has joined the game
+Mon Jul 11 18:15:42 2022	binchicken (STEAM_0:0:437291733) spawned
+Mon Jul 11 18:20:28 2022	binchicken (STEAM_0:0:437291733): !remotebitminers
+Mon Jul 11 18:27:31 2022	binchicken (STEAM_0:0:437291733): !remotebitminers
+Mon Jul 11 18:31:09 2022	widepeeked (STEAM_0:0:492844137) has joined the game
+Mon Jul 11 18:31:09 2022	widepeeked (STEAM_0:0:492844137) spawned
+Mon Jul 11 18:33:35 2022	Al Shebab (STEAM_0:0:103364981): !ss
+Mon Jul 11 18:33:39 2022	widepeeked (STEAM_0:0:492844137): papa
+Mon Jul 11 18:33:58 2022	binchicken (STEAM_0:0:437291733): !menu
+Mon Jul 11 18:38:38 2022	Al Shebab (STEAM_0:0:103364981) disconnected
