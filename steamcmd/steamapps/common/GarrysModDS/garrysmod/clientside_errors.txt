@@ -1492,3 +1492,19 @@ jaywalking0d|3|STEAM_0:1:212383203
 
 
 
+Frazer|12|STEAM_0:0:120840551
+Erroring opening file: generic
+
+Frazer|12|STEAM_0:0:120840551
+Line 1 not exists or not cached
+
+Frazer|12|STEAM_0:0:120840551
+
+[Wiremod] lua/wire/client/text_editor/texteditor.lua:153: bad argument #1 to 'ipairs' (table expected, got nil)
+  1. ipairs - [C]:-1
+   2. GetCharPosInLine - lua/wire/client/text_editor/texteditor.lua:153
+    3. PaintCaret - lua/wire/client/text_editor/texteditor.lua:766
+     4. unknown - lua/wire/client/text_editor/texteditor.lua:931
+
+
+

@@ -1,0 +1,9 @@
+Mon Jul 11 18:02:01 2022	Binchicken (STEAM_0:0:437291733) has joined the game
+Mon Jul 11 18:02:01 2022	binchicken (STEAM_0:0:437291733) spawned
+Mon Jul 11 18:05:14 2022	binchicken (STEAM_0:0:437291733): 
+Mon Jul 11 18:05:23 2022	binchicken (STEAM_0:0:437291733): 
+Mon Jul 11 18:06:08 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Mon Jul 11 18:06:08 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Mon Jul 11 18:07:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT bm2_bitminer_1
+Mon Jul 11 18:08:39 2022	binchicken (STEAM_0:0:437291733): !workshop
+Mon Jul 11 18:09:13 2022	binchicken (STEAM_0:0:437291733) disconnected

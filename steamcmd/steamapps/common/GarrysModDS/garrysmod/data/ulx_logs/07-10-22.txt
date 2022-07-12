@@ -4261,3 +4261,642 @@
 [19:04:16] jaywalking0d gagged Frazer
 [19:04:18] jaywalking0d ungagged Frazer
 [19:04:18] Frazer: d
+[19:04:38] Dropped "Frazer" from server<STEAM_0:0:120840551>
+[19:04:41] Dropped "Al Shebab" from server<STEAM_0:0:103364981>
+[19:04:50] Client "Frazer" connected.
+[19:05:09] jaywalking0d: !MENU
+[19:05:12] Client "Frazer" spawned in server <STEAM_0:0:120840551> (took 22 seconds).
+[19:05:17] jaywalking0d granted god mode upon Themself
+[19:05:20] jaywalking0d set the hp for Themself to 2147483647
+[19:05:25] jaywalking0d jailed Frazer for 100 seconds
+[19:05:28] jaywalking0d stripped weapons from Frazer
+[19:05:38] jaywalking0d: !MENU
+[19:05:49] jaywalking0d: !tps
+[19:05:50] jaywalking0d suicided!
+[19:06:02] jaywalking0d: !thirdperson
+[19:06:09] jaywalking0d: !firstperson
+[19:07:01] jaywalking0d unjailed Frazer
+[19:07:01] jaywalking0d: !unjail frazer
+[19:07:09] jaywalking0d killed Frazer using player
+[19:07:16] jaywalking0d: !FIRSTPERSON
+[19:07:20] jaywalking0d killed Frazer using player
+[19:07:27] (TEAM) jaywalking0d: !menu
+[19:07:41] jaywalking0d: !menu
+[19:07:47] jaywalking0d set the armor for Frazer to 255
+[19:07:49] jaywalking0d set the armor for Themself to 255
+[19:07:54] jaywalking0d killed Frazer using player
+[19:08:02] jaywalking0d: !menu
+[19:08:27] jaywalking0d killed Frazer using player
+[19:11:55] Client "Binchicken" connected.
+[19:12:13] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 18 seconds).
+[19:13:20] binchicken: gimme sec
+[19:13:28] binchicken: dont have headset on
+[19:13:37] jaywalking0d: wanna see something?
+[19:13:41] binchicken: sure
+[19:13:43] jaywalking0d: stand there
+[19:13:54] jaywalking0d: i have glitch
+[19:14:07] jaywalking0d: also dont god urself
+[19:14:12] binchicken: y
+[19:14:18] jaywalking0d: i can do this hang on
+[19:14:25] jaywalking0d killed binchicken using player
+[19:15:32] jaywalking0d killed binchicken using player
+[19:16:01] binchicken teleported to jaywalking0d
+[19:16:06] binchicken brought jaywalking0d
+[19:16:07] binchicken brought jaywalking0d
+[19:16:07] binchicken brought jaywalking0d
+[19:16:08] binchicken brought jaywalking0d
+[19:16:20] jaywalking0d killed binchicken using player
+[19:16:45] binchicken: !menu
+[19:16:53] binchicken ragdolled jaywalking0d
+[19:17:05] binchicken teleported to jaywalking0d
+[19:17:14] binchicken: !menu
+[19:17:15] binchicken unragdolled jaywalking0d
+[19:17:18] binchicken: !menu
+[19:17:20] jaywalking0d killed binchicken using player
+[19:17:24] binchicken mauled jaywalking0d
+[19:17:34] jaywalking0d was killed by npc_fastzombie
+[19:17:45] jaywalking0d granted god mode upon Themself
+[19:17:45] jaywalking0d: !god
+[19:17:53] binchicken: !menu
+[19:17:57] binchicken revoked god mode from jaywalking0d
+[19:18:15] binchicken teleported to jaywalking0d
+[19:18:20] binchicken brought jaywalking0d
+[19:18:22] binchicken killed jaywalking0d using player
+[19:18:38] jaywalking0d teleported to binchicken
+[19:18:38] jaywalking0d: !GOTO BIN
+[19:18:41] binchicken killed jaywalking0d using player
+[19:18:47] jaywalking0d: /// rdm
+[19:18:51] jaywalking0d: /// RDM
+[19:18:53] binchicken brought jaywalking0d
+[19:18:54] jaywalking0d to admins: RDM
+[19:19:00] jaywalking0d granted god mode upon Themself
+[19:19:00] jaywalking0d: !GOD
+[19:19:03] binchicken to admins: rdm
+[19:19:06] binchicken: !menu
+[19:19:08] binchicken revoked god mode from jaywalking0d
+[19:19:09] jaywalking0d: no
+[19:19:12] jaywalking0d granted god mode upon Themself
+[19:19:12] jaywalking0d: !god
+[19:19:14] binchicken: !menu
+[19:19:15] binchicken revoked god mode from jaywalking0d
+[19:19:19] jaywalking0d: !hp 503224
+[19:19:21] binchicken brought jaywalking0d
+[19:19:22] binchicken killed jaywalking0d using player
+[19:19:28] jaywalking0d set the hp for Themself to 51341341
+[19:19:28] jaywalking0d: !hp jay 51341341
+[19:19:31] binchicken: !menu
+[19:19:35] binchicken ignited jaywalking0d for 300 seconds
+[19:19:45] binchicken: !menu
+[19:19:49] binchicken mauled jaywalking0d
+[19:20:01] jaywalking0d: !hp jay 51341341523421
+[19:20:03] binchicken: !menu
+[19:20:07] jaywalking0d set the hp for Themself to 513413415
+[19:20:07] jaywalking0d: !hp jay 513413415
+[19:20:09] jaywalking0d suicided!
+[19:20:14] jaywalking0d set the hp for Themself to 513413415
+[19:20:14] jaywalking0d: !hp jay 513413415
+[19:20:16] binchicken: !menu
+[19:20:21] binchicken set the hp for jaywalking0d to 1
+[19:20:23] jaywalking0d set the hp for Themself to 513413415
+[19:20:23] jaywalking0d: !hp jay 513413415
+[19:20:25] binchicken: !menu
+[19:20:26] binchicken set the hp for jaywalking0d to 1
+[19:20:30] binchicken brought jaywalking0d
+[19:20:30] binchicken killed jaywalking0d using player
+[19:20:52] jaywalking0d killed binchicken using oneprint
+[19:22:24] jaywalking0d suicided!
+[19:22:26] Dropped "jaywalking0d" from server<STEAM_0:1:212383203>
+[19:23:24] (SILENT) binchicken began spectating Frazer
+[19:23:25] (SILENT) binchicken stopped spectating Frazer
+[19:24:55] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:25:55] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:03] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:15] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:16] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:16] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:17] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:25] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:25] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:26] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:28] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:28] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:32] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:33] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:34] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:35] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:26:36] binchicken<STEAM_0:0:437291733> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:29:02] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[19:29:11] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[19:29:21] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[19:29:21] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[19:34:21] binchicken: !menu
+[19:34:39] binchicken removed all access rights from widepeeked
+[19:36:11] Dropped "Frazer" from server<STEAM_0:0:120840551>
+[19:55:16] binchicken<STEAM_0:0:437291733> spawned model models/props_lab/blastdoor001c.mdl
+[19:55:30] binchicken<STEAM_0:0:437291733> spawned model models/props_combine/combine_bridge_b.mdl
+[20:38:17] Client "VTL" connected.
+[20:40:08] Client "VTL" spawned in server <STEAM_0:1:183228466> (took 111 seconds).
+[20:40:46] Dropped "VTL" from server<STEAM_0:1:183228466>
+[20:46:44] Client "Skii" connected.
+[20:47:22] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 38 seconds).
+[20:48:49] Dropped "binchicken" from server<STEAM_0:0:437291733>
+[20:50:34] DJ Bread<STEAM_0:0:579690494> spawned sent sent_elegant_printer
+[20:50:37] DJ Bread<STEAM_0:0:579690494> spawned sent sent_elegant_printer_cooling
+[20:50:39] DJ Bread<STEAM_0:0:579690494> spawned sent sent_elegant_printer
+[20:50:51] DJ Bread<STEAM_0:0:579690494> spawned sent oneprint
+[20:50:51] DJ Bread<STEAM_0:0:579690494> spawned sent oneprint
+[20:50:52] DJ Bread<STEAM_0:0:579690494> spawned sent oneprint
+[20:50:52] DJ Bread<STEAM_0:0:579690494> spawned sent oneprint
+[20:50:53] DJ Bread<STEAM_0:0:579690494> spawned sent oneprint
+[20:53:20] DJ Bread: !restart
+[20:53:23] DJ Bread: !menu
+[20:54:44] DJ Bread shocked Themself
+[20:54:46] DJ Bread shocked Themself with 10 damage
+[20:55:19] DJ Bread spawned 15 bots
+[20:55:19] Client "Bot01" connected.
+[20:55:19] Client "Bot01" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot02" connected.
+[20:55:19] Client "Bot02" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot03" connected.
+[20:55:19] Client "Bot03" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot04" connected.
+[20:55:19] Client "Bot04" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot05" connected.
+[20:55:19] Client "Bot05" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot06" connected.
+[20:55:19] Client "Bot06" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot07" connected.
+[20:55:19] Client "Bot07" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot08" connected.
+[20:55:19] Client "Bot08" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot09" connected.
+[20:55:19] Client "Bot09" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot10" connected.
+[20:55:19] Client "Bot10" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot11" connected.
+[20:55:19] Client "Bot11" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot12" connected.
+[20:55:19] Client "Bot12" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot13" connected.
+[20:55:19] Client "Bot13" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot14" connected.
+[20:55:19] Client "Bot14" spawned in server <BOT> (took 8064 seconds).
+[20:55:19] Client "Bot15" connected.
+[20:55:19] Client "Bot15" spawned in server <BOT> (took 8064 seconds).
+[20:55:41] DJ Bread killed Bot13 using player
+[20:55:42] DJ Bread killed Bot10 using player
+[20:55:44] DJ Bread killed Bot09 using player
+[20:55:44] DJ Bread killed Bot07 using player
+[20:55:58] DJ Bread killed Bot04 using player
+[20:56:00] DJ Bread killed Bot08 using player
+[20:56:05] DJ Bread killed Bot09 using player
+[20:56:08] DJ Bread killed Bot14 using player
+[20:56:17] DJ Bread killed Bot04 using player
+[20:56:20] DJ Bread killed Bot14 using player
+[20:56:22] DJ Bread killed Bot09 using player
+[20:56:25] DJ Bread killed Bot07 using player
+[20:56:28] DJ Bread killed Bot12 using player
+[20:56:29] DJ Bread killed Bot05 using player
+[20:56:37] DJ Bread killed Bot05 using player
+[20:56:43] DJ Bread killed Bot14 using player
+[20:56:45] DJ Bread killed Bot13 using player
+[20:56:48] DJ Bread killed Bot05 using player
+[20:57:19] DJ Bread killed Bot04 using player
+[20:57:24] DJ Bread killed Bot05 using player
+[20:57:32] DJ Bread killed Bot13 using player
+[20:57:35] DJ Bread killed Bot03 using player
+[20:57:38] DJ Bread killed Bot12 using player
+[20:57:42] DJ Bread killed Bot04 using player
+[20:57:43] DJ Bread killed Bot10 using player
+[20:57:52] DJ Bread killed Bot03 using player
+[20:57:59] DJ Bread killed Bot04 using player
+[20:58:06] DJ Bread killed Bot09 using player
+[20:58:12] DJ Bread killed Bot03 using player
+[20:58:14] DJ Bread killed Bot05 using player
+[20:58:16] DJ Bread killed Bot13 using player
+[20:58:25] DJ Bread killed Bot04 using player
+[20:58:27] DJ Bread killed Bot12 using player
+[20:58:33] DJ Bread killed Bot09 using player
+[20:58:37] DJ Bread killed Bot04 using player
+[20:58:44] DJ Bread killed Bot12 using player
+[20:58:45] DJ Bread killed Bot04 using player
+[20:58:49] DJ Bread killed Bot10 using player
+[20:59:02] DJ Bread killed Bot13 using player
+[20:59:06] DJ Bread killed Bot04 using player
+[20:59:07] DJ Bread killed Bot10 using player
+[20:59:16] DJ Bread killed Bot09 using player
+[20:59:18] DJ Bread killed Bot12 using player
+[20:59:28] DJ Bread killed Bot13 using player
+[20:59:33] DJ Bread killed Bot10 using player
+[20:59:37] DJ Bread killed Bot14 using player
+[20:59:42] DJ Bread killed Bot13 using player
+[20:59:47] DJ Bread killed Bot10 using player
+[20:59:51] DJ Bread killed Bot12 using player
+[20:59:57] DJ Bread killed Bot13 using player
+[21:00:12] DJ Bread killed Bot04 using player
+[21:00:14] DJ Bread killed Bot12 using player
+[21:00:19] DJ Bread killed Bot09 using player
+[21:00:22] DJ Bread killed Bot04 using player
+[21:00:32] DJ Bread killed Bot13 using player
+[21:00:36] DJ Bread killed Bot15 using player
+[21:00:46] DJ Bread killed Bot12 using player
+[21:00:53] DJ Bread killed Bot13 using player
+[21:00:56] DJ Bread killed Bot03 using player
+[21:01:05] DJ Bread killed Bot13 using player
+[21:01:06] DJ Bread killed Bot03 using player
+[21:01:16] DJ Bread killed Bot12 using player
+[21:01:20] DJ Bread killed Bot09 using player
+[21:01:22] DJ Bread killed Bot15 using player
+[21:01:25] DJ Bread killed Bot04 using player
+[21:01:27] DJ Bread killed Bot12 using player
+[21:01:33] DJ Bread killed Bot03 using player
+[21:01:37] DJ Bread killed Bot09 using player
+[21:01:41] DJ Bread killed Bot15 using player
+[21:01:46] DJ Bread killed Bot09 using player
+[21:01:47] DJ Bread killed Bot03 using player
+[21:01:52] DJ Bread killed Bot02 using player
+[21:01:55] DJ Bread killed Bot14 using player
+[21:02:01] DJ Bread killed Bot09 using player
+[21:02:12] DJ Bread killed Bot04 using player
+[21:02:13] DJ Bread killed Bot14 using player
+[21:02:15] DJ Bread killed Bot15 using player
+[21:02:19] DJ Bread killed Bot03 using player
+[21:02:24] DJ Bread killed Bot14 using player
+[21:02:28] DJ Bread killed Bot02 using player
+[21:02:39] DJ Bread killed Bot03 using player
+[21:02:43] DJ Bread killed Bot14 using player
+[21:02:44] DJ Bread killed Bot04 using player
+[21:02:45] DJ Bread killed Bot15 using player
+[21:02:47] DJ Bread killed Bot02 using player
+[21:02:51] DJ Bread killed Bot14 using player
+[21:02:53] DJ Bread killed Bot03 using player
+[21:02:55] DJ Bread killed Bot04 using player
+[21:03:13] DJ Bread killed Bot14 using player
+[21:03:23] DJ Bread killed Bot15 using player
+[21:03:25] DJ Bread killed Bot12 using player
+[21:03:33] DJ Bread killed Bot13 using player
+[21:03:36] DJ Bread killed Bot02 using player
+[21:03:42] DJ Bread killed Bot14 using player
+[21:03:45] DJ Bread killed Bot13 using player
+[21:03:49] DJ Bread killed Bot12 using player
+[21:03:57] DJ Bread killed Bot14 using player
+[21:03:59] DJ Bread killed Bot12 using player
+[21:04:09] DJ Bread killed Bot15 using player
+[21:04:12] DJ Bread killed Bot02 using player
+[21:04:17] DJ Bread killed Bot13 using player
+[21:04:22] DJ Bread killed Bot15 using player
+[21:04:25] DJ Bread killed Bot13 using player
+[21:04:26] DJ Bread killed Bot12 using player
+[21:04:27] DJ Bread killed Bot14 using player
+[21:04:28] DJ Bread killed Bot09 using player
+[21:04:34] DJ Bread killed Bot03 using player
+[21:04:42] DJ Bread killed Bot15 using player
+[21:04:46] DJ Bread killed Bot04 using player
+[21:04:53] DJ Bread killed Bot14 using player
+[21:04:54] DJ Bread killed Bot09 using player
+[21:04:58] DJ Bread killed Bot13 using player
+[21:05:01] DJ Bread killed Bot03 using player
+[21:05:06] DJ Bread killed Bot12 using player
+[21:05:09] DJ Bread killed Bot13 using player
+[21:05:16] DJ Bread killed Bot14 using player
+[21:05:21] DJ Bread killed Bot03 using player
+[21:05:29] DJ Bread killed Bot04 using player
+[21:05:38] DJ Bread killed Bot12 using player
+[21:05:42] DJ Bread killed Bot04 using player
+[21:05:46] DJ Bread killed Bot02 using player
+[21:05:49] DJ Bread killed Bot03 using player
+[21:05:50] DJ Bread killed Bot04 using player
+[21:05:51] DJ Bread killed Bot12 using player
+[21:05:55] DJ Bread killed Bot14 using player
+[21:05:58] DJ Bread killed Bot15 using player
+[21:06:00] DJ Bread killed Bot02 using player
+[21:06:04] DJ Bread killed Bot03 using player
+[21:06:09] DJ Bread killed Bot14 using player
+[21:06:09] DJ Bread killed Bot15 using player
+[21:06:13] DJ Bread killed Bot13 using player
+[21:06:14] DJ Bread killed Bot03 using player
+[21:06:23] DJ Bread killed Bot12 using player
+[21:06:24] DJ Bread killed Bot02 using player
+[21:06:26] DJ Bread killed Bot04 using player
+[21:06:29] DJ Bread killed Bot13 using player
+[21:06:31] DJ Bread killed Bot12 using player
+[21:06:32] DJ Bread killed Bot02 using player
+[21:06:36] DJ Bread killed Bot15 using player
+[21:06:40] DJ Bread killed Bot03 using player
+[21:06:50] DJ Bread killed Bot14 using player
+[21:06:52] DJ Bread killed Bot12 using player
+[21:07:04] DJ Bread killed Bot03 using player
+[21:07:07] DJ Bread killed Bot12 using player
+[21:07:11] DJ Bread killed Bot02 using player
+[21:07:14] DJ Bread killed Bot14 using player
+[21:07:17] DJ Bread killed Bot13 using player
+[21:07:23] DJ Bread killed Bot15 using player
+[21:07:31] DJ Bread killed Bot02 using player
+[21:07:33] DJ Bread killed Bot15 using player
+[21:07:38] DJ Bread killed Bot02 using player
+[21:07:40] DJ Bread killed Bot12 using player
+[21:07:46] DJ Bread killed Bot03 using player
+[21:07:53] DJ Bread killed Bot15 using player
+[21:07:56] DJ Bread killed Bot04 using player
+[21:08:04] DJ Bread killed Bot15 using player
+[21:08:10] DJ Bread killed Bot04 using player
+[21:08:18] DJ Bread killed Bot04 using player
+[21:08:41] DJ Bread killed Bot13 using player
+[21:09:10] DJ Bread killed Bot03 using player
+[21:09:12] DJ Bread killed Bot02 using player
+[21:09:13] DJ Bread killed Bot12 using player
+[21:09:19] DJ Bread killed Bot15 using player
+[21:09:20] DJ Bread killed Bot12 using player
+[21:09:22] DJ Bread killed Bot14 using player
+[21:09:27] DJ Bread killed Bot12 using player
+[21:09:31] DJ Bread killed Bot13 using player
+[21:09:34] DJ Bread killed Bot02 using player
+[21:09:41] DJ Bread killed Bot13 using player
+[21:09:45] DJ Bread killed Bot14 using player
+[21:09:48] DJ Bread killed Bot04 using player
+[21:09:55] DJ Bread killed Bot13 using player
+[21:09:57] DJ Bread killed Bot12 using player
+[21:10:04] DJ Bread killed Bot03 using player
+[21:10:07] DJ Bread killed Bot04 using player
+[21:10:09] DJ Bread killed Bot02 using player
+[21:10:17] DJ Bread killed Bot12 using player
+[21:10:19] DJ Bread killed Bot13 using player
+[21:10:23] DJ Bread killed Bot02 using player
+[21:10:45] DJ Bread killed Bot12 using player
+[21:10:50] DJ Bread killed Bot02 using player
+[21:11:06] DJ Bread killed Bot12 using player
+[21:11:12] DJ Bread killed Bot13 using player
+[21:11:15] DJ Bread killed Bot03 using player
+[21:11:30] DJ Bread killed Bot13 using player
+[21:11:36] DJ Bread killed Bot12 using player
+[21:11:39] DJ Bread killed Bot15 using player
+[21:11:44] DJ Bread killed Bot13 using player
+[21:11:48] DJ Bread killed Bot12 using player
+[21:11:53] DJ Bread killed Bot13 using player
+[21:11:55] DJ Bread killed Bot15 using player
+[21:11:58] DJ Bread killed Bot04 using player
+[21:12:03] DJ Bread killed Bot12 using player
+[21:12:13] DJ Bread killed Bot04 using player
+[21:12:15] DJ Bread killed Bot12 using player
+[21:12:25] DJ Bread killed Bot13 using player
+[21:12:35] DJ Bread killed Bot04 using player
+[21:12:47] DJ Bread killed Bot13 using player
+[21:12:51] DJ Bread killed Bot15 using player
+[21:12:55] DJ Bread killed Bot04 using player
+[21:12:57] DJ Bread killed Bot12 using player
+[21:13:03] DJ Bread killed Bot13 using player
+[21:13:05] DJ Bread killed Bot04 using player
+[21:13:13] DJ Bread killed Bot12 using player
+[21:13:15] DJ Bread killed Bot15 using player
+[21:13:23] DJ Bread teleported to Bot13
+[21:13:26] DJ Bread killed Bot13 using player
+[21:13:29] DJ Bread teleported to Bot04
+[21:13:47] DJ Bread killed Bot14 using m9k_launched_ex41
+[21:13:48] DJ Bread killed Bot04 using m9k_launched_ex41
+[21:14:01] DJ Bread killed Bot04 using m9k_launched_ex41
+[21:14:19] DJ Bread killed Bot15 using m9k_launched_ex41
+[21:14:19] DJ Bread killed Bot12 using m9k_launched_ex41
+[21:14:54] DJ Bread killed Bot12 using player
+[21:14:59] DJ Bread killed Bot04 using m9k_machete
+[21:15:44] DJ Bread killed Bot15 using m9k_milkor_nade
+[21:15:46] DJ Bread killed Bot14 using m9k_milkor_nade
+[21:15:49] DJ Bread killed Bot11 using m9k_milkor_nade
+[21:15:53] DJ Bread killed Bot09 using m9k_milkor_nade
+[21:15:56] DJ Bread killed Bot12 using m9k_gdcwa_matador_90mm
+[21:16:01] DJ Bread killed Bot13 using m9k_gdcwa_matador_90mm
+[21:16:04] DJ Bread killed Bot14 using m9k_gdcwa_matador_90mm
+[21:16:06] DJ Bread killed Bot15 using m9k_gdcwa_matador_90mm
+[21:16:12] DJ Bread killed Bot11 using m9k_m202_rocket
+[21:16:15] DJ Bread killed Bot14 using m9k_m202_rocket
+[21:16:23] DJ Bread killed Bot15 using m9k_gdcwa_rpg_heat
+[21:16:26] DJ Bread killed Bot11 using m9k_gdcwa_rpg_heat
+[21:16:35] DJ Bread killed Bot02 using m9k_gdcwa_rpg_heat
+[21:16:43] DJ Bread killed Bot14 using m9k_gdcwa_rpg_heat
+[21:16:52] DJ Bread killed Bot09 using m9k_thrown_sticky_grenade
+[21:17:05] DJ Bread killed Bot15 using m9k_thrown_m61
+[21:17:12] DJ Bread killed Bot13 using player
+[21:17:15] DJ Bread killed Bot02 using player
+[21:17:22] DJ Bread killed Bot12 using m9k_thrown_harpoon
+[21:17:29] DJ Bread killed Bot07 using m9k_improvised_explosive
+[21:17:37] DJ Bread killed Bot13 using m9k_knife
+[21:17:41] DJ Bread killed Bot02 using m9k_knife
+[21:17:45] DJ Bread killed Bot04 using m9k_knife
+[21:17:52] DJ Bread killed Bot13 using m9k_knife
+[21:17:56] DJ Bread killed Bot07 using m9k_knife
+[21:18:02] DJ Bread killed Bot02 using m9k_nitro_vapor
+[21:18:10] DJ Bread killed Bot07 using m9k_released_poison
+[21:18:11] DJ Bread killed Bot14 using m9k_released_poison
+[21:18:18] DJ Bread killed Bot12 using m9k_released_poison
+[21:19:20] DJ Bread killed Bot04 using m9k_knife
+[21:19:38] DJ Bread killed Bot12 using m9k_suicide_bomb
+[21:19:38] DJ Bread killed Bot07 using m9k_suicide_bomb
+[21:19:38] DJ Bread killed Bot04 using m9k_suicide_bomb
+[21:19:38] DJ Bread suicided!
+[21:19:38] DJ Bread killed Bot09 using m9k_suicide_bomb
+[21:20:04] DJ Bread killed Bot12 using m9k_suicide_bomb
+[21:20:04] DJ Bread suicided!
+[21:25:03] DJ Bread: !menu
+[21:25:05] DJ Bread spawned 15 bots
+[21:25:05] Client "Bot16" connected.
+[21:25:05] Client "Bot16" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot17" connected.
+[21:25:05] Client "Bot17" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot18" connected.
+[21:25:05] Client "Bot18" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot19" connected.
+[21:25:05] Client "Bot19" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot20" connected.
+[21:25:05] Client "Bot20" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot21" connected.
+[21:25:05] Client "Bot21" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot22" connected.
+[21:25:05] Client "Bot22" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot23" connected.
+[21:25:05] Client "Bot23" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot24" connected.
+[21:25:05] Client "Bot24" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot25" connected.
+[21:25:05] Client "Bot25" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot26" connected.
+[21:25:05] Client "Bot26" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot27" connected.
+[21:25:05] Client "Bot27" spawned in server <BOT> (took 9850 seconds).
+[21:25:05] Client "Bot28" connected.
+[21:25:05] Client "Bot28" spawned in server <BOT> (took 9850 seconds).
+[21:25:06] Client "Bot29" connected.
+[21:25:06] Client "Bot29" spawned in server <BOT> (took 9851 seconds).
+[21:25:06] Client "Bot30" connected.
+[21:25:06] Client "Bot30" spawned in server <BOT> (took 9851 seconds).
+[21:25:06] DJ Bread kicked all bots from the server
+[21:25:06] Dropped "Bot01" from server<BOT>
+[21:25:06] Dropped "Bot02" from server<BOT>
+[21:25:06] Dropped "Bot03" from server<BOT>
+[21:25:06] Dropped "Bot04" from server<BOT>
+[21:25:06] Dropped "Bot05" from server<BOT>
+[21:25:06] Dropped "Bot06" from server<BOT>
+[21:25:06] Dropped "Bot07" from server<BOT>
+[21:25:06] Dropped "Bot08" from server<BOT>
+[21:25:06] Dropped "Bot09" from server<BOT>
+[21:25:06] Dropped "Bot10" from server<BOT>
+[21:25:06] Dropped "Bot11" from server<BOT>
+[21:25:07] Dropped "Bot12" from server<BOT>
+[21:25:07] Dropped "Bot13" from server<BOT>
+[21:25:07] Dropped "Bot14" from server<BOT>
+[21:25:07] Dropped "Bot15" from server<BOT>
+[21:25:07] Dropped "Bot16" from server<BOT>
+[21:25:07] Dropped "Bot17" from server<BOT>
+[21:25:07] Dropped "Bot18" from server<BOT>
+[21:25:07] Dropped "Bot19" from server<BOT>
+[21:25:07] Dropped "Bot20" from server<BOT>
+[21:25:07] Dropped "Bot21" from server<BOT>
+[21:25:07] Dropped "Bot22" from server<BOT>
+[21:25:07] Dropped "Bot23" from server<BOT>
+[21:25:07] Dropped "Bot24" from server<BOT>
+[21:25:07] Dropped "Bot25" from server<BOT>
+[21:25:07] Dropped "Bot26" from server<BOT>
+[21:25:07] Dropped "Bot27" from server<BOT>
+[21:25:07] Dropped "Bot28" from server<BOT>
+[21:25:07] Dropped "Bot29" from server<BOT>
+[21:25:07] Dropped "Bot30" from server<BOT>
+[21:25:07] DJ Bread spawned 15 bots
+[21:25:07] Client "Bot31" connected.
+[21:25:07] Client "Bot31" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot32" connected.
+[21:25:07] Client "Bot32" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot33" connected.
+[21:25:07] Client "Bot33" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot34" connected.
+[21:25:07] Client "Bot34" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot35" connected.
+[21:25:07] Client "Bot35" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot36" connected.
+[21:25:07] Client "Bot36" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot37" connected.
+[21:25:07] Client "Bot37" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot38" connected.
+[21:25:07] Client "Bot38" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot39" connected.
+[21:25:07] Client "Bot39" spawned in server <BOT> (took 9852 seconds).
+[21:25:07] Client "Bot40" connected.
+[21:25:07] Client "Bot40" spawned in server <BOT> (took 9852 seconds).
+[21:25:08] Client "Bot41" connected.
+[21:25:08] Client "Bot41" spawned in server <BOT> (took 9853 seconds).
+[21:25:08] Client "Bot42" connected.
+[21:25:08] Client "Bot42" spawned in server <BOT> (took 9853 seconds).
+[21:25:08] Client "Bot43" connected.
+[21:25:08] Client "Bot43" spawned in server <BOT> (took 9853 seconds).
+[21:25:08] Client "Bot44" connected.
+[21:25:08] Client "Bot44" spawned in server <BOT> (took 9853 seconds).
+[21:25:08] Client "Bot45" connected.
+[21:25:08] Client "Bot45" spawned in server <BOT> (took 9853 seconds).
+[21:25:09] DJ Bread spawned 15 bots
+[21:25:09] Client "Bot46" connected.
+[21:25:09] Client "Bot46" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot47" connected.
+[21:25:09] Client "Bot47" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot48" connected.
+[21:25:09] Client "Bot48" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot49" connected.
+[21:25:09] Client "Bot49" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot50" connected.
+[21:25:09] Client "Bot50" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot51" connected.
+[21:25:09] Client "Bot51" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot52" connected.
+[21:25:09] Client "Bot52" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot53" connected.
+[21:25:09] Client "Bot53" spawned in server <BOT> (took 9854 seconds).
+[21:25:09] Client "Bot54" connected.
+[21:25:09] Client "Bot54" spawned in server <BOT> (took 9854 seconds).
+[21:25:10] Client "Bot55" connected.
+[21:25:10] Client "Bot55" spawned in server <BOT> (took 9855 seconds).
+[21:25:10] Client "Bot56" connected.
+[21:25:10] Client "Bot56" spawned in server <BOT> (took 9855 seconds).
+[21:25:10] Client "Bot57" connected.
+[21:25:10] Client "Bot57" spawned in server <BOT> (took 9855 seconds).
+[21:25:10] Client "Bot58" connected.
+[21:25:10] Client "Bot58" spawned in server <BOT> (took 9855 seconds).
+[21:25:10] Client "Bot59" connected.
+[21:25:10] Client "Bot59" spawned in server <BOT> (took 9855 seconds).
+[21:25:10] Client "Bot60" connected.
+[21:25:10] Client "Bot60" spawned in server <BOT> (took 9855 seconds).
+[21:25:11] DJ Bread spawned 15 bots
+[21:25:11] Client "Bot61" connected.
+[21:25:11] Client "Bot61" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot62" connected.
+[21:25:11] Client "Bot62" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot63" connected.
+[21:25:11] Client "Bot63" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot64" connected.
+[21:25:11] Client "Bot64" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot65" connected.
+[21:25:11] Client "Bot65" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot66" connected.
+[21:25:11] Client "Bot66" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot67" connected.
+[21:25:11] Client "Bot67" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot68" connected.
+[21:25:11] Client "Bot68" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot69" connected.
+[21:25:11] Client "Bot69" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot70" connected.
+[21:25:11] Client "Bot70" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot71" connected.
+[21:25:11] Client "Bot71" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot72" connected.
+[21:25:11] Client "Bot72" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot73" connected.
+[21:25:11] Client "Bot73" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot74" connected.
+[21:25:11] Client "Bot74" spawned in server <BOT> (took 9856 seconds).
+[21:25:11] Client "Bot75" connected.
+[21:25:11] Client "Bot75" spawned in server <BOT> (took 9856 seconds).
+[21:25:12] DJ Bread kicked all bots from the server
+[21:25:12] Dropped "Bot31" from server<BOT>
+[21:25:12] Dropped "Bot32" from server<BOT>
+[21:25:12] Dropped "Bot33" from server<BOT>
+[21:25:12] Dropped "Bot34" from server<BOT>
+[21:25:12] Dropped "Bot35" from server<BOT>
+[21:25:12] Dropped "Bot36" from server<BOT>
+[21:25:12] Dropped "Bot37" from server<BOT>
+[21:25:12] Dropped "Bot38" from server<BOT>
+[21:25:12] Dropped "Bot39" from server<BOT>
+[21:25:12] Dropped "Bot40" from server<BOT>
+[21:25:12] Dropped "Bot41" from server<BOT>
+[21:25:12] Dropped "Bot42" from server<BOT>
+[21:25:12] Dropped "Bot43" from server<BOT>
+[21:25:12] Dropped "Bot44" from server<BOT>
+[21:25:12] Dropped "Bot45" from server<BOT>
+[21:25:12] Dropped "Bot46" from server<BOT>
+[21:25:12] Dropped "Bot47" from server<BOT>
+[21:25:12] Dropped "Bot48" from server<BOT>
+[21:25:12] Dropped "Bot49" from server<BOT>
+[21:25:12] Dropped "Bot50" from server<BOT>
+[21:25:12] Dropped "Bot51" from server<BOT>
+[21:25:12] Dropped "Bot52" from server<BOT>
+[21:25:12] Dropped "Bot53" from server<BOT>
+[21:25:12] Dropped "Bot54" from server<BOT>
+[21:25:12] Dropped "Bot55" from server<BOT>
+[21:25:12] Dropped "Bot56" from server<BOT>
+[21:25:12] Dropped "Bot57" from server<BOT>
+[21:25:12] Dropped "Bot58" from server<BOT>
+[21:25:12] Dropped "Bot59" from server<BOT>
+[21:25:12] Dropped "Bot60" from server<BOT>
+[21:25:12] Dropped "Bot61" from server<BOT>
+[21:25:12] Dropped "Bot62" from server<BOT>
+[21:25:13] Dropped "Bot63" from server<BOT>
+[21:25:13] Dropped "Bot64" from server<BOT>
+[21:25:13] Dropped "Bot65" from server<BOT>
+[21:25:13] Dropped "Bot66" from server<BOT>
+[21:25:13] Dropped "Bot67" from server<BOT>
+[21:25:13] Dropped "Bot68" from server<BOT>
+[21:25:13] Dropped "Bot69" from server<BOT>
+[21:25:13] Dropped "Bot70" from server<BOT>
+[21:25:13] Dropped "Bot71" from server<BOT>
+[21:25:13] Dropped "Bot72" from server<BOT>
+[21:25:13] Dropped "Bot73" from server<BOT>
+[21:25:13] Dropped "Bot74" from server<BOT>
+[21:25:13] Dropped "Bot75" from server<BOT>
+[21:25:15] DJ Bread kicked all bots from the server
+[21:25:17] DJ Bread kicked all bots from the server
+[21:25:26] Dropped "DJ Bread" from server<STEAM_0:0:579690494>
