@@ -166,7 +166,7 @@ unfLockdown:help( "Force remove the lockdown." )
 // !resetlaws
 function ulx.resetlaws( calling_ply )
 	DarkRP.resetLaws()
-	ulx.fancyLogAdmin( calling_ply, "#A reseted the laws." )
+	ulx.fancyLogAdmin( calling_ply, "#A reset the laws." )
 end
 local resetlaws = ulx.command( CATEGORY_NAME, "ulx resetlaws", ulx.resetlaws, "!resetlaws" )
 resetlaws:defaultAccess( ULib.ACCESS_ADMIN )

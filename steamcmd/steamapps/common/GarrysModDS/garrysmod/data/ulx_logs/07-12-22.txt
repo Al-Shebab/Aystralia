@@ -217,3 +217,12 @@
 [18:21:56] New map: rp_downtown_tits_v2
 [18:22:43] Client "Al Shebab" connected.
 [18:23:06] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 23 seconds).
+
+
+
+[18:26:45] New map: rp_downtown_tits_v2
+[18:27:34] Client "Al Shebab" connected.
+[18:28:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 27 seconds).
+[18:29:19] Client "Skii" connected.
+[18:30:15] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 56 seconds).
+[18:30:58] Al Shebab reseted the laws.

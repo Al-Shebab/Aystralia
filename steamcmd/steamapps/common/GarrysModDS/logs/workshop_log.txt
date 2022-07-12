@@ -481,3 +481,7 @@
 
 [2022-07-12 18:21:12] [AppID 4000] Loaded workshop items in "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache" (27 installed, 27 needed)
 [2022-07-12 18:21:13] [AppID 4000] Updating workshop item details failed with Access Denied
+
+
+[2022-07-12 18:26:02] [AppID 4000] Loaded workshop items in "C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\steam_cache" (27 installed, 27 needed)
+[2022-07-12 18:26:03] [AppID 4000] Updating workshop item details failed with Access Denied
