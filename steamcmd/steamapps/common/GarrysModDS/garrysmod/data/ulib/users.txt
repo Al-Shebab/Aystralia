@@ -1,26 +1,225 @@
-"STEAM_0:0:437291733"	
+"STEAM_0:1:197708528"	
 {
-	"name"	"Binchicken"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"group"	"staff-manager"
+	"group"	"sydney"
 }
-"STEAM_0:0:103364981"	
+"STEAM_0:1:231698976"	
 {
-	"allow"	
-	{
-	}
-	"name"	"Al Shebab"
 	"deny"	
 	{
 	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:427834226"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:84291519"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"brisbane"
+}
+"STEAM_0:0:86866846"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:65829894"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"melbourne"
+}
+"STEAM_0:0:55650188"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:7264716"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:107335883"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:32893562"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:237754247"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:33943096"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:501875258"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:25949007"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:68387277"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:544192589"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:128868430"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:30517554"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:22015621"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:82818018"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:189217395"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:57816961"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"cooler5"
 	"group"	"superadmin"
 }
-"STEAM_0:1:212383203"	
+"STEAM_0:0:513599788"	
 {
 	"deny"	
 	{
@@ -28,61 +227,412 @@
 	"allow"	
 	{
 	}
-	"name"	"jaywalking0d"
-	"group"	"administrator"
+	"group"	"perth"
+}
+"STEAM_0:1:47977664"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:17283393"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:53317338"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
 }
 "STEAM_0:0:492844137"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"widepeeked"
-	"deny"	
-	{
-	}
-	"group"	"moderator"
+	"group"	"administrator"
 }
-"STEAM_0:1:643316616"	
+"STEAM_0:0:159925689"	
 {
-	"name"	"xlVOLKlx"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"group"	"trial-moderator"
+	"group"	"melbourne"
 }
-"STEAM_0:0:120840551"	
+"STEAM_0:0:431201115"	
 {
-	"name"	"Frazer"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
-	"group"	"moderator"
+	"group"	"perth"
+}
+"STEAM_0:1:172865881"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:49336636"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:443217738"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:74022863"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:32981097"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:549347148"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"melbourne"
+}
+"STEAM_0:0:79498740"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:123344808"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:46518440"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:437291733"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Binchicken"
+	"group"	"staff-manager"
+}
+"STEAM_0:0:197938704"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
 }
 "STEAM_0:0:497589869"	
 {
-	"name"	"Volcun"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Volcun"
 	"group"	"trial-moderator"
+}
+"STEAM_0:0:117246347"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"brisbane"
+}
+"STEAM_0:1:83598975"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"melbourne"
+}
+"STEAM_0:1:121087763"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:58891893"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:208922253"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:98102011"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:129042974"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:463427717"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:0:85045376"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"brisbane"
+}
+"STEAM_0:1:212383203"	
+{
+	"allow"	
+	{
+	}
+	"name"	"jaywalking0d"
+	"deny"	
+	{
+	}
+	"group"	"administrator"
+}
+"STEAM_0:1:643316616"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"xlVOLKlx"
+	"group"	"trial-moderator"
+}
+"STEAM_0:1:45141952"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"sydney"
+}
+"STEAM_0:1:524749674"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
 }
 "STEAM_0:0:579690494"	
 {
+	"deny"	
+	{
+	}
 	"allow"	
 	{
 	}
 	"name"	"Skii"
+	"group"	"superadmin"
+}
+"STEAM_0:1:85832050"	
+{
 	"deny"	
 	{
 	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:103364981"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Al Shebab"
 	"group"	"superadmin"
+}
+"STEAM_0:0:159945895"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:157785215"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:1:73576035"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"perth"
+}
+"STEAM_0:0:183460096"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"brisbane"
+}
+"STEAM_0:0:174848051"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"brisbane"
+}
+"STEAM_0:1:55610618"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"melbourne"
 }

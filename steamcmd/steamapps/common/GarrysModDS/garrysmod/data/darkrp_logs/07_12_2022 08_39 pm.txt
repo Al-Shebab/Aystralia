@@ -1,0 +1,43 @@
+Tue Jul 12 20:39:46 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Tue Jul 12 20:39:46 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 20:40:33 2022	Skii (STEAM_0:0:579690494) has joined the game
+Tue Jul 12 20:40:33 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 20:40:51 2022	Huge Fat Man (STEAM_0:0:149571420) has joined the game
+Tue Jul 12 20:40:51 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 20:41:35 2022	Huge Fat Man was killed by DJ Bread with a weapon_fists
+Tue Jul 12 20:41:38 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 20:41:41 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 20:41:48 2022	cooler5 (STEAM_0:1:57816961) has joined the game
+Tue Jul 12 20:41:48 2022	cooler5 (STEAM_0:1:57816961) spawned
+Tue Jul 12 20:41:49 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 20:41:52 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 20:41:53 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 20:41:55 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 20:41:58 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 20:42:26 2022	cooler5 was killed by Himself with a suicide trick
+Tue Jul 12 20:42:29 2022	cooler5 (STEAM_0:1:57816961) spawned
+Tue Jul 12 20:42:55 2022	DJ Bread (STEAM_0:0:579690494) spawned Vehicle prop_vehicle_jeep (Jeep)
+Tue Jul 12 20:42:58 2022	Al Shebab was killed by DJ Bread with a prop_vehicle_jeep
+Tue Jul 12 20:43:01 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 20:43:13 2022	cooler5 was killed by DJ Bread with a prop_vehicle_jeep
+Tue Jul 12 20:43:14 2022	DJ Bread was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 12 20:43:17 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 20:43:21 2022	cooler5 (STEAM_0:1:57816961) spawned
+Tue Jul 12 20:43:45 2022	Transgurl43 (STEAM_0:1:64052529) has joined the game
+Tue Jul 12 20:43:45 2022	Transgurl43 (STEAM_0:1:64052529) spawned
+Tue Jul 12 20:43:47 2022	DJ Bread was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 12 20:43:50 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 20:43:56 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 20:43:58 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 20:44:13 2022	cooler5 (STEAM_0:1:57816961): !MENU
+Tue Jul 12 20:44:15 2022	Al Shebab was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 20:44:15 2022	Transgurl43 was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 20:44:15 2022	Huge Fat Man was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 20:44:15 2022	cooler5 was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 20:44:18 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 20:44:20 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 20:44:26 2022	Huge Fat Man was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 12 20:44:32 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 20:44:40 2022	cooler5 (STEAM_0:1:57816961) spawned
+Tue Jul 12 20:44:44 2022	Transgurl43 (STEAM_0:1:64052529) spawned
+Tue Jul 12 20:45:02 2022	Huge Fat Man was killed by DJ Bread with a weapon_fists

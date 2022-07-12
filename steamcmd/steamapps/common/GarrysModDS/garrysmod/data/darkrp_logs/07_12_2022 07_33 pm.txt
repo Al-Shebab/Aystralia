@@ -1,0 +1,563 @@
+Tue Jul 12 19:33:26 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
+Tue Jul 12 19:33:26 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:33:30 2022	Skii (STEAM_0:0:579690494) has joined the game
+Tue Jul 12 19:33:30 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:33:33 2022	Huge Fat Man (STEAM_0:0:149571420) has joined the game
+Tue Jul 12 19:33:33 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:34:07 2022	DJ Bread (STEAM_0:0:579690494) spawned Vehicle prop_vehicle_jeep (Jeep)
+Tue Jul 12 19:34:13 2022	Huge Fat Man was killed by DJ Bread with a prop_vehicle_jeep
+Tue Jul 12 19:34:16 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:34:36 2022	DJ Bread (STEAM_0:0:579690494) spawned Vehicle prop_vehicle_jeep (Jeep)
+Tue Jul 12 19:34:44 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:34:45 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:34:45 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:34:46 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:34:56 2022	Huge Fat Man was killed by Al Shebab with a m9k_barret_m82
+Tue Jul 12 19:35:00 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:35:15 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:35:17 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:35:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:35:18 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:35:57 2022	Al Shebab was killed by Himself with a suicide trick
+Tue Jul 12 19:36:09 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:36:13 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:36:16 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:36:20 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:36:20 2022	DJ Bread was killed by Al Shebab with a m9k_contender
+Tue Jul 12 19:36:23 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:36:23 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:36:28 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:36:33 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:36:58 2022	Al Shebab was killed by DJ Bread with a m9k_contender
+Tue Jul 12 19:37:01 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:37:02 2022	DJ Bread was killed by Huge Fat Man with a m9k_remington7615p
+Tue Jul 12 19:37:05 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:37:21 2022	Huge Fat Man was killed by Al Shebab with a m9k_barret_m82
+Tue Jul 12 19:37:22 2022	DJ Bread was killed by Al Shebab with a m9k_barret_m82
+Tue Jul 12 19:37:25 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:37:28 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:37:33 2022	Huge Fat Man was killed by DJ Bread with a m9k_barret_m82
+Tue Jul 12 19:37:36 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:38:02 2022	Huge Fat Man was killed by Al Shebab with a m9k_m98b
+Tue Jul 12 19:38:07 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:38:26 2022	DJ Bread was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 12 19:38:29 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:38:34 2022	Al Shebab was killed by Huge Fat Man with a m9k_m98b
+Tue Jul 12 19:38:36 2022	Huge Fat Man was killed by DJ Bread with a m9k_m98b
+Tue Jul 12 19:38:40 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:38:43 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:39:13 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:39:16 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:39:23 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:39:26 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:39:36 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:36 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:36 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:37 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:37 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:37 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:39:39 2022	DJ Bread was killed by Al Shebab with a m9k_ammo_c4
+Tue Jul 12 19:39:42 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:40:13 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:13 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:15 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:15 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:15 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:16 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:16 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:16 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:17 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:17 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_c4
+Tue Jul 12 19:40:18 2022	Huge Fat Man was killed by DJ Bread with a weapon_fists
+Tue Jul 12 19:40:21 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:40:26 2022	Huge Fat Man was killed by Al Shebab with a m9k_gdcwa_matador_90mm
+Tue Jul 12 19:40:26 2022	DJ Bread was killed by Al Shebab with a m9k_ammo_c4
+Tue Jul 12 19:40:29 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:40:33 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:40:39 2022	Huge Fat Man was killed by DJ Bread with a m9k_mossberg590
+Tue Jul 12 19:40:42 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:41:22 2022	Huge Fat Man was killed by DJ Bread with a m9k_sl8
+Tue Jul 12 19:41:26 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:41:30 2022	Al Shebab was killed by DJ Bread with a m9k_m202_rocket
+Tue Jul 12 19:41:44 2022	Huge Fat Man was killed by DJ Bread with a m9k_sl8
+Tue Jul 12 19:41:45 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:41:47 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:41:53 2022	Huge Fat Man was killed by DJ Bread with a m9k_sl8
+Tue Jul 12 19:41:57 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:42:10 2022	Huge Fat Man was killed by DJ Bread with a m9k_m202_rocket
+Tue Jul 12 19:42:14 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:42:26 2022	DJ Bread was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:42:27 2022	Al Shebab was killed by Huge Fat Man with a m9k_m98b
+Tue Jul 12 19:42:30 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:42:45 2022	Huge Fat Man was killed by DJ Bread with a m9k_nitro_vapor
+Tue Jul 12 19:42:45 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:42:48 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:42:48 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:42:51 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:43:00 2022	DJ Bread was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:43:03 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:43:05 2022	Huge Fat Man was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:43:08 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:43:18 2022	Huge Fat Man was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:43:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:19 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:21 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:43:23 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:23 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:23 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:23 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:23 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:24 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:24 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:24 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT item_ammo_ar2_altfire
+Tue Jul 12 19:43:27 2022	Huge Fat Man was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:43:31 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:43:45 2022	Huge Fat Man was killed by DJ Bread with a weapon_ar2
+Tue Jul 12 19:43:49 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:43:57 2022	DJ Bread was killed by Huge Fat Man with a m9k_sl8
+Tue Jul 12 19:43:57 2022	Huge Fat Man was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:44:00 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:44:00 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:44:19 2022	Huge Fat Man was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:44:22 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:44:23 2022	DJ Bread was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:44:29 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:44:32 2022	Al Shebab was killed by Huge Fat Man with a m9k_sl8
+Tue Jul 12 19:44:35 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:44:43 2022	DJ Bread was killed by Huge Fat Man with a m9k_barret_m82
+Tue Jul 12 19:44:46 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:44:48 2022	Huge Fat Man was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:44:52 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:44:56 2022	DJ Bread was killed by Al Shebab with a m9k_sl8
+Tue Jul 12 19:44:58 2022	Al Shebab was killed by Huge Fat Man with a m9k_sl8
+Tue Jul 12 19:44:59 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:45:02 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:45:04 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:45:25 2022	Huge Fat Man was killed by Al Shebab with a m9k_davy_crockett_explo
+Tue Jul 12 19:45:26 2022	Al Shebab was killed by Himself with a suicide trick
+Tue Jul 12 19:45:30 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:45:31 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:45:51 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:46:10 2022	Huge Fat Man was killed by DJ Bread with a m9k_damascus
+Tue Jul 12 19:46:13 2022	Al Shebab was killed by DJ Bread with a m9k_damascus
+Tue Jul 12 19:46:13 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:46:16 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:46:33 2022	Huge Fat Man was killed by DJ Bread with a m9k_damascus
+Tue Jul 12 19:46:36 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:46:48 2022	Huge Fat Man was killed by DJ Bread with a m9k_damascus
+Tue Jul 12 19:46:54 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:46:55 2022	Al Shebab was killed by Himself with a suicide trick
+Tue Jul 12 19:46:58 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:47:23 2022	Al Shebab was killed by Huge Fat Man with a m9k_m98b
+Tue Jul 12 19:47:26 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:47:31 2022	Al Shebab was killed by Huge Fat Man with a m9k_m98b
+Tue Jul 12 19:47:32 2022	Huge Fat Man was killed by DJ Bread with a m9k_nitro_vapor
+Tue Jul 12 19:47:34 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:47:36 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:47:36 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:48:04 2022	mage (STEAM_0:0:179019866) has joined the game
+Tue Jul 12 19:48:04 2022	mage (STEAM_0:0:179019866) spawned
+Tue Jul 12 19:48:14 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:48:19 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:48:24 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:48:28 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:48:29 2022	mage was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:48:31 2022	DJ Bread was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:48:34 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:48:34 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:48:34 2022	mage (STEAM_0:0:179019866) disconnected
+Tue Jul 12 19:48:37 2022	Al Shebab was killed by DJ Bread with a m9k_thrown_harpoon
+Tue Jul 12 19:48:37 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:48:40 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:48:42 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:48:44 2022	Al Shebab was killed by DJ Bread with a m9k_thrown_harpoon
+Tue Jul 12 19:48:45 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:48:47 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:49:00 2022	Al Shebab was killed by DJ Bread with a m9k_thrown_harpoon
+Tue Jul 12 19:49:04 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:49:21 2022	DJ Bread was killed by Huge Fat Man with a m9k_thrown_harpoon
+Tue Jul 12 19:49:24 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:49:29 2022	Al Shebab was killed by Huge Fat Man with a m9k_thrown_harpoon
+Tue Jul 12 19:49:31 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:49:32 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:49:40 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:49:44 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:49:48 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:49:52 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:49:59 2022	Huge Fat Man was killed by DJ Bread with a m9k_thrown_harpoon
+Tue Jul 12 19:50:02 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:50:10 2022	Al Shebab was killed by Himself with a suicide trick
+Tue Jul 12 19:50:10 2022	mage (STEAM_0:0:179019866) has joined the game
+Tue Jul 12 19:50:10 2022	mage (STEAM_0:0:179019866) spawned
+Tue Jul 12 19:50:13 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:50:23 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:50:23 2022	mage was killed by DJ Bread with a m9k_gdcwa_matador_90mm
+Tue Jul 12 19:50:26 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:50:30 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:50:32 2022	DJ Bread was killed by Huge Fat Man with a m9k_thrown_harpoon
+Tue Jul 12 19:50:37 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:50:38 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:50:56 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:50:56 2022	DJ Bread was killed by Huge Fat Man with a m9k_gdcwa_matador_90mm
+Tue Jul 12 19:50:56 2022	mage (STEAM_0:0:179019866) disconnected
+Tue Jul 12 19:50:59 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:50:59 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:51:00 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:51:06 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:51:09 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:51:26 2022	Al Shebab was killed by Huge Fat Man with a m9k_thrown_harpoon
+Tue Jul 12 19:51:29 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:51:33 2022	DJ Bread was killed by Huge Fat Man with a m9k_gdcwa_matador_90mm
+Tue Jul 12 19:51:37 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:51:37 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:51:37 2022	Al Shebab was killed by Huge Fat Man with a m9k_gdcwa_matador_90mm
+Tue Jul 12 19:51:40 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:51:46 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:51:50 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:51:50 2022	Al Shebab was killed by DJ Bread with a m9k_jackhammer
+Tue Jul 12 19:51:53 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:51:55 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:51:57 2022	DJ Bread (STEAM_0:0:579690494): !menu
+Tue Jul 12 19:51:58 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:52:03 2022	DJ Bread was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:52:07 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:52:13 2022	Huge Fat Man was killed by DJ Bread with a m9k_mossberg590
+Tue Jul 12 19:52:16 2022	Al Shebab was killed by DJ Bread with a m9k_mossberg590
+Tue Jul 12 19:52:16 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:52:19 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:52:20 2022	DJ Bread was killed by Huge Fat Man with a m9k_thrown_harpoon
+Tue Jul 12 19:52:24 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:52:28 2022	Huge Fat Man was killed by Al Shebab with a m9k_improvised_explosive
+Tue Jul 12 19:52:31 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:52:39 2022	DJ Bread was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:52:41 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:52:44 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:52:46 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:52:51 2022	Huge Fat Man was killed by DJ Bread with a m9k_winchester73
+Tue Jul 12 19:52:52 2022	Al Shebab was killed by DJ Bread with a m9k_winchester73
+Tue Jul 12 19:52:56 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:52:57 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:52:59 2022	DJ Bread was killed by Huge Fat Man with a m9k_mossberg590
+Tue Jul 12 19:53:02 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:53:11 2022	Huge Fat Man was killed by DJ Bread with a m9k_dbarrel
+Tue Jul 12 19:53:16 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:53:22 2022	DJ Bread was killed by Huge Fat Man with a m9k_winchester73
+Tue Jul 12 19:53:24 2022	Huge Fat Man was killed by Al Shebab with a m9k_thrown_harpoon
+Tue Jul 12 19:53:25 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:53:27 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:53:29 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Tue Jul 12 19:53:32 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:53:40 2022	Huge Fat Man was killed by DJ Bread with a m9k_minigun
+Tue Jul 12 19:53:44 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:53:44 2022	Al Shebab was killed by DJ Bread with a m9k_dbarrel
+Tue Jul 12 19:53:47 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:54:10 2022	Huge Fat Man was killed by DJ Bread with a m9k_minigun
+Tue Jul 12 19:54:13 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:54:17 2022	DJ Bread was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:54:26 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:54:37 2022	Huge Fat Man was killed by DJ Bread with a m9k_dbarrel
+Tue Jul 12 19:54:40 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:54:54 2022	DJ Bread was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:54:57 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:55:05 2022	DJ Bread was killed by Al Shebab with a m9k_oribital_cannon
+Tue Jul 12 19:55:08 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:55:25 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:55:28 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:55:32 2022	Al Shebab (STEAM_0:0:103364981): !give * m9k_ammo_nuke
+Tue Jul 12 19:55:35 2022	Al Shebab (STEAM_0:0:103364981): !give * m9k_ammo_nuke
+Tue Jul 12 19:55:36 2022	Al Shebab (STEAM_0:0:103364981): !give * m9k_ammo_nuke
+Tue Jul 12 19:55:37 2022	Al Shebab (STEAM_0:0:103364981): !give * m9k_ammo_nuke
+Tue Jul 12 19:55:38 2022	Al Shebab (STEAM_0:0:103364981): !give * m9k_ammo_nuke
+Tue Jul 12 19:55:43 2022	DJ Bread was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:55:43 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:55:46 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:55:47 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:55:49 2022	Al Shebab was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 19:55:49 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:55:50 2022	Huge Fat Man was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 19:55:52 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:55:52 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:55:54 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:56:03 2022	Al Shebab (STEAM_0:0:103364981): m9k_ammo_nuke
+Tue Jul 12 19:56:04 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:04 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:04 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:05 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:06 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:06 2022	Al Shebab (STEAM_0:0:103364981): !give * m9k_ammo_nuke
+Tue Jul 12 19:56:09 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:56:09 2022	Al Shebab was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:56:09 2022	DJ Bread was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:56:12 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:56:12 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:56:14 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:56:15 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_orbitalstrike
+Tue Jul 12 19:56:18 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:18 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:20 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:20 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:20 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:24 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:25 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:26 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:27 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:28 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:30 2022	Al Shebab was killed by Huge Fat Man with a m9k_gdcwa_matador_90mm
+Tue Jul 12 19:56:33 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:56:35 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_stickynades
+Tue Jul 12 19:56:43 2022	Al Shebab was killed by Huge Fat Man with a m9k_thrown_harpoon
+Tue Jul 12 19:56:47 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:56:55 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:55 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:55 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:55 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:55 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:56:55 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:55 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:56:56 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:56 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:56:56 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:56 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:57 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:58 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:58 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:58 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:58 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:58 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:56:59 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:57:00 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:57:01 2022	Al Shebab was killed by Huge Fat Man with a m9k_davy_crockett_explo
+Tue Jul 12 19:57:02 2022	DJ Bread was killed by Huge Fat Man with a m9k_davy_crockett_explo
+Tue Jul 12 19:57:04 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:57:05 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:57:07 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:57:08 2022	DJ Bread was killed by Huge Fat Man with a m9k_davy_crockett_explo
+Tue Jul 12 19:57:10 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:57:11 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:57:15 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:57:17 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:57:18 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:57:22 2022	Huge Fat Man was killed by Himself with a suicide trick
+Tue Jul 12 19:57:25 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:57:31 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:57:31 2022	DJ Bread (STEAM_0:0:579690494) spawned SENT m9k_ammo_nervegas
+Tue Jul 12 19:57:34 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_nuke
+Tue Jul 12 19:57:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:57:47 2022	Al Shebab was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 19:57:47 2022	Huge Fat Man was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 19:57:48 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:57:51 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:57:51 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:57:53 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:57:54 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:57:54 2022	Huge Fat Man was killed by DJ Bread with a m9k_davy_crockett_explo
+Tue Jul 12 19:57:57 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:57:58 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:58:14 2022	DJ Bread was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:58:17 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:58:21 2022	Huge Fat Man was killed by Al Shebab with a m9k_oribital_cannon
+Tue Jul 12 19:58:25 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:58:26 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:58:29 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:58:32 2022	Al Shebab was killed by DJ Bread with a m9k_milkor_nade
+Tue Jul 12 19:58:34 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:58:34 2022	Huge Fat Man was killed by DJ Bread with a m9k_milkor_nade
+Tue Jul 12 19:58:35 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:58:36 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:37 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:58:37 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:38 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:39 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:40 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:41 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:42 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:43 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:43 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:43 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:43 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:58:45 2022	Huge Fat Man was killed by DJ Bread with a m9k_ammo_proxmines
+Tue Jul 12 19:58:45 2022	Al Shebab was killed by DJ Bread with a m9k_ammo_proxmines
+Tue Jul 12 19:58:45 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:58:48 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:58:48 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:58:49 2022	Al Shebab (STEAM_0:0:103364981) spawned
+Tue Jul 12 19:58:55 2022	Huge Fat Man was killed by DJ Bread with a m9k_m98b
+Tue Jul 12 19:58:59 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
+Tue Jul 12 19:59:01 2022	DJ Bread was killed by Huge Fat Man with a m9k_oribital_cannon
+Tue Jul 12 19:59:04 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:59:08 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:09 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:09 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:10 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:11 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_proxmines
+Tue Jul 12 19:59:11 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:14 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:15 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:16 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:17 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:17 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:18 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:18 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:19 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:20 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:20 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:21 2022	DJ Bread was killed by Himself with a suicide trick
+Tue Jul 12 19:59:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:21 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:22 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:23 2022	Al Shebab (STEAM_0:0:103364981) spawned SENT m9k_ammo_rockets
+Tue Jul 12 19:59:24 2022	DJ Bread (STEAM_0:0:579690494) spawned
+Tue Jul 12 19:59:57 2022	Huge Fat Man was killed by DJ Bread with a m9k_thrown_harpoon
+Tue Jul 12 20:00:00 2022	Huge Fat Man (STEAM_0:0:149571420) spawned
