@@ -1,6 +1,61 @@
-"STEAM_0:0:492844137"	
+"STEAM_0:1:643316616"	
 {
-	"name"	"widepeeked"
+	"name"	"xlVOLKlx"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"trial-moderator"
+}
+"STEAM_0:0:103364981"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Al Shebab"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:579690494"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Skii"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:212383203"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"jaywalking0d"
+	"group"	"administrator"
+}
+"STEAM_0:0:497589869"	
+{
+	"name"	"Volcun"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"trial-moderator"
+}
+"STEAM_0:0:120840551"	
+{
+	"name"	"Frazer"
 	"deny"	
 	{
 	}
@@ -9,64 +64,20 @@
 	}
 	"group"	"moderator"
 }
-"STEAM_0:0:103364981"	
+"STEAM_0:0:492844137"	
 {
-	"name"	"Al Shebab"
-	"deny"	
-	{
-	}
 	"allow"	
 	{
 	}
-	"group"	"superadmin"
+	"name"	"widepeeked"
+	"deny"	
+	{
+	}
+	"group"	"moderator"
 }
 "STEAM_0:0:437291733"	
 {
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
 	"name"	"Binchicken"
-	"group"	"staff-manager"
-}
-"STEAM_0:1:212383203"	
-{
-	"allow"	
-	{
-	}
-	"name"	"jaywalking0d"
-	"deny"	
-	{
-	}
-	"group"	"administrator"
-}
-"STEAM_0:0:497589869"	
-{
-	"deny"	
-	{
-	}
-	"allow"	
-	{
-	}
-	"name"	"Volcun"
-	"group"	"trial-moderator"
-}
-"STEAM_0:0:120840551"	
-{
-	"allow"	
-	{
-	}
-	"name"	"Frazer"
-	"deny"	
-	{
-	}
-	"group"	"trial-moderator"
-}
-"STEAM_0:0:579690494"	
-{
-	"name"	"Skii"
 	"deny"	
 	{
 	}
