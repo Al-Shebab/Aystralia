@@ -23,11 +23,11 @@ OnePrint.Cfg.CPDestroyReward = 10000         -- Reward a CP for destroying a pri
 OnePrint.Cfg.CPRewardSelf = false           -- true: CPs are rewarded if they destroy their own printer
 
 -- Upgrades/Shop
-OnePrint.Cfg.ServerPrice = 5000             -- Server price
+OnePrint.Cfg.ServerPrice = 5500             -- Server price
 OnePrint.Cfg.WatercoolingPrice = 1500       -- Watercooling price
-OnePrint.Cfg.PowerPrice = 2500                  -- Power price
-OnePrint.Cfg.OverclockingPrice = 950        -- Overclocking price
-OnePrint.Cfg.SecurityPrice = 1300            -- Security price (against hacking)
+OnePrint.Cfg.PowerPrice = 4500                  -- Power price
+OnePrint.Cfg.OverclockingPrice = 5000        -- Overclocking price
+OnePrint.Cfg.SecurityPrice = 6000            -- Security price (against hacking)
 OnePrint.Cfg.DefensePrice = 600             -- Defense boost price
 OnePrint.Cfg.DefenseBoost = 50              -- Max HP added for each boost upgrade bought
 OnePrint.Cfg.DefenseMax = 8                 -- Max boosts buyables [min = 1, max = 32]
