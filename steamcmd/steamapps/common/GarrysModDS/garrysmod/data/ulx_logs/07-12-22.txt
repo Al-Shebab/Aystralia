@@ -226,3 +226,71 @@
 [18:29:19] Client "Skii" connected.
 [18:30:15] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 56 seconds).
 [18:30:58] Al Shebab reseted the laws.
+
+
+
+[18:37:02] New map: rp_downtown_tits_v2
+[18:37:12] Client "Al Shebab" connected.
+[18:37:16] Client "Huge Fat Man" connected.
+[18:37:37] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 25 seconds).
+[18:39:13] Client "Huge Fat Man" spawned in server <STEAM_0:0:149571420> (took 117 seconds).
+[18:42:18] Huge Fat Man killed Al Shebab using weapon_fists
+[18:43:22] Huge Fat Man killed Al Shebab using weapon_fists
+[18:43:49] Al Shebab killed Huge Fat Man using player
+[18:44:16] Huge Fat Man killed Al Shebab using player
+[18:44:29] Al Shebab killed Huge Fat Man using player
+[18:44:40] Al Shebab killed Huge Fat Man using player
+[18:45:07] Huge Fat Man killed Al Shebab using player
+[18:45:15] Huge Fat Man killed Al Shebab using player
+[18:45:27] Al Shebab killed Huge Fat Man using player
+[18:45:40] Huge Fat Man killed Al Shebab using player
+[18:45:49] Huge Fat Man killed Al Shebab using player
+[18:45:57] Al Shebab killed Huge Fat Man using player
+[18:46:28] Huge Fat Man<STEAM_0:0:149571420> spawned model models/mechanics/gears2/gear_60t1.mdl
+[18:46:32] Huge Fat Man<STEAM_0:0:149571420> spawned model models/mechanics/gears2/gear_60t2.mdl
+[18:46:34] Huge Fat Man<STEAM_0:0:149571420> spawned model models/mechanics/gears2/gear_48t2.mdl
+[18:46:35] Huge Fat Man<STEAM_0:0:149571420> spawned model models/mechanics/gears2/gear_48t1.mdl
+[18:46:35] Huge Fat Man<STEAM_0:0:149571420> spawned model models/mechanics/gears2/gear_36t1.mdl
+[18:46:35] Huge Fat Man<STEAM_0:0:149571420> spawned model models/mechanics/gears2/gear_24t2.mdl
+[18:46:38] Huge Fat Man<STEAM_0:0:149571420> spawned model models/props_phx/construct/metal_dome360.mdl
+[18:46:40] Huge Fat Man<STEAM_0:0:149571420> spawned model models/props_phx/construct/metal_dome360.mdl
+[18:46:40] Huge Fat Man<STEAM_0:0:149571420> spawned model models/props_phx/construct/metal_dome360.mdl
+[18:46:41] Huge Fat Man<STEAM_0:0:149571420> spawned model models/props_phx/construct/metal_dome360.mdl
+[18:46:44] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/shelfunit01a.mdl
+[18:46:48] Al Shebab<STEAM_0:0:103364981> spawned model models/props_c17/shelfunit01a.mdl
+[18:46:53] Huge Fat Man<STEAM_0:0:149571420> spawned model models/props_phx/construct/windows/window_angle90.mdl
+[18:46:54] Huge Fat Man<STEAM_0:0:149571420> spawned model models/props_phx/construct/windows/window_curve360x1.mdl
+[18:46:58] Huge Fat Man<STEAM_0:0:149571420> spawned model models/hunter/blocks/cube025x025x025.mdl
+[18:48:26] Huge Fat Man killed Al Shebab using player
+[18:49:04] Al Shebab: !discord
+[18:49:05] Huge Fat Man killed Al Shebab using player
+[18:49:19] Huge Fat Man: !discord
+[18:50:32] Huge Fat Man killed Al Shebab using player
+[18:52:25] Al Shebab<STEAM_0:0:103364981> spawned model models/props_junk/plasticcrate01a.mdl
+[18:52:27] Huge Fat Man killed Al Shebab using player
+[18:53:53] Huge Fat Man killed Al Shebab using player
+
+
+
+[18:55:05] New map: rp_downtown_tits_v2
+[18:55:32] Client "Huge Fat Man" connected.
+[18:56:12] Client "Huge Fat Man" spawned in server <STEAM_0:0:149571420> (took 40 seconds).
+[18:56:35] Huge Fat Man: /invholster
+[18:56:35] Huge Fat Man: /invholster
+[18:56:36] Huge Fat Man: /invholster
+[18:56:37] Huge Fat Man: /invholster
+[18:56:38] Huge Fat Man: /invholster
+[18:56:38] Huge Fat Man: /invholster
+[18:56:39] Huge Fat Man: /invholster
+[18:57:35] Client "Al Shebab" connected.
+[18:58:02] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 27 seconds).
+
+
+
+[18:59:08] New map: rp_downtown_tits_v2
+[18:59:15] Client "Huge Fat Man" connected.
+[18:59:25] Client "Al Shebab" connected.
+[18:59:51] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 26 seconds).
+[18:59:55] Client "Huge Fat Man" spawned in server <STEAM_0:0:149571420> (took 40 seconds).
+[19:01:14] Huge Fat Man: !workshop
+[19:01:14] Al Shebab: !WORKSHOP

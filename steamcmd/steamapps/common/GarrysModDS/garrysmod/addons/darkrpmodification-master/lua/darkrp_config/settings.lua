@@ -68,7 +68,7 @@ GM.Config.showdeaths                    = true
 -- deadtalk - Enable/disable whether people talk and use commands while dead.
 GM.Config.deadtalk                      = false
 -- deadvoice - Enable/disable whether people talk through the microphone while dead.
-GM.Config.deadvoice                     = false
+GM.Config.deadvoice                     = true
 -- deathpov - Enable/disable whether people see their death in first person view.
 GM.Config.deathpov                      = true
 -- decalcleaner - Enable/Disable clearing every player's decals.
