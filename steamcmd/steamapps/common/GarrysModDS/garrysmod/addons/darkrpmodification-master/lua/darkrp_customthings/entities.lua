@@ -163,7 +163,7 @@ DarkRP.createEntity("Solar Panel", {
 DarkRP.createEntity( "OP Printer", {
     ent = "oneprint",
     model = "models/ogl/ogl_oneprint.mdl",
-    price = 10000,
+    price = 55000,
     max = 3,
 	allowed = MONEY_PRINTER,
     cmd = "oneprint",
