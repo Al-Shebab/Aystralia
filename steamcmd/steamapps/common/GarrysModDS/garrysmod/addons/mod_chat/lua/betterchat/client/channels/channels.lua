@@ -683,8 +683,8 @@ function bc.channels.close( name )
     if not channel.hideInitMessage then
         local chanName = channel.hideRealName and channel.displayName or channel.name
         if channel.name ~= "All" and bc.settings.getValue( "printChannelEvents" ) then
-            bc.channels.messageDirect( "All", bc.defines.colors.printBlue, "Channel ",
-                bc.defines.theme.channels, chanName, bc.defines.colors.printBlue, " removed." )
+            bc.channels.messageDirect( "All", bc.defines.colors.white, "Channel ",
+                bc.defines.theme.channels, chanName, bc.defines.colors.white, " removed." )
         end
     end
     bc.sidePanel.removeChild( "Channel Settings", channel.name )
@@ -1044,12 +1044,12 @@ function bc.channels.open( name )
         local chanName = data.hideRealName and data.displayName or data.name
 
         local function createdPrint()
-            bc.channels.messageDirect( data.name, bc.defines.colors.printBlue, "Channel ",
-                bc.defines.theme.channels, chanName, bc.defines.colors.printBlue, " created." )
+            bc.channels.messageDirect( data.name, bc.defines.colors.white, "Channel ",
+                bc.defines.theme.channels, chanName, bc.defines.colors.white, " created." )
 
             if data.name ~= "All" then
-                bc.channels.messageDirect( "All", bc.defines.colors.printBlue, "Channel ",
-                    bc.defines.theme.channels, chanName, bc.defines.colors.printBlue, " created." )
+                bc.channels.messageDirect( "All", bc.defines.colors.white, "Channel ",
+                    bc.defines.theme.channels, chanName, bc.defines.colors.white, " created." )
             end
         end
         if bc.base.initializing then

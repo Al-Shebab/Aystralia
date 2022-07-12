@@ -26,12 +26,12 @@ bc.private.defaultChannel = {
         }
         if sender == self.ply then --Receive
             table.insert( tab, idx, selfPly )
-            table.insert( tab, idx + 1, bc.defines.colors.printBlue )
+            table.insert( tab, idx + 1, bc.defines.colors.white )
             table.insert( tab, idx + 2, arrow )
             table.insert( tab, idx + 3, bc.util.you() )
         else --send
             table.insert( tab, idx, bc.util.you() )
-            table.insert( tab, idx + 1, bc.defines.colors.printBlue )
+            table.insert( tab, idx + 1, bc.defines.colors.white )
             table.insert( tab, idx + 2, arrow )
             table.insert( tab, idx + 3, selfPly )
         end

@@ -8,7 +8,8 @@ DarkRP.createCategory({
     name = elegant_printers.config.CommunityName,
     categorises = "entities",
     color = elegant_printers.config.CommunityColor,
-    startExpanded = true
+    startExpanded = true,
+	sortOrder = 100000
 })
 
 local config = elegant_printers.config

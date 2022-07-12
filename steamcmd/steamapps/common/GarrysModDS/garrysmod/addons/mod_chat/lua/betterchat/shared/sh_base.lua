@@ -152,7 +152,7 @@ concommand.Add( "bc_disable", function()
         bc.base.disable()
     end
     chat.AddText( bc.defines.theme.betterChat, "BetterChat ",
-        bc.defines.colors.printBlue, "has been disabled. Go to Q->Options->BetterChat (or run bc_enable) to enable it." )
+        bc.defines.colors.white, "has been disabled. Go to Q->Options->BetterChat (or run bc_enable) to enable it." )
 end, true, "Disables BetterChat" )
 
 concommand.Add( "bc_restart", function()
@@ -184,7 +184,7 @@ concommand.Add( "bc_removesavedata", function()
 
     RunConsoleCommand( "bc_reload" )
     timer.Simple( 0.2, function()
-        chat.AddText( bc.defines.theme.betterChat, "BetterChat", bc.defines.colors.printBlue, " has successfully been restored to factory settings." )
+        chat.AddText( bc.defines.theme.betterChat, "BetterChat", bc.defines.colors.white, " has successfully been restored to factory settings." )
     end )
 end )
 
@@ -197,7 +197,7 @@ hook.Add( "InitPostEntity", "BC_loaded", function()
     if bc.base.enabled then
         bc.base.enable()
     else
-        chat.AddText( bc.defines.theme.betterChat, "BetterChat ", bc.defines.colors.printBlue, "is currently disabled. Go to Q->Options->BetterChat (or run bc_enable) to enable it." )
+        chat.AddText( bc.defines.theme.betterChat, "BetterChat ", bc.defines.colors.white, "is currently disabled. Go to Q->Options->BetterChat (or run bc_enable) to enable it." )
     end
 end, HOOK_MONITOR_HIGH )
 
@@ -214,9 +214,6 @@ function bc.base.enable()
     bc.graphics.build()
 
     -- Wait for other prints
-    timer.Simple( 0, function()
-        bc.channels.message( nil, { controller = true, doSound = false }, bc.defines.theme.betterChat, "BetterChat", bc.defines.colors.printBlue, " initialisation complete." )
-    end )
     bc.base.initializing = false
     bc.base.close()
 

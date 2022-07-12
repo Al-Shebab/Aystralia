@@ -164,7 +164,7 @@ if CLIENT then
                     table.remove( data, k )
                     table.insert( data, k, lastCol )
                     table.insert( data, k, "Console" )
-                    table.insert( data, k, bc.defines.colors.printBlue )
+                    table.insert( data, k, bc.defines.colors.white )
                     k = k + 2
                 else
                     lastCol = v

@@ -75,6 +75,15 @@ DarkRP.createCategory{
     canSee = function(ply) return true end, -- OPTIONAL: whether the player can see this category AND EVERYTHING IN IT.
     sortOrder = 5, -- OPTIONAL: With this you can decide where your category is. Low numbers to put it on top, high numbers to put it on the bottom. It's 100 by default.
 }
+-- Printers -- 
+
+DarkRP.createCategory{
+    name = "Money Printers",
+    categorises = "entities",
+	color = Color(0, 107, 0, 255),
+    startExpanded = true,
+	sortOrder = 100000
+}
 
 -- Job Specific Categories --
 
@@ -90,7 +99,7 @@ DarkRP.createCategory{
 }
 
 DarkRP.createCategory{
-	name = "Money Printer",
+	name = "OP Money Printer",
 	categorises = "entities",
 	startExpanded = true,
 	color = Color(0, 107, 0, 255),
@@ -139,7 +148,7 @@ DarkRP.createCategory{
 	startExpanded = true,
 	color = Color(0, 107, 0, 255),
     canSee = function(ply) 
-         return table.HasValue({METH_COOK}, ply:Team()) 
+         return table.HasValue({WEED_GROWER}, ply:Team()) 
     end,
 	sortOrder = 1
 }

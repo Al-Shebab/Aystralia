@@ -453,7 +453,7 @@ function f.defaultFormatMessage( ply, text, teamChat, dead, col1, col2, data )
         table.insert( tab, ply )
         table.insert( tab, bc.defines.colors.white )
     elseif type( ply ) == "Entity" and not ply:IsValid() then
-        table.insert( tab, bc.defines.colors.printBlue )
+        table.insert( tab, bc.defines.colors.white )
         table.insert( tab, "Console" )
         table.insert( tab, bc.defines.colors.white )
     else

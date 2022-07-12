@@ -61,7 +61,7 @@ function bc.overload.overload()
     o.plyMeta = FindMetaTable( "Player" )
     o.plyChatPrint = o.plyMeta.ChatPrint
     function o.plyMeta:ChatPrint( str )
-        bc.formatting.print( bc.defines.colors.printBlue, str )
+        bc.formatting.print( bc.defines.colors.white, str )
 
         o.plyChatPrint( self, str )
     end

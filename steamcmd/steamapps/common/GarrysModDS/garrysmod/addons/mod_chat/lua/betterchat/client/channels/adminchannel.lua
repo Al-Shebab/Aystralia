@@ -119,7 +119,7 @@ hook.Add( "PostGamemodeLoaded", "BC_RPAdminOverload", function()
                 else
                     local tab = {
                         bc.util.you(),
-                        bc.defines.colors.printBlue,
+                        bc.defines.colors.white,
                         " to admins: ",
                         bc.defines.theme.nonAdminText,
                         text

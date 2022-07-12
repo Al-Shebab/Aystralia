@@ -4,3 +4,216 @@
 
 [17:02:33] New map: rp_downtown_tits_v2
 [17:08:08] Client "Al Shebab" connected.
+[17:08:49] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 41 seconds).
+[17:09:54] Al Shebab: a
+
+
+
+[17:12:53] New map: rp_downtown_tits_v2
+[17:13:10] Client "Al Shebab" connected.
+[17:13:34] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+[17:13:50] Client "Skii" connected.
+
+
+
+[17:16:45] New map: rp_downtown_tits_v2
+[17:16:50] Client "Skii" connected.
+[17:17:06] Client "Al Shebab" connected.
+[17:17:28] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 22 seconds).
+[17:17:48] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 58 seconds).
+[17:18:34] <Group 0-New Group> Al Shebab~[STEAM_0:0:103364981]: nigga
+[17:18:44] Al Shebab: aa
+[17:18:48] Al Shebab: nigga
+[17:18:53] (TEAM) Al Shebab: nigga
+[17:18:56] Al Shebab: aaaa
+[17:18:58] Al Shebab: nigga
+[17:19:00] Al Shebab: nigga
+[17:19:03] DJ Bread: !logs
+[17:19:04] <Group 0-New Group> Al Shebab~[STEAM_0:0:103364981]: nigga
+[17:19:12] DJ Bread: !logs
+[17:21:03] Al Shebab: aa
+[17:21:07] Al Shebab: aa
+[17:21:09] DJ Bread: !logs
+[17:21:14] DJ Bread: !menu
+[17:22:02] Al Shebab: a
+[17:22:04] Al Shebab: bc_chatlogs
+[17:22:16] <Group 0-New Group> DJ Bread~[STEAM_0:0:579690494]: nigward
+[17:22:35] <Admin> Al Shebab~[STEAM_0:0:103364981]: AAA
+[17:23:16] Al Shebab jailed DJ Bread
+[17:23:18] DJ Bread ragdolled Al Shebab
+[17:23:20] DJ Bread unragdolled Al Shebab
+[17:23:21] Al Shebab suicided!
+[17:23:21] DJ Bread slayed Al Shebab
+[17:23:28] DJ Bread unjailed Themself
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/lockerdoorleft.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_wasteland/panel_leverhandle001a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/lockers001a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furniturebed001a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furniturebed001a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/refrigeratordoor02a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/refrigerator01a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_debris/metal_panel01a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_debris/metal_panel02a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_wasteland/panel_leverhandle001a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_lab/lockerdoorleft.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_debris/metal_panel02a.mdl
+[17:25:30] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_panel1x1.mdl
+[17:26:16] DJ Bread<STEAM_0:0:579690494> spawned model models/props_phx/construct/wood/wood_wire1x1x1.mdl
+[17:26:24] Al Shebab: :clap:
+[17:26:34] DJ Bread: ||||
+[17:26:55] Al Shebab: https://media.giphy.com/media/onPMdPD9wI4rWA6KaT/giphy.gif
+[17:27:03] Al Shebab: /gof
+[17:27:04] Al Shebab: /gif
+[17:27:10] Al Shebab: https://giphy.com/gifs/happy-birthday-hbd-hb-onPMdPD9wI4rWA6KaT
+[17:27:31] DJ Bread: *nigga*
+[17:27:33] <Admin> Al Shebab~[STEAM_0:0:103364981]: Dj
+[17:27:38] Al Shebab: ||aaaa||
+[17:27:42] Al Shebab: ~~aaaa~~
+[17:28:10] Al Shebab: a
+[17:28:17] Al Shebab: a
+[17:28:20] Al Shebab: a
+[17:28:23] Al Shebab: a
+[17:28:26] Al Shebab: a
+[17:28:29] Client "Binchicken" connected.
+[17:28:30] Al Shebab: a
+[17:28:33] Al Shebab: a
+[17:28:36] Al Shebab: a
+[17:29:09] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 40 seconds).
+[17:29:35] DJ Bread: !menu
+[17:29:38] binchicken: !menu
+[17:29:38] Al Shebab added binchicken to group staff-manager
+[17:30:49] (TEAM) Al Shebab: aa
+[17:30:55] (TEAM) DJ Bread: vcint
+[17:31:15] DJ Bread: !menu
+[17:31:45] Al Shebab added Al Shebab to group trusted
+[17:32:04] binchicken: !menu
+[17:33:09] DJ Bread: !menu
+[17:33:10] binchicken: !menu
+
+
+
+[17:34:05] New map: rp_downtown_tits_v2
+[17:34:11] Client "Binchicken" connected.
+[17:34:11] Client "Binchicken" connected.
+[17:34:11] Client "Al Shebab" connected.
+[17:34:11] Client "Skii" connected.
+[17:34:34] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 23 seconds).
+[17:34:46] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 35 seconds).
+[17:35:03] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 52 seconds).
+[17:35:11] binchicken: !menu
+[17:35:19] binchicken added Al Shebab to group superadmin
+[17:35:36] DJ Bread suicided!
+[17:35:46] DJ Bread: !menu
+[17:35:47] Al Shebab revoked access "ulx deletespawn" to group user
+[17:35:48] Al Shebab revoked access "ulx setspawn" to group user
+[17:35:51] Al Shebab revoked access "ulx thirdperson" to group user
+[17:36:54] Al Shebab revoked access "ulx bc_chatlogs" to group superadmin
+[17:37:10] <Group 0-New Group> Al Shebab~[STEAM_0:0:103364981]: nigga
+[17:37:21] <Group 0-New Group> DJ Bread~[STEAM_0:0:579690494]: nigga
+[17:38:07] (SILENT) DJ Bread began spectating Al Shebab
+[17:38:12] (SILENT) DJ Bread stopped spectating Al Shebab
+[17:38:40] DJ Bread killed Al Shebab using m9k_gdcwa_rpg_heat
+[17:38:45] DJ Bread suicided!
+[17:39:37] Al Shebab: aa
+[17:39:39] Al Shebab: asasda
+[17:39:44] binchicken: ad wa daw
+[17:39:47] binchicken: a dwa
+[17:39:49] binchicken: AD
+[17:39:51] binchicken: da
+[17:39:52] binchicken: sdgf
+[17:39:54] binchicken: fgg
+
+
+
+[17:40:58] New map: rp_downtown_tits_v2
+[17:41:13] Client "Skii" connected.
+[17:41:17] Client "Al Shebab" connected.
+[17:41:41] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+[17:41:59] Al Shebab: aa
+[17:42:05] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 52 seconds).
+[17:44:01] DJ Bread suicided!
+[17:44:54] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gate_door02a.mdl
+[17:44:56] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gate_door02a.mdl
+[17:44:58] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gate_door02a.mdl
+[17:44:59] DJ Bread<STEAM_0:0:579690494> spawned model models/props_c17/gate_door02a.mdl
+
+
+
+[17:46:21] New map: rp_downtown_tits_v2
+[17:46:26] Client "Skii" connected.
+[17:46:36] Client "Al Shebab" connected.
+[17:47:01] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 25 seconds).
+[17:47:21] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 55 seconds).
+
+
+
+[17:50:22] New map: rp_downtown_tits_v2
+[17:50:27] Client "Skii" connected.
+[17:50:28] Client "Skii" connected.
+[17:50:28] Client "Al Shebab" connected.
+[17:50:28] Client "Al Shebab" connected.
+[17:50:28] Client "Al Shebab" connected.
+[17:50:28] Client "Al Shebab" connected.
+[17:50:45] Client "Skii" connected.
+[17:50:50] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 22 seconds).
+[17:51:40] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 55 seconds).
+
+
+
+[17:53:32] New map: rp_downtown_tits_v2
+[17:53:37] Client "Skii" connected.
+[17:53:40] Client "Al Shebab" connected.
+[17:54:04] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 24 seconds).
+[17:54:30] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 53 seconds).
+
+
+
+[17:55:51] New map: rp_downtown_tits_v2
+[17:55:56] Client "Skii" connected.
+[17:56:09] Client "Al Shebab" connected.
+[17:56:32] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 23 seconds).
+[17:56:50] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 54 seconds).
+[17:58:16] Al Shebab: asdasd
+[17:59:29] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_1
+[17:59:31] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_2
+[17:59:32] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_rack
+[17:59:33] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_server
+[17:59:36] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_server
+[17:59:37] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_rack
+[17:59:43] DJ Bread killed Al Shebab using bm2_bitminer_rack
+[17:59:48] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_bitminer_rack
+[17:59:55] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_generator
+[18:00:15] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_extra_fuel_line
+[18:00:16] DJ Bread<STEAM_0:0:579690494> spawned sent bm2_extra_fuel_tank
+[18:00:19] DJ Bread<STEAM_0:0:579690494> spawned sent oneprint
+[18:05:23] Client "Binchicken" connected.
+[18:05:55] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 32 seconds).
+[18:08:12] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[18:08:19] DJ Bread<STEAM_0:0:579690494> spawned vehicle models/buggy.mdl
+[18:09:19] DJ Bread: !menu
+
+
+
+[18:10:17] New map: rp_downtown_tits_v2
+[18:10:28] Client "Al Shebab" connected.
+[18:10:31] Client "Skii" connected.
+[18:10:42] Client "Binchicken" connected.
+[18:10:50] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 22 seconds).
+[18:11:22] Client "Binchicken" spawned in server <STEAM_0:0:437291733> (took 40 seconds).
+[18:11:25] Client "Skii" spawned in server <STEAM_0:0:579690494> (took 54 seconds).
+[18:11:32] Al Shebab<STEAM_0:0:103364981> spawned vehicle models/airboat.mdl
+[18:15:20] Dropped "binchicken" from server<STEAM_0:0:437291733>
+
+
+
+[18:21:56] New map: rp_downtown_tits_v2
+[18:22:43] Client "Al Shebab" connected.
+[18:23:06] Client "Al Shebab" spawned in server <STEAM_0:0:103364981> (took 23 seconds).

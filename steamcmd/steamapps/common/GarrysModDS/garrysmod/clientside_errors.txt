@@ -1508,3 +1508,416 @@ Frazer|12|STEAM_0:0:120840551
 
 
 
+Al Shebab|2|STEAM_0:0:103364981
+
+[mod_chat] addons/mod_chat/lua/betterchat/client/channels/channels.lua:1046: bad argument #2 to 'Simple' (function expected, got nil)
+  1. Simple - [C]:-1
+   2. open - addons/mod_chat/lua/betterchat/client/channels/channels.lua:1046
+    3. openSaved - addons/mod_chat/lua/betterchat/client/channels/channels.lua:145
+     4. fn - addons/mod_chat/lua/betterchat/client/channels/channels.lua:167
+      5. Run - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. build - addons/mod_chat/lua/betterchat/client/graphics.lua:229
+        7. enable - addons/mod_chat/lua/betterchat/shared/sh_base.lua:214
+         8. fn - addons/mod_chat/lua/betterchat/shared/sh_base.lua:198
+          9. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[xenin_f4] addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. AddTab - addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17
+    3. Init - addons/xenin_f4/lua/xenin_f4/ui/dashboard/main.lua:127
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+      5. Add - lua/includes/extensions/client/panel.lua:496
+       6. CreatePanel - lua/xeninui/elements/sidebar_v2.lua:83
+        7. Init - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:35
+         8. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+          9. OpenMenu - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:130
+           10. openF4Menu - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:489
+            11. Call - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:492
+             12. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[xenin_f4] addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. AddTab - addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17
+    3. Init - addons/xenin_f4/lua/xenin_f4/ui/dashboard/main.lua:127
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+      5. Add - lua/includes/extensions/client/panel.lua:496
+       6. CreatePanel - lua/xeninui/elements/sidebar_v2.lua:83
+        7. Init - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:35
+         8. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+          9. OpenMenu - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:130
+           10. openF4Menu - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:489
+            11. Call - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:492
+             12. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[xenin_f4] addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. AddTab - addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17
+    3. Init - addons/xenin_f4/lua/xenin_f4/ui/dashboard/main.lua:127
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+      5. Add - lua/includes/extensions/client/panel.lua:496
+       6. CreatePanel - lua/xeninui/elements/sidebar_v2.lua:83
+        7. Init - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:35
+         8. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+          9. OpenMenu - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:130
+           10. openF4Menu - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:489
+            11. Call - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:492
+             12. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[xenin_f4] addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. AddTab - addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17
+    3. Init - addons/xenin_f4/lua/xenin_f4/ui/dashboard/main.lua:127
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+      5. Add - lua/includes/extensions/client/panel.lua:496
+       6. CreatePanel - lua/xeninui/elements/sidebar_v2.lua:83
+        7. Init - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:35
+         8. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+          9. OpenMenu - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:130
+           10. openF4Menu - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:489
+            11. Call - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:492
+             12. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Skii|2|STEAM_0:0:579690494
+
+[xenin_f4] addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17: bad argument #1 to 'SetText' (string expected, got nil)
+  1. SetText - [C]:-1
+   2. AddTab - addons/xenin_f4/lua/xenin_f4/ui/dashboard/navbar.lua:17
+    3. Init - addons/xenin_f4/lua/xenin_f4/ui/dashboard/main.lua:127
+     4. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+      5. Add - lua/includes/extensions/client/panel.lua:496
+       6. CreatePanel - lua/xeninui/elements/sidebar_v2.lua:83
+        7. Init - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:35
+         8. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:37
+          9. OpenMenu - addons/xenin_f4/lua/xenin_f4/ui/frame/main.lua:130
+           10. openF4Menu - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:489
+            11. Call - addons/xenin_f4/lua/xenin_f4/ui/jobs/main.lua:492
+             12. unknown - gamemodes/darkrp/gamemode/modules/base/cl_gamemode_functions.lua:64
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[bitminers_2_extras] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2_extras/lua/bitminers2_extra_config.lua" on line 31.
+The best help I can give you is this:
+
+Corrupt entity: Large Fuel!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2_extras/lua/bitminers2_extra_config.lua on line 31
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. addons/bitminers_2/lua/bitminers2_config.lua on line 111
+	4. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	5. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	6. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2_extras/lua/bitminers2_extra_config.lua:31
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. fn - addons/bitminers_2/lua/bitminers2_config.lua:111
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+          9. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Skii|2|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2_extras/lua/bitminers2_extra_config.lua" on line 31.
+The best help I can give you is this:
+
+Corrupt entity: Large Fuel!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2_extras/lua/bitminers2_extra_config.lua on line 31
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. addons/bitminers_2/lua/bitminers2_config.lua on line 111
+	4. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	5. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	6. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2_extras/lua/bitminers2_extra_config.lua:31
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. fn - addons/bitminers_2/lua/bitminers2_config.lua:111
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+          9. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|2|STEAM_0:0:579690494
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Binchicken|4|STEAM_0:0:437291733
+
+[bitminers_2] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2/lua/bitminers2_config.lua" on line 39.
+The best help I can give you is this:
+
+Corrupt entity: Bitminer S1!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2/lua/bitminers2_config.lua on line 39
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	4. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2/lua/bitminers2_config.lua:39
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+        7. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|4|STEAM_0:0:437291733
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[bitminers_2] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2/lua/bitminers2_config.lua" on line 39.
+The best help I can give you is this:
+
+Corrupt entity: Bitminer S1!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2/lua/bitminers2_config.lua on line 39
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	4. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2/lua/bitminers2_config.lua:39
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+        7. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Skii|2|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2/lua/bitminers2_config.lua" on line 39.
+The best help I can give you is this:
+
+Corrupt entity: Bitminer S1!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2/lua/bitminers2_config.lua on line 39
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	4. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2/lua/bitminers2_config.lua:39
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+        7. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|2|STEAM_0:0:579690494
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Binchicken|4|STEAM_0:0:437291733
+
+[bitminers_2] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2/lua/bitminers2_config.lua" on line 39.
+The best help I can give you is this:
+
+Corrupt entity: Bitminer S1!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2/lua/bitminers2_config.lua on line 39
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	4. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2/lua/bitminers2_config.lua:39
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+        7. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Binchicken|4|STEAM_0:0:437291733
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Al Shebab|3|STEAM_0:0:103364981
+
+[bitminers_2] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2/lua/bitminers2_config.lua" on line 39.
+The best help I can give you is this:
+
+Corrupt entity: Bitminer S1!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2/lua/bitminers2_config.lua on line 39
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	4. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2/lua/bitminers2_config.lua:39
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+        7. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|3|STEAM_0:0:103364981
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Skii|2|STEAM_0:0:579690494
+
+[DarkRP] gamemodes/darkrp/gamemode/libraries/simplerr.lua:528: [ERROR] A runtime error has occurred in "addons/bitminers_2/lua/bitminers2_config.lua" on line 39.
+The best help I can give you is this:
+
+Corrupt entity: Bitminer S1!
+This entity does not have a unique command.
+
+Hints:
+	- There must be some other entity that has the same thing for 'cmd'.
+	- Fix this by changing the 'cmd' field of your entity to something else.
+
+The responsibility for the error above lies with (the authors of) one (or more) of these files:
+	1. addons/bitminers_2/lua/bitminers2_config.lua on line 39
+	2. addons/ulib/lua/ulib/shared/hook.lua on line 109
+	3. gamemodes/darkrp/gamemode/libraries/modificationloader.lua on line 150
+	4. gamemodes/darkrp/gamemode/cl_init.lua on line 56
+------- End of Simplerr error -------
+
+  1. error - [C]:-1
+   2. error - gamemodes/darkrp/gamemode/libraries/simplerr.lua:528
+    3. createEntity - gamemodes/darkrp/gamemode/modules/base/sh_createitems.lua:624
+     4. fn - addons/bitminers_2/lua/bitminers2_config.lua:39
+      5. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+       6. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:150
+        7. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|2|STEAM_0:0:579690494
+Couldn't Load Init Script: 'darkrp/gamemode/cl_init.lua'
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/categories.lua:85: '}' expected (to close '{' at line 80) near 'sortOrder'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|3|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/categories.lua:85: '}' expected (to close '{' at line 80) near 'sortOrder'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Al Shebab|2|STEAM_0:0:103364981
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/categories.lua:85: '}' expected (to close '{' at line 80) near 'sortOrder'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Skii|3|STEAM_0:0:579690494
+
+[darkrpmodification-master] addons/darkrpmodification-master/lua/darkrp_customthings/categories.lua:85: '}' expected (to close '{' at line 80) near 'sortOrder'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+

@@ -123,7 +123,7 @@ end
 o.PrintMessage = o.PrintMessage or PrintMessage
 function PrintMessage( type, message )
     if type == HUD_PRINTTALK then
-        ULib.clientRPC( nil, "bc.formatting.print", bc.defines.colors.printBlue, message )
+        ULib.clientRPC( nil, "bc.formatting.print", bc.defines.colors.white, message )
     end
     o.PrintMessage( type, message )
 end
@@ -132,14 +132,14 @@ local plyMeta = FindMetaTable( "Player" )
 o.PlyPrintMessage = o.PlyPrintMessage or plyMeta.PrintMessage
 function plyMeta:PrintMessage( type, message )
     if type == HUD_PRINTTALK then
-        ULib.clientRPC( self, "bc.formatting.print", bc.defines.colors.printBlue, message )
+        ULib.clientRPC( self, "bc.formatting.print", bc.defines.colors.white, message )
     end
     o.PlyPrintMessage( self, type, message )
 end
 
 o.ChatPrint = o.ChatPrint or plyMeta.ChatPrint
 function plyMeta:ChatPrint( msg )
-    ULib.clientRPC( self, "bc.formatting.print", bc.defines.colors.printBlue, msg )
+    ULib.clientRPC( self, "bc.formatting.print", bc.defines.colors.white, msg )
     o.ChatPrint( self, msg )
 end
 
@@ -162,11 +162,11 @@ function bc.manager.sendNormalClient( ply, ... )
             local plyColor, plyName = bc.manager.formatName( ply, v )
             table.insert( data, plyColor )
             table.insert( data, plyName )
-            table.insert( data, bc.defines.colors.printBlue )
+            table.insert( data, bc.defines.colors.white )
         elseif type( v ) == "Entity" and v:EntIndex() == 0 then
             table.insert( data, bc.defines.colors.black )
             table.insert( data, "(Console)" )
-            table.insert( data, bc.defines.colors.printBlue )
+            table.insert( data, bc.defines.colors.white )
         else
             table.insert( data, v )
         end

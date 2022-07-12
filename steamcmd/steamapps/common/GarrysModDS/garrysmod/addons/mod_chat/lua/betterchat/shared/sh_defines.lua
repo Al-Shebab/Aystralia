@@ -105,7 +105,7 @@ bc.defines.theme = {
 
     textHighlight = colors.orange,
     timeStamps = colors.printYellow,
-    server = colors.printBlue,
+    server = colors.white,
 }
 
 colors.betterchat = bc.defines.theme.betterChat

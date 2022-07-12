@@ -19,11 +19,11 @@ elegant_printers.config = {
     price = 1000,
 --  The price of a default printer.
 
-    max = math.huge,
+    max = 10,
 --  By default, you can have any number of printers you want at once. (math.huge = BASICALLY INFINITE)
 --  If you set this to a number, you will be limited in the amount of printers you can simultaneously own!
 
-    GlobalMax = math.huge,
+    GlobalMax = 10,
 --  Maximum amounts of printers you can have at once, regardless of their tier.
 
     SeizeReward = 10000,
@@ -224,14 +224,14 @@ elegant_printers.config = {
     },
     GlobalMaxVIPs = {
         vip = 10,
-        superadmin = math.huge,
+        superadmin = 10,
     },
 
 --[[
     Miscellaneous values, used for printing in the chat as well as the console, and the F4 menu category.
 ]]
-    CommunityName = "Elegant Printers",
-    CommunityColor = Color(41, 132, 244),
+    CommunityName = "Money Printers",
+    CommunityColor = Color(107, 0, 255),
 }
 
 --[[

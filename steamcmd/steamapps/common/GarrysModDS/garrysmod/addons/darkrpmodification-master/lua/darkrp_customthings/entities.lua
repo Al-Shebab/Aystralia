@@ -16,6 +16,148 @@ https://darkrp.miraheze.org/wiki/DarkRP:CustomEntityFields
 
 Add entities under the following line:
 ---------------------------------------------------------------------------]]
+-- Bitcoin Miner --
+
+DarkRP.createEntity("Bitminer S1", {
+	ent = "bm2_bitminer_1",
+	model = "models/bitminers2/bitminer_1.mdl",
+	price = 5000,
+	max = 4,
+	cmd = "buybitminers1",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+}) 
+
+DarkRP.createEntity("Bitminer S2", {
+	ent = "bm2_bitminer_2",
+	model = "models/bitminers2/bitminer_3.mdl",
+	price = 25000,
+	max = 4,
+	cmd = "buybitminers2",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Bitminer Server", {
+	ent = "bm2_bitminer_server",
+	model = "models/bitminers2/bitminer_2.mdl",
+	price = 50000,
+	max = 16,
+	cmd = "buybitminerserver",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Bitminer Rack", {
+	ent = "bm2_bitminer_rack",
+	model = "models/bitminers2/bitminer_rack.mdl",
+	price = 100000,
+	max = 2,
+	cmd = "buybitminerrack",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Extension Lead", {
+	ent = "bm2_extention_lead",
+	model = "models/bitminers2/bitminer_plug_3.mdl",
+	price = 500,
+	max = 8,
+	cmd = "buybitminerextension",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Power Lead", {
+	ent = "bm2_power_lead",
+	model = "models/bitminers2/bitminer_plug_2.mdl",
+	price = 500,
+	max = 10,
+	cmd = "buybitminerpowerlead",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Generator", {
+	ent = "bm2_generator",
+	model = "models/bitminers2/generator.mdl",
+	price = 6000,
+	max = 3,
+	cmd = "buybitminergenerator",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Fuel", {
+	ent = "bm2_fuel",
+	model = "models/props_junk/gascan001a.mdl",
+	price = 1000,
+	max = 4,
+	cmd = "buybitminerfuel",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Fuel Line", {
+	ent = "bm2_extra_fuel_line",
+	model = "models/bitminers2/bm2_extra_fuel_plug.mdl",
+	price = 1500,
+	max = 2,
+	cmd = "buyfuelline",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+}) 
+
+DarkRP.createEntity("Large Fuel", {
+	ent = "bm2_large_fuel",
+	model = "models/props/de_train/barrel.mdl",
+	price = 4000,
+	max = 4,
+	cmd = "buylargefuel",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Fuel Tank", {
+	ent = "bm2_extra_fuel_tank",
+	model = "models/bitminers2/bm2_extra_fueltank.mdl",
+	price = 10000,
+	max = 2,
+	cmd = "buyfueltank",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Solar Cable", {
+	ent = "bm2_solar_cable",
+	model = "models/bitminers2/bm2_solar_plug.mdl",
+	price = 500,
+	max = 10,
+	cmd = "buysolarcable",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Solar Converter", {
+	ent = "bm2_solarconverter",
+	model = "models/bitminers2/bm2_solar_converter.mdl",
+	price = 20000,
+	max = 1,
+	cmd = "buysolarconverter",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
+DarkRP.createEntity("Solar Panel", {
+	ent = "bm2_solar_panel",
+	model = "models/bitminers2/bm2_solar_panel.mdl",
+	price = 15000,
+	max = 10,
+	cmd = "buysolarpanel",
+    allowed = BITCOIN_MINER,
+	category = "Bitcoin Mining"
+})
+
 -- Money Printer Job --
 
 DarkRP.createEntity( "OP Printer", {

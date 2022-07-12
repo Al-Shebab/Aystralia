@@ -59,7 +59,7 @@ net.Receive( "BC_LM", function()
         local from = data[1]
         local to = data[3]
         if from == LocalPlayer() or to == LocalPlayer() then return end
-        table.insert( data, 2, bc.defines.colors.printBlue )
+        table.insert( data, 2, bc.defines.colors.white )
         table.insert( data, 4, bc.defines.colors.white )
         message = { bc.defines.theme.logsPrefix, "PM", bc.defines.colors.white, " | ", unpack( data ) }
     elseif channelType == bc.defines.channelTypes.GROUP then
