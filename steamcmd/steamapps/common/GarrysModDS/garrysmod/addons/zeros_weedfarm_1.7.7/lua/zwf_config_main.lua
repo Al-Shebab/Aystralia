@@ -54,12 +54,11 @@ zwf.config.UoL = "l"
 // If xAdmin or SAM is installed then this table will be ignored
 zwf.config.AdminRanks = {
     ["superadmin"] = true,
-    ["owner"] = true,
 }
 
 // Those job can sell weed and interact with the grow entities (Leave empty to allow everyone to sell weed)
 zwf.config.Jobs = {
-    [TEAM_ZWF_WEEDGROWER] = true,
+    [WEED_GROWER] = true,
 }
 
 // What entities should have the player be the CPPI Owner (This allows them to move the entities via physgun)
