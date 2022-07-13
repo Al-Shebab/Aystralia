@@ -2,7 +2,6 @@ Msg( "// Command tebex:forcecheck  //\n" )
 
 
 Tebex.commands["forcecheck"] = function(ply, args)
-    Tebex.warn("Checking for commands to be executed...");
     apiclient = TebexApiClient:init(config:get("baseUrl"), config:get("secret"))
     apiclient:get("/queue", function(response)
 
