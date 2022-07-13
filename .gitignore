@@ -2,6 +2,7 @@
 *.bsp
 *.gma
 *.db
+*.manifest
 steamcmd/steamapps/common/GarrysModDS/logs/*
 steamcmd/steamapps/common/GarrysModDS/garrysmod/logs/*
 steamcmd/steamapps/common/GarrysModDS/garrysmod/data/ulx_logs/*
@@ -11,8 +12,6 @@ steamcmd/steamapps/common/GarrysModDS/config/config.vdf
 steamcmd/steamapps/common/GarrysModDS/steam_cache/appworkshop_4000.acf
 steamcmd/steamapps/common/GarrysModDS/garrysmod/data/gmodadminsuite/configs/logging.txt
 steamcmd/steamapps/common/GarrysModDS/steam_cache/content/4000/*
-
 steamcmd/steamapps/common/GarrysModDS/garrysmod/modelsounds.cache
 steamcmd/steamapps/common/GarrysModDS/garrysmod/clientside_errors.txt
 steamcmd/steamapps/common/GarrysModDS/garrysmod/data/ulib/users.txt
-steamcmd/steamapps/common/GarrysModDS/depotcache/4000_7868187879513785058.manifest
