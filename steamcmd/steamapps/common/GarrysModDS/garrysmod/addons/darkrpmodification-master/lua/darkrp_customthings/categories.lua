@@ -85,6 +85,14 @@ DarkRP.createCategory{
 	sortOrder = 100000
 }
 
+DarkRP.createCategory{
+    name = "Money Printer Upgrades",
+    categorises = "entities",
+	color = Color(0, 107, 0, 255),
+    startExpanded = true,
+	sortOrder = 1000001
+}
+
 -- Job Specific Categories --
 
 DarkRP.createCategory{
