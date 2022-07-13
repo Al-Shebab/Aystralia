@@ -1,7 +1,0 @@
-Tue Jul 12 17:41:41 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
-Tue Jul 12 17:41:41 2022	Al Shebab (STEAM_0:0:103364981) spawned
-Tue Jul 12 17:41:59 2022	Al Shebab (STEAM_0:0:103364981): aa
-Tue Jul 12 17:42:05 2022	Skii (STEAM_0:0:579690494) has joined the game
-Tue Jul 12 17:42:05 2022	DJ Bread (STEAM_0:0:579690494) spawned
-Tue Jul 12 17:44:01 2022	DJ Bread was killed by Himself with a suicide trick
-Tue Jul 12 17:44:04 2022	DJ Bread (STEAM_0:0:579690494) spawned

@@ -1,8 +1,0 @@
-Tue Jul 12 18:10:50 2022	Al Shebab (STEAM_0:0:103364981) has joined the game
-Tue Jul 12 18:10:50 2022	Al Shebab (STEAM_0:0:103364981) spawned
-Tue Jul 12 18:11:22 2022	Binchicken (STEAM_0:0:437291733) has joined the game
-Tue Jul 12 18:11:22 2022	binchicken (STEAM_0:0:437291733) spawned
-Tue Jul 12 18:11:25 2022	Skii (STEAM_0:0:579690494) has joined the game
-Tue Jul 12 18:11:25 2022	DJ Bread (STEAM_0:0:579690494) spawned
-Tue Jul 12 18:11:32 2022	Al Shebab (STEAM_0:0:103364981) spawned Vehicle prop_vehicle_airboat (Airboat)
-Tue Jul 12 18:15:20 2022	binchicken (STEAM_0:0:437291733) disconnected

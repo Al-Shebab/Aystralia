@@ -2,3 +2,7 @@
 *.bsp
 *.gma
 *.db
+steamcmd/steamapps/common/GarrysModDS/logs/
+steamcmd/steamapps/common/GarrysModDS/garrysmod/data/ulx_logs/
+steamcmd/steamapps/common/GarrysModDS/garrysmod/data/darkrp_logs/
+steamcmd/steamapps/common/GarrysModDS/config/config.vdf
