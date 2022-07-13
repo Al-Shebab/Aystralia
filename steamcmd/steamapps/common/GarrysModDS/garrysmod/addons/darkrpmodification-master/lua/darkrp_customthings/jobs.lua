@@ -201,7 +201,11 @@ WEED_GROWER = DarkRP.createJob("Weed Grower", {
     color = Color(255, 82, 82),
     model = "models/player/voikanaa/snoop_dogg.mdl",
     description = [[ ]],
-    weapons = {},
+    weapons = {
+        "zwf_shoptablet",
+        "zwf_wateringcan",
+        "zwf_cable",
+    },
     command = "weed_grower",
     max = 4,
     salary = 0,

@@ -89,7 +89,7 @@ MainPanel.Paint = function (self, w, h)
 
 	// Armor Bar
 	SmoothArmor = Lerp(5 * FrameTime(), SmoothArmor, ply:Armor())
-	local armor = math.Clamp(SmoothArmor, 1, 255) / 255
+	local armor = math.Clamp(SmoothArmor, 1, 100) / 100
 	RayUI:CreateBar( bar_x, (67 + 34) * RayUI.Scale + main_y * 2, 170 * RayUI.Scale, 9, RayUI.Colors.LightArmor, RayUI.Colors.Armor, armor, RayUI.GetPhrase("hud", "armor") .. ": " .. ply:Armor() .. "", RayUI.Icons.Shield )
 
 	// Money Bar
