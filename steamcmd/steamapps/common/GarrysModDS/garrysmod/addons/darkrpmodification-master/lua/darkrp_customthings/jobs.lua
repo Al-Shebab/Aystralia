@@ -112,7 +112,7 @@ CIVILIAN = DarkRP.createJob("Civilian", {
 
 BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
     color = Color(225, 75, 75, 255),
-    model = {"models/player/group03/male_04.mdl"},
+    model = {"models/obese_male.mdl"},
     description = [[ ]],
     weapons = {},
     command = "bitcoin_miner",
@@ -126,7 +126,17 @@ BITCOIN_MINER = DarkRP.createJob("Bitcoin Miner", {
 
 MONEY_PRINTER = DarkRP.createJob("Money Printer", {
     color = Color(225, 75, 75, 255),
-    model = {"models/player/group03/male_04.mdl"},
+    model = {
+        "models/player/Suits/male_09_shirt_tie.mdl",
+        "models/player/Suits/male_08_shirt_tie.mdl",
+        "models/player/Suits/male_07_shirt_tie.mdl",
+        "models/player/Suits/male_06_shirt_tie.mdl",
+        "models/player/Suits/male_05_shirt_tie.mdl",
+        "models/player/Suits/male_04_shirt_tie.mdl",
+        "models/player/Suits/male_03_shirt_tie.mdl",
+        "models/player/Suits/male_02_shirt_tie.mdl",
+        "models/player/Suits/male_01_shirt_tie.mdl",
+    },
     description = [[ ]],
     weapons = {},
     command = "money_printer",
@@ -156,7 +166,7 @@ OIL_REFINER = DarkRP.createJob("Oil Refiner", {
 
 MINER = DarkRP.createJob("Miner", {
     color = Color(225, 75, 75, 255),
-    model = {"models/player/group03/male_04.mdl"},
+    model = {"models/player/blockdude.mdl"},
     description = [[ ]],
     weapons = {},
     command = "miner",
@@ -172,7 +182,7 @@ MINER = DarkRP.createJob("Miner", {
 
 METH_COOK = DarkRP.createJob("Meth Cook", {
     color = Color(255, 82, 82),
-    model = "models/fearless/chef1.mdl",
+    model = "models/walter_white/walter_white.mdl",
     description = [[ ]],
     weapons = {
         "zmlab_extractor"
@@ -189,7 +199,7 @@ METH_COOK = DarkRP.createJob("Meth Cook", {
 
 WEED_GROWER = DarkRP.createJob("Weed Grower", {
     color = Color(255, 82, 82),
-    model = "models/fearless/chef1.mdl",
+    model = "models/player/voikanaa/snoop_dogg.mdl",
     description = [[ ]],
     weapons = {},
     command = "weed_grower",
