@@ -20,7 +20,7 @@ local Configuration = RogueScoreboard.Configuration
 // M A I N   C O N F I G U R A T I O N S
 
 -- Server title
-Configuration.ServerTitle           = "Aystralia"
+Configuration.ServerTitle           = "A y s t r a l i a"
 
 -- Are you using DarkRP?
 Configuration.DarkRP                = true
