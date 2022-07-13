@@ -79,7 +79,7 @@ MainPanel.Paint = function (self, w, h)
 	// Health Bar
 	SmoothHealth = Lerp(5 * FrameTime(), SmoothHealth, ply:Health())
 	local hl = math.Clamp(SmoothHealth, 1, ply:GetMaxHealth()) / ply:GetMaxHealth()
-	local HPText = RayUI.GetPhrase("hud", "health") .. ": " .. math.Clamp(ply:Health(), 0, ply:Health()) .. " / " .. ply:GetMaxHealth()
+	local HPText = RayUI.GetPhrase("hud", "health") .. ": " .. math.Clamp(ply:Health(), 0, ply:Health()) .. ""
 	local Var = math.Clamp(  math.abs( math.sin( CurTime() * 5 ) ), 0.75, 1 )
 	local HPColor = RayUI.Colors.HP
 	if ply:Health() <= 20 then
@@ -90,7 +90,7 @@ MainPanel.Paint = function (self, w, h)
 	// Armor Bar
 	SmoothArmor = Lerp(5 * FrameTime(), SmoothArmor, ply:Armor())
 	local armor = math.Clamp(SmoothArmor, 1, 255) / 255
-	RayUI:CreateBar( bar_x, (67 + 34) * RayUI.Scale + main_y * 2, 170 * RayUI.Scale, 9, RayUI.Colors.LightArmor, RayUI.Colors.Armor, armor, RayUI.GetPhrase("hud", "armor") .. ": " .. ply:Armor() .. " / 255", RayUI.Icons.Shield )
+	RayUI:CreateBar( bar_x, (67 + 34) * RayUI.Scale + main_y * 2, 170 * RayUI.Scale, 9, RayUI.Colors.LightArmor, RayUI.Colors.Armor, armor, RayUI.GetPhrase("hud", "armor") .. ": " .. ply:Armor() .. "", RayUI.Icons.Shield )
 
 	// Money Bar
 	surface.SetMaterial( RayUI.Icons.Money )
