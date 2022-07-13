@@ -122,7 +122,7 @@ GM.Config.needwantedforarrest           = false
 -- noguns - Enabling this feature bans Guns and Gun Dealers.
 GM.Config.noguns                        = false
 -- norespawn - Enable/Disable that people don't have to respawn when they change job.
-GM.Config.norespawn                     = true
+GM.Config.norespawn                     = false
 -- instantjob - Enable/Disable instantly respawning when norespawn is false
 GM.Config.instantjob                    = false
 -- npcarrest - Enable/disable arresting npc's.
@@ -195,7 +195,7 @@ GM.Config.babygodtime                   = 3
 -- Leave this on at least a few seconds to prevent people from spamming sounds. Set to 0 to disable.
 GM.Config.chatsoundsdelay               = 5
 -- deathfee - the amount of money someone drops when dead.
-GM.Config.deathfee                      = 500
+GM.Config.deathfee                      = 1000
 -- decaltimer - Sets the time to clear clientside decals (in seconds).
 GM.Config.decaltimer                    = 600
 -- demotetime - Number of seconds before a player can rejoin a team after demotion from that team.
@@ -301,10 +301,10 @@ GM.Config.printerreward                 = 950
 Chat distance settings
 Distance is in source units (similar to inches)
 ---------------------------------------------------------------------------]]
-GM.Config.talkDistance    = 250
+GM.Config.talkDistance    = 350
 GM.Config.whisperDistance = 90
-GM.Config.yellDistance    = 550
-GM.Config.meDistance      = 250
+GM.Config.yellDistance    = 750
+GM.Config.meDistance      = 150
 GM.Config.voiceDistance   = 550
 
 --[[---------------------------------------------------------------------------
