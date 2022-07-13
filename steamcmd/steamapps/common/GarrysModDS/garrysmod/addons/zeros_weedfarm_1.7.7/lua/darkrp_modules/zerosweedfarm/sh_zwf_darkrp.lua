@@ -1,56 +1,3 @@
-TEAM_ZWF_WEEDGROWER = DarkRP.createJob("Weed Grower", {
-    color = Color(225, 75, 75, 255),
-    model = {"models/player/group03/male_04.mdl"},
-    description = [[You grow and sell dank weed.]],
-    weapons = {"zwf_shoptablet", "zwf_cable", "zwf_wateringcan"},
-    command = "zwf_weedgrower",
-    max = 2,
-    salary = 0,
-    admin = 0,
-    vote = false,
-    category = "Gangsters",
-    hasLicense = false,
-})
-
-DarkRP.createCategory{
-    name = "Weed Grower",
-    categorises = "entities",
-    startExpanded = true,
-    color = Color(255, 107, 0, 255),
-    canSee = function(ply) return true end,
-    sortOrder = 104
-}
-
-DarkRP.createEntity("DoobyTable", {
-    ent = "zwf_doobytable",
-    model = "models/zerochain/props_weedfarm/zwf_doobytable.mdl",
-    price = 5000,
-    max = 1,
-    cmd = "buyzwf_doobytable",
-    allowed = {TEAM_ZWF_WEEDGROWER},
-    category = "Weed Grower"
-})
-
-DarkRP.createEntity("Mixer", {
-    ent = "zwf_mixer",
-    model = "models/zerochain/props_weedfarm/zwf_mixer.mdl",
-    price = 5000,
-    max = 1,
-    cmd = "buyzwf_mixer",
-    allowed = {TEAM_ZWF_WEEDGROWER},
-    category = "Weed Grower"
-})
-
-DarkRP.createEntity("Oven", {
-    ent = "zwf_oven",
-    model = "models/zerochain/props_weedfarm/zwf_oven.mdl",
-    price = 5000,
-    max = 1,
-    cmd = "buyzwf_oven",
-    allowed = {TEAM_ZWF_WEEDGROWER},
-    category = "Weed Grower"
-})
-
 local function Spawn_BackMix(id,ply,tr)
     local backmix = ents.Create("zwf_backmix")
     backmix:SetPos(tr.HitPos)
@@ -61,32 +8,6 @@ local function Spawn_BackMix(id,ply,tr)
     return backmix
 end
 
-DarkRP.createEntity("Muffin Mix", {
-    ent = "zwf_backmix",
-    model = "models/zerochain/props_weedfarm/zwf_backmix_muffin.mdl",
-    price = 500,
-    max = 3,
-    cmd = "buyzwf_backmix_muffin",
-    allowed = {TEAM_ZWF_WEEDGROWER},
-    category = "Weed Grower",
-    spawn = function(ply, tr, tblEnt)
-        return  Spawn_BackMix(1,ply,tr)
-    end
-})
-
-DarkRP.createEntity("Brownie Mix", {
-    ent = "zwf_backmix",
-    model = "models/zerochain/props_weedfarm/zwf_backmix_brownie.mdl",
-    price = 500,
-    max = 3,
-    cmd = "buyzwf_backmix_brownie",
-    allowed = {TEAM_ZWF_WEEDGROWER},
-    category = "Weed Grower",
-    spawn = function(ply, tr, tblEnt)
-        return  Spawn_BackMix(2,ply,tr)
-    end
-})
-
 // If you dont want to use the tablet swep then you can enable this instead and remove the swep from the player.
 /*
 // Equipment
@@ -96,7 +17,7 @@ DarkRP.createEntity("Autopacker", {
     price = 10000,
     max = 1,
     cmd = "buyzwf_autopacker",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Fan", {
@@ -105,7 +26,7 @@ DarkRP.createEntity("Fan", {
     price = 3000,
     max = 3,
     cmd = "buyzwf_ventilator",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Powerstrip", {
@@ -114,7 +35,7 @@ DarkRP.createEntity("Powerstrip", {
     price = 300,
     max = 2,
     cmd = "buyzwf_outlet",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Flowerpot", {
@@ -123,7 +44,7 @@ DarkRP.createEntity("Flowerpot", {
     price = 300,
     max = 10,
     cmd = "buyzwf_pot",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Hydro Flowerpot", {
@@ -132,7 +53,7 @@ DarkRP.createEntity("Hydro Flowerpot", {
     price = 500,
     max = 10,
     cmd = "buyzwf_pot_hydro",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Soil", {
@@ -141,7 +62,7 @@ DarkRP.createEntity("Soil", {
     price = 300,
     max = 10,
     cmd = "buyzwf_soil",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Watertank", {
@@ -150,7 +71,7 @@ DarkRP.createEntity("Watertank", {
     price = 3000,
     max = 1,
     cmd = "buyzwf_watertank",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Dry Station", {
@@ -159,7 +80,7 @@ DarkRP.createEntity("Dry Station", {
     price = 3000,
     max = 1,
     cmd = "buyzwf_drystation",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Fuel", {
@@ -168,7 +89,7 @@ DarkRP.createEntity("Fuel", {
     price = 1000,
     max = 3,
     cmd = "buyzwf_fuel",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Generator", {
@@ -177,7 +98,7 @@ DarkRP.createEntity("Generator", {
     price = 5000,
     max = 1,
     cmd = "buyzwf_generator",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Packing Table", {
@@ -186,7 +107,7 @@ DarkRP.createEntity("Packing Table", {
     price = 3000,
     max = 1,
     cmd = "buyzwf_packingstation",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Seed Lab", {
@@ -195,7 +116,7 @@ DarkRP.createEntity("Seed Lab", {
     price = 5000,
     max = 1,
     cmd = "buyzwf_splice_lab",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Seed Bank", {
@@ -204,7 +125,7 @@ DarkRP.createEntity("Seed Bank", {
     price = 1000,
     max = 1,
     cmd = "buyzwf_seed_bank",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 DarkRP.createEntity("Palette", {
@@ -213,7 +134,7 @@ DarkRP.createEntity("Palette", {
     price = 250,
     max = 2,
     cmd = "buyzwf_palette",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower"
 })
 
@@ -235,7 +156,7 @@ DarkRP.createEntity("Sodium Lamp", {
     price = 3000,
     max = 6,
     cmd = "buyzwf_lamp01",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Lamp(1,ply,tr)
@@ -247,7 +168,7 @@ DarkRP.createEntity("LED Lamp", {
     price = 5000,
     max = 6,
     cmd = "buyzwf_lamp02",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Lamp(2,ply,tr)
@@ -271,7 +192,7 @@ DarkRP.createEntity("Hyper Viper", {
     price = 15000,
     max = 1,
     cmd = "buyzwf_nutrition01",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Nutrition(1,ply,tr)
@@ -283,7 +204,7 @@ DarkRP.createEntity("Haze of Light", {
     price = 30000,
     max = 1,
     cmd = "buyzwf_nutrition02",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Nutrition(2,ply,tr)
@@ -295,7 +216,7 @@ DarkRP.createEntity("Fat Harvest", {
     price = 15000,
     max = 1,
     cmd = "buyzwf_nutrition03",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Nutrition(3,ply,tr)
@@ -307,7 +228,7 @@ DarkRP.createEntity("MEGA Harvest", {
     price = 30000,
     max = 1,
     cmd = "buyzwf_nutrition04",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Nutrition(4,ply,tr)
@@ -319,7 +240,7 @@ DarkRP.createEntity("Rapid Rabbit Mix", {
     price = 30000,
     max = 1,
     cmd = "buyzwf_nutrition05",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Nutrition(5,ply,tr)
@@ -331,7 +252,7 @@ DarkRP.createEntity("Get Schwifty Mix", {
     price = 60000,
     max = 1,
     cmd = "buyzwf_nutrition06",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return Spawn_Nutrition(6,ply,tr)
@@ -374,7 +295,7 @@ DarkRP.createEntity("OG Kush", {
     price = 2000,
     max = 1,
     cmd = "buyzwf_seed01",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(1,ply,tr)
@@ -386,7 +307,7 @@ DarkRP.createEntity("Bubba Kush", {
     price = 3000,
     max = 1,
     cmd = "buyzwf_seed02",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(2,ply,tr)
@@ -398,7 +319,7 @@ DarkRP.createEntity("Sour Diesel", {
     price = 5000,
     max = 1,
     cmd = "buyzwf_seed03",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(3,ply,tr)
@@ -410,7 +331,7 @@ DarkRP.createEntity("AK-47", {
     price = 6000,
     max = 1,
     cmd = "buyzwf_seed04",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(4,ply,tr)
@@ -422,7 +343,7 @@ DarkRP.createEntity("Super Lemon Haze", {
     price = 7500,
     max = 1,
     cmd = "buyzwf_seed05",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(5,ply,tr)
@@ -434,7 +355,7 @@ DarkRP.createEntity("Strawberry Cough", {
     price = 9000,
     max = 1,
     cmd = "buyzwf_seed06",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(6,ply,tr)
@@ -446,7 +367,7 @@ DarkRP.createEntity("Dark Devil", {
     price = 12000,
     max = 1,
     cmd = "buyzwf_seed07",
-    allowed = {TEAM_ZWF_WEEDGROWER},
+    allowed = {WEED_GROWER},
     category = "Weed Grower",
     spawn = function(ply, tr, tblEnt)
         return  Spawn_Seed(7,ply,tr)

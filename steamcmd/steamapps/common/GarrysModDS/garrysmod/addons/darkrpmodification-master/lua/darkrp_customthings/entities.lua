@@ -334,3 +334,62 @@ DarkRP.createEntity("Transport Palette", {
 	allowed = METH_COOK,
 	category = "Meth Manufacturing"
 })
+
+-- Weed Grower -- 
+
+DarkRP.createEntity("DoobyTable", {
+    ent = "zwf_doobytable",
+    model = "models/zerochain/props_weedfarm/zwf_doobytable.mdl",
+    price = 5000,
+    max = 1,
+    cmd = "buyzwf_doobytable",
+    allowed = {WEED_GROWER},
+    category = "Weed Grower"
+})
+
+DarkRP.createEntity("Mixer", {
+    ent = "zwf_mixer",
+    model = "models/zerochain/props_weedfarm/zwf_mixer.mdl",
+    price = 5000,
+    max = 1,
+    cmd = "buyzwf_mixer",
+    allowed = {WEED_GROWER},
+    category = "Weed Grower"
+})
+
+DarkRP.createEntity("Oven", {
+    ent = "zwf_oven",
+    model = "models/zerochain/props_weedfarm/zwf_oven.mdl",
+    price = 5000,
+    max = 1,
+    cmd = "buyzwf_oven",
+    allowed = {WEED_GROWER},
+    category = "Weed Grower"
+})
+
+
+DarkRP.createEntity("Muffin Mix", {
+    ent = "zwf_backmix",
+    model = "models/zerochain/props_weedfarm/zwf_backmix_muffin.mdl",
+    price = 500,
+    max = 3,
+    cmd = "buyzwf_backmix_muffin",
+    allowed = {WEED_GROWER},
+    category = "Weed Grower",
+    spawn = function(ply, tr, tblEnt)
+        return  Spawn_BackMix(1,ply,tr)
+    end
+})
+
+DarkRP.createEntity("Brownie Mix", {
+    ent = "zwf_backmix",
+    model = "models/zerochain/props_weedfarm/zwf_backmix_brownie.mdl",
+    price = 500,
+    max = 3,
+    cmd = "buyzwf_backmix_brownie",
+    allowed = {WEED_GROWER},
+    category = "Weed Grower",
+    spawn = function(ply, tr, tblEnt)
+        return  Spawn_BackMix(2,ply,tr)
+    end
+})
