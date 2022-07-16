@@ -12,5 +12,5 @@ DarkRP.createDemoteGroup("Name of the group", {TEAM1, TEAM2})
 ---------------------------------------------------------------------------]]
 
 
--- Example: DarkRP.createDemoteGroup("Cops", {TEAM_POLICE, TEAM_CHIEF})
+DarkRP.createDemoteGroup("Government", {POLICE_CHIEF, SWAT_LEADER, SWAT_HEAVY, SWAT_SNIPER, SWAT_MEDIC, SWAT_MEMBER, POLICE_OFFICER})
 -- Example: DarkRP.createDemoteGroup("Gangsters", {TEAM_GANG, TEAM_MOB})

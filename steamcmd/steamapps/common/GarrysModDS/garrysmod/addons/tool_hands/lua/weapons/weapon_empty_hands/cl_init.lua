@@ -2,16 +2,16 @@
 
 include( 'shared.lua' )
 
-SWEP.PrintName        = "Empty Hands"
-SWEP.Author           = "rainChu"
-SWEP.Purpose          = "Holding nothing - useful for filming and for roleplaying."
-SWEP.Instructions     = "Just equip and play! (Alt-fire Hides the crosshair)"
+SWEP.PrintName        = "Hands"
+SWEP.Author           = ""
+SWEP.Purpose          = ""
+SWEP.Instructions     = "Hands free"
 
 SWEP.Slot             = 0
 SWEP.SlotPos          = 0
 
 SWEP.DrawAmmo         = false
-SWEP.DrawCrosshair    = true
+SWEP.DrawCrosshair    = false
 
 SWEP.WepSelectIcon    = surface.GetTextureID( "weapons/empty_hands" )
 SWEP.BounceWeaponIcon = false

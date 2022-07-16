@@ -168,7 +168,10 @@ MINER = DarkRP.createJob("Miner", {
     color = Color(225, 75, 75, 255),
     model = {"models/player/blockdude.mdl"},
     description = [[ ]],
-    weapons = {},
+    weapons = {
+        "zrms_pickaxe",
+        "zrms_builder",
+    },
     command = "miner",
     max = 4,
     salary = 850,
@@ -216,6 +219,195 @@ WEED_GROWER = DarkRP.createJob("Weed Grower", {
     canDemote = false,
 })
 
+-- Government -- 
+
+POLICE_OFFICER = DarkRP.createJob("Police Officer", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/sentry/hkpd/sentryhkpdmale5pm.mdl",
+        "models/sentry/hkpd/sentryhkpdmale7pm.mdl",
+    },
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "m9k_usp",
+        "weaponchecker",
+    },
+    command = "police_officer",
+    max = 4,
+    salary = 1500,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+})
+
+POLICE_CHIEF = DarkRP.createJob("Police Chief", {
+    color = Color(30, 0, 255),
+    model = "models/sentry/auspd/sentryauspdmale9pm.mdl",
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "stunstick",
+        "m9k_m3",
+        "m9k_usp",
+        "weaponchecker",
+    },
+    command = "police_chief",
+    max = 1,
+    salary = 3000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+    chief = true,
+    NeedToChangeFrom = POLICE_OFFICER,
+})
+
+SWAT_MEMBER = DarkRP.createJob("SWAT Team Member", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/sentry/hkpd/hkpdptupm.mdl",
+    },
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "weaponchecker",
+        "m9k_auga3",
+    },
+    command = "swat_member",
+    max = 2,
+    salary = 2750,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+})
+
+SWAT_MEDIC = DarkRP.createJob("SWAT Team Medic", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/payday2/units/medic_player.mdl",
+    },
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "weaponchecker",
+        "m9k_auga3",
+        "med_kit",
+    },
+    command = "swat_medic",
+    max = 1,
+    salary = 2750,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+})
+
+SWAT_SNIPER = DarkRP.createJob("SWAT Team Sniper", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/mark2580/payday2/pd2_cloaker_player.mdl",
+    },
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "weaponchecker",
+        "m9k_m98b",
+    },
+    command = "swat_sniper",
+    max = 1,
+    salary = 2750,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+})
+
+SWAT_HEAVY = DarkRP.createJob("SWAT Team Heavy", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/mark2580/payday2/pd2_bulldozer_player.mdl",
+    },
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "weaponchecker",
+        "m9k_m249lmg",
+        "m9k_m61_frag",
+        "m9k_matador",
+    },
+    command = "swat_heavy",
+    max = 1,
+    salary = 2750,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+})
+
+SWAT_LEADER = DarkRP.createJob("SWAT Team Leader", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/mark2580/payday2/pd2_gs_elite_player.mdl",
+    },
+    description = [[ ]],
+    weapons = {
+        "arrest_stick",
+        "unarrest_stick",
+        "stunstick",
+        "weaponchecker",
+        "m9k_m416",
+        "m9k_m61_frag",
+    },
+    command = "swat_leader",
+    max = 1,
+    salary = 3500,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+})
+
+MAYOR = DarkRP.createJob("Mayor", {
+    color = Color(30, 0, 255),
+    model = "models/player/Suits/male_07_closed_coat_tie.mdl",
+    description = [[
+          
+    ]],
+    weapons = {
+        "unarrest_stick",
+    },
+    command = "mayor",
+    max = 1,
+    salary = 5000,
+    admin = 0,
+    vote = true,
+    hasLicense = true,
+    category = "Government",
+    canDemote = true,
+    mayor = true,
+})
 
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
@@ -226,9 +418,14 @@ Define which teams belong to civil protection
 Civil protection can set warrants, make people wanted and do some other police related things
 ---------------------------------------------------------------------------]]
 GAMEMODE.CivilProtection = {
-    [TEAM_POLICE] = true,
-    [TEAM_CHIEF] = true,
-    [TEAM_MAYOR] = true,
+    [MAYOR] = true,
+    [POLICE_CHIEF] = true,
+    [SWAT_LEADER] = true,
+    [SWAT_HEAVY] = true,
+    [SWAT_SNIPER] = true,
+    [SWAT_MEDIC] = true,
+    [SWAT_MEMBER] = true,
+    [POLICE_OFFICER] = true,
 }
 --[[---------------------------------------------------------------------------
 Jobs that are hitmen (enables the hitman menu)

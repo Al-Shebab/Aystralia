@@ -5,12 +5,12 @@ hook.Add("InitPostEntity", "InitFadminRemove", function()
     hook.Remove("ScoreboardHide", "FAdmin_scoreboard")
 end)
 
-surface.CreateFont("RogueTitle", {font = "Quicksand Regular", size = 48, extended = true, antialias = true,})
-surface.CreateFont("Rogue30", {font = "Quicksand Regular", size = 30, extended = true})
-surface.CreateFont("Rogue24", {font = "Quicksand Regular", size = 24, extended = true})
-surface.CreateFont("Rogue20", {font = "Quicksand Regular", size = 20, extended = true})
-surface.CreateFont("Rogue19", {font = "Quicksand Regular", size = 19, extended = true})
-surface.CreateFont("Numbers", {font = "Quicksand Regular", size = 22, extended = true})
+surface.CreateFont("RogueTitle", {font = "Comfortaa Regular", size = 48, extended = true, antialias = true,})
+surface.CreateFont("Rogue30", {font = "Comfortaa Regular", size = 30, extended = true})
+surface.CreateFont("Rogue24", {font = "Comfortaa Regular", size = 24, extended = true})
+surface.CreateFont("Rogue20", {font = "Comfortaa Regular", size = 20, extended = true})
+surface.CreateFont("Rogue19", {font = "Comfortaa Regular", size = 19, extended = true})
+surface.CreateFont("Numbers", {font = "Comfortaa Regular", size = 22, extended = true})
 
 if IsValid(RogueScoreboard.Main) then
 	RogueScoreboard.Main:Close()
