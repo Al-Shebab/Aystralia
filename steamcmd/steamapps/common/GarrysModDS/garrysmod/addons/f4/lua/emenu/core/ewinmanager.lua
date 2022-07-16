@@ -279,18 +279,6 @@ function emenu:AddHelpText(pnl,text,font,offset,align)
             return lbl
         end
     end
-
-    local oldfunc = pnl.OnCursorEntered
-    function pnl:OnCursorEntered()
-        if IsValid(self.helptext) then self.helptext:Remove() end
-        self.helptext = HelpText(pnl,text,font,offset)
-        oldfunc(self)
-    end
-    local oldfunc2 = pnl.OnCursorExited
-    function pnl:OnCursorExited()
-        if IsValid(self.helptext) then self.helptext:Remove() end
-        oldfunc2(self)
-    end
 end
 
 function emenu:GeneratePopWindow(key_input,hide_emenu)

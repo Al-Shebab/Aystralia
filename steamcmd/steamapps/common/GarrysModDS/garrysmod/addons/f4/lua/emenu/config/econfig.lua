@@ -17,7 +17,7 @@ cfg.hide_jobchange  = true -- DEFAULT: true | Hides the panel with jobs if a new
 
 /// EFFECTS SETTINGS ///
 cfg.effect          = "dots" 	-- "dots" / "snow" / false current available
-cfg.effectPhysics   = true 		-- DEFAULT: true | Eats ~10-20 fps
+cfg.effectPhysics   = false		-- DEFAULT: true | Eats ~10-20 fps
 cfg.effect_speed    = 1 		-- DEFAULT: 1    | Particle speed
 cfg.blurStrength 	= 0			-- DEFAULT: 0    | Blur the background 0 for disable
 
@@ -60,7 +60,7 @@ cfg.links = {
 		helptext = "Join our discord server!", -- text on hover
 		type = "link", -- link / browser
 		icon = emenu.Materials["discord"],--"https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg", -- Material / iconlink
-		url = "https://google.com", -- url to open
+		url = "https://discord.gg/hWN7zXtbQP", -- url to open
 	},
 	{
 		name = "Steam",
@@ -68,7 +68,7 @@ cfg.links = {
 		type = "link",
 		icon = emenu.Materials["steam"],
 		keyboardinput = false,
-		url = "https://google.com",
+		url = "https://steamcommunity.com/groups/Aystralia",
 	},
 }
 
