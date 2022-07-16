@@ -318,22 +318,21 @@ GM.Config.MoneyClass = "spawned_money"
 GM.Config.moneyModel = "models/props/cs_assault/money.mdl"
 -- You can set your own, custom sound to be played for all players whenever a lockdown is initiated.
 -- Note: Remember to include the folder where the sound file is located.
-GM.Config.lockdownsound = "npc/overwatch/cityvoice/f_confirmcivilstatus_1_spkr.wav"
+GM.Config.lockdownsound = "air-raid.wav"
 
 -- The skin DarkRP uses. Set to "default" to use the GMod default derma theme.
 GM.Config.DarkRPSkin = "DarkRP"
 GM.Config.currency = "$"
 GM.Config.chatCommandPrefix = "/"
-GM.Config.F1MenuHelpPage = "https://darkrp.miraheze.org/wiki/Main_Page"
+GM.Config.F1MenuHelpPage = "https://docs.google.com/document/d/1OZhhxUqUu3PamauyZS5qQuqNvY1IocxGMct-H2F_I68/edit?usp=sharing"
 GM.Config.F1MenuHelpPageTitle = "DarkRP Wiki"
 
 -- The sound that plays when you get a DarkRP notification
-GM.Config.notificationSound = "buttons/lightswitch2.wav"
+GM.Config.notificationSound = "garrysmod/content_downloaded.wav"
 
 -- Put Steam ID's and ranks in this list, and the players will have that rank when they join.
 GM.Config.DefaultPlayerGroups = {
-    ["STEAM_0:0:00000000"] = "superadmin",
-    ["STEAM_0:0:11111111"] = "admin",
+    ["STEAM_0:0:103364981"] = "superadmin",
 }
 
 -- Custom modules in this addon that are disabled.
@@ -345,6 +344,7 @@ GM.Config.DisabledCustomModules = {
 -- The list of weapons that players are not allowed to drop. Items set to true are not allowed to be dropped.
 GM.Config.DisallowDrop = {
     ["arrest_stick"] = true,
+    ["weapon_empty_hands"] = true,
     ["door_ram"] = true,
     ["gmod_camera"] = true,
     ["gmod_tool"] = true,
@@ -363,6 +363,7 @@ GM.Config.DisallowDrop = {
 
 -- The list of weapons people spawn with.
 GM.Config.DefaultWeapons = {
+    "weapon_empty_hands",
     "keys",
     "weapon_physcannon",
     "weapon_fists",
@@ -473,14 +474,14 @@ GM.Config.preventClassItemRemoval = {
 
 -- Properties set to true are allowed to be used. Values set to false or are missing from this list are blocked.
 GM.Config.allowedProperties = {
-    remover = true,
+    remover = false,
     ignite = false,
-    extinguish = true,
-    keepupright = true,
-    gravity = true,
+    extinguish = false,
+    keepupright = false,
+    gravity = false,
     collision = true,
-    skin = true,
-    bodygroups = true,
+    skin = false,
+    bodygroups = false,
 }
 
 --[[---------------------------------------------------------------------------
