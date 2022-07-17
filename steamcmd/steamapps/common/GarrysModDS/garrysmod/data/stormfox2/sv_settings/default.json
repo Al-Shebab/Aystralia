@@ -1,0 +1,18 @@
+{
+	"day_length": "8.571",
+	"max_wind": "0",
+	"weather_damage": "false",
+	"real_time": "true",
+	"maplight_auto": "false",
+	"wgen_Rain": "I{030012000360120010",
+	"auto_weather": "false",
+	"max_temp": "-10",
+	"addnight_temp": "0",
+	"continue_time": "false",
+	"maplight_max": "100",
+	"wgen_Clear": "……018014400360144000",
+	"wgen_Cloud": "!!030012000360120000",
+	"allow_weather_lightchange": "false",
+	"wgen_Fog": "0?036005600180036000",
+	"random_round_weather": "false"
+}

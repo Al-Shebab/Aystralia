@@ -3,8 +3,8 @@
 include( 'shared.lua' )
 
 SWEP.PrintName        = "Hands"
-SWEP.Author           = ""
-SWEP.Purpose          = ""
+SWEP.Author           = "Al Shebab"
+SWEP.Purpose          = "Just hands"
 SWEP.Instructions     = "Hands free"
 
 SWEP.Slot             = 0
