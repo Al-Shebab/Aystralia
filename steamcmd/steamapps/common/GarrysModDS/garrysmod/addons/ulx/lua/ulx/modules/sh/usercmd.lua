@@ -2,7 +2,7 @@
 -- Made By: XxLMM13xXgaming
 -------------------------------------------------------
 
-addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2332062788"
+addonurl = "https://steamcommunity.com/sharedfiles/filedetails/?id=2836107768"
 discordurl = "https://discord.gg/hWN7zXtbQP"
 donateurl = "https://aystralia-network.tebex.io/"
 rulesurl = "https://forums.aystralia.com.au/topic/16-server-rules/"
