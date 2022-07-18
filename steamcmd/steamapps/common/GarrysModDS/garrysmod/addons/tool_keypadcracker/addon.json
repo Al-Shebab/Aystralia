@@ -1,0 +1,14 @@
+{
+    "ignore": [
+        ".git/*",
+        "LICENSE",
+        "README.md"
+    ], 
+    "tags": [
+        "roleplay", 
+        "realism"
+    ], 
+    "title": "Keypad Tool + Cracker", 
+    "type": "tool", 
+    "workshopid": 108424005
+}
