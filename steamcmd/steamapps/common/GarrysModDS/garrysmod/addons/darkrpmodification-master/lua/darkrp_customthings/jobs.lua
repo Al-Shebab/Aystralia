@@ -409,6 +409,80 @@ MAYOR = DarkRP.createJob("Mayor", {
     mayor = true,
 })
 
+-- Thief --
+
+THIEF = DarkRP.createJob("Thief", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/shaklin/payday2/pd2_dallas.mdl",
+        "models/shaklin/payday2/pd2_chains.mdl",
+    },
+    description = [[
+          
+    ]],
+    weapons = {
+        "unarrest_stick",
+        "keypad_cracker",
+        "lockpick",
+    },
+    command = "thief",
+    max = 8,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Illegal Activites",
+    canDemote = false,
+})
+
+BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/player/plague_doktor/PLAYER_Plague_Doktor.mdl",
+    },
+    description = [[
+          
+    ]],
+    weapons = {
+        "unarrest_stick",
+        "keypad_cracker",
+        "lockpick",
+        "med_kit",
+    },
+    command = "battle_medic",
+    max = 2,
+    salary = 750,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Illegal Activites",
+    canDemote = false,
+})
+
+PRO_THIEF = DarkRP.createJob("Pro Thief", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/shaklin/payday2/pd2_wolf.mdl",
+        "models/shaklin/payday2/pd2_hoxton.mdl",
+    },
+    description = [[
+          
+    ]],
+    weapons = {
+        "unarrest_stick",
+        "prokeypadcracker",
+        "pro_lockpick",
+    },
+    command = "pro_thief",
+    max = 8,
+    salary = 1500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Illegal Activites",
+    canDemote = false,
+})
+
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
