@@ -270,10 +270,10 @@ POLICE_CHIEF = DarkRP.createJob("Police Chief", {
     NeedToChangeFrom = POLICE_OFFICER,
 })
 
-SWAT_MEMBER = DarkRP.createJob("SWAT Team Member", {
+SWAT = DarkRP.createJob("SWAT", {
     color = Color(30, 0, 255),
     model = {
-        "models/sentry/hkpd/hkpdptupm.mdl",
+        "models/payday2/units/zeal_taser_player.mdl",
     },
     description = [[ ]],
     weapons = {
@@ -283,7 +283,7 @@ SWAT_MEMBER = DarkRP.createJob("SWAT Team Member", {
         "weaponchecker",
         "m9k_auga3",
     },
-    command = "swat_member",
+    command = "swat",
     max = 2,
     salary = 2750,
     admin = 0,
@@ -293,7 +293,7 @@ SWAT_MEMBER = DarkRP.createJob("SWAT Team Member", {
     canDemote = true,
 })
 
-SWAT_MEDIC = DarkRP.createJob("SWAT Team Medic", {
+SWAT_MEDIC = DarkRP.createJob("SWAT Medic", {
     color = Color(30, 0, 255),
     model = {
         "models/payday2/units/medic_player.mdl",
@@ -317,7 +317,7 @@ SWAT_MEDIC = DarkRP.createJob("SWAT Team Medic", {
     canDemote = true,
 })
 
-SWAT_SNIPER = DarkRP.createJob("SWAT Team Sniper", {
+SWAT_SNIPER = DarkRP.createJob("SWAT Sniper", {
     color = Color(30, 0, 255),
     model = {
         "models/mark2580/payday2/pd2_cloaker_player.mdl",
@@ -340,7 +340,7 @@ SWAT_SNIPER = DarkRP.createJob("SWAT Team Sniper", {
     canDemote = true,
 })
 
-SWAT_HEAVY = DarkRP.createJob("SWAT Team Heavy", {
+SWAT_HEAVY = DarkRP.createJob("SWAT Heavy", {
     color = Color(30, 0, 255),
     model = {
         "models/mark2580/payday2/pd2_bulldozer_player.mdl",
@@ -365,7 +365,7 @@ SWAT_HEAVY = DarkRP.createJob("SWAT Team Heavy", {
     canDemote = true,
 })
 
-SWAT_LEADER = DarkRP.createJob("SWAT Team Leader", {
+SWAT_LEADER = DarkRP.createJob("SWAT Leader", {
     color = Color(30, 0, 255),
     model = {
         "models/mark2580/payday2/pd2_gs_elite_player.mdl",
@@ -498,7 +498,7 @@ GAMEMODE.CivilProtection = {
     [SWAT_HEAVY] = true,
     [SWAT_SNIPER] = true,
     [SWAT_MEDIC] = true,
-    [SWAT_MEMBER] = true,
+    [SWAT] = true,
     [POLICE_OFFICER] = true,
 }
 --[[---------------------------------------------------------------------------

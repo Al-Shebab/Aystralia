@@ -1,0 +1,71 @@
+This is a supply crate that can be robbed by criminals. It spawns the loot that it holds after a timer and robbers must fight police officers to survive or the robbery will fail.
+
+The supply crate will randomly gain three different kind of loot based on your configuration. Shipments, ammunition and money can all the modified to your preferences.
+The crate is animated and has a laptop that will appear upon robbery with a countdown. Custom animations are played for the laptop, crate opening, and more!
+
+Features
+✔️ Supply crate that can be robbed.
+✔️ Randomly generated loot from the supply crate will drop upon succeeding the robbery.
+✔️ Custom models.
+✔️ Custom animations.
+✔️ Cooldown on the crate before it can be robbed again.
+✔️ Laptop simulates a hacking process when you unlock the crate.
+✔️ Loot is automatically generated in the supply crate based on configuration.
+✔️ Alarm sound can be enabled when the crate is being robbed.
+✔️ Loot elements can be enabled/disabled as you wish (money, ammo, shipments).
+✔️ Notifies police when a robbery has started.
+✔️ Restrict who can rob the supply crate based on either players team or rank.
+✔️ Police rewards for killing robbers.
+✔️ Configuration to use the new shipment model as default in DarkRP.
+✔️ Robber must stay within range to the crate or it will fail.
+✔️ Language system.
+✔️ bLogs support for robberies and updating crate loot.
+✔️ Console command to easily save and change position of the supply crate with map based saving.
+✔️ 40+ configuration options for you to change the script to your liking.
+✔️ And much more!
+
+To start a robbery a group of criminal jobs must together go find the supply crate.
+If not on a cooldown and if it has loot, one from the group must press 'E' on the crate to start the hacking process.
+A laptop will appear on the crate, and the cracking will begin. After the time runs out, the crate will play an animation and let out the loot.
+
+The green shipment cases are custom models and work like any other shipment in DarkRP. You can pocket them or use ItemStore to save them till you back to your base.
+Money must be taken right away and you can do so by pressing 'E' on the money packs to take the amount they hold.
+Ammunation can be picket up as normally and is random based on your ammo types in DarkRP.
+
+Installation
+
+This addon supports DarkRP 2.7+
+
+Other newer versions should also work. If they do not, please create a ticket so this can be sorted.
+
+Extract "supply_crate_robbery" to your addons!
+
+Once you've done that, you will want to set up the location of your supply crate.
+
+All you have to do now is launch your server, find a fitting spot for the crate and type "supplycrate_setpos" in the position will be saved.
+
+If you want to set another position for the supply crate you just run the command again. It will now show up at your new position after 5 seconds.
+
+The supply crate will face in the direction of the player, so keep that in mind when setting it in-game.
+
+Content
+
+This script contains custom model and materials. Script content can be found at:
+
+https://steamcommunity.com/workshop/filedetails/?id=set
+
+Make sure to add this to your servers workshop collection as well.
+
+Customizing
+
+To customize the general settings go to police_supply_crate/lua/crate_robbery/shared/supply_crate_config.lua.
+
+There are over 30 different configuration options in the general settings. I can add any configuration you would like as well. Please just submit a support ticket with your request, and I will see if it's possible.
+
+Errors & Support
+
+If you find any problems with the script, please create a support ticket with details of the situation and a copy/paste of the error in console. I am also not interested in modifying you a custom version of the addon. Also not upon payment. Sorry!
+
+Conflicting addons is not to be said if I will support that or not. This is something I will decide upon confrontation about a conflicting addon. If you have some sort of proof that an addon is conflicting with my addon, please send me a PM with the details you might have.
+
+Thank you!

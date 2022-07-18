@@ -1,39 +1,40 @@
 "sydney"	
 {
-	"can_target"	"!%ayssie"
 	"allow"	
 	{
 	}
+	"can_target"	"!%ayssie"
 	"inherit_from"	"melbourne"
 }
 "legend"	
 {
-	"can_target"	"!%perth"
 	"allow"	
 	{
 	}
+	"can_target"	"!%perth"
 	"inherit_from"	"trusted"
 }
 "regular"	
 {
-	"can_target"	"!%trusted"
 	"allow"	
 	{
 	}
+	"can_target"	"!%trusted"
 	"inherit_from"	"user"
 }
 "administrator"	
 {
+	"can_target"	"!%senior-administrator"
 	"allow"	
 	{
 		"ulx armor"
 		"ulx hp"
 	}
-	"can_target"	"!%senior-administrator"
 	"inherit_from"	"senior-moderator"
 }
 "staff-manager"	
 {
+	"can_target"	"!%superadmin"
 	"allow"	
 	{
 		"darkrp_admincommands"
@@ -168,39 +169,38 @@
 		"xgui_managegroups"
 		"xgui_svsettings"
 	}
-	"can_target"	"!%superadmin"
 	"inherit_from"	"senior-administrator"
 }
 "melbourne"	
 {
-	"can_target"	"!%sydney"
 	"allow"	
 	{
 	}
+	"can_target"	"!%sydney"
 	"inherit_from"	"brisbane"
 }
 "trusted"	
 {
-	"can_target"	"!%legend"
 	"allow"	
 	{
 	}
+	"can_target"	"!%legend"
 	"inherit_from"	"regular"
 }
 "brisbane"	
 {
-	"can_target"	"!%melbourne"
 	"allow"	
 	{
 	}
+	"can_target"	"!%melbourne"
 	"inherit_from"	"perth"
 }
 "senior-administrator"	
 {
+	"can_target"	"!%staff-manager"
 	"allow"	
 	{
 	}
-	"can_target"	"!%staff-manager"
 	"inherit_from"	"administrator"
 }
 "user"	
@@ -230,103 +230,6 @@
 		"ulx votemute"
 		"ulx workshop"
 	}
-}
-"moderator"	
-{
-	"allow"	
-	{
-		"ulx ban"
-		"ulx banid"
-		"ulx god"
-		"ulx unban"
-		"ulx unfreeze"
-		"ulx ungod"
-		"ulx unjail"
-	}
-	"can_target"	"!%senior-moderator"
-	"inherit_from"	"trial-moderator"
-}
-"senior-moderator"	
-{
-	"allow"	
-	{
-		"ulx god"
-		"ulx strip"
-		"ulx ungod"
-	}
-	"can_target"	"!%administrator"
-	"inherit_from"	"moderator"
-}
-"perth"	
-{
-	"can_target"	"!%brisbane"
-	"allow"	
-	{
-	}
-	"inherit_from"	"legend"
-}
-"ayssie"	
-{
-	"can_target"	"!%trial-moderator"
-	"allow"	
-	{
-	}
-	"inherit_from"	"sydney"
-}
-"admin"	
-{
-	"allow"	
-	{
-		"darkrp_getjob_police_chief"
-		"darkrp_getjob_police_officer"
-		"darkrp_getjob_swat_heavy"
-		"darkrp_getjob_swat_leader"
-		"darkrp_getjob_swat_medic"
-		"darkrp_getjob_swat_member"
-		"darkrp_getjob_swat_sniper"
-		"stormfox weatheredit"
-	}
-	"inherit_from"	"user"
-}
-"trial-moderator"	
-{
-	"allow"	
-	{
-		"ulx bring"
-		"ulx freeze"
-		"ulx gag"
-		"ulx goto"
-		"ulx jail"
-		"ulx noclip"
-		"ulx physgunplayer"
-		"ulx return"
-		"ulx seeadminonlyechoes"
-		"ulx seeasay"
-		"ulx spectate"
-		"ulx teleport"
-		"ulx ungag"
-	}
-	"can_target"	"!%moderator"
-	"inherit_from"	"user"
-}
-"operator"	
-{
-	"allow"	
-	{
-		"ulx bc_color"
-		"ulx bc_giphy"
-		"ulx bc_pulsing"
-		"ulx bc_rainbow"
-		"ulx bc_shaking"
-	}
-	"inherit_from"	"user"
-}
-"noaccess"	
-{
-	"allow"	
-	{
-	}
-	"inherit_from"	"user"
 }
 "superadmin"	
 {
@@ -500,4 +403,102 @@
 		"xgui_svsettings"
 	}
 	"inherit_from"	"staff-manager"
+}
+"senior-moderator"	
+{
+	"can_target"	"!%administrator"
+	"allow"	
+	{
+		"ulx god"
+		"ulx strip"
+		"ulx ungod"
+	}
+	"inherit_from"	"moderator"
+}
+"noaccess"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"operator"	
+{
+	"allow"	
+	{
+		"ulx bc_color"
+		"ulx bc_giphy"
+		"ulx bc_pulsing"
+		"ulx bc_rainbow"
+		"ulx bc_shaking"
+	}
+	"inherit_from"	"user"
+}
+"admin"	
+{
+	"allow"	
+	{
+		"darkrp_getjob_police_chief"
+		"darkrp_getjob_police_officer"
+		"darkrp_getjob_swat"
+		"darkrp_getjob_swat_heavy"
+		"darkrp_getjob_swat_leader"
+		"darkrp_getjob_swat_medic"
+		"darkrp_getjob_swat_member"
+		"darkrp_getjob_swat_sniper"
+		"stormfox weatheredit"
+	}
+	"inherit_from"	"user"
+}
+"trial-moderator"	
+{
+	"can_target"	"!%moderator"
+	"allow"	
+	{
+		"ulx bring"
+		"ulx freeze"
+		"ulx gag"
+		"ulx goto"
+		"ulx jail"
+		"ulx noclip"
+		"ulx physgunplayer"
+		"ulx return"
+		"ulx seeadminonlyechoes"
+		"ulx seeasay"
+		"ulx spectate"
+		"ulx teleport"
+		"ulx ungag"
+	}
+	"inherit_from"	"user"
+}
+"ayssie"	
+{
+	"allow"	
+	{
+	}
+	"can_target"	"!%trial-moderator"
+	"inherit_from"	"sydney"
+}
+"perth"	
+{
+	"allow"	
+	{
+	}
+	"can_target"	"!%brisbane"
+	"inherit_from"	"legend"
+}
+"moderator"	
+{
+	"can_target"	"!%senior-moderator"
+	"allow"	
+	{
+		"ulx ban"
+		"ulx banid"
+		"ulx god"
+		"ulx unban"
+		"ulx unfreeze"
+		"ulx ungod"
+		"ulx unjail"
+	}
+	"inherit_from"	"trial-moderator"
 }
