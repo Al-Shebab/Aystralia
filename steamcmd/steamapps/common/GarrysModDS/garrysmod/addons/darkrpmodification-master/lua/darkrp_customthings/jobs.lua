@@ -414,8 +414,8 @@ MAYOR = DarkRP.createJob("Mayor", {
 THIEF = DarkRP.createJob("Thief", {
     color = Color(30, 0, 255),
     model = {
-        "models/shaklin/payday2/pd2_dallas.mdl",
-        "models/shaklin/payday2/pd2_chains.mdl",
+        "models/ninja/beffect/titanfall_dm_quarian_M.mdl",
+        "models/ninja/beffect/titanfall_dm_quarian_f.mdl",
     },
     description = [[
           
@@ -462,8 +462,8 @@ BATTLE_MEDIC = DarkRP.createJob("Battle Medic", {
 PRO_THIEF = DarkRP.createJob("Pro Thief", {
     color = Color(30, 0, 255),
     model = {
-        "models/shaklin/payday2/pd2_wolf.mdl",
-        "models/shaklin/payday2/pd2_hoxton.mdl",
+        "Models/player/hobo387/johnnygat.mdl",
+        "models/shaundi/shaundi_player.mdl",
     },
     description = [[
           
