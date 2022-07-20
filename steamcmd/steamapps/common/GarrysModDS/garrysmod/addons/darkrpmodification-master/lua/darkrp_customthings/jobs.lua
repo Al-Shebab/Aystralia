@@ -414,8 +414,12 @@ MAYOR = DarkRP.createJob("Mayor", {
 THIEF = DarkRP.createJob("Thief", {
     color = Color(30, 0, 255),
     model = {
-        "models/ninja/beffect/titanfall_dm_quarian_M.mdl",
-        "models/ninja/beffect/titanfall_dm_quarian_f.mdl",
+        "models/bonnie/bonnie_pm.mdl",
+        "models/survivors/clover_pm.mdl",
+        "models/player/pd2_hoxton_p.mdl",
+        "models/player/payday2/hoxtonold.mdl",
+        "models/survivors/pd2sydney.mdl",
+        "models/player/rust/ron_perlman_pm.mdl",
     },
     description = [[
           
