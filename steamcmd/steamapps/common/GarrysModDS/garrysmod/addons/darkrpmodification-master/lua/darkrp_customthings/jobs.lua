@@ -506,6 +506,44 @@ GUN_DEALER = DarkRP.createJob("Gun Dealer", {
     canDemote = false,
 })
 
+BLACK_MARKET_DEALER = DarkRP.createJob("Black Market Dealer", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/GrandTheftAuto5/Trevor.mdl",
+    },
+    description = [[
+          
+    ]],
+    weapons = {},
+    command = "black_market_dealer",
+    max = 2,
+    salary = 250,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Dealers",
+    canDemote = false,
+})
+
+DRUG_DEALER = DarkRP.createJob("Drug Dealer", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/player/packie/packie.mdl",
+    },
+    description = [[
+          
+    ]],
+    weapons = {},
+    command = "drug_dealer",
+    max = 2,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Dealers",
+    canDemote = false,
+})
+
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
