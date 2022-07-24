@@ -73,7 +73,7 @@ CH_SupplyCrate.Config.MaxShipments = 5 -- The maximum amount of shipments the su
 CH_SupplyCrate.Config.ShipmentsWepAmount = 10 -- Amount of weapons inside of one shipment. [Default = 10]
 
 CH_SupplyCrate.Config.ShipmentAutoRemove = 180 -- TO AVOID SPAM: if you want shipments to be deleted after x seconds of spawning after robbery, you can use this config. Setting it to 0 will disable it and not delete anything. [Default = 180]
-CH_SupplyCrate.Config.OverwriteModel = true -- Do you want to overwrite the default shipment model with the one that comes with the script, even when users buys them through the F4 menu? [Default = true]
+CH_SupplyCrate.Config.OverwriteModel = false -- Do you want to overwrite the default shipment model with the one that comes with the script, even when users buys them through the F4 menu? [Default = true]
 
 -- Police Money Bag (from successful robbery)
 CH_SupplyCrate.Config.DistanceToCrateToPickup = 10000 -- How far away must the money bag be from the supply crate in order to pick it up? Set to 0 to disable this!
