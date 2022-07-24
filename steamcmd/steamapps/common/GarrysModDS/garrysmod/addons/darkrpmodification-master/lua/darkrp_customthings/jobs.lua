@@ -487,6 +487,25 @@ PRO_THIEF = DarkRP.createJob("Pro Thief", {
     canDemote = false,
 })
 
+GUN_DEALER = DarkRP.createJob("Gun Dealer", {
+    color = Color(30, 0, 255),
+    model = {
+        "models/player/MKX_Jax.mdl",
+    },
+    description = [[
+          
+    ]],
+    weapons = {},
+    command = "gun_dealer",
+    max = 2,
+    salary = 500,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "Dealers",
+    canDemote = false,
+})
+
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
