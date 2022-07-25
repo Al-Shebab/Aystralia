@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/skin.vmt"
+	"insert"
+	{
+		"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+		"$basetexture" "models/tdmcars/pon_firetransam/skin"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+		"$normalmapalphaenvmapmask" "1"
+		"$blendtintbybasealpha" "1"
+	}
+}
+

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/vw_golfgti_14/gti_glas_c"
+	"$bumpmap"    "models/tdmcars/vw_golfgti_14/gti_glas_nm"
+	"$nodecal" "1"
+	"$translucent" 1
+	"$phong" 1
+	"$phongboost" ".15"
+	"$phongexponent" 2
+	"$phongfresnelranges" "[0.10 0.6 1.5]"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

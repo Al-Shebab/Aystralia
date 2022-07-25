@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/vol_850r/wood"
+	"$bumpmap"    "models/tdmcars/shared/skin_nm"
+	"$phong" "1" 
+	"$phongboost" "1" 
+	"$phongfresnelranges" "[1 5 10]" 
+	"$phongexponent" 75
+	"$nodecal" "1"
+	"$colorfix" "{255 255 255}"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.05 0.05 0.05]"
+	"$normalmapalphaenvmapmask" 1
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

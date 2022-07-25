@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/alcantara.vmt"
+	"insert"
+	{
+		"$basetexturetransform" "center .5 .5 scale 15 15 rotate 0 translate 0 0"
+	}
+}
+

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexturetransform" "center .5 .5 scale 2 20 rotate 0 translate 0 0"
+	"$basetexture" "models/tdmcars/tesla_models/led_trim"
+	"$nodecal" "1"
+	"$colorfix" "{120 120 180}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

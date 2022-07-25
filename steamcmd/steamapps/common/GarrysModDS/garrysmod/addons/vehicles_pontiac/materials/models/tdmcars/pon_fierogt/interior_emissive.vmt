@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior_emissive.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/pon_fierogt/interior_lod0"
+	}
+}
+

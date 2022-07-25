@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/sal_s281_06/wheel"
+		"$colorfix" "{17 17 17}"
+		"$envmaptint" "[0.05	0.05 0.05]"
+		"$phongexponent" 5
+	}
+}

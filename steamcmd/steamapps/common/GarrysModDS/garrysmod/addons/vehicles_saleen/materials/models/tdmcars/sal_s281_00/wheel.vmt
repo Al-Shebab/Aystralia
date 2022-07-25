@@ -1,0 +1,8 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/sal_s281_00/wheel"
+	}
+}

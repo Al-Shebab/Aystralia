@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_nodamage.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/vw_golfgti_14/sterr_gti_logo_c"
+		"$bumpmap" "models/tdmcars/vw_golfgti_14/sterr_gti_logo_nm"
+	}
+}
+

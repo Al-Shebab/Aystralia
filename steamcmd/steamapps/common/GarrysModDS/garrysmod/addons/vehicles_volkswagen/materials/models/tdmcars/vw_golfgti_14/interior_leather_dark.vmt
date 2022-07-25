@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/interior_leather_dark.vmt"
+	"insert"
+	{
+		"$basetexturetransform" "center .5 .5 scale 12 12 rotate 0 translate 0 0"
+		"$colorfix" "{1 1 1}"
+	}
+}
+

@@ -1,0 +1,256 @@
+"Vehicle"
+{
+	"WheelsPerAxle"		"2"
+	"Body"
+	{
+		"CounterTorqueFactor"	"0.85"
+		"MassCenterOverride"	"0 -8 5"
+		"MassOverride"			"1390"
+		"AddGravity"			"1.5"
+		"MaxAngularVelocity"	"320"
+	}
+	"Engine"
+	{
+		"HorsePower"			"365"
+		"MaxRPM"				"4500"
+		"MaxSpeed"				"90"
+		"MaxReverseSpeed"		"28"
+		"AutobrakeSpeedGain"	"0"
+		"AutobrakeSpeedFactor"	"0"
+		"Autotransmission"	"0"
+		"AxleRatio"		"6.5"
+		"Gear"			"3.1"
+		
+		"ShiftUpRPM"		"3500"
+		"ShiftDownRPM"		"1000"
+	}
+	"Steering"
+	{
+		"DegreesSlow"						"42"
+		"DegreesFast"						"11"
+		"DegreesBoost"						"11"
+		"FastDampen"						"100"
+		"SteeringExponent"					"0"
+		"SlowCarSpeed"						"1"
+		"FastCarSpeed"						"50"
+		"SlowSteeringRate"					"2.2"
+		"FastSteeringRate"					"1.8"
+		"SteeringRestRateSlow"				"2.2"
+		"SteeringRestRateFast"				"1.8"
+		"TurnThrottleReduceSlow"			"0.01"
+		"TurnThrottleReduceFast"			"0.6"
+		"BrakeSteeringRateFactor"			"1"
+		"ThrottleSteeringRestRateFactor"	"2"
+		"BoostSteeringRestRateFactor"		"1.65"
+		"BoostSteeringRateFactor"			"1.65"
+
+		"PowerSlideAccel"					"320"
+
+		"SkidAllowed"						"1"
+		"DustCloud"							"1"
+	}
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"	"15.95"
+			"mass"		"350"
+			"inertia"	"1.5"		// steady the car (fixes the oscillation of the axles about z)
+			"damping"	"0.3"
+			"rotdamping"	"0.1"
+			"material"	"jeeptire"
+			"skidmaterial"	"jeeptire"
+			"brakematerial" "jeeptire"
+		}
+		"suspension"
+		{
+			"springConstant"		"100"
+			"springDamping"			"3.14"
+			"stabilizerConstant"		"0"
+			"springDampingCompression"	"4"
+			"maxBodyForce"			"350"
+		}
+
+		"torquefactor"	"0.21"
+		"brakefactor"	"0.75"
+	}
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"	"16.0"
+			"mass"		"320"
+			"inertia"	"1.5"		// steady the car (fixes the oscillation of the axles about z)
+			"damping"	"0.3"
+			"rotdamping"	"0.2"
+			"material"	"jeeptire"
+			"skidmaterial"	"jeeptire"
+			"brakematerial" "jeeptire"
+		}
+		"suspension"
+		{
+			"springConstant"		"95"
+			"springDamping"			"3.14"
+			"stabilizerConstant"		"0"
+			"springDampingCompression"	"4"
+			"maxBodyForce"			"350"
+		}
+		"torquefactor"	".77"
+		"brakefactor"	"0.55"
+	}
+}
+
+"Vehicle_Sounds"
+{
+	"Gear"
+	{
+		"Max_Speed"				"0.06"
+		"Speed_Approach_Factor"	"1"
+	}
+	"Gear"
+	{
+		"Max_Speed"				"0.38"
+		"Speed_Approach_Factor"	"0.08"
+	}
+	"Gear"
+	{
+		"Max_Speed"				"0.52"
+		"Speed_Approach_Factor"	"0.05"
+	}
+	"Gear"
+	{
+		"Max_Speed"				"0.67"
+		"Speed_Approach_Factor"	"0.035"
+	}
+	"Gear"
+	{
+		"Max_Speed"				"1"
+		"Speed_Approach_Factor"	"0.01"
+	}
+	"State"
+	{
+		"Name"		"SS_SHUTDOWN_WATER"
+		"Sound"		"atv_stall_in_water"
+		"Min_Time"	"0"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_2_RESUME"
+		"Sound"		"vehicles\tdmcars\mustanggt\third.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_START_WATER"
+		"Sound"		"atv_start_in_water"
+		"Min_Time"	"0"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_3_RESUME"
+		"Sound"		"vehicles\tdmcars\mustanggt\fourth_cruise.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_REVERSE"
+		"Sound"		"vehicles\tdmcars\mustanggt\rev.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_IDLE"
+		"Sound"		"vehicles\tdmcars\mustanggt\idle.wav"
+		"Min_Time"	"0"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_1_RESUME"
+		"Sound"		"vehicles\tdmcars\mustanggt\second.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_4"
+		"Sound"		"vehicles\tdmcars\mustanggt\fourth_cruise.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_1"
+		"Sound"		"vehicles\tdmcars\mustanggt\first.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_SLOWDOWN_HIGHSPEED"
+		"Sound"		"vehicles\tdmcars\mustanggt\throttle_off.wav"
+		"Min_Time"	"0"
+	}
+	"State"
+	{
+		"Name"		"SS_SHUTDOWN"
+		"Sound"		"tdmcars_engine_off"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_START_IDLE"
+		"Sound"		"vehicles\tdmcars\for_she_gt500\enginestart.mp3"
+		"Min_Time"	"2.2"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_4_RESUME"
+		"Sound"		"vehicles\tdmcars\mustanggt\fourth_cruise.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_3"
+		"Sound"		"vehicles\tdmcars\mustanggt\third.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_0_RESUME"
+		"Sound"		"vehicles\tdmcars\mustanggt\first.wav"
+		"Min_Time"	"0.75"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_0"
+		"Sound"		"vehicles\tdmcars\mustanggt\idle.wav"
+		"Min_Time"	"0.08"
+	}
+	"State"
+	{
+		"Name"		"SS_GEAR_2"
+		"Sound"		"vehicles\tdmcars\mustanggt\second.wav"
+		"Min_Time"	"0.5"
+	}
+	"State"
+	{
+		"Name"		"SS_SLOWDOWN"
+		"Sound"		"vehicles\tdmcars\mustanggt\idle.wav"
+		"Min_Time"	"0"
+	}
+	"CrashSound"
+	{
+		"Min_Speed"			"350"
+		"Min_Speed_Change"	"250"
+		"Sound"				"atv_impact_medium"
+		"Gear_Limit"		"1"
+	}
+	"CrashSound"
+	{
+		"Min_Speed"			"450"
+		"Min_Speed_Change"	"350"
+		"Sound"				"atv_impact_heavy"
+		"Gear_Limit"		"0"
+	}
+
+	"Skid_LowFriction"		""
+	"Skid_NormalFriction"	""
+	"Skid_HighFriction"		""
+}

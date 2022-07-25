@@ -1,0 +1,12 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/vw_golfgti_14/gti_rear_lights_c"
+		"$phongtint" "{255 40 0}"
+		"$phongboost" "20"
+		"$phongexponent" "50"
+	}
+}
+

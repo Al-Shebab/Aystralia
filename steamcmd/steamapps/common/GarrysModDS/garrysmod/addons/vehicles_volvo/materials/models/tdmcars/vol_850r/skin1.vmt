@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/vol_850r/skin1"
+	"$bumpmap" "models/tdmcars/vol_850r/skin1_nrm"
+	"$phong" 1
+	$phongtint "[0.3 0.3 0.3]"
+	"$phongexponent" 6
+	"$phongboost"	0.7
+	"$phongfresnelranges" "[0.8 0.8 0.5]"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.08 0.08 0.08]"
+	"$normalmapalphaenvmapmask" 1
+	$detail "models/tdmcars/shared/noise"
+	$detailscale "250"
+	$detailblendfactor "0.3"
+	$detailblendmode "0"
+
+}

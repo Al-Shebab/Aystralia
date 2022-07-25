@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/vol_850r/plastic2"
+	"$bumpmap" "models/tdmcars/shared/skin_nm"
+	"$blendtintbybasealpha" 1
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" ".1" 
+	"$phongfresnelranges" "[.5 .2 2]" 
+	"$phongexponent" 3
+}
