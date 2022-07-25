@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/raptor/lights"
+		"$bumpmap" "models/tdmcars/raptor/lights_nrm"
+	}
+}

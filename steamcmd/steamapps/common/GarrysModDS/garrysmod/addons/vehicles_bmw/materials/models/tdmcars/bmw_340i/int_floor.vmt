@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tdmcars/bmw_340i/int_floor"
+	"$bumpmap" "models/tdmcars/bmw_340i/flat_nrm"
+	"$colorfix" "{70 70 70}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
+

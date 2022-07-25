@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/for_she_gt500/lights"
+	}
+}
+

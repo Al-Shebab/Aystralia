@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/scania_firetruck/plastic"
+	"$bumpmap" "models/tdmcars/scania_firetruck/skin_nm"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.3"	
+	"$phongfresnelranges"	"[0.1 2 0]"
+	$detail "models/tdmcars/shared/noise"
+	$detailscale "200"
+	$detailblendfactor "0.03"
+	$detailblendmode "0"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

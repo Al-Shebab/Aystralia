@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/emergency/for_crownvic/nodamage_lightson"
+	"$bumpmap" "models/tdmcars/emergency/for_crownvic/nodamage_nrm"
+	"$vertexalpha" "0"
+	"$nocull" "1"
+	$selfillum "1"
+	$selfillumtint "[4 4 4]"
+	$selfillumfresnel "1"
+	$selfillumfresnelminmaxexp "[.4 1 3]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

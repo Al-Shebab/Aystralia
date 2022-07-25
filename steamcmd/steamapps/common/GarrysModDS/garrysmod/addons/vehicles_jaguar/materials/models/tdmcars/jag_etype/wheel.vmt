@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/jag_etype/wheel"
+		"$bumpmap" "models/tdmcars/jag_etype/wheel_nrm"
+	}
+}
+

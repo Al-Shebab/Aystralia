@@ -1,0 +1,17 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/grille.vmt"
+	"insert"
+	{
+		"$basetexturetransform" "center .5 .5 scale .22 .3 rotate -90 translate 0 0"
+		"$basetexture" "models/tdmcars/shared/skin"
+		"$bumpmap" "models/tdmcars/emergency/chargersrt8/grille_nrm"
+		"$colorfix" "{10 10 10}"
+		"$envmapfresnel" "1.3"
+		"$phongfresnelranges" "[.45 .5 1]"
+		"$phongexponent" "80"
+		"$phongboost" ".3"
+		"$envmaptint" "[0.1 0.1 0.1]"
+	}
+}
+

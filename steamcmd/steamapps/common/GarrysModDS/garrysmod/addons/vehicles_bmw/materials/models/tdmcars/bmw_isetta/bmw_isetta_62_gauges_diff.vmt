@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/bmw_isetta/bmw_isetta_62_gauges_diff"
+		"$colorfix" "{155 155 155}"
+	}
+}

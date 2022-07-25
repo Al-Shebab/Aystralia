@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/coupe40/wheel"
+		"$bumpmap" "models/tdmcars/coupe40/wheel_nrm"
+	}
+}

@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/chrome.vmt"
+	"insert"
+	{
+		"$bumpmap" "models/tdmcars/bmw_340i/light_reflector_nrm"
+	}
+}
+

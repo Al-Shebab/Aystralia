@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/ast_rapide/lights"
+		"$translucent" "1"
+		"$phongtint" "{255 50 0}"
+		"$phongboost" "3"
+		
+	}
+}
+

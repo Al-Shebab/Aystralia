@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/charger12/wheel2"
+		"$bumpmap" "models/tdmcars/charger12/wheel2_nrm"
+	}
+}
+

@@ -1,0 +1,7 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/glass.vmt"
+	"insert"
+	{
+	}
+}

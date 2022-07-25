@@ -1,0 +1,12 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/charger12/interior_lod0"
+		"$detail" "models/tdmcars/charger12/interior_emissive"
+		"$detailscale" "1"
+		"$detailblendfactor" "100"
+		"$detailblendmode" "1"
+	}
+}

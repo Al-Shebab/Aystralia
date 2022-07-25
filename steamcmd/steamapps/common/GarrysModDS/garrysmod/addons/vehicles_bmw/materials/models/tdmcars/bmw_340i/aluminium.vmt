@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/chrome.vmt"
+	"insert"
+	{
+		"$envmaptint" "[0.05 0.05 0.05]"
+		"$colorfix" "{200 200 200}"
+	}
+}
+

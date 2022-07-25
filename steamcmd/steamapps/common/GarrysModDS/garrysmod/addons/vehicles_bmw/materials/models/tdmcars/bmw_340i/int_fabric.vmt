@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexturetransform" "center .5 .5 scale 1.5 1.5 rotate 0 translate 0 0"
+		"$basetexture" "models/tdmcars/shared/skin"
+		"$bumpmap" "models/tdmcars/bmw_340i/int_fabric_nrm"
+		"$colorfix" "{200 170 150}"
+	}
+}

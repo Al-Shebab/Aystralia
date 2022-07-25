@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_nodamage.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/for_focus_rs16/engine"
+		"$bumpmap" "models/tdmcars/for_focus_rs16/engine_nrm"
+	}
+}
+

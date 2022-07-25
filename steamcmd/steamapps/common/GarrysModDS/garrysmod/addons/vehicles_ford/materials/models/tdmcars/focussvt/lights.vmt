@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/focussvt/lights"
+		"$bumpmap" "models/tdmcars/focussvt/lights_nrm"
+	}
+}

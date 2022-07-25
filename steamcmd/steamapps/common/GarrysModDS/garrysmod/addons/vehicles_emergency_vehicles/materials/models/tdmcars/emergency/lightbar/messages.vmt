@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tdmcars/emergency/lightbar/messages"
+	"$nodecal" "1"
+	"$detail" "models/tdmcars/emergency/lightbar/messages"
+	"$detailscale" "1"
+	"$detailblendfactor" "500"
+	"$detailblendmode" "5"
+	"$colorfix" "{255 15 0}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$detailtint
+		}
+		"TextureScroll"
+		{
+			texturescrollvar $detailtexturetransform
+			texturescrollrate .15
+			texturescrollangle 0
+		}
+		"TextureScroll"
+		{
+			texturescrollvar $basetexturetransform
+			texturescrollrate .15
+			texturescrollangle 0
+		}
+	}
+}

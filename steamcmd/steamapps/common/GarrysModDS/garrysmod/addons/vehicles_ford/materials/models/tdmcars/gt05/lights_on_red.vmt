@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lighton.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/gt05/lights"
+		"$selfillumtint" "[50 20 1]"
+		"$colorfix" "{255 50 50}"
+		"$envmaptint" "{255 50 20}"
+	}
+}

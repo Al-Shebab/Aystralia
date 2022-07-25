@@ -1,0 +1,10 @@
+patch
+{
+	include "materials/models/tdmcars/shared/skin.vmt"
+	insert
+	{
+		"$basetexturetransform" ""
+		"$basetexture" "models/tdmcars/emergency/for_taurus_13/pittsburgh"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+	}
+}

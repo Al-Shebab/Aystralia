@@ -1,0 +1,8 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lighton.vmt"
+	"insert"
+	{
+		"$nocull" "0"
+	}
+}

@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/bmwm1/interior_lod0"
+		"$detail" "models/tdmcars/bmwm1/interior_emissive"
+		"$alphatest" "0"
+		"$detailscale" "1"
+		"$detailblendfactor" "100"
+		"$detailblendmode" "1"
+	}
+}

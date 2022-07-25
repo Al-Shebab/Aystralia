@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lighton.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/dbs/lights"
+		"$selfillumtint" "[100 10 3]"
+		"$colorfix" "{255 150 100}"
+	}
+}

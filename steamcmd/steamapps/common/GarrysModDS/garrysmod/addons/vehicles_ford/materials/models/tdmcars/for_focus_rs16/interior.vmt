@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/for_focus_rs16/interior"
+		"$bumpmap" "models/tdmcars/for_focus_rs16/interior_nrm"
+	}
+}
+

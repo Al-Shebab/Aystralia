@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_nodamage.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/ford_transit/nodamage"
+		"$alphatest" "0"
+	}
+}

@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/emergency/lightbar/base"
+	"$bumpmap" "models/tdmcars/emergency/lightbar/base_nrm"
+	"$nodecal" "1"
+	"$translucent" 1
+	"$phong" 1
+	"$phongboost" "2"
+	"$phongexponent" 20
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1.0"
+	"$phongfresnelranges" "[0.01 0.2 2.0]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

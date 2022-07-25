@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexturetransform" "center .5 .5 scale 15 10 rotate 0 translate 0 0"
+	"$basetexture" "models/tdmcars/shared/fh3/ptn_fabric_054"
+	"$bumpmap" "models/tdmcars/shared/fh3/ptn_fabric_054_nrml"
+	"$nodecal" "1"
+	"$phong" "1" 
+	"$phongboost" ".2" 
+	"$phongfresnelranges" "[.1 .5 1]" 
+	"$phongexponent" 2
+	"$rimlight" "1"
+	"$rimlightexponent" "100"
+	"$rimlightboost" ".3"
+	"$colorfix" "{110 100 85}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

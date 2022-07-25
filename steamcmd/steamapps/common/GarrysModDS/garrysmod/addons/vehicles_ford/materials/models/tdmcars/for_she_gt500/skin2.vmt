@@ -1,0 +1,13 @@
+patch
+{
+	include "materials/models/tdmcars/shared/skin.vmt"
+	insert
+	{
+		"$basetexturetransform" ""
+		"$basetexture" "models/tdmcars/for_she_gt500/redstripe"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+		"$blendtintbybasealpha" "1"
+		"$normalmapalphaenvmapmask" "1"
+		"$envmaptint" "[1.5 1.5 1.5]"
+	}
+}

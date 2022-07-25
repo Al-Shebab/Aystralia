@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/gt05/lights"
+		"$envmaptint" "{150 75 20}"
+		"$phongtint" "{150 75 20}"
+	}
+}
+

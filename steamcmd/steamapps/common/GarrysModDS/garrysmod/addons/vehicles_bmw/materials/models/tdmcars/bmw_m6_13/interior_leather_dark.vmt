@@ -1,0 +1,8 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/interior_leather_dark.vmt"
+	"insert"
+	{
+		"$colorfix" "{150 150 150}"
+	}
+}

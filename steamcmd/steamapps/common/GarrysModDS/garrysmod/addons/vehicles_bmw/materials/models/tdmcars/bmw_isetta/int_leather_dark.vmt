@@ -1,0 +1,10 @@
+patch
+{
+	include materials/models/tdmcars/shared/fm7/int_leather_dark.vmt
+	insert
+	{
+		"$basetexturetransform" "center .5 .5 scale 80 80 rotate 0 translate 0 0"
+		"$colorfix" "{50 50 60}"
+	}
+}
+

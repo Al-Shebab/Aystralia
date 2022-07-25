@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/raptor/interior_lod0"
+		"$alphatest" "0"
+		"$detail" "models/tdmcars/raptor/interior_emissive"
+		"$detailscale" "1"
+		"$detailblendfactor" "100"
+		"$detailblendmode" "1"
+	}
+}

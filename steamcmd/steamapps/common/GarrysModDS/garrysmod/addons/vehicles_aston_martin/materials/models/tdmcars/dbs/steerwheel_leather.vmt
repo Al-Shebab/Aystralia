@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/shared/skin"
+		"$bumpmap" "models/tdmcars/dbs/steerwheel_nrm"
+		"$colorfix" "{ 50 50 50 }"
+	}
+}
+

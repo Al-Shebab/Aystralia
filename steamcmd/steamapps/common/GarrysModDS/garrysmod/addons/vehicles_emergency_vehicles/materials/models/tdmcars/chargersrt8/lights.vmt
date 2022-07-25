@@ -1,0 +1,15 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/chargersrt8/lights"
+		"$bumpmap" "models/tdmcars/chargersrt8/lights_nrm"
+		"$envmaptint" "[.45 .45 .5]"
+		"$envmapfresnel" "1.7"
+		"$phongfresnelranges" "[.5 2 4]"
+		"$phongboost" "10"
+		"$phongexponent" "150"
+	}
+}
+

@@ -1,0 +1,12 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/skin.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/shared/black"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+		"$phongexponent" "100"
+		"$envmaptint" "[0 0 0]"
+	}
+}
+

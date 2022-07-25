@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/emergency/chargersrt8/hubcap"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+		"$phongexponent" 40
+		"$phongboost" 40
+		"$envmaptint" "[1 1 1]"
+	}
+}
+

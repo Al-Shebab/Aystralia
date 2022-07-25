@@ -1,0 +1,12 @@
+patch
+{
+	include materials/models/tdmcars/shared/fm7/int_fabric_light.vmt
+	insert
+	{
+		"$basetexturetransform" "center .5 .5 scale 2500 2500 rotate 0 translate 0 0"
+		"$basetexture" "models/tdmcars/shared/skin"
+		"$bumpmap" "models/tdmcars/shared/fm7/ptn_leather_032_nrml"
+		"$colorfix" "{110 110 110}"
+	}
+}
+

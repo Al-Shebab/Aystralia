@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/bmw_isetta/bmw_isetta_62_symbols_embossed_diff"
+		"$bumpmap" "models/tdmcars/bmw_isetta/bmw_isetta_62_symbols_embossed_nrml"
+		"$colorfix" "{200 200 200}"
+	}
+}

@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/bmw_1m/lights"
+		"$bumpmap" "models/tdmcars/bmw_1m/lights_nrm"
+		"$translucent" "1"
+	}
+}

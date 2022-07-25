@@ -1,0 +1,12 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/grille.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/for_focus_rs16/grille1"
+		"$bumpmap" "models/tdmcars/for_focus_rs16/grille1_nrm"
+		"$alphatest" "1"
+		"$allowalphatocoverage" "1"
+	}
+}
+

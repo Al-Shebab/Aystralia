@@ -1,0 +1,9 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/coupe40/lights"
+		"$bumpmap" "models/tdmcars/coupe40/lights_nrm"
+	}
+}

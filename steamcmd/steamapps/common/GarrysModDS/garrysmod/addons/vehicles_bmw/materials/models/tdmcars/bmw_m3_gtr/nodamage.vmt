@@ -1,0 +1,8 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_nodamage.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/bmw_m3_gtr/nodamage"
+	}
+}

@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_interior.vmt"
+	"insert"
+	{
+	"$basetexture" "models/tdmcars/shared/skin"
+	"$bumpmap" "models/tdmcars/bmw_340i/flat_nrm"
+	"$colorfix" "{30 30 30}"
+	}
+}

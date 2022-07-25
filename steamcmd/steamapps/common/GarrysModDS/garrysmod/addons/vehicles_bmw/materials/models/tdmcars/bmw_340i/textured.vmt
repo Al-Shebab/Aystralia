@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_wheel.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/bmw_340i/textured"
+		"$bumpmap" "models/tdmcars/bmw_340i/textured_nrm"
+		"$envmaptint" "[1 1 1]"
+		"$colorfix" "{150 150 150}"
+	}
+}

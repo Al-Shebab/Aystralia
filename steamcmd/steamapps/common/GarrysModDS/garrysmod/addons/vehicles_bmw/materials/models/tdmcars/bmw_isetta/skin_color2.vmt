@@ -1,0 +1,8 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/skin.vmt"
+	"insert"
+	{
+	"$color2" "{155 30 15}"
+	}
+}

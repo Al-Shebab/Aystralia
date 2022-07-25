@@ -1,0 +1,11 @@
+patch
+{
+	include "materials/models/tdmcars/shared/skin.vmt"
+	insert
+	{
+		"$basetexturetransform" ""
+		"$basetexture" "models/tdmcars/emergency/chargersrt8/lapd"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+		"$phongexponent" "150"
+	}
+}

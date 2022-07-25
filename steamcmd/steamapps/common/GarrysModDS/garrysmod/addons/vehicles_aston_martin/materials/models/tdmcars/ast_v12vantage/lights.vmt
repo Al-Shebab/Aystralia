@@ -1,0 +1,10 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/base_lights.vmt"
+	"insert"
+	{
+		"$basetexture" "models/tdmcars/ast_v12vantage/lights"
+		"$bumpmap" "models/tdmcars/ast_v12vantage/lights_nrm"
+	}
+}
+

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include" "materials/models/tdmcars/shared/skin.vmt"
+	"insert"
+	{
+		"$basetexturetransform" ""
+		"$basetexture" "models/tdmcars/raptor/skin1"
+		"$bumpmap" "models/tdmcars/shared/skin_nm"
+		"$blendtintbybasealpha" "1"
+	}
+}
