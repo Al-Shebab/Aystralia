@@ -3,6 +3,7 @@
 *.gma
 *.db
 *.manifest
+*.dll
 steamcmd/steamapps/common/GarrysModDS/logs/*
 steamcmd/steamapps/common/GarrysModDS/garrysmod/logs/*
 steamcmd/steamapps/common/GarrysModDS/garrysmod/data/ulx_logs/*
@@ -15,3 +16,5 @@ steamcmd/steamapps/common/GarrysModDS/steam_cache/content/4000/*
 steamcmd/steamapps/common/GarrysModDS/garrysmod/modelsounds.cache
 steamcmd/steamapps/common/GarrysModDS/garrysmod/clientside_errors.txt
 steamcmd/steamapps/common/GarrysModDS/garrysmod/data/ulib/users.txt
+
+steamcmd/steamapps/common/GarrysModDS/bin/libcef.dll

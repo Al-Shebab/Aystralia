@@ -22,7 +22,7 @@ function ENT:SetupDataTables()
 	self:NetworkVar( "Vector", 0, "BallColor", { KeyName = "ballcolor", Edit = { type = "VectorColor", order = 2 } } )
 
 	if ( SERVER ) then
-		self:NetworkVarNotify( "BallSize", self.OnBallSizeChanged )
+	self:NetworkVarNotify( "BallSize", self.OnBallSizeChanged )
 	end
 
 end
@@ -84,10 +84,6 @@ end
 
 function ENT:RebuildPhysics( value )
 
-	-- This is necessary so that the vphysics.dll will not crash when attaching constraints to the new PhysObj after old one was destroyed
-	-- TODO: Somehow figure out why it happens and/or move this code/fix to the constraint library
-	self.ConstraintSystem = nil
-
 	local size = math.Clamp( value or self:GetBallSize(), self.MinSize, self.MaxSize ) / 2.1
 	self:PhysicsInitSphere( size, "metal_bouncy" )
 	self:SetCollisionBounds( Vector( -size, -size, -size ), Vector( size, size, size ) )
@@ -97,14 +93,14 @@ function ENT:RebuildPhysics( value )
 end
 
 if ( SERVER ) then
-	function ENT:OnBallSizeChanged( varname, oldvalue, newvalue )
+function ENT:OnBallSizeChanged( varname, oldvalue, newvalue )
 
-		-- Do not rebuild if the size wasn't changed
-		if ( oldvalue == newvalue ) then return end
+	-- Do not rebuild if the size wasn't changed
+	if ( oldvalue == newvalue ) then return end
 
-		self:RebuildPhysics( newvalue )
+	self:RebuildPhysics( newvalue )
 
-	end
+end
 end
 
 local BounceSound = Sound( "garrysmod/balloon_pop_cute.wav" )

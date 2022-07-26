@@ -2,21 +2,21 @@
 {
 	"appid"		"4020"
 	"Universe"		"1"
-	"LauncherPath"		"C:\\Users\\kazza\\Desktop\\Garry's Mod\\Garry's Mod\\steamcmd.exe"
+	"LauncherPath"		"C:\\Users\\kazza\\Desktop\\Garry's Mod\\steamcmd\\steamcmd.exe"
 	"name"		"Garry's Mod Dedicated Server"
 	"StateFlags"		"4"
 	"installdir"		"GarrysModDS"
-	"LastUpdated"		"1657330024"
-	"SizeOnDisk"		"3960384405"
+	"LastUpdated"		"1658846787"
+	"SizeOnDisk"		"4175728071"
 	"StagingSize"		"0"
-	"buildid"		"8912326"
-	"LastOwner"		"76561199627512156"
+	"buildid"		"9114707"
+	"LastOwner"		"76561198917171220"
 	"UpdateResult"		"0"
-	"BytesToDownload"		"2213553504"
-	"BytesDownloaded"		"2213553504"
-	"BytesToStage"		"3960384405"
-	"BytesStaged"		"3960384405"
-	"TargetBuildID"		"8912326"
+	"BytesToDownload"		"178594368"
+	"BytesDownloaded"		"178594368"
+	"BytesToStage"		"922477609"
+	"BytesStaged"		"922477609"
+	"TargetBuildID"		"9114707"
 	"AutoUpdateBehavior"		"0"
 	"AllowOtherDownloadsWhileRunning"		"0"
 	"ScheduledAutoUpdate"		"0"
@@ -29,19 +29,21 @@
 		}
 		"4021"
 		{
-			"manifest"		"8724455253204613083"
-			"size"		"3709422412"
+			"manifest"		"7515413345903922942"
+			"size"		"3678536590"
 		}
 		"4022"
 		{
-			"manifest"		"4396787182808070063"
-			"size"		"208875361"
+			"manifest"		"2311366981607999478"
+			"size"		"455104849"
 		}
 	}
 	"UserConfig"
 	{
+		"betakey"		"x86-64"
 	}
 	"MountedConfig"
 	{
+		"betakey"		"x86-64"
 	}
 }

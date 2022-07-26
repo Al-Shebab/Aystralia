@@ -4,9 +4,7 @@
 	{
 		"Servers"
 		{
-			"dll"		"ServerBrowser.dll"
-			"dll_osx"	"ServerBrowser.dylib"
-			"dll_linux"	"ServerBrowser.so"
+			"dll"		"ServerBrowser"
 			"interface"	"VGuiModuleServerBrowser001"
 			"MenuName"	"Servers"
 		}

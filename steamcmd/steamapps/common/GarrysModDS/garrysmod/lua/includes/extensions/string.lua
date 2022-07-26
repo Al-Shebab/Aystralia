@@ -30,7 +30,10 @@ local javascript_escape_replacements = {
 	["\r"] = "\\r" ,
 	["\""] = "\\\"",
 	["\'"] = "\\\'",
-	["`"] = "\\`"
+	["`"] = "\\`",
+	["$"] = "\\$",
+	["{"] = "\\{",
+	["}"] = "\\}"
 }
 
 function string.JavascriptSafe( str )
