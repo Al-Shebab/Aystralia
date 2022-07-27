@@ -1,0 +1,7 @@
+2022-07-27 23.08.32: <General> Logging started, map: rp_downtown_tits_v2.
+2022-07-27 23.08.32: <General> Welcome to VCMod Auto-Updater version 9.65.
+2022-07-27 23.08.32: <General> Pre-initialization complete, preparing to load addon data.
+2022-07-27 23.08.32: <General> Addons found: VCMod Main.
+2022-07-27 23.09.48: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2022-07-27 23.10.07: <General> Preparations are complete, handshaking API.
+2022-07-27 23.11.34: <General> Player Al Shebab has loaded and is waiting for a temp-key.

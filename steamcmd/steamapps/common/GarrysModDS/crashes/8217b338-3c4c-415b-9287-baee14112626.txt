@@ -1,0 +1,29 @@
+Executable: C:\Users\kazza\Desktop\Garry's Mod\steamcmd\steamapps\common\GarrysModDS\srcds_win64.exe
+
+-Lua Stack Traces-
+==================
+  Client
+    Lua Interface = NULL
+
+  Server
+    0. BlastDamage - [C]:-1
+      1. Explosion - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:114
+        2. (null) - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:84
+          3. BlastDamage - [C]:-1
+            4. Explosion - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:114
+              5. (null) - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:84
+                6. BlastDamage - [C]:-1
+                  7. Explosion - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:114
+                    8. (null) - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:84
+                      9. BlastDamage - [C]:-1
+                        10. Explosion - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:114
+                          11. (null) - addons/m9k_specialties/lua/entities/m9k_ammo_proxmines/shared.lua:84
+                            12. BlastDamage - [C]:-1
+                              13. Explosion - addons/m9k_specialties/lua/entities/m9k_proxy/shared.lua:81
+                                14. (null) - addons/m9k_specialties/lua/entities/m9k_proxy/shared.lua:114
+                                  15. BlastDamage - [C]:-1
+                                    16. Explosion - addons/m9k_specialties/lua/entities/m9k_proxy/shared.lua:81
+
+  MenuSystem
+    Lua Interface = NULL
+

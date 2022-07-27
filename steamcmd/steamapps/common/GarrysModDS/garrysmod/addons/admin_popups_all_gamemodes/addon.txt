@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Admin Popups"
+	"version"	"2.0.4"
+	"up_date"	"2022"
+	"author_name"	"Jacob & Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+	"info"		"Admin Popups is a light weight solution to handle admin reports with ease. It creates reports for any admin chat report (default @) and shows the cases to all admins online. Administrators can claim reports and perform various actions through the menu."
+}
