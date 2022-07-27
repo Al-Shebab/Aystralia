@@ -18,28 +18,28 @@ local function AddOilSource(data) return table.insert(zrush.Holes, data) end
 
 AddOilSource({
     chance = 50,
-    depth = 25,
-    burnchance = 50,
-    oil_amount = math.Round(math.random(300, 1000)),
+    depth = math.Round(math.random(25, 30)),
+    burnchance = 10,
+    oil_amount = math.Round(math.random(500, 1000)),
     gas_amount = math.Round(math.random(100, 500)),
     chaos_chance = 5
 })
 
 AddOilSource({
     chance = 30,
-    depth = 40,
-    burnchance = 50,
-    oil_amount = math.Round(math.random(600, 2000)),
+    depth = math.Round(math.random(30, 35)),
+    burnchance = 5,
+    oil_amount = math.Round(math.random(1500, 2000)),
     gas_amount = math.Round(math.random(500, 800)),
     chaos_chance = 10
 })
 
 AddOilSource({
     chance = 20,
-    depth = 45,
-    burnchance = 75,
-    oil_amount = math.Round(math.random(1500, 4000)),
+    depth = math.Round(math.random(35, 45)),
+    burnchance = 5,
+    oil_amount = math.Round(math.random(3000, 4000)),
     gas_amount = math.Round(math.random(500, 1000)),
-    chaos_chance = 20
+    chaos_chance = 10
 })
 ///////////////////////

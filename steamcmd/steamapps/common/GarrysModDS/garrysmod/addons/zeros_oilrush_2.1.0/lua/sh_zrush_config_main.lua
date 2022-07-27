@@ -88,7 +88,7 @@ zrush.config.Damageable = {
 zrush.config.Barrel = {
 
 	// How much liquid can a barrel store
-	Storage = 160,
+	Storage = 240,
 
 	// If enabled this checks if the player has the correct rank to pickup the FuelBarrel
 	Rank_PickUpCheck = true,
@@ -103,7 +103,7 @@ zrush.config.Player = {
 	DropFuelOnDeath = true,
 
 	// How many acitve drillholes is the player allowed do have?
-	MaxActiveDrillHoles = 3,
+	MaxActiveDrillHoles = 5,
 
 	// How many barrels can the player transport in his inventory?
 	FuelInvSize = 10
@@ -113,7 +113,7 @@ zrush.config.Player = {
 // The chance of a machine getting hit by a chaos event can be reduced by the correct boost models
 zrush.config.ChaosEvents = {
 	// How often should we try to send chaos events to the machine
-	Interval = 60,
+	Interval = 240,
 
 	// How long till a machine can receive a chaos event again
 	Cooldown = 300,
@@ -123,14 +123,14 @@ zrush.config.ChaosEvents = {
 zrush.config.MachineBuilder = {
 
 	// The money you get when you sell your machines or modules again
-	SellValue = 0.5, // You get 50% of the original price
+	SellValue = 0.75, // You get 50% of the original price
 }
 
 // The Palette entity can be used if zrush.config.FuelBuyer.SellMode is set to 2
 zrush.config.Palette = {
 	// How many Barrels can fit on the palette?
 	// If its higher then 8 then the barrels will be shrink down a bit to still fit on the palette
-	Capacity = 18,
+	Capacity = 24,
 }
 
 // The Fuel Buyer data
@@ -176,13 +176,13 @@ zrush.config.OilSpot = {
 
 zrush.config.OilSpot_Zone = {
 	// The rate in seconds the zone tries do spawn a new OilSpot if possible
-	Rate = 3,
+	Rate = 10,
 
 	// The Max count of valid oilspots a zone can have
-	MaxOilSpots = 3,
+	MaxOilSpots = 10,
 
 	// This is the max time in seconds a oilspot is gonna wait before it gets removed again if its not used by a Player
-	MaxLifeTime = 1000,
+	MaxLifeTime = 6000,
 }
 ///////////////////////
 

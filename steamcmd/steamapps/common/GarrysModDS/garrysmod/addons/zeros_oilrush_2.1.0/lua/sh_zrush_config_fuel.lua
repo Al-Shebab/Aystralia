@@ -18,7 +18,6 @@ local function AddFuel(data) return table.insert(zrush.FuelTypes, data) end
 
 
 local vip_ranks = {
-	["VIP"] = true,
 	["superadmin"] = true
 }
 
@@ -27,14 +26,11 @@ AddFuel({
 	color = Color(211,190,255),
 	vcmodfuel = 0,
 	refineoutput = 0.55,
-	price = 15,
+	price = 24,
 	ranks = {},
-	/*
 	jobs = {
 		["Fuel Refiner"] = true,
-		["Gangster"] = true,
 	}
-	*/
 })
 
 AddFuel({
@@ -42,9 +38,11 @@ AddFuel({
 	color = Color(255,236,110),
 	vcmodfuel = 0,
 	refineoutput = 0.25,
-	price = 125,
+	price = 151,
 	ranks = {},
-	jobs = {}
+	jobs = {
+		["Fuel Refiner"] = true,
+	}
 })
 
 AddFuel({
@@ -52,9 +50,11 @@ AddFuel({
 	color = Color(211,255,149),
 	vcmodfuel = 0,
 	refineoutput = 0.1,
-	price = 2400,
-	ranks = vip_ranks,
-	jobs = {}
+	price = 2723,
+	ranks = {},
+	jobs = {
+		["Fuel Refiner"] = true,
+	}
 })
 
 
@@ -64,9 +64,11 @@ AddFuel({
 	color = Color(255,227,190),
 	vcmodfuel = 1,
 	refineoutput = 0.55,
-	price = 20,
+	price = 32,
 	ranks = {},
-	jobs = {}
+	jobs = {
+		["Fuel Refiner"] = true,
+	}
 })
 
 AddFuel({
@@ -74,9 +76,11 @@ AddFuel({
 	color = Color(248,154,53),
 	vcmodfuel = 1,
 	refineoutput = 0.25,
-	price = 150,
+	price = 183,
 	ranks = {},
-	jobs = {}
+	jobs = {
+		["Fuel Refiner"] = true,
+	}
 })
 
 AddFuel({
@@ -84,8 +88,10 @@ AddFuel({
 	color = Color(255,68,31),
 	vcmodfuel = 1,
 	refineoutput = 0.1,
-	price = 2500,
-	ranks = vip_ranks,
-	jobs = {}
+	price = 2945,
+	ranks = {},
+	jobs = {
+		["Fuel Refiner"] = true,
+	}
 })
 ///////////////////////
