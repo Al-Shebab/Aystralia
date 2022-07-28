@@ -17,8 +17,8 @@ CH_ATM.Config.ATMCurrency = "darkrp" -- What gamemode/currency do you want to st
 CH_ATM.Config.NotificationTime = 0 -- Amount of seconds to show notifications
 CH_ATM.Config.DistanceToScreen3D2D = 5000 -- Distance between the player and the 3d2d to draw
 
-CH_ATM.Config.WalletLooseOnDeathPercentage = 100 -- How many percetange of the players wallet to loose on death (not bank account)? Set to 0 to disable.
-CH_ATM.Config.MaximumToLooseOnDeath = 1000000000000 -- How much money can a player maximum loose on death?
+CH_ATM.Config.WalletLooseOnDeathPercentage = 10 -- How many percetange of the players wallet to loose on death (not bank account)? Set to 0 to disable.
+CH_ATM.Config.MaximumToLooseOnDeath = 10000000 -- How much money can a player maximum loose on death?
 CH_ATM.Config.DropMoneyOnDeath = true -- Should the money lost be dropped on death? If true it will drop, if false they will just vanish.
 
 CH_ATM.Config.ReplaceATMPropsOnMap = true -- Should we try to replace static ATM props with interactive ATM entities? Only works on some maps.
@@ -49,7 +49,7 @@ CH_ATM.Config.OnlyOwnerCanTakeMoney = false -- Should we only allow the person t
 
 CH_ATM.Config.AllowKeyboardInputForKeypad = true -- Should the user be able to use their keyboard to input numbers/actions when the keypad is active?
 
-CH_ATM.Config.PayoutMoneyToWalletIfMax = false -- If player receives money, but his bank reaches maximum then we can pay out the money to his wallet?
+CH_ATM.Config.PayoutMoneyToWalletIfMax = true -- If player receives money, but his bank reaches maximum then we can pay out the money to his wallet?
 
 --[[
 	ATM Color Config
