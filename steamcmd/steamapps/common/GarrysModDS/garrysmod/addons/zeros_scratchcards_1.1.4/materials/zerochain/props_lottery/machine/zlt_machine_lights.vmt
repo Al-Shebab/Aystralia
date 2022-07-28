@@ -1,0 +1,22 @@
+"MonitorScreen"
+{
+	//"$color2" "[1 0 0]"
+
+	"$baseTexture"			"zerochain/props_lottery/machine/zlt_machine_lights"
+	"$surfaceprop" "Glass"
+	"$model" 1
+
+	"$alphatest"			1
+	$additive 1
+	
+	"$offset" "0"	
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "10"
+		}
+	}
+}

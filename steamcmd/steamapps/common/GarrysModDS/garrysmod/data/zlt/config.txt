@@ -1,0 +1,425 @@
+[
+	{
+		"scratch_url": "3CchPAs",
+		"price": 100.0,
+		"scratch_outline_type": "border01",
+		"bg_url": "6lLkTrz",
+		"prizelist": [
+			{
+				"type": 1.0,
+				"final_chance": 63.0,
+				"chance": 10.0
+			},
+			{
+				"type": 2.0,
+				"money": 50.0,
+				"final_chance": 31.0,
+				"chance": 5.0
+			},
+			{
+				"type": 2.0,
+				"money": 100.0,
+				"final_chance": 6.0,
+				"chance": 1.0
+			}
+		],
+		"logo_scale_w": 0.2,
+		"logo_scale_h": 0.2,
+		"scratch_outline_col": {
+			"r": 242.0,
+			"b": 5.0,
+			"a": 255.0,
+			"g": 116.0
+		},
+		"title_val": "Golden shower",
+		"logo_url": "1XlfMZP",
+		"title_y": 1.0,
+		"logo_x": 0.11,
+		"logo_y": 0.92,
+		"title_x": 1.0,
+		"uniqueid": "a6bb3f1f82"
+	},
+	{
+		"scratch_url": "4H154Ky",
+		"price": 100.0,
+		"scratch_outline_type": "border01",
+		"bg_url": "GmZHibG",
+		"prizelist": [
+			{
+				"type": 1.0,
+				"final_chance": 63.0,
+				"chance": 10.0
+			},
+			{
+				"type": 2.0,
+				"money": 50.0,
+				"final_chance": 31.0,
+				"chance": 5.0
+			},
+			{
+				"type": 2.0,
+				"money": 100.0,
+				"final_chance": 6.0,
+				"chance": 1.0
+			}
+		],
+		"logo_scale_w": 0.2,
+		"logo_scale_h": 0.2,
+		"scratch_outline_col": {
+			"r": 255.0,
+			"b": 37.0,
+			"a": 255.0,
+			"g": 29.0
+		},
+		"title_val": "Cash Factory",
+		"logo_url": "1XlfMZP",
+		"title_y": 1.0,
+		"logo_x": 0.11,
+		"logo_y": 0.92,
+		"title_x": 1.0,
+		"uniqueid": "e29ffaabc7"
+	},
+	{
+		"scratch_url": "czu8vJR",
+		"price": 100.0,
+		"scratch_outline_type": "border04",
+		"title_x": 1.0,
+		"uniqueid": "360400a9cd",
+		"logo_scale_h": 0.2,
+		"bg_url": "fXy8Ea0",
+		"title_val": "Crazy Crystalls",
+		"logo_url": "1XlfMZP",
+		"title_y": 1.0,
+		"logo_x": 0.11,
+		"logo_y": 0.92,
+		"logo_scale_w": 0.2,
+		"prizelist": [
+			{
+				"type": 1.0,
+				"final_chance": 63.0,
+				"chance": 10.0
+			},
+			{
+				"type": 2.0,
+				"money": 50.0,
+				"final_chance": 31.0,
+				"chance": 5.0
+			},
+			{
+				"type": 2.0,
+				"money": 100.0,
+				"final_chance": 6.0,
+				"chance": 1.0
+			}
+		]
+	},
+	{
+		"scratch_url": "Voh7Apg",
+		"price": 100.0,
+		"scratch_outline_type": "border01",
+		"bg_url": "41z20bv",
+		"prizelist": [
+			{
+				"type": 1.0,
+				"final_chance": 63.0,
+				"chance": 10.0
+			},
+			{
+				"type": 2.0,
+				"money": 50.0,
+				"final_chance": 31.0,
+				"chance": 5.0
+			},
+			{
+				"type": 2.0,
+				"money": 100.0,
+				"final_chance": 6.0,
+				"chance": 1.0
+			}
+		],
+		"logo_scale_w": 0.2,
+		"logo_scale_h": 0.2,
+		"scratch_outline_col": {
+			"r": 110.0,
+			"b": 109.0,
+			"a": 255.0,
+			"g": 133.0
+		},
+		"title_val": "OG Cash",
+		"logo_url": "1XlfMZP",
+		"title_y": 1.0,
+		"logo_x": 0.11,
+		"logo_y": 0.92,
+		"title_x": 1.0,
+		"uniqueid": "361400a9cd"
+	},
+	{
+		"logo_url": "idt25DI",
+		"title_font": "zlt_ticket_title01",
+		"bg_url": "",
+		"uniqueid": "8d487ec106",
+		"logo_scale_h": 0.2,
+		"bg_scale_w": 0.5,
+		"symbol_rot": 0.0,
+		"logo_y": 0.87,
+		"scratch_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"bg_scale_h": 0.5,
+		"scratch_url": "3CchPAs",
+		"bg_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"desc_val": "",
+		"symbol_y": 0.4,
+		"title_color": {
+			"r": 227.0,
+			"b": 58.0,
+			"a": 255.0,
+			"g": 154.0
+		},
+		"title_val": "SUPER\nCASH",
+		"desc_color": {
+			"r": 0.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 0.0
+		},
+		"price_bg_col": {
+			"r": 0.0,
+			"b": 0.0,
+			"a": 100.0,
+			"g": 0.0
+		},
+		"title_aligncenter": 1.0,
+		"symbol_col": {
+			"r": 0.0,
+			"b": 0.0,
+			"a": 100.0,
+			"g": 0.0
+		},
+		"color": {
+			"r": 166.0,
+			"b": 39.0,
+			"a": 255.0,
+			"g": 39.0
+		},
+		"title_x": 0.25,
+		"prizelist": [
+			{
+				"type": 1.0,
+				"final_chance": 45.45,
+				"chance": 50.0
+			},
+			{
+				"type": 2.0,
+				"money": 10.0,
+				"final_chance": 45.45,
+				"chance": 50.0
+			},
+			{
+				"type": 2.0,
+				"final_chance": 9.09,
+				"chance": 10.0
+			}
+		],
+		"bg_y": 0.5,
+		"desc_aligncenter": 2.0,
+		"scratch_bg_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"price_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"scratch_y": 0.0,
+		"logo_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"logo_scale_w": 0.1,
+		"scratch_scale": 1.0,
+		"logo_x": 0.07,
+		"symbol_scale_w": 0.39,
+		"symbol_x": 0.28,
+		"symbol_scale_h": 0.44,
+		"logo_rot": 0.0,
+		"title_y": 0.24,
+		"scratch_outline_type": "border01",
+		"desc_x": 0.98,
+		"scratch_outline_col": {
+			"r": 227.0,
+			"b": 58.0,
+			"a": 255.0,
+			"g": 154.0
+		},
+		"scratch_x": 0.0,
+		"bg_rot": 0.0,
+		"desc_y": 0.9,
+		"price": 10.0,
+		"bg_x": 0.5,
+		"symbol_url": "ZQmqdyX"
+	},
+	{
+		"logo_url": "RCYdZo8",
+		"title_font": "zlt_ticket_title01",
+		"bg_url": "",
+		"uniqueid": "a9d7d0e27f",
+		"logo_scale_h": 0.2,
+		"bg_scale_w": 0.5,
+		"symbol_rot": 0.0,
+		"logo_y": 0.87,
+		"scratch_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"bg_scale_h": 0.5,
+		"scratch_url": "RCYdZo8",
+		"bg_col": {
+			"r": 255.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 0.0
+		},
+		"desc_val": "Everyone's a winner!",
+		"symbol_y": 0.4,
+		"title_color": {
+			"r": 0.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 212.0
+		},
+		"title_val": "Jackpot\nEverytime",
+		"desc_color": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"price_bg_col": {
+			"r": 0.0,
+			"b": 0.0,
+			"a": 100.0,
+			"g": 0.0
+		},
+		"title_aligncenter": 1.0,
+		"symbol_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 100.0,
+			"g": 255.0
+		},
+		"color": {
+			"r": 0.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 80.0
+		},
+		"title_x": 0.25,
+		"prizelist": [
+			{
+				"icon": {
+					"icon_stencil": true
+				},
+				"chance": 10.0,
+				"type": 2.0,
+				"money": 1000000.0,
+				"final_chance": 14.29
+			},
+			{
+				"type": 2.0,
+				"money": 100000.0,
+				"final_chance": 14.29,
+				"chance": 10.0
+			},
+			{
+				"type": 2.0,
+				"money": 10000000.0,
+				"final_chance": 14.29,
+				"chance": 10.0
+			},
+			{
+				"chance": 10.0,
+				"type": 4.0,
+				"class": "m9k_ak47",
+				"name": "AK-47",
+				"final_chance": 14.29
+			},
+			{
+				"type": 2.0,
+				"money": 1000000000.0,
+				"final_chance": 14.29,
+				"chance": 10.0
+			},
+			{
+				"type": 2.0,
+				"money": 10000000000.0,
+				"final_chance": 14.29,
+				"chance": 10.0
+			},
+			{
+				"type": 1.0,
+				"final_chance": 14.29,
+				"chance": 10.0
+			}
+		],
+		"bg_y": 0.5,
+		"desc_aligncenter": 2.0,
+		"scratch_bg_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"price_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"scratch_y": 0.0,
+		"logo_col": {
+			"r": 255.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 255.0
+		},
+		"symbol_url": "RCYdZo8",
+		"scratch_scale": 1.0,
+		"logo_x": 0.07,
+		"symbol_scale_w": 0.39,
+		"price": 10000.0,
+		"symbol_scale_h": 0.44,
+		"logo_rot": 0.0,
+		"bg_rot": 0.0,
+		"scratch_x": 0.0,
+		"desc_x": 0.98,
+		"scratch_outline_col": {
+			"r": 0.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 0.0
+		},
+		"scratch_outline_type": "border01",
+		"title_y": 0.24,
+		"desc_y": 0.9,
+		"symbol_x": 0.28,
+		"bg_x": 0.5,
+		"logo_scale_w": 0.1
+	}
+]

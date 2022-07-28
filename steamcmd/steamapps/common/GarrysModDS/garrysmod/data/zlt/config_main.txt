@@ -1,0 +1,16 @@
+{
+	"Currency": "$",
+	"AdminRanks": {
+		"superadmin": true
+	},
+	"Fonts": [
+		"Gecko Lunch",
+		"Budmo Jiggler",
+		"Gunplay"
+	],
+	"SelectedLanguage": "en",
+	"AutoPickup": true,
+	"InstantUse": false,
+	"Debug": false,
+	"CurrencyInvert": true
+}

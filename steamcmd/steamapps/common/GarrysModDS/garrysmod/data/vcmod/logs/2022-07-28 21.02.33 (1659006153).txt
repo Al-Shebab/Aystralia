@@ -1,0 +1,10 @@
+2022-07-28 21.02.33: <General> Logging started, map: rp_downtown_tits_v2.
+2022-07-28 21.02.33: <General> Welcome to VCMod Auto-Updater version 9.65.
+2022-07-28 21.02.33: <General> Pre-initialization complete, preparing to load addon data.
+2022-07-28 21.02.33: <General> Addons found: VCMod Main.
+2022-07-28 21.03.51: <General> Preparations started. Server needs to have atleast one player on it for preparations to continue.
+2022-07-28 21.04.10: <General> Preparations are complete, handshaking API.
+2022-07-28 21.09.56: <General> Player Al Shebab has loaded and is waiting for a temp-key.
+2022-07-28 21.11.08: <General> Player Edgar Allan Cartman has loaded and is waiting for a temp-key.
+2022-07-28 21.15.02: <General> Player Edgar Allan Cartman has loaded and is waiting for a temp-key.
+2022-07-28 22.30.08: <General> Player binchicken has loaded and is waiting for a temp-key.

@@ -62,7 +62,7 @@ GM.Config.customjobs                    = false
 -- customspawns - Enable/disable whether custom spawns should be used.
 GM.Config.customspawns                  = true
 -- deathblack - Whether or not a player sees black on death.
-GM.Config.deathblack                    = true
+GM.Config.deathblack                    = false
 -- showdeaths - Display kill information in the upper right corner of everyone's screen.
 GM.Config.showdeaths                    = true
 -- deadtalk - Enable/disable whether people talk and use commands while dead.
@@ -78,7 +78,7 @@ GM.Config.disallowClientsideScripts     = true
 -- doorwarrants - Enable/disable Warrant requirement to enter property.
 GM.Config.doorwarrants                  = true
 -- dropmoneyondeath - Enable/disable whether people drop money on death.
-GM.Config.dropmoneyondeath              = true
+GM.Config.dropmoneyondeath              = false
 -- droppocketarrest - Enable/disable whether people drop the stuff in their pockets when they get arrested.
 GM.Config.droppocketarrest              = true
 -- droppocketdeath - Enable/disable whether people drop the stuff in their pockets when they die.
@@ -364,6 +364,7 @@ GM.Config.DisallowDrop = {
 -- The list of weapons people spawn with.
 GM.Config.DefaultWeapons = {
     "weapon_empty_hands",
+    "weapon_ch_atm_card",
     "keys",
     "weapon_physcannon",
     "weapon_fists",

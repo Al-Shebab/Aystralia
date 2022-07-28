@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_lottery/ticket/zlt_ticket_diff"
+	"$bumpmap"  			"zerochain/props_lottery/ticket/zlt_ticket_nrm"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$halflambert" 1
+	"$nocull" 1
+	
+	"$normalmapalphaenvmapmask" "1"	
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" "1"
+	"$envmapfresnel" "3"
+	"$envmapfresnelminmaxexp" "[1 2 3]"
+	"$fresnelreflection" 25
+
+	$phong 1
+	$phongexponent 75
+	$phongfresnelranges "[1 1 1]"
+	$phongtint "[1 1 1]"
+	$phongboost 0.5
+
+	$rimlight               1
+	$rimlightexponent      1
+	$rimlightboost         10
+}

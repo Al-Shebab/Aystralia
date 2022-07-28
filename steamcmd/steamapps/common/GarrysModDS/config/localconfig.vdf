@@ -9,7 +9,7 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1658544165"
+					"Expires"		"1659603641"
 				}
 				"f3b7q2p3.ssl.hwcdn.net"
 				{
@@ -25,6 +25,11 @@
 				{
 					"token"		""
 					"Expires"		"1658045717"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1659603641"
 				}
 			}
 		}

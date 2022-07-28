@@ -1,0 +1,38 @@
+[
+	{
+		"ang": "{0.0001 -0.0001 0}",
+		"pos": "[-3303.9612 -1402.9165 -195.5002]",
+		"mdata": {
+			"Paint": "[1 1 1]",
+			"LogoScaleW": 1.0,
+			"Slot04": "361400a9cd",
+			"Logo": "",
+			"LogoPosY": 0.5,
+			"Light": "[1 1 1]",
+			"LogoScaleH": 1.0,
+			"Slot03": "360400a9cd",
+			"LogoPosX": 0.5,
+			"Slot01": "a6bb3f1f82",
+			"Slot02": "e29ffaabc7"
+		},
+		"class": "zlt_machine"
+	},
+	{
+		"ang": "{-0.0103 -0.0266 0.0963}",
+		"pos": "[-3303.957 -1337.7535 -195.5264]",
+		"mdata": {
+			"Paint": "[1 1 1]",
+			"LogoScaleW": 1.0,
+			"Slot04": "e29ffaabc7",
+			"Logo": "",
+			"LogoPosY": 0.5,
+			"Light": "[1 1 1]",
+			"LogoScaleH": 1.0,
+			"Slot03": "360400a9cd",
+			"LogoPosX": 0.5,
+			"Slot01": "8d487ec106",
+			"Slot02": "361400a9cd"
+		},
+		"class": "zlt_machine"
+	}
+]

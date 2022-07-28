@@ -1,9 +1,0 @@
-"AddonInfo"
-{
-	"name"		"Supply Crate Robbery"
-	"version"	"1.0.0"
-	"up_date"	"2019"
-	"author_name"	"Crap-Head"
-	"author_url"	"https://www.gmodstore.com/users/crap-head"
-	"info"		"A supply crate can be robbed by players and spawn shipments, ammo packages and money. Players must stay alive and survive police until the countdown runs out and crate opens."
-}

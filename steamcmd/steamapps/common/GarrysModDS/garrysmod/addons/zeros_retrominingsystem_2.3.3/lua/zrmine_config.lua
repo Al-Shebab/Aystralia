@@ -65,13 +65,13 @@ zrmine.config.SharedOwnership = false
 // The Damage the entitys have do take before they get destroyed.
 // Setting it to -1 disables it
 zrmine.config.Damageable = {}
-zrmine.config.Damageable["MineEntrance"] = {EntityHealth = 1000}
-zrmine.config.Damageable["Melter"] = {EntityHealth = 500}
-zrmine.config.Damageable["Crusher"] = {EntityHealth = 300}
-zrmine.config.Damageable["Refinery"] = {EntityHealth = 300}
-zrmine.config.Damageable["Conveyorbelt"] = {EntityHealth = 200}
-zrmine.config.Damageable["Splitter"] = {EntityHealth = 200}
-zrmine.config.Damageable["Sorter"] = {EntityHealth = 200}
+zrmine.config.Damageable["MineEntrance"] = {EntityHealth = -1}
+zrmine.config.Damageable["Melter"] = {EntityHealth = -1}
+zrmine.config.Damageable["Crusher"] = {EntityHealth = -1}
+zrmine.config.Damageable["Refinery"] = {EntityHealth = -1}
+zrmine.config.Damageable["Conveyorbelt"] = {EntityHealth = -1}
+zrmine.config.Damageable["Splitter"] = {EntityHealth = -1}
+zrmine.config.Damageable["Sorter"] = {EntityHealth = -1}
 
 // Some debug information
 zrmine.config.debug = false
@@ -88,7 +88,7 @@ zrmine.config.BuilderSWEP = {
 	},
 
 	// The money the player receives if he deconstructs a entity
-	refund_val = 0.5, // 1 = Full , 0.5 = half, 0 = no money back
+	refund_val = 0.75, // 1 = Full , 0.5 = half, 0 = no money back
 
 	// The entity price
 	entity_price = {
@@ -246,7 +246,7 @@ zrmine.config.StorageCrateFull = false
 zrmine.config.MetalBar_Stealing = {
 
 	// Can other Players steal the Bars or the storagecrate?
-	Enabled = false,
+	Enabled = true,
 
 	// These Jobs can steal metalbars and storagecrates. (Leave empty to allow everyone to steal)
 	// You probably also want to add the job names to zrmine.config.Jobs so these Jobs can also sell the metal bars
@@ -301,7 +301,7 @@ zrmine.config.Resource_DespawnTime = 200
 zrmine.config.Ore_Refresh = true
 
 // How often do we want do refresh the ore spawns?
-zrmine.config.Ore_Refreshrate = 15
+zrmine.config.Ore_Refreshrate = 120
 
 // How much gets refreshed?
 zrmine.config.Ore_RefreshAmount = 200 //kg
